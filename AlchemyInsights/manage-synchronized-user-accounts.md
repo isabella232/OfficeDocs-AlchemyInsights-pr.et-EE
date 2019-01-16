@@ -1,0 +1,25 @@
+---
+title: Sünkroonitud kasutaja kontode haldamine
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 3/20/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
+ms.openlocfilehash: 04668cf66421c7c24495ba22444e2f8859b1edcd
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: et-EE
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28285833"
+---
+# <a name="manage-synchronized-user-accounts"></a>Sünkroonitud kasutaja kontode haldamine
+
+Tavaliselt kasutatakse Office 365 halduskeskuse kaudu lisada ja muuta kasutajakontosid. Siiski ei saa seda kasutada kui kataloog sychronization või SSO. Selle asemel, hallata kasutajate Windows PowerShelli abil kirjeldatud [konfigureerimine kasutaja konto atribuutide Office 365 PowerShelli abil](https://docs.microsoft.com/en-us/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
+  
+
