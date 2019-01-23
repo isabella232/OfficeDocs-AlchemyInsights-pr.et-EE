@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: et-EE
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383237"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Kasutajate kustutamine](/AlchemyInsights/deleting-users) | muudetud |
 | 1/11/2019 | [Õmblusteta ühekordse sisselogimise kasutada](/AlchemyInsights/deploy-seamless-single-sign-on) | muudetud |
 | 1/11/2019 | [Juurdepääsu Yammeri](/AlchemyInsights/disable-access-to-yammer) | muudetud |
+
+
+## <a name="week-of-january-14-2019"></a>14. jaanuar 2019 nädal
+
+
+| Avaldatud |Teema pealkiri | Muutus |
+|------|------------|--------|
+| 1/14/2019 | Alkeemia kohatäide | eemaldatud |
+| 1/14/2019 | Lisada domeeni alkeemia | eemaldatud |
+| 1/14/2019 | [Alkeemia arusaamu kodu](/AlchemyInsights/index) | muudetud |
+| 1/17/2019 | [sama faili nimi on parim [reegel #-kirjeldus]](/AlchemyInsights/1-alchemy-insight-template) | lisatud |
