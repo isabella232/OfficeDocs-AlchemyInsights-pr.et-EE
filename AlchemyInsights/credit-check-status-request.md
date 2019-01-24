@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
 ms.openlocfilehash: 4b38ed4dd7f9f1bafca73d1cdcb3fc2dfd31e6a2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28285148"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29466267"
 ---
-# <a name="credit-check-status-request"></a><span data-ttu-id="31665-102">Krediidi sisse oleku taotluse</span><span class="sxs-lookup"><span data-stu-id="31665-102">Credit check status request</span></span>
+# <a name="credit-check-status-request"></a><span data-ttu-id="2dc9b-102">Krediidi sisse oleku taotluse</span><span class="sxs-lookup"><span data-stu-id="2dc9b-102">Credit check status request</span></span>
 
-<span data-ttu-id="31665-p101">Teie tellimus on laenu kontrollimine. See täidetakse tavaliselt alla 24 tunni jooksul, kuid võib võtta kuni 48 tundi. Kui valmis, muutub teie liitumisleping staatust kuni aktiivse ja teenuseid osutatakse kasutamiseks.</span><span class="sxs-lookup"><span data-stu-id="31665-p101">Your order is pending credit verification. This is normally completed in under 24 hours, but can take up to 48 hours. When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
+<span data-ttu-id="2dc9b-p101">Teie tellimus on laenu kontrollimine. See täidetakse tavaliselt alla 24 tunni jooksul, kuid võib võtta kuni 48 tundi. Kui valmis, muutub teie liitumisleping staatust kuni aktiivse ja teenuseid osutatakse kasutamiseks.</span><span class="sxs-lookup"><span data-stu-id="2dc9b-p101">Your order is pending credit verification. This is normally completed in under 24 hours, but can take up to 48 hours. When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
   
 
