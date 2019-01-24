@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28286074"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29467001"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Üksuste kopeerimine SharePointi dokumenditeegis
 
@@ -35,6 +35,6 @@ ms.locfileid: "28286074"
 3. Klõpsake käsku **Kopeeri siia**.
     
 > [!NOTE]
->  Kuni 500 MB failide ja kaustade kopeerimist samal ajal. > Kui te kasutate **kopeerida** mis on versiooniajalugu, kopeeritakse ainult Viimane versioon. 
+>  Kuni 500 MB failide ja kaustade kopeerimist samal ajal. > mis on versiooniajalugu, ainult uusima versiooni **koopia** kasutamisel kopeeritakse. 
   
 

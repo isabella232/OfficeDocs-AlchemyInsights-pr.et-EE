@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
 ms.openlocfilehash: e53827376daabae49acde8261ae09a5dd3f439a5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28285890"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29466850"
 ---
-# <a name="create-a-shared-mailbox"></a>Ühiskasutuses postkasti luua
+# <a name="create-a-shared-mailbox"></a>Ühispostkasti loomine
 
 Ühiskasutuses postkasti abil mitmele isikule saata ja vastu võtta e-posti pseudonüümi, nagu sales@contoso.com, teine juhiluba kaasamata. Ühiskasutuses postkasti loomiseks minge [Jagatud e-posti juhend](https://portal.office.com/adminportal/home).
   
