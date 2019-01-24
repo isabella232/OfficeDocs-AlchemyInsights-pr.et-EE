@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383237"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454426"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383237"
 ## <a name="week-of-january-07-2019"></a>07. jaanuar 2019 nädal
 
 
-| Avaldatud |Teema pealkiri | Muutus |
+| Avaldatud |Teema pealkiri | Muuda. |
 |------|------------|--------|
 | 1/7/2019 | [Parooli muutmine](/AlchemyInsights/change-your-password-in-outlook.com) | lisatud |
 | 1/7/2019 | [Õiguste postkasti](/AlchemyInsights/changing-permissions-on-a-mailbox) | lisatud |
@@ -302,7 +302,7 @@ ms.locfileid: "29383237"
 | 1/10/2019 | [Side saidi loomine](/AlchemyInsights/create-a-communication-site) | lisatud |
 | 1/10/2019 | [Luua vool](/AlchemyInsights/create-a-flow) | lisatud |
 | 1/10/2019 | [Kaasaegse meeskonnatöö saidi loomine](/AlchemyInsights/create-a-modern-team-site) | lisatud |
-| 1/10/2019 | [Ühiskasutuses postkasti luua](/AlchemyInsights/create-a-shared-mailbox) | lisatud |
+| 1/10/2019 | Ühispostkasti loomine | lisatud |
 | 1/10/2019 | [SharePointi saidi loomine](/AlchemyInsights/create-a-sharepoint-site) | lisatud |
 | 1/10/2019 | [Luua saidi SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | lisatud |
 | 1/10/2019 | [Luua ja kasutada ühiskasutuses postkasti](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | lisatud |
@@ -599,7 +599,7 @@ ms.locfileid: "29383237"
 | 1/11/2019 | [Side saidi loomine](/AlchemyInsights/create-a-communication-site) | muudetud |
 | 1/11/2019 | [Luua vool](/AlchemyInsights/create-a-flow) | muudetud |
 | 1/11/2019 | [Kaasaegse meeskonnatöö saidi loomine](/AlchemyInsights/create-a-modern-team-site) | muudetud |
-| 1/11/2019 | [Ühiskasutuses postkasti luua](/AlchemyInsights/create-a-shared-mailbox) | muudetud |
+| 1/11/2019 | Ühispostkasti loomine | muudetud |
 | 1/11/2019 | [SharePointi saidi loomine](/AlchemyInsights/create-a-sharepoint-site) | muudetud |
 | 1/11/2019 | [Luua saidi SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | muudetud |
 | 1/11/2019 | [Luua ja kasutada ühiskasutuses postkasti](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | muudetud |
@@ -637,7 +637,7 @@ ms.locfileid: "29383237"
 ## <a name="week-of-january-14-2019"></a>14. jaanuar 2019 nädal
 
 
-| Avaldatud |Teema pealkiri | Muutus |
+| Avaldatud |Teema pealkiri | Muuda. |
 |------|------------|--------|
 | 1/14/2019 | Alkeemia kohatäide | eemaldatud |
 | 1/14/2019 | Lisada domeeni alkeemia | eemaldatud |
