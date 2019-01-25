@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
 ms.openlocfilehash: eab000e0a850c522ede5f51ae46ba11b87ba4732
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28285304"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29466125"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP ei tööta ootuspäraselt
 
@@ -36,7 +36,7 @@ Kasutusvalmis DLP-poliitika abil saab tuvastada ja kaitsta tundlikku teavet teie
     
     Kui soovite luua kohandatud tundlikku teavet, kasutada artikkel teavet, kuidas luua kohandatud tundlik tüüp: [Loo kohandatud tundliku teabe tüüp](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type).
     
- **Aruanded:**
+ Aruanded
   
 - Saa tundlike andmete ülevaade koos [DLP aruannete.](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     
