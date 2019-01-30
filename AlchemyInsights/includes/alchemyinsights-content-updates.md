@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454426"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454426"
 ## <a name="week-of-january-07-2019"></a>07. jaanuar 2019 nädal
 
 
-| Avaldatud |Teema pealkiri | Muuda. |
+| Avaldatud |Teema pealkiri | Muutus |
 |------|------------|--------|
 | 1/7/2019 | [Parooli muutmine](/AlchemyInsights/change-your-password-in-outlook.com) | lisatud |
 | 1/7/2019 | [Õiguste postkasti](/AlchemyInsights/changing-permissions-on-a-mailbox) | lisatud |
@@ -302,7 +294,7 @@ ms.locfileid: "29454426"
 | 1/10/2019 | [Side saidi loomine](/AlchemyInsights/create-a-communication-site) | lisatud |
 | 1/10/2019 | [Luua vool](/AlchemyInsights/create-a-flow) | lisatud |
 | 1/10/2019 | [Kaasaegse meeskonnatöö saidi loomine](/AlchemyInsights/create-a-modern-team-site) | lisatud |
-| 1/10/2019 | Ühispostkasti loomine | lisatud |
+| 1/10/2019 | [Ühiskasutuses postkasti luua](/AlchemyInsights/create-a-shared-mailbox) | lisatud |
 | 1/10/2019 | [SharePointi saidi loomine](/AlchemyInsights/create-a-sharepoint-site) | lisatud |
 | 1/10/2019 | [Luua saidi SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | lisatud |
 | 1/10/2019 | [Luua ja kasutada ühiskasutuses postkasti](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | lisatud |
@@ -599,7 +591,7 @@ ms.locfileid: "29454426"
 | 1/11/2019 | [Side saidi loomine](/AlchemyInsights/create-a-communication-site) | muudetud |
 | 1/11/2019 | [Luua vool](/AlchemyInsights/create-a-flow) | muudetud |
 | 1/11/2019 | [Kaasaegse meeskonnatöö saidi loomine](/AlchemyInsights/create-a-modern-team-site) | muudetud |
-| 1/11/2019 | Ühispostkasti loomine | muudetud |
+| 1/11/2019 | [Ühiskasutuses postkasti luua](/AlchemyInsights/create-a-shared-mailbox) | muudetud |
 | 1/11/2019 | [SharePointi saidi loomine](/AlchemyInsights/create-a-sharepoint-site) | muudetud |
 | 1/11/2019 | [Luua saidi SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | muudetud |
 | 1/11/2019 | [Luua ja kasutada ühiskasutuses postkasti](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | muudetud |
@@ -637,9 +629,25 @@ ms.locfileid: "29454426"
 ## <a name="week-of-january-14-2019"></a>14. jaanuar 2019 nädal
 
 
-| Avaldatud |Teema pealkiri | Muuda. |
+| Avaldatud |Teema pealkiri | Muutus |
 |------|------------|--------|
 | 1/14/2019 | Alkeemia kohatäide | eemaldatud |
 | 1/14/2019 | Lisada domeeni alkeemia | eemaldatud |
 | 1/14/2019 | [Alkeemia arusaamu kodu](/AlchemyInsights/index) | muudetud |
 | 1/17/2019 | [sama faili nimi on parim [reegel #-kirjeldus]](/AlchemyInsights/1-alchemy-insight-template) | lisatud |
+
+
+## <a name="week-of-january-21-2019"></a>21. jaanuar 2019 nädal
+
+
+| Avaldatud |Teema pealkiri | Muutus |
+|------|------------|--------|
+| 1-22-2019 | [1047 rämpsposti 550 5.7.708 teenus pole saadaval. Juurdepääs keelatud, ei aktsepteerita IP liikluse](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | muudetud |
+| 1-22-2019 | [1049 rämpsposti 4.5.3 liiga palju adressaate (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | muudetud |
+| 1-22-2019 | [1050 rämpsposti 4.7.500 Server on hõivatud. Palun proovige hiljem uuesti: [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | muudetud |
+| 1-22-2019 | [1051 rämpsposti 4.7.500 juurdepääs on keelatud, proovige hiljem uuesti](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | muudetud |
+| 1-22-2019 | [Office 365 kaudu edastamisega e-posti](/AlchemyInsights/relay-email-through-office-365) | muudetud |
+| 1-24-2019 | [Juhtelemendi loomine rühmade](/AlchemyInsights/control-creation-of-groups) | muudetud |
+| 1-24-2019 | [Exchange 2007 Outlook Teemad](/AlchemyInsights/outlook-issues-with-exchange-2007) | lisatud |
+| 1-24-2019 | [Taastada Exchange'i halduskeskuse kuvamiseks Office 365 rühmas](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | ümber nimetatud |
+| 1-24-2019 | [Microsoft Intune tõrkeotsingu](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | ümber nimetatud |
