@@ -2,29 +2,25 @@
 title: SharePointi saidi loomine
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466474"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657499"
 ---
 # <a name="create-a-sharepoint-site"></a>SharePointi saidi loomine
 
-Saite uue SharePointi administreerimiskeskuses haldamiseks minge praeguse SharePointi administreerimiskeskuse, klõpsake "Proovi nüüd" paremas ülanurgas ja valige aktiivne saitidele. Uus SharePointi administreerimiskeskuse kohta teabe saamiseks vt [alustada uue SharePointi administreerimiskeskuse.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)
+Vaata saidi loomise suvandid [Halda saite uue SharePointi administreerimiskeskuses](https://docs.microsoft.com/sharepoint/manage-site-creation ) . Saate luua [meeskonnatöö veebisaidi](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (mis loob Office 365 rühma) või [side saidi](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). [Klassikaline saidi](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)või uue meeskonnasaidi, mis ei sisalda Office 365 rühma loomiseks klõpsake nuppu **Muud valikud**. 
   
-1. Klõpsake **Loo**. 
-    
-2. Saate luua meeskonnatöö veebisaidi (mis loob Office 365 rühma) või side saidi. Klassikaline saidi või uue meeskonnasaidi, mis ei sisalda Office 365 rühma loomiseks klõpsake nuppu **Muud valikud**. Täpsemat infot uue saidimallid [Loo meeskonnatöö saidi SharePoint Online](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) ja [Loo teatise saidi SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).
-  
- **Märkus:** Ei saa luua uue saidi olemasoleva saidi sama URL-iga. Kui saidi kustutada ja kes soovib kasutada URL-i, on võimalik saidi URL, mida soovite kasutada on olemas ka **Kustutatud saidid.** Klõpsake **välja jäetud saidid**jäädavalt kustutada saidi esile ja valige nuppu **Kustuta** . 
-  
- **Märkus:** Kes saab luua saitide haldamiseks vaadake teemat [Halda saidi loomist SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).
-    
-
+Näpunäiteid:
+- *Ei saa luua sama URL-iga olemasoleva saidi sait. Kui saidi kustutada ja kes soovib kasutada URL-i, on võimalik kustutatud ala, mis on endiselt olemas **Kustutatud saidid**. Juhtida kustutatud saidid vt [saiti kustutada](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Täielikult eemaldada saidi PowerShelli abil, vaadake [Eemalda-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet-i näites.*
+- *Mõned kasutajad ei saa luua saidi. Vaata [Halda saidi loomist SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
+- *On võimalik, et sait kuvatakse jäänud kell **loomine** oodatust kauem aega. Kui te esimest korda nägin see probleem on möödunud üle 24 tunni, logi palun toetust pilet. Paljudel juhtudel arendame juba lahenduse. Palun anna meile vähemalt 24 tundi, lahendus.*

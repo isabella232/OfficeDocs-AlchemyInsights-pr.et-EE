@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: Sihtida üle 500 sõna artikkel.
-ms.openlocfilehash: 001833aeec5e8f6783aaa68c45406d43aba752fb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ba06121faec69ab80805be9f1507a1dd5e9649d8
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498154"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662179"
 ---
 Sihtida üle 500 sõna artikkel.
   
@@ -33,6 +33,6 @@ Toimige järgmiselt:
     
 4. Valida **blokeerida kasutaja sisselogimine** \> **salvestada**. 
     
- **Märkus**: väljunud, sest mõned rakendused ei pruugi kohe. Jätkake veel toiminguid käesoleva artikli: [eemaldada Office 365 endise töötaja](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+ **Märkus**: väljunud, sest mõned rakendused ei pruugi kohe. Jätkake veel toiminguid käesoleva artikli: [eemaldada Office 365 endise töötaja](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
   
 

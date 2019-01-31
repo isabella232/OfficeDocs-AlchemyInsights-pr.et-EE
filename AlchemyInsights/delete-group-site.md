@@ -3,31 +3,30 @@ title: Kustuta rühm saidi
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467010"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660667"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>SharePointi sait, mis kuulub Office 365 rühma kustutamine
 
-Kui kasutajad loovad uue meeskonnasaidi SharePointi kodus (või loote uue meeskonnasaidi uus SharePointi admin keskus eelvaade), luuakse automaatselt vastav Office 365 rühma. Office 365 rühma või meeskond Microsofti Teams loomisel loob Office 365 rühma ühendatud meeskonnatöö saitidel ka. SharePointi sait, mis kuulub Office 365 rühma kustutamiseks peate kustutama kogu Office 365 ühistule. 
+Globaalse administraatorid ja SharePointi administraatoritel nüüd saate kustutada saite, mis kuuluvad Office 365 rühma. Need saidid kustutamisel kustutatakse rühm ja ressursside, sealhulgas Outlooki postkasti ja kalender ja meeskonnad kanalid.
   
-1. Avage [Office 365 halduskeskus lehe](https://portal.office.com/adminportal/home#/groups).
-    
-2. Märkige rühma kõrval olev ruut.
-    
-3. Valige **Kustuta**.
-    
-Märkus: Kui kustutate rühma, võib viivitus enne eemaldatakse saidi SharePointi.
+Oluline:
+- Kustutatud alade taastamiseks 93 päeva. Lisateabe saamiseks vaadake ja taastada kustutatud saidid. Pange tähele, et kustutatud sõprade taastamist 30 päeva jooksul. 
+- Kui sait on osa säilituspoliitika, te ei saa kustutada, kuni viis akuta on [turvalisuse &amp; täitmise halduskeskus](https://protection.office.com/?rfr=AdminCenter#/retention). Vaata rohkem infot [Säilituspoliitikate ülevaade](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+  
+[Vaade ja Taasta kustutatud saite uue SharePointi administreerimiskeskuses](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), valige **kustutada saidid**. Valige sait, mis on kustutatud ja taastada või kustutada (mis kustutatakse jäädavalt saidi). Aktiivset ala kustutamiseks valige **Active** saidid, valige sait ja valige **Kustuta**. Lisateavet leiate teemast [Halda saite uue SharePointi administreerimiskeskuses](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

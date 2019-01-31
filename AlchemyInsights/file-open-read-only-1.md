@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 69705825-723a-4c1e-ae85-d16b5051d2fe
-ms.openlocfilehash: 45078e83f86f34386a7a2a2c0409f225122a598d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4621e4541c5453c76dbbe968b492b9bd19316d94
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466226"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660847"
 ---
 # <a name="file-open-read-only"></a>Faili avamine kirjutuskaitstuna
 
@@ -30,7 +30,7 @@ Kontrollige faili atribuute, paremklõpsake failil ja käsku Atribuudid. Kui kir
   
  **Sisu on kaitstud vaates**
   
-Internetist ja teiste potentsiaalselt ebaturvalistest kohtadest saadud failid võivad sisaldada viirused, ussid ja muud tüüpi ründevara, mis võib teie arvutit kahjustada. See on tavaliselt e-posti manuseid või allalaaditud failide puhul. Teie arvuti kaitsmiseks on need potentsiaalselt ebaturvalistest kohtadest saadud failid kaitstud vaates avatud. Kaitstud vaate kasutamisel saate faili lugeda ja riske vähendades selle sisu kuvamiseks. Kaitstud vaate ja sätete muutmise kohta lisateabe saamiseks vaadake seda: [mis on kaitstud vaade?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Internetist ja teiste potentsiaalselt ebaturvalistest kohtadest saadud failid võivad sisaldada viirused, ussid ja muud tüüpi ründevara, mis võib teie arvutit kahjustada. See on tavaliselt e-posti manuseid või allalaaditud failide puhul. Teie arvuti kaitsmiseks on need potentsiaalselt ebaturvalistest kohtadest saadud failid kaitstud vaates avatud. Kaitstud vaate kasutamisel saate faili lugeda ja riske vähendades selle sisu kuvamiseks. Kaitstud vaate ja sätete muutmise kohta lisateabe saamiseks vaadake seda: [mis on kaitstud vaade?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive on täis?**
   
@@ -38,7 +38,7 @@ Kui fail on salvestatud OneDrive ja OneDrive salvestusruumi on täis, ei saa dok
   
  **Kas Office on aktiveeritud?**
   
-Kui Office pole aktiveeritud või kui tellimus on aegunud, siis võiks ainult vähendatud funktsionaalsusega režiimis. Kuidas aktiveerida Office'i Lisateavet: [litsentsimata toode ja aktiveerimistõrgete kontoris](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Kui Office pole aktiveeritud või kui tellimus on aegunud, siis võiks ainult vähendatud funktsionaalsusega režiimis. Kuidas aktiveerida Office'i Lisateavet: [litsentsimata toode ja aktiveerimistõrgete kontoris](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Kui kõik muu ebaõnnestub...**
   

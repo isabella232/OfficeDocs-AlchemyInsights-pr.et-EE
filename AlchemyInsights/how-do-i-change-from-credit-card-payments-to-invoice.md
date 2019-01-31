@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466986"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661207"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kuidas muuta: lisatasud arveldada?
 
@@ -28,12 +28,9 @@ ms.locfileid: "29466986"
 2. Valige tellimus, mida soovite muuta. Valige jaotises **makseviis** **Muuda makse üksikasjad**.
     
 3. **Muuda makse üksikasjade** paanil valige **Muuda makseviisi**.
-    
-    > [!TIP]
-    > Kui linki **Muuda makseviisi** ei kuvata, tähendab see, et krediitkaardi või pangakonto arvele üleminek ei ole saadaval tellimus tellimus ei vasta minimaalne omahind arveldamine arve. Arve arved esitatakse vajalik minimaalne omahind erineb olenevalt geograafilisest asukohast. 
+<br>*Märkus: Kui linki **Muuda makseviisi** ei kuvata, tähendab see, et krediitkaardi või pangakonto arvele üleminek ei ole saadaval tellimus tellimus ei vasta minimaalne omahind arveldamine arve. Arve arved esitatakse vajalik minimaalne omahind erineb olenevalt geograafilisest asukohast.*
   
 4. Aastal ning ** makseviisiks ** dialoogiboksis valige **Jätka**.
     
 5. Valida **OK** tagasi administreerimiskeskusse. 
-    
-
+   

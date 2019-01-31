@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 9950fb8af79c7689133a226df29c123feefb0254
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 086aa3626601a80208b9791e151243ef4dd0cabd
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466243"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661171"
 ---
 Kas teil on sisu kohta **säilitada** on **hoidke** mis ei tuvasta? On vaja **teada,** kui **postkast** asub pagasiruumis? Omab ( *säilitamise funktsioonid* ) saab rakendada ühe järgmistest meetoditest, Office 365: 
   
@@ -32,6 +32,6 @@ Kas teil on sisu kohta **säilitada** on **hoidke** mis ei tuvasta? On vaja **te
     
 - Office 365 Sildid
     
-Kindlaks teha, millist tüüpi hold on seotud kasutaja postkasti, Vaata [Kuidas tüübi hoidke Exchange Online'i postkasti panna](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Kindlaks teha, millist tüüpi hold on seotud kasutaja postkasti, Vaata [Kuidas tüübi hoidke Exchange Online'i postkasti panna](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
   
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 0b375c3054d6ebd8638b167770fb73f12c7e95ef
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d85a9e37e30bf83b8990247c4a7d529b4d9ff305
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466150"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656455"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Kasutaja profiili ja foto sünkroonimine
 
@@ -25,6 +25,6 @@ Foto sünkroonimise protsessi kohta lisateabe saamiseks vaadake teemat [teave pi
   
 Profiili sünkroonimise protsessi kohta lisateabe saamiseks vaadake teemat [teave Kasutajaprofiili sünkroonimise SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Update Office Delve'i profiili** - Delve kasutajad saavad hallata oma Office 365 profiili. Lisateabe saamiseks vt [vaatamine ja värskendamine Office Delve'i oma profiili](https://support.office.com/en-us/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Update Office Delve'i profiili** - Delve kasutajad saavad hallata oma Office 365 profiili. Lisateabe saamiseks vt [vaatamine ja värskendamine Office Delve'i oma profiili](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

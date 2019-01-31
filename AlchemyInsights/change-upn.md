@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: b8c64b3c006ffd59ad5b72478f235bb55601491c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c9750f6b2fb61c09dff2bc86e0a51d2d8c80270
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467043"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656095"
 ---
 # <a name="change-a-users-email-address"></a>Kasutaja e-posti aadressi muutmine
 
@@ -38,6 +38,6 @@ Kellegi e-posti aadressi muutmine on lihtne! Lihtsalt järgige neid samme:
     
 6. Valige **Salvesta**, seejärel **tihe**, ja ongi kõik!
     
-Ei olnud nii lihtne? Üksikasjad ja ekraanikuvasid samme, lugege sellest artiklist: [Muuda kasutajanime ja e-posti aadress Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Ei olnud nii lihtne? Üksikasjad ja ekraanikuvasid samme, lugege sellest artiklist: [Muuda kasutajanime ja e-posti aadress Office 365](https://support.office.com/article/https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
   
 

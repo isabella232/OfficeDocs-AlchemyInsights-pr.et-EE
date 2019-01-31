@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466738"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646379"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Saite, mis kuuluvad Office 365 rühma kustutamine
 
@@ -30,7 +30,7 @@ Kui kasutajad loovad uue meeskonnasaidi SharePointi kodus (või loote uue meesko
     
 Märkus: Kui kustutate rühma, võib viivitus enne eemaldatakse saidi SharePointi.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Kustuta teatis lehti või klassikaline lehti:
+**Kustuta teatis lehti või klassikaline lehti:**
 
 1. Minge veebisaidile.
   
@@ -38,7 +38,7 @@ Märkus: Kui kustutate rühma, võib viivitus enne eemaldatakse saidi SharePoint
   
 3. Klõpsake käsku **Saidisätted**. **Teavet** või **Saiditoimingud**, käsku **Kustuta see sait**ja seejärel klõpsake käsku **Kustuta**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>SharePointi saidikogumi kustutamine
+**SharePointi saidikogumi kustutamine**
 
 Klassikaline saidikogumi kustutamine
   
@@ -46,7 +46,7 @@ Klassikaline saidikogumi kustutamine
     
 2. Valige vahekaardil saidikogumite **kustutamine.**
     
-## <a name="deleted-a-site-by-accident"></a>Saidi kustutada õnnetus?
+**Saidi kustutada õnnetus?**
 
 Vaata [taastada kustutatud saidikogumi](https://go.microsoft.com/fwlink/?linkid=867660).
   

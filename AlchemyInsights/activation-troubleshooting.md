@@ -2,44 +2,28 @@
 title: Aktiveerimise probleemid
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Alusta oma artikkel väga lühike tutvustus (1 lause). Ennast lugeja olemas - miks nad siin on? Mida nad teevad?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498262"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646955"
 ---
-Alusta oma artikkel väga lühike tutvustus (1 lause). Ennast lugeja olemas - miks nad siin on? Mida nad teevad? 
-  
-1. Avage viivituseta kiire nimekirja samme täita ülesanne.
-    
-    Kui pead selgitama mõiste, või nad peavad eelnevalt vajaliku sammu tegema, lisada lühikokkuvõtet samm vajavad, ja mõiste või abinõude [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) allpool. 
-    
-2. Hoida kord lühike - soovitavalt 5 või vähem juhiseid, kuni 8.
-    
-3. Kasutage **Ui stiili** kasutajaliidese elemente või teksti inimest vaja. 
-    
-4. Verbiga valida, valige, või sisestage meetmeid ja menüüd vormindada **menüü** \> **käsk**.
-    
-5. Soovi korral lisage kuvatõmmis konteksti (kui UI on raske leida, või vaja ülesande).
-    
-    Maksimaalne laius: 520 pikslit. Kasutada standard kujunduse, näidata isikliku teabe ja näidata, mis on oluline ainult kärpida. 
-    
-    ![Kohatäite - SOC artikli kunsti suurim laius on 520 pikslit](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Kui soovite lisada video või pilt, kasutada kahe veeruga grid ja on juhised vasakule ja video või pilt õigus - vt [samme ja video võre näiteks](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Sihtida üle 500 sõna artikkel.
-  
-# <a name="example-article"></a>Näiteks artikli
+# <a name="activation-troubleshooting"></a>Aktiveerimise probleemid
 
-[Muuda minu foto](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+**Juhtpaneeli** \> **programmid ja funktsioonid**, Office. Näed, Microsoft Office 365 ProPlus või Microsoft Office 365 Business. Kui näete mitut versiooni ametisse, kasutate versiooni desinstallida. 
   
-
+Kui ei saa desinstallida juhtpaneeli abil edukalt, kasutage [toetust ja taastamise abimees](https://aka.ms/SARA-OfficeUninstall-Alchemy) kasutate versiooni. 
+  
+Kui Office on endiselt litsentseerimata, tagasi minna **Control Panel** \> **programmid ja funktsioonid**. Paremklõpsake ülejäänud Office'i install, valige **Muuda** (või Muuda) ja seejärel valige **Võrgus parandamine**. Online remont võib aega võtta. Siis Office'i taaskäivitama ja sisse logida oma töö või kooli kontole, kui küsitakse.
+  
+Office on endiselt litsentseerimata, laadige alla ja käivitage [tõrkeotsija aktiveerimine](https://aka.ms/SARA-OfficeActivation-Alchemy) aktiveerimise probleemide lahendamiseks mõjutatud arvutisse. 
+  
+Lisateabe saamiseks vt: [litsentsimata toode ja aktiveerimistõrgete kontoris](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
