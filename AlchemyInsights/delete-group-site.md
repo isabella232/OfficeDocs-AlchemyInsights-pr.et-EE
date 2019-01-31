@@ -3,31 +3,30 @@ title: Kustuta rühm saidi
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467010"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660667"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a><span data-ttu-id="e79a8-102">SharePointi sait, mis kuulub Office 365 rühma kustutamine</span><span class="sxs-lookup"><span data-stu-id="e79a8-102">Delete a SharePoint site that belongs to an Office 365 group</span></span>
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a><span data-ttu-id="b131f-102">SharePointi sait, mis kuulub Office 365 rühma kustutamine</span><span class="sxs-lookup"><span data-stu-id="b131f-102">Delete a SharePoint site that belongs to an Office 365 group</span></span>
 
-<span data-ttu-id="e79a8-p101">Kui kasutajad loovad uue meeskonnasaidi SharePointi kodus (või loote uue meeskonnasaidi uus SharePointi admin keskus eelvaade), luuakse automaatselt vastav Office 365 rühma. Office 365 rühma või meeskond Microsofti Teams loomisel loob Office 365 rühma ühendatud meeskonnatöö saitidel ka. SharePointi sait, mis kuulub Office 365 rühma kustutamiseks peate kustutama kogu Office 365 ühistule.</span><span class="sxs-lookup"><span data-stu-id="e79a8-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="b131f-p101">Globaalse administraatorid ja SharePointi administraatoritel nüüd saate kustutada saite, mis kuuluvad Office 365 rühma. Need saidid kustutamisel kustutatakse rühm ja ressursside, sealhulgas Outlooki postkasti ja kalender ja meeskonnad kanalid.</span><span class="sxs-lookup"><span data-stu-id="b131f-p101">Global admins and SharePoint admins can now delete sites that belong to an Office 365 group. Deleting these sites will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels.</span></span>
   
-1. <span data-ttu-id="e79a8-106">Avage [Office 365 halduskeskus lehe](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="e79a8-106">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
-    
-2. <span data-ttu-id="e79a8-107">Märkige rühma kõrval olev ruut.</span><span class="sxs-lookup"><span data-stu-id="e79a8-107">Select the check box next to the group.</span></span>
-    
-3. <span data-ttu-id="e79a8-108">Valige **Kustuta**.</span><span class="sxs-lookup"><span data-stu-id="e79a8-108">Select **Delete**.</span></span>
-    
-<span data-ttu-id="e79a8-109">Märkus: Kui kustutate rühma, võib viivitus enne eemaldatakse saidi SharePointi.</span><span class="sxs-lookup"><span data-stu-id="e79a8-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+<span data-ttu-id="b131f-105">Oluline:</span><span class="sxs-lookup"><span data-stu-id="b131f-105">Important:</span></span>
+- <span data-ttu-id="b131f-p102">Kustutatud alade taastamiseks 93 päeva. Lisateabe saamiseks vaadake ja taastada kustutatud saidid. Pange tähele, et kustutatud sõprade taastamist 30 päeva jooksul.</span><span class="sxs-lookup"><span data-stu-id="b131f-p102">You can recover deleted sites for 93 days. For more info, see View and restore deleted sites. Note that deleted groups must be restored within 30 days.</span></span> 
+- <span data-ttu-id="b131f-p103">Kui sait on osa säilituspoliitika, te ei saa kustutada, kuni viis akuta on [turvalisuse &amp; täitmise halduskeskus](https://protection.office.com/?rfr=AdminCenter#/retention). Vaata rohkem infot [Säilituspoliitikate ülevaade](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .</span><span class="sxs-lookup"><span data-stu-id="b131f-p103">If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
+  
+<span data-ttu-id="b131f-p104">[Vaade ja Taasta kustutatud saite uue SharePointi administreerimiskeskuses](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), valige **kustutada saidid**. Valige sait, mis on kustutatud ja taastada või kustutada (mis kustutatakse jäädavalt saidi). Aktiivset ala kustutamiseks valige **Active** saidid, valige sait ja valige **Kustuta**. Lisateavet leiate teemast [Halda saite uue SharePointi administreerimiskeskuses](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="b131f-p104">To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. Select the site that has been deleted and choose either Restore or Delete (which will permanently delete the site). To delete an active site, select **Active** sites, select the site and select **Delete**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
 
