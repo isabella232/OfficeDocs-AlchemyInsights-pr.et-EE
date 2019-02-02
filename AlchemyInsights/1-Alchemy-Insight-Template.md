@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662926"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697126"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Vajalik kliendi ees H1, H2 ei tööta
-Näitetekst blokeerida - järgige neid juhiseid:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Nõutav alkeemia päise H1, H2's ei tööta.
+Heade tavade ja suuniste alkeemia authoring:
 
+1. **Pesa alkeemia ülevaatlikke kaustad**- see rikub URL-i struktuuri. Ootame, millega seda arvesse.
 1. Failid kaustas **AlchemyInsights** peaks olema reegli ID ja [alkeemia partneriportaal](https://alchemyportal.azurewebsites.net) reegli nimi faili nimi.
     1. nt ***976-How-to-enable-litigation-hold***
 1. Kasutada seda faili ülaosas metaandmete malli. Midagi ei ole vaja.
@@ -35,7 +36,6 @@ Näitetekst blokeerida - järgige neid juhiseid:
 
 Ja see on tõesti juba natuke liiga pikk. On umbes 400 tähemärki---
 
-Kui teie sisu on valmis, tõmmake see live kontorisse. Seejärel minge [alkeemia partneriportaal](https://alchemyportal.azurewebsites.net) ja sisestage faili nimi väljale. Veenduge, et läbi vaadata ja avaldada teavet ütleb "Jah" ja seejärel käsku Update reegel. (See näeb ilusam uues versioonis portaali - vabastades kiiresti.)
-
-![URL-i väljale](media/for-content-team.PNG)
+Kui teie sisu on valmis, tõmmake see live kontorisse. Seejärel minge [alkeemia partneriportaal](https://alchemyportal.azurewebsites.net) ja sisestage faili nimi väljale. Veenduge, et läbi vaadata ja avaldada teavet ütleb "Jah" ja seejärel käsku Update reegel. **(See näeb ilusam uues versioonis portaali - vabastades kiiresti.)** 
+ ![URL-i väljale](media/for-content-team.PNG)
 
