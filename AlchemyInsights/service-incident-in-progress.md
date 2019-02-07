@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
-ms.openlocfilehash: 73dbf3154550bdedba65813aa5baea358a0982dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0025c77949de0eb76f6a617dab0e3bfbd357241e
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466221"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758844"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="e78cf-102">Teenuse intsident pooleli</span><span class="sxs-lookup"><span data-stu-id="e78cf-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="405fd-102">Teenuse intsident pooleli</span><span class="sxs-lookup"><span data-stu-id="405fd-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="e78cf-p101">Te võib mõjutada teenuse juhtumi või nõustamine mis on selgitamisel. Saate [Teenuseid tervise](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) lehele minnes värskeimat olekut.</span><span class="sxs-lookup"><span data-stu-id="e78cf-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
+<span data-ttu-id="405fd-p101">Te võib mõjutada teenuse juhtumi või nõustamine mis on selgitamisel. Saate [Teenuseid tervise](https://admin.microsoft.com/adminportal/home#/servicehealth) lehele minnes värskeimat olekut.</span><span class="sxs-lookup"><span data-stu-id="405fd-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="e78cf-105">Teie mugavuseks leiate kokkuvõtte selle juhtumi allpool:</span><span class="sxs-lookup"><span data-stu-id="e78cf-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="405fd-105">Teie mugavuseks leiate kokkuvõtte selle juhtumi allpool:</span><span class="sxs-lookup"><span data-stu-id="405fd-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="e78cf-106">**Juhtumi number:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="e78cf-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
+> <span data-ttu-id="405fd-106">**Juhtumi number:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="405fd-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="e78cf-107">Mõju kirjeldus: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="e78cf-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="405fd-107">Mõju kirjeldus: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="405fd-107">Impact description: {ImpactDescription}</span></span>
     
 
