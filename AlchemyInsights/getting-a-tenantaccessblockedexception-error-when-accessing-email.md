@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: 4082c39a3b2bfa7fc34bda963b83857670547547
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 576d4a0fbe80b804be9739479e53d94067debda8
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466767"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759996"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Kuidas TenantAccessBlockedException viga, kui e-posti juurdepääsu?
 
 On mitu erinevat põhjust, miks sa tõrge, mis ütleb, et teie rentniku juurdepääs on blokeeritud. Probleemi lahendamiseks proovige järgmist:
   
-- Teie tellimus kehtib [tellimuste](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/subscriptions) lehele sisse. 
+- Teie tellimus kehtib [tellimuste](https://admin.microsoft.com/adminportal/home#/subscriptions) lehele sisse. 
     
-- Kontrollida [arvelduse](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/billoverview) lehe varasema tasud konto. 
+- Kontrollida [arvelduse](https://admin.microsoft.com/adminportal/home#/billoverview) lehe varasema tasud konto. 
     
 - Kui teie konto on nüüd korras, kuid on hiljuti muudetud, võib kuluda aega, propageerida kõik serverid muutusi. Anda veel proovida mõne minuti ja kui probleem ei lahene, võtke meiega ühendust.
     
