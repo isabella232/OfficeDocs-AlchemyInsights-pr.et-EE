@@ -7,26 +7,26 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
-ms.openlocfilehash: 1c98fcf991bc1e8648d23178b169bc6aba67784a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4db09cced893480f842585268bf850dc49f0d20a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466500"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935939"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a><span data-ttu-id="b116f-102">Välise SharePointi jaoks ühiskasutuse sisse või välja lülitada</span><span class="sxs-lookup"><span data-stu-id="b116f-102">Turn external sharing on or off for SharePoint</span></span>
+# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a><span data-ttu-id="4eadc-102">Välise SharePointi jaoks ühiskasutuse sisse või välja lülitada</span><span class="sxs-lookup"><span data-stu-id="4eadc-102">Turn external sharing on or off for SharePoint</span></span>
 
-1. <span data-ttu-id="b116f-103">Portaali Office 365 halduskeskus, minge [teenuste &amp; lisandmoodulid lehe](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), ja klõpsake nuppu **saidid**.</span><span class="sxs-lookup"><span data-stu-id="b116f-103">In the Office 365 admin center, go to [the Services &amp; add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), and click **Sites**.</span></span>
+1. <span data-ttu-id="4eadc-103">Portaali Office 365 halduskeskus, minge [teenuste &amp; lisandmoodulid lehe](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), ja klõpsake nuppu **saidid**.</span><span class="sxs-lookup"><span data-stu-id="4eadc-103">In the Office 365 admin center, go to [the Services &amp; add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), and click **Sites**.</span></span>
     
-2. <span data-ttu-id="b116f-104">Lülitage säte sisse või välja lülitada, või valige ühiskasutuse säte, kui see on sisse lülitatud.</span><span class="sxs-lookup"><span data-stu-id="b116f-104">Turn the setting on or off, or select a sharing option if it's turned on.</span></span>
+2. <span data-ttu-id="4eadc-104">Lülitage säte sisse või välja lülitada, või valige ühiskasutuse säte, kui see on sisse lülitatud.</span><span class="sxs-lookup"><span data-stu-id="4eadc-104">Turn the setting on or off, or select a sharing option if it's turned on.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="b116f-p101">SharePointi ühiskasutuse väljalülitamine lülitab see OneDrive. Välise jagamise mis tahes veebilehe lubamiseks oma kogu asutuses kehtivaid sätteid tuleb. > lubada välise jagamise OneDrive või mis tahes üksikuid SharePointi saite, peate sisse lülitama selle organisatsiooni hõlmavate SharePoint. Seejärel saate selle kindla saidikogumeid. Saate hallata välise jagamise sätteid saitidel, mis kuuluvad Office 365 rühmad ning side, peate kasutama uue SharePointi administreerimiskeskuse (eelvaade) või PowerShelli. Välise jagamise seaded haldamise kohta leiate teemast [välise ühiskasutuse sisse või välja lülitada](https://go.microsoft.com/fwlink/?linkid=866426).</span><span class="sxs-lookup"><span data-stu-id="b116f-p101">Turning off sharing for SharePoint turns it off for OneDrive. To allow external sharing on any site, your organization-wide setting must be on. > To allow external sharing for OneDrive or any individual SharePoint sites, you must turn it on organization-wide for SharePoint. You can then turn it off for specific site collections. To manage external sharing settings for communication sites and sites that belong to Office 365 groups, you need to use the new SharePoint admin center (preview) or PowerShell. For more info about managing external sharing settings, see [Turn external sharing on or off](https://go.microsoft.com/fwlink/?linkid=866426).</span></span> 
+> <span data-ttu-id="4eadc-p101">SharePointi ühiskasutuse väljalülitamine lülitab see OneDrive. Välise jagamise mis tahes veebilehe lubamiseks oma kogu asutuses kehtivaid sätteid tuleb. > lubada välise jagamise OneDrive või mis tahes üksikuid SharePointi saite, peate sisse lülitama selle organisatsiooni hõlmavate SharePoint. Seejärel saate selle kindla saidikogumeid. Saate hallata välise jagamise sätteid saitidel, mis kuuluvad Office 365 rühmad ning side, peate kasutama uue SharePointi administreerimiskeskuse (eelvaade) või PowerShelli. Välise jagamise seaded haldamise kohta leiate teemast [välise ühiskasutuse sisse või välja lülitada](https://go.microsoft.com/fwlink/?linkid=866426).</span><span class="sxs-lookup"><span data-stu-id="4eadc-p101">Turning off sharing for SharePoint turns it off for OneDrive. To allow external sharing on any site, your organization-wide setting must be on. > To allow external sharing for OneDrive or any individual SharePoint sites, you must turn it on organization-wide for SharePoint. You can then turn it off for specific site collections. To manage external sharing settings for communication sites and sites that belong to Office 365 groups, you need to use the new SharePoint admin center (preview) or PowerShell. For more info about managing external sharing settings, see [Turn external sharing on or off](https://go.microsoft.com/fwlink/?linkid=866426).</span></span> 
   
-[<span data-ttu-id="b116f-111">Lisateavet SharePointi välise jagamise</span><span class="sxs-lookup"><span data-stu-id="b116f-111">Learn more about external sharing in SharePoint</span></span>](https://go.microsoft.com/fwlink/?linkid=734908)
+[<span data-ttu-id="4eadc-111">Lisateavet SharePointi välise jagamise</span><span class="sxs-lookup"><span data-stu-id="4eadc-111">Learn more about external sharing in SharePoint</span></span>](https://go.microsoft.com/fwlink/?linkid=734908)
   
 
