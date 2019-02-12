@@ -7,37 +7,37 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: b9a0ca93b15a32d041f3dc7cd1c4c72c979fbf38
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: fe890051cf1a7f064190e50b4a9b15e289a7dca2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29466032"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941288"
 ---
-# <a name="how-to-access-outlookcom-while-traveling"></a><span data-ttu-id="be8b9-102">Kuidas pääseda Outlook.com reisides</span><span class="sxs-lookup"><span data-stu-id="be8b9-102">How to access Outlook.com while traveling</span></span>
+# <a name="how-to-access-outlookcom-while-traveling"></a><span data-ttu-id="46b97-102">Kuidas pääseda Outlook.com reisides</span><span class="sxs-lookup"><span data-stu-id="46b97-102">How to access Outlook.com while traveling</span></span>
 
-<span data-ttu-id="be8b9-103">Reisides kasutada Outlook.com-i, veenduge, et oma Microsofti konto teave - on teisene e-posti aadress või telefoni number kust turbekoodid - on värskendatud.</span><span class="sxs-lookup"><span data-stu-id="be8b9-103">To access Outlook.com while traveling, make sure your Microsoft account security info - an alternate email address or phone number where you can get security codes - is up to date.</span></span>
+<span data-ttu-id="46b97-103">Reisides kasutada Outlook.com-i, veenduge, et oma Microsofti konto teave - on teisene e-posti aadress või telefoni number kust turbekoodid - on värskendatud.</span><span class="sxs-lookup"><span data-stu-id="46b97-103">To access Outlook.com while traveling, make sure your Microsoft account security info - an alternate email address or phone number where you can get security codes - is up to date.</span></span>
   
-1. <span data-ttu-id="be8b9-104">[Turvalisuse põhitõed](https://go.microsoft.com/fwlink/p/?linkid=842325) lehele ja logige sisse oma Microsofti kontoga.</span><span class="sxs-lookup"><span data-stu-id="be8b9-104">Go to the [Security basics](https://go.microsoft.com/fwlink/p/?linkid=842325) page and sign in with your Microsoft account.</span></span> 
+1. <span data-ttu-id="46b97-104">[Turvalisuse põhitõed](https://go.microsoft.com/fwlink/p/?linkid=842325) lehele ja logige sisse oma Microsofti kontoga.</span><span class="sxs-lookup"><span data-stu-id="46b97-104">Go to the [Security basics](https://go.microsoft.com/fwlink/p/?linkid=842325) page and sign in with your Microsoft account.</span></span> 
     
-2. <span data-ttu-id="be8b9-105">Valige **uuendage** \> **turbeteabe lisamine**.</span><span class="sxs-lookup"><span data-stu-id="be8b9-105">Select **Update info** \> **Add security info**.</span></span> 
+2. <span data-ttu-id="46b97-105">Valige **uuendage** \> **turbeteabe lisamine**.</span><span class="sxs-lookup"><span data-stu-id="46b97-105">Select **Update info** \> **Add security info**.</span></span> 
     
-3. <span data-ttu-id="be8b9-p101">Järgige juhiseid, et teie e-posti või telefoni number. Microsoft saadab turvakoodi, et uus e-posti aadress või telefoni number.</span><span class="sxs-lookup"><span data-stu-id="be8b9-p101">Follow the instructions to enter your email or phone number. Microsoft will send a security code to that new email address or phone number.</span></span>
+3. <span data-ttu-id="46b97-p101">Järgige juhiseid, et teie e-posti või telefoni number. Microsoft saadab turvakoodi, et uus e-posti aadress või telefoni number.</span><span class="sxs-lookup"><span data-stu-id="46b97-p101">Follow the instructions to enter your email or phone number. Microsoft will send a security code to that new email address or phone number.</span></span>
     
-4. <span data-ttu-id="be8b9-p102">Sisestage turvakood ja vajutage **Next**. Uus turbeteave ilmub loendis.</span><span class="sxs-lookup"><span data-stu-id="be8b9-p102">Enter the security code and press **Next**. Your new security info will appear in your list.</span></span> 
+4. <span data-ttu-id="46b97-p102">Sisestage turvakood ja vajutage **Next**. Uus turbeteave ilmub loendis.</span><span class="sxs-lookup"><span data-stu-id="46b97-p102">Enter the security code and press **Next**. Your new security info will appear in your list.</span></span> 
     
-<span data-ttu-id="be8b9-p103">Kui sa lähed puhkusele ja ei saa turvakoode, siis seadme usaldusväärne. See tähendab, et Microsoft ei saada autentimiskoode kui logite Outlook.com selles seadmes.</span><span class="sxs-lookup"><span data-stu-id="be8b9-p103">If you're going on vacation and can't receive security codes, make your device a trusted device. This means Microsoft won't send you authentication codes when you sign in to Outlook.com on that device.</span></span>
+<span data-ttu-id="46b97-p103">Kui sa lähed puhkusele ja ei saa turvakoode, siis seadme usaldusväärne. See tähendab, et Microsoft ei saada autentimiskoode kui logite Outlook.com selles seadmes.</span><span class="sxs-lookup"><span data-stu-id="46b97-p103">If you're going on vacation and can't receive security codes, make your device a trusted device. This means Microsoft won't send you authentication codes when you sign in to Outlook.com on that device.</span></span>
   
-1. <span data-ttu-id="be8b9-112">Seadme soovite muuta usaldusväärne, minge lehele [turbesätted](https://go.microsoft.com/fwlink/p/?linkid=2002000&amp;clcid=0x409) ja logige sisse Microsofti kontole.</span><span class="sxs-lookup"><span data-stu-id="be8b9-112">On the device you want to make a trusted device, go the [Security settings](https://go.microsoft.com/fwlink/p/?linkid=2002000&amp;clcid=0x409) page and sign in to your Microsoft account.</span></span> 
+1. <span data-ttu-id="46b97-112">Seadme soovite muuta usaldusväärne, minge lehele [turbesätted](https://go.microsoft.com/fwlink/p/?linkid=2002000&amp;clcid=0x409) ja logige sisse Microsofti kontole.</span><span class="sxs-lookup"><span data-stu-id="46b97-112">On the device you want to make a trusted device, go the [Security settings](https://go.microsoft.com/fwlink/p/?linkid=2002000&amp;clcid=0x409) page and sign in to your Microsoft account.</span></span> 
     
-2. <span data-ttu-id="be8b9-p104">Valige, kas soovite saada kaudu e-posti, teksti või autentimisrakendusele turbekood. Pärast koodi saamist sisestage see tekstiväljale.</span><span class="sxs-lookup"><span data-stu-id="be8b9-p104">Choose whether to receive a security code through email, text, or authenticator app. Once you have the code, enter it in the text box.</span></span>
+2. <span data-ttu-id="46b97-p104">Valige, kas soovite saada kaudu e-posti, teksti või autentimisrakendusele turbekood. Pärast koodi saamist sisestage see tekstiväljale.</span><span class="sxs-lookup"><span data-stu-id="46b97-p104">Choose whether to receive a security code through email, text, or authenticator app. Once you have the code, enter it in the text box.</span></span>
     
-3. <span data-ttu-id="be8b9-115">Märkige ruut **jaoks login sageli selles seadmes. Ära Küsi minult koodi.**</span><span class="sxs-lookup"><span data-stu-id="be8b9-115">Select the check box for **I sign in frequently on this device. Don't ask me for a code.**</span></span>
+3. <span data-ttu-id="46b97-115">Märkige ruut **jaoks login sageli selles seadmes. Ära Küsi minult koodi.**</span><span class="sxs-lookup"><span data-stu-id="46b97-115">Select the check box for **I sign in frequently on this device. Don't ask me for a code.**</span></span>
     
-4. <span data-ttu-id="be8b9-116">Valige **Esita**.</span><span class="sxs-lookup"><span data-stu-id="be8b9-116">Select **Submit**.</span></span> 
+4. <span data-ttu-id="46b97-116">Valige **Esita**.</span><span class="sxs-lookup"><span data-stu-id="46b97-116">Select **Submit**.</span></span> 
     
-<span data-ttu-id="be8b9-p105">Automaatvastuste abil saate lugejatele teada te meilidele ei vasta nende sõnumite kohe. Õppida, kuidas saata [automaatvastused Outlook.com-is](https://go.microsoft.com/fwlink/p/?linkid=2002100&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="be8b9-p105">Use automatic replies to tell people you won't be responding to their messages right away. Learn how to [Send automatic replies in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002100&amp;clcid=0x409).</span></span>
+<span data-ttu-id="46b97-p105">Automaatvastuste abil saate lugejatele teada te meilidele ei vasta nende sõnumite kohe. Õppida, kuidas saata [automaatvastused Outlook.com-is](https://go.microsoft.com/fwlink/p/?linkid=2002100&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="46b97-p105">Use automatic replies to tell people you won't be responding to their messages right away. Learn how to [Send automatic replies in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002100&amp;clcid=0x409).</span></span>
   
 
