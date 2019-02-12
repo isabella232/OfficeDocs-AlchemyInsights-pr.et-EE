@@ -1,5 +1,5 @@
 ---
-title: Üleminek mõnele muule Office 365 ettevõtteversiooni lepingule
+title: Lüliti erinevate Office 365 Business Plan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -7,18 +7,18 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7c49d3b06eac4fb03a6303dcad701ec0a3203224
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465981"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927896"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Üleminek mõnele muule Office 365 ettevõtteversiooni lepingule
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Lüliti erinevate Office 365 Business Plan
 
 Kui muudatused äri või vajate rohkem Office 365 funktsioone, saate vahetada plaanid.
   

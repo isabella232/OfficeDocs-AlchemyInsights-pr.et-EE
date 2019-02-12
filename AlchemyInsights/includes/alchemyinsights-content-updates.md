@@ -838,3 +838,57 @@
 | 1/30/2019 | [Saada konto 123 keelatud OWA viga?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | muudetud |
 | 2/1/2019 | [sama faili nimi on parim [reegel #-kirjeldus]](/AlchemyInsights/1-alchemy-insight-template) | muudetud |
 | 2/1/2019 | [Õiguste postkasti](/AlchemyInsights/changing-permissions-on-a-mailbox) | muudetud |
+
+
+## <a name="week-of-february-04-2019"></a>04. veebruar 2019 nädal
+
+
+| Avaldatud |Teema pealkiri | Muutus |
+|------|------------|--------|
+| 2/4/2019 | [Kasutajate lisamine rakendusse Office 365](/AlchemyInsights/add-users-to-office-365) | muudetud |
+| 2/6/2019 | [Töötaja lahkumist](/AlchemyInsights/employee-leaving) | muudetud |
+| 2/6/2019 | [Admin ülevõtmine](/AlchemyInsights/admin-takeover) | muudetud |
+| 2/6/2019 | [Kuidas TenantAccessBlockedException viga, kui e-posti juurdepääsu 127?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | muudetud |
+| 2/6/2019 | [959 muutus kuvatav nimi](/AlchemyInsights/959-change-display-name) | muudetud |
+| 2/6/2019 | [Lisada või eemaldada kasutaja alias e-posti](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | muudetud |
+| 2/6/2019 | Ettemakstud tellimus istmed lisamine | eemaldatud |
+| 2/6/2019 | [Kasutajate lisamine rakendusse Office 365](/AlchemyInsights/add-users-to-office-365) | muudetud |
+| 2/6/2019 | [Väliste kasutajate lisamine levirühma?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | muudetud |
+| 2/6/2019 | Admin - Global Office 365 häälestus ja haldus | eemaldatud |
+| 2/6/2019 | Admin - minu kasutajate, rühmade ja ressursside haldamist | eemaldatud |
+| 2/6/2019 | Admin - seadistamine domeeni ja DNS-i sätted | eemaldatud |
+| 2/6/2019 | Admin - Logi sisse ja parooliprobleemid | eemaldatud |
+| 2/6/2019 | [Office 365 tellimuse tühistada](/AlchemyInsights/cancel-office-365-subscription) | muudetud |
+| 2/6/2019 | [Muuta kasutaja nimi ja aadress](/AlchemyInsights/change-a-user-s-name-and-email-address) | muudetud |
+| 2/6/2019 | Kaubandus - arved, maksed, tellimused ja litsentside haldamine | eemaldatud |
+| 2/6/2019 | [Kuidas TenantAccessBlockedException viga, kui e-posti juurdepääsu?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | muudetud |
+| 2/6/2019 | [E-posti kohaletoimetamise probleeme?](/AlchemyInsights/having-email-delivery-issues-0) | muudetud |
+| 2/6/2019 | [E-posti kohaletoimetamise probleeme?](/AlchemyInsights/having-email-delivery-issues) | muudetud |
+| 2/6/2019 | [Probleeme Outlook ühendust saada?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | muudetud |
+| 2/6/2019 | [Probleeme Outlook ühendust saada?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | muudetud |
+| 2/6/2019 | Intune - lae, Setup ja kasutada Intune'i | eemaldatud |
+| 2/6/2019 | [Probleem Skype'i ärirakendus?](/AlchemyInsights/issue-with-skype-for-business) | muudetud |
+| 2/6/2019 | ODSP | eemaldatud |
+| 2/6/2019 | Office'i kliendi - Excel | eemaldatud |
+| 2/6/2019 | [Taasta kustutatud kasutaja](/AlchemyInsights/restore-deleted-user) | muudetud |
+| 2/6/2019 | [Teenuse intsident pooleli](/AlchemyInsights/service-incident-in-progress-0) | muudetud |
+| 2/6/2019 | [Teenuse intsident pooleli](/AlchemyInsights/service-incident-in-progress-1) | muudetud |
+| 2/6/2019 | [Teenuse intsident pooleli](/AlchemyInsights/service-incident-in-progress-2) | muudetud |
+| 2/6/2019 | [Teenuse intsident pooleli](/AlchemyInsights/service-incident-in-progress-3) | muudetud |
+| 2/6/2019 | [Teenuse intsident pooleli](/AlchemyInsights/service-incident-in-progress-4) | muudetud |
+| 2/6/2019 | [Teenuse intsident pooleli](/AlchemyInsights/service-incident-in-progress-5) | muudetud |
+| 2/6/2019 | [Teenuse intsident pooleli](/AlchemyInsights/service-incident-in-progress) | muudetud |
+| 2/6/2019 | [Projekti seadistamine](/AlchemyInsights/setting-up-project) | muudetud |
+| 2/6/2019 | Setup vastavuse funktsioonid nagu Arhiiv, säilitamise, kohtuvaidlused, eDiscovery ja MDM | eemaldatud |
+| 2/6/2019 | Kasutades Offline Installer Office'i | eemaldatud |
+| 2/6/2019 | Yammer - Setup ja kasutada Yammerit teenuseid | eemaldatud |
+| 2/7/2019 | [Exceli krahh?](/AlchemyInsights/excel-crashing) | muudetud |
+| 2/7/2019 | [Kuidas lisada või muuta mõne VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | muudetud |
+| 2/7/2019 | [Minecraft väljaanne Office 365 koolitus tasuta](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | muudetud |
+| 2/7/2019 | [606 infot delegatsioon](/AlchemyInsights/606-information-on-delegation) | muudetud |
+| 2/7/2019 | [Oma nimel ei Näita sõprade nimekirja](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | muudetud |
+| 2/8/2019 | [DLP poliitika nõuanded ei tööta](/AlchemyInsights/dlp-policy-tips-not-working) | muudetud |
+| 2/8/2019 | [DLP reegel USA / UK passi Number ei tööta](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | muudetud |
+| 2/8/2019 | [Office 365 koolitus tasuta](/AlchemyInsights/office-365-education-for-free) | muudetud |
+| 2/8/2019 | [Vajalik litsentside Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | muudetud |
+| 2/8/2019 | [Säilituspoliitikate Exchange'i administraatori Center ei tööta](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | muudetud |
