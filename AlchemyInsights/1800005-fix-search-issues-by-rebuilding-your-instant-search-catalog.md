@@ -1,7 +1,7 @@
 ---
 title: 1800005 fix Otsi probleeme uuesti koostamisega kiirotsingu kataloog
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 6/7/2018
 ms.audience: Admin
@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: b126a921828a87ce3705f8cf6cf1779c3b8ec13e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 62e4ff4d5e05324a5c23be08af85431b156f4621
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901184"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969637"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="18cc2-102">Otsi lahendamine uuesti koostamisega kiirotsingu kataloog</span><span class="sxs-lookup"><span data-stu-id="18cc2-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
+# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="a4cee-102">Otsi lahendamine uuesti koostamisega kiirotsingu kataloog</span><span class="sxs-lookup"><span data-stu-id="a4cee-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
 
-1. <span data-ttu-id="18cc2-103">Sulgege Outlook ja avage **Juhtpaneel**.</span><span class="sxs-lookup"><span data-stu-id="18cc2-103">Close Outlook and open **Control Panel**.</span></span>
+1. <span data-ttu-id="a4cee-103">Sulgege Outlook ja avage **Juhtpaneel**.</span><span class="sxs-lookup"><span data-stu-id="a4cee-103">Close Outlook and open **Control Panel**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="18cc2-104">Olenevalt versioonist Office kasutamisel, peate klõpsake nuppu **Start** ja paremklõpsake menüü **Start** menu, **Control Panel**.</span><span class="sxs-lookup"><span data-stu-id="18cc2-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
+    > <span data-ttu-id="a4cee-104">Olenevalt versioonist Office kasutamisel, peate klõpsake nuppu **Start** ja paremklõpsake menüü **Start** menu, **Control Panel**.</span><span class="sxs-lookup"><span data-stu-id="a4cee-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
   
-2. <span data-ttu-id="18cc2-105">Tehke ühte järgmistest.</span><span class="sxs-lookup"><span data-stu-id="18cc2-105">Do one of the following:</span></span>
+2. <span data-ttu-id="a4cee-105">Tehke ühte järgmistest.</span><span class="sxs-lookup"><span data-stu-id="a4cee-105">Do one of the following:</span></span>
     
-  - <span data-ttu-id="18cc2-106">Valige **Indekseerimissuvandid**.</span><span class="sxs-lookup"><span data-stu-id="18cc2-106">Choose **Indexing Options**.</span></span>
+  - <span data-ttu-id="a4cee-106">Valige **Indekseerimissuvandid**.</span><span class="sxs-lookup"><span data-stu-id="a4cee-106">Choose **Indexing Options**.</span></span>
     
-  - <span data-ttu-id="18cc2-107">**Otsinguväljale** tippige *indekseerimine* ja valige **Indekseerimissuvandid**.</span><span class="sxs-lookup"><span data-stu-id="18cc2-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
+  - <span data-ttu-id="a4cee-107">**Otsinguväljale** tippige *indekseerimine* ja valige **Indekseerimissuvandid**.</span><span class="sxs-lookup"><span data-stu-id="a4cee-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
     
-3. <span data-ttu-id="18cc2-108">**Indekseeritud asukohad** dialoogiboksi jaotises **valitud asukohtade muutmine**, asukoha muutmiseks märkige ruut ja klõpsake **OK**.</span><span class="sxs-lookup"><span data-stu-id="18cc2-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
+3. <span data-ttu-id="a4cee-108">**Indekseeritud asukohad** dialoogiboksi jaotises **valitud asukohtade muutmine**, asukoha muutmiseks märkige ruut ja klõpsake **OK**.</span><span class="sxs-lookup"><span data-stu-id="a4cee-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
     
-4. <span data-ttu-id="18cc2-109">Klõpsake dialoogiboksis **Täpsemad suvandid** vahekaardil **Indeksi sätted** all **tõrkeotsing**, **taastada**.</span><span class="sxs-lookup"><span data-stu-id="18cc2-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
+4. <span data-ttu-id="a4cee-109">Klõpsake dialoogiboksis **Täpsemad suvandid** vahekaardil **Indeksi sätted** all **tõrkeotsing**, **taastada**.</span><span class="sxs-lookup"><span data-stu-id="a4cee-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="18cc2-p101">**Taastada indeks** dialoogiboksi, avaneb hoiatus, et kui "indeks võib võtta kaua aega." Valige **OK** , et alustada registri uuesti koostamine.</span><span class="sxs-lookup"><span data-stu-id="18cc2-p101">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete." Choose **OK** to start rebuilding the index.</span></span> 
+    > <span data-ttu-id="a4cee-p101">**Taastada indeks** dialoogiboksi, avaneb hoiatus, et kui "indeks võib võtta kaua aega." Valige **OK** , et alustada registri uuesti koostamine.</span><span class="sxs-lookup"><span data-stu-id="a4cee-p101">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete." Choose **OK** to start rebuilding the index.</span></span> 
   
-<span data-ttu-id="18cc2-112">Vaadake lisateavet jaotisest [POP/IMAP kontod otsingutulemeid](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx)teadaolev probleem.</span><span class="sxs-lookup"><span data-stu-id="18cc2-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
+<span data-ttu-id="a4cee-112">Vaadake lisateavet jaotisest [POP/IMAP kontod otsingutulemeid](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx)teadaolev probleem.</span><span class="sxs-lookup"><span data-stu-id="a4cee-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
   
 
