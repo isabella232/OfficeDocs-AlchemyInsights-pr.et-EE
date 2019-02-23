@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 91bbdb6b3dbdc73e61405dc27cbced188198ada9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1e1e80839b167fc7c99ad94daca10c9affa427a1
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938192"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209769"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Välise SharePointi jaoks ühiskasutuse sisse või välja lülitada
 
-1. Portaali Office 365 halduskeskus, minge [teenuste &amp; lisandmoodulid lehe](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), ja klõpsake nuppu **saidid**.
+1. Minge Microsofti 365 administreerimiskeskuses [teenuste &amp; lisandmoodulid lehe](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), ja klõpsake nuppu **saidid**.
     
 2. Lülitage säte sisse või välja lülitada, või valige ühiskasutuse säte, kui see on sisse lülitatud.
     

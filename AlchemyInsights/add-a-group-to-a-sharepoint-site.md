@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: a0d28ea749012d852b5eb593d61ca899e6e0c4c7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 767805b8de07e22ca14447adeea6a0cbd078750c
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898232"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209373"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Rühma lisamine SharePointi saidil
 
@@ -24,7 +24,7 @@ Mõned SharePointi meeskonnatöö saitidel (sh loodud Microsoft Teams) hallata O
   
 Hallata Office 365 rühma liikmed:
   
-1. Avage [Office 365 administreerimiskeskuses lehe](https://portal.office.com/adminportal/home#/groups).
+1. Avage [Microsoft 365 administreerimiskeskuses lehe](https://portal.office.com/adminportal/home#/groups).
     
 2. Valige selle omanikud ja liikmed. Lisamiseks või eemaldamiseks klõpsake linki **Redigeeri** **omanike** või **liikmete** reas. 
     

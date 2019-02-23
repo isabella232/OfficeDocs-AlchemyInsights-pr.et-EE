@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906404"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207753"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kuidas suurendada ladustamine OneDrive for Business
 
@@ -27,7 +27,7 @@ See ladustamise ruumi säte rakendub kõigile kasutajatele, kelle jaoks te pole 
   
 Valida suurendada salvestusruumi OneDrive for Business, Office 365 leping, mis sisaldab **OneDrive for Business kava 2** või **Office 365 Enterprise E3**. 
   
-Office 365 administreerimiskeskuses plaanide muutmiseks minge **arved** \> **tellimusi**, ja seejärel valige **vahetada plaanid.**
+Microsoft 365 administreerimiskeskuses plaanide muutmiseks minge **arved** \> **tellimusi**, ja seejärel valige **vahetada plaanid.**
   
 Vt täpsemat teavet ülemineku plaanid ja OneDrive for Businessi salvestusruumiga, [lüliti erinevate Office 365 äriplaani](https://go.microsoft.com/fwlink/?LinkId=2031117) ja [OneDrive for Business teenuse kirjeldus](https://go.microsoft.com/fwlink/?LinkId-2031122).
   
