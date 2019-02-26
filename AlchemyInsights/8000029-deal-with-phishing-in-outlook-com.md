@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: 4683bd62adb7bf9096dc7e5fedca8b42d6dcccf0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ed917050637d3984cc120fa26ecb29719a921878
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930501"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244505"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Tegeleda andmepüügiga tegelemiseks postkastis
 
@@ -32,6 +32,6 @@ Vaadake lisateavet kuidas [toimida kuritarvitamise, andmepüügist või tüssami
   
 Kui näete suurendada spam, lugeda [rämpsposti ja rämpsposti oma postkastist eemal](https://go.microsoft.com/fwlink/p/?linkid=873140)hoida.
   
-Blokeerida e-posti aadressid, minge **seaded**![sätted](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Valikud** \> **Blokeeritud saatjad**. Aadressid või domeenid oma turvaliste saatjate loendisse lisamiseks valige **Turvalised saatjad**. 
+Blokeerida e-posti aadressid, minge **seaded** \> **Valikud** \> **Blokeeritud saatjad**. Aadressid või domeenid oma turvaliste saatjate loendisse lisamiseks valige **Turvalised saatjad**. 
   
 

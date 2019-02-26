@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88906b68e22bc21549e92c074ebb053be9b8660b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929119"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244469"
 ---
 # <a name="delete-a-contact"></a>Kontakti kustutamine
 
-1. Valige lehe ülaosas rakenduse käivitajal ![The rakenduse käivitajal nuppu. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) ja valige **inimesed**. 
+1. Lehe ülaosas valige rakenduse käivitaja ja valige **inimesed**. 
     
-2. Valige kontakt, kelle soovite kustutada ja valige **kustutada**![kustutada](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).
+2. Valige kontakt, kelle soovite kustutada ja valige **Kustuta**.
     
     Kui te ei saa **kustutada**, võib kontakt Skype või ühendatud sotsiaalvõrgustiku konto. Kontakti kustutamiseks minge Skype'i või konto kus kontakt asub.
     
