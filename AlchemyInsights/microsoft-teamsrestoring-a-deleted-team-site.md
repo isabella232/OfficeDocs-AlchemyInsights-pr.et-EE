@@ -8,17 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 1382cb840a768afac42ac5a521ee44ef380341a5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fb1b75df37b38635ba101b1f2cd9f678e631a7f9
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930712"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468515"
 ---
 # <a name="restoring-a-deleted-team-site"></a>Taastada kustutatud Team Site
 
-Ei, kuna meeskonna omanik, kustutasite meeskond? See juhtub, kuid saate siiski saada see tagasi.
-  
-Taastada kustutatud meeskond Microsoft Teams, järgige juhiseid siin: [taastada kustutatud meeskond](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
+Kas te kustutasite kogemata meeskond? Kui kustutasite meeskond on möödunud vähem kui 30 päeva, sa oled õnne; Saate selle taastada. Selleks järgige siin: [taastada kustutatud meeskond](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
   
 
