@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939281"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634500"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Nõutav alkeemia päise H1, H2's ei tööta.
 Heade tavade ja suuniste alkeemia authoring:
 
 1. **Pesa alkeemia ülevaatlikke kaustad**- see rikub URL-i struktuuri. Ootame, millega seda arvesse.
 1. Failid kaustas **AlchemyInsights** peaks olema reegli ID ja [alkeemia partneriportaal](https://alchemyportal.azurewebsites.net) reegli nimi faili nimi.
-    1. nt ***976-How-to-enable-litigation-hold***
+    1. ex. ***976-How-to-enable-Litigation-Hold***
 1. Kasutada seda faili ülaosas metaandmete malli. Midagi ei ole vaja.
 1. [Portaal alkeemia Partner](https://alchemyportal.azurewebsites.net)navigeerida jaotiseni **kliendile ülevaate pealkiri:** ja kasutamine, et kohe alguses tuleb seadusandjal punkti oma H1 pealkiri tutvustus. 
     > [!NOTE]
@@ -36,6 +36,6 @@ Heade tavade ja suuniste alkeemia authoring:
 
 Ja see on tõesti juba natuke liiga pikk. On umbes 400 tähemärki---
 
-Kui teie sisu on valmis, tõmmake see live kontorisse. Seejärel minge [alkeemia partneriportaal](https://alchemyportal.azurewebsites.net) ja sisestage faili nimi väljale. Veenduge, et läbi vaadata ja avaldada teavet ütleb "Jah" ja seejärel käsku Update reegel. **(See näeb ilusam uues versioonis portaali - vabastades kiiresti.)** 
+Kui teie sisu on valmis, tõmmake see live kontorisse. Seejärel minge [alkeemia partneriportaal](https://alchemyportal.azurewebsites.net) ja sisestage faili nimi väljale. Veenduge, et läbi vaadata ja avaldada teavet ütleb "Jah" ja seejärel käsku Update reegel. **(See näeb ilusam portaal - vabastades kiiresti uues versioonis.)** 
  ![URL-i väljale](media/for-content-team.PNG)
 
