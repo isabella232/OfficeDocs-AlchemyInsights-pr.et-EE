@@ -1,39 +1,37 @@
 ---
-title: Rakenduste paroolid
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 rakenduse paroolid
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938228"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762528"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="59aed-102">Rakenduste paroolid</span><span class="sxs-lookup"><span data-stu-id="59aed-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="99eba-102">Rakenduste paroolid</span><span class="sxs-lookup"><span data-stu-id="99eba-102">App passwords</span></span>
 
-<span data-ttu-id="59aed-p101">Rakenduse parooli on kood, mis sisaldab rakenduse või seadme Luba juurdepääs Office 365 kontole. Kui teie administraator on lubanud mitmefaktorilist autentimist oma asutuse ja kasutamisel rakendused, mida Office 365 kontoga ühendada, peate rakenduse parooli loomiseks rakendust Office 365 ühenduse loomiseks. Näiteks kui kasutamisel Outlook 2016 või varem Office 365, peate rakenduse parooli loomiseks.</span><span class="sxs-lookup"><span data-stu-id="59aed-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
+<span data-ttu-id="99eba-103">Rakenduse parooli on kood, mis sisaldab rakenduse või seadme Luba juurdepääs oma Office 365 töö või kooli kontole.</span><span class="sxs-lookup"><span data-stu-id="99eba-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="99eba-104">Kui teie konto nõuab mitme teguriga autentimine (MFA) ja rakendus ühendab oma kontole, peate rakenduse parooli loomiseks rakendust Office 365 ühenduse loomiseks.</span><span class="sxs-lookup"><span data-stu-id="99eba-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="99eba-105">Näiteks Outlook 2016 ja varasemate versioonidega Outlook on vaja rakenduse parooli.</span><span class="sxs-lookup"><span data-stu-id="99eba-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
   
-1. <span data-ttu-id="59aed-p102">Kontrollige, kas Office 365 admin on lülitatud mitmefaktorilist autentimist meie arvele. Kui ei ole, kui proovite teha järgmiselt ei näe te Office 365 võimalusi.</span><span class="sxs-lookup"><span data-stu-id="59aed-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
+ <span data-ttu-id="99eba-106">**Märkus**: enne järgmist, uurige Office 365 admin MFA nõutakse meie arvele.</span><span class="sxs-lookup"><span data-stu-id="99eba-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="99eba-107">Vastasel korral juhistes Valikud saadaval teile</span><span class="sxs-lookup"><span data-stu-id="99eba-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+  
+1. <span data-ttu-id="99eba-108">Logige sisse Office 365 koos oma töö või kooli kontot ja parooli.</span><span class="sxs-lookup"><span data-stu-id="99eba-108">Sign in to Office 365 with your work or school account and your password.</span></span>
     
-2. <span data-ttu-id="59aed-p103">Logige sisse Office 365 oma töö- või koolikontoga konto parooli nagu tavaliselt. Siis, kui **sisselogimine**, näete lehe kasutajanimi ja mõned võimalused</span><span class="sxs-lookup"><span data-stu-id="59aed-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
+2. <span data-ttu-id="99eba-109">Valige **selle kohe häälestada**.</span><span class="sxs-lookup"><span data-stu-id="99eba-109">Choose **Set it up now**.</span></span>
     
-3. <span data-ttu-id="59aed-110">Valige **selle kohe häälestada**.</span><span class="sxs-lookup"><span data-stu-id="59aed-110">Choose **Set it up now**.</span></span> 
+3. <span data-ttu-id="99eba-110">Valige autentimise meetodit ja järgige kuvatavaid juhiseid.</span><span class="sxs-lookup"><span data-stu-id="99eba-110">Select your authentication method and follow the prompts.</span></span>
     
-4. <span data-ttu-id="59aed-111">Valige autentimise meetodit ja järgige lehel kuvatavaid juhiseid.</span><span class="sxs-lookup"><span data-stu-id="59aed-111">Select your authentication method and then follow the prompts on the page.</span></span>
+4. <span data-ttu-id="99eba-111">Pärast teie kontakti muul viisil kontrollimist valida **järgmise**.</span><span class="sxs-lookup"><span data-stu-id="99eba-111">After you verify your alternate contact method, choose **Next**.</span></span>
     
-5. <span data-ttu-id="59aed-112">Pärast teie kontakti muul viisil kontrollimist valida **järgmise**.</span><span class="sxs-lookup"><span data-stu-id="59aed-112">After you verify your alternate contact method, choose **Next**.</span></span> 
-    
-6. <span data-ttu-id="59aed-p104">Saate rakenduse parooli, mille abil saab Outlook, Apple Mail jne. Valige Kopeeri ikooni koopia parooli lõikelauale. Tarvidust selle parooli meelde.</span><span class="sxs-lookup"><span data-stu-id="59aed-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
-    
-7. <span data-ttu-id="59aed-115">Kui teie Office 365 meilikonto lisamine Outlooki (või mõni muu rakendus) ja teilt küsitakse parooli, viimase see rakenduse parool väljale parool konto parooli tippimise asemel.</span><span class="sxs-lookup"><span data-stu-id="59aed-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
+5. <span data-ttu-id="99eba-112">Saate rakenduse parooli, mille abil saab Outlook, Apple Mail ja muud rakendused, mis seda vajavad.</span><span class="sxs-lookup"><span data-stu-id="99eba-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="99eba-113">Valige **Kopeeri** kopeerida parool, nii et saate kleebi see mujal (te ei pea meeles).</span><span class="sxs-lookup"><span data-stu-id="99eba-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
     
 

@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: cb2dd4baf1035b1625b9f598930fc914de3fa266
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 9bce141a3696d59fa2c9cf29aa128004504bd3cc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208220"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763572"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="fdd24-102">Ühiskasutuses postkasti saada kui käitumise muutmine</span><span class="sxs-lookup"><span data-stu-id="fdd24-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="bd65f-102">Ühiskasutuses postkasti saada kui käitumise muutmine</span><span class="sxs-lookup"><span data-stu-id="bd65f-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="fdd24-p101">Vaikimisi ei ole ühiskasutuses postkasti saadetud sõnumid salvestatud ühiskasutatava kausta Saadetud. Selle asemel nad salvestatud sõnumi saatja kaustas Saadetud.</span><span class="sxs-lookup"><span data-stu-id="fdd24-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="bd65f-103">Vaikimisi ei ole ühiskasutuses postkasti saadetud sõnumid salvestatud ühiskasutatava kausta Saadetud.</span><span class="sxs-lookup"><span data-stu-id="bd65f-103">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox.</span></span> <span data-ttu-id="bd65f-104">Selle asemel nad salvestatud sõnumi saatja kaustas Saadetud.</span><span class="sxs-lookup"><span data-stu-id="bd65f-104">Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="fdd24-105">Kui soovitud kõigile liikmetele saadetud posti, Microsoft 365 administreerimiskeskuses muuta ühiskasutuses postkasti üksikasju ja valida **saadetud** \> **muuta**.</span><span class="sxs-lookup"><span data-stu-id="fdd24-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="bd65f-105">Kui soovitud kõigile liikmetele saadetud posti, Microsoft 365 administreerimiskeskuses muuta ühiskasutuses postkasti üksikasju ja valida **saadetud** \> **muuta**.</span><span class="sxs-lookup"><span data-stu-id="bd65f-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="fdd24-106">Loe lähemalt, vaadake teemast [ühiskasutuses postkasti](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="fdd24-106">To read more, see [Create a shared mailbox](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
+<span data-ttu-id="bd65f-106">Loe lähemalt, vaadake teemast [ühiskasutuses postkasti](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="bd65f-106">To read more, see [Create a shared mailbox](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
   
 

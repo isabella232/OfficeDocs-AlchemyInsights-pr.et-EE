@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 95d6ff680dff8c6b045fd00e3d1212a0cf18b893
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7bdc84bf69eba228aaf536befe4b5ce5d150f3b2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916952"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754178"
 ---
-# <a name="download-and-install-office"></a><span data-ttu-id="c3a50-102">Laadige alla ja installige Office</span><span class="sxs-lookup"><span data-stu-id="c3a50-102">Download and install Office</span></span>
+# <a name="download-and-install-office"></a><span data-ttu-id="db810-102">Laadige alla ja installige Office</span><span class="sxs-lookup"><span data-stu-id="db810-102">Download and install Office</span></span>
 
-<span data-ttu-id="c3a50-p101">Tellimuse **Business Essentials** ei sisalda Office'i rakendused. Selleks, et saada Office, sa pead uuendama **äri** või **Business Premiumi** tellimus. Tutvu saadaval liikmemaksu Office siin: [Office 365 Businessi lepingud](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span><span class="sxs-lookup"><span data-stu-id="c3a50-p101">Your **Business Essentials** subscription does not include the Office apps. In order to get Office, you will need to upgrade to the **Business** or **Business Premium** subscription. Check out the available subscriptions with Office here: [Office 365 Business Plans](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span></span>
+<span data-ttu-id="db810-103">Tellimuse **Business Essentials** ei sisalda Office'i rakendused.</span><span class="sxs-lookup"><span data-stu-id="db810-103">Your **Business Essentials** subscription does not include the Office apps.</span></span> <span data-ttu-id="db810-104">Selleks, et saada Office, sa pead uuendama **äri** või **Business Premiumi** tellimus.</span><span class="sxs-lookup"><span data-stu-id="db810-104">In order to get Office, you will need to upgrade to the **Business** or **Business Premium** subscription.</span></span> <span data-ttu-id="db810-105">Tutvu saadaval liikmemaksu Office siin: [Office 365 Businessi lepingud](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span><span class="sxs-lookup"><span data-stu-id="db810-105">Check out the available subscriptions with Office here: [Office 365 Business Plans](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span></span>
   
 
