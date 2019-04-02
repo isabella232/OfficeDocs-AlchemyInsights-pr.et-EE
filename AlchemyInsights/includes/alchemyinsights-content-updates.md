@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-PERFORM-eDiscovery-and-content-Searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | ümber nimetatud |
 
 
-## <a name="week-of-february-18-2019"></a>18. veebruar 2019 nädal
+## <a name="week-of-march-25-2019"></a>25. märts 2019 nädal
 
 
 | Avaldatud |Teema pealkiri | Muutus |
 |------|------------|--------|
-| 2/19/2019 | [Sain "Parameeter ei leitud" viga?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | muudetud |
-| 2/19/2019 | [Tõsta meil Office 365](/AlchemyInsights/move-email-to-office-365) | muudetud |
-| 2/19/2019 | [Taasta kustutatud postkasti](/AlchemyInsights/restore-deleted-mailbox) | muudetud |
-| 2/21/2019 | [Kuidas paigaldada Mac Office portaalist](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | ümber nimetatud |
-| 2/22/2019 | [1048 5.7.750 teenus pole saadaval. Kliendi blokeeritud saatmine registreerimata domeenid](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | muudetud |
-| 2/22/2019 | [125 saada viga kehtetu litsents Outlook veebis?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | muudetud |
-| 2/22/2019 | [126 saada postkasti ei leitud viga OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | muudetud |
-| 2/22/2019 | [Kuidas TenantAccessBlockedException viga, kui e-posti juurdepääsu 127?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | muudetud |
-| 2/22/2019 | [Kuidas TenantAccessBlockedException viga, kui e-posti juurdepääsu 128?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | muudetud |
-| 2/22/2019 | [711 leviloendit või rühma](/AlchemyInsights/711-creating-a-distribution-list-or-group) | muudetud |
-| 2/22/2019 | [912 konfigureerimine fookustatud sisendkaustas kõigile organisatsiooni](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | muudetud |
-| 2/22/2019 | [Domeeni eemaldada](/AlchemyInsights/remove-domain) | muudetud |
-| 2/22/2019 | [Rühma lisamine SharePointi saidil](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | muudetud |
-| 2/22/2019 | [Lisa veel üks e-posti pseudonüüm](/AlchemyInsights/add-another-email-alias) | muudetud |
-| 2/22/2019 | [Kontaktide lisamiseks rühma O365](/AlchemyInsights/add-contacts-to-o365-group) | muudetud |
-| 2/22/2019 | [Muuda UPN](/AlchemyInsights/change-upn) | muudetud |
-| 2/22/2019 | [Avaliku kausta õiguste muutmine](/AlchemyInsights/changing-public-folder-permissions) | muudetud |
-| 2/22/2019 | [Ühiskasutuses postkasti saada kui käitumise muutmine](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | muudetud |
-| 2/22/2019 | [AAD identiteedi sünkroonimise oleku kontrollimine](/AlchemyInsights/check-aad-identity-sync-status) | muudetud |
-| 2/22/2019 | [Office 365 lepingute võrdlus](/AlchemyInsights/compare-office-365-plans) | muudetud |
-| 2/22/2019 | [Klassikaline saidi loomine](/AlchemyInsights/create-a-classic-site) | muudetud |
-| 2/22/2019 | [Luua saidi SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | muudetud |
-| 2/22/2019 | [Erakaustade loomise](/AlchemyInsights/creating-public-folders) | muudetud |
-| 2/22/2019 | [SharePointi saidi kustutamine](/AlchemyInsights/delete-a-sharepoint-site-0) | muudetud |
-| 2/22/2019 | [Võimaldada kasutajatele juurdepääs SharePointis või OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | muudetud |
-| 2/22/2019 | [Sain "Parameeter ei leitud" viga?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | muudetud |
-| 2/22/2019 | [E-posti kohaletoimetamise probleeme?](/AlchemyInsights/having-email-delivery-issues-0) | muudetud |
-| 2/22/2019 | [E-posti kohaletoimetamise probleeme?](/AlchemyInsights/having-email-delivery-issues) | muudetud |
-| 2/22/2019 | [Probleeme Outlook ühendust saada?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | muudetud |
-| 2/22/2019 | [Probleeme Outlook ühendust saada?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | muudetud |
-| 2/22/2019 | [Maci kasutajatele Office litsentsi määramine](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | muudetud |
-| 2/22/2019 | [Kuidas osta abonement Office 365 business litsentsid](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | muudetud |
-| 2/22/2019 | [Kuidas suurendada ladustamine OneDrive for Business](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | muudetud |
-| 2/22/2019 | [Kuidas tellimus uuesti](/AlchemyInsights/how-to-reactivate-a-subscription) | muudetud |
-| 2/22/2019 | [Postkasti mahtu suurendada ettevõtte SKUs](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | muudetud |
-| 2/22/2019 | [Postkasti mahtu suurendada SMB SKUs](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | muudetud |
-| 2/22/2019 | [Postkasti mahtu suurendada](/AlchemyInsights/increase-mailbox-size) | muudetud |
-| 2/22/2019 | [Probleem Skype'i ärirakendus?](/AlchemyInsights/issue-with-skype-for-business) | muudetud |
-| 2/22/2019 | [Sünkroonitud kasutaja kontode haldamine](/AlchemyInsights/manage-synchronized-user-accounts) | muudetud |
-| 2/22/2019 | [Monitor OneDrive ja SharePointi kasutamise ja toimingute](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | muudetud |
-| 2/22/2019 | [Uuesti tellimus](/AlchemyInsights/reactivate-a-subscription) | muudetud |
-| 2/22/2019 | [Taastada kustutatud OneDrive'i](/AlchemyInsights/restore-a-deleted-onedrive) | muudetud |
-| 2/22/2019 | [Taastada Exchange'i halduskeskuse kuvamiseks Office 365 rühmas](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | muudetud |
-| 2/22/2019 | [Tellimuse O365 Business Essentials seadistamine](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | muudetud |
-| 2/22/2019 | [Jagamine välistele kasutajatele ei tööta](/AlchemyInsights/sharing-with-external-users-isn-t-working) | muudetud |
-| 2/22/2019 | [Püüdes leida prooviversiooni?](/AlchemyInsights/trying-to-find-a-trial) | muudetud |
-| 2/22/2019 | [Välise SharePointi jaoks ühiskasutuse sisse või välja lülitada](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | muudetud |
-| 2/22/2019 | [Välise SharePointi jaoks ühiskasutuse sisse või välja lülitada](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | muudetud |
-| 2/22/2019 | [Kasutaja õigused](/AlchemyInsights/user-permissions) | muudetud |
-| 2/22/2019 | [Kuna arvete aruanne luuakse?](/AlchemyInsights/when-is-the-billing-statement-generated) | muudetud |
-| 2/22/2019 | [Kuidas kontrollida oma domeeni Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | muudetud |
+| 3/25/2019 | [Outlook.com-i keele muutmine](/AlchemyInsights/outlook-com-change-language) | muudetud |
+| 3/27/2019 | [SharePointi saidi kustutamine](/AlchemyInsights/delete-a-sharepoint-site) | muudetud |
+| 3/28/2019 | Klassikalises režiimis SharePoint Online piiramiseks | lisatud |
+| 3/28/2019 | [Ei saa lisada vaikimisi 2010 kinnitamise töövoog](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | muudetud |
+| 3/28/2019 | [Klassikalises režiimis SharePoint Online piiramiseks](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | ümber nimetatud |
 
 
 ## <a name="week-of-february-25-2019"></a>25. veebruar 2019 nädal
