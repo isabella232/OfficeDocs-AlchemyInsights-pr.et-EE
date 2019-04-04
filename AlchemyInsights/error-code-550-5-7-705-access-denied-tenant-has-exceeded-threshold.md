@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907736"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397002"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 juurdepääs keelatud, üürnik on ületanud läve
 
-See kuvatakse siis, kui liiga palju rämpsposti või lahtise e-posti on saadetud teie Office 365 organisatsiooni. Selle ploki eemaldamiseks peate mõista ja selgitada põhjus tugiteenuste töötajalt, samuti aluseks oleva probleemi.
-  
+See kuvatakse siis, kui liiga palju rämpsposti või lahtise e-posti on saadetud teie asutuse ja paneme ploki väljuva e-posti.
+Sagedasemad põhjused on ohustatud asutusesisestest serveritest või ohustatud admin kontodele, luua ühendused kasutatud. Nende tingimuste võimaldavad rämpsposti läbi oma organisatsiooni.
+
+Selle ploki eemaldamiseks peate mõista ja selgitada põhjus tugiteenuste töötajalt, samuti aluseks oleva probleemi.
+Kui see on tehtud, klõpsake nuppu **Võta meiega ühendust** allpool.
 
