@@ -1,6 +1,6 @@
 ---
 title: Luua saidi SharePoint Online
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764580"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747738"
 ---
 # <a name="create-a-site"></a>Saidi loomine
 
-SharePoint Online'i saate luua eri tüüpi saite. Luua ühe uue saidi, vaadake järgmisi teemasid.
-  
-- [Meeskonnatöö saidi, mis on Office 365 rühma loomine](https://go.microsoft.com/fwlink/?linkid=866292)
+SharePoint Online'i saate luua eri tüüpi saite. Selleks uue SharePointi administreerimiskeskuses, vaadake teemat [Loo sait](https://go.microsoft.com/fwlink/?linkid=866295). Täpsemat infot, mis võimaldab kasutajatel luua oma saitidele, [Halda saidi loomist SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+ 
+Uue saidi tüüpide kohta leiate teemast [rühma ühendatud meeskonnasaitide](https://go.microsoft.com/fwlink/?linkid=866292) või [teatist saidid](https://go.microsoft.com/fwlink/?linkid=866294).
     
-- [Luua side saidi SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-Nendes kohtades saab luua ka uue SharePoint admin keskus eelvaade.
-  
-Klassikaline saidi loomiseks tehke ühte järgmistest:
-  
-- [Microsoft 365 administreerimiskeskuses lehe saitide](https://portal.office.com/adminportal/home#/SitesList)ja seejärel valige **Lisa sait**.
-    
-- Klassikaline SharePointi administreerimiskeskuses, saidi kogude lehel Valige **Uus** \> **Saidi erakogu**.
-    
-Üksikasjalikumat, Vaata [Loo saidikogumi](https://go.microsoft.com/fwlink/?linkid=866295). Täpsemat infot, mis võimaldab kasutajatel luua oma saitidele, [Halda saidi loomist SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
-  
+
 

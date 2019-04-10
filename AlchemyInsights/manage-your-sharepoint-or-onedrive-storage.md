@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761197"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747306"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Hallata SharePointi või OneDrive'i salvestusruumi
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761197"
   
 Enamikule asutustele SharePointi mällu juhitakse automaatselt, et te ei peaks seada piiranguid saidi kogumise kohta. Et näha kui palju teil on SharePointi mällu:
   
-- Klassikaline SharePointi administreerimiskeskuses, on ülemise paremal lehel saidi kogud otsida saadaval ja kokku hoidmine.
+- Uus SharePointi administreerimiskeskuses, on ülemise paremal lehe saitide otsige saadaval ja kokku hoidmine.
     
 Täpsemat infot oma limiidi arvutamise, [SharePoint Online piirid](https://go.microsoft.com/fwlink/p/?LinkID=856113). Osta lisahoiuruumi, vaadake [Muuda salvestusruumi tellimuse](https://go.microsoft.com/fwlink/?linkid=866428).
   

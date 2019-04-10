@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941756"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747846"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>SharePointi või OneDrive kausta või faili ühiskasutamine
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941756"
   - **Inimestelt** annab juurdepääsu ainult teie määratud, kuigi teised inimesed juba juurdepääs. Kui inimesed edasi ühiskasutuse kutse, saab ainult inimesed, kellel on juba juurdepääs kaubale selle lingiga. 
     
     > [!NOTE]
-    > Kui mõnda suvandit pole saadaval või kui soovite vaikeväärtusena kuvada erinevaid seose tüübi, saate muuta oma organisatsiooni hõlmavate sätete klassikaline SharePointi administreerimiskeskus ja klõpsake vasakpaani **jagamine** . [Lisateave](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Kui mõnda suvandit pole saadaval või kui soovite vaikeväärtusena kuvada erinevaid seose tüübi, saate muuta oma organisatsiooni hõlmavate sätete uus SharePointi administreerimiskeskus ja klõpsake vasakpaani **jagamine** . [Lisateave](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. Vaikimisi **Luba redigeerimine** on sisse lülitatud. Kui sa tahad inimesi vaatamiseks ainult teie failid, tühjendage ruut. 
     
