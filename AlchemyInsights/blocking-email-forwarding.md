@@ -11,17 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 726
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 7fbfa7669fe470b408a8b056032a243efd51a14d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 57a1788c2a63b5732b1348224587fbdf954e3208
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777898"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858848"
 ---
 # <a name="block-email-forwarding"></a>Blokeerida e-posti edastamine
 
 E-posti edasisuunamise konkreetsele postkastile keelamiseks vt [e-posti suunamist häälestada](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).
-  
-Kogu organisatsiooni, [nõu, kuidas blokeerida automaatse e-posti edasisuunamise Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)e-kirjad blokeerida.
-  
 
+Kogu organisatsiooni, [nõu, kuidas blokeerida automaatse e-posti edasisuunamise Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)e-kirjad blokeerida.

@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 3c5d18b805375c25f7e46e50c3d3cb428265ec4f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: d2d92a15a1863f0c4625fd363096fbfd0582a467
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777548"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859460"
 ---
 # <a name="access-denied-banned-sender"></a>Juurdepääs keelatud, keelatud saatja
 
- **Tõrge**: SMTP serveri jaoks RCPT käsk, vastuvõtva viga: *xxxx* -com.mail.protection.outlook.com ( *xxx.xxx.xxx.xxx* ) põhjus: 550 5.7.511 juurdepääs keelatud, keelatud saatja [ *xx.xxx.x.xxx* ]. 
-  
-Kui tõrge ilmneb Office 365 adressaadi e-posti saatmisel, eemaldada kahjustatud konto blokeeritud saatjate loendi kell [https://sender.office.com](https://sender.office.com).
-  
+ **Tõrge**: SMTP serveri jaoks RCPT käsk, vastuvõtva viga: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) põhjus: 550 5.7.511 juurdepääs keelatud, keelatud saatja [*xx.xxx.x.xxx*]. 
 
+Kui see tõrge Office 365 adressaadi e-posti saatmisel, eemaldada kahjustatud konto blokeeritud saatjate loendi kell [https://sender.office.com](https://sender.office.com).
