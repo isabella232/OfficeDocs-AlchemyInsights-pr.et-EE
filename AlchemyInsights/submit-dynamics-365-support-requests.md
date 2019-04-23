@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 tugiteenuse taotlusi
+title: Dynamics 365 tugiteenusetaotluste esitamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404707"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767136"
 ---
-# <a name="submit-dynamics-365-support-requests"></a>Dynamics 365 tugiteenuse taotlusi
+# <a name="submit-dynamics-365-support-requests"></a>Dynamics 365 tugiteenusetaotluste esitamine
 
-Kui sa oled **Microsoft Dynamics klient kaasamine** klient esitada pileti uue [võimu platvormi administreerimiskeskuse](https://admin.powerplatform.microsoft.com/?ref=officemodern)kaudu.
+Kui olete **Microsoft Dynamics Customer Engagementi** klient, esitage pilet uue [Power-platvormi halduskeskuse](https://admin.powerplatform.microsoft.com/?ref=officemodern) kaudu.
   
-Uus portaal pakub tugiteenuseid, optimeeritud Dynamics klient suhete ja muude Power platvormi otsesem tee.
+Selle uue portaali kaudu pääseb paremini juurde abistatud toele, mis on optimeeritud Dynamicsi klientide teenindamiseks ja muude Power-platvormi toodete jaoks.
   
 

@@ -1,5 +1,5 @@
 ---
-title: Kuidas tellimus uuesti
+title: Tellimuse uuesti aktiveerimine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468875"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766848"
 ---
-# <a name="how-to-reactivate-a-subscription"></a>Kuidas tellimus uuesti
+# <a name="how-to-reactivate-a-subscription"></a>Tellimuse uuesti aktiveerimine
 
-Kui tellimuse aegunud, on tühistatud, või keelata Microsoft, saate aktiveerida seda Microsoft 365 administreerimiskeskuses.
+Kui teie tellimus on aegunud või Microsofti poolt tühistatud või keelatud, saate selle Microsoft 365 halduskeskuses uuesti aktiveerida.
   
-1. Administreerimiskeskuses, [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele või valida **arvete** \> **tellimused**.
+1. Avage halduskeskuses leht [Tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054) või valige **Arveldamine** \> **Tellimused**.
     
-2. Valige tellimus, mida soovite uuesti aktiveerida.
+2. Valige tellimus, mille soovite uuesti aktiveerida.
     
-3. Klõpsake nuppu **uuesti** paremale. 
+3. Valige paremal nupp **Aktiveeri uuesti**. 
     
-4. Küsitakse makse andmeid värskendada. Kui kõik andmed on õiged, valige **Esita**.
+4. Teil palutakse värskendada makse üksikasju. Kui kõik andmed on õiged, valige **Edasta**.
     
-5. Ekraani allosas näitab kinnitust. Valida **tihe** **tellimuste** lehele naasmiseks. 
+5. Ekraani allservas kuvatakse kinnitus. Lehele **Tellimused** naasmiseks valige nupp **Sule**. 
     
-6. Kui tellimus ei ole aktiivne pärast mõni minut, värskendage lehte.
+6. Kui tellimus ei näi mõne minuti pärast olevat aktiivne, värskendage lehte.
     
-Lisateabe saamiseks vt: [uuendada Office 365 ettevõtteversiooni](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
+Lisateavet leiate artiklist [Office 365 ettevõtteversiooni uuendamine](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Probleeme täites ostu Office 365 portaalis
+title: Probleem ostu sooritamisega Office 365 portaalis
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405139"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754754"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Probleeme täites ostu Office 365 portaalis
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Probleem ostu sooritamisega Office 365 portaalis
 
-Kui proovite teha ostu, kui palutakse teil korduvalt Office 365 portaali sisselogimiseks või kuvatakse teade, et probleemile leiti, parem esimene samm on kasutada brauseri inkognito/InPrivate-režiimis. InPrivate-/ inkognito akna avanud [portal.office.com](https://portal.office.com) saiti ja Logi sisse oma admin kasutajanimi ja parool. Siis edasi ostu lõpetamiseks. 
+Kui teil palutakse ostu sooritamisel mitu korda Office 365 portaali sisse logida või kuvatakse tõrketeade, tuleks esimese asjana proovida kasutada brauseri InPrivate- või inkognito-režiimi. Pärast InPrivate- või inkognito-akna avamist avage veebisait [portal.office.com](https://portal.office.com) ja logige sisse oma administraatorikontole. Seejärel viige ost lõpule. 
   
 

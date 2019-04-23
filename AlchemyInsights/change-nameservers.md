@@ -1,5 +1,5 @@
 ---
-title: Muuta serverites
+title: Nimeserverite muutmine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405319"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754682"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Värskendage oma domeeni serverites Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Domeeni nimeserverite värskendamine Office 365 jaoks
 
-Märkus: Nimeserveri muudatusi võib mõnikord võtta kuni 48 tundi propageerida.
+Märkus. Nimeserveri muudatuste levitamiseks võib vahel kuluda kuni 48 tundi.
   
-Oma domeeni Office 365, virtuaalserveritele registripidaja juures tuleb ajakohastada. Luua või muuta teie nimeserveri kirjeid, domeeniregistraatoris.
+Domeeni häälestamiseks teenusekomplektis Office 365 tuleb nimeserverid domeeniregistripidaja juures värskendada. Saate nimeserverikirjeid luua või redigeerida domeeniregistraatori juures.
   
-1. Oma domeeniregistraatori veebisaidilt ja leida ala, kus saate redigeerida virtuaalserveritele.
+1. Avage domeeniregistraatori veebisait ja otsige sealt ala, kus saate nimeservereid redigeerida.
     
-2. Luua või muuta kahe nimeserveri kirjeid sobitada need väärtused:
+2. Looge või redigeerige nimeserveri väärtusi, nii et need vastaksid järgmistele aadressidele:
     
-  - ns1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - ns2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
-3. Salvesta muudatused.
+3. Salvestage muudatused.
     
-Leiate ka üksikasjalikke juhiseid selles artiklis: [Muuda serverites luua Office 365 koos domeeni registripidaja](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Üksikasjalikud juhised leiate ka järgmisest artiklist. [Nimeserverite muutmine teenuskomplekti Office 365 häälestamiseks mis tahes domeeniregistraatoriga](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

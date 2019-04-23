@@ -1,5 +1,5 @@
 ---
-title: Makse üksikasjade uuendamiseks
+title: Makseteabe värskendamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404671"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755618"
 ---
-# <a name="update-payment-details"></a>Makse üksikasjade uuendamiseks
+# <a name="update-payment-details"></a>Makseteabe värskendamine
 
-1. Administreerimiskeskuses, [makseviiside](https://go.microsoft.com/fwlink/p/?linkid=2018806) lehele või valida **arvete** \> **makseviisid**.
+1. Minge halduskeskuses lehele [Makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806) või valige **Arveldamine** \> **Makseviisid**.
     
     > [!NOTE]
-    > Kui teil tekib silmus, mis saadab teile tagasi tulemast Admin, enne seda, kui värskendused on lõpule viidud, proovige Inprivate või inkognito režiimis. 
+    > Kui ilmneb probleem, mille korral teid saadetakse enne värskenduste lõpulejõudmist tagasi halduskeskuse avalehele, proovige inkognito-või InPrivate-sirvimist. 
   
-2. Valige krediitkaart, mida soovite värskendada.
+2. Valige krediitkaart, mille teavet soovite värskendada.
     
     > [!NOTE]
-    > Kui teine admin lisatud makseviis, ei saa seda krediitkaardi või pangakonto andmete värskendamiseks. Kui krediitkaart on aegumas ja teiste poole ei saa uuendada seda, saate takistada teenuse peatamine, lisades teise krediitkaardiga või uue pangakonto tellimus valides **Lisa makseviis**. 
+    > Kui makseviisi lisas keegi teine administraator, ei saa te krediitkaardi või pangakonto andmeid värskendada. Kui krediitkaart on aegumas ja teine administraator ei saa teavet värskendada, võite teenusekatkestuste vältimiseks tellimusse lisada mõne muu krediitkaardi või uue pangakonto andmed. Selleks valige **Lisa makseviis**. 
   
-3. Valige lehel **selgitus** **makse andmeid muuta**.
+3. Valige lehel **Makse üksikasjad** link **Redigeeri makse üksikasju**.
     
-4. Teha värskendused ja seejärel valige **Salvesta**.
+4. Tehke värskendused ja valige **Salvesta**.
     
-5. Selle makseviisi eemaldamiseks valige **Kustuta**.
+5. Makseviisi eemaldamiseks valige **Kustuta**.
     
-Lisateabe saamiseks vt [lisamine, värskendamine või eemaldamine krediitkaart või pangakonto Office 365 Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ja [tõrkeotsing krediitkaardid ja pankadele](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Lisateavet leiate artiklitest [Krediitkaardi või pangakonto lisamine, värskendamine või eemaldamine Office 365 ettevõtteversioonis](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ning [Krediitkaartide ja pangakontode tõrkeotsing](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

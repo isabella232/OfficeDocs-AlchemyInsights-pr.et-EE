@@ -1,5 +1,5 @@
 ---
-title: Failide sünkroonimine SharePointi koos uue OneDrive'i sünkroonimisrakenduse
+title: SharePointi failide sünkroonimine uue OneDrive’i sünkroonimisrakendusega
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469019"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747342"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Failide sünkroonimine SharePointi koos uue OneDrive'i sünkroonimisrakenduse
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePointi failide sünkroonimine uue OneDrive’i sünkroonimisrakendusega
 
-1. Klassikaline SharePointi administreerimiskeskuses, valige **sätted**.
+1. Valige uues SharePointi halduskeskuses **sätted**.
     
-2. Veenduge, et "OneDrive Sync nuppu" on seatud "Näita Sync nuppu."
+2. Veenduge, et OneDrive’i sünkroonimisnupp oleks seatud asendisse „Kuva sünkroonimisnupp“.
     
-3. "Sünkroonimise klient SharePoint," valige **käivitage uus klient**.
+3. Valige sätte „SharePointi sünkroonimisrakendus“ väärtuseks **Käivita uus klientrakendus**.
     
     > [!NOTE]
-    > Kui see võimalus puudub, ettevõte on juba seadistatud uus OneDrive'i sünkroonimisrakenduse abil saate sünkroonida SharePointi failid. 
+    > Kui seda suvandit ei kuvata, on teie organisatsioonis juba häälestatud SharePointi failide sünkroonimine uue OneDrive’i sünkroonimisrakenduse abil. 
   
-4. Klõpsake **OK**.
+4. Klõpsake nuppu **OK**.
     
-Lisateavet vt [võimaldavad kasutajatel SharePointi failid koos uue OneDrive'i sünkroonimisrakenduse](https://go.microsoft.com/fwlink/?linkid=866433). Anda kasutajatele juhiseid vt [Uus OneDrive'i sünkroonimisrakenduse sünkroonimine SharePointi faile](https://go.microsoft.com/fwlink/?linkid=866427).
+Lisateavet leiate teemast [Kasutajate jaoks SharePointi failide uue OneDrive’i sünkroonimisrakendusega sünkroonimise võimaldamine](https://go.microsoft.com/fwlink/?linkid=866433). Juhised kasutajatele andmiseks leiate teemast [SharePointi failide sünkroonimine uue OneDrive’i sünkroonimisrakendusega](https://go.microsoft.com/fwlink/?linkid=866427).
   
 

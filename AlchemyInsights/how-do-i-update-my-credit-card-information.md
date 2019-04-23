@@ -1,5 +1,5 @@
 ---
-title: Kuidas värskendada oma krediitkaardi andmed?
+title: Kuidas krediitkaardiandmeid värskendada?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405175"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763824"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>Kuidas värskendada oma krediitkaardi andmed?
+# <a name="how-do-i-update-my-credit-card-information"></a>Kuidas krediitkaardiandmeid värskendada?
 
-1. Administreerimiskeskuses, [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele või valida **arvete** \> **tellimused**.
+1. Avage halduskeskuses leht [Tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054) või valige **Arveldamine** \> **Tellimused**.
     
-2. Vali tellimuse ostsite krediitkaardi või pangakonto, mida soovite värskendada, siis valida **makse üksikasjade uuendamiseks**.
+2. Valige tellimus, mille ostsite värskendamist vajava krediitkaardi või pangakontoga. Seejärel valige **Värskenda makseteavet**.
     
-3. Valige rippmenüü noolt all **Lisa või valige makseviisi**, valida krediitkaardi või pangakonto, mida soovite värskendada, seejärel **muuta üksikasju**.
+3. Klõpsake jaotises **Makseviisi lisamine või valimine** ripploendi kõrval olevat noolt, seejärel valige loendist krediitkaart või pangakonto, mida soovite värskendada, ja klõpsake siis nuppu **Redigeeri üksikasju**.
     
-4. Uuenda oma krediitkaardi või pangakonto andmed (nimi, krediitkaardi või pangakonto, arve esitamise aadress. telefoninumber või aegumiskuupäev) vastavalt vajadusele ja valige **Esita**.
+4. Värskendage oma krediitkaardi või pangakonto teavet (nime krediitkaardil või pangakontol, arveaadressi, telefoninumbrit või aegumiskuupäeva) vastavalt vajadusele. Seejärel valige **Edasta**.
     
-5. Ilmub dialoog peaks ilmuma.
+5. Peaksite nägema kinnitusteadet.
     
-Lisateabe saamiseks vt [tõrkeotsing krediitkaardid ja pankadele](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Lisateavet leiate artiklist [Krediitkaartide ja pangakontodega seotud tõrkeotsing](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 
