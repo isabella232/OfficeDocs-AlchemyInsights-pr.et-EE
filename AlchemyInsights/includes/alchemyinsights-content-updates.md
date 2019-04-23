@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>04. märts 2019 nädal
-
-
-| Avaldatud |Teema pealkiri | Muutus |
-|------|------------|--------|
-| 3/4/2019 | 8000011 Outlook.com taastada kustutatud e-posti | lisatud |
-| 3/4/2019 | [8000034 vastamine Outlook.com-is](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | muudetud |
-| 3/4/2019 | [8000047 kuidas luua meilisignatuuri Outlook.com-is](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | muudetud |
-| 3/4/2019 | [8000086 Outlook.com-i Lisa pilt](/AlchemyInsights/80000860-outlook-com-insert-image) | lisatud |
-| 3/4/2019 | [8000087 Outlook.com-i kiirklahvide](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | lisatud |
-| 3/4/2019 | [8000088 Salvesta e-posti teenuses Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | muudetud |
-| 3/4/2019 | [8000089 Outlook.com Seif saatjad](/AlchemyInsights/8000089-outlook-com-safe-senders) | lisatud |
-| 3/4/2019 | 8000011 Outlook.com taastada kustutatud e-posti | eemaldatud |
-| 3/4/2019 | 1575-PowerApps ja Microsoft Flow kava pikendamine | lisatud |
-| 3/4/2019 | [Domeeni Office 365 rühma muutmine](/AlchemyInsights/change-domain-for-group) | ümber nimetatud |
-| 3/4/2019 | [1575-PowerApps ja Microsoft Flow kava pikendamine](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | ümber nimetatud |
-| 3/4/2019 | [Multifactor autentimise lubamine](/AlchemyInsights/enable-multifactor-authentication) | muudetud |
-| 3/4/2019 | [8000054 Outlook.com ladustamise limiit on ületatud](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | lisatud |
-| 3/4/2019 | [423 Org julgeoleku - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | muudetud |
-| 3/4/2019 | [8000029 käsitleda rämpsposti või andmepüügi Outlook.com-is](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | muudetud |
-| 3/4/2019 | [Domeeni eemaldada](/AlchemyInsights/remove-domain) | muudetud |
-| 3/4/2019 | [Kasutajate lisamine rakendusse Office 365](/AlchemyInsights/add-users-to-office-365) | muudetud |
-| 3/4/2019 | [Kas sa saada liiga palju rämpsposti või phish postkastis?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | muudetud |
-| 3/4/2019 | [Muuta serverites](/AlchemyInsights/change-nameservers) | muudetud |
-| 3/4/2019 | [Luua rakendused PowerApps](/AlchemyInsights/create-apps-in-powerapps) | muudetud |
-| 3/4/2019 | [Lihtne migreerimist rakendusse Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | muudetud |
-| 3/4/2019 | [E-posti kohaletoimetamise probleeme?](/AlchemyInsights/having-email-delivery-issues-0) | muudetud |
-| 3/4/2019 | [E-posti kohaletoimetamise probleeme?](/AlchemyInsights/having-email-delivery-issues) | muudetud |
-| 3/4/2019 | [Kuidas lisada krediitkaarti?](/AlchemyInsights/how-do-i-add-a-credit-card) | muudetud |
-| 3/4/2019 | [Kuidas värskendada oma krediitkaardi andmed?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | muudetud |
-| 3/4/2019 | [Kuidas installida Office](/AlchemyInsights/how-to-install-office) | muudetud |
-| 3/4/2019 | [Rändavad e-posti IMAP-i](/AlchemyInsights/migrate-email-from-imap) | muudetud |
-| 3/4/2019 | [Maksevõimalused](/AlchemyInsights/payment-options) | muudetud |
-| 3/4/2019 | [Soovituslikke samme kui konto on ohus](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | muudetud |
-| 3/4/2019 | [Saatja blokeeritud liiga palju rämpsposti saatmiseks](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | muudetud |
-| 3/4/2019 | [Dynamics 365 tugiteenuse taotlusi](/AlchemyInsights/submit-dynamics-365-support-requests) | muudetud |
-| 3/4/2019 | [Domeen on juba kasutusel](/AlchemyInsights/the-domain-is-already-in-use) | muudetud |
-| 3/4/2019 | [Probleeme täites ostu Office 365 portaalis](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | muudetud |
-| 3/4/2019 | [DNS-i kirjete värskendamine](/AlchemyInsights/update-dns-records-0) | muudetud |
-| 3/4/2019 | [DNS-i kirjete värskendamine](/AlchemyInsights/update-dns-records) | muudetud |
-| 3/4/2019 | [Makse üksikasjade uuendamiseks](/AlchemyInsights/update-payment-details) | muudetud |
-| 3/4/2019 | [Kontrollige domeeni](/AlchemyInsights/verify-domain) | muudetud |
-| 3/4/2019 | [Luua mitu e-posti aadressi suunamist](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | muudetud |
-| 3/4/2019 | [Lahendada selle "Ei aktsepteeritud domeen" tõrge](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | muudetud |
-| 3/6/2019 | [1581 avada ja kasutada ühiskasutusse antud postkasti Outlook Web](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | muudetud |
-| 3/6/2019 | [Meeskonnad vahetuses](/AlchemyInsights/1686-teams-shifts) | lisatud |
-| 3/6/2019 | [1703 vajavad teavet meeskonnad ja Polycom telefonid](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | lisatud |
-| 3/6/2019 | [Meeskonnad PS moodul paigaldada ja viide](/AlchemyInsights/1787-teams-ps-module-install-ref) | lisatud |
-| 3/6/2019 | [615 tüübid jagamine ja kuidas neid seadistada.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | muudetud |
-| 3/6/2019 | [Meeskonnad Freemium](/AlchemyInsights/997-teams-freemium) | lisatud |
-| 3/6/2019 | [Kas teil on märgistatud rämpspostina sõnumid on seaduslikud?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | muudetud |
-| 3/6/2019 | [Microsoft meeskondi](/AlchemyInsights/enable-microsoft-teams) | muudetud |
-| 3/6/2019 | [On lubasite meeskonnad oma üliõpilastele?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | muudetud |
-| 3/6/2019 | [Kuidas tellimus uuesti](/AlchemyInsights/how-to-reactivate-a-subscription) | muudetud |
-| 3/6/2019 | Intune rakenduse juurutamine - reegli Id 991 | eemaldatud |
-| 3/6/2019 | [Probleem Skype'i ärirakendus?](/AlchemyInsights/issue-with-skype-for-business) | muudetud |
-| 3/6/2019 | [Microsofti meeskonnad - siseneda külalisena](/AlchemyInsights/microsoft-teamsguest-access) | muudetud |
-| 3/6/2019 | [Microsofti meeskonnad - taastada kustutatud Team Site](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | muudetud |
-| 3/6/2019 | [Office 365 kaudu edastamisega e-posti](/AlchemyInsights/relay-email-through-office-365) | muudetud |
-| 3/6/2019 | [Failide sünkroonimine SharePointi koos uue OneDrive'i sünkroonimisrakenduse](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | muudetud |
-| 3/6/2019 | [Full versiooni Microsoft Teams](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | muudetud |
-| 3/7/2019 | [8000064 Outlook.com-i meile ei saa sünkroonida - Hispaania](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | lisatud |
-| 3/7/2019 | [8000065 Outlook.com rämps post - Hispaania](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | lisatud |
-| 3/7/2019 | [8000066 - reegel 1 - Outlook.com-i häkkinud - Hispaania](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | lisatud |
-| 3/7/2019 | [8000066 - reegel 2 - Outlook.com-i häkkinud - Hispaania](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | lisatud |
-| 3/7/2019 | [8000067 - Outlook.com-i sulgeda konto - Hispaania](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | lisatud |
-| 3/7/2019 | [8000068 - Outlook.com-i lisada konto - Hispaania](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | lisatud |
-| 3/7/2019 | [8000069 - Outlook.com-i Blokeeri saatja - Hispaania](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | lisatud |
-| 3/7/2019 | [8000070 - Outlook.com-i ei saa sisse - Hispaania](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | lisatud |
-| 3/7/2019 | [Taasta kustutatud kasutaja](/AlchemyInsights/restore-deleted-user) | muudetud |
-| 3/8/2019 | 8000043 POP, IMAP ja SMTP sätteid Outlook.com | eemaldatud |
-| 3/8/2019 | [8000043 POP, IMAP ja SMTP sätteid Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | ümber nimetatud |
-| 3/8/2019 | [8000071 Outlook.com-i lahendus e-posti sünkroonimise - Prantsuse](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | lisatud |
-| 3/8/2019 | [8000072 Outlook.com rämpsposti - Prantsuse](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | lisatud |
-| 3/8/2019 | [8000073 Outlook.com-i konto häkkinud - Prantsuse](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | lisatud |
-| 3/8/2019 | [8000074 Outlook.com Sule konto - Prantsuse](/AlchemyInsights/8000074-outlook-com-close-account-french) | lisatud |
-| 3/8/2019 | [8000075 Outlook.com-i parooli muutmine - Prantsuse](/AlchemyInsights/8000075-outlook-com-change-password-french) | lisatud |
-| 3/8/2019 | [8000076 Outlook.com Blokeeri saatja - Prantsuse](/AlchemyInsights/8000076-outlook-com-block-sender-french) | lisatud |
-
-
 ## <a name="week-of-march-11-2019"></a>11. märts 2019 nädal
 
 
@@ -91,7 +11,7 @@
 | 3/12/2019 | 8000054 Outlook.com-i sisendkausta ei lae | lisatud |
 | 3/12/2019 | [8000078 Outlook.com-i sisendkausta ei lae](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | ümber nimetatud |
 | 3/12/2019 | [8000078 Outlook.com-i sisendkausta ei lae](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | muudetud |
-| 3-13-2019 | [Office 365 kaudu edastamisega e-posti](/AlchemyInsights/relay-email-through-office-365) | muudetud |
+| 3-13-2019 | [Meilisõnumite edastamine Office 365 kaudu](/AlchemyInsights/relay-email-through-office-365) | muudetud |
 | 3/14/2019 | [sama faili nimi on parim [reegel #-kirjeldus]](/AlchemyInsights/1-alchemy-insight-template) | muudetud |
 | 3/14/2019 | [Postkasti mahtu suurendada](/AlchemyInsights/increase-mailbox-size) | muudetud |
 | 3/15/2019 | [Outlooki töölaua tagasikutsumine või asendamine e-kirja](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | lisatud |
@@ -134,7 +54,7 @@
 | 3/22/2019 | [Ettemakstud tellimus istmed lisamine](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | muudetud |
 | 3/22/2019 | [1800018 lisa moodustatavate Meilikontod](/AlchemyInsights/add-set-up-email-accounts) | ümber nimetatud |
 | 3/22/2019 | [764 lisa/seadistus e-posti kontosid](/AlchemyInsights/add-setup-email-accounts) | ümber nimetatud |
-| 3/22/2019 | [Kasutajate lisamine rakendusse Office 365](/AlchemyInsights/add-users-to-office-365) | muudetud |
+| 3/22/2019 | [Kasutajate lisamine teenusekomplekti Office 365](/AlchemyInsights/add-users-to-office-365) | muudetud |
 | 3/22/2019 | [8000040 lisamine Outlook.com-i kontole Outlook for Windows](/AlchemyInsights/add-your-outlook-com-account-in-outlook-for-windows) | ümber nimetatud |
 | 3/22/2019 | [E-posti aadressi lisamine meililisti 713](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | ümber nimetatud |
 | 3/22/2019 | [718 lisamine väliskontaktid / inimesed väljastpoolt asutust leviloendile](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | ümber nimetatud |
@@ -196,7 +116,7 @@
 | 3/22/2019 | [8000013 fondi muutmine Outlook.com-is](/AlchemyInsights/change-font-in-outlook-com) | ümber nimetatud |
 | 3/22/2019 | [Muuta, kui tihti te maksate](/AlchemyInsights/change-how-often-you-pay) | muudetud |
 | 3/22/2019 | [8000010 muuta minu Outlook.com-i meiliaadress](/AlchemyInsights/change-my-email-address-in-outlook-com) | ümber nimetatud |
-| 3/22/2019 | [Muuta serverites](/AlchemyInsights/change-nameservers) | muudetud |
+| 3/22/2019 | [Nimeserverite muutmine](/AlchemyInsights/change-nameservers) | muudetud |
 | 3/22/2019 | [Muuda OneDrive for Business salvestuslimiidi](/AlchemyInsights/change-onedrive-for-business-storage-quota) | muudetud |
 | 3/22/2019 | [Muuda makseviisi](/AlchemyInsights/change-payment-method) | muudetud |
 | 3/22/2019 | [SharePointi loendi või teegi õiguste muutmine](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | muudetud |
@@ -210,7 +130,7 @@
 | 3/22/2019 | [8000002 Outlook.com-i parooli muutmine](/AlchemyInsights/change-your-password-in-outlook-com) | ümber nimetatud |
 | 3/22/2019 | [8000036 Outlook.com-i profiili nime muutmine](/AlchemyInsights/change-your-profile-name-in-outlook-com) | ümber nimetatud |
 | 3/22/2019 | [Sisemine muudatused](/AlchemyInsights/changes-to-external-user-access) | muudetud |
-| 3/22/2019 | [8000026 muudab Outlook.com-i](/AlchemyInsights/changes-to-outlook-com) | ümber nimetatud |
+| 3/22/2019 | [8000026: Outlook.com-i muudatused](/AlchemyInsights/changes-to-outlook-com) | ümber nimetatud |
 | 3/22/2019 | [Avaliku kausta õiguste muutmine](/AlchemyInsights/changing-public-folder-permissions) | muudetud |
 | 3/22/2019 | [Ühiskasutuses postkasti saada kui käitumise muutmine](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | muudetud |
 | 3/22/2019 | [AAD identiteedi sünkroonimise oleku kontrollimine](/AlchemyInsights/check-aad-identity-sync-status) | muudetud |
@@ -243,7 +163,7 @@
 | 3/22/2019 | [CTRL + H näitab leida, ei asenda Excel 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | muudetud |
 | 3/22/2019 | [8000029 tegeleda andmepüügiga Outlook.com-is](/AlchemyInsights/deal-with-phishing-in-outlook-com) | ümber nimetatud |
 | 3/22/2019 | [8000029 käsitleda rämpsposti Outlook.com-is](/AlchemyInsights/deal-with-spam-in-outlook-com) | ümber nimetatud |
-| 3/22/2019 | [8000029 käsitleda rämpsposti või andmepüügi Outlook.com-is](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | ümber nimetatud |
+| 3/22/2019 | [8000029 Rämpsposti ja andmepüügiga tegelemine Outlook.com-i postkastis](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | ümber nimetatud |
 | 3/22/2019 | [Tagasilükatud krediitkaardi](/AlchemyInsights/declined-credit-card) | muudetud |
 | 3/22/2019 | [8000012 Outlook.com-i kontakti kustutamine](/AlchemyInsights/delete-a-contact-in-outlook-com) | ümber nimetatud |
 | 3/22/2019 | [8000016 kustutamiseks Outlook.com-is](/AlchemyInsights/delete-a-folder-in-outlook-com) | ümber nimetatud |
@@ -302,7 +222,7 @@
 | 3/22/2019 | [Kuidas lisada krediitkaarti?](/AlchemyInsights/how-do-i-add-a-credit-card) | muudetud |
 | 3/22/2019 | [Kuidas muuta: lisatasud arveldada?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | muudetud |
 | 3/22/2019 | [Kuidas eemaldada oma krediitkaardi andmed?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | muudetud |
-| 3/22/2019 | [Kuidas värskendada oma krediitkaardi andmed?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | muudetud |
+| 3/22/2019 | [Kuidas krediitkaardiandmeid värskendada?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | muudetud |
 | 3/22/2019 | [8000056 kuidas pääseda Outlook.com reisides](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | ümber nimetatud |
 | 3/22/2019 | [Kuidas lisada või vähendada litsentsid](/AlchemyInsights/how-to-add-or-reduce-licenses) | muudetud |
 | 3/22/2019 | [Kuidas kasutajale litsentsi määrata](/AlchemyInsights/how-to-assign-a-license-to-a-user) | muudetud |
@@ -329,7 +249,7 @@
 | 3/22/2019 | [Kuidas osta Office 365 aatteellisuus](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | muudetud |
 | 3/22/2019 | [Kuidas osta Office 365 aatteellisuus](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | muudetud |
 | 3/22/2019 | [Kuidas osta Office 365 aatteellisuus](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | muudetud |
-| 3/22/2019 | [Kuidas tellimus uuesti](/AlchemyInsights/how-to-reactivate-a-subscription) | muudetud |
+| 3/22/2019 | [Tellimuse uuesti aktiveerimine](/AlchemyInsights/how-to-reactivate-a-subscription) | muudetud |
 | 3/22/2019 | [Kuidas aktiveerida ja hallata uuendamine](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | muudetud |
 | 3/22/2019 | [8000033 kuidas vastata või edasi sõnumeid Outlook.com beeta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | ümber nimetatud |
 | 3/22/2019 | [8000063 kuidas paremklõpsake Mac](/AlchemyInsights/how-to-right-click-on-a-mac) | ümber nimetatud |
@@ -384,7 +304,7 @@
 | 3/22/2019 | [Üksused teisaldada SharePointi dokumenditeegis](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | muudetud |
 | 3/22/2019 | [8000062 Outlook.com-is kausta teisaldamine](/AlchemyInsights/moving-a-folder-in-outlook-com) | ümber nimetatud |
 | 3/22/2019 | [Mitmekordset proovib laadida online maksevahendid](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | muudetud |
-| 3/22/2019 | [1703 vajavad teavet meeskonnad ja Polycom telefonid](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | ümber nimetatud |
+| 3/22/2019 | [1703 Teabe otsimine Teamsi ja Polycomi telefonide kohta](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | ümber nimetatud |
 | 3/22/2019 | [122 pead signatuuri loomine Outlook veebis?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | ümber nimetatud |
 | 3/22/2019 | [8000037, kes ei saa e-posti teenuses Outlook.com](/AlchemyInsights/not-receiving-email-in-outlook-com) | ümber nimetatud |
 | 3/22/2019 | [Office 365 lepingud ja hinnakujundus](/AlchemyInsights/office-365-for-business-plans-and-pricing) | muudetud |
@@ -396,11 +316,11 @@
 | 3/22/2019 | [Üks teie asutusesisese Föderatsiooni tunnistuse lõpeb](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | muudetud |
 | 3/22/2019 | [OneDrive'i salvestusruumi](/AlchemyInsights/onedrive-storage) | muudetud |
 | 3/22/2019 | [Avage SharePointi teegis tulekul](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | muudetud |
-| 3/22/2019 | [1581 avada ja kasutada ühiskasutusse antud postkasti Outlook Web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | ümber nimetatud |
+| 3/22/2019 | [1581 Ühispostkasti avamine ja kasutamine Outlooki veebirakenduses](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | ümber nimetatud |
 | 3/22/2019 | [Ava Explorer on keelatud](/AlchemyInsights/open-with-explorer-button-is-disabled) | muudetud |
 | 3/22/2019 | [Ava Explorer nuppu puuduva](/AlchemyInsights/open-with-explorer-button-missing) | muudetud |
 | 3/22/2019 | [Ava Explorer ei tööta](/AlchemyInsights/open-with-explorer-doesn-t-work) | muudetud |
-| 3/22/2019 | [423 Org julgeoleku - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | ümber nimetatud |
+| 3/22/2019 | [423 Ettevõtte turvalisus – ohustatud meilikonto](/AlchemyInsights/org-securityemailaccountcompromised) | ümber nimetatud |
 | 3/22/2019 | [424 Org turvalisus - rämpsposti, vale-positiivne](/AlchemyInsights/org-securityspam-false-positive) | ümber nimetatud |
 | 3/22/2019 | [8000073 Outlook.com-i konto häkkinud - Prantsuse](/AlchemyInsights/outlook-com-account-hacked-french) | ümber nimetatud |
 | 3/22/2019 | [8000039 Outlook.com-i konto häkkinud](/AlchemyInsights/outlook-com-account-hacked) | ümber nimetatud |
@@ -504,3 +424,109 @@
 | 4/2/2019 | Saidi ja eemaldada struktuuri | lisatud |
 | 4/2/2019 | Tõrkeotsing tõrge 404 faili ei leitud | lisatud |
 | 4/3/2019 | [Tõrkekood 550 5.7.705 juurdepääs keelatud, üürnik on ületanud läve](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | muudetud |
+
+
+## <a name="week-of-april-08-2019"></a>08. aprill 2019 nädal
+
+
+| Avaldatud |Teema pealkiri | Muutus |
+|------|------------|--------|
+| 4/9/2019 | [Liikumine e-kirju arhiivi postkasti](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | muudetud |
+| 4/9/2019 | [Anonüümne jagamine](/AlchemyInsights/anonymous-sharing) | muudetud |
+| 4/9/2019 | [Kontrollida mitu faili korraga](/AlchemyInsights/check-in-several-files-at-once) | muudetud |
+| 4/9/2019 | [Ühendada klassikaline meeskonna SharePointi rühma](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | muudetud |
+| 4/9/2019 | [Luua saidi SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | muudetud |
+| 4/9/2019 | [Saidi loomine](/AlchemyInsights/create-a-site) | ümber nimetatud |
+| 4/9/2019 | [SharePointi saidi kustutamine](/AlchemyInsights/delete-a-sharepoint-site-0) | muudetud |
+| 4/9/2019 | [Kustuta sait](/AlchemyInsights/delete-site-collection) | muudetud |
+| 4/9/2019 | [Tõrketeade, kui failide ühiskasutus](/AlchemyInsights/error-message-when-sharing-files) | muudetud |
+| 4/9/2019 | [Väline jagamine Team Site](/AlchemyInsights/external-sharing-with-a-team-site) | muudetud |
+| 4/9/2019 | [Kuidas kasutada SharePoint Online terminisalves](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | muudetud |
+| 4/9/2019 | [SharePoint Online Otsi sõnastike haldamine](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | muudetud |
+| 4/9/2019 | [Hallata SharePointi või OneDrive'i salvestusruumi](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | muudetud |
+| 4/9/2019 | [Taastada kustutatud ala](/AlchemyInsights/restore-a-deleted-site-collection) | muudetud |
+| 4/9/2019 | [Taastada kustutatud alamsaidi](/AlchemyInsights/restore-a-deleted-subsite) | muudetud |
+| 4/9/2019 | [SharePointi või OneDrive kausta või faili ühiskasutamine](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | muudetud |
+| 4/9/2019 | [SharePointi mällu](/AlchemyInsights/sharepoint-storage) | muudetud |
+| 4/9/2019 | [Jagamine välistele kasutajatele ei tööta](/AlchemyInsights/sharing-with-external-users-isn-t-working) | muudetud |
+| 4/9/2019 | [SharePointi failide sünkroonimine uue OneDrive’i sünkroonimisrakendusega](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | muudetud |
+| 4/9/2019 | [Välise saidi ühiskasutuse sisse või välja lülitada](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | muudetud |
+| 4/9/2019 | [Välise SharePointi jaoks ühiskasutuse sisse või välja lülitada](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | muudetud |
+| 4/9/2019 | [Välise SharePointi jaoks ühiskasutuse sisse või välja lülitada](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | muudetud |
+| 4/9/2019 | Tõrkeotsing tõrge 404 faili ei leitud | muudetud |
+| 4/9/2019 | [Juurdepääs saidile Project Web App keelatud](/AlchemyInsights/access-denied-to-a-project-online-site) | lisatud |
+| 4/9/2019 | [Project Online on kirjutuskaitstud](/AlchemyInsights/project-online-is-in-a-read-only-state) | lisatud |
+| 4/9/2019 | [Project Web App puudub SharePointi saidikogumi](/AlchemyInsights/project-web-app-missing-from-site-collection) | lisatud |
+| 4/12/2019 | [1048 5.7.750 teenus pole saadaval. Kliendi blokeeritud saatmine registreerimata domeenid](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | muudetud |
+| 4/12/2019 | [E-posti aadressi lisamine meililisti 713](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | muudetud |
+| 4/12/2019 | [718 lisamine väliskontaktid / inimesed väljastpoolt asutust leviloendile](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | muudetud |
+| 4/12/2019 | [714 lubatud on välistelt saatjatelt e-posti leviloendid](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | muudetud |
+| 4/12/2019 | [717 võimaldab kasutajatel saata e-posti leviloendi](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | muudetud |
+| 4/12/2019 | [1049 rämpsposti 4.5.3 liiga palju adressaate (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | muudetud |
+| 4/12/2019 | [1051 rämpsposti 4.7.500 juurdepääs on keelatud, proovige hiljem uuesti](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | muudetud |
+| 4/12/2019 | [1050 rämpsposti 4.7.500 Server on hõivatud. Palun proovige hiljem uuesti: [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | muudetud |
+| 4/12/2019 | [1047 rämpsposti 550 5.7.708 teenus pole saadaval. Juurdepääs keelatud, ei aktsepteerita IP liikluse](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | muudetud |
+| 4/12/2019 | [500 rakenduse paroolid](/AlchemyInsights/app-passwords) | muudetud |
+| 4/12/2019 | [726 blokeerimine meilide edasisaatmine](/AlchemyInsights/blocking-email-forwarding) | muudetud |
+| 4/12/2019 | [763 blokeerimine Exchange Online PowerShelli juurdepääsu](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | muudetud |
+| 4/12/2019 | [608 kalendriteabe hübriid seadistustesse](/AlchemyInsights/calendar-information-on-hybrid-setups) | muudetud |
+| 4/12/2019 | [613 kalendri teabe avaldamine](/AlchemyInsights/calendar-publishing-information) | muudetud |
+| 4/12/2019 | [618 kalender ühiskasutuspoliitika](/AlchemyInsights/calendar-sharing-policy) | muudetud |
+| 4/12/2019 | [398 kalender - broneering](/AlchemyInsights/calendarbooking) | muudetud |
+| 4/12/2019 | [399 kalender - delegaat](/AlchemyInsights/calendardelegate) | muudetud |
+| 4/12/2019 | [400 kalender - FreeBusy](/AlchemyInsights/calendarfreebusy) | muudetud |
+| 4/12/2019 | [402 kalender - O365Groups](/AlchemyInsights/calendaro365groups) | muudetud |
+| 4/12/2019 | [1081 kalender - RBA CatchAll](/AlchemyInsights/calendarrba-catchall) | muudetud |
+| 4/12/2019 | [912 konfigureerimine fookustatud sisendkaustas kõigile organisatsiooni](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | muudetud |
+| 4/12/2019 | [Exchange Online PowerShelli MFA lubamisel 761 võrguga](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | muudetud |
+| 4/12/2019 | [760 ühendamine Exchange Online PowerShelli](/AlchemyInsights/connecting-to-exchange-online-powershell) | muudetud |
+| 4/12/2019 | [Leviloendi teisendamine Office 365 rühma 712](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | muudetud |
+| 4/12/2019 | [711 leviloendit või rühma](/AlchemyInsights/creating-a-distribution-list-or-group) | muudetud |
+| 4/12/2019 | [744 loomine kasutajad, kui organisatsioon on hübriidune režiimi](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | muudetud |
+| 4/12/2019 | [743 loomine kasutajatele ilma litsentsita](/AlchemyInsights/creating-users-without-a-license) | muudetud |
+| 4/12/2019 | [1065 EOP taunimine väljaminev IP aadress rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | muudetud |
+| 4/12/2019 | [1314 objekti dubleerida tervendamise](/AlchemyInsights/duplicate-object-remediation) | muudetud |
+| 4/12/2019 | [934 luba POP ja IMAP kontod](/AlchemyInsights/enable-pop-and-imap-accounts) | muudetud |
+| 4/12/2019 | [Tõrkekood 550 5.7.501 juurdepääs keelatud, rämpsposti kuritarvitamise avastatud](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | muudetud |
+| 4/12/2019 | [Tõrkekood 550 5.7.705 juurdepääs keelatud, üürnik on ületanud läve](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | muudetud |
+| 4/12/2019 | [126 saada postkasti ei leitud viga OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | muudetud |
+| 4/12/2019 | [Kuidas TenantAccessBlockedException viga, kui e-posti juurdepääsu 127?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | muudetud |
+| 4/12/2019 | [646 kuidas seadistada AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | muudetud |
+| 4/12/2019 | [955 kuidas seadistada MFA](/AlchemyInsights/how-to-configure-mfa) | muudetud |
+| 4/12/2019 | [614 kuidas luua ja hallata ruumipostkaste](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | muudetud |
+| 4/12/2019 | [401 hübriid - FreeBusy](/AlchemyInsights/hybridfreebusy) | muudetud |
+| 4/12/2019 | [929 sisendkausta reegleid deflectTransport eeskirjad](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | muudetud |
+| 4/12/2019 | [922 sisendkaustareeglid](/AlchemyInsights/inbox-rules) | muudetud |
+| 4/12/2019 | [Suurendada EWS ahendamise posti migratsiooni piirnormid](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | lisatud |
+| 4/12/2019 | [1264 IP blokeeritud liiga palju rämpsposti (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | muudetud |
+| 4/12/2019 | [322 probleemid, kui kasutaja on probleeme saatmine](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | muudetud |
+| 4/12/2019 | [321 probleemid, kui kasutaja ei saa kätte e-posti](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | muudetud |
+| 4/12/2019 | [323 probleeme viivitusi e-posti](/AlchemyInsights/issues-with-delays-in-email) | muudetud |
+| 4/12/2019 | [324 probleeme email(s) läheb valesse sihtkohta](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | muudetud |
+| 4/12/2019 | [898 lugege välise kalendri ühiskasutuse suvandeid](/AlchemyInsights/learn-about-external-calendar-sharing-options) | muudetud |
+| 4/12/2019 | [Välise jagamise võimalusi õppida 617](/AlchemyInsights/learn-about-external-sharing-options) | muudetud |
+| 4/12/2019 | [610 teave Office 365 rühmad](/AlchemyInsights/learn-about-office-365-groups) | muudetud |
+| 4/12/2019 | [612 õppida kuidas kalendrid ja Ühiskaustad](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | muudetud |
+| 4/12/2019 | [603 Õpi kava sätteid reguleerida](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | muudetud |
+| 4/12/2019 | [Esmane e-posti kasutaja alias e-posti tegemine 723](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | muudetud |
+| 4/12/2019 | [597 Microsoft broneeringuid App](/AlchemyInsights/microsoft-bookings-app) | muudetud |
+| 4/12/2019 | [973 rände StalledDueTo * reegel](/AlchemyInsights/migration-stalleddueto-rule) | muudetud |
+| 4/12/2019 | [1581 Ühispostkasti avamine ja kasutamine Outlooki veebirakenduses](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | muudetud |
+| 4/12/2019 | [423 Ettevõtte turvalisus – ohustatud meilikonto](/AlchemyInsights/org-securityemailaccountcompromised) | muudetud |
+| 4/12/2019 | [424 Org turvalisus - rämpsposti, vale-positiivne](/AlchemyInsights/org-securityspam-false-positive) | muudetud |
+| 4/12/2019 | [1332 OWA - sisendkausta reeglid ei täidavad postkasti](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | muudetud |
+| 4/12/2019 | [182 käivitage SaRA diagnoosida &amp; Outlook autentimise probleemide lahendamiseks](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | muudetud |
+| 4/12/2019 | [412 poliitika tõrge, kui kalendri ühiskasutus](/AlchemyInsights/policy-error-when-sharing-calendar) | muudetud |
+| 4/12/2019 | [408 RBA](/AlchemyInsights/rba) | muudetud |
+| 4/12/2019 | [1336 RecoverableItems kaust on täis](/AlchemyInsights/recoverableitems-folder-is-full) | muudetud |
+| 4/12/2019 | [1374 lahendada kaks postkastide howto](/AlchemyInsights/resolve-two-mailboxes-howto) | muudetud |
+| 4/12/2019 | [924 piiratud](/AlchemyInsights/rule-limits) | muudetud |
+| 4/12/2019 | [414 otsing kogemusi uuendatud](/AlchemyInsights/search-experience-updated) | muudetud |
+| 4/12/2019 | [902 (sünkroonimise tõrgete tõttu dubleeritud objektid)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | muudetud |
+| 4/12/2019 | [Trial Office 365 rentnikule blokeerinud Spamhaus](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | muudetud |
+| 4/12/2019 | [911 väljalülitamine keskendunud kliendi postkasti](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | muudetud |
+| 4/12/2019 | [615 Ühiskasutuse tüübid ja nende häälestamine](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | muudetud |
+| 4/12/2019 | [413 mõistmise tegevuskava e-posti](/AlchemyInsights/understanding-agenda-mail) | muudetud |
+| 4/12/2019 | [932 täiendamine AADConnect](/AlchemyInsights/upgrading-aadconnect) | muudetud |
+| 4/12/2019 | [725 kasutamine meilipseudonüüm mobiiltelefon](/AlchemyInsights/using-email-alias-on-mobile-device) | muudetud |
+| 4/12/2019 | [1554 Winsock-tõrge 10061](/AlchemyInsights/winsock-error-10061) | muudetud |
