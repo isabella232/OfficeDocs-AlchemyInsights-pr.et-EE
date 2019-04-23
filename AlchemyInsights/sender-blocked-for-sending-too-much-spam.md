@@ -1,5 +1,5 @@
 ---
-title: Saatja blokeeritud liiga palju rämpsposti saatmiseks
+title: Saatja on blokeeritud rämpsposti saatmise tõttu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405283"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767496"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a><span data-ttu-id="c562b-102">Konto on blokeeritud liiga palju rämpsposti saatmiseks</span><span class="sxs-lookup"><span data-stu-id="c562b-102">Account is blocked for sending too much spam</span></span>
+# <a name="account-is-blocked-for-sending-too-much-spam"></a><span data-ttu-id="7c75d-102">Konto on blokeeritud rämpsposti saatmise tõttu</span><span class="sxs-lookup"><span data-stu-id="7c75d-102">Account is blocked for sending too much spam</span></span>
 
-<span data-ttu-id="c562b-p101">Saatmine konto võidakse kahjustada. Kas soovite:</span><span class="sxs-lookup"><span data-stu-id="c562b-p101">The sending account may be compromised. You will need to:</span></span>
+<span data-ttu-id="7c75d-103">On võimalik, et saatja konto on sattunud ründe ohvriks.</span><span class="sxs-lookup"><span data-stu-id="7c75d-103">The sending account may be compromised.</span></span> <span data-ttu-id="7c75d-104">Peate tegema järgmist.</span><span class="sxs-lookup"><span data-stu-id="7c75d-104">You will need to:</span></span>
   
-1. <span data-ttu-id="c562b-p102">[Kindlaks, kui konto on ohus](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Kui ohus, järgige korraldavate [ohustatud e-posti konto teenuses Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="c562b-p102">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). If compromised, follow the steps for [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
+1. <span data-ttu-id="7c75d-105">[Tehke kindlaks, kas konto on ohus](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span><span class="sxs-lookup"><span data-stu-id="7c75d-105">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span></span> <span data-ttu-id="7c75d-106">Kui konto on sattunud ründe ohvriks, täitke artiklis [Turberikkega meilikontole reageerimine Office 365-s](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="7c75d-106">If compromised, follow the steps for [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
     
-2. <span data-ttu-id="c562b-p103">Avage piiratud kasutajad **[konto blokeeringu](https://protection.office.com/?hash=/restrictedusers)** turvalisuse &amp; täitmise Center. Kui teha, peaks olema võimalik jätkata sõnumid *1 tunni jooksul* .</span><span class="sxs-lookup"><span data-stu-id="c562b-p103">Go to Restricted Users to **[unblock the account](https://protection.office.com/?hash=/restrictedusers)** in Security &amp; Compliance Center. Once done, you should be able to resume sending messages  *within 1 hour*  .</span></span> 
+2. <span data-ttu-id="7c75d-107">Minge piirangutega kasutajate jaotisse, et **[konto blokeering tühistada](https://protection.office.com/?hash=/restrictedusers)** turbe- ja vastavuskeskuses.</span><span class="sxs-lookup"><span data-stu-id="7c75d-107">Go to Restricted Users to **[unblock the account](https://protection.office.com/?hash=/restrictedusers)** in Security &amp; Compliance Center.</span></span> <span data-ttu-id="7c75d-108">Kui olete valmis, peaksite sõnumite saatmise võimaluse *ühe tunni jooksul* jälle tagasi saama.</span><span class="sxs-lookup"><span data-stu-id="7c75d-108">Once done, you should be able to resume sending messages  *within 1 hour*  .</span></span> 
     
-3. <span data-ttu-id="c562b-109">Et vältida tulevikus arvesse kompromisse, soovituste [parimad Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).</span><span class="sxs-lookup"><span data-stu-id="c562b-109">To help prevent future account compromises, follow the recommendations in [Security best practices for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).</span></span>
+3. <span data-ttu-id="7c75d-109">Edasiste kontoga seonduvate ohtude vältimiseks järgige artikli [Office 365 head turbetavad](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx) soovitusi.</span><span class="sxs-lookup"><span data-stu-id="7c75d-109">To help prevent future account compromises, follow the recommendations in [Security best practices for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).</span></span>
   
 
