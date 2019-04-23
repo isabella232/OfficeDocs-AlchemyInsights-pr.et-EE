@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000088
-ms.openlocfilehash: 1444dedf40529bf14fa65fe90f98b70e6c5a784c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779158"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903732"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Salvestada sõnumeid Outlook.com-is
 
@@ -29,4 +29,4 @@ Kaasatud Windows 10 Microsoft printida PDF utiliit, mis võimaldab teil printida
 4. Valige **Prindi**.
 5. Sisestage faili nimi ja valige **Salvesta**.
 
-**Märkus:** See ei ole soovitatav ühiskasutatavat või avalikku arvutit, nagu teistel kasutajatel PDF-e, arvutisse salvestada ja kustutada juurdepääs.
+**Märkus:** See ei ole soovitatav ühiskasutatavat või avalikku arvutit, nagu teistel kasutajatel PDF-e, salvestada arvutisse ja ärge kustutage juurdepääs.
