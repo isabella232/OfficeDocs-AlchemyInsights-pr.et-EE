@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>11. märts 2019 nädal
-
-
-| Avaldatud |Teema pealkiri | Muutus |
-|------|------------|--------|
-| 3/12/2019 | 8000054 Outlook.com-i sisendkausta ei lae | lisatud |
-| 3/12/2019 | [8000078 Outlook.com-i sisendkausta ei lae](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | ümber nimetatud |
-| 3/12/2019 | [8000078 Outlook.com-i sisendkausta ei lae](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | muudetud |
-| 3-13-2019 | [Meilisõnumite edastamine Office 365 kaudu](/AlchemyInsights/relay-email-through-office-365) | muudetud |
-| 3/14/2019 | [sama faili nimi on parim [reegel #-kirjeldus]](/AlchemyInsights/1-alchemy-insight-template) | muudetud |
-| 3/14/2019 | [Postkasti mahtu suurendada](/AlchemyInsights/increase-mailbox-size) | muudetud |
-| 3/15/2019 | [Outlooki töölaua tagasikutsumine või asendamine e-kirja](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | lisatud |
-
-
 ## <a name="week-of-march-18-2019"></a>18. märts 2019 nädal
 
 
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 täiendamine AADConnect](/AlchemyInsights/upgrading-aadconnect) | muudetud |
 | 4/12/2019 | [725 kasutamine meilipseudonüüm mobiiltelefon](/AlchemyInsights/using-email-alias-on-mobile-device) | muudetud |
 | 4/12/2019 | [1554 Winsock-tõrge 10061](/AlchemyInsights/winsock-error-10061) | muudetud |
+
+
+## <a name="week-of-april-15-2019"></a>15. aprill 2019 nädal
+
+
+| Avaldatud |Teema pealkiri | Muutus |
+|------|------------|--------|
+| 4/15/2019 | [Alkeemia - Outlook võrguühenduse probleemide diagnoosimiseks ja lahendamiseks](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | muudetud |
+| 4/15/2019 | [Alkeemia - Loo oma Outlooki profiili](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | muudetud |
+| 4/15/2019 | [DLP peate kohandatud tüüp](/AlchemyInsights/dlp-might-need-custom-type) | lisatud |
+| 4/15/2019 | [DLP ei tööta ootuspäraselt](/AlchemyInsights/dlp-not-working-as-expected) | muudetud |
+| 4/15/2019 | [DLP poliitika nõuanded ei tööta](/AlchemyInsights/dlp-policy-tips-not-working) | muudetud |
+| 4/15/2019 | [Outlook.com-i tõrge 550](/AlchemyInsights/outlook-com-error-550) | lisatud |
+| 4/15/2019 | [Outlook.com-i kvoot on ületatud](/AlchemyInsights/outlook-com-over-quota) | lisatud |
+| 4/15/2019 | [Skype Outlook.com-i eemaldamine](/AlchemyInsights/outlook-com-remove-skype-rule-1) | lisatud |
+| 4/15/2019 | [Skype Outlook.com-i eemaldamine](/AlchemyInsights/outlook-com-remove-skype-rule-2) | lisatud |
+| 4/15/2019 | [182 käivitage SaRA diagnoosida &amp; Outlook autentimise probleemide lahendamiseks](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | muudetud |
+| 4/16/2019 | [9000233 Outlook.com-i PIN-koodi](/AlchemyInsights/outlook-com-pin) | muudetud |
+| 4/16/2019 | [Skype Outlook.com-i eemaldamine](/AlchemyInsights/outlook-com-remove-skype-rule-1) | muudetud |
+| 4/16/2019 | [8000088 Salvesta e-posti teenuses Outlook.com](/AlchemyInsights/outlook-com-save-emails) | muudetud |
+| 4/16/2019 | [8000052 failide manustamine Outlook.com-is](/AlchemyInsights/attach-files-in-outlook-com) | muudetud |
+| 4/16/2019 | [8000015 blokeerida või blokeeringu saatjad](/AlchemyInsights/block-or-unblock-senders) | muudetud |
+| 4/16/2019 | [8000014 kuidas muuta keele Outlook.com-is](/AlchemyInsights/how-to-change-language-in-outlook-com) | muudetud |
+| 4/16/2019 | [8000059 kuidas muuta](/AlchemyInsights/how-to-change-your-layout) | muudetud |
+| 4/16/2019 | [8000033 kuidas vastata või edasi sõnumeid Outlook.com beeta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | muudetud |
+| 4/16/2019 | [8000055 kuidas või kokku Outlook.com-i sisselogimine](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | muudetud |
+| 4/16/2019 | [8000062 Outlook.com-is kausta teisaldamine](/AlchemyInsights/moving-a-folder-in-outlook-com) | muudetud |
+| 4/16/2019 | [Auto kohaldada tundlikkussilte](/AlchemyInsights/auto-apply-sensitivity-labels) | lisatud |
+| 4/16/2019 | [Ei ilmu tundlikkussilte](/AlchemyInsights/sensitivity-labels-not-appearing) | lisatud |
+| 4/16/2019 | [Uue säilituspoliitika siltide loomise automaatselt](/AlchemyInsights/new-retention-labels-created-automatically) | lisatud |
+| 4/16/2019 | [SharePointis või OneDrive auditilogid](/AlchemyInsights/classic-sharepoint-audit-log-reports) | lisatud |
+| 4/16/2019 | [Kustuta sõnum sündmused auditilogid tuvastada](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | lisatud |
+| 4/16/2019 | [Tuvastada postkasti auditilogide väline e-posti saatmise](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | lisatud |
+| 4/16/2019 | [Sisendkausta reegli tegevuse auditilogid tuvastada](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | lisatud |
+| 4/16/2019 | [IP-aadress ja kliendi auditilogi](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | lisatud |
+| 4/16/2019 | [Remont pst-faili enne importimist](/AlchemyInsights/repair-pst-before-importing) | lisatud |
+| 4/16/2019 | [Klassikaline SharePointi auditi aruanded](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | lisatud |
+| 4/16/2019 | [Klassikaline SharePointi auditi aruanded](/AlchemyInsights/classic-sharepoint-audit-log-reports) | muudetud |
+| 4/16/2019 | [Tuvastada postkasti auditilogide väline e-posti saatmise](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | muudetud |
+| 4/16/2019 | [Sisendkausta reegli tegevuse auditilogid tuvastada](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | muudetud |
+| 4/16/2019 | [Klassikaline SharePointi auditi aruanded](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | muudetud |
+| 4/17/2019 | [E-posti kohaletoimetamise lahendamine meililoaga Ühiskaustad](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | lisatud |
+| 4/17/2019 | [Meeskonnad vahetuses](/AlchemyInsights/teams-shifts) | muudetud |
+| 4/18/2019 | [8000011 taastada kustutatud e-posti teenuses Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | muudetud |
