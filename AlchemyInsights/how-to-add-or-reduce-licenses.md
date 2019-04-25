@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767424"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400019"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Kuidas lisada või vähendada litsentsid
 
 Siin on, kuidas eemaldada või osta rohkem litsentse.
   
-1. Administreerimiskeskuses, [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele või valida **arvete** \> **tellimused**.
+1. Avage halduskeskuses leht [Tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054) või valige **Arveldamine** \> **Tellimused**.
     
 2. Vasakul, valige tellimus, mille soovite lisada/eemaldada litsentsid
     

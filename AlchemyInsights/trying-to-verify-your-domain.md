@@ -1,5 +1,5 @@
 ---
-title: Proovin kontrollida oma domeeni?
+title: Kas soovite domeeni kinnitada?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
 ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935132"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420120"
 ---
-# <a name="trying-to-verify-your-domain"></a>Proovin kontrollida oma domeeni?
+# <a name="trying-to-verify-your-domain"></a>Kas soovite domeeni kinnitada?
 
-Peate lisama TXT-kirje domeeni omandiõiguse kinnitamiseks domeeni registripidaja. Järgige viisardi lisada domeeni **sätted** klõpsake \> **domeeni**ja seejärel **Lisada domeeni**. 
+Kinnitamaks, et domeen kuulub teile, peate oma domeenregistripidaja juures lisama TXT-kirje. Valige domeeni lisamise viisardis **Sätted** \> **Domeen** ja seejärel **Lisa domeen**. 
   
-TXT-kirje kontrollida oma domeeni lisamiseks järgige juhiseid artikli alla. Valige oma konkreetseid juhiseid oma domeeni jaoks domeeniregistraator.
+Domeeni kinnitamise jaoks TXT-kirje lisamiseks täitke allpool olevas artiklis toodud juhised. Domeeni kohta käivate täpsemate juhiste lugemiseks valige oma domeeni registripidaja.
   
-[Office 365 DNS-kirjete loomine](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[DNS-i kirjete loomine Office 365 jaoks](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 
