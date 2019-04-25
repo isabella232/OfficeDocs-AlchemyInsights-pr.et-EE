@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
 ms.openlocfilehash: 0cf8eb72da415c7ec0156cec282198bd0c61ad1a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758966"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389379"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="44c2b-102">Uue tellimuse tootenumbriga aktiveerida</span><span class="sxs-lookup"><span data-stu-id="44c2b-102">Activate a new subscription with a product key</span></span>
+# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="edf69-102">Uue tellimuse tootenumbriga aktiveerida</span><span class="sxs-lookup"><span data-stu-id="edf69-102">Activate a new subscription with a product key</span></span>
 
-1. <span data-ttu-id="44c2b-103">Uue tellimuse teie tootenumber aktiveerimiseks minge selle [https://office.com/setupkey](https://office.com/setupkey) lehel.</span><span class="sxs-lookup"><span data-stu-id="44c2b-103">To activate a new subscription with your product key, go to the [https://office.com/setupkey](https://office.com/setupkey) page.</span></span> 
+1. <span data-ttu-id="edf69-103">Uue tellimuse teie tootenumber aktiveerimiseks minge selle [https://office.com/setupkey](https://office.com/setupkey) lehel.</span><span class="sxs-lookup"><span data-stu-id="edf69-103">To activate a new subscription with your product key, go to the [https://office.com/setupkey](https://office.com/setupkey) page.</span></span> 
     
-2. <span data-ttu-id="44c2b-104">Sisestage oma Office 365 tootenumber ja järgige viipasid aktiveerida oma tellimust.</span><span class="sxs-lookup"><span data-stu-id="44c2b-104">Enter your Office 365 product key and follow the prompts to activate your subscription.</span></span> <span data-ttu-id="44c2b-105">Kui teil on probleeme aktiveerimist, vaadake [ühise tootenumbri tõrked ja lahendusi](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099).</span><span class="sxs-lookup"><span data-stu-id="44c2b-105">If you have problems with activation, check out this [list of common product key errors and solutions](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099).</span></span>
+2. <span data-ttu-id="edf69-104">Sisestage oma Office 365 tootenumber ja järgige viipasid aktiveerida oma tellimust.</span><span class="sxs-lookup"><span data-stu-id="edf69-104">Enter your Office 365 product key and follow the prompts to activate your subscription.</span></span> <span data-ttu-id="edf69-105">Kui teil on probleeme aktiveerimist, vaadake [ühise tootenumbri tõrked ja lahendusi](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099).</span><span class="sxs-lookup"><span data-stu-id="edf69-105">If you have problems with activation, check out this [list of common product key errors and solutions](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099).</span></span>
     
 
