@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918970"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410118"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Paigaldus Office terminali Server
 
@@ -25,9 +25,9 @@ Kohta Office 365 ProPlusi kasutades kaugtöölaua teenuste (RDS) server Windowsi
     
 Kui soovite installida Office 365 ProPlus RDS portaalist Office 365, ** *mis kasutab vaikimisi installimise sätted* **, järgige neid samme: 
   
-1. Vaata mida teil Office 365 leping. [Õpi kuidas](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Vaata mida teil Office 365 leping. [Õppida, kuidas](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Kui lüliti erinevate Office 365 korral. [Õpi kuidas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Kui lüliti erinevate Office 365 korral. [Õppida, kuidas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Kui Office on juba installitud, kasutades Office 365 lepingud RDS server, eemaldage see. Näiteks minnes juhtpaneelil \> programmi desinstallimine. Desinstallige [Microsoft Support ja taastamise abimees](https://aka.ms/SARA-OfficeUninstall-Alchemy) kui teil tekib küsimusi. 
     

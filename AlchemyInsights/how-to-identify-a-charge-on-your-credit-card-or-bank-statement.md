@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
 ms.openlocfilehash: c698c085fc7d1d62eb5c615061198cd5395fbbab
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758534"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417854"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Kuidas tunda ära oma krediitkaardi või pangakonto väljavõte tasu
 

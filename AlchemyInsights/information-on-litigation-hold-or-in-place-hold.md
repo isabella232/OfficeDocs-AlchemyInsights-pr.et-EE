@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926924"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410406"
 ---
 - Kohaldada kohtuvaidlused ootele või in-koht kuulub postkasti, [Exchange Online'i lepingu 2 litsents](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) on nõutav. Kui teil on muid plaane, määrata konto eraldi [Seostuvad](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) litsentsi. 
     
