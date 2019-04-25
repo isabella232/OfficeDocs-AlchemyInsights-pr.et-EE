@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000082
 ms.openlocfilehash: 722bee3770ca445ff1cc4a3abee1e60cc7e4e9c6
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31872304"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393717"
 ---
 # <a name="how-do-i-turn-off-skype-in-outlookcom"></a>Kuidas Skype'i Outlook.com-is välja lülitada?
 
