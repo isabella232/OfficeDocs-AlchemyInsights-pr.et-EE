@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
 ms.openlocfilehash: ca0d8b3181ea06a4e1ce9877843ed0eb5196b334
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941036"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388393"
 ---
-# <a name="rename-a-site"></a><span data-ttu-id="8da37-102">Nimetage sait</span><span class="sxs-lookup"><span data-stu-id="8da37-102">Rename a site</span></span>
+# <a name="rename-a-site"></a><span data-ttu-id="e5299-102">Nimetage sait</span><span class="sxs-lookup"><span data-stu-id="e5299-102">Rename a site</span></span>
 
-<span data-ttu-id="8da37-p101">Muuta saidi nimi, näiteks https://contoso.sharepoint.com/sites/sample1 et https://contoso.sharepoint.com/sites/sample2, luua uue saidi ja siis liikuda kogu sisu vanalt saidilt uuele. Dokumenditeekides üksuste teisaldamise kohta leiate teemast [SharePointi dokumenditeegis üksusi teisaldada ega kopeerida](https://go.microsoft.com/fwlink/?Linkid=2018691).</span><span class="sxs-lookup"><span data-stu-id="8da37-p101">To change the name of a site, for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, you need to create a new site and then move all the content from the old site to the new one. For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?Linkid=2018691).</span></span>
+<span data-ttu-id="e5299-103">Muuta saidi nimi, näiteks https://contoso.sharepoint.com/sites/sample1 et https://contoso.sharepoint.com/sites/sample2, luua uue saidi ja siis liikuda kogu sisu vanalt saidilt uuele.</span><span class="sxs-lookup"><span data-stu-id="e5299-103">To change the name of a site, for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, you need to create a new site and then move all the content from the old site to the new one.</span></span> <span data-ttu-id="e5299-104">Dokumenditeekides üksuste teisaldamise kohta leiate teemast [SharePointi dokumenditeegis üksusi teisaldada ega kopeerida](https://go.microsoft.com/fwlink/?Linkid=2018691).</span><span class="sxs-lookup"><span data-stu-id="e5299-104">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?Linkid=2018691).</span></span>
   
-<span data-ttu-id="8da37-p102">Märkus: Kui soovite muuta domeeni nime (s.o contoso osa eespool URL) URL SharePoint Online, see ei ole võimalik. Vaata, [Muuda oma domeenid](https://go.microsoft.com/fwlink/?Linkid=2018696).</span><span class="sxs-lookup"><span data-stu-id="8da37-p102">Note: If you are trying to change the domain name (that is, the contoso part of the URL above) in a SharePoint Online URL, that is not possible. See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span></span>
+<span data-ttu-id="e5299-105">Märkus: Kui soovite muuta domeeni nime (s.o contoso osa eespool URL) URL SharePoint Online, see ei ole võimalik.</span><span class="sxs-lookup"><span data-stu-id="e5299-105">Note: If you are trying to change the domain name (that is, the contoso part of the URL above) in a SharePoint Online URL, that is not possible.</span></span> <span data-ttu-id="e5299-106">Vaata, [Muuda oma domeenid](https://go.microsoft.com/fwlink/?Linkid=2018696).</span><span class="sxs-lookup"><span data-stu-id="e5299-106">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span></span>
   
 
