@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
 ms.openlocfilehash: 5d7502e88ad17fd0e526d7f7cca56fe173275d84
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912236"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421776"
 ---
-# <a name="set-up-spf-in-office-365"></a><span data-ttu-id="25be8-102">SPF Office 365 seadistamine</span><span class="sxs-lookup"><span data-stu-id="25be8-102">Set up SPF in Office 365</span></span>
+# <a name="set-up-spf-in-office-365"></a><span data-ttu-id="b8d33-102">SPF Office 365 seadistamine</span><span class="sxs-lookup"><span data-stu-id="b8d33-102">Set up SPF in Office 365</span></span>
 
-<span data-ttu-id="25be8-p101">Uuenda oma DNS-kirjeid nii, et saate saatja poliitika raamistiku (SPF) koos kohandatud domeeni väljamineva e-posti saata oma kohandatud domeeni kinnitamiseks. See aitab vältida "tüssamine" mail kui see teie domeenist saadetud.</span><span class="sxs-lookup"><span data-stu-id="25be8-p101">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain. This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
+<span data-ttu-id="b8d33-103">Uuenda oma DNS-kirjeid nii, et saate saatja poliitika raamistiku (SPF) koos kohandatud domeeni väljamineva e-posti saata oma kohandatud domeeni kinnitamiseks.</span><span class="sxs-lookup"><span data-stu-id="b8d33-103">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain.</span></span> <span data-ttu-id="b8d33-104">See aitab vältida "tüssamine" mail kui see teie domeenist saadetud.</span><span class="sxs-lookup"><span data-stu-id="b8d33-104">This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
   
-- [<span data-ttu-id="25be8-105">Seadistada SPF Office 365, mis aitab vältida võltsimist</span><span class="sxs-lookup"><span data-stu-id="25be8-105">Set up SPF in Office 365 to help prevent spoofing </span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [<span data-ttu-id="b8d33-105">Seadistada SPF Office 365, mis aitab vältida võltsimist</span><span class="sxs-lookup"><span data-stu-id="b8d33-105">Set up SPF in Office 365 to help prevent spoofing </span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     
-- [<span data-ttu-id="25be8-106">Abi, kõik DNS-kirjete</span><span class="sxs-lookup"><span data-stu-id="25be8-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="b8d33-106">Abi, kõik DNS-kirjete</span><span class="sxs-lookup"><span data-stu-id="b8d33-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
     
 
