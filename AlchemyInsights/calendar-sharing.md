@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: 611
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
 ms.openlocfilehash: de0eb73fd3a39917ed1dd49fbc3c88f7bde3e9fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30783883"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396250"
 ---
-# <a name="calendar-sharing"></a><span data-ttu-id="82918-102">Kalendri ühiskasutus</span><span class="sxs-lookup"><span data-stu-id="82918-102">Calendar sharing</span></span>
+# <a name="calendar-sharing"></a><span data-ttu-id="b618f-102">Kalendri ühiskasutus</span><span class="sxs-lookup"><span data-stu-id="b618f-102">Calendar sharing</span></span>
 
-<span data-ttu-id="82918-103">Lisateabe saamiseks vaadake järgmisi teemasid.</span><span class="sxs-lookup"><span data-stu-id="82918-103">For more information, see these topics:</span></span>
+<span data-ttu-id="b618f-103">Lisateabe saamiseks vaadake järgmisi teemasid.</span><span class="sxs-lookup"><span data-stu-id="b618f-103">For more information, see these topics:</span></span>
   
-- [<span data-ttu-id="82918-104">Outlooki kalendri ühiskasutusse</span><span class="sxs-lookup"><span data-stu-id="82918-104">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="b618f-104">Outlooki kalendri ühiskasutus</span><span class="sxs-lookup"><span data-stu-id="b618f-104">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
     
-- [<span data-ttu-id="82918-105">Jaga oma kalendrit Outlook Web äri</span><span class="sxs-lookup"><span data-stu-id="82918-105">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [<span data-ttu-id="b618f-105">Jaga oma kalendrit Outlook Web äri</span><span class="sxs-lookup"><span data-stu-id="b618f-105">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
     
 
