@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
 ms.openlocfilehash: 66188c1065ea9b844673af1214995be2da7fd810
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208041"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418371"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="ad986-102">Kuva aruanded OneDrive ja SharePointi aktiivsuse ja kasutamine</span><span class="sxs-lookup"><span data-stu-id="ad986-102">View reports on OneDrive and SharePoint activity and usage</span></span>
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="ebfef-102">Kuva aruanded OneDrive ja SharePointi aktiivsuse ja kasutamine</span><span class="sxs-lookup"><span data-stu-id="ebfef-102">View reports on OneDrive and SharePoint activity and usage</span></span>
 
-<span data-ttu-id="ad986-p101">Mine [kasutamine aruannete lehele Microsoft 365 administreerimiskeskuses](https://admin.microsoft.com/AdminPortal/Home). Valige jaotises **Valige aruanne**, OneDrive'i või SharePointi tegevuse ja praktika aruande.</span><span class="sxs-lookup"><span data-stu-id="ad986-p101">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home). Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span> 
+<span data-ttu-id="ebfef-103">Mine [kasutamine aruannete lehele Microsoft 365 administreerimiskeskuses](https://admin.microsoft.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="ebfef-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="ebfef-104">Valige jaotises **Valige aruanne**, OneDrive'i või SharePointi tegevuse ja praktika aruande.</span><span class="sxs-lookup"><span data-stu-id="ebfef-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span> 
   
-[<span data-ttu-id="ad986-105">Rohkem infot OneDrive aruanded</span><span class="sxs-lookup"><span data-stu-id="ad986-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
+[<span data-ttu-id="ebfef-105">Rohkem infot OneDrive aruanded</span><span class="sxs-lookup"><span data-stu-id="ebfef-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[<span data-ttu-id="ad986-106">Lisateavet SharePointi aruanded</span><span class="sxs-lookup"><span data-stu-id="ad986-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
+[<span data-ttu-id="ebfef-106">Lisateavet SharePointi aruanded</span><span class="sxs-lookup"><span data-stu-id="ebfef-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
   
 
