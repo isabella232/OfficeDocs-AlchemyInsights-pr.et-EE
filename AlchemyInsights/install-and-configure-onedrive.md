@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
 ms.openlocfilehash: 9ddafba4e83133127574e38542b6380b6002ac41
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968557"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410370"
 ---
 # <a name="install-and-configure-onedrive"></a>Installige ja konfigureerige OneDrive
 
@@ -23,6 +23,6 @@ OneDrive'i sünkroonimisrakenduse Windows, vt teemast:
   
 - [Arvuti sünkroonimiseks teie OneDrive for Business faile Office 365 häälestamine](https://go.microsoft.com/fwlink/?linkid=533375)
     
-- [Failide sünkroonimine SharePointi koos uue OneDrive'i sünkroonimisrakenduse](https://go.microsoft.com/fwlink/?linkid=871666)
+- [SharePointi failide sünkroonimine uue OneDrive’i sünkroonimisrakendusega](https://go.microsoft.com/fwlink/?linkid=871666)
     
 

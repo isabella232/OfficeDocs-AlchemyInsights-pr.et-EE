@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
 ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773768"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406380"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Tegeleda andmepüügiga tegelemiseks postkastis
 
@@ -28,10 +28,10 @@ Kui saate meili, mis näeb välja nagu andmete analüüs, saate sellest teatada.
     
 3. Lehe ülaosas valida **mitte rämpspostiks** kõrval olevat noolt ja valige **Phishing**. 
     
-Vaadake lisateavet kuidas [toimida kuritarvitamise, andmepüügist või tüssamine](https://go.microsoft.com/fwlink/p/?linkid=873139).
+Lugege lisaks, kuidas [väärkasutust, andmepüüki ja tüssamist takistada](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Kui näete suurendada spam, lugeda [rämpsposti ja rämpsposti oma postkastist eemal](https://go.microsoft.com/fwlink/p/?linkid=873140)hoida.
+Kui olete hakanud rohkem rämpsposti saama, lugege, kuidas [rämpspost oma postkastist eemal hoida](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
-Blokeerida e-posti aadressid, minge **seaded** \> **Valikud** \> **Blokeeritud saatjad**. Aadressid või domeenid oma turvaliste saatjate loendisse lisamiseks valige **Turvalised saatjad**. 
+Meiliaadresside blokeerimiseks valige **Sätted** \> **Suvandid** \> **Blokeeritud saatjad**. Aadresside või domeenide lisamiseks turvaliste saatjate hulka valige **Turvalised saatjad**. 
   
 
