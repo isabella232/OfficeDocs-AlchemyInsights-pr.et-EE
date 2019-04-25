@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
 ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760010"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396484"
 ---
 # <a name="buy-additional-licenses"></a>Osta täiendavaid litsentse
 
-1. Administreerimiskeskuses, [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele või valida **arvete** \> **tellimused**.
+1. Avage halduskeskuses leht [Tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054) või valige **Arveldamine** \> **Tellimused**.
     
 2. **Tellimuste** lehel Valige tellimus, mida soovite lisada litsentse ja valige **Add/Remove litsentsid**.
     

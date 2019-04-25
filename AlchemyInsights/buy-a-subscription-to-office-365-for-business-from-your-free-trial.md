@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761593"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396755"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Osta pakett Office 365 tasuta prooviversiooni:
 
@@ -24,7 +24,7 @@ Olen proovinud Office 365 ja nüüd olete valmis osta. Kui ostate Office 365 pro
   
  **Ostad oma uuringus sama plaani**
   
-1. Administreerimiskeskuses, [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele või valida **arvete** \> **tellimused**.
+1. Avage halduskeskuses leht [Tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054) või valige **Arveldamine** \> **Tellimused**.
     
 2. **Osta nüüd** valida soovitud Proovitellimus ja juhiste abil vaadake. 
     
