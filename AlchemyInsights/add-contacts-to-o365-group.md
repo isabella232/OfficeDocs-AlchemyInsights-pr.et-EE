@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
 ms.openlocfilehash: 26c843cedce90a87a74fc3d364ee62fb7daec0ab
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762204"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398778"
 ---
-# <a name="add-contacts-to-an-office-365-group"></a><span data-ttu-id="a5f1e-102">Kontaktide lisamine kuvamiseks Office 365 rühmas</span><span class="sxs-lookup"><span data-stu-id="a5f1e-102">Add contacts to an Office 365 Group</span></span>
+# <a name="add-contacts-to-an-office-365-group"></a><span data-ttu-id="d7ffb-102">Kontaktide lisamine kuvamiseks Office 365 rühmas</span><span class="sxs-lookup"><span data-stu-id="d7ffb-102">Add contacts to an Office 365 Group</span></span>
 
-<span data-ttu-id="a5f1e-103">Rühma saate lisada välised kasutajad ja Kontaktid Outlook mail järgides neid juhiseid: [Lisa ja Eemalda grupi liikmed Outlookis](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="a5f1e-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
+<span data-ttu-id="d7ffb-103">Rühma saate lisada välised kasutajad ja Kontaktid Outlook mail järgides neid juhiseid: [Lisa ja Eemalda grupi liikmed Outlookis](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="d7ffb-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
   
-<span data-ttu-id="a5f1e-104">Saate ka lisada või eemaldada grupi liikmete portaalis Admin: [Office 365 rühmad Microsoft 365 halduskeskuse lisa või Eemalda liikmed](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span><span class="sxs-lookup"><span data-stu-id="a5f1e-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Office 365 groups using the Microsoft 365 admin center](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span></span>
+<span data-ttu-id="d7ffb-104">Saate ka lisada või eemaldada grupi liikmete portaalis Admin: [Office 365 rühmad Microsoft 365 halduskeskuse lisa või Eemalda liikmed](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span><span class="sxs-lookup"><span data-stu-id="d7ffb-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Office 365 groups using the Microsoft 365 admin center](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span></span>
   
 
