@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904676"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417679"
 ---
 # <a name="network-migration"></a>Võrgu rände
 
@@ -29,8 +29,8 @@ O365 rentniku on võib-olla seotud mitu Yammeri võrku 1 üürnik: paljud võrgu
     
 Pange tähele:
   
-- **Võrgu rände migreerib ainult aktiivse ja mida kasutajad.** Koos aktiivsete kasutajate pärineb ka kasutajate teavet, näiteks nime ega profiilipilti. Võrgu, sealhulgas sõprade, sisu on rännanud. 
+- **Võrgu rände migreerib ainult aktiivse ja kasutajatele.** Koos aktiivsete kasutajate pärineb ka kasutajate teavet, näiteks nime ega profiilipilti. Võrgu, sealhulgas sõprade, sisu on rännanud. 
     
-- **Ei saa tühistada võrgu rände.** Te ei saa kasutada täiendava võrgu ja selle sisu pärast migreerimise. Nii et enne kui kaaluda üleminekut, sa tahad kavandama. 
+- **Võrgu rände ei saa tühistada.** Te ei saa kasutada täiendava võrgu ja selle sisu pärast migreerimise. Nii et enne kui kaaluda üleminekut, sa tahad kavandama. 
     
 
