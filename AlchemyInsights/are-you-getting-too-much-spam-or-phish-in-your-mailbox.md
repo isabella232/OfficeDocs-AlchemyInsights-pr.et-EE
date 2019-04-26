@@ -1,5 +1,5 @@
 ---
-title: Kas sa saada liiga palju rämpsposti või phish postkastis?
+title: Kas teie postkasti saabub liiga palju rämpsposti või andmepüügi kirju?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
 ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404923"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397220"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Kas sa saada liiga palju rämpsposti või phish postkastis?
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Kas teie postkasti saabub liiga palju rämpsposti või andmepüügi kirju?
 
-Vaata [Kuidas vähendada rämpsposti e-posti rakenduses Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) tõrkeotsing rämpsposti. 
+Vaadake rämpsposti tõrkeotsinguks teemat [Office 365 rämpsposti hulga vähendamine](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email). 
   
-Parim viis seda tüüpi probleemide aru peab: 
+Parim viis seda tüüpi probleemidest teavitamiseks on järgmine. 
   
-1. [Lubade kasutada aruandluse lisandmoodul programmi](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) kasutajale. 
+1. Lubage kasutajal [teavitamise lisamoodul](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in). 
     
-2. On [kasutaja aruande sõnumit](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) rämpspostina. 
+2. Laske [kasutajal teavitada sõnumist](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) kui rämpspostist. 
     
 

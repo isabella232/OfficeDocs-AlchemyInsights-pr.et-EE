@@ -1,5 +1,5 @@
 ---
-title: E-posti kohaletoimetamise probleeme?
+title: Kas meilisõnumite kohaletoimetamisega on probleeme?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
 ms.openlocfilehash: c7c90d9eb4e9ae40a7ea558528d42e91e666bb8b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405427"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400497"
 ---
-# <a name="having-email-delivery-issues"></a>E-posti kohaletoimetamise probleeme?
+# <a name="having-email-delivery-issues"></a>Kas meilisõnumite kohaletoimetamisega on probleeme?
 
-Avastasime, et kasutajad ei saa vastu võtta e-kirju saata järgmist (t):
+Oleme tuvastanud, et teie kasutajad ei saa vastu võtta meilisõnumeid, mis saadetakse järgmistele domeenidele:
   
 {HealthCheckString}
   
-NS või MX kirje domeeni (DNS) sätted ei ole õigesti konfigureeritud e-posti kohaletoimetamise oma Office 365 teenusega. Üksikasjalikud juhised saate viidata [Office 365 värskendamine DNS kirjed](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) . 
+NS-i või MX-kirjed pole domeeni (DNS) sätetes õigesti konfigureeritud ning meilisõnumeid ei saa teie Office 365 teenusesse kohale toimetada. Üksikasjalikud juhised leiate artiklist [Office 365 DNS-kirjete värskendamine](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-Vea parandamiseks minge Microsofti 365 administreerimiskeskuses lehe [Domeenid](https://admin.microsoft.com/adminportal/home#/Domains) ja aitame teil sellega. 
+Probleemi lahendamiseks avage Microsoft 365 halduskeskuses leht [Domeenid](https://admin.microsoft.com/adminportal/home#/Domains) ja me aitame teid. 
   
-[Kontrollige domeenid FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) muid ühiseid lahendusi. 
+Muud levinud lahendused leiate artiklist [Domeenide KKK](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
   
 
