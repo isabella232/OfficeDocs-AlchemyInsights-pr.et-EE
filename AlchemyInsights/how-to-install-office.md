@@ -1,5 +1,5 @@
 ---
-title: Kuidas installida Office
+title: Office’i installimine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.openlocfilehash: 05e1f1e27d77ebf621fda557346692a75befd284
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405103"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417350"
 ---
-# <a name="how-to-install-office"></a>Kuidas installida Office
+# <a name="how-to-install-office"></a>Office’i installimise juhend
 
 
-Office'i kliendi rakenduste installimiseks tagada, teil on Office 365 Business Premium, Office 365 Business või Office 365 Education lepingu.
+Office'i klientrakenduste installimiseks tagage, et teil on ettevõtteversiooni tellimus, nagu Office 365 Business Premium, Office 365 Business või Office 365 Education.
   
-*Märkus: [Office Home and Business 2016](https://products.office.com/home-and-business) on [Home Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) toote ja mitte osa ettevõtte poolt. Visio või projekti kohta teabe saamiseks vt [Visio installida](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) või [projekti](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
+*MÄRKUS: [Office Home and Business 2016](https://products.office.com/home-and-business) on [kodukasutajatele mõeldud Office’i](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) toode ja ei ole ettevõtteversiooni tellimuse osa. Täpsemaid juhiseid Visio või Projecti kohta vaadake teemast [Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) või [Projecti installimine](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
 
-Looge kasutajakontod ja lisada oma domeeni. Veenduge, et kasutaja on [määratud litsentsi](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
+Looge kasutajakontod ja lisage oma domeen. Veenduge, et kasutajal oleks [määratud litsents](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
     
-Iga kasutaja on:
-1. Mine portaal: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
-2. Logige sisse oma töö või kooli kontot, kui pole juba sisse logitud.
-3. Valige jaotises Office keel. Valige **Täpsemalt** valida 32-bitine või 64-bitine versioon. 
-4. Valige **Install**.
+Laske igal kasutajal teha järgmist.
+1. Avada portaalileht: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
+2. Kui nad pole veel sisse loginud, logida sisse oma töö- või koolikontoga.
+3. Valida Office'i jaotises keel. 32-bitise või 64-bitise versiooni valimiseks valida **Täpsemad valikud**. 
+4. Valida **Installi**.
     
-Täpsed juhised ja veaotsingu lahendusi Office'i installimisel leiate: [alla laadida ja installida või uuesti installida Office PC või Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+Office'i installimise üksikasjalikke juhiseid ja tõrkeotsingu lahendusi vaadake teemast [Office'i allalaadimine ja installimine või uuesti installimine PC- või Mac-arvutisse](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
     

@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405391"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370250"
 ---
 # <a name="the-domain-is-already-in-use"></a>Domeen on juba kasutusel
 
-Domeen, et lisada juba kuulub teise organisatsiooni. Peate esmalt eemaldama domeeni selle organisatsiooni sellesse asutusse lisamiseks. Järgmised artiklid juhendab teid neid protsesse.
+Domeen, mida proovite lisada, kuulub juba teisele asutusele. Peate domeeni esmalt vastavalt asutuselt eemaldama ning seejärel saate selle lisada sellele asutusele. Nende toimingute tegemisel aitavad teid järgmised artiklid.
   
-- [Domeeni eemaldada Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+- [Domeeni eemaldamine teenusekomplektist Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     
-- [DNS-kirjete lisamist domeeni ja](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [Domeeni lisamine ja DNS-i kirjete loomine](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
     
 
