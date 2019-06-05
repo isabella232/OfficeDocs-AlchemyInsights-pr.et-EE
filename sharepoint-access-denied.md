@@ -1,0 +1,24 @@
+---
+title: Juurdepääs keelatud sõnumite tõrkeotsing
+ms.author: kirks
+author: Techwriter40
+ms.date: 6/29/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
+ms.openlocfilehash: 1b515e445caa25136960602f73bef1e21e753bc4
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: et-EE
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34715908"
+---
+# <a name="troubleshoot-access-denied-messages"></a>Juurdepääs keelatud sõnumite tõrkeotsing
+
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Kui kuvatakse juurdepääsu keelamise teade, kui proovite browse Sharepoint Online sait, palun vt selle artikli alla.&nbsp;</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Lisada ja kasutaja litsents</span></u></strong></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Tagada, et te <a href="https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One">määrama kasutajatele Office 365 Business litsentsid</a>.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Õiguste määramine</span></u></strong><u></u></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Kui kasutaja on määratud SharePointi litsentsi ja juurdepääsu keelamise teade ikka veel vastu, siis veenduge, neil on <a href="https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels">tasandil määratud loa korral.</a></span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Võite kasutada funktsiooni juurdepääsu taotluse</span></u></strong><u></u></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';"><a href="https://support.office.com/en-us/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3">Juurdepääsu taotluse funktsioon</a> võimaldab inimestel paluda luba sisu, mida nad on praegu õigus näha.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Lubada kohandatud skript võib põhjustada juurdepääs keelatud küsimusi</span></u></strong><u></u></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">On teatud stsenaariume, kus on &ldquo;luba kohandatud skriptid&rdquo; funktsiooni võib esitada juurdepääsu keelamise. Mõjutab funktsioonide, võttes ja võime seda keelata. Palun külastage <a href="https://docs.microsoft.com/en-us/sharepoint/allow-or-prevent-custom-script">Luba või kohandatud skripti</a>.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Märkus:</span></strong><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;<em>kui mitmele kasutajale, kellel juurdepääs puudub OneDrive'i või SharePointi saidi, võib esineda probleem teenuse ajutise.&nbsp; <a href="https://portal.office.com/adminportal/home#/servicehealth" target="_blank" rel="noopener">Kontrollige teenuste seisundi armatuurlaud</a>.</em></span></p>
+
+
+  
+
