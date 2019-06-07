@@ -2,28 +2,28 @@
 title: Hübriid konfigureerimise viisard
 ms.author: dstrome
 author: dstrome
-manager: serdars
+manager: dansimp
 ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: bc5fe90eda19c500b947fdde91a395805a1feee0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 480dfc466a8f4f3ef40cfb50f76b8e6d46d45771
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32416959"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755220"
 ---
-# <a name="hybrid-configuration-wizard"></a><span data-ttu-id="2fac5-102">Hübriid konfigureerimise viisard</span><span class="sxs-lookup"><span data-stu-id="2fac5-102">Hybrid Configuration wizard</span></span>
+# <a name="hybrid-configuration-wizard"></a><span data-ttu-id="e17db-102">Hübriid konfigureerimise viisard</span><span class="sxs-lookup"><span data-stu-id="e17db-102">Hybrid Configuration wizard</span></span>
 
-<span data-ttu-id="2fac5-103">Hübriid konfigureerimisviisard on rakendus, mis aitab teil installida uue Kooseksisteerimine — Office 365 ja asutusesisese Exchange'i organisatsiooni vahel.</span><span class="sxs-lookup"><span data-stu-id="2fac5-103">The Hybrid Configuration wizard is an app that helps you set up a new hybrid deployment between your on-premises Exchange organization and Office 365.</span></span> <span data-ttu-id="2fac5-104">Kui sul on juba loodud hübriidjuurutuse, aitab viisard teil värskendada oma hübriid juurutamise sätteid.</span><span class="sxs-lookup"><span data-stu-id="2fac5-104">If you already have a hybrid deployment set up, the wizard helps you update your hybrid deployment settings.</span></span> <span data-ttu-id="2fac5-105">Lisateabe saamiseks vaadake:</span><span class="sxs-lookup"><span data-stu-id="2fac5-105">For more information, check out:</span></span>
+<span data-ttu-id="e17db-103">Hübriid konfigureerimisviisard on rakendus, mis aitab teil installida uue Kooseksisteerimine — Office 365 ja asutusesisese Exchange'i organisatsiooni vahel.</span><span class="sxs-lookup"><span data-stu-id="e17db-103">The Hybrid Configuration wizard is an app that helps you set up a new hybrid deployment between your on-premises Exchange organization and Office 365.</span></span> <span data-ttu-id="e17db-104">Kui sul on juba loodud hübriidjuurutuse, aitab viisard teil värskendada oma hübriid juurutamise sätteid.</span><span class="sxs-lookup"><span data-stu-id="e17db-104">If you already have a hybrid deployment set up, the wizard helps you update your hybrid deployment settings.</span></span> <span data-ttu-id="e17db-105">Lisateabe saamiseks vaadake:</span><span class="sxs-lookup"><span data-stu-id="e17db-105">For more information, check out:</span></span>
   
-- [<span data-ttu-id="2fac5-106">Hübriid konfigureerimise viisardi käivitamine</span><span class="sxs-lookup"><span data-stu-id="2fac5-106">Run Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="e17db-106">Hübriid konfigureerimise viisardi käivitamine</span><span class="sxs-lookup"><span data-stu-id="e17db-106">Run Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="2fac5-107">Hübriid konfigureerimise viisard</span><span class="sxs-lookup"><span data-stu-id="2fac5-107">Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="e17db-107">Hübriid konfigureerimise viisard</span><span class="sxs-lookup"><span data-stu-id="e17db-107">Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="2fac5-108">Hübriid konfigureerimise viisard KKK</span><span class="sxs-lookup"><span data-stu-id="2fac5-108">Hybrid Configuration wizard FAQs</span></span>](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="e17db-108">Hübriid konfigureerimise viisard KKK</span><span class="sxs-lookup"><span data-stu-id="e17db-108">Hybrid Configuration wizard FAQs</span></span>](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
     
 
