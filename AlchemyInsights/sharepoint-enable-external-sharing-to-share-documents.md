@@ -8,18 +8,41 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 14b005e353b162b7c49c350ec434798009269219
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716853"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760733"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Välise ühiskasutuse SharePoint Online
 
-Kui teie organisatsioon teeb tööd, mis hõlmab dokumentide jagamiseks või otse koostööd hankijate, klientide või klientide, siis saate selle <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview"><span style="color: blue;">välise jagamise funktsioonide SharePoint Online</span></a> sisu ühiskasutada inimestega väljaspool oma organisatsiooni.
+Kui teie organisatsioon teeb tööd, mis hõlmab dokumentide jagamiseks või otse koostööd hankijate, klientide või klientide, siis saate selle [välise jagamise funktsioonide SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) sisu ühiskasutada inimestega väljaspool oma organisatsiooni.
 
-Välise jagamise kohta lisateabe saamiseks külastage alltoodud linke.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user"><span style="color: blue;">Mis on välise kasutaja?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document"><span style="color: blue;">Mis juhtub, kui ma jagada saidile või dokumenti?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off"><span style="color: blue;">Välise SharePoint Online ühiskasutuse sisse või välja lülitada</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site"><span style="color: blue;">Välise saidi ühiskasutuse sisse või välja lülitada</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet"><span style="color: blue;">Kasutada Sharepoint Online business-to-business (B2B) Suhtevõrgu lahendus</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c"><span style="color: blue;">SharePointi faili või kausta ühiskasutusse andmiseks</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">Lõpeta ühiskasutus OneDrive'i või SharePointi failid või kaustad või õiguste muutmiseks</span></a></span></li> <li><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center">Välise kasutaja kustutamine</a></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong style="mso-bidi-font-weight: normal;"><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">
+Välise jagamise kohta lisateabe saamiseks külastage alltoodud linke.
 
-Veateade koos välise kasutaja? &nbsp;Vaata linke allpool. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0"><span style="color: blue;">Tõrketeade, kui välise kasutaja aktsepteerib SharePoint Online kutse teise kontoga</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f"><span style="color: blue;">Juurdepääs ühiskasutusega kausta keelatud</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message"><span style="color: blue;">OSE vead SharePointis või OneDrive ühiskasutuse</span></a></span></li> </ul>
+[Mis on välise kasutaja?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+
+[Mis juhtub, kui ma jagada saidile või dokumenti?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+
+[Välise SharePoint Online ühiskasutuse sisse või välja lülitada](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+
+[Välise saidi ühiskasutuse sisse või välja lülitada](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Kasutada Sharepoint Online business-to-business (B2B) Suhtevõrgu lahendus](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[SharePointi faili või kausta ühiskasutusse andmiseks](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Lõpeta ühiskasutus OneDrive'i või SharePointi failid või kaustad või õiguste muutmiseks](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Välise kasutaja kustutamine](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Veateade koos välise kasutaja? &nbsp;Vaata linke allpool.
+
+- [Tõrketeade, kui välise kasutaja aktsepteerib SharePoint Online kutse teise kontoga](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+
+- [Juurdepääs ühiskasutusega kausta keelatud](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+
+- [OSE vead SharePointis või OneDrive ühiskasutuse](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
