@@ -12,27 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 76aba7b2c065e78364ba48eabdae1436e2e6e9cc
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+ms.openlocfilehash: ff9fa79aa4124c7af0521e07a5f1ce243f9e7f47
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34738052"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757323"
 ---
-# <a name="upgrade-to-visio-2019"></a><span data-ttu-id="026c8-102">Visio 2019 täiendamine</span><span class="sxs-lookup"><span data-stu-id="026c8-102">Upgrade to Visio 2019</span></span>
+# <a name="upgrade-to-visio-2019"></a><span data-ttu-id="4565f-102">Visio 2019 täiendamine</span><span class="sxs-lookup"><span data-stu-id="4565f-102">Upgrade to Visio 2019</span></span>
 
-<span data-ttu-id="026c8-103">Kui Visio töölaua rakendus installitud Visio Online tellimuse osana, teil on juba uusim versioon.</span><span class="sxs-lookup"><span data-stu-id="026c8-103">If you installed the Visio desktop app as part of your Visio Online subscription, you already have the latest version.</span></span> <span data-ttu-id="026c8-104">Võrrelda Visio plaanid ja -tellimus suvandid, võrrelda Visio valikute vaatamiseks.</span><span class="sxs-lookup"><span data-stu-id="026c8-104">To compare Visio plans and non-subscription options, see Compare Visio options.</span></span>
+<span data-ttu-id="4565f-103">Kasutajad, kes installitud Visio töölauarakenduse Visio Online tellimus juba osana on uusim versioon.</span><span class="sxs-lookup"><span data-stu-id="4565f-103">Users who installed the Visio desktop app as part of a Visio Online subscription already have the latest version.</span></span> 
 
-<span data-ttu-id="026c8-105">Kui teil on Visio, Visio 2016 nagu mitte-aboneeritava versiooni ja tahad osta Visio 2019 või Visio Online tellimuse ostmiseks peate Visio 2019.</span><span class="sxs-lookup"><span data-stu-id="026c8-105">If you have a non-subscription version of Visio such as Visio 2016 and want to upgrade to Visio 2019 you need to buy Visio 2019 or purchase a Visio Online subscription.</span></span> <span data-ttu-id="026c8-106">Kui teil juba on Visio 2019 ja olete valmis installida, vaadake [Visio installida](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798).</span><span class="sxs-lookup"><span data-stu-id="026c8-106">If you already have Visio 2019 and you're ready to install it, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798).</span></span> 
+<span data-ttu-id="4565f-104">Visio 2016 nagu mitte-aboneeritava versiooni täiendamiseks peate ostma Visio Online tellimus või ühekordse ostuna Visio Standard või nägemise Professional 2019.</span><span class="sxs-lookup"><span data-stu-id="4565f-104">To upgrade a non-subscription version such as Visio 2016, you need to buy a Visio Online subscription or a one-time purchase of Visio Standard or Vision Professional 2019.</span></span> <span data-ttu-id="4565f-105">[Võrrelda Visio valikute](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options)vaatamiseks.</span><span class="sxs-lookup"><span data-stu-id="4565f-105">See [Compare Visio options](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).</span></span>
 
-<span data-ttu-id="026c8-107">Kui installite Visio side-by-side koos Office samas arvutis, vt [toetatud stsenaariumid paigaldus erinevaid versioone Office, projekti ja Visio samas arvutis](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span><span class="sxs-lookup"><span data-stu-id="026c8-107">If you're installing Visio side-by-side with Office on the same computer, see [Supported scenarios for installing different versions of Office, Project, and Visio on the same computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span></span>
+<span data-ttu-id="4565f-106">Kui ostsite juba uuem versioon ja installida, vaadake [Visio installida](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) ja järgige oma versiooni.</span><span class="sxs-lookup"><span data-stu-id="4565f-106">If you already purchased a newer version and you're ready to install it, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) and follow the steps for your version.</span></span> 
 
-<span data-ttu-id="026c8-108">**Märkus**: Visio 2019 põhiversiooni peatuv 16,0.</span><span class="sxs-lookup"><span data-stu-id="026c8-108">**Note**: The major version of Visio 2019 is staying at 16.0.</span></span>
+<span data-ttu-id="4565f-107">Vaata installimiseks Office Visio side-by-side [paigaldus erinevaid versioone Office, projekti ja Visio samas arvutis toetatud stsenaariumid](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span><span class="sxs-lookup"><span data-stu-id="4565f-107">To install Visio side-by-side with Office, see [Supported scenarios for installing different versions of Office, Project, and Visio on the same computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span></span>
 
-<span data-ttu-id="026c8-109">Lisateabe saamiseks vt: [Visio kasutamise juhend](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)
-[Visio 2019 põhiversiooni number on peatuv 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)
-[aasta nimetuse rakendustes Office 2016 ja Office 365 kliendi kaovad Start menüü kannete](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) 
- [Office 2019 Commercial for Windows ja Mac korduma kippuvad küsimused](https://support.microsoft.com/help/4133312)</span><span class="sxs-lookup"><span data-stu-id="026c8-109">For more information, see: [Deployment guide for Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)
-[The major version number of Visio 2019 is staying at 16.0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)
-[Year designation in Office 2016 and Office 365 client apps will be removed from Start menu entries](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)
-[Office 2019 Commercial for Windows and Mac frequently asked questions](https://support.microsoft.com/help/4133312)</span></span> 
+<span data-ttu-id="4565f-108">Lisateavet vaadake teemast</span><span class="sxs-lookup"><span data-stu-id="4565f-108">For more information, see:</span></span><br>
+[<span data-ttu-id="4565f-109">Visio kasutamise juhend</span><span class="sxs-lookup"><span data-stu-id="4565f-109">Deployment guide for Visio</span></span>](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[<span data-ttu-id="4565f-110">Visio 2019 põhiversiooni number on peatuv 16,0</span><span class="sxs-lookup"><span data-stu-id="4565f-110">The major version number of Visio 2019 is staying at 16.0</span></span>](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[<span data-ttu-id="4565f-111">Aasta määramine kliendi rakendused Office 2016 ja Office 365 kaovad Start menüü kanded</span><span class="sxs-lookup"><span data-stu-id="4565f-111">Year designation in Office 2016 and Office 365 client apps will be removed from Start menu entries</span></span>](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[<span data-ttu-id="4565f-112">Office 2019 Commercial for Windows ja Mac korduma kippuvad küsimused</span><span class="sxs-lookup"><span data-stu-id="4565f-112">Office 2019 Commercial for Windows and Mac frequently asked questions</span></span>](https://support.microsoft.com/help/4133312) 
