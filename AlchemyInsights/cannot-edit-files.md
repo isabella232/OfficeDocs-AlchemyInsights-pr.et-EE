@@ -8,13 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 875abf0c820c480f4dbf905f19d75cc4c299f9fb
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: de45b05aa3c8e8c3fd7b9d75b01a26f791135b51
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34718008"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756339"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Miks te ei pruugi muuta failid?
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; ">Kui dokumenti, töölehele või esitlusse lukustatud toimetamine ja saab&rsquo;t avada, võimalik, et faili redigeeritakse juba keegi teine, või nad on faili välja möllida. Let's võtma pilgu mõned põhjused, <a href="https://support.office.com/en-us/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b"><span style="color: blue;">miks te ei pruugi faili redigeerida</span></a>.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Märkus:</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Raamatukogude kassasse, vajalikud veerud/metaandmete, või kui Mustandüksuse Turve on seatud kas ainult redigeerimise õigusega kasutajad või ainult kasutajad, kes teegi üksuste versiooni seaded</span></p> <ul style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Raamatukogu OneDrive OneDrive kuvatakse lukuikoon kõrval sünkroonimise olekut ja kasutaja ei saa sünkroonida Raamatukogu kuni nimetatud sätted ei ole lõpetatud.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Lisateavet lukustatud faile Word/Excel viitavad järgmised artiklid.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://support.office.com/en-us/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3"> <span style="color: blue;">Exceli fail on lukus teise kasutaja redigeerimiseks</span></a></span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://support.microsoft.com/en-us/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when"> <span style="color: blue;">Wordi fail on lukus teise kasutaja redigeerimiseks</span></a></span></p>
+Kui dokumenti, töölehele või esitlusse on redigeerimiseks lukus ja ei saa avada, võimalik, et faili redigeeritakse juba keegi teine, või nad on faili välja möllida. Let's võtma pilgu mõned põhjused, [miks te ei pruugi faili redigeerida](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+
+Märkus: Raamatukogud kassasse, vaja veerud/metaandmete, või kui Mustandüksuse Turve on seatud kas ainult redigeerimise õigusega kasutajad või ainult versiooni seaded teegi üksuste kinnitamise õigusega kasutajad.
+
+Raamatukogu OneDrive OneDrive kuvatakse lukuikoon kõrval sünkroonimise olekut ja kasutaja ei saa sünkroonida Raamatukogu kuni nimetatud sätted ei ole lõpetatud.
+
+Lisateavet lukustatud faile Word/Excel viitavad järgmised artiklid.
+
+- [Exceli fail on lukus teise kasutaja redigeerimiseks](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+
+- [Wordi fail on lukus teise kasutaja redigeerimiseks](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

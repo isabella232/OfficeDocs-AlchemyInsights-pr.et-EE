@@ -2,7 +2,7 @@
 title: 763 blokeerimine Exchange Online PowerShelli juurdepääsu
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 763
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 0923f9144a9bbc7c73c9b7d0c61d310fd1935ba1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3c4e9ebc8aaa99350544ca3e5fa0d058a95ad16b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396566"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756376"
 ---
 Kui admin, teil on võime blokeerida juurdepääsu Exchange Online PowerShelli kasutajate jaoks. Lisateabe saamiseks vaadake järgmisi teemasid.
 
