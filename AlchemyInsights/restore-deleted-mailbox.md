@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: d3808cdee54b748abec16035ecb5c093ec6d37f3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 760587c0e58662283c3c1a647d1cc5fb81187545
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370538"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770734"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Kustutatud postkasti taastamine
 
@@ -33,6 +33,6 @@ Kui kasutaja kaotab oma Exchange Online'i litsentsi, oma postkastis hoitakse all
     
 3. Exchange Online'i litsentsi omistamine ja vajutage **Salvesta**
     
-Kui soovite ühiskasutuses postkasti taastamine, samuti on hüvitata 30 päeva. Leiad neid **kasutajaid** \> **Kustutatud** kasutajad; ühiskasutuses olevad postkastid ei vaja litsentsi. Kui avastate, et teil on vaja taastada kustutatud kasutaja, leiate [Office 365 kasutaja taastada](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Kui soovite ühiskasutuses postkasti taastamine, samuti on hüvitata 30 päeva. Leiad neid **kasutajaid** \> **Kustutatud** kasutajad; ühiskasutuses olevad postkastid ei vaja litsentsi. Kui avastate, et teil on vaja taastada kustutatud kasutaja, leiate [Office 365 kasutaja taastada](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
 

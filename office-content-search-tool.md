@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ee05de080a9bde2dd150cdfe340dd29875242f71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: et-EE
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756638"
+ms.locfileid: "34770629"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Sisu otsingu abil leida asjakohast infot
 
 Kasutamise turvalisuse & vastavuse Center kiireks otsimiseks Exchange'i postkastides, SharePointi saidid ja OneDrive asukohad ja vahetu sõnumside vestlusi Skype ettevõtetele e-posti sisu otsingumootor. Sisu otsingu abil saate otsida e-posti, dokumente ja vahetu sõnumside vestlusi Office 365 koostöö tööriistu, nagu Microsoft Teams ja Office 365 rühmad.
 
 
-Enne [Sisu otsingust](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) : [turvalisuse & vastavuse Center](https://sip.protection.office.com/homepage)abil soovite lõpetada konfiguratsiooni seaded [konfigureerida õigusi](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [millega allalaadimiskiirus](https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ja [ekspordi seaded](https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Enne [Sisu otsingust](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) : [turvalisuse & vastavuse Center](https://sip.protection.office.com/homepage)abil soovite lõpetada konfiguratsiooni seaded [konfigureerida õigusi](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [millega allalaadimiskiirus](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ja [ekspordi seaded](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
 Mõista enam sisu otsingu [tingimused ja piirid](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [läbivaatav osaliselt indekseeritud üksuste](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ja teiste tulemusi vaadates pidama.
 
