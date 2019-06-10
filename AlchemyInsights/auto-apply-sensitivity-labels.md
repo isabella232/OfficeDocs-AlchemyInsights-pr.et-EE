@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408715"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769539"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Auto kohaldada tundlikkussilte
 
@@ -25,7 +25,7 @@ Majandamiskavaga tundlikkussilte eemaldab koolitama kasutajate liigitamiseks sis
 Sildid automaatselt rakenduvad on kohustatud:
 
 - Azure tellimuse teabe kaitse P2
-- [Laadige alla ja installige Azure kaitse ühtne märgistamine klient](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Laadige alla ja installige Azure kaitse ühtne märgistamine klient](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Üritame native toetust, mis ei nõua Azure'i kaitse ühtne märgistamine klient tulevikus.
 
@@ -33,5 +33,5 @@ Hetkel ainult Windows toetab ühtse märgistuse klient.  Funktsiooni ei toetata 
 
 Tundlikkussilte ja neid automaatselt kohaldada sisu kohta lisateabe saamiseks vaadake:
 
-- [Ülevaade tundlikkussilte](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Rakendamiseks tundlikkus sildi sisu automaatselt](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Ülevaade tundlikkussilte](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Rakendamiseks tundlikkus sildi sisu automaatselt](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
