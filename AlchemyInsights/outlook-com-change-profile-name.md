@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: 38903d02b1231240d26da96f25e96d73ffa4548b
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859212"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062093"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="aa6a7-102">Outlook.com-i profiili nime muutmine</span><span class="sxs-lookup"><span data-stu-id="aa6a7-102">Change your profile name in Outlook.com</span></span>
+# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="a0763-102">Outlook.com-i profiili nime muutmine</span><span class="sxs-lookup"><span data-stu-id="a0763-102">Change your profile name in Outlook.com</span></span>
 
-1. <span data-ttu-id="aa6a7-103">Avage [oma Microsofti konto teabe](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="aa6a7-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-2. <span data-ttu-id="aa6a7-104">Valige **Muuda nimi**.</span><span class="sxs-lookup"><span data-stu-id="aa6a7-104">Select **Edit name**.</span></span>
-3. <span data-ttu-id="aa6a7-105">Sisestage eesnimi ja perekonnanimi ja valige **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="aa6a7-105">Enter a first name and last name, and select **Save**.</span></span>
+1. <span data-ttu-id="a0763-103">Avage [oma Microsofti konto teabe](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="a0763-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+2. <span data-ttu-id="a0763-104">Valige **Muuda nimi**.</span><span class="sxs-lookup"><span data-stu-id="a0763-104">Select **Edit name**.</span></span>
+3. <span data-ttu-id="a0763-105">Sisestage eesnimi ja perekonnanimi ja valige **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="a0763-105">Enter a first name and last name, and select **Save**.</span></span>
 
-<span data-ttu-id="aa6a7-106">Palun lubage kuni 24 tundi teie profiilinime sisse muudatused.</span><span class="sxs-lookup"><span data-stu-id="aa6a7-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
+<span data-ttu-id="a0763-106">Palun lubage kuni 24 tundi teie profiilinime sisse muudatused.</span><span class="sxs-lookup"><span data-stu-id="a0763-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
