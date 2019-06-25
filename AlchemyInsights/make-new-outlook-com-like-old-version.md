@@ -1,35 +1,33 @@
 ---
-title: 8000035 kuidas teha uus Outlook.com-i välja nagu vana
+title: Kuidas teha uus Outlook.com-i välja nagu vana
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409398"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117609"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kuidas teha uus Outlook.com-i välja nagu vana versioon
 
-Siin on mõned seaded ja vaadete muutmiseks teha uus Outlook.com-i välja nagu vana versioon.
+Siin on mõned seaded saate muuta, teha uus Outlook.com-i välja nagu vana versioon:
 
-1. Valige sätete avamiseks lehe ülaosas asuvat hammasrattaikooni.
-2. Valige oma **teema**.
-3. Muutke **Vaade kõnelus** **uusimad sõnumid alguses**.
-4. Muuta **lugemispaani** **peita**.
-5. Aktiveerige **fookustatud sisendkaustas** **välja**.
-6. Aktiveerige **saatja pilt** **välja**. 
-7. Aktiveerige **Rühmita sõnumid kuupäeva järgi** **välja**. 
-8. Aktiveerige **manuste eelvaade** **välja**. 
-9. Aktiveerige **sõnumi eelvaate teksti** **kohta**.
+1. Minge [paigutussätted](https://outlook.live.com/mail/options/mail/layout).
+1. **Fookustatud sisendkaustas**, valige **pole sorditud sõnumid**.
+1. Valige jaotises **sõnumi organisatsiooni** **uusimad sõnumid alguses**.
+1. **Saatja pilt**, valige **Ära kuva saatja piltide**.
+1. Valige jaotises **lugemispaani** **peita lugemispaani**.
+1. Valige jaotises **sõnumi eelvaate tekst** **Näita eelvaatetekst**.
+1. Valige jaotises **teksti sees eelvaated**, **Ära kuva manused kirjade loendis**.
 
-Märkus: Need on vaid mõned Soovitatavad sätted, mis lähim võimalik paigutus Outlook.com-i tavaversiooni. See sõltub ikkagi teie soovitud seaded.
-
-E-posti sätteid muuta nii, et teie sisendkausta näeb välja ja käitub nii, nagu soovite, et näha [Isikupärasta oma uus e-posti kogemus Outlook.com-is](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Teie e-posti seaded nii oma postkasti näeb välja ja käitub, kuidas peaks välja muutmiseks vaadake teemat [muuta, vaadata oma postkasti Outlook.com-i ja uue Outlook Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
