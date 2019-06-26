@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: e36f5fe58a181d1bfdb6f97f6b00fc85718674a5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fbf08f446233fc582f4651a60dfa9a31dda270a8
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760022"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223492"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Võimalusi asuda SharePoint Online
 
@@ -20,15 +20,15 @@ On erinevaid võimalusi sisu rännata SharePoint Online, olenevalt suurusest ja 
 
 Sisu rände kohta lisateabe saamiseks külastage alltoodud linke.
 
-[SharePointi migratsiooni tööriist](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [SharePointi migratsiooni tööriist](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-[SharePoint Online'i ja ODB migratsiooni kiirus](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [SharePoint Online'i ja ODB migratsiooni kiirus](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-[Andmete migratsiooni ja SPO teenuse vähendanud](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).
+- [Andmete migratsiooni ja SPO teenuse vähendanud](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).
 
 
-[Vältida pärsitud või blokeeritud SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Vältida pärsitud või blokeeritud SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-[SharePointi Migreerimistööriista hindamine (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
+- [SharePointi Migreerimistööriista hindamine (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
 
-**Märkus**: praegu Sharepoint Migreerimistööriista toetavad ainult migratsiooni Sharepoint 2010 ja 2013. Sel ajal ei toetata versioon 2016.
+**Märkus**: praegu SharePoint Migreerimistööriista toetavad ainult migratsiooni SharePoint 2010 ja 2013. Sel ajal ei toetata versioon 2016 või 2019.
