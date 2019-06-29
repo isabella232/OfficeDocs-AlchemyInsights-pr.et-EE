@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 646
+ms.custom:
+- "646"
+- "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 2dc4ae7d6809c24ce599ac128570e9354c9f2b30
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752557"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385329"
 ---
 # <a name="configure-sync-features"></a>Sünkroonimise funktsioonide konfigureerimine
 
@@ -23,7 +25,7 @@ Azure AD ühenduse loomine hõlmab funktsioone, mis on vaikimisi või saate luba
 
 - [Filtreerimine](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) piirid objektid on sünkroonitud Azure AD. Vaikimisi, kõik kasutajad, kontaktide, rühmade ja Windows 10 arvuti kontod on sünkroonitud. Saate kaasata või välja jätta vastavalt domeenid, organisatsiooniüksused või atribuudid objektid.
 
-- [Parooli räsi syncronization](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sünkroonib parooli räsi asutusesisese Active Directory Azure AD. See võimaldab salasõnade haldus ühes kohas, kuid kasutada sama parooli nii asutusesisese ja pilve keskkondades. Sest Active Directory on usaldusväärne allikas, saate oma parooli poliitika.
+- [Parooli räsi sünkroonimine](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sünkroonib parooli räsi asutusesisese Active Directory Azure AD. See võimaldab salasõnade haldus ühes kohas, kuid kasutada sama parooli nii asutusesisese ja pilve keskkondades. Sest Active Directory on usaldusväärne allikas, saate oma parooli poliitika.
 
 - [Iseteeninduse parooli lähtestada (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) võimaldab kasutajatel oma paroolide lähtestamiseks pilves samas eelnevatega kohapeal paroolipoliitika.
 

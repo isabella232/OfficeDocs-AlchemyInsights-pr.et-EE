@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "476"
+- "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 540fe0e8f9edd6949229e90e256aa2626584dd3b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4f0c153d6e3bbd7a5b27d15090e8b98345318aa
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388761"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378845"
 ---
 # <a name="get-office-365-free-for-your-entire-school"></a>Hankige Office 365 tasuta kogu kooli
 
 Parandada klassis ja koolis koostöös tasuta kontoritarkvara. Sa pead veenduge, et olete akrediteeritud õppuritele ära pakkumisi.
   
 - [Vaadata läbi haridus plaane](https://products.office.com/academic/compare-office-365-education-plans)
-    
-- [Office 365 Education kasutamise alustamine](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
-    
-- [Kõiki Office 365 lepingute võrdlus](https://products.office.com/business/compare-more-office-365-for-business-plans)
-    
 
+- [Office 365 Education kasutamise alustamine](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
+
+- [Kõiki Office 365 lepingute võrdlus](https://products.office.com/business/compare-more-office-365-for-business-plans)

@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000229"
 - "1811"
-ms.openlocfilehash: 5908474649dbf3eb77e7b91f8df6a508e36f8080
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+- "9000229"
+ms.openlocfilehash: 1006351fcfd84cc8ab5f4c83739ed3f56f71cded
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643357"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377261"
 ---
 # <a name="add-a-birthday-calendar-in-outlookcom"></a>Sünnipäeva kalendri lisamine Outlook.com-i
 
-1. Lehe allosas valige ikooni kalender ja avage Kalender.
+1. Lehe allosas valige ikooni kalender ja [avage Kalender](https://outlook.live.com/mail/calendar).
 1. Vasakus paanis Paremklõpsake **sünnipäevad** ja valige **Uus sünnipäev**.
 1. Sisestage inimese nimi ja sünnikuupäev ja valige **Loo**.
 1. Valige **Sünnipäevakalender lülitab meeldetuletused sisse ja välja** .
