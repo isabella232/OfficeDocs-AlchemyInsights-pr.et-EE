@@ -8,17 +8,18 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1576"
+- "9000067"
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 73ff9c5cb09cd4209912ef459e8c7df2560c2d27
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 17a23719271df9b0b4a61f6cf5cf69efebb931ba
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400399"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386477"
 ---
 # <a name="have-you-enabled-teams-for-your-students"></a>On lubasite meeskonnad oma üliõpilastele?
 
-
 On õppejõudude ja töötajate juurdepääs meeskonnad, kuid õpilastele ei saa? Meeskonnad peavad selgesõnaliselt lubada oma üliõpilastele, samuti õppejõududele ja personalile. Selleks vaadake [Lubade kasutada programmi Microsoft meeskonnad oma koolile](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).
   
-

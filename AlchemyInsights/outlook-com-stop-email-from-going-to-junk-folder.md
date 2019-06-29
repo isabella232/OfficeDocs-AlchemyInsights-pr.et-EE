@@ -1,26 +1,34 @@
 ---
-title: Stop Outlook.com sõnumid saab rämpspostikausta
+title: Lõpeta sõnumite läheb Outlook.com-is kausta Rämpspost
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373240"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371789"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Lõpetada saab oma rämpspostifiltri kausta Sõnumid
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Lõpetada saab oma rämpspostifiltri kausta Sõnumid
 
-Kui avastate, et e-kirja teie rämpsposti kaustas ei ole rämpsposti või junk:
+Kui avastate, et e-kirja teie rämpsposti kaustas ei ole rämpsposti:
 
-1. Avage oma [rämpspostifiltri kausta](https://outlook.live.com/mail/junkemail) ja valige sõnum. (Oma rämpspostifiltri kausta üksused kustutatakse 30 päeva pärast).
+1. Avage oma [rämpspostifiltri kausta](https://outlook.live.com/mail/junkemail).
+1. Valige sõnum. (*Märkus:* oma rämpspostifiltri kausta üksused kustutatakse 30 päeva pärast.)
 1. Kohal oleval valige **mitte rämpspostiks** > **mitte rämpspostiks**.
+
+Kui soovite vältida saatja sõnumid kausta Rämpspost läheb, lisage saatja usaldatud saatjate loendis:
+
 1. Avage oma [rämpsposti e-posti seaded](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. **Turvaliste saatjate**, sisestage e-posti aadress või domeen, mida soovite lisada, ja valige **Lisa**. E-posti aadressid või domeenid on turvaliste saatjate loend ei saada teisaldatakse kausta Rämpspost.
+1. **Turvalised saatjad ja domeeni**, valige **Lisa**, sisestage e-posti aadress või domeen, mida soovite lisada ja valige **Salvesta**.
+
+Lisateabe saamiseks loe [märkige e-posti rämpsposti või plokk saatjatena Outlook.com-i](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
