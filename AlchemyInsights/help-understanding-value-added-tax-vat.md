@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "435"
+- "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 314eed3875d50cee87c7271bfbdba174bed8fb93
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400307"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386333"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Aidata mõista väärtus käibemaksu (km)
 
@@ -24,6 +26,5 @@ Kui olete riigis, mis kasutab käibemaksu (VAT), näiteks Ühendkuningriik, Micr
   
 Maksudega seotud põhjustel peate määrama km-Kohuslase registreerimisnumbrit arveldamine sätetes.
   
-Ei saa lisada ega eemaldada käibemaksumäärade, kuid saate muuta vaikimisi käibemaksumäära seaded. Vaikimisi arveldamine kasutab teenust km registreerimisnumbrite kinnitamiseks, kuid soovitame lugeda [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) avaldab Euroopa Komisjon. Kui otsustate keelata teenuse, peate kontrollima kõik km registreerimisnumbrid. 
+Ei saa lisada ega eemaldada käibemaksumäärade, kuid saate muuta vaikimisi käibemaksumäära seaded. Vaikimisi arveldamine kasutab teenust km registreerimisnumbrite kinnitamiseks, kuid soovitame lugeda [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) avaldab Euroopa Komisjon. Kui otsustate keelata teenuse, peate kontrollima kõik km registreerimisnumbrid.
   
-

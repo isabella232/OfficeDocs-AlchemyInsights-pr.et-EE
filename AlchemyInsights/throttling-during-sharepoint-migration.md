@@ -6,17 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1987"
+- "9000353"
 ms.assetid: ''
-ms.openlocfilehash: 0bb18c268e76629c0a63db4f2175d6c9e2d585f6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c42f9a274edf3a5617ca8d05aa7a4ea3ef18a8db
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757781"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353929"
 ---
 # <a name="sharepoint-throttling"></a>SharePointi ahendamine
 
-SharePoint Online kasutab ahendamise säilitada optimaalse jõudluse ja usaldusväärsuse teenuse SharePoint Online. Vähendanud piiranguid arvu kasutajate toiminguid või samaaegsete kutsub (skript või kood) ressursside liigse kasutamise vältimiseks. 
+SharePoint Online kasutab ahendamise säilitada optimaalse jõudluse ja usaldusväärsuse teenuse SharePoint Online. Vähendanud piiranguid arvu kasutajate toiminguid või samaaegsete kutsub (skript või kood) ressursside liigse kasutamise vältimiseks.
 
 Lisateabe saamiseks külastage alltoodud linke:
 

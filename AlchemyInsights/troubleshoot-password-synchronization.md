@@ -9,54 +9,55 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "579"
+- "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 1320c0fe839337188162824439be6f15f86b6c90
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 165e0ff4b2136b727450946d2c47756ebee7d393
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390413"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353101"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Parooli sünkroonimise tõrkeotsing
 
 Tõrkeotsingu, kus puuduvad paroolid on sünkroonitud Azure AD ühenduse versioon 1.1.614.0 või uuem versioon:
   
-1. Avage uus Windows PowerShelli seanss Azure AD ühenduse serveri suvandiga **Käivita administraatorina** . 
-    
-2. Käivitage **Set-ExecutionPolicy RemoteSigned** või **Set-ExecutionPolicy piiramatu**. 
-    
+1. Avage uus Windows PowerShelli seanss Azure AD ühenduse serveri suvandiga **Käivita administraatorina** .
+
+2. Käivitage **Set-ExecutionPolicy RemoteSigned** või **Set-ExecutionPolicy piiramatu**.
+
 3. Azure AD ühenduse viisardit käivitada.
-    
-4. Liikuge selle ** lisaülesandeid ** avamiseks valige ** tõrkeotsing **, ja klõpsake nuppu **edasi**. 
-    
-5. Klõpsake lehel tõrkeotsing **käivitada tõrkeotsingu käivitamiseks** menüü PowerShelli. 
-    
-6. Peamenüüst valige **Parooli sünkroonimise tõrkeotsing**. 
-    
-7. Alammenüü, valige **parool ei tööta üldse**. 
-    
- **Arusaamiseks tõrkeotsingu ülesanne**
+
+4. Liikuge lehele **Lisaülesandeid** , **tõrkeotsing**ja klõpsake nuppu **edasi**.
+
+5. Klõpsake lehel tõrkeotsing **käivitada tõrkeotsingu käivitamiseks** menüü PowerShelli.
+
+6. Peamenüüst valige **Parooli sünkroonimise tõrkeotsing**.
+
+7. Alammenüü, valige **parool ei tööta üldse**.
+
+**Arusaamiseks tõrkeotsingu ülesanne**
   
 Tõrkeotsingu toiming teeb järgmised kontrollid:
   
 - Kinnitab, et parooli sünkroonimise funktsiooni on lubatud Azure AD üürnikule.
-    
+
 - Kinnitab, et Azure AD ühenduse server ei ole lavastus režiimis.
-    
+
 - Jaoks iga olemasoleva asutusesisese Active Directory konnektor (mis vastab olemasolevaid Active Directory metsa):
-    
+
 - 
   - Kinnitab, et parooli sünkroonimise funktsioon on lubatud.
-    
+
   - Otsib parooli sünkroonimise pulss sündmused Windowsi rakenduste sündmuste logisse.
-    
+
   - Iga Active Directory domeeni all asutusesisese Active Directory konnektor:
-    
+
   - Kinnitab, et on kättesaadav Azure AD ühenduse server.
-    
+
   - Kinnitab, et Active Directory Domain Services (AD DS) kontosid, mida asutusesisese Active Directory konnektor on õige kasutajanimi, parool ja parooli sünkroonimine vajalikud õigused.
-    
+
 Rohkem tõrkeotsing parooli sünkroonimise kohta vaadake teemast [tõrkeotsing parooli sünkroonimine Azure AD ühenduse sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   
-
