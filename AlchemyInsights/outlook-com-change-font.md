@@ -3,34 +3,33 @@ title: Fondi muutmine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "8000013"
 - "268"
 - "1919"
+- "8000013"
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 6fe4adf9fd4236fe62ca7965be3d5fe4969cb6b0
-ms.sourcegitcommit: e9a87d0a18800d768eaeef0143dc0faf313edf98
+ms.openlocfilehash: bfc598cc1c5d07a9e591cbcff6ee0006db49abd8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34425074"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376433"
 ---
-# <a name="change-font-or-font-size"></a><span data-ttu-id="42a31-102">Muuda fonti või fondi suurust</span><span class="sxs-lookup"><span data-stu-id="42a31-102">Change font or font size</span></span>
+# <a name="change-font-or-font-size"></a><span data-ttu-id="302b3-102">Muuda fonti või fondi suurust</span><span class="sxs-lookup"><span data-stu-id="302b3-102">Change font or font size</span></span>
 
-<span data-ttu-id="42a31-103">E-posti lugedes saate brauseri Suumimisfunktsiooni Ekraaniloleva teksti suuremaks või väiksemaks muutmine.</span><span class="sxs-lookup"><span data-stu-id="42a31-103">When reading email, you can use your browser's zoom function to make the text on your screen larger or smaller.</span></span>
+<span data-ttu-id="302b3-103">E-posti lugedes saate brauseri Suumimisfunktsiooni Ekraaniloleva teksti suuremaks või väiksemaks muutmine.</span><span class="sxs-lookup"><span data-stu-id="302b3-103">When reading email, you can use your browser's zoom function to make the text on your screen larger or smaller.</span></span>
   
-<span data-ttu-id="42a31-104">Sõnumi salvestamise ajal fondi või fondi suuruse muutmine</span><span class="sxs-lookup"><span data-stu-id="42a31-104">To change the font or font size while composing a message:</span></span>
+<span data-ttu-id="302b3-104">Sõnumi salvestamise ajal fondi või fondi suuruse muutmine</span><span class="sxs-lookup"><span data-stu-id="302b3-104">To change the font or font size while composing a message:</span></span>
   
-1. <span data-ttu-id="42a31-105">Koosta paani allosas valige ikoonid **fonti** või **fondi suurust** .</span><span class="sxs-lookup"><span data-stu-id="42a31-105">At the bottom of the compose pane, select the **Font** or **Font size** icons.</span></span>
+1. <span data-ttu-id="302b3-105">Koosta paani allosas valige ikoonid **fonti** või **fondi suurust** .</span><span class="sxs-lookup"><span data-stu-id="302b3-105">At the bottom of the compose pane, select the **Font** or **Font size** icons.</span></span>
+2. <span data-ttu-id="302b3-106">Valida fonti või fondi suurust, soovitud.</span><span class="sxs-lookup"><span data-stu-id="302b3-106">Choose the font or font size you want to use.</span></span>
 
-2. <span data-ttu-id="42a31-106">Valida fonti või fondi suurust, soovitud.</span><span class="sxs-lookup"><span data-stu-id="42a31-106">Choose the font or font size you want to use.</span></span>
-
-<span data-ttu-id="42a31-107">Kui te ei näe vormindamise Valikud menüü Koosta paani allosas, valige **vormingusuvandid** .</span><span class="sxs-lookup"><span data-stu-id="42a31-107">If you don't see the formatting options menu at the bottom of the compose pane, select the **Formatting options** icon.</span></span>
+<span data-ttu-id="302b3-107">Kui te ei näe vormindamise Valikud menüü Koosta paani allosas, valige **vormingusuvandid** .</span><span class="sxs-lookup"><span data-stu-id="302b3-107">If you don't see the formatting options menu at the bottom of the compose pane, select the **Formatting options** icon.</span></span>
   
-<span data-ttu-id="42a31-108">Lisateabe saamiseks vaadake [Muuda fondi suurust ja välimust Outlook.com-i e-posti](https://go.microsoft.com/fwlink/p/?linkid=873130).</span><span class="sxs-lookup"><span data-stu-id="42a31-108">For more information, see [Change font size and appearance of email in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873130).</span></span>
+<span data-ttu-id="302b3-108">Lisateabe saamiseks vaadake [Muuda fondi suurust ja välimust Outlook.com-i e-posti](https://support.office.com/article/0b4eb323-23fc-4d5d-adbf-cae14c9c0386?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="302b3-108">For more information, see [Change font size and appearance of email in Outlook.com](https://support.office.com/article/0b4eb323-23fc-4d5d-adbf-cae14c9c0386?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
