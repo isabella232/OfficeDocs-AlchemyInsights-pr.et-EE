@@ -9,16 +9,19 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1737"
+- "9000181"
+ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769539"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360481"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Auto kohaldada tundlikkussilte
 
-Tundlikkussilte võib olla mannually, mis on seotud kasutajate sisu, või saate konfigureerida neid automaatselt sisu suhtes.
+Tundlikkussilte käsitsi rakendub sisu kasutajatele või saate konfigureerida neid automaatselt sisu suhtes.
 
 Majandamiskavaga tundlikkussilte eemaldab koolitama kasutajate liigitamiseks sisu ja vajadust teavitada neist poliitika koosseisud.
 

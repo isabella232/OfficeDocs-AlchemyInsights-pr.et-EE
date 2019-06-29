@@ -8,13 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "308"
+- "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 56c2bea5e205358d0ef29fa937e36a88ffc46a1e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761578"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369661"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Säilituspoliitikate Exchange'i administraatori Center
 
@@ -24,7 +27,7 @@ ms.locfileid: "34761578"
   
 - Põhjuseks võib olla peab **Hallatud kaustade abiline** on töödeldud postkasti. Hallatud kaustade abiline üritab teie pilvepõhise organisatsiooni iga seitsme päeva tagant iga postkasti töötlema. Kui muudate säilitussilti või rakendate postkastile muu säilituspoliitika, saate oodata, kuni õnnestus kausta aidata postkasti töötleb või käivitada cmdleti Start-ManagedFolderAssistant alustada abiline töötlemiseks konkreetne postkasti. Cmdlet-käsu käitamine on kasulik testimiseks või tõrkeotsinguks säilituspoliitika või säilitussildi sätete. Külastage lisateabe saamiseks [käivitada hallatud kaustade abiline](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Lahendus:** Alustada abiline konkreetsele postkastile järgmine käsk: 
+  - **Lahendus:** Alustada abiline konkreetsele postkastile järgmine käsk:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
@@ -40,7 +43,7 @@ ms.locfileid: "34761578"
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Käivitage järgmine käsk **keelata** RetentionHold konkreetse postkasti: 
+  - Käivitage järgmine käsk **keelata** RetentionHold konkreetse postkasti:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
@@ -52,6 +55,5 @@ ms.locfileid: "34761578"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Märkus:** Kui postkast on väiksem kui 10 MB, abiline ei töötleb automaatselt postkasti. 
+ **Märkus:** Kui postkast on väiksem kui 10 MB, abiline ei töötleb automaatselt postkasti.
   
-
