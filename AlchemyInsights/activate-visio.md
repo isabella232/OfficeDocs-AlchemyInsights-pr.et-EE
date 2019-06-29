@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883157"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358897"
 ---
 # <a name="activate-visio"></a>Aktiveerida Visio
 
@@ -27,8 +27,8 @@ Enne kui kasutaja saab installida ja aktiveerida töölaua Visio töölauarakend
 
 Visio aktiveerimiseks:
 
-1. Kui see pole juba installitud [Visio installida](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) .
-2. Kui installimine on lõpule jõudnud, avage Visio. Paljudel juhtudel rakendus aktiveerub automaatselt ja saate Visio kohe kasutama hakata. Kui teil palutakse sisse logida, kindlasti sisse logida sama töö või kooli kontole, mis oli määratud Visio litsentsi. 
+1. Kui see pole juba installitud, installige Visio oma [minu konto portaal](https://portal.office.com/account#installs) . Abi saamiseks vaadake [Visio installida](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Kui installimine on lõpule jõudnud, avage Visio rakendus. Visio tõenäoliselt aktiveerib automaatselt ja saate hakata kasutama kohe. Kui seda pole, palutakse teil sisse logida. Kindlasti sisse logida sama töö või kooli kontole, mis oli määratud Visio litsentsi. Järgige viipasid jätkamiseks aktiveerimine. 
 
 Aktiveerimise probleemid, [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy) käivitamine probleemses arvutis.
 

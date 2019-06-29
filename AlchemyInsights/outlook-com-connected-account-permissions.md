@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417946"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375785"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kuidas määrata "Tundub me ei ole õigust"
 
 Kui kuvatakse tõrketeade "see näeb välja nagu meil ei ole õigust saada e-kiri..." Palun tehke järgmist:
 
-1. Avage oma [ühendatud konto sätted](https://outlook.live.com/mail/options/mail/accounts) ja eemaldamine või kustutamine ühendatud konto, mis on loetletud viga. 
+1. Avage oma [ühendatud konto sätted](https://outlook.live.com/mail/options/mail/accounts) ja eemaldamine või kustutamine ühendatud konto, mis on loetletud viga.
 2. Ühendatud konto uuesti lisada.
 3. Minge [tagasi oma postkasti](https://outlook.live.com/mail/inbox).
 
