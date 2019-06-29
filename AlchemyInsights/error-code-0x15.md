@@ -7,24 +7,26 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "919"
+- "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
 description: Kui teile kuvatakse tõrge aktiveerides Office 2013 kaugtöölaua teenuste (RDS) kasutuselevõttu, kaaluma skeeme ADAL registri.
-ms.openlocfilehash: 6d4076ecb5c6ee3c3cf4c4610ad4aa29ab477d8a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e2249d8ebbd2313c64dda5656a3243fa76d97a9a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402735"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388241"
 ---
-<span data-ttu-id="328ae-103">Kui teile kuvatakse tõrge aktiveerides Office 2013 kaugtöölaua teenuste (RDS) kasutuselevõttu, kaaluma skeeme ADAL registri.</span><span class="sxs-lookup"><span data-stu-id="328ae-103">If you're receiving an error while activating Office 2013 on Remote Desktop Services (RDS) deployments, consider enabling ADAL by editing the registry.</span></span> 
+<span data-ttu-id="526fe-103">Kui teile kuvatakse tõrge aktiveerides Office 2013 kaugtöölaua teenuste (RDS) kasutuselevõttu, kaaluma skeeme ADAL registri.</span><span class="sxs-lookup"><span data-stu-id="526fe-103">If you're receiving an error while activating Office 2013 on Remote Desktop Services (RDS) deployments, consider enabling ADAL by editing the registry.</span></span>
   
-|<span data-ttu-id="328ae-104">**Registrivõtme**</span><span class="sxs-lookup"><span data-stu-id="328ae-104">**Registry key**</span></span>|<span data-ttu-id="328ae-105">**Tüüp**</span><span class="sxs-lookup"><span data-stu-id="328ae-105">**Type**</span></span>|<span data-ttu-id="328ae-106">**Väärtus**</span><span class="sxs-lookup"><span data-stu-id="328ae-106">**Value**</span></span>|
+|<span data-ttu-id="526fe-104">**Registrivõtme**</span><span class="sxs-lookup"><span data-stu-id="526fe-104">**Registry key**</span></span>|<span data-ttu-id="526fe-105">**Tüüp**</span><span class="sxs-lookup"><span data-stu-id="526fe-105">**Type**</span></span>|<span data-ttu-id="526fe-106">**Väärtus**</span><span class="sxs-lookup"><span data-stu-id="526fe-106">**Value**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="328ae-107">HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL</span><span class="sxs-lookup"><span data-stu-id="328ae-107">HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL</span></span>  <br/> |<span data-ttu-id="328ae-108">REG_DWORD</span><span class="sxs-lookup"><span data-stu-id="328ae-108">REG_DWORD</span></span>  <br/> |<span data-ttu-id="328ae-109">1</span><span class="sxs-lookup"><span data-stu-id="328ae-109">1</span></span>  <br/> |
-   
-<span data-ttu-id="328ae-110">Lisateabe saamiseks vt [Office 2013 Windowsi seadmete lubade kasutada programmi kaasaegne autentimine](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).</span><span class="sxs-lookup"><span data-stu-id="328ae-110">For more information, see [Enable Modern Authentication for Office 2013 on Windows devices](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).</span></span>
+|<span data-ttu-id="526fe-107">HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL</span><span class="sxs-lookup"><span data-stu-id="526fe-107">HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL</span></span>  <br/> |<span data-ttu-id="526fe-108">REG_DWORD</span><span class="sxs-lookup"><span data-stu-id="526fe-108">REG_DWORD</span></span>  <br/> |<span data-ttu-id="526fe-109">1</span><span class="sxs-lookup"><span data-stu-id="526fe-109">1</span></span>  <br/> |
+
+<span data-ttu-id="526fe-110">Lisateabe saamiseks vt [Office 2013 Windowsi seadmete lubade kasutada programmi kaasaegne autentimine](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).</span><span class="sxs-lookup"><span data-stu-id="526fe-110">For more information, see [Enable Modern Authentication for Office 2013 on Windows devices](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).</span></span>
   
 > [!NOTE]
->  <span data-ttu-id="328ae-111">Office 365 ProPlus ja Office 2016 on lubatud ADAL.</span><span class="sxs-lookup"><span data-stu-id="328ae-111">ADAL is enabled by default in Office 365 ProPlus and Office 2016.</span></span> <span data-ttu-id="328ae-112">> kaugtöölaua teenused (RDS) nimetati varem Terminal Services.</span><span class="sxs-lookup"><span data-stu-id="328ae-112">>  Remote Desktop Services (RDS) was previously named Terminal Services.</span></span> 
+>  <span data-ttu-id="526fe-111">Office 365 ProPlus ja Office 2016 on lubatud ADAL.</span><span class="sxs-lookup"><span data-stu-id="526fe-111">ADAL is enabled by default in Office 365 ProPlus and Office 2016.</span></span> <span data-ttu-id="526fe-112">> kaugtöölaua teenused (RDS) nimetati varem Terminal Services.</span><span class="sxs-lookup"><span data-stu-id="526fe-112">>  Remote Desktop Services (RDS) was previously named Terminal Services.</span></span>
   
-
