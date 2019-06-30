@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632076"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373661"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>E-posti ja ladustamise kvoodi Outlook.com-is
 
@@ -24,4 +26,6 @@ Et vähendada rämpsposti, Outlook.com on igapäevane e-posti saatmise limiit. K
 
 **Salvestuspiirangute**
 
-Kui teie postkast on täis, ei saa saata ega vastu võtta ühtegi sõnumit ja inimesed, kes saadavad teile meile, saavad tõrketeate, et teie sisendkaust on täis. Võimalik [näha, kui palju salvestusruumi, kasutatud](https://go.microsoft.com/fwlink/?linkid=2052089)või võite [õppida, kuidas teha ruumi teie postkasti](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+Kui teie postkast on täis, ei saa saata ega vastu võtta ühtegi sõnumit ja inimesed, kes saadavad teile meile, saavad tõrketeate, et teie sisendkaust on täis. Näete, kui palju ruumi on saadaval minnes [ **seaded** > **kõik Outlooki sätete vaatamine** > **üldise**> ladustamise](https://outlook.live.com/mail/options/general/storage), või võite [õppida, kuidas teha ruumi teie postkasti](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+
+Kui teil on Premium konto, saate vaadata oma ladustamise minnes [ **seaded** > **Vaata kõik Outlook seaded** > **Premium**> funktsioonid](https://outlook.live.com/mail/options/premium/features).

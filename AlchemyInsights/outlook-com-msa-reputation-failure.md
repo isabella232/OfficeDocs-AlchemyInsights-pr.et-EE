@@ -8,13 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000345
-ms.openlocfilehash: ff194e3ec13fda9a409c6d932427385c74191ea6
-ms.sourcegitcommit: bd9292a797758d28e91f043bd77b2f7fe4993cf1
+ms.custom:
+- "1979"
+- "9000345"
+ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33510138"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373805"
 ---
 # <a name="account-locked"></a>Konto lukus
 
@@ -22,3 +24,5 @@ Kui kuvatakse teade "teie konto on lukustatud" kui proovite sisse logida, sellep
 
 1. Minge aadressile [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) ja lukustatud kontole sisse logida.Konto avamiseks sisestage turvakood ette kirjutatud sõnumi Microsoft. Saada tekstisõnum, peate telefoni, mis toetab tekstsõnumside. Kui telefon ei toeta, tekstisõnumit, võite paluda sõber või pereliige kasutada oma telefoni. Microsoft ei salvestata sellele numbrile, seega kasutate see tekst kuvatakse telefoninumber ei pea olema seotud teie kontoga.
 2. Kui kuvatakse teade "Kasutuse limiidi ületanud", minge [Konto tφφle](https://go.microsoft.com/fwlink/?linkid=2090483) mõne meie agendiga vaatab läbi oma konto.
+
+Lisateabe saamiseks lugege [Aktiveeri oma Outlook.com-i konto](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 
