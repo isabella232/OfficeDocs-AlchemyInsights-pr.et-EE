@@ -9,19 +9,22 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1647"
+- "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 0ccdc524625ac76031004300a2406d5bfddcc759
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 8b49afcf50e5eb53f517bbdbd002fb80dddb6f9b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770313"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389681"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP peate kohandatud tüüp
 
 Andmete kaotsimineku vältimise (DLP) poliitika, saate tuvastada ja kaitsta tundlikke andmeid oma organisatsioonis. Mõnel juhul peate oma **kohandatud** tundliku teabe tüüp oma ettevõtte andmeid kaitsta.
 
-Näiteks teie organisatsiooni tekkida vajadus tuvastada ja kaitsta töötaja ID-d või muud andmed mõned vormingus, mis on seotud teie org. Sellisel juhul leiate lisateavet teemadest. 
+Näiteks teie organisatsiooni tekkida vajadus tuvastada ja kaitsta töötaja ID-d või muud andmed mõned vormingus, mis on seotud teie org. Sellisel juhul leiate lisateavet teemadest.
   
  **Kohandada sisseehitatud tundliku teabe tüüp**
   
@@ -29,10 +32,8 @@ Sisseehitatud tundliku teabe tüüp oleks paar tweaks teie vajadustele, saate [k
   
  **Looge kohandatud tundliku teabe tüüp**
   
-Kuid kui teil on vaja tuvastada ja kaitsta tundlikku teavet eri tüüpi kokku, võite [luua kohandatud tundliku teabe tüüp](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) turvalisuse & vastavuse Center UI. 
+Kuid kui teil on vaja tuvastada ja kaitsta tundlikku teavet eri tüüpi kokku, võite [luua kohandatud tundliku teabe tüüp](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) turvalisuse & vastavuse Center UI.
   
 **Looge kohandatud tundliku teabe tüüp turvalisuse & vastavuse Center PowerShelli**
 
 Lõpuks, kui UI ei paku kõiki võimalusi, mida vajate, saate [luua kohandatud tundliku teabe tüüp turvalisuse & vastavuse Center PowerShelli](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Alustades XML-faili, kasutage iga võimalust.
-
-    
