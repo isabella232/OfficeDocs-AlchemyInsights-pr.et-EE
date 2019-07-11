@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377621"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614166"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Gmaili konto lisamine Outlook.com-i
 
@@ -30,4 +30,4 @@ Teie Outlook.com-i kontoga ühendatud kontolt sünkroonimine on ühesuunaline ai
 
 E-posti teel saadetavate Outlook.com-i ühendatud Gmaili kontolt. E-kirja koostamisel **valida** ja valida oma Gmaili aadressi või [uuendada oma vaikimisi saatja aadressi](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Lisateabe saamiseks vt [Lisa muude meilikontode Outlook.com-i](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Lisateabe saamiseks vt [Lisa muude meilikontode Outlook.com-i](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
