@@ -12,12 +12,12 @@ ms.custom:
 - "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b385a16e8538f0633d5746f1abc8eb62c9c83df0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1500c2e0bc7ba40b4ee4d149899e5199ae926722
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376757"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697187"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>Ei saa saata e-posti teenuses Outlook.com
 
@@ -28,6 +28,6 @@ Kui teil on Outlook.com-i saatmine probleeme, proovige järgmisi võimalusi.
 1. Kui teie postkast on täis, ei saa uusi sõnumeid vastu võtma. Tühjendage oma [rämpspostifiltri kausta](https://outlook.live.com/mail/junkemail) , paremklõpsates rämpspostifiltri kausta ja valige **tühi kaust**.
 1. Veenduge, et soovite saada inimeste meiliaadressid on õigesti vormindatud.
 1. Kui teil on rohkem kui 20 [ühendatud kontod](https://outlook.live.com/mail/options/mail/accounts/connected), ei saa saata ega vastu võtta e-posti.
-1. Konto võib ajutiselt blokeeritud, sest märkasime mõned ebatavaline sisselogimiseks tegevus. Vaata [Aktiveeri oma Outlook.com-i konto](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Konto võib ajutiselt blokeeritud, sest märkasime mõned ebatavaline sisselogimiseks tegevus. Vaata [Aktiveeri oma Outlook.com-i konto](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Vaadake lisateavet kuidas [parandada Outlook.com-i meile Sünkroonimisprobleemid](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Vaadake lisateavet kuidas [parandada Outlook.com-i meile Sünkroonimisprobleemid](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
