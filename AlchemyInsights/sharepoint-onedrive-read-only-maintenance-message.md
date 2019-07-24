@@ -1,7 +1,7 @@
 ---
-title: Kuidas TenantAccessBlockedException viga, kui e-posti juurdepääsu 127?
-ms.author: kirks
-author: Techwriter40
+title: Hooldus sõnumi kui üritatakse kasutada OneDrive'i või SharePointi kirjutuskaitstud
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,27 +12,27 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5613138e7613deb264a7ab2c966f8b9c4a24763d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736399"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840511"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Hooldus sõnumi kui üritatakse kasutada OneDrive'i või SharePointi kirjutuskaitstud
 
-Kasutajatele võidakse kuvada Read-Only hooldus sõnumi, kui üritatakse kasutada OneDrive'i või SharePointi.
+Kasutajatele võidakse kuvada teade, **Registripidamise kirjutuskaitstud** , kui üritatakse kasutada OneDrive'i või SharePointi.  Sellisel juhul kontrollida, kas aktiivne hooldus toimub teie rentniku [sõnumikeskuse](https://portal.office.com/adminportal/home#/MessageCenter)kaudu. Samuti veenduge, et kontrollida kontrollida kõiki teateid/intsidente, mis võib aset [Teenuste seisundi](https://portal.office.com/adminportal/home#/servicehealth) armatuurlaud.
 
-Kontrollida, kas aktiivne hooldus toimub teie rentniku [sõnumikeskuse](https://portal.office.com/adminportal/home#/MessageCenter)kaudu. Lõpuks tagama kontrollimiseks mis tahes teateid/intsidente, mis võib aset[Teenuseid tervise](https://portal.office.com/adminportal/home#/servicehealth) lehte külastades.
-
-Kui keskus ja teenuste seisundi armatuurlaud ei täheldanud midagi jooksvaks hoolduseks oma üürnikule, võib see olla brauseri caching küsimus.
+Kui keskus ja teenuseid tervise ei armatuurlaua märkinud midagi jooksvaks hoolduseks oma üürnikule, võib see olla brauseri caching küsimus.
 
 Proovige enne saidil navigeerimise brauseri vahemälu tühjendamine.
 
-- Microsoft Edge brauser minna rohkem seaded
+1. Microsoft Edge brauseris, valige **seaded**ja valige **privaatsuse ja turvalisuse**.
+2. Valige jaotises **selge sirvimiseks** **Valige kustutatav**.
+3. Valige **küpsised ja salvestatud veebisaidiandmed**ja valige **selge**.
 
-- Selge sirvimine, valige jaotises Valige kustutatav.
-- Valige küpsised ja salvestatud veebisaidiandmed ja valige käsk Kustuta.
+>[!Note] 
+> Järgmiselt võib erineda kasutades teisi brauserid, nagu Mozilla Firefox või Google Chrome.
 
-**Märkus**: järgmiselt võivad erineda kasutades teisi brauserid nagu Firefox või Chrome.
-
+>[!Note] 
+> Teine võimalus oleks avada SharePointi saidile või OneDrive Uus InPrivate-aken.
