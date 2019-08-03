@@ -9,29 +9,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 294e1dd9925054c0fb33aee7df238782d2527d84
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001046"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171289"
 ---
-# <a name="print-email-calendars-and-attachments"></a><span data-ttu-id="b67bc-102">E-posti, kalendrite ja manuseid printida</span><span class="sxs-lookup"><span data-stu-id="b67bc-102">Print email, calendars, and attachments</span></span>
+# <a name="print-email-calendars-and-attachments"></a><span data-ttu-id="38226-102">E-posti, kalendrite ja manuseid printida</span><span class="sxs-lookup"><span data-stu-id="38226-102">Print email, calendars, and attachments</span></span>
 
-<span data-ttu-id="b67bc-103">E-kirja printimine</span><span class="sxs-lookup"><span data-stu-id="b67bc-103">To print an email message:</span></span>
+<span data-ttu-id="38226-103">E-kirja printimine</span><span class="sxs-lookup"><span data-stu-id="38226-103">To print an email message:</span></span>
   
-1. <span data-ttu-id="b67bc-104">Valige sõnum, mida soovite printida.</span><span class="sxs-lookup"><span data-stu-id="b67bc-104">Select the message you want to print.</span></span>
-1. <span data-ttu-id="b67bc-105">Valige kolm punkti sõnumit paremas ülanurgas ja valige käsk **Prindi**.</span><span class="sxs-lookup"><span data-stu-id="b67bc-105">At the top right corner of the message, select the three dots and then select **Print**.</span></span>
+1. <span data-ttu-id="38226-104">Valige sõnum, mida soovite printida.</span><span class="sxs-lookup"><span data-stu-id="38226-104">Select the message you want to print.</span></span>
+1. <span data-ttu-id="38226-105">Valige kolm punkti sõnumit paremas ülanurgas ja valige käsk **Prindi**.</span><span class="sxs-lookup"><span data-stu-id="38226-105">At the top right corner of the message, select the three dots and then select **Print**.</span></span>
 
-<span data-ttu-id="b67bc-106">Kalendri printimine</span><span class="sxs-lookup"><span data-stu-id="b67bc-106">To print your calendar:</span></span>
+<span data-ttu-id="38226-106">Kalendri printimine</span><span class="sxs-lookup"><span data-stu-id="38226-106">To print your calendar:</span></span>
 
-1. <span data-ttu-id="b67bc-107">Valige **Prindi**lehekülje paremas ülanurgas.</span><span class="sxs-lookup"><span data-stu-id="b67bc-107">At the top right corner of the page, select **Print**.</span></span>
-1. <span data-ttu-id="b67bc-108">Valige Vaade ja aja valik ja valige **Prindi**.</span><span class="sxs-lookup"><span data-stu-id="b67bc-108">Choose the view and time range, and select **Print**.</span></span>
+1. <span data-ttu-id="38226-107">Valige lehe paremas ülanurgas</span><span class="sxs-lookup"><span data-stu-id="38226-107">At the top right corner of the page, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
+ <span data-ttu-id="38226-108">**Prindi**.</span><span class="sxs-lookup"><span data-stu-id="38226-108">**Print**.</span></span>
+1. <span data-ttu-id="38226-109">Valige Vaade ja aja valik ja valige **Prindi**.</span><span class="sxs-lookup"><span data-stu-id="38226-109">Choose the view and time range, and select **Print**.</span></span>
 
-<span data-ttu-id="b67bc-109">Manuse printimine</span><span class="sxs-lookup"><span data-stu-id="b67bc-109">To print an attachment:</span></span>
+<span data-ttu-id="38226-110">Manuse printimine</span><span class="sxs-lookup"><span data-stu-id="38226-110">To print an attachment:</span></span>
 
-1. <span data-ttu-id="b67bc-110">Avage sõnum, mis sisaldab soovitud manust.</span><span class="sxs-lookup"><span data-stu-id="b67bc-110">Open the message that contains the attachment you want to print.</span></span>
-2. <span data-ttu-id="b67bc-111">Liigu hiirega üle manus ja valige **Download** ikoon.</span><span class="sxs-lookup"><span data-stu-id="b67bc-111">Move your cursor over the attachment and select the **Download** icon.</span></span>
-3. <span data-ttu-id="b67bc-112">Pärast seda, kui fail on alla laaditud, avage see sobiva programmi ja valida printida.</span><span class="sxs-lookup"><span data-stu-id="b67bc-112">After the file has downloaded, open it with the appropriate program and choose the option to print.</span></span> <span data-ttu-id="b67bc-113">Näiteks .doc faili avada Wordis ja seejärel printida.</span><span class="sxs-lookup"><span data-stu-id="b67bc-113">For example, open a .doc file in Word and then print.</span></span>
+1. <span data-ttu-id="38226-111">Avage sõnum, mis sisaldab soovitud manust.</span><span class="sxs-lookup"><span data-stu-id="38226-111">Open the message that contains the attachment you want to print.</span></span>
+2. <span data-ttu-id="38226-112">Liigu hiirega üle manus ja valige **Download** ikoon</span><span class="sxs-lookup"><span data-stu-id="38226-112">Move your cursor over the attachment and select the **Download** icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAOCAYAAAD9lDaoAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFicPlKww8AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAhElEQVQokc2Ouw0EIQxE51Yb0AwdUAAlEEFITXRACUikdEBOBwS4AS46xLIfbXgjOfDoecYgoj6P1rqv3oYX+kuo1voIlFKwxxjRWoO19gQ458AYw6aUGsYKAIAxBh8i6rOZcwbnHABG+nh8rZv3kfRTCAFSysPBCbrS7r1HSukWEELgC33WT/YcDQpnAAAAAElFTkSuQmCC' /><span data-ttu-id="38226-113">.</span><span class="sxs-lookup"><span data-stu-id="38226-113"></span></span>
+3. <span data-ttu-id="38226-114">Pärast seda, kui fail on alla laaditud, avage see sobiva programmi ja valida printida.</span><span class="sxs-lookup"><span data-stu-id="38226-114">After the file has downloaded, open it with the appropriate program and choose the option to print.</span></span> <span data-ttu-id="38226-115">Näiteks .doc faili avada Wordis ja seejärel printida.</span><span class="sxs-lookup"><span data-stu-id="38226-115">For example, open a .doc file in Word and then print.</span></span>
 
-<span data-ttu-id="b67bc-114">Lisateabe saamiseks vt [Prindi e-kirju, manuseid, ja kalendreid Outlook Web](https://support.office.com/article/2cf529d1-3b8f-4de2-b254-b7f870e58a2b).</span><span class="sxs-lookup"><span data-stu-id="b67bc-114">To learn more, see [Print email messages, attachments, and calendars in Outlook on the web](https://support.office.com/article/2cf529d1-3b8f-4de2-b254-b7f870e58a2b).</span></span>
+<span data-ttu-id="38226-116">Lisateabe saamiseks vt [Prindi e-kirju, manuseid, ja kalendreid Outlook Web](https://support.office.com/article/2cf529d1-3b8f-4de2-b254-b7f870e58a2b).</span><span class="sxs-lookup"><span data-stu-id="38226-116">To learn more, see [Print email messages, attachments, and calendars in Outlook on the web](https://support.office.com/article/2cf529d1-3b8f-4de2-b254-b7f870e58a2b).</span></span>
