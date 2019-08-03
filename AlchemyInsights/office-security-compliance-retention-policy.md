@@ -1,25 +1,24 @@
 ---
-title: Uue säilituspoliitika siltide loomise automaatselt
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Rohkem infot säilituspoliitikaid
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222988"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448831"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Uue säilituspoliitika siltide loomise automaatselt
+# <a name="more-info-about-retention-policies"></a>Rohkem infot säilituspoliitikaid
 
 Sest enamikus organisatsioonides, mahtu ja keerukust nende andmete kasvab iga päev - e-posti, dokumente, kiirsõnumid ja palju muud.
-
-Tõhusalt hallata või reguleerivad selle teabe oluline, säilituspoliitika aitavad teil neid eesmärke saavutada. Säilituspoliitikate kohta lisateabe saamiseks külastage alltoodud linke.
+Tõhusalt hallata või reguleerivad selle teabe on oluline ja säilituspoliitika aitavad teil neid eesmärke saavutada. Säilituspoliitikate kohta lisateabe saamiseks külastage neid linke:
 
 - [Ülevaade säilituspoliitikaid](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
