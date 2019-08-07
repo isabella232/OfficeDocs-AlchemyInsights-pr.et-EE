@@ -1,5 +1,5 @@
 ---
-title: Luua rakendused PowerApps
+title: Rakenduste loomine PowerAppsis
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404959"
 ---
-# <a name="create-apps-with-powerapps"></a>Luua rakendused PowerApps
+# <a name="create-apps-with-powerapps"></a>Rakenduste loomine PowerAppsiga
 
-PowerApps on äri rakenduste arendamiseks. See on kolme põhikomponentide: 
+PowerApps on ärirakenduste arendusplatvorm. Sellel on kolm peamist komponenti. 
   
-- [Lõuend apps](https://go.microsoft.com/fwlink/?linkid=874495) start oma kasutaja kogemus, väga kohandatud kasutajaliidese tühi lõuend väega käsitöö ja sellega ühendatud 200 andmeallikate valikust. Saad lõuend rakendusi veebi, mobiiltelefoni ja tahvelarvuti rakendused. 
+- [Lõuendirakendused](https://go.microsoft.com/fwlink/?linkid=874495) alustavad teie kasutuskeskkonnaga, luues tühja lõuendi abil kohandatud kasutajaliidese ning ühendades selle teie valitud andmeallikaga 200-st. Lõuendirakendusi saate luua veebi-, mobiili- ja tahvelarvutite rakenduste jaoks. 
     
-- [Mudel juhitud apps](https://go.microsoft.com/fwlink/?linkid=874496) start oma andmemudel - näidisvormid, seisukohad ja muud komponendid: core äriandmete ja ühise andmeteenuse protsesside ülesehitamisel. Mudel suunatud rakendused automaatselt genereerida suur UI, mis vastab seadmete vahel. 
+- [Mudelipõhised rakendused](https://go.microsoft.com/fwlink/?linkid=874496) alustavad teie andmemudeli loomisega, ehitades selle üles teie Common Data Service‘i platvormi peamiste äriandmete ja toimingute põhjal, et luua vorme, vaateid ja muid komponente. Mudelipõhised rakendused genereerivad automaatselt suurepärase kasutajaliidese, mis toimib erinevates seadmetes. 
     
-- [Ühine andmete teenus](https://go.microsoft.com/fwlink/?linkid=874497) on andmete platvormi, mis on PowerApps ja võimaldab salvestada ja äriandmete mudel. See on platvorm, millele Dynamics 365 rakendused on loodud. Kui olete Dynamics klient, Sinu andmed on juba levinud andmete teenus. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) on PowerAppsis sisalduv andmeplatvorm, mis võimaldab äriandmeid talletada ja kujundada. See on platvorm, millel on loodud Dynamics 365 rakendused. Kui olete Dynamicsi klient, on teie andmed juba Common Data Service‘i platvormis. 
     
-[Rohkem infot PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[Lisateave PowerAppsi kohta](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
