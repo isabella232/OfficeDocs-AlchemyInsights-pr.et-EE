@@ -2,6 +2,7 @@
 title: Versioonimine SharePointis või OneDrive
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232654"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270416"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versioonimine SharePointis või OneDrive 
 
@@ -37,6 +38,7 @@ Versioonide kohta lisateabe saamiseks külastage selle artikli alla.
 
 - [Versioonimine piirid](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**Märkus:** Kui olete Office 365 klient, Versioonimine on nüüd sisse lülitatud vaikimisi kui loote uue OneDrive äri, Raamatukogu ja see salvestab automaatselt dokumendi viimati 500 versiooni. Nii saate vältida kaotanud tähtsaid dokumente või andmeid. Kui teil on olemasolevate raamatukogude OneDrive for Business saidi või saidi team, mis on lubatud Versioonimine, siis saad Versioonimine neid igal ajal.
+>[!Note] 
+>Kui olete Office 365 klient, Versioonimine on nüüd sisse lülitatud vaikimisi kui loote uue OneDrive äri, Raamatukogu ja see salvestab automaatselt dokumendi viimati 500 versiooni. Nii saate vältida kaotanud tähtsaid dokumente või andmeid. Kui teil on olemasolevate raamatukogude OneDrive for Business saidi või saidi team, mis on lubatud Versioonimine, siis saad Versioonimine neid igal ajal.
 
 
