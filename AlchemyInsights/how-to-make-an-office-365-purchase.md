@@ -13,29 +13,31 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: ffffbe80c67e223aa7084dd93944c63a055c069e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384317"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390976"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Kuidas Office 365 ostu teha
 
-Office 365 oste saab sooritada administreerimiskeskuses. [Tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele või valida **arvete** \> **tellimused**.
+Office 365 oste saab sooritada administreerimiskeskuses.
   
-- Osta liitumine Mine [Osta](https://go.microsoft.com/fwlink/p/?linkid=868433) teenused Office 365, või valida **arvete** \> **Teenuste ostmiseks**.
+- Office 365 ostmiseks minge tellimuse **arve** \> [Osta](https://go.microsoft.com/fwlink/p/?linkid=868433) teenused.
 
-- Osta täiendavaid litsentse [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele või valida **arvete** \> **tellimused**. **Tellimuste** lehel Valige tellimus, mida soovite lisada litsentse ja valige **Add/Remove litsentsid**.
+- Osta täiendavaid litsentse, minge **arved** \> [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel. **Tellimuste** lehel Valige tellimus, mida soovite lisada litsentse ja valige **Add/Remove litsentsid**.
 
 - Et aktiveerida mõni teine režiim:
 
   - **Lüliti plaanid** valida uued plaanid, mis on saadaval vaadata.
 
   - Valige plaan näha uue kuu maksumus. Kindlasti lugege põhiteavet ja seejärel valige **järgmise** vaadata läbi.
+
+Te kasutate uus halduskeskus Uus leiate [minna mõni teine režiim](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
   
  **Täiendavad ressursid**
   
-- [Määrata kasutajatele Office 365 Business litsentsid](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Määrata kasutajatele Office 365 Business litsentsid](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Tühista Office 365 Business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Tühista Office 365 Business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

@@ -13,18 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 369e6e8e5e8e2e5d9739415e2a4ab959ba706c80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370671"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388452"
 ---
 # <a name="question-about-licenses"></a>Litsentside kohta küsimus
 
 Kui soovite teada, mitu litsentsi olete ostnud või mitu litsentsi määratakse tellimus:
   
-1. Avage halduskeskuses leht [Tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054) või valige **Arveldamine** \> **Tellimused**.
+1. Administreerimiskeskuses, minge **arved** \> [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel.
 
 2. Valige tellimus, mida soovite rohkem teada.
 

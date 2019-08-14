@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 56415e03dedfa607e956a28e8781315aae567f7c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 89178c32cfd9d5b7cd5985122b1509b0d9c5d648
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365076"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387521"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Millal minu krediitkaart tuleb maksta?
 
@@ -26,4 +26,4 @@ Esialgse ostu, võib kuluda kuni kaks päeva kulu tekkida.
   
 Korduvad kulud tekivad ühel päeval on loodud.
   
-Kui tasu ei õnnestu, jätkab süsteem tasakaalu lahendada järgmise paari nädala jooksul. Saate uuendada makseandmed alati kindlustada tasuta katse on edukas. Lisateabe saamiseks vt [lisamine, värskendamine või eemaldamine krediitkaart või pangakonto Office 365 ettevõtteversioon](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Kui tasu ei õnnestu, jätkab süsteem tasakaalu lahendada järgmise paari nädala jooksul. Saate uuendada makseandmed alati kindlustada tasuta katse on edukas. Lisateabe saamiseks vt [lisamine, värskendamine või eemaldamine krediitkaart või pangakonto Office 365 ettevõtteversioon](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

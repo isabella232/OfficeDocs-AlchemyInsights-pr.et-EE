@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>01. juuli 2019 nädal
-
-
-| Avaldatud |Teema pealkiri | Muutus |
-|------|------------|--------|
-| 7/1/2019 | [Klassikaline SharePointi auditi aruanded](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | muudetud |
-| 7/2/2019 | [Rohkem infot säilituspoliitikaid](/AlchemyInsights/office-security-compliance-retention-policy) | muudetud |
-
-
 ## <a name="week-of-july-08-2019"></a>Nädal 08 juuli 2019
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [Saate korraldada oma Outlook Web](/AlchemyInsights/owa-organize-email) | muudetud |
 | 8/2/2019 | [E-posti, kalendrite ja manuseid Outlook Web printimine](/AlchemyInsights/owa-print-email-calendars-attachments) | muudetud |
 | 8/2/2019 | [Vastamine Outlook Web](/AlchemyInsights/owa-read-receipts) | muudetud |
+
+
+## <a name="week-of-august-05-2019"></a>Nädal 05 August 2019
+
+
+| Avaldatud |Teema pealkiri | Muutus |
+|------|------------|--------|
+| 8/5/2019 | [Kuidas vastata või edasi sõnumeid Outlook Web](/AlchemyInsights/owa-reply-forward-messages) | muudetud |
+| 8/5/2019 | [8000003 Otsi meil ja inimesed Outlook Web](/AlchemyInsights/owa-search-mail-and-people) | muudetud |
+| 8/5/2019 | [Signatuuri loomine Outlook Web](/AlchemyInsights/owa-signature) | muudetud |
+| 8/5/2019 | [S/MIME Outlook Web](/AlchemyInsights/owa-smime) | muudetud |
+| 8/5/2019 | [Lõpeta sõnumite läheb rämpspostifiltri kausta Outlook Web](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | muudetud |
+| 8/5/2019 | [Keskendunud sisse lülitada](/AlchemyInsights/owa-turn-off-focused-inbox) | muudetud |
+| 8/5/2019 | [1332 OWA - sisendkausta reeglid ei täidavad postkasti](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | muudetud |
+| 8/6/2019 | [Alkeemia tekstisiseseid pilte testimine](/AlchemyInsights/testing-alchemy-inline-images) | muudetud |
+| 8/6/2019 | [Täiustatud ohutõrje SharePointis või OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | muudetud |
+| 8/6/2019 | [Ransomware rünnak SharePointi või OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | muudetud |
+| 8/6/2019 | [Kaasaegne saidi juursait](/AlchemyInsights/modern-site-as-the-root-site) | muudetud |
+| 8/6/2019 | [Küsimused, samas rändavad andmeid SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | muudetud |
+| 8/6/2019 | [Allalaadimise või vältida lae failid OneDrive'i või SharePointi](/AlchemyInsights/sharepoint-onedrive-download-files) | muudetud |
+| 8/6/2019 | [Tõrkeotsingu juurdepääs keelatud sõnumeid OneDrive äri saitide](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | muudetud |
+| 8/6/2019 | [Taastada kustutatud faili või kausta](/AlchemyInsights/sharepoint-deleted-items-restore) | muudetud |
+| 8/6/2019 | [Versioonimine SharePointis või OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | muudetud |
+| 8/6/2019 | [OneDrive'i teabe säilitamine ja kustutamine](/AlchemyInsights/one-drive-retention-and-deletion) | muudetud |
+| 8/7/2019 | [Takistada failide allalaadimist SharePointi või OneDrive'i](/AlchemyInsights/prevent-download) | muudetud |
+| 8/7/2019 | [Taastada kustutatud faili või kausta](/AlchemyInsights/sharepoint-deleted-items-restore) | muudetud |
+| 8/7/2019 | [Välise ühiskasutuse SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | muudetud |
+| 8/7/2019 | [OneDrive'i sünkroonimisprobleemide lahendamine](/AlchemyInsights/fix-onedrive-sync-issues) | muudetud |
+| 8/7/2019 | [OneDrive'i sünkroonimisprobleemide lahendamine](/AlchemyInsights/fix-onedrive-sync-problems) | muudetud |
+| 8/7/2019 | [Töövoo e-posti ei ole saadetud](/AlchemyInsights/workflow-email-not-being-sent) | muudetud |
+| 8/7/2019 | [Töövoog ei käivitu](/AlchemyInsights/workflow-is-not-starting) | muudetud |
+| 8/7/2019 | [Täiustatud ohutõrje SharePointis või OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | muudetud |
+| 8/7/2019 | [Seostada jaoturi sait](/AlchemyInsights/associate-a-hub-site) | muudetud |
+| 8/7/2019 | [SharePointi saidi loomine](/AlchemyInsights/create-a-sharepoint-site) | muudetud |
+| 8/7/2019 | [Kaasaegne saidi juursait](/AlchemyInsights/modern-site-as-the-root-site) | muudetud |
+| 8/7/2019 | [OneDrive'i säilitamine ja kustutamine](/AlchemyInsights/one-drive-retention-and-deletion) | muudetud |
+| 8/7/2019 | [OneDrive'i ühised probleemid ja lahendused](/AlchemyInsights/onedrive-common-issues-and-resolutions) | muudetud |
+| 8/7/2019 | [Ransomware rünnak SharePointi või OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | muudetud |
+| 8/7/2019 | [Väline jagamine SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | muudetud |
+| 8/7/2019 | [Versioonimine SharePointis või OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | muudetud |
+| 8/7/2019 | [Välise kontakti ei saa nõustuda ka ühiskutse](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | muudetud |
+| 8/7/2019 | [SharePoint Online'i ühised probleemid ja lahendused](/AlchemyInsights/sharepoint-get-started-faq) | muudetud |
+| 8/7/2019 | [Kaasaegne saidi juursait](/AlchemyInsights/sharepoint-modernize-classic-site) | muudetud |
+| 8/7/2019 | [Allalaadimise või vältida lae failid OneDrive'i või SharePointi](/AlchemyInsights/sharepoint-onedrive-download-files) | muudetud |
+| 8/7/2019 | [Install, install ja sünkroonimise OneDrive'i või SharePointi failid Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | muudetud |
+| 8/7/2019 | ["Avatud koos Explorer" tõrkeotsingu SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | muudetud |
+| 8/8/2019 | [Täiustatud ohutõrje SharePointis või OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | muudetud |
+| 8/8/2019 | [Seostada jaoturi sait](/AlchemyInsights/associate-a-hub-site) | muudetud |
+| 8/8/2019 | [SharePointi saidi loomine](/AlchemyInsights/create-a-sharepoint-site) | muudetud |
+| 8/8/2019 | [Viga 404: Faili ei leitud](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | muudetud |
+| 8/8/2019 | [OneDrive'i sünkroonimisprobleemide lahendamine Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | muudetud |
+| 8/8/2019 | [Kaarti võrgudraivile SharePointi teegis](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | muudetud |
+| 8/8/2019 | [Kaasaegne saidi juursait](/AlchemyInsights/modern-site-as-the-root-site) | muudetud |
+| 8/8/2019 | [OneDrive'i säilitamine ja kustutamine](/AlchemyInsights/one-drive-retention-and-deletion) | muudetud |
+| 8/8/2019 | [Ransomware rünnak SharePointi või OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | muudetud |
+| 8/8/2019 | [Taastada kustutatud faili või kausta](/AlchemyInsights/sharepoint-deleted-items-restore) | muudetud |
+| 8/8/2019 | [Välise kasutaja ei saa kasutada SharePoint Online sisu](/AlchemyInsights/sharepoint-external-sharing-issues) | muudetud |
+| 8/8/2019 | [SharePointi Rummu saidid ülevaade](/AlchemyInsights/sharepoint-hub-sites) | muudetud |
+| 8/8/2019 | [Allalaadimise või vältida lae failid OneDrive'i või SharePointi](/AlchemyInsights/sharepoint-onedrive-download-files) | muudetud |
+| 8/8/2019 | [Halda otsingu skeemi SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | muudetud |
+| 8/8/2019 | [Samme, et luua SharePointi töövoo](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | muudetud |
+| 8/8/2019 | [Vaheta klassikaline juursait mis kaasaegne veebilehekülg](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | muudetud |
+| 8/8/2019 | ["Avatud koos Explorer" tõrkeotsingu SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | muudetud |
+| 8/8/2019 | [Töövoo tõrkeotsing](/AlchemyInsights/workflow-troubleshooting) | muudetud |
+| 8/8/2019 | [Luba ja Otsi auditit Logi](/AlchemyInsights/enable-auditing) | muudetud |
+| 8/8/2019 | [Luba ja Otsi auditilogi](/AlchemyInsights/enable-auditing) | muudetud |

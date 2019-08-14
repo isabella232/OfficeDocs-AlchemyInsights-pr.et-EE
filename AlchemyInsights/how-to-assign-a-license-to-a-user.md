@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385685"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386292"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Kuidas kasutajale litsentsi määrata
 
 Kasutaja vajab juurdepääsu teenuste litsentsi. Siin on sammud lisamine, muutmine või eemaldamine kasutaja litsentsi.
   
-1. Administreerimiskeskuses, minge lehele [Aktiivsed kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) või **Kasutajad** \> **aktiivsed kasutajad**.
+1. **Kasutajatele** minna administreerimiskeskuses, \> [Aktiivseid kasutajaid](https://go.microsoft.com/fwlink/p/?linkid=834822) lehel.
 
 2. Märkige nime kõrval kasutaja, kellele soovite määrata, muuta või eemaldada litsentsi.
 
@@ -38,5 +38,4 @@ Kasutaja vajab juurdepääsu teenuste litsentsi. Siin on sammud lisamine, muutmi
 
 5. **Toote litsentsi** paani allosas valige **Salvesta** \> **lähedal** \> **lähedal**.
 
-Vaadake lisateavet jaotisest [kasutajatele Office 365 Business litsentsid lisada](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)või [eemaldada kasutajaid Office 365 Business litsentsid](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+Vaadake lisateavet jaotisest [kasutajatele Office 365 Business litsentsid lisada](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)või [eemaldada kasutajaid Office 365 Business litsentsid](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
