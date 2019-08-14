@@ -13,30 +13,29 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385685"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386292"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a><span data-ttu-id="68037-102">Kuidas kasutajale litsentsi määrata</span><span class="sxs-lookup"><span data-stu-id="68037-102">How to assign a license to a user</span></span>
+# <a name="how-to-assign-a-license-to-a-user"></a><span data-ttu-id="58e68-102">Kuidas kasutajale litsentsi määrata</span><span class="sxs-lookup"><span data-stu-id="58e68-102">How to assign a license to a user</span></span>
 
-<span data-ttu-id="68037-103">Kasutaja vajab juurdepääsu teenuste litsentsi.</span><span class="sxs-lookup"><span data-stu-id="68037-103">A user needs a license to have access to services.</span></span> <span data-ttu-id="68037-104">Siin on sammud lisamine, muutmine või eemaldamine kasutaja litsentsi.</span><span class="sxs-lookup"><span data-stu-id="68037-104">Here are steps to add, change, or remove a license from a user.</span></span>
+<span data-ttu-id="58e68-103">Kasutaja vajab juurdepääsu teenuste litsentsi.</span><span class="sxs-lookup"><span data-stu-id="58e68-103">A user needs a license to have access to services.</span></span> <span data-ttu-id="58e68-104">Siin on sammud lisamine, muutmine või eemaldamine kasutaja litsentsi.</span><span class="sxs-lookup"><span data-stu-id="58e68-104">Here are steps to add, change, or remove a license from a user.</span></span>
   
-1. <span data-ttu-id="68037-105">Administreerimiskeskuses, minge lehele [Aktiivsed kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) või **Kasutajad** \> **aktiivsed kasutajad**.</span><span class="sxs-lookup"><span data-stu-id="68037-105">In the Admin center, go to the [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
+1. <span data-ttu-id="58e68-105">**Kasutajatele** minna administreerimiskeskuses, \> [Aktiivseid kasutajaid](https://go.microsoft.com/fwlink/p/?linkid=834822) lehel.</span><span class="sxs-lookup"><span data-stu-id="58e68-105">In the admin center, go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-2. <span data-ttu-id="68037-106">Märkige nime kõrval kasutaja, kellele soovite määrata, muuta või eemaldada litsentsi.</span><span class="sxs-lookup"><span data-stu-id="68037-106">Select the box next to the name of the user to whom you want to assign, change, or remove a license.</span></span>
+2. <span data-ttu-id="58e68-106">Märkige nime kõrval kasutaja, kellele soovite määrata, muuta või eemaldada litsentsi.</span><span class="sxs-lookup"><span data-stu-id="58e68-106">Select the box next to the name of the user to whom you want to assign, change, or remove a license.</span></span>
 
-3. <span data-ttu-id="68037-107">Õige, **toote litsentsi** Real, valida, **redigeerida**.</span><span class="sxs-lookup"><span data-stu-id="68037-107">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="58e68-107">Õige, **toote litsentsi** Real, valida, **redigeerida**.</span><span class="sxs-lookup"><span data-stu-id="58e68-107">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
 
-4. <span data-ttu-id="68037-108">**Toote litsentsi** paanil aktiveerida litsentsi, mida soovite määrata sellele kasutajale **On** ametikoht lülitit.</span><span class="sxs-lookup"><span data-stu-id="68037-108">In the **Product licenses** pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span>
+4. <span data-ttu-id="58e68-108">**Toote litsentsi** paanil aktiveerida litsentsi, mida soovite määrata sellele kasutajale **On** ametikoht lülitit.</span><span class="sxs-lookup"><span data-stu-id="58e68-108">In the **Product licenses** pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span>
 
-    <span data-ttu-id="68037-109">Vaikimisi määratakse see litsents kõiki teenuseid automaatselt kasutaja.</span><span class="sxs-lookup"><span data-stu-id="68037-109">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="68037-110">Piirata, milliseid teenuseid pakutakse kasutajale, aktiveerida ning lülitab **välja** seisukohta teenuste eest te ei soovi, et kasutaja on.</span><span class="sxs-lookup"><span data-stu-id="68037-110">To limit which services are available to the user, switch the toggles to the **Off** position for the services that you don't want that user to have.</span></span>
+    <span data-ttu-id="58e68-109">Vaikimisi määratakse see litsents kõiki teenuseid automaatselt kasutaja.</span><span class="sxs-lookup"><span data-stu-id="58e68-109">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="58e68-110">Piirata, milliseid teenuseid pakutakse kasutajale, aktiveerida ning lülitab **välja** seisukohta teenuste eest te ei soovi, et kasutaja on.</span><span class="sxs-lookup"><span data-stu-id="58e68-110">To limit which services are available to the user, switch the toggles to the **Off** position for the services that you don't want that user to have.</span></span>
 
-    <span data-ttu-id="68037-111">Lülitit **Off** ametikoht eemaldada litsentsi aktiveerimine</span><span class="sxs-lookup"><span data-stu-id="68037-111">Switch the toggle to the **Off** position to remove a license.</span></span>
+    <span data-ttu-id="58e68-111">Lülitit **Off** ametikoht eemaldada litsentsi aktiveerimine</span><span class="sxs-lookup"><span data-stu-id="58e68-111">Switch the toggle to the **Off** position to remove a license.</span></span>
 
-5. <span data-ttu-id="68037-112">**Toote litsentsi** paani allosas valige **Salvesta** \> **lähedal** \> **lähedal**.</span><span class="sxs-lookup"><span data-stu-id="68037-112">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
+5. <span data-ttu-id="58e68-112">**Toote litsentsi** paani allosas valige **Salvesta** \> **lähedal** \> **lähedal**.</span><span class="sxs-lookup"><span data-stu-id="58e68-112">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
 
-<span data-ttu-id="68037-113">Vaadake lisateavet jaotisest [kasutajatele Office 365 Business litsentsid lisada](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)või [eemaldada kasutajaid Office 365 Business litsentsid](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).</span><span class="sxs-lookup"><span data-stu-id="68037-113">For more information, see [Assign licenses to users in Office 365 for business](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc), and [Remove licenses from users in Office 365 for business](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).</span></span>
-  
+<span data-ttu-id="58e68-113">Vaadake lisateavet jaotisest [kasutajatele Office 365 Business litsentsid lisada](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)või [eemaldada kasutajaid Office 365 Business litsentsid](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span><span class="sxs-lookup"><span data-stu-id="58e68-113">For more information, see [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users), and [Remove licenses from users in Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span></span>
