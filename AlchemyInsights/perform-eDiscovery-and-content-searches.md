@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371429"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444768"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="0e6d8-102">Sisu otsingud ja eDiscovery otsingu sooritamiseks</span><span class="sxs-lookup"><span data-stu-id="0e6d8-102">How to perform Content Searches and eDiscovery searches</span></span>
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="a8be4-102">Sisu otsingud ja eDiscovery otsingu sooritamiseks</span><span class="sxs-lookup"><span data-stu-id="a8be4-102">How to perform Content Searches and eDiscovery searches</span></span>
 
-<span data-ttu-id="0e6d8-103">**Otsing**</span><span class="sxs-lookup"><span data-stu-id="0e6d8-103">**Content Search**</span></span>
+<span data-ttu-id="a8be4-103">Kasutamise turvalisuse & vastavuse Center kiireks otsimiseks Exchange'i postkastides, SharePointi saidid ja OneDrive'i kontole ja vahetu sõnumside vestlusi Skype ettevõtetele e-posti sisu otsingumootor.</span><span class="sxs-lookup"><span data-stu-id="a8be4-103">Use the Content Search tool in the Security & Compliance Center to quickly find email in Exchange mailboxes, documents in SharePoint sites and OneDrive account, and instant messaging conversations in Skype for Business.</span></span> <span data-ttu-id="a8be4-104">Saate sisu otsingu abil otsida e-posti, dokumente ja sõnumside vestlusi Office 365 koostöö tööriistad nagu Microsoft Teams ja Office 365 rühmad.</span><span class="sxs-lookup"><span data-stu-id="a8be4-104">You can also use the Content Search Tool to search for email, documents, and instant messaging conversations in Office 365 collaboration tools such as Microsoft Teams and Office 365 Groups.</span></span>
 
-1. <span data-ttu-id="0e6d8-104">[Turvalisuse & vastavuse Center](https://protection.office.com) külastage ja logige sisse.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-104">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="0e6d8-105">Klõpsake **Otsi & uurimine > otsing**.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-105">Click **Search & investigation > Content search**.</span></span>
-3. <span data-ttu-id="0e6d8-106">Klõpsake nuppu **Uus otsing** luua uus otsing.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-106">Click **New search** to create a new search.</span></span>
-4. <span data-ttu-id="0e6d8-107">Sisestage vajalik otsingu tingimused, sealhulgas märksõnad ja sisu asukohad.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-107">Enter the required search conditions including keywords and content locations.</span></span>  
-5. <span data-ttu-id="0e6d8-108">Klõpsake nuppu **salvestamine & run** nime otsing, käivitage see ja seejärel eelvaate.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-108">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
+<span data-ttu-id="a8be4-105">**Sisu otsingu tegemiseks**</span><span class="sxs-lookup"><span data-stu-id="a8be4-105">**To perform a content search**</span></span>
 
-<span data-ttu-id="0e6d8-109">Üksikasjalikud juhised loomise otsingud ja eksportimise tulemuste kohta leiate [sellest artiklist](https://docs.microsoft.com/office365/securitycompliance/content-search).</span><span class="sxs-lookup"><span data-stu-id="0e6d8-109">For detailed instructions about creating searches and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/content-search).</span></span>
+1. <span data-ttu-id="a8be4-106">[Turvalisuse & vastavuse Center](https://protection.office.com) külastage ja logige sisse.</span><span class="sxs-lookup"><span data-stu-id="a8be4-106">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
+2. <span data-ttu-id="a8be4-107">Klõpsake **Otsi > otsing**.</span><span class="sxs-lookup"><span data-stu-id="a8be4-107">Click **Search > Content search**.</span></span>
+3. <span data-ttu-id="a8be4-108">Klõpsake nuppu **Uus otsing** luua uus otsing.</span><span class="sxs-lookup"><span data-stu-id="a8be4-108">Click **New search** to create a new search.</span></span>
+4. <span data-ttu-id="a8be4-109">Sisestage vajalik otsingu tingimused, sealhulgas märksõnad ja sisu asukohad.</span><span class="sxs-lookup"><span data-stu-id="a8be4-109">Enter the required search conditions including keywords and content locations.</span></span>  
+5. <span data-ttu-id="a8be4-110">Klõpsake nuppu **salvestamine & run** nime otsing, käivitage see ja seejärel eelvaate.</span><span class="sxs-lookup"><span data-stu-id="a8be4-110">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
 
-<span data-ttu-id="0e6d8-110">**eDiscovery otsingu**</span><span class="sxs-lookup"><span data-stu-id="0e6d8-110">**eDiscovery searches**</span></span>
+<span data-ttu-id="a8be4-111">Üksikasjalikumad juhised sisu otsingud, tulemuste eksportimine ja luua eDiscovery juhtudel hoida andmeid, vt [Otsing](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) ja [eDiscovery juhtudel](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="a8be4-111">For detailed instructions about Content searches, exporting results, and creating eDiscovery cases to hold data, see [Content Search](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) and [eDiscovery cases](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).</span></span>
 
-1. <span data-ttu-id="0e6d8-111">[Turvalisuse & vastavuse Center](https://protection.office.com) külastage ja logige sisse.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-111">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="0e6d8-112">Klõpsake **Otsi & uurimine > eDiscovery**.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-112">Click **Search & investigation > eDiscovery**.</span></span>
-3. <span data-ttu-id="0e6d8-113">Juhtumi avamiseks või luua uue.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-113">Open an existing case or create a new one.</span></span>
-4. <span data-ttu-id="0e6d8-114">Kohtuasi avalehe vahekaarti **otsingud** .</span><span class="sxs-lookup"><span data-stu-id="0e6d8-114">On the case home page, click the **Searches** tab.</span></span>  
-5. <span data-ttu-id="0e6d8-115">Klõpsake nuppu **Uus otsing** luua uus otsing.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-115">Click **New search** to create a new search.</span></span>
-6. <span data-ttu-id="0e6d8-116">Sisestage vajalik otsingu tingimused, sealhulgas märksõnad ja sisu asukohad.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-116">Enter the required search conditions including keywords and content locations.</span></span>  
-7. <span data-ttu-id="0e6d8-117">Klõpsake nuppu **salvestamine & run** nime otsing, käivitage see ja seejärel eelvaate.</span><span class="sxs-lookup"><span data-stu-id="0e6d8-117">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
-
-<span data-ttu-id="0e6d8-118">Üksikasjalikumad juhised luua otsingud seotud eDiscovery juhul ning eksportida tulemused, vaadake [seda](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="0e6d8-118">For detailed instructions about creating searches associated with an eDiscovery case and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span></span>
+<span data-ttu-id="a8be4-112">Mõista lähemalt vaadates [tingimused ja piirid](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) ja [uurib osaliselt indekseeritud üksuste](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) otsing ja tulemused teada.</span><span class="sxs-lookup"><span data-stu-id="a8be4-112">Understand more about Content Search by reviewing the [requirements and limits](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) and  [investigating partially indexed items](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) and other results to be aware of.</span></span>
