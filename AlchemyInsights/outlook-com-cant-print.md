@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: 3a920dc6128e2c7ece6077a35d15aff9eaa5737f
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35475460"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547919"
 ---
-# <a name="unable-to-print"></a><span data-ttu-id="5dfce-102">Ei saa printida</span><span class="sxs-lookup"><span data-stu-id="5dfce-102">Unable to print</span></span>
+# <a name="unable-to-print"></a><span data-ttu-id="5fd8f-102">Ei saa printida</span><span class="sxs-lookup"><span data-stu-id="5fd8f-102">Unable to print</span></span>
 
-<span data-ttu-id="5dfce-103">Me teab probleemist, mille mõned kasutajad ei saa printida kui Safari või Edge brauseriga.</span><span class="sxs-lookup"><span data-stu-id="5dfce-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="5dfce-104">Kui me tööd määrata seda, palun kasutage mõnda muud brauserit.</span><span class="sxs-lookup"><span data-stu-id="5dfce-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="5dfce-105">Palume vabandust võimalike ebamugavuste pärast.</span><span class="sxs-lookup"><span data-stu-id="5dfce-105">We apologize for the inconvenience.</span></span>
+<span data-ttu-id="5fd8f-103">Me teab probleemist, mille mõned kasutajad ei saa printida kui Safari või Edge brauseriga.</span><span class="sxs-lookup"><span data-stu-id="5fd8f-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="5fd8f-104">Kui me tööd määrata seda, palun kasutage mõnda muud brauserit.</span><span class="sxs-lookup"><span data-stu-id="5fd8f-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="5fd8f-105">Palume vabandust võimalike ebamugavuste pärast.</span><span class="sxs-lookup"><span data-stu-id="5fd8f-105">We apologize for the inconvenience.</span></span>
