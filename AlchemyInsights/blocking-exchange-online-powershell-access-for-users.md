@@ -13,18 +13,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: e1f56de26e6ccebce49770224138256ad6794664
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f5e432423aa2792de4c13060b94a930892710057
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359545"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517927"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a><span data-ttu-id="c4193-102">Exchange Online PowerShelli juurdepääsu blokeerimine</span><span class="sxs-lookup"><span data-stu-id="c4193-102">Blocking Exchange Online PowerShell access for users</span></span>
-<span data-ttu-id="c4193-103">Kui admin, teil on võime blokeerida juurdepääsu Exchange Online PowerShelli kasutajate jaoks.</span><span class="sxs-lookup"><span data-stu-id="c4193-103">As an admin, you have the ability to block access to Exchange Online PowerShell for your users.</span></span> <span data-ttu-id="c4193-104">Lisateabe saamiseks vaadake järgmisi teemasid.</span><span class="sxs-lookup"><span data-stu-id="c4193-104">For more information, see these topics:</span></span>
+# <a name="blocking-exchange-online-powershell-access-for-users"></a><span data-ttu-id="01c73-102">Exchange Online PowerShelli juurdepääsu blokeerimine</span><span class="sxs-lookup"><span data-stu-id="01c73-102">Blocking Exchange Online PowerShell access for users</span></span>
+<span data-ttu-id="01c73-103">Kui admin, teil on võime blokeerida juurdepääsu Exchange Online PowerShelli kasutajate jaoks.</span><span class="sxs-lookup"><span data-stu-id="01c73-103">As an admin, you have the ability to block access to Exchange Online PowerShell for your users.</span></span> <span data-ttu-id="01c73-104">Lisateabe saamiseks vaadake järgmisi teemasid.</span><span class="sxs-lookup"><span data-stu-id="01c73-104">For more information, see these topics:</span></span>
 
-- [<span data-ttu-id="c4193-105">Lubada või keelata juurdepääsu Exchange Online PowerShelli</span><span class="sxs-lookup"><span data-stu-id="c4193-105">Enable or disable access to Exchange Online PowerShell</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [<span data-ttu-id="01c73-105">Lubada või keelata juurdepääsu Exchange Online PowerShelli</span><span class="sxs-lookup"><span data-stu-id="01c73-105">Enable or disable access to Exchange Online PowerShell</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- <span data-ttu-id="c4193-106">[Kliendipääsuserveri reeglid Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (Vaata et **RemotePowerShell** protokoll)</span><span class="sxs-lookup"><span data-stu-id="c4193-106">[Client Access Rules in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (look for the **RemotePowerShell** protocol)</span></span> 
+- <span data-ttu-id="01c73-106">[Kliendipääsuserveri reeglid Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (Vaata et **RemotePowerShell** protokoll)</span><span class="sxs-lookup"><span data-stu-id="01c73-106">[Client Access Rules in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (look for the **RemotePowerShell** protocol)</span></span> 
 
-<span data-ttu-id="c4193-107">**Märkus**: nagu kirjeldatud teema, et blokeerida juurdepääsu Exchange Online PowerShelli administraatoritel.</span><span class="sxs-lookup"><span data-stu-id="c4193-107">**Note**: As the described in the topic, be careful not to block access to Exchange Online PowerShell for admins.</span></span>
+<span data-ttu-id="01c73-107">**Märkus**: nagu kirjeldatud teema, et blokeerida juurdepääsu Exchange Online PowerShelli administraatoritel.</span><span class="sxs-lookup"><span data-stu-id="01c73-107">**Note**: As the described in the topic, be careful not to block access to Exchange Online PowerShell for admins.</span></span>
