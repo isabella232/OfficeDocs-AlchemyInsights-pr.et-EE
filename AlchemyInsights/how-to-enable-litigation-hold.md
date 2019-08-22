@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937854"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540753"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Asetage postkasti juriidiline säilitamine
 
@@ -26,4 +26,4 @@ ms.locfileid: "35937854"
 
 - Et kohtuvaidluste hoidke ühe kasutaja, [toimige järgmiselt](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Kui kohtuvaidlus hoidke on lubatud, säilitatakse kõik postkasti sisu.
 
-- Kõigi postkastide organisatsioonis kätte paigutamiseks kasutage Office 365 säilituspoliitika [järgmiselt](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold). Pange tähele, et kogu asutuses kehtivaid säilitamise poliitika, uute kasutajate automaatselt vastavale poliitika.
+- Kõigi postkastide organisatsioonis kätte paigutamiseks kasutage Office 365 säilituspoliitika [järgmiselt](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Pange tähele, et kogu asutuses kehtivaid säilitamise poliitika, uute kasutajate automaatselt vastavale poliitika.

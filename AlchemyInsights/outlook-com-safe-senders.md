@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601995"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535351"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Lõpetada sõnumid lähevad kausta Rämpspost
 
-On aeg, millal soovite sõnumeid teatud isiku või domeeni oma rämpspostifiltri kausta lõpuks. Meilisõnumid aadressid või domeenid on usaldatud saatjate loendis ei oma rämpspostifiltri kausta liigutatakse.
+On aegu, kui ei soovi sõnumeid teatud isiku või domeeni teenuses Outlook.com kausta Rämpspost lõpuks. Meilisõnumid aadressid või domeenid on usaldatud saatjate loendis ei oma rämpspostifiltri kausta liigutatakse.
 
 1. Avage oma [turvaliste saatjate seaded](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. **Turvalised saatjad ja domeeni**, sisestage e-posti aadress või domeen, mida soovite lisada, ja valige **Lisa**.

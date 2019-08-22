@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383093"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539097"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Tuvastada välise Meili edasisaatmine on konfigureeritud postkastide
 
-Kui kasutaja konfigureerib väliste meilide edasisaatmise funktsiooni postkast, auditeerib tegevuse osana cmdleti **Set-Mailbox** . Kuvatakse tegevuse turvalisuse & vastavuse Center auditi logifaili otsingu abil.
+Kui Office 365 kasutajale konfigureerib väliste meilide edasisaatmise funktsiooni postkast, auditeerib tegevuse osana cmdleti **Set-Mailbox** . Kuvatakse tegevuse turvalisuse & vastavuse Center auditi logifaili otsingu abil.
 
-1. Logige sisse [Office 365 & vastavuse Turvakeskus](https://protection.office.com/)
+1. Logige sisse [Office 365 & vastavuse Turvakeskus](https://protection.office.com/).
 
-2. Valige **Auditi logifaili Otsi**nuppu **Otsi ja uurimine** .
+2. Mine **Otsi** > **auditi logifaili** otsingulehte.
 
 3. Valige kuupäevavahemik väljadele **Alguskuupäev** ja **lõppkuupäev** . Te ei pea määrama kasutajanime. Veenduge **tegevuse** välja näidata **kõigi tegevuste tulemusi**.
 

@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388173"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534163"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Lüliti erinevate Office 365 Business Plan
 
-Kui muudatused äri või vajate rohkem Office 365 funktsioone, saate vahetada plaanid.
+Kui muudatused äri või vajate rohkem Office 365 funktsioone, saate kasutusele uus leping.
   
-1. Administreerimiskeskuses, minge **arved** \> [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel.
+1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
 
-2. **Lüliti plaanid** valida uued plaanid, mis on saadaval vaadata.
+2. Valige tellimus, mida soovite täiendada.
 
-3. Valige plaan näha uue kuu maksumus. Kindlasti lugege põhiteavet ja seejärel valige **järgmise** vaadata läbi.
+3. Tellimuse üksikasjade lehel Valige **Upgrade**.
 
-Plaanid päästik ei toetata igas olukorras. Mõnel juhul võib olla plaanid käsitsi ümber lülitada.
-  
-Kui **plaanid minna** nupp ei ole saadaval, võib proovida [vahetada plaanid käsitsi](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) või pidage nõu tehnikuga "anna meile helistada" suvandi abil.
-  
-Te kasutate uus halduskeskus Uus leiate [minna mõni teine režiim](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Kava, mida soovite täiendada, siis valige **Upgrade** nupule.
+
+5. Sisestage arv, on vaja valida, kas maksta iga kuu jaemüüjatelt või kogu aasta, valige **kassasse**.
+   
+Vaadake lisateavet jaotisest [operatsioonisüsteemile erinev kava](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

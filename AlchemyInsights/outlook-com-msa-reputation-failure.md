@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701283"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546083"
 ---
 # <a name="account-locked"></a>Konto lukus
 
-Kui kuvatakse teade "teie konto on lukustatud" kui proovite sisse logida, sellepärast märkasime mõned ebatavalist tegevust oma kontol. Teie kaitsmiseks võimalike pettuste ja kuritarvituste, me oleme ajutiselt suletud konto. Me teame, et see on häiriv, kuid aitame teil saada tagasi oma konto vaid mõne sammuga.
+Kui kuvatakse teade "teie konto on lukustatud" kui Outlook.com-i sisse, sellepärast märkasime mõned ebatavalist tegevust oma kontol. Teie kaitsmiseks võimalike pettuste ja kuritarvituste, me oleme ajutiselt suletud konto. Me teame, et see on häiriv, kuid aitame teil saada tagasi oma konto vaid mõne sammuga.
 
 1. Minge aadressile [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) ja lukustatud kontole sisse logida.Konto avamiseks sisestage turvakood ette kirjutatud sõnumi Microsoft. Saada tekstisõnum, peate telefoni, mis toetab tekstsõnumside. Kui telefon ei toeta, tekstisõnumit, võite paluda sõber või pereliige kasutada oma telefoni. Microsoft ei salvestata sellele numbrile, seega kasutate see tekst kuvatakse telefoninumber ei pea olema seotud teie kontoga.
 2. Kui kuvatakse teade "Kasutuse limiidi ületanud", minge [Konto tφφle](https://go.microsoft.com/fwlink/?linkid=2090483) mõne meie agendiga vaatab läbi oma konto.
