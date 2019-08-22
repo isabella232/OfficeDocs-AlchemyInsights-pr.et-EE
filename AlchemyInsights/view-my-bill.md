@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387741"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506115"
 ---
 # <a name="view-my-bill"></a>Saate vaadata arve
 
-1. Administreerimiskeskuses, minge **arved** \> [arvete](https://go.microsoft.com/fwlink/p/?linkid=848039) lehekülg.
+1. Microsoft 365 administreerimiskeskuses, minge **arved** \> [arved & maksete](https://go.microsoft.com/fwlink/p/?linkid=848039) lehel.
 
-2. Vali kuu ja soovite arve kuupäev ja seejärel valige **Vaade**.
+2. Kuupäevavahemiku rippmenüü loendist ja valige soovitud järjekorras.
 
-3. Vali tellimuse ja valige **Vaata andmeid**.
-
-Lisateabe saamiseks vaadake [oma arve või arve](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Lisateabe saamiseks vaadake [oma arve või arve](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405804"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514119"
 ---
 # <a name="delete-a-communication-site"></a>Side saidi kustutamine
 
@@ -25,14 +25,12 @@ Side saidi kustutamiseks tehke järgmist:
   
 3. Jaotises **Saidi teave**nuppu **Kustuta see sait**ja seejärel klõpsake käsku **Kustuta**. 
   
-Administraatorid saab ka side saidi kustutamine Modern halduskeskus järgmiselt: 
+Administraatorid ka saate kustutada side saidi uue halduskeskuse kaudu järgmiselt: 
   
-1. Proovige uus halduskeskus ülemises paremas nurgas nuppu **proovi kohe** . 
+1. Valige vasakult suvand **aktiivne saitidele** . 
   
-2. Valige **aktiivne saitidele**. 
+2. Klõpsake saidi kustutada kõrval **kustutage** suvand ilmub ülalt menüüst. 
   
-3. Klõpsake saidi kustutada kõrval **kustutage** suvand ilmub ülalt menüüst. 
-  
- **Märkus:** Kui soovite jäädavalt kustutada side (kυrvaldades prügikasti) abil saate uuesti saidi URL, kasutada [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) hindamiseks prügikasti ja [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) eemaldada saidi prügikasti. 
+ **Märkus:** Kui soovite jäädavalt kustutada side (kυrvaldades prügikasti) abil saate uuesti saidi URL, kasutage [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) on prügikast ja [Eemalda SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) eemaldada saidi prügikasti. 
   
 

@@ -13,13 +13,15 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 8d716ef3f79691971d04801731d2dd4b080b36f8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389356"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522115"
 ---
+# <a name="office-365-government-plans"></a>Office 365 Government plaanid
+
 Office 365 USA valitsuse lepingud on mõeldud USA valitsuse organisatsioonide ainulaadseid vajadusi. Nad annavad kõik funktsioonid ja võimalused Office 365 teenuste segmenditud valitsuse pilve kogukond, kes saavad ettevõtted vastavad USA nõuetele vastavuse ja ohutuse standarditele.
   
 - [Valitsuse plaanid läbi](https://products.office.com/government/compare-office-365-government-plans)

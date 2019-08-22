@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388175"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501361"
 ---
 # <a name="subscription-recurring-billing"></a>Tellimuse korduvate arvete
 
-Kui sa tahad teada, millal tellimus kuus või aastas saadetakse teile arve (kui **korduv arved** on sisse lülitatud) või aeguda (kui **korduv arved** on välja lülitatud):
+Kui sa tahad teada, millal iga kuu või iga aasta Office 365 tellimus saadetakse teile arve (kui **korduv arved** on sisse lülitatud) või aeguda (kui **korduv arved** on välja lülitatud):
   
-1. Administreerimiskeskuses, minge **arved** \> [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel.
+1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
 
-2. Valige tellimus, mida soovite rohkem teada.
+2. Tellimus, mida soovite rohkem teada, all, **arved**, vt **kohta Renews** või **Expiring kohta** kuupäev.
 
-3. Kaardi tellimus paremas servas on tellimuse staatus, **korduv arvete** loomist ja järgmise arveldamise või kehtib kuni kuupäev.
+4. Muuta, valige **edit** ja **korduv arvelduse** sätted paanil valige **Lülita välja** lülitada. Kui korduvate arvete juba sisse lülitatud, valige **kuu** või **üks kord** sisse.
 
-4. Jätkad viimase kuupäeva, aktiveerige **korduv arvelduse seaded** Lülita **sisse**. Olek näitab järgmise arve kuupäeva märkimise.
-
-5. Peatage teenus sellel kuupäeval, aktiveerige **korduv arved** Lülita **välja**. Olek näitab kuupäeva tellimus aegub.
-
-Te kasutate uus halduskeskus Uus leiate [makse perioodi kaupa sisse või välja lülitada](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Lisateabe saamiseks vaadake teemasid [makse perioodi kaupa sisse või välja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
