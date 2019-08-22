@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382949"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539025"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-aadress ja kliendi auditilogi
 
-Auditilogide näidatakse IP-aadress, mis vastab kasutaja või administraator tegevus. Kliendi andmed ka logitud. Siin on sammud teha kindlaks sellise teabe
+Office 365 kasutaja või administraator tegevus vastab IP-aadress kuvatakse auditilogide. Kliendi andmed ka logitud. Siin on sammud teha kindlaks sellise teabe
 
-1. Logige sisse [Office 365 & vastavuse Turvakeskus](https://protection.office.com/)
+1. Logige sisse [Office 365 & vastavuse Turvakeskus](https://protection.office.com/).
 
-2. Valige **Auditi logifaili Otsi**nuppu **Otsi ja uurimine** .
+2. Mine **Otsi** > **auditi logifaili** otsingulehte.
 
    Kui olete huvitatud konkreetse töö, valige see **tegevus** . Kui ei, siis kõik tegevused tuleb tagasi valitud kasutaja (vaikesäte).
 
