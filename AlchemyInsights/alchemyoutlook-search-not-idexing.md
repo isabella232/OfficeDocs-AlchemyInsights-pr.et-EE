@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397930"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505827"
 ---
 # <a name="outlook-search-not-indexing"></a>Outlooki otsing mitte indekseerimine
 
 Me oleme teadlikud Outlook Otsi küsimusi seoses tehtud turvavärskendused Windows.
   
-Otsides Outlookis võidakse kuvada see tõrketeade: ** läks midagi valesti ja otsingut ei saanud lõpule viia **, või **Otsingutulemid võib olla lõplikud, kuna üksuste indekseerimine on alles pooleli**. Fix on välja antud Windows valikulise värskendusena. Palun installige vastav te näete probleemi kohta Windowsi versiooni üks: 
+Outlookis otsimisel võite saada ühte järgmistest vigadest: **midagi läks valesti ja otsingut ei saanud lõpule viia**, või **Otsingutulemid võib olla lõplikud, kuna üksuste indekseerimine on alles pooleli**. Fix on välja antud Windows valikulise värskendusena. Palun installige vastav te näete probleemi kohta Windowsi versiooni üks: 
   
 > [Windows 7 - 27 juuni 2017 update](https://support.microsoft.com/kb/4022168.aspx)
     

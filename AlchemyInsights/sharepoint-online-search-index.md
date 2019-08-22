@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059248"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507627"
 ---
-# <a name="search-in-sharepoint-online"></a>Otsi SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Sisu indekseerimise ja indekseerimist SharePoint Online
 
 Sisu peab olema analüüsitud ja kasutajatel leida, mida nad otsivad SharePoint Online otsinguregistrisse lisatud. Sisu automaatselt analüüsimisel vastavalt eelmääratletud indekseerimise ajakava (indekseerimise ajakava ei saa muuta). Ämblik kirkad, mis on muutunud pärast viimast analüüsi ja uuendab indeks. Et sisu analüüsimisel ja registrit värskendatakse, võtke arvesse järgmist.
 
@@ -30,7 +30,8 @@ Sisu peab olema analüüsitud ja kasutajatel leida, mida nad otsivad SharePoint 
 
     Kui üle 24 tunni on möödunud tegemisest analüüsi ja täieliku uuesti indekseerida, logige esitamist. Paljudel juhtudel arendame juba lahenduse. Palun anna meile vähemalt 24 tundi, lahendus.
 
->[! Oluline!]: saidi, dokumendi (Raamatukogu) või nimekiri oli kustutatud ja ikka näitab tulemusi, kui kasutajatele tuleks on **Error 404 faili ei leitud** katsel kuvatakse juurdepääs. See probleem peaks olema logitud esitamist palusid. 
+> [!IMPORTANT]
+> Kui saidi, dokumendi (Raamatukogu) või loendi kustutati ja ikka näitab otsingutulemites kasutajad peaksid saama mis **Viga 404 File Not Found** kui vaadata seda. See probleem peaks olema logitud esitamist palusid. 
 
 
 

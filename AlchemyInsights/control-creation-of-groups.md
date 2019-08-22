@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364009"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516667"
 ---
-# <a name="control-creation-of-o365-groups"></a>O365 pakuvad juhtelemendi loomine
+# <a name="control-creation-of-office-365-groups"></a>Juhtelemendi loomine Office 365 rühmad
 
-Vaikimisi kõigile kasutajatele ettevõtte siseselt on võimalik koostada O365. Kui vaja, teil on võimalik seda muuta ja määrata õigus luua O365 teie ettevõttesse kuuluvate inimeste kogum. Pange tähele, et see avaldab mõju ühinemisi (nt Outlook, meeskonnad, planeerija jne) teenusest O365.
+Vaikimisi kõigile kasutajatele ettevõtte siseselt on võimalik moodustada. Kui vaja, teil on võimalik seda muuta ja määrata õigus luua teie ettevõttesse kuuluvate inimeste kogum. Pange tähele, et see avaldab mõju (nt Outlook, meeskonnad, planeerija jne) teenusest Office 365 ühinemisi.
   
 Juhised: [kes on võimalik koostada Office 365 haldamine](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
