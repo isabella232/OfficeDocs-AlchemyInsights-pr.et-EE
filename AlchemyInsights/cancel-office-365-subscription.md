@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 353e0b4bb3ac1e0ecd9b7436dde6860ba8950925
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386149"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494128"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Office 365 tellimuse tühistamine?
 
@@ -28,4 +28,4 @@ Meil on kahju, et lahkute, kuid teie valikud tühistada tellimus:
 
 - Kui teil on rohkem kui 25 määratud litsentse, te võite eemaldada kasutajaid enne, on vähem kui 25 või pidage nõu tehnikuga "anna meile helistada" suvandi abil.
 
-- Rohkem teada tellimuse tühistamise korral või üksikasjalikud juhised leiate jaotisest [tellimuse tühistada](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Rohkem teada tellimuse tühistamise korral või üksikasjalikud juhised leiate jaotisest [tellimuse tühistada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

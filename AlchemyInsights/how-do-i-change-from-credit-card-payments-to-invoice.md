@@ -13,27 +13,24 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: da38d20aca2b367a423250cda997ee09ed42b25a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: fc469365c988c6c4fb754a2a0b85374a9d1ccd27
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390364"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523111"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kuidas muuta: lisatasud arveldada?
 
 > [!NOTE]
-> Võimalus maksta arvega on ainult saadaval, kui teie Office 365 tellimus maksab üle teatud summa (mis erinev asukoht). Krediidilimiidi kontrollimise võivad olla vajalikud suuremad ettemaksuarve maksed. Lisateabe saamiseks vt [maksma oma Office 365 tellimusega](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+> Võimalus maksta arvega on ainult saadaval, kui teie Office 365 tellimus maksab üle teatud summa (mis erinev asukoht). Krediidilimiidi kontrollimise võivad olla vajalikud suuremad ettemaksuarve maksed. Lisateabe saamiseks vt [maksma oma Office 365 tellimusega](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. Administreerimiskeskuses, minge **arved** \> [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel.
+1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
 
-2. Valige tellimus, mida soovite muuta. Valige jaotises **makseviis** **Muuda makse üksikasjad**.
+2. Valige tellimus, mida soovite muuta. Valige jaotises **arved** praeguse makseviisi jaoks suvandit **Redigeeri** .
 
-3. **Muuda makse üksikasjade** paanil valige **Muuda makseviisi**.
+3. Väljale **Muuda makseviisi selle tellimuse puhul** valige **Muuda**, valida või erineva makseviisi lisamine ja seejärel valige **Salvesta**.
 
-> [!NOTE]
-> Kui linki **Muuda makseviisi** ei kuvata, tähendab see, et krediitkaardi või pangakonto arvele üleminek ei ole saadaval tellimus tellimus ei vasta minimaalne omahind arveldamine arve. Arve arved esitatakse vajalik minimaalne omahind sõltub geograafilise location.*
+   > [!NOTE]
+   > Kui see suvand ei kuvata, tähendab see, et krediitkaardi või pangakonto arvele üleminek ei ole saadaval tellimus tellimus ei vasta minimaalne omahind arveldamine arve. Arve arved esitatakse vajalik minimaalne omahind erineb olenevalt geograafilisest asukohast.
   
-4. **Muuda makseviisi** dialoogiboksis valige **Jätka**.
-
-5. Valida **OK** tagasi administreerimiskeskusse.

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a6ff804fae307212c454b80ead863667dbdbe781
-ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35121276"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513103"
 ---
 # <a name="delete-a-site-collection"></a>Saidikogumi kustutamine
 
@@ -28,4 +28,4 @@ Saidi kustutamisel kustutatakse kõik selles, sealhulgas:
 
 Saidi administraatorid ja alamsaidi omanikud peaksid teatama enne saidi kustutamist andmete teisaldamine teise asukohta, ja kasutajatele ka öelda, kui saite kustutatakse. 
 
-Vaadake lisateavet jaotisest [kustutada](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection). 
+Vaadake lisateavet jaotisest [kustutada](https://docs.microsoft.com/sharepoint/delete-site-collection). 
