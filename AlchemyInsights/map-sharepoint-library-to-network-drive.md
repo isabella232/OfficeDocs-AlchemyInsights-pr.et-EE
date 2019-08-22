@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b249dddd-87fb-4e07-a4f8-05a0dc521a47
-ms.openlocfilehash: 39a1317e67ef5f73afad902745ce3a7bbb1382cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 28bccbd850bbfff808286c119d503cc3a6b253a0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408607"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496755"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="1960b-102">Kaarti võrgudraivile SharePointi teegis</span><span class="sxs-lookup"><span data-stu-id="1960b-102">Map a SharePoint library to a network drive</span></span>
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="f29be-102">Kaarti võrgudraivile SharePointi teegis</span><span class="sxs-lookup"><span data-stu-id="f29be-102">Map a SharePoint library to a network drive</span></span>
 
-<span data-ttu-id="1960b-103">Saidi teeke File Exploreris töötamiseks soovitame kasutada OneDrive'i sünkroonimisrakenduse asemel kaardistamise raamatukogude võrgu kaudu.</span><span class="sxs-lookup"><span data-stu-id="1960b-103">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives.</span></span> <span data-ttu-id="1960b-104">Draivi vastendamine on ainult ajutine lahendus.</span><span class="sxs-lookup"><span data-stu-id="1960b-104">Drive mapping is only a temporary solution.</span></span> <span data-ttu-id="1960b-105">Sünkroonimise klienti teeb failid kättesaadavaks kasutajatele isegi siis, kui nad on ühenduseta.</span><span class="sxs-lookup"><span data-stu-id="1960b-105">Using the sync client makes the files available to users even when they're offline.</span></span> <span data-ttu-id="1960b-106">Sünkroonimise klient ka annab paremaid tulemusi, saate kasutada faile ilma allalaadimist neid kasutades [Faile tellitava](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) ja ei vaja setup kasutades Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="1960b-106">The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
+<span data-ttu-id="f29be-103">Saidi teeke File Exploreris töötamiseks soovitame kasutada OneDrive'i sünkroonimisrakenduse asemel kaardistamise raamatukogude võrgu kaudu.</span><span class="sxs-lookup"><span data-stu-id="f29be-103">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives.</span></span> <span data-ttu-id="f29be-104">Draivi vastendamine on ainult ajutine lahendus.</span><span class="sxs-lookup"><span data-stu-id="f29be-104">Drive mapping is only a temporary solution.</span></span> <span data-ttu-id="f29be-105">Sünkroonimise klienti teeb failid kättesaadavaks kasutajatele isegi siis, kui nad on ühenduseta.</span><span class="sxs-lookup"><span data-stu-id="f29be-105">Using the sync client makes the files available to users even when they're offline.</span></span> <span data-ttu-id="f29be-106">Sünkroonimise klient ka annab paremaid tulemusi, saate kasutada faile ilma allalaadimist neid kasutades [Faile tellitava](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) ja ei vaja setup kasutades Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="f29be-106">The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
   
-- [<span data-ttu-id="1960b-107">Koos uue OneDrive'i sünkroonimisrakenduse Windowsis failide sünkroonimine</span><span class="sxs-lookup"><span data-stu-id="1960b-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
+- [<span data-ttu-id="f29be-107">Koos uue OneDrive'i sünkroonimisrakenduse Windowsis failide sünkroonimine</span><span class="sxs-lookup"><span data-stu-id="f29be-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
     
-- [<span data-ttu-id="1960b-108">Võimalusi saidi teegi failide tulekul</span><span class="sxs-lookup"><span data-stu-id="1960b-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
+- [<span data-ttu-id="f29be-108">Võimalusi saidi teegi failide tulekul</span><span class="sxs-lookup"><span data-stu-id="f29be-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
     
-- [<span data-ttu-id="1960b-109">Konfigureerige ja tehke tõrkeotsing vastendatud võrgudraivile</span><span class="sxs-lookup"><span data-stu-id="1960b-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
+- [<span data-ttu-id="f29be-109">Konfigureerige ja tehke tõrkeotsing vastendatud võrgudraivile</span><span class="sxs-lookup"><span data-stu-id="f29be-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
     
 
