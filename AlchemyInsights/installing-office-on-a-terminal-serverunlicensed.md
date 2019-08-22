@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381725"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498411"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Paigaldus Office terminali Server
 
@@ -26,7 +26,7 @@ Kohta Office 365 ProPlusi kasutades kaugtöölaua teenuste (RDS) server Windowsi
 
 - Peate lubama [ühiskasutatavas arvutis aktiveerimisega](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Kui soovite installida Office 365 ProPlus RDS portaalist Office 365, ** *mis kasutab vaikimisi installimise sätted* **, järgige neid samme:
+Kui soovite installida Office 365 ProPlus RDS Office 365 portaali kaudu, ***mis kasutab vaikesätteid paigaldus***, toimige järgmiselt.
   
 1. Vaata mida teil Office 365 leping. [Õppida, kuidas](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Kui soovite installida Office 365 ProPlus RDS portaalist Office 365, ** *mis kas
 
 4. RDS server, logige sisse Office 365 portaali administraatori kontoga ja [installige Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Pärast Office'i installimist ** *Ärge avage või logige sisse* ** et kõik Office'i rakendused.
+5. Pärast Office'i installimist ***ei ava või logige sisse*** kõik Office'i rakendused.
 
 6. RDS server, luba ühiskasutatavas arvutis aktiveerimisega redigeerige registrit järgmiselt:
 
@@ -46,7 +46,7 @@ Kui soovite installida Office 365 ProPlus RDS portaalist Office 365, ** *mis kas
 
 3. Registry Editor, lisage string väärtus **SharedComputerLicensing** säte on HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration 1.
 
-7. RDS server ** *lõppkasutajad sisselogimise* ** ja [ühiskasutatavas arvutis aktiveerimisega on lubatud jaoks Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. RDS server, ***kui lõppkasutaja sisselogimine*** ja [ühiskasutatavas arvutis aktiveerimisega on lubatud jaoks Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Eeltingimused, juhiseid ja suuniseid kohandatud installide kasutate Office'i juurutamise tööriist üksikasjalikumalt, vt [Juurutamine Office 365 ProPlusi kasutades kaugtöölaua teenused](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

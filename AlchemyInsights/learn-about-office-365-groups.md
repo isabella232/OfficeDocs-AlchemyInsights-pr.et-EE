@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 94a243d12e2a3d691b008d111c949ee46ffc3151
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381221"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497691"
 ---
 # <a name="learn-about-office-365-groups"></a>Siin on teavet Office 365 rühmad
 
-Lisateabe saamiseks vaadake teemat [Office 365 rühmade kohta](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Office 365 rühmad on teenus, mis töötab Office 365 tööriistade abil kasutate juba, et te saate teha koostööd oma töökaaslastega kirjutamiseks dokumentide, arvutustabelite, projekti kavandatud kallal, plaanimise koosolekud või e-posti saatmisel. Lisateabe saamiseks vaadake teemat [Office 365 rühmade kohta](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
