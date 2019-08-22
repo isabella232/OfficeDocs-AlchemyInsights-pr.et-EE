@@ -13,19 +13,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 1f354ea7195a0927abc5c46538b66c6c705bfc20
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430537"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541662"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="037ef-102">Keele vahetamiseks</span><span class="sxs-lookup"><span data-stu-id="037ef-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="91e84-102">Keele vahetamiseks</span><span class="sxs-lookup"><span data-stu-id="91e84-102">Change your language</span></span>
 
-1. <span data-ttu-id="037ef-103">Valige [**keele**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) -ja (**seaded** \> **Vaata kõik Outlook seaded** > **üldise** > **keel ja aeg**).</span><span class="sxs-lookup"><span data-stu-id="037ef-103">Go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="91e84-103">Minge chang Outlookis keel, [**keele**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) -ja (**seaded** \> **Vaata kõik Outlook seaded** > **üldise** > **keel ja aeg**).</span><span class="sxs-lookup"><span data-stu-id="91e84-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="037ef-104">Keele valik.</span><span class="sxs-lookup"><span data-stu-id="037ef-104">Choose your language.</span></span>
+2. <span data-ttu-id="91e84-104">Keele valik.</span><span class="sxs-lookup"><span data-stu-id="91e84-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="037ef-105">Valige **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="037ef-105">Select **Save**.</span></span>
+3. <span data-ttu-id="91e84-105">Valige **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="91e84-105">Select **Save**.</span></span>
 
-<span data-ttu-id="037ef-106">Lisateabe saamiseks vaadake [muuta ajavööndi- ja keelesätted Outlook.com-is](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="037ef-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="91e84-106">Lisateabe saamiseks vaadake [muuta ajavööndi- ja keelesätted Outlook.com-is](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="91e84-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
