@@ -1,5 +1,5 @@
 ---
-title: WD fail ei avane topeltklõpsuga
+title: Wordi faili ei avanud topeltklõpsuga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752758"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558181"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>Lahendused failid valesti rakenduste avamine
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Wordi dokumendi vale Appis avanud või ei avanud
 
 Proovige ühte järgmistest soovitustest:
 
 **Valige sõna automaatselt**
 
-* Paremklõpsake dokumendil, Vali **Ava programmiga**ning valige **sõna**
+- Paremklõpsake dokumendil, Vali **Ava programmiga**ning valige **sõna**
 
 **Kiire remondi**
 
