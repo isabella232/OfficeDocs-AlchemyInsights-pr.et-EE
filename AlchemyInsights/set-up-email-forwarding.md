@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355369"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549935"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrollige e-posti edasisuunamise postkasti seaded
 
-See on lihtne kontrollida e-posti edasisuunamise postkasti seaded! Lihtsalt järgige neid samme.
+See on lihtne kontrollida e-posti edasisuunamise Office 365 postkasti seaded! Lihtsalt järgige neid samme.
   
-> Kui kasutaja postkasti, minge **kasutajate** \> **aktiivsed kasutajad** ja valige kasutaja kes on edasisaadetaval postkasti. E-posti seaded, valige jaotises **Muuda** e-posti edastamiseks.
+> Kui kasutaja postkasti, minge **kasutajate** \> **aktiivsed kasutajad** ja valige kasutaja kes on edasisaadetaval postkasti. Vahekaardil **meil** valige **Halda emaill edastamine**.
     
-> Kui ühiskasutuses postkasti, avage jaotis **rühmad** \> **ühiskasutusega postkastid** ja valige edasisaadetaval ühiskasutatava. Valige **Muuda** e-posti edastamiseks.
+> Kui ühiskasutuses postkasti, avage jaotis **rühmad** \> **ühiskasutusega postkastid** ja valige edasisaadetaval ühiskasutatava. Muuta **muuta** e-posti edastamiseks.
 
 Üksikasjalikumat, Vaata [konfigureerimine e-posti edasisuunamise Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   
