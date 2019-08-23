@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356593"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553428"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Tagasi kutsuda või asendada e-kirja
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Tagasi kutsuda või asendada e-kirja rakenduses Office 365
 
 - Saab **ainult turult sõnumid, mis saadetakse ettevõtte**. Kui sõnum saadeti Gmaili aadressi, näiteks ei mäleta seda.
 - Saab **ainult turult kirjad Outlook 2016 PC**. Kui kasutaja saadab sõnumi, kasutades Outlook for Mac või Outlook veebis, ei mäleta seda.
 - Kui olete administraator, saate **tagasikutsumise kirju PowerShelliga kasutajate nimel**. Ei mäleta sõnumeid halduskeskuse kaudu. Kerige "Otsida ja kustutada e-kirju teie organisatsiooni" Lisateavet.
 
-***Tagasi kutsuda või asendada saadetud e-kirja***
+**Tagasi kutsuda või asendada saadetud e-kirja**
 
 1. Valige Outlooki vasakul paanil kausta kausta Saadetud.
 2. Avage sõnum, mida soovite mäleta. Peate sõnumi avamiseks topeltklõpsake. Nii et see kuvatakse lugemispaanil kuvada sõnumi seda valides ei luba sõnumi tagasikutsumine.

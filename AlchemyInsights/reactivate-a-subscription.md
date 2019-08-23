@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391048"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553356"
 ---
-# <a name="reactivate-a-subscription"></a>Uuesti tellimus
+# <a name="reactivate-an-office-365-subscription"></a>Uuesti aktiveerida Office 365 tellimus
 
 Kui tellimus aegub, Microsoft, keelatud või abonemendi kestuse keset loobusite, saate aktiveerida seda administreerimiskeskuses.
   
-1. Administreerimiskeskuses, minge **arved** \> [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel.
+1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
 
-2. Valige tellimus, mida soovite uuesti aktiveerida, siis vali **uuesti**.
+2. Valige tellimus, mida soovite aktiveerida. Arveldamine jaotises Valige **uuesti aktiveerida**.
 
-    Kui näete **uuesti** saadaval kaebuse, "anna meile helistada" suvandi abil pidage nõu tehnikuga uuesti aktiveerida oma tellimust.
+    Kui te ei näe **uuesti** saadaval kaebuse, [kõne toetada](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) uuesti aktiveerida oma tellimust.
 
-3. Sisestada oma makseandmed. Saate värskendada oma olemasoleva makseteabe siin.
+3. Kinnitage oma makseandmed. Saate värskendada oma olemasoleva makseteabe siin. Kui olete valmis makseviisi küsitakse, valige **uuesti**.
 
-Te kasutate uus halduskeskus Uus leiate [uuesti aktiveerida oma tellimust](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Lisateabe saamiseks vaadake [uuesti aktiveerida oma tellimust](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

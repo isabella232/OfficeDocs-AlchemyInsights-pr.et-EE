@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388596"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554617"
 ---
-# <a name="prepaid-renewal"></a>Ettemakstud uuendamine
+# <a name="prepaid-office-365-renewal"></a>Ettemakstud Office 365 uuendamine
 
-1. Administreerimiskeskuses, minge **arved** \> [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel.
+1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
 
-2. Valige ettemakstud tellimus, mida soovite pikendada ja valige **Laienda**.
+2. Valige tellimus, mida soovite laiendada. **Arveldamine** jaotises Valige **Laienda lõppkuupäev**.
 
-3. Valige suvand **tootevõti**. (Kui see oli ostetud jaemüügi asukohast tootevõtit, võib teil võimalus laiendada muud makseviisid.)
+3. Paanil **Laienda tellimuse** **kasutamise uus ja kasutamata tootevõtit**valige **Järgmine**.
 
-4. Sisestage tootenumber.
+4. Sisestage tootenumber ja seejärel valige **Järgmine**.
 
-5. Teave on õige ja valige **edasi**.
+> [!NOTE]
+> Kui teil on rohkem kui üks tootevõti, saate **lisada mõnda muud tootenumbrit** viibima.
 
-6. Valige raadionupp valiku laiendada olemasolevad litsentsid lõppkuupäeva, siis valige **Järgmine**.
+5. Vaadake oma tellimuse üksikasjad ja valige **Lunasta**.
 
-Te kasutate uus halduskeskus Uus leiate [lisada litsentse või pikendada tellimuse eest tootevõtmega](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+Lisateabe saamiseks vt [Lisa litsentse või pikendada tellimuse eest tootevõtmega](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
