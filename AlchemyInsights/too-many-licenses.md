@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388020"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549071"
 ---
-# <a name="too-many-licenses"></a><span data-ttu-id="e0ebc-102">Liiga palju litsentse?</span><span class="sxs-lookup"><span data-stu-id="e0ebc-102">Too many licenses?</span></span>
+# <a name="too-many-licenses"></a><span data-ttu-id="eec41-102">Liiga palju litsentse?</span><span class="sxs-lookup"><span data-stu-id="eec41-102">Too many licenses?</span></span>
 
-<span data-ttu-id="e0ebc-103">Kui arvate, et teilt võetakse tasu eest liiga palju litsentse, see on tavaliselt tingitud võttes osta rohkem litsentse, siis peate.</span><span class="sxs-lookup"><span data-stu-id="e0ebc-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
+<span data-ttu-id="eec41-103">Kui arvate, et teilt võetakse tasu eest liiga palju Office 365 litsentsid, see on tavaliselt tingitud võttes osta rohkem litsentse, siis peate.</span><span class="sxs-lookup"><span data-stu-id="eec41-103">If you think you're being billed for too many Office 365 licenses, this is usually due to having purchased more licenses then you need.</span></span>
   
-<span data-ttu-id="e0ebc-104">**Ostetud litsentside arvu vähendamiseks**</span><span class="sxs-lookup"><span data-stu-id="e0ebc-104">**Reduce the number of licenses purchased**</span></span>
+<span data-ttu-id="eec41-104">**Ostetud litsentside arvu vähendamiseks**</span><span class="sxs-lookup"><span data-stu-id="eec41-104">**Reduce the number of licenses purchased**</span></span>
   
-1. <span data-ttu-id="e0ebc-105">Administreerimiskeskuses, minge **arved** \> [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel.</span><span class="sxs-lookup"><span data-stu-id="e0ebc-105">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="eec41-105">Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.</span><span class="sxs-lookup"><span data-stu-id="eec41-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="e0ebc-106">Vasakul, valige tellimus, mille soovite eemaldada litsentsid.</span><span class="sxs-lookup"><span data-stu-id="e0ebc-106">On the left, choose the subscription from which you would like to remove licenses.</span></span>
+2. <span data-ttu-id="eec41-106">Valige tellimus, millest soovite eemaldada litsentsid ja seejärel valige **Add/Remove litsentsid**.</span><span class="sxs-lookup"><span data-stu-id="eec41-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
 
-3. <span data-ttu-id="e0ebc-107">Valige **Add/Remove litsentsid**.</span><span class="sxs-lookup"><span data-stu-id="e0ebc-107">Choose **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="eec41-107">**Kokku litsentsid** väljale Sisestage selle tellimuse jaoks soovitud litsentside koguarv ja valige **Edasta muuta**.</span><span class="sxs-lookup"><span data-stu-id="eec41-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="eec41-108">Näiteks kui teil on 110 ja eemaldada 5 neist, sisestage 105.</span><span class="sxs-lookup"><span data-stu-id="eec41-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
 
-4. <span data-ttu-id="e0ebc-108">Sisestage vajalik kasutajate arv.</span><span class="sxs-lookup"><span data-stu-id="e0ebc-108">Enter the total number of users needed.</span></span> <span data-ttu-id="e0ebc-109">Näiteks kui teil on praegu 25 litsentsi ja eemaldada 5, sisestage sellele väljale 20.</span><span class="sxs-lookup"><span data-stu-id="e0ebc-109">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
-
-5. <span data-ttu-id="e0ebc-110">Valige **Esita**.</span><span class="sxs-lookup"><span data-stu-id="e0ebc-110">Choose **Submit**.</span></span>
-
-<span data-ttu-id="e0ebc-111">Te kasutate uus halduskeskus</span><span class="sxs-lookup"><span data-stu-id="e0ebc-111">Are you using the new admin center?</span></span> <span data-ttu-id="e0ebc-112">Uus leiate [eemaldada litsentsid teie Office 365 tellimusega](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span><span class="sxs-lookup"><span data-stu-id="e0ebc-112">For new steps, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>
+<span data-ttu-id="eec41-109">Lisateabe saamiseks vt [eemaldada litsentsid teie Office 365 tellimusega](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span><span class="sxs-lookup"><span data-stu-id="eec41-109">For more information, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>

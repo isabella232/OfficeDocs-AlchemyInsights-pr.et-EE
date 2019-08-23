@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 2ef6ff1f67b8f04ed09b21568aaef4607950c2d8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271677"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512875"
 ---
-# <a name="disable-onedrive"></a><span data-ttu-id="fef89-102">Näpunäide</span><span class="sxs-lookup"><span data-stu-id="fef89-102">Disable OneDrive</span></span>
+# <a name="disable-onedrive"></a><span data-ttu-id="347d0-102">Näpunäide</span><span class="sxs-lookup"><span data-stu-id="347d0-102">Disable OneDrive</span></span>
 
-<span data-ttu-id="fef89-103">On mitu võimalust saate keelata OneDrive ja oma teenuseid vastavalt teie ettevõtte vajadustele.</span><span class="sxs-lookup"><span data-stu-id="fef89-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
+<span data-ttu-id="347d0-103">On mitu võimalust saate keelata OneDrive ja oma teenuseid vastavalt teie ettevõtte vajadustele.</span><span class="sxs-lookup"><span data-stu-id="347d0-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
 
-<span data-ttu-id="fef89-104">[Linkimise tühistamine, peitmine või desinstallida rakenduse OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-[ainult võimaldada sünkroonimist eriorganisatsioonide](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-[keelata OneDrive saidiloometeenuse mõned kasutajad](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-[kontroll juurdepääsu SharePoint Online ja OneDrive sõltuvalt](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-[blokeerida isiklike OneDrive sync](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-[andmeühenduste haldamine Windows seadmete OneDrive ja muud teenused](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)</span><span class="sxs-lookup"><span data-stu-id="fef89-104">[Unlink, hide or uninstall the OneDrive Application](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-[Only allow syncing for specific organizations](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-[Disable OneDrive site creation for some users](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-[Control access to SharePoint Online and OneDrive data based on network location](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-[Disable personal OneDrive sync](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-[Manage connections from Windows devices to OneDrive and other services](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)</span></span>
+[<span data-ttu-id="347d0-104">Linkimise tühistamine, peitmine või desinstallida rakenduse OneDrive</span><span class="sxs-lookup"><span data-stu-id="347d0-104">Unlink, hide or uninstall the OneDrive Application</span></span>](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+
+[<span data-ttu-id="347d0-105">Ainult võimaldada sünkroonimist eriorganisatsioonide</span><span class="sxs-lookup"><span data-stu-id="347d0-105">Only allow syncing for specific organizations</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+
+[<span data-ttu-id="347d0-106">Keelata OneDrive saidiloometeenuse mõnede kasutajate jaoks</span><span class="sxs-lookup"><span data-stu-id="347d0-106">Disable OneDrive site creation for some users</span></span>](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+
+[<span data-ttu-id="347d0-107">Sõltuvalt SharePoint Online'i ja OneDrive'i andmetele juurdepääsu kontroll</span><span class="sxs-lookup"><span data-stu-id="347d0-107">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+
+[<span data-ttu-id="347d0-108">Keelata isiklike OneDrive sync</span><span class="sxs-lookup"><span data-stu-id="347d0-108">Disable personal OneDrive sync</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+
+[<span data-ttu-id="347d0-109">Ühenduste haldamiseks Windowsi seadmete OneDrive ja muud teenused</span><span class="sxs-lookup"><span data-stu-id="347d0-109">Manage connections from Windows devices to OneDrive and other services</span></span>](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

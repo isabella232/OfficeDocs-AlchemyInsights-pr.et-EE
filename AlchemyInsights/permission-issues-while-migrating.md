@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: 3f420a0f930ccb227ad6d2b4b88a9726627bbdb7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3dac4e527aa181c89e6530a219c6f0596b417464
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372196"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554877"
 ---
-# <a name="permissions-issues-while-migrating"></a><span data-ttu-id="197ed-102">Samas üleminevate õiguste küsimused</span><span class="sxs-lookup"><span data-stu-id="197ed-102">Permissions issues while migrating</span></span>
+# <a name="permissions-issues-while-migrating"></a><span data-ttu-id="3b18a-102">Samas üleminevate õiguste küsimused</span><span class="sxs-lookup"><span data-stu-id="3b18a-102">Permissions issues while migrating</span></span>
 
-<span data-ttu-id="197ed-103">Seoses ühise luba SharePoint Online käigus Lisateavet [mõistmise õigused ja SharePointi Migreerimistööriista.](https://go.microsoft.com/fwlink/?linkid=2019753)</span><span class="sxs-lookup"><span data-stu-id="197ed-103">For information regarding common permission issues during migration to SharePoint Online, see [Understanding Permissions and the SharePoint Migration Tool.](https://go.microsoft.com/fwlink/?linkid=2019753)</span></span>
+<span data-ttu-id="3b18a-103">Seoses ühise luba SharePoint Online käigus Lisateavet [mõistmise õigused ja SharePointi Migreerimistööriista.](https://go.microsoft.com/fwlink/?linkid=2019753)</span><span class="sxs-lookup"><span data-stu-id="3b18a-103">For information regarding common permission issues during migration to SharePoint Online, see [Understanding Permissions and the SharePoint Migration Tool.](https://go.microsoft.com/fwlink/?linkid=2019753)</span></span>
   
 

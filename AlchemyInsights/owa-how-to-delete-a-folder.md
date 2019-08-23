@@ -13,18 +13,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: d6ae972c6d95b33612290b4ee20464e53f60327f
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34423049"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556525"
 ---
-# <a name="how-to-delete-a-folder"></a><span data-ttu-id="4a8f7-102">Kausta kustutamine</span><span class="sxs-lookup"><span data-stu-id="4a8f7-102">How to delete a folder</span></span>
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="a1938-102">Kuidas kustutada kausta Outlooki Web</span><span class="sxs-lookup"><span data-stu-id="a1938-102">How to delete a folder in Outlook on the web</span></span>
 
-1. <span data-ttu-id="4a8f7-103">Paremklõpsake kaustapaanil kausta või alamkausta kustutada.</span><span class="sxs-lookup"><span data-stu-id="4a8f7-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
-2. <span data-ttu-id="4a8f7-104">Valige **Kustuta kaust**.</span><span class="sxs-lookup"><span data-stu-id="4a8f7-104">Select **Delete folder**.</span></span>
-3. <span data-ttu-id="4a8f7-105">Kinnitamiseks valige **OK** .</span><span class="sxs-lookup"><span data-stu-id="4a8f7-105">Select **OK** to confirm.</span></span>
+1. <span data-ttu-id="a1938-103">Paremklõpsake kaustapaanil kausta või alamkausta kustutada.</span><span class="sxs-lookup"><span data-stu-id="a1938-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
+2. <span data-ttu-id="a1938-104">Valige **Kustuta kaust**.</span><span class="sxs-lookup"><span data-stu-id="a1938-104">Select **Delete folder**.</span></span>
+3. <span data-ttu-id="a1938-105">Kinnitamiseks valige **OK** .</span><span class="sxs-lookup"><span data-stu-id="a1938-105">Select **OK** to confirm.</span></span>
 
-<span data-ttu-id="4a8f7-106">Lisateabe saamiseks vaadake [sõnumi kaustade Outlook Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="4a8f7-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="a1938-106">Lisateabe saamiseks vaadake [sõnumi kaustade Outlook Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="a1938-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
 
