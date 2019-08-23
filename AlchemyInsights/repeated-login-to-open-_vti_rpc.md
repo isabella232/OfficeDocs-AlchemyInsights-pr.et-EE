@@ -14,14 +14,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 10cb6d9a791c20a2c87b80cc373b04b0514543e4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ef59ee1085bbd163eaa31845036619322038fa34
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356305"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552268"
 ---
-# <a name="repeated-login-to-open-vtirpc"></a><span data-ttu-id="91a39-102">Korduv login _vti_rpc avamiseks</span><span class="sxs-lookup"><span data-stu-id="91a39-102">Repeated login to open _vti_rpc</span></span>
+# <a name="repeated-login-to-open-_vti_rpc"></a><span data-ttu-id="ccc00-102">Korduv login _vti_rpc avamiseks</span><span class="sxs-lookup"><span data-stu-id="ccc00-102">Repeated login to open _vti_rpc</span></span>
 
-<span data-ttu-id="91a39-103">OneDrive'i faile Office 2016 töötades võib kuvatakse teade: "Ütle meile selle konto avamisel _vti_rpc."</span><span class="sxs-lookup"><span data-stu-id="91a39-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="91a39-104">See probleem parandati versiooni 1708 (16.0.8431.2094).</span><span class="sxs-lookup"><span data-stu-id="91a39-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="91a39-105">Probleemi lahendamiseks värskendage Office'i uusimale versioonile.</span><span class="sxs-lookup"><span data-stu-id="91a39-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="91a39-106">Valige **faili** \> **konto** \> **Update Valikud** \> **Värskenda kohe**.</span><span class="sxs-lookup"><span data-stu-id="91a39-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="ccc00-103">OneDrive'i faile Office 2016 töötades võib kuvatakse teade: "Ütle meile selle konto avamisel _vti_rpc."</span><span class="sxs-lookup"><span data-stu-id="ccc00-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="ccc00-104">See probleem parandati versiooni 1708 (16.0.8431.2094).</span><span class="sxs-lookup"><span data-stu-id="ccc00-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="ccc00-105">Probleemi lahendamiseks värskendage Office'i uusimale versioonile.</span><span class="sxs-lookup"><span data-stu-id="ccc00-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="ccc00-106">Valige **faili** \> **konto** \> **Update Valikud** \> **Värskenda kohe**.</span><span class="sxs-lookup"><span data-stu-id="ccc00-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
