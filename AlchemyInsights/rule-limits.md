@@ -12,13 +12,13 @@ ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 2de5bdd43ca15ddeeecec61c3d4fd61caa660965
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3cb63eafc066ada20da7eb3b762424a3ef9e0026
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369625"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551375"
 ---
-# <a name="rule-limits"></a><span data-ttu-id="ff1c2-102">Piiratud</span><span class="sxs-lookup"><span data-stu-id="ff1c2-102">Rule limits</span></span>
+# <a name="rule-limits"></a><span data-ttu-id="dbfd0-102">Piiratud</span><span class="sxs-lookup"><span data-stu-id="dbfd0-102">Rule limits</span></span>
 
-<span data-ttu-id="ff1c2-103">Office 365 võimalusi ja standalone suvandid võivad erineda piiratud.</span><span class="sxs-lookup"><span data-stu-id="ff1c2-103">Rule limits might vary across Office 365 options and standalone options.</span></span> <span data-ttu-id="ff1c2-104">Lisateavet [töölehe, Transport, ja sisse piiratud](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span><span class="sxs-lookup"><span data-stu-id="ff1c2-104">For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>
+<span data-ttu-id="dbfd0-103">Office 365 võimalusi ja standalone suvandid võivad erineda piiratud.</span><span class="sxs-lookup"><span data-stu-id="dbfd0-103">Rule limits might vary across Office 365 options and standalone options.</span></span> <span data-ttu-id="dbfd0-104">Lisateavet [töölehe, Transport, ja sisse piiratud](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span><span class="sxs-lookup"><span data-stu-id="dbfd0-104">For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>
