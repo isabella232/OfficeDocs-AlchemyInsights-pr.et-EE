@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1adf0879ad7e4a0152315d4c7ce290b386de13da
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542434"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576016"
 ---
 # <a name="manage-recurring-billing"></a>Korduvate arvete haldamine
 
 Siis saad uuendatavate arvelduse Microsoft 365 halduskeskus sisse või välja.
   
-1. Mine **arved** > [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
 
 2. **Arved**, kõrval **Renews kohta** või **Expiring kohta**, valige **Redigeeri**.
 
-3. **Korduv arvelduse seaded** , valige **korduv arve OFF** see välja lülitada. Kui **korduv arved** on juba sisse lülitatud, valige **kuu** või **üks kord** sisse.
+3. **Korduv arvelduse sätted** paanil valige **Lülita välja** lülitada. Kui korduvate arvete juba sisse lülitatud, valige **kuu** või **üks kord** sisse.
 
 4. Valige **Edasta muuta**.
 
-Lisateabe saamiseks vaadake teemasid [makse perioodi kaupa sisse või välja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Te kasutate vana halduskeskus Vana sammude või Lisateavet on artiklis [makse perioodi kaupa sisse või välja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

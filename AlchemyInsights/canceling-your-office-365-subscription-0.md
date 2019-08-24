@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 90f7a879b823648973ef52d9d34914871c046141
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518503"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575750"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 tellimuse tühistamine?
 
 Meil on kahju, et lahkute!
   
-Organisatsiooni andmete põhjal, usume, et praegune tellimusi on vähem kui 25 istekohta. Online tellimuse tühistamiseks minge **arved** \> [tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054) lehekülg ja valige **Veel toiminguid** \> **loobumine**.
+Organisatsiooni andmete põhjal, usume, et praegune tellimusi on vähem kui 25 istekohta. Online tellimuse tühistamiseks minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele. Valige jaotises **sätted & meetmete** **loobumine**.
   
-Tellimuse tühistamine või sammhaaval, vaadake käesoleva artikli: [tellimuse tühistada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Te kasutate vana halduskeskus Vana sammude või Lisateavet vt [tellimuse tühistada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

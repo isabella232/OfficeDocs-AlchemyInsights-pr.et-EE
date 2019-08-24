@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840511"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620719"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Hooldus sõnumi kui üritatakse kasutada OneDrive'i või SharePointi kirjutuskaitstud
 
-Kasutajatele võidakse kuvada teade, **Registripidamise kirjutuskaitstud** , kui üritatakse kasutada OneDrive'i või SharePointi.  Sellisel juhul kontrollida, kas aktiivne hooldus toimub teie rentniku [sõnumikeskuse](https://portal.office.com/adminportal/home#/MessageCenter)kaudu. Samuti veenduge, et kontrollida kontrollida kõiki teateid/intsidente, mis võib aset [Teenuste seisundi](https://portal.office.com/adminportal/home#/servicehealth) armatuurlaud.
+Kasutajatele võidakse kuvada teade, **Registripidamise kirjutuskaitstud** , kui üritatakse kasutada OneDrive'i või SharePointi ühel järgmistest juhtudest. 
 
-Kui keskus ja teenuseid tervise ei armatuurlaua märkinud midagi jooksvaks hoolduseks oma üürnikule, võib see olla brauseri caching küsimus.
+-   Plaanitud või aktiivne hooldus tegevus.  Neid [Sõnumikeskuse](https://portal.office.com/adminportal/home#/messagecenter)kaudu otsima.
+-   Eelisõigus, tegevteenistuses vahejuhtumist, mis oleks toimunud. Teated/juhtumite kaudu [Teenuseid tervise](https://portal.office.com/adminportal/home#/servicehealth)kontrolli.
+-   Kerge automaatne probleemilahendus taastamise stsenaarium, mis võib juhtuda ootamatuid olukordi tõttu servereid, mis võib kesta vähem kui 30 min või nii. 
+    
+    Ei ole keskus või teenuseid tervise konteerib nende väikeste kirjendamiseks, kuid tuleb peagi tagasi normaalseks.
+
+Väga vähestel juhtudel jälgisime ühel eespool loetletud kolme juhtudest on põhjuseks ja teenus on taastatud, et kasutajad brauseri vahemälu ei ole kummutatud.
 
 Proovige enne saidil navigeerimise brauseri vahemälu tühjendamine.
 
