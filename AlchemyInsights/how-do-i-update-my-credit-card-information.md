@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388992"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575338"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Kuidas krediitkaardiandmeid värskendada?
 
-1. Minge halduskeskuses lehele **Arveldamine** \> [Tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Minge Microsoft 365 halduskeskuses lehele **Arveldamine** \> [Makseviisid](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Valige tellimus, mille ostsite värskendamist vajava krediitkaardi või pangakontoga. Seejärel valige **Värskenda makseteavet**.
+2. Valige lehel **Makseviisid** värskendamiseks krediitkaart või pangakonto.
 
-3. Klõpsake jaotises **Makseviisi lisamine või valimine** ripploendi kõrval olevat noolt, seejärel valige loendist krediitkaart või pangakonto, mida soovite värskendada, ja klõpsake siis nuppu **Redigeeri üksikasju**.
+3. Krediitkaardi või pangakonto andmete muutmiseks valige **Muuda makse üksikasju**.
 
-4. Värskendage oma krediitkaardi või pangakonto teavet (nime krediitkaardil või pangakontol, arveaadressi, telefoninumbrit või aegumiskuupäeva) vastavalt vajadusele. Seejärel valige **Edasta**.
+> [!NOTE]
+> Kui tellimuse ostis mõni teine administraator, ei saa teie selle tellimusega seotud krediitkaardi ega pangakonto andmeid muuta. Kui krediitkaart on aegumas ja teine administraator ei saa teavet värskendada, võite teenusekatkestuste vältimiseks tellimusse lisada mõne muu krediitkaardi või uue pangakonto andmed.
 
-5. Peaksite nägema kinnitusteadet.
+4. Vajaduse korral värskendage krediitkaardi- või pangakontoteavet (krediitkaardil või pangakontol olevat nime, arveaadressi, telefoninumbrit või aegumiskuupäeva) ja seejärel valige **Salvesta** > **Valmis**.
 
-Lisateavet leiate artiklist [Krediitkaartide ja pangakontodega seotud tõrkeotsing](https://docs.microsoft.com/et-EE/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
-
-Kas kasutate uut halduskeskust? Uute sammude nägemiseks vaadake artiklit [Krediitkaardi või pangakonto lisamine, värskendamine või eemaldamine Office 365 ettevõtteversioonis](https://docs.microsoft.com/et-EE/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Kas kasutate ikka veel vana halduskeskust? Vanade sammude nägemiseks või lisateabe saamiseks vaadake artiklit [Krediitkaardi või pangakonto lisamine, värskendamine või eemaldamine Office 365 ettevõtteversioonis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

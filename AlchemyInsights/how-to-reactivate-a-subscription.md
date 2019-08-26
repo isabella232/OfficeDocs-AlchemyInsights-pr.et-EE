@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390832"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574758"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Tellimuse uuesti aktiveerimine
 
 Kui teie tellimus on aegunud või Microsofti poolt tühistatud või keelatud, saate selle Microsoft 365 halduskeskuses uuesti aktiveerida.
   
-1. Minge halduskeskuses lehele **Arveldamine** \> [Tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Minge halduskeskuses lehele **Arveldamine** \> [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Valige tellimus, mille soovite uuesti aktiveerida.
+2. Leidke tellimus, mille soovite uuesti aktiveerida. Valige jaotises **Arveldamine** suvand **Aktiveeri uuesti**.
 
-3. Valige paremal nupp **Aktiveeri uuesti**.
+    Kui te ei näe toimingut **Aktiveeri uuesti** saadaolevana, helistage tellimuse uuesti aktiveerimiseks tugiteenuse töötajale.
 
-4. Teil palutakse värskendada makse üksikasju. Kui kõik andmed on õiged, valige **Edasta**.
+3. Kinnitage maksete üksikasjad. Siin saate värskendada olemasolevat makseteavet. Kui olete makseviisi sisestamise lõpetanud, valige suvand **Aktiveeri uuesti**.
 
-5. Ekraani allservas kuvatakse kinnitus. Lehele **Tellimused** naasmiseks valige nupp **Sule**.
-
-6. Kui tellimus ei näi mõne minuti pärast olevat aktiivne, värskendage lehte.
-
-Lisateavet leiate artiklist [Office 365 ettevõtteversiooni uuendamine](https://docs.microsoft.com/et-EE/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Kas kasutate vana halduskeskust? Vanade sammude nägemiseks või lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
