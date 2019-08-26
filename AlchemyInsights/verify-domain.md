@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423099"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506169"
 ---
 # <a name="trying-to-verify-your-domain"></a>Kas soovite domeeni kinnitada?
 
-Kinnitamaks, et domeen kuulub teile, peate oma domeenregistripidaja juures lisama TXT-kirje. Valige domeeni lisamise viisardis **Sätted** \> **Domeen** ja seejärel **Lisa domeen**. 
+Kinnitamaks, et domeen kuulub teile, peate oma domeenregistripidaja juures lisama TXT-kirje. Järgige Microsofti 365 halduskeskuses viisardit Uus domeen, avades **Häälestamine** \> **Domeenid** ja seejärel **Lisa domeen**. 
   
 Domeeni kinnitamise jaoks TXT-kirje lisamiseks täitke allpool olevas artiklis toodud juhised. Domeeni kohta käivate täpsemate juhiste lugemiseks valige oma domeeni registripidaja.
   
