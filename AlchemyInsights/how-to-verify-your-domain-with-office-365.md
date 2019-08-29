@@ -2,7 +2,6 @@
 title: Kuidas kontrollida oma domeeni Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 1/14/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f849711544e5afdaedb16db55bb087db4175c44e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539529"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664064"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="d0545-102">Kuidas kontrollida oma domeeni Office 365</span><span class="sxs-lookup"><span data-stu-id="d0545-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="a2962-102">Kuidas kontrollida oma domeeni Office 365</span><span class="sxs-lookup"><span data-stu-id="a2962-102">How to verify your domain with Office 365</span></span>
 
-<span data-ttu-id="d0545-103">Sa pead lisada TXT-kirje domeeni omandiõiguse kinnitamiseks domeeni registripidaja.</span><span class="sxs-lookup"><span data-stu-id="d0545-103">You will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="d0545-104">Esiteks järgige [Lisa domeen viisard](https://portal.office.com/adminportal/home#/Domains) klõpsates **sätted** \> **domeeni**ja seejärel **Lisada domeeni**.</span><span class="sxs-lookup"><span data-stu-id="d0545-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
+<span data-ttu-id="a2962-103">Veendumaks, et teie domeeni, on vaja lisada TXT-kirje domeeni omandiõiguse kinnitamiseks oma domeeniregistraatori.</span><span class="sxs-lookup"><span data-stu-id="a2962-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="a2962-104">Esiteks järgige [Lisa domeen viisard](https://portal.office.com/adminportal/home#/Domains) **seadistused** \> **Domaisn**, ja seejärel **Lisa domeeni**.</span><span class="sxs-lookup"><span data-stu-id="a2962-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domaisn**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="d0545-105">Järgige juhiseid [mis tahes Office 365 DNS-hostingupakkuja juures luua DNS-kirjeid](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) lisada TXT-kirje domeeni kontrollimiseks.</span><span class="sxs-lookup"><span data-stu-id="d0545-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="a2962-105">Järgige juhiseid [mis tahes Office 365 DNS-hostingupakkuja juures luua DNS-kirjeid](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) lisada TXT-kirje domeeni kontrollimiseks.</span><span class="sxs-lookup"><span data-stu-id="a2962-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
   

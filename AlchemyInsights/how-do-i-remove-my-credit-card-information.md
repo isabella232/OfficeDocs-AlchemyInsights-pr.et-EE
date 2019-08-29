@@ -1,5 +1,5 @@
 ---
-title: Kuidas eemaldada oma krediitkaardi andmed?
+title: Kuidas oma krediitkaardi teavet eemaldada?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: dbcaf1a838bd29105e5a4643735d82b8a63f35d1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575374"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664424"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="2f20d-102">Kuidas eemaldada oma krediitkaardi andmed?</span><span class="sxs-lookup"><span data-stu-id="2f20d-102">How do I remove my credit card information?</span></span>
+# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="2c71e-102">Kuidas oma krediitkaardi teavet eemaldada?</span><span class="sxs-lookup"><span data-stu-id="2c71e-102">How do I remove my credit card information?</span></span>
 
-1. <span data-ttu-id="2f20d-103">Microsoft 365 administreerimiskeskuses, minge **arved** \> [makseviiside](https://go.microsoft.com/fwlink/p/?linkid=2018806) lehele.</span><span class="sxs-lookup"><span data-stu-id="2f20d-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="2c71e-103">Microsoft 365 halduskeskus, minge lehele **arvelduse** \> [makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806) .</span><span class="sxs-lookup"><span data-stu-id="2c71e-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="2f20d-104">Lehel **makseviisid** valida krediitkaardi või pangakonto kustutada.</span><span class="sxs-lookup"><span data-stu-id="2f20d-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
+2. <span data-ttu-id="2c71e-104">Valige lehel **makseviisid** kustutatav krediitkaart või pangakonto.</span><span class="sxs-lookup"><span data-stu-id="2c71e-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
 
-3. <span data-ttu-id="2f20d-105">Krediitkaart või pangakonto eemaldamiseks valige **makseviis kustutada.**</span><span class="sxs-lookup"><span data-stu-id="2f20d-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
+3. <span data-ttu-id="2c71e-105">Krediitkaardi või pangakonto eemaldamiseks valige käsk **Kustuta makseviis.**</span><span class="sxs-lookup"><span data-stu-id="2c71e-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="2f20d-106">Ei saa eemaldada kui seda kasutada tellimuse eest maksma krediitkaardi või pangakonto.</span><span class="sxs-lookup"><span data-stu-id="2f20d-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
+> <span data-ttu-id="2c71e-106">Krediitkaarti või pangakontot ei saa eemaldada, kui seda kasutatakse hetkel kordustellimuse eest tasumiseks.</span><span class="sxs-lookup"><span data-stu-id="2c71e-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
 
-4. <span data-ttu-id="2f20d-107">**Makseviis kustutada** , valige **Kustuta**.</span><span class="sxs-lookup"><span data-stu-id="2f20d-107">In the **Delete payment method** pane, select **Delete**.</span></span>
+4. <span data-ttu-id="2c71e-107">Tehke paanil **Kustuta makseviis** valik **Kustuta**.</span><span class="sxs-lookup"><span data-stu-id="2c71e-107">In the **Delete payment method** pane, select **Delete**.</span></span>
 
-<span data-ttu-id="2f20d-108">Te kasutate vana halduskeskus</span><span class="sxs-lookup"><span data-stu-id="2f20d-108">Are you using the old admin center?</span></span> <span data-ttu-id="2f20d-109">Vana sammude või rohkem vt [lisamine, värskendamiseks või eemaldamiseks krediitkaart või pangakonto Office 365 ettevõtteversioon](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="2f20d-109">For old steps, or to learn more, see [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="2c71e-108">Lisateabe saamiseks vaadake [Lisa, värskendage või eemaldage krediitkaardi või pangakonto Office 365 äri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="2c71e-108">To learn more, see [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
