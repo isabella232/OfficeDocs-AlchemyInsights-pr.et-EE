@@ -1,9 +1,8 @@
 ---
-title: OneDrive'i salvestusruumi
+title: OneDrive ' i salvestusruum
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,18 +14,18 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 873d610ad4ee8e393eb521972dd335cc26ab4ad0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378197"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661040"
 ---
-# <a name="manage-your-onedrive-storage"></a>Halda OneDrive'i salvestusruumi
+# <a name="manage-your-onedrive-storage"></a>OneDrive ' i salvestusruumi haldamine
 
-Muuta uute ja olemasolevate kasutajate OneDrive vaikimisi ladustamine:
+Uute ja olemasolevate OneDrive ' i kasutajate vaikemäluruumi muutmiseks toimige järgmiselt.
   
-- [Ladustamise lehel OneDrive admin](https://admin.onedrive.com/?v=StorageSettings)ja sisestage uue summa GB.
+- Minge [OneDrive ' i halduskeskus Storage lehele](https://admin.onedrive.com/?v=StorageSettings)ja sisestage uus summa GB.
 
-See ladustamise ruumi säte rakendub kõigile kasutajatele, kelle jaoks te pole määranud konkreetse salvestuspiirangute. Ruum spetsiifilistele muutmiseks peate kasutama Microsoft PowerShelli. Selle kohta leiate teavet teemast [kasutajate OneDrive salvestusruumi PowerShelli abil muuta](https://go.microsoft.com/fwlink/?linkid=866402). Kontrollida, kui palju salvestusruumi te kasutate oma OneDriveis leiate teemast [Halda oma OneDrive for Businessi salvestusruumiga](https://go.microsoft.com/fwlink/?linkid=866429). Salvestusruum, mis eraldatakse iga pakett kohta leiate teemast [OneDrive for Business teenuse kirjeldus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+See mäluruumi säte kehtib kõigile kasutajatele, kellele te pole kindlaid salvestuspiiranguid seadnud. Teatud kasutajate talletusruumi muutmiseks peate kasutama Microsoft PowerShelli. Lisateavet selle kohta, kuidas seda teha, vaadake [muuta oma kasutajate OneDrive ' i salvestusruumi PowerShelli abil](https://go.microsoft.com/fwlink/?linkid=866402). Et kontrollida, kui palju salvestusruumi te oma OneDrive ' is kasutate, vaadake teemat [OneDrive for Business Storage haldamine](https://go.microsoft.com/fwlink/?linkid=866429). Teavet iga plaaniga kaasas oleva salvestusruumi kohta leiate teemast [OneDrive for Business Service kirjeldus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   

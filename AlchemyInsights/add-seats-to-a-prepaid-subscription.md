@@ -1,5 +1,5 @@
 ---
-title: Ettemakstud tellimus istmed lisamine
+title: Istmete lisamine ettemakstud tellimusele
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,28 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495027"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660968"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Ettemakstud tellimus istmed lisamine
+# <a name="add-seats-to-a-prepaid-subscription"></a>Istmete lisamine ettemakstud tellimusele
 
-Ettemakstud Office 365 Litsentsid väljastatakse teile 25-kohaline tähtnumbriline kood. Pärast on vaja litsentsi olete ostnud, saate need lisada oma tellimus. 
+Ettemakstud Office 365 Litsentsid väljastatakse teile 25-kohaline tähtnumbriline kood. Kui olete vajalikud litsentsid ostnud, saate need oma tellimusele lisada. 
 
-1. Administreerimiskeskuses, minge **arved** > [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Minge administreerimiskeskuses lehele **** > [arveldustooted _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Valige tellimus, millele soovite lisada litsentse. Valige **Veel toiminguid** loendist ja valige **Renew või lisada litsents loaga**.
+2. Leidke tellimus, millele soovite litsentse lisada. Valige jaotises **litsentsid** suvand **Lisa litsentsid**.
 
-3. Kohta ning **Renew või lisada kasutajalitsentside** lehekülg, valige **Kasuta uus ja kasutamata tootenumber**ja seejärel valige **Järgmine**.
+3. Valige paani **Lisa rohkem litsentse** **abil uus ja kasutamata tootenumber**ning seejärel valige **edasi**.
 
-4. Sisestage tootenumber ja seejärel valige **Järgmine**.
+4. Sisestage tootenumber ja seejärel valige **edasi**.
 
     > [!NOTE]
-    > Kui teil on rohkem kui üks tootevõti, saate **lisada mõnda muud tootenumbrit** viibima.
+    > Kui teil on rohkem kui üks tootenumber, saate nende sisestamiseks valida **mõne muu tootenumbri lisamise** .
 
-5. Valige tellimus kasutajaid lisada, siis valige **Järgmine**.
+5. Vaadake Tellimuse üksikasjad üle ja valige siis **lunastamine**.
 
-6. Vaadake oma tellimuse üksikasjad ja valige **Lunasta**.
-
-Lisateabe saamiseks vt [Lisa litsentse või pikendada tellimuse eest tootevõtmega](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Lisateavet leiate jaotisest [litsentside lisamine tootenumbri abil tasutud Kordustellimusele või selle laiendamine](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

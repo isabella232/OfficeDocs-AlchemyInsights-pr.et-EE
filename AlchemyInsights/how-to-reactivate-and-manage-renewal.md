@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574538"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663956"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Uuesti aktiveerida ja korduvate arvete haldamine
 
@@ -32,7 +32,7 @@ Paistab, et teil on tellimus, mis on lõppenud. Kui soovite uuesti aktiveerida s
 
 3. Kinnitage oma makseandmed. Saate värskendada oma olemasoleva makseteabe siin. Kui olete valmis makseviisi küsitakse, valige **uuesti**.
 
-Te kasutate vana halduskeskus Vana samme või rohkem, Vaata [uuesti aktiveerida oma tellimust](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Lisateabe saamiseks vaadake [uuesti aktiveerida oma tellimust](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Hallata iga kuu või iga aasta arved te saate lülitada **korduv arved** sisse või välja.
   
@@ -46,4 +46,4 @@ Hallata iga kuu või iga aasta arved te saate lülitada **korduv arved** sisse v
 
 5. Valige **Edasta muuta**.
 
-Te kasutate vana halduskeskus Vana sammude või Lisateavet on artiklis [makse perioodi kaupa sisse või välja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Lisateabe saamiseks vaadake teemasid [makse perioodi kaupa sisse või välja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

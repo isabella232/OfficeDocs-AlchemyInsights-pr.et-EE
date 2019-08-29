@@ -1,5 +1,5 @@
 ---
-title: Kuidas eemaldada oma krediitkaardi andmed?
+title: Kuidas oma krediitkaardi teavet eemaldada?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: dbcaf1a838bd29105e5a4643735d82b8a63f35d1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575374"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664424"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a>Kuidas eemaldada oma krediitkaardi andmed?
+# <a name="how-do-i-remove-my-credit-card-information"></a>Kuidas oma krediitkaardi teavet eemaldada?
 
-1. Microsoft 365 administreerimiskeskuses, minge **arved** \> [makseviiside](https://go.microsoft.com/fwlink/p/?linkid=2018806) lehele.
+1. Microsoft 365 halduskeskus, minge lehele **arvelduse** \> [makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
 
-2. Lehel **makseviisid** valida krediitkaardi või pangakonto kustutada.
+2. Valige lehel **makseviisid** kustutatav krediitkaart või pangakonto.
 
-3. Krediitkaart või pangakonto eemaldamiseks valige **makseviis kustutada.**
+3. Krediitkaardi või pangakonto eemaldamiseks valige käsk **Kustuta makseviis.**
 
 > [!NOTE]
-> Ei saa eemaldada kui seda kasutada tellimuse eest maksma krediitkaardi või pangakonto.
+> Krediitkaarti või pangakontot ei saa eemaldada, kui seda kasutatakse hetkel kordustellimuse eest tasumiseks.
 
-4. **Makseviis kustutada** , valige **Kustuta**.
+4. Tehke paanil **Kustuta makseviis** valik **Kustuta**.
 
-Te kasutate vana halduskeskus Vana sammude või rohkem vt [lisamine, värskendamiseks või eemaldamiseks krediitkaart või pangakonto Office 365 ettevõtteversioon](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Lisateabe saamiseks vaadake [Lisa, värskendage või eemaldage krediitkaardi või pangakonto Office 365 äri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
