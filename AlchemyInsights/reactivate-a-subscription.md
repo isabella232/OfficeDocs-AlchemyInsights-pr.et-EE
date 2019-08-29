@@ -1,9 +1,8 @@
 ---
-title: Uuesti tellimus
+title: Kordustellimuse uuesti aktiveerimine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +12,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553356"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666584"
 ---
-# <a name="reactivate-an-office-365-subscription"></a>Uuesti aktiveerida Office 365 tellimus
+# <a name="reactivate-an-office-365-subscription"></a>Office 365 tellimuse uuesti aktiveerimine
 
-Kui tellimus aegub, Microsoft, keelatud või abonemendi kestuse keset loobusite, saate aktiveerida seda administreerimiskeskuses.
+Kui teie tellimus aegub, blokeeriti Microsoft või tühistate selle tellimuse tähtaja keskel, saate selle administreerimiskeskuses uuesti aktiveerida.
   
-1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Minge administreerimiskeskuses lehele **** \> [arveldustooted _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Valige tellimus, mida soovite aktiveerida. Arveldamine jaotises Valige **uuesti aktiveerida**.
+2. Valige tellimus, mida soovite uuesti aktiveerida. Valige jaotises arveldamine käsk **Aktiveeri uuesti**.
 
-    Kui te ei näe **uuesti** saadaval kaebuse, [kõne toetada](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) uuesti aktiveerida oma tellimust.
+    Kui te ei näe **Taasaktiveeri** saadaval toiming, [helistage tugiteenuse](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) uuesti aktiveerida oma tellimust.
 
-3. Kinnitage oma makseandmed. Saate värskendada oma olemasoleva makseteabe siin. Kui olete valmis makseviisi küsitakse, valige **uuesti**.
+3. Kinnitage makse üksikasjad. Siin saate olemasolevat makseteavet uuendada. Kui olete makseviisiks sisestamise lõpetanud, valige käsk **Aktiveeri uuesti**.
 
-Lisateabe saamiseks vaadake [uuesti aktiveerida oma tellimust](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Lisateavet leiate jaotisest [Kordustellimuse](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)aktiveerimine.

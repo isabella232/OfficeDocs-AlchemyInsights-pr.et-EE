@@ -13,12 +13,12 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553572"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666656"
 ---
 # <a name="questions-about-your-office-365-license"></a>Teie Office 365 litsentsi küsimused
 
@@ -26,6 +26,6 @@ Kui soovite teada, mitu litsentsi olete ostnud või mitu litsentsi määratakse 
   
 1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
 
-2. Soovite rohkem teada tellimuse nime all näete te maksate litsentsid ja saadaolev määramiseks.
+2. Valige tellimus, mida soovite rohkem teada. Näete te maksate litsentsid ja saadaolev määramiseks.
 
 Kui soovite lisada rohkem litsentse või kui teil on liiga palju, valida soovitud ostetud **litsentside lisamine või eemaldamine** .
