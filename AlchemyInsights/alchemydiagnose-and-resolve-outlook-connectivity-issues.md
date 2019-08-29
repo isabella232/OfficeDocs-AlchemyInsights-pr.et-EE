@@ -1,5 +1,5 @@
 ---
-title: Alkeemia - Outlook võrguühenduse probleemide diagnoosimiseks ja lahendamiseks
+title: Alchemy-diagnoosida ja lahendada Outlooki ühenduvusprobleemid
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: 1072e12a74f708007cf9b89c989a9cc96510c2b9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c1ea5e6b457b0ea7ee4656ee6e4b4ff2f77e2cb9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505456"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664604"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Outlooki võrguühenduse probleemide diagnoosimiseks ja lahendamiseks
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnoosida ja lahendada Outlooki ühenduvusprobleemid
 
-Diagnoosida ja lahendada teie probleeme Outlook, et käivitada [Outlook ühenduse tööriistaga](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) mõjutatud masin.
+Diagnoosida ja parandada oma Outlooki ühenduvusprobleemid, saate käivitada [Outlooki ühenduvuse tööriista](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) mõjutatud arvutis.
   
-Tööriista teostab diagnostiliste kontrollimiste ja soovitada võimalikke lahendusi rääkida Outlooki võrguühenduse probleemi.
+See tööriist teeb diagnostilisi kontrolle ja soovitab lahendusi Outlooki ühenduvuse probleemi lahendamiseks.
   

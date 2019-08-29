@@ -3,7 +3,6 @@ title: SharePoint Online'i ühised probleemid ja lahendused
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/07/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: e6b21d4d457cacf1666a74751d285cf09a8833ea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e4a26308a371ef66e8a655cce282210df6f0247
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508363"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666080"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online'i ühised probleemid ja lahendused
 
-Tundub, et te küsite umbes SharePoint. Aitame Täpsem vastus kui te lühidalt Sõnastage küsimus ühe või kahe lausetega, mis kirjeldavad probleemi - sealhulgas vead, teie poolt kasutatud funktsioonide jne ümber... 
-
-Vahepeal siin on mõned sageli nõutud Teemad:
-
-
-
-
+Siin on mõned sageli nõutud teemad SharePoint Online küsimused:
 
 - **Õigused**: [ehitada õiguste strateegia](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ning [Mõista õigusetasemed](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 

@@ -3,7 +3,6 @@ title: 611 kalendri ühiskasutus
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 460e5b10f600dba22d82026c873651d09e188546
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1739621bedc408cfd13da7b194964f8441d6b245
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518395"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665576"
 ---
-# <a name="calendar-sharing"></a>Kalendri ühiskasutus
+# <a name="calendar-sharing-in-outlook"></a>Kalendri ühiskasutus Outlookis
 
-Lisateabe saamiseks vaadake järgmisi teemasid.
+Outlooki kalendri ühiskasutuse kohta teabe saamiseks lugege järgmisi artikleid:
   
 - [Outlooki kalendri ühiskasutus](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-- [Jaga oma kalendrit Outlook Web äri](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Jagage oma kalendrit Outlookis veebis äritegevusele](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

@@ -3,7 +3,6 @@ title: Office 365 tellimuse tühistamine?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54872bd5f3053e2ac72552feac122343e5afe54e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519665"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665432"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 tellimuse tühistamine?
 
-Meil on kahju, et lahkute, kuid teie valikud tühistada tellimus:
+Meil on kahju, et lahkute, kuid kui soovite tellimuse tühistada, järgmised valikud:
   
 - Kui sa oled uuringu klient, ei ole midagi üles öelda. Uuringute tellimine lõpeb automaatselt kui te makseviisi.
 
-- Kui teil on vähem kui 25 määratud litsentse, saab online tellimuse tühistada. Mine **arved** \> [tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054) lehekülg ja valige **Veel toiminguid** \> **loobumine**.
+- Kui teil on vähem kui 25 määratud litsentse, saab online tellimuse tühistada. Mine **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele. Valige jaotises **sätted & meetmete** **loobumine**.
 
 - Kui teil on rohkem kui 25 määratud litsentse, te võite eemaldada kasutajaid enne, on vähem kui 25 või pidage nõu tehnikuga "anna meile helistada" suvandi abil.
 
-- Rohkem teada tellimuse tühistamise korral või üksikasjalikud juhised leiate jaotisest [tellimuse tühistada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Lisateabe saamiseks vaadake [oma tellimuse tühistada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

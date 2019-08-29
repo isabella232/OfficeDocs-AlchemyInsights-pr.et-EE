@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575584"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665036"
 ---
 # <a name="expired-subscription"></a>Aegunud tellimust
 
@@ -34,7 +34,7 @@ Kui te ei näe **uuesti** saadaval kaebuse, ühendust toega uuesti aktiveerida o
 
 3. Kinnitage oma makseandmed. Saate värskendada oma olemasoleva makseteabe siin. Kui olete lõpetanud, sisestage makseviisi, valida **uuesti aktiveerida**.
 
-Te kasutate vana halduskeskus Vana samme või rohkem, Vaata [uuesti aktiveerida oma tellimust](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Lisateabe saamiseks vaadake [uuesti aktiveerida oma tellimust](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Uue ostu**
   
@@ -46,4 +46,4 @@ Te kasutate vana halduskeskus Vana samme või rohkem, Vaata [uuesti aktiveerida 
 
 4. Järgige ülejäänud samme, et lõpetada vaadata läbi.
 
-Te kasutate vana halduskeskus Vana sammude või rohkem vt [teise tellimuse](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Lisateabe saamiseks vt [teise tellimuse](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

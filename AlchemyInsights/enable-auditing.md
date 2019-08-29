@@ -3,7 +3,6 @@ title: Luba ja Otsi auditilogi
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,36 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527719"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665072"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Võimaldada ja otsida auditilogis
+# <a name="enable-and-search-the-audit-log"></a>Auditilogi lubamine ja otsimine
 
-Auditilogi Office 365 otsimiseks toimige [järgmiselt](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+**Office 365**
 
-**Vahetus**
+Office 365 auditilogi otsimiseks toimige [järgmiselt](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-- Exchange'i admin tegevust auditeeritakse vaikimisi.
+**Vahetada**
 
-- Oleme protsessi, mis võimaldab postkasti auditeerimise vaikimisi Office 365. Kuni selle ajani, et auditeerimise postkasti või kõigi postkastide organisatsioonis, leiate [sellest artiklist](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Exchange ' i administraatori tegevust auditeeritakse vaikimisi.
 
-- Office 365 rühma postkastid ja ühiskausta Exchange Online'i postkasti ei toeta auditilogi.
+- Postkasti auditeerimine on lubatud vaikimisi Office 365. Lisateabe saamiseks lugege [käesoleva artikli](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-**SharePointis või OneDrive**
+- Office 365 rühma postkastid ja ühiskausta postkastid Exchange Online ' i ei toeta auditilogi.
 
-- Ei ole täiendavaid konfiguratsiooni vaja, et auditeerimise SharePointis või OneDrive.
+**SharePoint ja OneDrive**
 
-- SharePointis või OneDrive toetada järgmiste tegevuste kontrollimine:
+- SharePointi ja OneDrive ' i auditeerimise lubamiseks pole täiendavat konfiguratsiooni vaja.
 
-    - Faili ja kausta lehe tegevuse
-    - Taotluse jagamine ja juurdepääsu tegevuse
-    - Saidi administratsioon tegevuse
-    - Faili sünkroonimise tegevuse
+- SharePointi ja OneDrive ' i tugiteenuste auditeerimine järgmist tüüpi tegevused:
 
-- Auditeeritava tegevuse muude Office 365 teenuste kohta lisateavet [selle artiklit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+    - Faili, kausta ja lehe tegevused
+    - Jagamise ja juurdepääsu taotluse tegevused
+    - Saidihalduse tegevused
+    - Failide sünkroonimise toimingud
 
-- Korduvad küsimused [Korduvad küsimused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) auditilogis otsimise kohta siin.
+- Muude Office 365 teenuste auditeeritud tegevuste kohta teabe saamiseks lugege [käesoleva artikli tabelit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+
+- Siin on korduma kippuvate küsimuste loend [korduma kippuvad küsimused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) auditilogi otsimise kohta.
