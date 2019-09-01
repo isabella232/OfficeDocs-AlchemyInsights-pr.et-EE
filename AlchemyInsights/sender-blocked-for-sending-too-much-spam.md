@@ -3,7 +3,6 @@ title: Saatja on blokeeritud rämpsposti saatmise tõttu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 369fad874a82e2f1938fffb9153e0b66de7aa5f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 05b961cec364bce694a8f39d9de245062bfdb859
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509285"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666332"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Konto on blokeeritud rämpsposti saatmise tõttu
 
-On võimalik, et saatja konto on sattunud ründe ohvriks. Peate tegema järgmist.
+Kui Office 365 konto on blokeeritud liigse rämpsposti saatmise tõttu, on võimalik, et saatja konto on sattunud ründe ohvriks. Peate tegema järgmist.
   
 1. [Tehke kindlaks, kas konto on ohus](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Kui konto on sattunud ründe ohvriks, täitke artiklis [Turberikkega meilikontole reageerimine Office 365-s](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
 
