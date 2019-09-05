@@ -1,6 +1,6 @@
 ---
-title: Väline jagamine Team Site
-ms.author: kirks
+title: Väline ühiskasutus meeskonnatöö saidiga
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525960"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755880"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Väline jagamine Team Site
+# <a name="external-sharing-with-a-team-site"></a>Väline ühiskasutus meeskonnatöö saidiga
 
-Välise kasutaja meeskonnasaitide ühiskasutuse sisselülitamiseks toimige järgmiselt. 
+Meeskonnatöö saitide väliste kasutajate ühiskasutuse sisselülitamiseks toimige järgmiselt. 
   
-1. Klõpsake uue SharePointi administreerimiskeskuses **aktiivne saitidele**.
+1. Klõpsake uue SharePointi administreerimiskeskus **aktiivsed saidid**.
   
-2. Valige sait, mis sisaldab **Meeskonna saidi** malli. 
+2. Valige sait, millel on **meeskonnatöö saidimall** . 
   
-3. Ülalt menüüst valige nuppu **ühiskasutus** . 
+3. Valige ülemise menüü nupp **ühiskasutus** . 
   
- **Märkus**: Vaikimisi seatakse kaasaegse meeskonnatöö veebisaidi loomisel välise jagamise võimalus uus ja olemasolev välised kasutajad. 
+ **Märkus**: vaikimisi, kui kaasaegne meeskonnatöö sait on loodud, väline jagamine suvand seatakse uute ja olemasolevate väliste kasutajate. 
   
- **Märkus:** Kui teil on rohkem kui ühes kohas, mis on valitud, kuvatakse **ühiskasutus** nuppu erivajadustega. Valige ainult üks koht. 
+ **Märkus:** Kui teil on valitud rohkem kui üks sait, siis kuvatakse **ühiskasutuse** nupp keelatud. Valige ainult üks sait. 
   
 

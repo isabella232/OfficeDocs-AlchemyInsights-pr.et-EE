@@ -1,5 +1,5 @@
 ---
-title: Install hangub või saab ummikus
+title: Paigaldamine hangub või saab kinni
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498627"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735421"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Office'i Install hangub või saab ummikus
+# <a name="office-installation-hangs-or-gets-stuck"></a>Office ' i Install hangub või saab kinni
 
-Teie arvutis võib ilmneda selline käitumine võrguühenduse, viirusetõrjetarkvara või Windows Update'i sätted. Siin on mõned asjad, mida võite proovida probleemi lahendada.
+Võite näha seda käitumist võrguühenduse, viirusetõrjetarkvara või Windows Update sätete tõttu teie arvutis. Siin on mõned asjad, mida võite proovida probleemi lahendada.
   
-- Taaskäivitage arvuti ja kontrollige, kas Office installitud
+- Taaskäivitage arvuti ja kontrollige, kas Office on installitud
 
-- Kasutage
+- Juhtmega ühenduse kasutamine
 
-- Kui teil on aeglane internetiühendus, installige Office [abil Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Kui teil on aeglane Interneti-ühendus, installige Office [' i võrguühenduseta Installeri abil](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Viirusetõrjetarkvara ajutine väljalülitamine
+- Viirusetõrje tarkvara ajutiselt väljalülitamine
 
-- Online remont kestab Juhtpaneel
+- Käivita võrguparandus juhtpaneelilt
 
-- Eemaldate ja installite Office'it
+- Office ' i eemaldamine ja uuesti installimine
 
-[Amet võtab kaua aega paigaldada](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Office võtab kaua aega, et installida](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

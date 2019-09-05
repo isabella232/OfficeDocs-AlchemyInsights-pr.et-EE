@@ -1,6 +1,6 @@
 ---
 title: OneDrive ei reageeri
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: e13abc35c04ad692ea72e4d6fd46fbdbc203c2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8a4782bbf12c48e92ac34e40493b53691d82d23
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543201"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753180"
 ---
 # <a name="onedrive-not-responding"></a>OneDrive ei reageeri
 
-Vastloodud kontode kasutajad vajavad Office 365 portaalis oma kontoga sisselogimine ja klõpsake käsitsi käivitamiseks andmine saidil OneDrive OneDrive.
+Vastloodud kontod, kasutajad peavad logige sisse Microsoft 365 halduskeskus oma konto ja klõpsake OneDrive ' i käsitsi käivitamiseks OneDrive saidi.
   
-Kuid kui kasutaja on klõpsanud OneDrive ja oma isikliku saidi pole ette valmistatud 24 tunni jooksul, Palun logige toetust pilet abi saamiseks.
+Kuid kui kasutaja on juba klõpsanud OneDrive ja nende isiklik sait on ettevalmistatud 24 tunni jooksul, Palun logige tugiteenuse pilet edasiseks abiks.
   
 

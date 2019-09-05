@@ -1,6 +1,6 @@
 ---
-title: Välise SharePointi jaoks ühiskasutuse sisse või välja lülitada
-ms.author: kirks
+title: SharePointi jaoks välise ühiskasutuse sisse-või väljalülitamine
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507879"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750912"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Hoiatus: teie asutuse poliitika ei luba teil neid kasutajatega jagada
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Hoiatusteade: teie organisatsiooni poliitikad ei luba teil nende kasutajatega ühiskasutusse anda
 
-Kasutajatele puutuda hoiatusteade kui proovite ühiskasutusse välised kasutajad teie organisatsioonis. Sõnum on **teie asutuse poliitika ei luba teil jagada need kasutajad. Mine välise jagamise Office 365 administreerimiskeskuses, et ta**. See juhtub sageli üritavad jagada ühiskasutamise puhul uue välised kasutajad väliste kasutajate või esimest korda.
+Kasutajad võivad kogeda hoiatusteate, kui püüate jagada oma organisatsiooni väliste kasutajatega. Sõnum on **teie organisatsiooni poliitikad ei võimalda teil jagada nende kasutajatega. Minge välise ühiskasutuse Office 365 halduskeskus lubamiseks**. See juhtub sageli esimest korda, püüdes jagada väliste kasutajatega või ühiskasutuse uute väliste kasutajatega.
 
-Saate oma organisatsiooni **SharePointis või OneDrive välise jagamise seaded** .
+Kontrollige oma organisatsiooni **SharePointi ja OneDrive ' i väliste ühiskasutuse sätteid** .
 
-1. Teie [Microsoft 365 halduskeskus](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), valige **SharePointi**.
-3. Valige näha välise jagamise sätete **ühiskasutus** .
+1. Valige oma [Microsoft 365 administreerimiskeskuses](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)suvand **SharePoint**.
+3. Väliste ühiskasutuse sätete nägemiseks valige **ühiskasutus** .
 
-Saate **välise jagamise seaded** teatavas kohas.
+Kontrollige **välise ühiskasutuse sätteid** konkreetse saidi.
 
-1. Teie [Microsoft 365 halduskeskus](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), valige **SharePointi**.
-2. Valige **aktiivne saitidele** oma saitidele, mis on saadaval.
-3. Valige sait, mida soovite kontrollida, ja seejärel valige **jagamise** nupp, kus kuvatakse menüüriba saidi sätete kontrollimine.
+1. Valige oma [Microsoft 365 administreerimiskeskuses](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)suvand **SharePoint**.
+2. Saadaolevate saitide nägemiseks valige **aktiivsed saidid** .
+3. Valige sait, mida soovite kontrollida, ja seejärel valige **ühiskasutuse** nupp, mis kuvatakse menüüribal, et kontrollida saidi sätteid.
 
-Vaadake lisateavet jaotisest [väline ühiskasutuse ülevaade](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Lisateavet vt teemast [väline ühiskasutuse ülevaade](https://docs.microsoft.com/sharepoint/external-sharing-overview).

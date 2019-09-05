@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online'i kasutamise alustamine
-ms.author: kirks
+title: SharePoint Online ' i alustamine
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503991"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751668"
 ---
-# <a name="workflows-in-sharepoint"></a>SharePointi töövood
+# <a name="workflows-in-sharepoint"></a>Töövoogude SharePointis
 
-Kui SharePointi töövood ei saada kirju, ettevõte on olnud Exchange Online'i saatja piire.
+Kui SharePointi töövoogude saatmine e-kirju, teie organisatsioonis võib tekkida Exchange Online ' i saatja piirangud.
 
-"Töövoog on peatatud" tõrketeade võib ilmneda juhul, kui teil on üks järgmistest:
+"Töövoog on peatatud" tõrketeade võib ilmneda juhul, kui teil on üks järgmistest üksustest:
 
-- Olete töövoo SharePoint Online, mis kasutab SharePoint 2010 või SharePointi 2013 töövoo platvormi tüüp.
+- Teil on töövoo SharePoint Online ' i, mis kasutab SharePoint 2010 või SharePoint 2013 töövoo platvormi tüüp.
 
-- Töövoog on konfigureeritud kohandatud e-kirja saatmiseks üle 200 kasutajatele korraga, üle 10 000 adressaati päevas või üle 30 sõnumites minutis.
+- Töövoog on konfigureeritud saatma kohandatud e-kirja rohkem kui 200 kasutajatele korraga, rohkem kui 10 000 adressaadid päevas või rohkem kui 30 sõnumit minutis.
 
-Kui käivitate töövoo, saadetakse e-kiri ja märkate veateate, sisemine olek kuvatakse Suspended või ei saa adressaadile saata.
+Töövoo käivitamisel e-kirja ei saadeta ja märkate tõrketeate, sisemine olek on seatud peatatud või ei saa saata adressaadile kuvatakse.
 
-Lisateabe saamiseks vaadake [artikli](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US).
+Lisateabe saamiseks lugege järgmist [artiklit](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

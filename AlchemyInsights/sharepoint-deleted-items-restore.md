@@ -12,18 +12,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666116"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744565"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Taasta kustutatud üksused SharePointist
 
 Kui kustutate üksuse või saidi SharePointist, siis seda kohe ei eemaldata. Kustutatud üksused lähevad prügikasti ajaperioodiks. Selle aja jooksul saate kustutatud üksused oma algsesse asukohta taastada. Lisateavet leiate alltoodud linkidest.
 
-- [Üksuste taastamine SharePointi saidi prügikastis](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Üksuste taastamine SharePointi saidi prügikastis](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
 - [Kustutatud failide või kaustade taastamine OneDrive ' is](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -37,8 +37,8 @@ Kui kustutate üksuse või saidi SharePointist, siis seda kohe ei eemaldata. Kus
 
 **Failide taastamise funktsioon**
 
-Kui palju teie OneDrive ' i või SharePointi failidest kustutatakse, kirjutatakse üle, rikutakse või nakatati pahavara kaudu, saate taastada kogu oma OneDrive ' i või SharePointi teegi eelmise kellaaja, kasutades failide taastefunktsiooni.
+Kui palju teie OneDrive ' i või SharePointi failidest kustutatakse, kirjutatakse üle, rikutakse või on pahavara poolt nakatunud, saate taastada kogu oma OneDrive ' i või SharePointi teegi, kasutades failide taastefunktsiooni.
 
 - [OneDrive ' i teegi taastamine](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Dokumenditeegi taastamine](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Dokumenditeegi taastamine](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

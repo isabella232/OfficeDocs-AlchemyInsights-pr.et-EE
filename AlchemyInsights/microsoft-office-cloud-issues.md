@@ -1,6 +1,6 @@
 ---
-title: Admin roll ja määramine
-ms.author: kirks
+title: Administraatori roll ja kuidas määrata
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544556"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754080"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Pilveteenus probleeme?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Probleemid pilve teenusega?
 
-Kui teil on probleeme pilveteenus, saate [teenuseid tervise](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Microsoft 365 administreerimiskeskuses kas see on probleem resolutsioon pooleli enne kõne toetada või veeta aega tõrkeotsing. Võib välja ja väga ajutine ning juba järgi Microsoft, aga seal võib aegumise probleemi identifitseerimine ja postitad, teenuste seisundi armatuurlaud. Palun jätkuvalt edasi värskenduste teenus armatuurlaualt.
+Kui teil on probleeme pilve teenusega, saate kontrollida [teenuse tervise](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Microsoft 365 halduskeskus, et teha kindlaks, kas see on teadaolev probleem resolutsiooni pooleli enne, kui helistate tugiteenuse või kulutada aega tõrkeotsingu. Probleem võib olla väga ajutine ja juba tuvastatud Microsoft, kuid võib aeguda aja jooksul probleemi tuvastamine ja postitamine teenuse tervise armatuurlauale. Jätkamiseks kontrollige teenuse armatuurlauda edasiste värskenduste puhul.
 
-**Teavitamise poliitika**
+**Teatamise poliitika**
 
-Teenuse juhtumi ilmnemisel Microsoft tunnistab, et õigeaegsed, eesmärgipärased ja täpne side on otsustava tähtsusega klientidele. Microsoft teatab Office 365 administraatorid ajakohastatakse üürniku konkreetse [Teenuse armatuurlaud (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Office 365 halduskeskus. Teenuse langeva, pakutakse kohta ühe tunni rütm või erinev rütm on nõutav, märgitakse SHD teatise sisestamisel. Lisateavet leiate teemast [Office 365 teenus tervist kontrollida](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Teenuse juhtumi ilmnemisel tuvastab Microsoft, et õigeaegsed, sihipärased ja täpsed teatised on klientide jaoks kriitilised. Microsoft teatab Office 365 administraatorid, värskendades rentniku kindla [teenuse tervise armatuurlaud (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Office 365 admin portaal. Teenuse intsidentide uuendused on esitatud tunnitasu või, kui on vaja teistsugust kadentsi, see on märgitud SHD side postitamine. Lisateavet leiate teemast [Office 365 Service Health ' i kontrollimine](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

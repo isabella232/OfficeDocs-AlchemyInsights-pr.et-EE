@@ -1,5 +1,5 @@
 ---
-title: Tellimuse O365 Business Essentials seadistamine
+title: O365 Business Essentialsi tellimuse seadistamine
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -8,39 +8,39 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508887"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744709"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Tellimuse O365 Business Essentials seadistamine
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentialsi tellimuse seadistamine
 
-Office 365 kontot luua ja lisada oma domeeni
+Office 365 kontode loomine ja domeeni lisamine
   
-- Selles etapis saate Setup wizard luua Office 365 kasutajatele ja lisada oma domeeni. Viisard võimaldab isikupärastada kõigi kasutaja-ID ja e-posti oma äri, nagu [rob@contoso.com](mailto:rob@contoso.com).
+- Selles etapis kasutada Setup Wizard luua Office 365 kontod oma kasutajatele ja lisada oma domeeni. Viisard võimaldab teil isikupärastada igaühe KASUTAJATUNNUSE ja meili oma ettevõttele, nagu [Rob@contoso.com](mailto:rob@contoso.com).
     
-- Minge [Microsofti 365 halduskeskus](https://login.partner.microsoftonline.cn/).
+- Minge [Microsoft 365 halduskeskus](https://login.partner.microsoftonline.cn/).
     
-- Viisardi käivitamiseks valige **installimine**. Lisateabe saamiseks vt [Lisa kasutajaid ja domeeni teenusekomplekti Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Viisardi käivitamiseks valige käsk **Mine seadistusele**. Lisateabe saamiseks vaadake [domeeni lisamine Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
-Impordi e-posti
+Impordi e-post
   
-- Teisaldada oma olemasolevad meilisõnumid ja kontaktid muu e-posti süsteemi Office 365 postkastiga te näete ühte kohta. Rände võimalusi, [siirdamine meilisõnumid ja kontaktid rakendusse Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Teisaldage oma olemasolev e-posti ja kontaktid teistest e-posti süsteemidest Office 365 postkasti, et saaksite seda kõike ühes kohas näha. Migreerimise suvandite [migreerimine e-posti ja kontaktid Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
-- Ühendust e-posti kontosid
+- E-posti kontode ühendamine
     
-  - Lisaks hallata oma Office 365 Outlook, saate luua muude meilikontode Outlook, liiga, nagu Gmail ja Yahoo konto. Nii saate hallata kõiki oma e-posti ühte kohta. Saate ühendada kuni 5 e-posti kontod Outlook. Vaata lähemalt [Connect meilikontode Outlook Web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Lisaks Office ' i 365 e-posti haldamiseks Outlookis saate teiste meilikontode ühendada ka Outlookiga, näiteks Gmaili ja Yahoo kontodega. See võimaldab teil hallata kõiki oma e-posti ühes kohas. Saate ühendada kuni 5 e-posti konto Outlook. Vaadake [ühendust e-posti kontosid Outlook Web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) rohkem üksikasju. 
     
-Skype'i ärirakenduse installimine
+Installige Skype ' i ärirakendus
   
-- Teie ja teie meeskond, kes saab [alla laadida ja installida Skype ettevõtetele](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) kõigis arvutites, Mac-arvutites, tahvelarvutites ja telefonides. Sul on võimalik oma töökaaslastega võrguolek, vestlused algavad muude Office'i rakenduste ja vastuvõtva kohtuda kuni 250 inimest. 
+- Teie ja teie meeskonnaliikmed saavad [Skype ' i ärirakenduse alla laadida ja installida](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) kõigis teie arvutites, Mac-arvutites ja telefonides. Siis on teil võimalik näha oma kaastöötajate võrguolekut, alustada teiste Office ' i rakenduste vestlusi ja majutada videokoosolekuid kuni 250 inimesega. 
     
-Faile veebis talletada
+Talleta failid veebis
   
-- Mis ladustamise asukohad on parim teie äri, vaadake [kuhu salvestate faile Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Igaüks saab **OneDrive** pilve ladustamise kohta automaatselt, kui loote neile Office 365 kontot. OneDriveiga pääsete failid arvutisse, telefonid ja tabletid. 
+- Et teada saada, millised talletuskohad on teie ettevõtte jaoks parimad, vaadake, [kus saate talletada faile Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Igaüks saab **OneDrive** ' i pilve ladustamise asukoht automaatselt, kui loote Office 365 kontod. OneDrive ' iga pääsete failidele ligi oma arvutite, telefonide ja tahvelarvutite vahel. 
     
-[Käesolevas](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)artiklis leiate täpsed juhised seadistamiseks.
+Üksikasjalikke juhiseid seadistamise kohta leiate [käesolevast artiklist](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

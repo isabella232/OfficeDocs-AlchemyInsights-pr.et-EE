@@ -1,6 +1,6 @@
 ---
-title: S/MIME Outlook Web
-ms.author: kirks
+title: S/MIME Outlookis veebis
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6915470655b85922f6f97e8ca6fac353224b1ae0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666836"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752856"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>Krüpteerida e-kirju Outlook
+# <a name="encrypt-email-messages-in-outlook"></a>E-kirjade krüptimine Outlookis
 
-Office 365 sõnumite krüptimiseks põhineb Microsoft Azure Rights Management (Azure RMS), mis on osa Azure'i kaitse. Kui teie tellimus hõlmab Azure Rights Management või Azure kaitse, **võite jätta võtma mis tahes meetmeid käsitsi lubamiseks või aktiveerida** õiguste haldamise teenust.
+Office 365 sõnumi krüptimine on loodud Microsoft Azure Rights Management (Azure RMS), mis on osa Azure ' i teabekaitse. Kui teie tellimus sisaldab Azure ' i õiguste haldust või Azure ' i Teabekaitset, ei ole õiguste halduse teenuse **käsitsi lubamiseks või aktiveerimiseks vaja toiminguid** teha.
 
-Klientide tagasiside põhjal me enam võimaldada voolu vahetusreegleid meili krüptimiseks automaatselt väljamineva e-posti, mis sisaldab teatud tüüpi tundlikku teavet teie rentniku vaikimisi. Selle asemel pakume üksikasjalikud juhised kuidas saate teha seda ise. Transpordireegli krüptida tundliku teabe loomise kohta lisateabe saamiseks vaadake [seda](https://aka.ms/OmeEtr).
+Kliendi tagasiside põhjal ei saa me enam lubada Exchange ' i meilivoolu reegleid automaatselt krüptida Väljamineva meili, mis sisaldab teatud tüüpi tundlikku teavet teie rentnikus vaikimisi. Selle asemel pakume üksikasjalikke juhiseid selle kohta, kuidas te saate seda ise teha. Lisateabe saamiseks selle kohta, kuidas luua transpordireegel tundliku teabe krüptimiseks, lugege [seda artiklit](https://aka.ms/OmeEtr).
 
-- Kui programmi Outlook Web (formerly **OWA**): e-kirja koostamisel klõpsa **kaitse** OWA. See kehtib luba "Ei saada edasi". Valige **Krüpti** ainult sõnumi krüptimiseks klõpsake **Muuda õigusi** .
+- Kui kasutate Outlook Web (endine **OWA**): koostamisel e-kirja, klõpsake lihtsalt **kaitsta** OWA. See kehtib "ära Edasta" luba. Klõpsake nuppu **Muuda luba** ja valige **Krüpti** ainult sõnumi krüptimiseks.
 
-- Kui te kasutate **Outlooki klient**: **saata krüptitud sõnumit Outlooki 2013 või 2016 või Outlook 2016 for Mac, valige** > **õigused**, siis valige soovitud kaitse variandi.
+- Kui kasutate **Outlooki kliendi**: krüptitud sõnumi saatmiseks Outlook 2013 või 2016 või Outlook 2016 for Mac, valige **Suvandid** > **permissions**, seejärel valige kaitse valik, mida vajate.
 
-- **Krüptitakse automaatselt kõik kirjad** saadetakse teatud adressaatide või väliste organisatsioonidega, peate looma Transpordireegli posti voolu Exchange'i administraatori Center. Üksikasjalikud juhised on esitatud [tugiartiklit](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- **Automaatselt krüptida kõik saadetud e-posti** teatud adressaatidele või väliste partnerite organisatsioonidele, peate looma voog transpordi reegel Exchange ' i halduskeskus. Üksikasjalikud juhised on antud [tugiteenuste artiklis](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

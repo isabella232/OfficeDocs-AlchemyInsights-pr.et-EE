@@ -1,5 +1,5 @@
 ---
-title: Vastendatud draivi lahti ühendada
+title: Vastendatud draiv on katkestatud
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 552b5a523a55d67c8ba5f902581f8a625410e9d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 16346f2f8edee6a4386f6f324424a86bc5d92b4a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496827"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734845"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>SharePointi teekides vastendatud võrgudraivi lahti
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Võrgudraividele vastendatud SharePointi teegid katkestatakse
 
-Kaardistamine SharePointi dokumenditeegis võrgudraivile on ajutine. Aeg-ajalt tuleb avada SharePointi saidi Internet Explorer ja valige **sisselogituks** kuni seansi takistada. 
+SharePointi dokumenditeegis vastendamine võrgudraivile on ajutine. Te peate aeg-ajalt avama SharePointi saidi Internet Exploreris ja valima seansi aegumist takistav **sisselogimine** . 
   
-[Abi konfigureerimist ja tõrkeotsingu vastendatud võrgudraivile](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Hankige abi vastendatud võrguketaste konfigureerimine ja tõrkeotsing](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Teeki [sünkroonida SharePointi failid uue OneDrive'i sünkroonimisrakenduse](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) mis hõlmab [Tellitavaid faile](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)File Exploreris töötada. Juurdepääs oma OneDrive'is olevaid faile ilma kohalikku talletusruumi.
+File Exploreris teegi töötamiseks [sünkroonida SharePointi failid uue OneDrive sünkroonimise klient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , mis sisaldab [faile nõudmisel](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Juurdepääs kõigile failidele OneDrive ilma kohalikku salvestusruumi.
   
 

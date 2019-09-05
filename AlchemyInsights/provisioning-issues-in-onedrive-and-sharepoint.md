@@ -1,24 +1,21 @@
 ---
-title: Küsimused OneDrive'i ja SharePointi ettevalmistamine
-ms.author: kirks
+title: Ettevalmistamine probleemid OneDrive ja SharePoint
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422362"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752460"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Küsimused OneDrive'i ja SharePointi ettevalmistamine
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Ettevalmistamine probleemid OneDrive ja SharePoint
 
-Kui kasutaja lisatakse olemasoleva Office 365 rentnikule, nad näha SharePoint Online'i või OneDrive äri ikoonide käskudena "Loomist" kuni ebausaldusväärsete lõpuni. Vastloodud kontode kasutajatel vaja Office 365 portaalis oma kontoga sisse logida ja seejärel klõpsake käsitsi käivitamiseks andmine saidil OneDrive OneDrive.
+Kui kasutaja on lisatud olemasoleva Office 365 rentniku, nad võivad näha SharePoint Online ' i või OneDrive for Business ikoonid loetletud "seadistamine" kuni ettevalmistamise protsess on lõpule viidud. Vastloodud kontod, kasutajad peavad logige sisse Microsoft 365 halduskeskus oma kontoga ja klõpsake OneDrive ' i käsitsi käivitamiseks OneDrive saidi.
   
-Kui te esimest korda nägin see probleem on möödunud üle 24 tunni, logige esitamist. Paljudel juhtudel arendame juba lahenduse. Palun anna meile vähemalt 24 tundi, lahendus.
+Kui on möödunud rohkem kui 24 tundi pärast seda, kui te esimest korda seda probleemi, Palun logige tugiteenuse juhtumi. Paljudel juhtudel oleme juba lahenduse kallal töötanud. Palun andke meile vähemalt 24 tundi, et lahendus lõpule viia.
   
-

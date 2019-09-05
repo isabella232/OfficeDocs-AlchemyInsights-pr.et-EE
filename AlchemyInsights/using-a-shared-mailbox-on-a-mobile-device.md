@@ -1,5 +1,5 @@
 ---
-title: 1800014 abil ühiskasutuses postkasti mobiiltelefon
+title: 1800014 kasutades ühiskasutusse antud postkasti mobiilsideseadme
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,20 +15,20 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: d2f0090270e0d93ddacbc4556209e7c94fb53566
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531859"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741829"
 ---
-# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Ühiskasutuses postkasti kasutades mobiilseadme
+# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Ühiskasutusega postkasti kasutamine mobiilseadmes
 
-Mobiilsideseadme installitud rakendusest Outlook ei pääse ühiskasutusse antud postkasti. Kas soovite selle funktsiooni? Las Outlook Engineering meeskond teada. [Hääletus siin](https://go.microsoft.com/fwlink/?linked=862116)!
+Te ei pääse ühiskasutusse antud postkasti Outlook rakendusest, mis on installitud mobiilsideseadme. Kas soovite seda funktsiooni? Las Outlook Engineering meeskond teab. [Hääletage siin](https://go.microsoft.com/fwlink/?linked=862116)!
   
-Ainult saate ühiskasutuses postkasti mobiilseadme brauseri avamise, Office 365 sisselogimine ja seejärel saab Outlook veebis. Lisateabe saamiseks vaadake [Lisa ühiskasutusse antud postkasti Outlook Web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+Ühiskasutusega postkasti saate kasutada ainult mobiilseadmes, avades brauseri, logite sisse Office 365 ja seejärel lähete Outlook veebis. Juhised leiate jaotisest [ühiskasutusega postkasti lisamine Outlookis veebis](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
   
-Kui peate ühiskasutuses olevad postkastid, kasutades Outlooki rakendust mobiiltelefon, kaaluge loomist kuvamiseks Office 365 rühmas mitte abil ühiskasutuses postkasti. Lisateabe saamiseks vt [rühmi võrrelda](https://support.office.com/article/758759ad-63ee-4ea9-90a3-39f941897b7d.aspx).
+Kui teil on juurdepääs ühiskasutuses olevatele postkastidele, kasutades Outlooki rakendust mobiilseadmes, kaaluge ühiskasutusse antud postkasti asemel Office ' i 365 rühma loomist. Lisateavet vt teemast [Võrdle rühmi](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
   
-Lisateave: [Outlooki iOS ja Android - rakenduse teave](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Lisateave: [Hankige rakendusesiseseid spikrit Outlooki iOS-i ja Androidi](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243) jaoks
   

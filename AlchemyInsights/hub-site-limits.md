@@ -1,28 +1,28 @@
 ---
-title: Jaoturi sait piirid ja piirangud
-ms.author: kirks
+title: Jaoturi saidi piirangud ja piirangud
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63cbe96f95bf4d1ce279a7294069a7ab8f0f953
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539349"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754584"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePointi jaoturi sait piirid ja piirangud
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePointi jaoturi saidi piirangud ja piirangud
 
-- On soovitatav valida side saidi või meeskond saidiga, mis kasutab kaasaegne uue malli. Klassikaline meeskonnatöö veebisaidi kasutamisel Rummu navigeerimine kuvatakse ainult kaasaegne lehekülgedel ja Rummu saidi sätted kuvatakse ainult kaasaegne lehekülgedel.
+- Soovitatav on valida suhtlussait või meeskonnatöö sait, mis kasutab uut kaasaegset malli. Kui kasutate klassikalist meeskonnatöö saiti, kuvatakse jaoturi navigeerimine ainult tänapäevastes lehekülgedel ja jaoturi saidi sätted ilmuvad ainult tänapäevastes lehekülgedel.
 
-- Saidid, mis on juba seotud veel üks keskus **ei saa** ümber Rummu kodukale. 
+- Saite, mis on juba mõne teise jaoturiga seostatud, **ei saa** jaoturi saidile teisendada. 
 
-- Organisatsiooni loomiseks 100 jaotur saidid. Ei ole piiratud arvu saite, mis võib olla seotud jaoturi sait.
+- Saate luua oma organisatsiooni jaoks kuni 100 jaoturi saidid. Saitide arv, mida saab seostada jaoturi saidiga pole piirang.
 
-- Kui kasutajad seostavad oma Rummu kodukale, see ei mõju jaoturi sait või sellega seotud saitide õiguste. See on kindlasti kõik lubate siduda saidid keskus on keskus.
+- Kui kasutajad seostavad oma saidid jaoturi saidiga, ei mõjuta see jaoturi saidi või seostuvate saitide õigusi. Oluline on veenduda, et kõik kasutajad, keda lubate saidiga siduda, on jaoturi õigused.
 
 
 

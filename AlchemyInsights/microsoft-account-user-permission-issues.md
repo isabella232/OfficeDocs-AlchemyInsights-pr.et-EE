@@ -1,6 +1,6 @@
 ---
-title: Probleemi tõrkeotsinguks - kasutajat ei leitud kataloog
-ms.author: kirks
+title: Probleemi tõrkeotsing-kasutajat ei leitud kataloogist
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544859"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754188"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Probleemi tõrkeotsinguks - kasutajat ei leitud kataloog
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Probleemi tõrkeotsing-kasutajat ei leitud kataloogist
 
-Kui kasutajad saavad viga sõnumi "kasutaja ei leitud" kataloog. Palun proovige uuesti kui probleemi tüübist pole kasutaja kataloogi.
+Kui kasutajad saavad tõrketeate "kasutajat ei leita" kataloogis. Palun proovige uuesti, kui probleemi tüüp on kasutaja ei ole kataloogis.
 
-Järgmised sammud lõpule viia abil probleemi tõrkeotsing.
+Järgmised sammud saab lõpule viia probleemi tõrkeotsingu sooritamiseks.
 
-- Tagada e-posti kutse vastu võtnud konto on sama konto, mida kasutatakse hiljem sisse logida. Veenduge, et kasutaja kasutab sama kontot kutse vastu võtma ja logige sisse. 
+- Veenduge, et e-posti kutse aktsepteeritud konto on sama konto, mida kasutatakse hiljem sisse logida. Veenduge, et kasutaja kasutab sama kontot kutse vastuvõtmiseks ja saidile sisselogimiseks. 
 
-Lisateabe saamiseks vaadake [haldamine oma Microsofti konto pseudonüümid</a> hallata Office 365 login](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Lisateabe saamiseks vaadake, [Kuidas hallata pseudonüümid oma Microsofti konto</a> hallata Office 365 login](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Liikuge iga võrkkoordinaadid, kus kasutaja saab viga. 
+- Sirvige iga saidi (s), kus kasutaja saab tõrke. 
 
-Lisada "/ _layouts/15/people.aspx/membershipgroupid=0" (maksimaalselt jutumärke) saidi URL-i lõppu. 
+Lisage "/_ Layouts/15/People.aspx/membershipgroupid = 0" (sees kahekordsete jutumärkidega) saidi URL-i lõppu. 
 
-Näide: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Näide: https://_ lt_ "contoso">. SharePoint. com/_paigutused/15/People. aspx/membershipGroupId = 0.
 
 - Valige loendist kasutaja.
 
-- Klõpsake nuppu **kasutaja õiguste eemaldamine** lindi. 
--  Kasutajat lisada ja saatke kutse kasutajale.
+- Klõpsake lindilt **kasutaja õiguste eemaldamine** . 
+-  Lisa kasutaja tagasi ja saatke kutse kasutajale.
 

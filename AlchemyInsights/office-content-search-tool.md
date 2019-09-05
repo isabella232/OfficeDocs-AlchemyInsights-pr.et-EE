@@ -1,6 +1,6 @@
 ---
-title: 1491-Search-Not-returning-Expected-Results
-ms.author: kirks
+title: 1491-otsing-mitte-tagasi oodatud-tulemused
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132684"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753840"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Sisu otsingu abil leida asjakohast infot
+# <a name="content-search-tool-to-find-relevant-info"></a>Sisuotsingu tööriist asjakohase teabe leidmiseks
 
-Kasutamise turvalisuse & vastavuse Center kiireks otsimiseks Exchange'i postkastides, SharePointi saidid ja OneDrive asukohad ja vahetu sõnumside vestlusi Skype ettevõtetele e-posti sisu otsingumootor. Sisu otsingu abil saate otsida e-posti, dokumente ja vahetu sõnumside vestlusi Office 365 koostöö tööriistu, nagu Microsoft Teams ja Office 365 rühmad.
+Kasutage tööriista sisu otsing Security _/_ vastavuse Center kiiresti leida e-posti Exchange ' i postkasti, dokumente SharePointi saidid ja OneDrive asukohad ja vahetu sõnumside vestlused Skype ettevõtetele. Sisu otsingu tööriista abil saate otsida e-posti, dokumentide ja vahetu sõnumside vestlused Office 365 koostööriistad nagu Microsoft Teams ja Office 365 rühmad.
 
 
-Enne [Sisu otsingust](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) : [turvalisuse & vastavuse Center](https://sip.protection.office.com/homepage)abil soovite lõpetada konfiguratsiooni seaded [konfigureerida õigusi](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [millega allalaadimiskiirus](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ja [ekspordi seaded](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Enne, kui kasutate [sisu otsing](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [Security _/_ vastavuskeskus](https://sip.protection.office.com/homepage), soovite täita konfiguratsioonisätted, sealhulgas [konfigureerida õigusi](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [seades allalaadimise kiirust](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ja [ekspordi seaded](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
-Mõista enam sisu otsingu [tingimused ja piirid](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [läbivaatav osaliselt indekseeritud üksuste](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ja teiste tulemusi vaadates pidama.
+Sisuotsingu kohta saate aru, vaadates läbi [nõuded ja piirangud](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [uurides osaliselt indekseeritud üksusi](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ja muid tulemusi, millest teadlikud olla.
 
-Pärast konfiguratsiooni seaded ja piirangute sisu otsing läbivaatamine viidata [kasutades otsing</a> kohapeal elementide nagu e-posti, dokumente ja vahetu sõnumside vestlusi Office 365 organisatsiooni](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Pärast vaadata konfiguratsioonisätted ja piirangud sisu otsing, vaadake [sisu</a> otsing otsida objekte, nagu e-posti, dokumentide ja vahetu sõnumside vestlused Office 365 organisatsioonis](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-On analoog sisu otsing, samm-sammult lisateabe saamiseks lugege [Office 365 sisu otsimine](https://docs.microsoft.com/office365/securitycompliance/search-for-content) .
+Täielik samm-sammult sisu otsing, vaadake lisateavet [Office 365 sisu](https://docs.microsoft.com/office365/securitycompliance/search-for-content) .

@@ -1,34 +1,34 @@
 ---
-title: Piirata juurdepääsu SharePointi või OneDrive
-ms.author: kirks
+title: SharePointi või OneDrive ' i juurdepääsu piiramine
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504207"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751740"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>IRM-i kaitse SharePointi failid
+# <a name="irm-protection-to-sharepoint-files"></a>IRM-kaitse SharePointi failidele
 
 
-Jooksul SharePoint Online'i IRM-i kaitse rakendatakse tasandil loendites ja teekides. Enne organisatsiooni IRM-i kaitse kasutamiseks peate esmalt seadistama autorikaitse. IRM viitab Azure'i kaitse krüpteerimiseks ja määrata piirangud teenuse Azure Rights Management. Mõned Office 365 lepingud sisaldavad Azure Rights Management, kuid mitte kõik. 
+SharePoint Online ' i, IRM-kaitse rakendatakse failide loendi ja teegi tasemel. Enne kui teie organisatsioon saab IRM-i kaitset kasutada, peate esmalt seadistama õiguste halduse. IRM-i sõltub Azure ' i õiguste halduse teenus Azure ' i teabekaitse krüptida ja määrata kasutuspiirangud. Mõned Office 365 plaanid sisaldavad Azure Rights Management, kuid mitte kõik. 
 
 Lisateabe saamiseks vaadake:
 
-- [Kui Office'i rakendused ja teenused toetavad Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [Kuidas Office ' i rakendused ja teenused toetavad Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-- [Seada üles teabeõiguste halduse (IRM) SharePointi administreerimiskeskuses](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [Teabeõiguste halduse (IRM) seadistamine SharePointi administreerimiskeskuses](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
-- [IRM-luba SharePointi dokumenditeekidesse ja loenditesse](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [IRM-lubage SharePointi dokumenditeegid ja loendid](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-- [Office teabeõiguste halduse](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [Office ' i teabeõiguste haldust](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
-- [Teabeõiguste halduse Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
+- [Teabeõiguste halduse Exchange Online ' is](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
 
 

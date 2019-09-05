@@ -1,5 +1,5 @@
 ---
-title: Võrgu rände
+title: Võrgu migratsioon
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538452"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734701"
 ---
-# <a name="network-migration"></a>Võrgu rände
+# <a name="network-migration"></a>Võrgu migratsioon
 
-O365 rentniku on võib-olla seotud mitu Yammeri võrku 1 üürnik: paljud võrgud konfiguratsiooni. Algab 16. oktoobril 2018 Yammeri toetamise ühe Office 365 rentnikuga seotud mitu Yammeri võrku. Saate migreerimist võrgu konfiguratsiooni, eelistatud 1:1 saada.
+Teie O365 rentniku võib olla seotud mitme Yammeri võrgud 1 rentniku: paljud võrgud konfiguratsiooni. Alates Oktoober 16, 2018, Yammeri ei toeta enam mitme Yammeri võrgud seostatud ühe Office 365 rentniku. Saate sooritada Network Migration saada eelistatud 1:1 konfiguratsiooni.
   
-- Seotud teie rentniku võrkude loendi vaatamiseks logige sisse Yammeri Office 365 globaalne administraator ja sirvida **Võrgu Admin**, seejärel **Võrgu rände**. Valige **Järgmine**.
+- Teie rentniku seotud võrkude loendi vaatamiseks logige Yammeri Office 365 globaalne administraator ja sirvige **võrgu admin**, seejärel **Network Migration**. Valige **Järgmine**.
 
-- Kui näete mitut võrku, mis on loetletud juhises 2 3, siis on O365 rentnikuga seotud mitu Yammeri võrku.
+- Kui näete mitut võrku loetletud samm 2, siis on mitu Yammeri võrgud seostatud teie O365 rentniku.
 
-- Et oma konfiguratsiooni 1:1 konfiguratsiooni, edasi kasutada võrgu migratsiooni tööriist.
+- Konfiguratsiooni parandamiseks 1:1 konfiguratsiooni, jätkake võrgu siirdamise tööriista abil.
 
-- Lisateavet võrgu rände kohta vt [võrgu ränne: konsolideerida mitu Yammeri võrku](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Lisateavet Võrgumigratsiooni kohta leiate jaotisest [võrgumigratsioon: mitme Yammeri võrgu konsolideerimine](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Pange tähele:
+Palun pange tähele:
   
-- **Võrgu rände migreerib ainult aktiivse ja kasutajatele.** Koos aktiivsete kasutajate pärineb ka kasutajate teavet, näiteks nime ega profiilipilti. Võrgu, sealhulgas sõprade, sisu on rännanud.
+- **Võrgumigratsioon migreerimine ainult aktiivsed ja ootel kasutajad.** Koos aktiivsete kasutajatega migreeritakse ka kasutajate teave (nt nimi ja profiilipilt). Võrgusisu (sh rühmi) ei migreerita.
 
-- **Võrgu rände ei saa tühistada.** Te ei saa kasutada täiendava võrgu ja selle sisu pärast migreerimise. Nii et enne kui kaaluda üleminekut, sa tahad kavandama.
+- **Võrgumigratsiooni ei saa tühistada.** Te ei pääse oma allvõrgule ja selle sisule pärast üleminekut juurde. Nii et enne kui mõelda rände, soovite planeerida hoolikalt.

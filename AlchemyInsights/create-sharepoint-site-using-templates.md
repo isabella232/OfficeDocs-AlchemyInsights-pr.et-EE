@@ -1,6 +1,6 @@
 ---
-title: Luua saidi SharePoint Online
-ms.author: kirks
+title: SharePoint Online ' i saidi loomine
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,39 +10,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514994"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755304"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a>Luua SharePointi saitide abil
+# <a name="create-sharepoint-sites-using-templates"></a>SharePointi saitide loomine mallide abil
 
-SharePointi saidi templates on mõeldud ärivaldkonnas vaja umbes Varemkoostatud mõisted. Lisateabe saamiseks vt [kasutamine malle luua erinevat tüüpi SharePointi saitidele](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+SharePointi saidimallid on eelehitatud määratlused, mis on mõeldud konkreetse ärivajaduse ümber. Lisateavet leiate jaotisest [mallide kasutamine erinevat tüüpi SharePointi saitide loomiseks](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Siin on mõned ühised probleemid/lahendusi seoses salvestamine on saidi- või mallina Sharepoint Online. 
+Siin on mõned levinud probleemid/lahendused saidi või loendi salvestamisel mallina SharePoint Online ' is. 
 
-**Salvesta saidilt/sellest loendist malli nupp ei ole saadaval või puudub**
+**Saidi/loendimalli nupu salvestamine pole saadaval või puudub**
 
-Administraatorid tuleb lubada kohandatud skripti malli funktsioonide lubamiseks. Üksikasjalikud näited ja kaalutluste kohta leiate 
+Administraatorid peavad lubama kohandatud skripti malli funktsioonide lubamiseks. Üksikasjalikke samme, näiteid ja kaalutlusi vt 
 
-- [Või mitte kohandatud skripti](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Kohandatud skripti lubamine või vältimine](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Salvesta saidi malli käsku ei toetata ja võib põhjustada probleeme saitidel, mis kasutavad SharePoint Serveri Publishing infrastruktuuri.
+- Salvesta sait mallina käsk ei toetata ja võib põhjustada probleeme saitidel, mis kasutavad SharePoint Serveri Avaldamisinfrastruktuur.
 
 **Saidimalli ei saa luua või ei tööta õigesti**
 
-Malli võib puududa [funktsioon](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ja ei Aktiveeri. Kui funktsioon ei ole saadaval praeguses saidikogumis aktiveerida, ei saa saidimalli abil saidi loomine.
+Mallis võib olla [funktsioon](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) puudu ja seda ei aktiveerita. Kui funktsioon pole praeguses saidikogumis aktiveerimiseks saadaval, ei saa saidi loomiseks saidimalli kasutada.
 
-- Kontrollige, kui loendeid ja teeke ületab [Loendivaateläve piir](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 üksust, kuna see võib takistada saidi malli loomine.
+- Kontrollige, et näha, kas loendid või teegid ületavad [loendivaate piirmäära piirmäära](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 üksused, kuna see võib blokeerida saidi malli loomine.
 
-- Sait kasutab liiga palju ressursse ja seega saidi malli ületab 50 MB.
+- Sait võib kasutada liiga palju ressursse ja seetõttu saidi Mall ületab 50 MB piirangu.
 
 
-- On probleeme, mis kasutab otsinguveeru andmed kuvatud. Lisateabe saamiseks vt [mall loodud loendis ei kuvata SharePoint Online õige otsinguloendis andmeid](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- On probleeme andmete kuvamisel loendist, mis kasutab Lookup veerg. Lisateabe saamiseks vaadake [malli loodud loend ei kuvata andmeid õige Lookup loendi SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-Täpsemat infot üldlevinud probleeme ja lahendusi, Palun kontrollige [saidimallide loomine ja kasutamine](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+Üksikasjalikuma teabe saamiseks levinud probleemide ja lahenduste kohta kontrollige palun [Loo ja kasuta saidimalle](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 
 
 

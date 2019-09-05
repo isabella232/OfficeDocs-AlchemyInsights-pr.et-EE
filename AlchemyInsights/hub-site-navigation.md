@@ -1,23 +1,23 @@
 ---
-title: Jaoturi sait piirid ja piirangud
-ms.author: kirks
+title: Jaoturi saidi piirangud ja piirangud
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: 0704d846bc30f2773298fb40631be915c88b964d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5bf96213a6ebed97facca81426f31175f57462d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539313"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754548"
 ---
-# <a name="sharepoint-hub-site-navigation"></a>Rummu SharePointi saidil
+# <a name="sharepoint-hub-site-navigation"></a>SharePointi jaoturi saidi navigeerimine
 
-Rummu kodukale ja nendega seotud alade, saidil liikumise üle ülaosas on Rummu saidi navigeerimisribal. Kui teil on jaoturi saidi omanik, saate kohandada [navigeerimisriba](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav). 
+Jaoturi saidi ülaosas ja mis tahes seotud saidid, saidi navigeerimine kohal, on jaoturi saidi navigeerimisribal. Kui olete jaoturi saidi omanik, saate [navigeerimisriba](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav)kohandada. 
 
-**Märkus:** On soovitatav valida side saidi või meeskonna saidi kasutades kaasaegne keskus saidile. Klassikaline meeskonnatöö veebisaidi kasutamisel Rummu navigeerimine kuvatakse ainult kaasaegne lehekülgedel ja Rummu saidi sätted kuvatakse ainult kaasaegne lehel. 
+**Märkus:** Soovitatav on valida suhtlussait või meeskonnatöö sait, kasutades teie keskuse saidina kaasaegset malli. Kui kasutate klassikalist meeskonnatöö saiti, kuvatakse jaoturi navigeerimine ainult tänapäevastes lehekülgedel ja jaoturi saidi sätted kuvatakse ainult kaasaegses lehel. 
 
 

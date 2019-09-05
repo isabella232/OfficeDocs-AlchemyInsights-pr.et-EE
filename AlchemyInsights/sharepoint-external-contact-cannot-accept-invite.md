@@ -1,27 +1,26 @@
 ---
-title: Välise kontakti ei saa nõustuda ka ühiskutse
+title: Väline kontakt ei saa ühiskasutuskutset aktsepteerida
 ms.author: efrene
 author: efrene
-ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 1ff796e8e2db928bba997167271505d67cdc0740
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2e777db93bfba4ff5ad6f17afdb8d820e2d5594
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508491"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744205"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Välise kontakti ei saa SharePointi kutse
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Väline kontakt ei saa aktsepteerida SharePointi kutse
 
-Kui ees ning ei saa ühiskasutuse kutse aktsepteerida, proovige külastada alltoodud linke.
+Kui väline ei saa ühiskasutuskutset aktsepteerida, proovige allolevaid linke külastada.
 
-- [Tõrketeade, kui välise kasutaja aktsepteerib SharePoint Online kutse teise kontoga](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Tõrketeade, kui väline kasutaja aktsepteerib SharePoint Online ' i kutse, kasutades teise kontoga](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Juurdepääs ühiskasutusega kausta keelatud](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Juurdepääs on keelatud ühiskasutusse antud kaustale](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [Vead SharePointis või OneDrive ühiskasutuse](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [SharePointi ja OneDrive ' i tõrgete jagamine](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

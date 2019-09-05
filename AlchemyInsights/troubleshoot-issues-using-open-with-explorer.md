@@ -1,5 +1,5 @@
 ---
-title: Tõrkeotsingu funktsiooniga Ava Exploreris
+title: Tõrkeotsing probleemidele, kasutades Open Exploreriga
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500211"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742729"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Lahendamiseks Ava Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>Ava Exploreriga seotud probleemide lahendamine
 
-Levinud probleemide ja seejärel käsku **Ava Explorer** OneDrive'i või SharePointi dokumenditeegi avamine: 
+Lahendada levinud probleemid avamisel dokumenditeeki rakenduses SharePoint või OneDrive **Open Explorer** käsu abil: 
   
-- Kasutage Internet Explorer 10 või Internet Exploreri 11. **Ava Explorer** ei ühildu Microsoft Edge, Google Chrome, Firefox ja teised. **Ava Explorer** on keelatud kõik brauserid, välja arvatud Internet Explorer. 
+- Kasutage Internet Explorer 10 või Internet Explorer 11. **Exploreriga avamine** ei ühildu Microsoft Edge ' i, Google Chrome ' i, Firefoxi ja teistega. **Avatud Explorer** on keelatud kõigis brauserites peale Internet Exploreri. 
     
-- **Ava Explorer** pole saadaval kaasaegne kogemus SharePointi teekides. Kasutage **File Exploreris** . Valige **vaates Valikud** \> **File Exploreris**. File Exploreris ei ühildu Microsoft Edge, Google Chrome, Firefox ja teised. **File Exploreris** saadaval ainult Internet Explorer. 
+- **Avatud Explorer** ei ole saadaval kaasaegne kogemus SharePointi teegid. Kasutage **Vaade File Exploreris** . Valige Kuva **Suvandid** \> **Vaade File Exploreris**. Vaade File Exploreris ei ühildu Microsoft Edge ' i, Google Chrome ' i, Firefoxi ja teistega. **Vaade File Exploreris** saadaval ainult Internet Exploreris. 
     
-- Veenduge, et WebClient teenus töötab. Otsinguväljale Windows tippige Käivita, valige Käivita töölauarakendust, tüüp services.msc ja seejärel vajutage Enter. Kerige WebClient teenus ja veenduge, et selle **olek** veerus kuvatakse "Käivitamine." Kui seda pole, topeltklõpsake teenuse, klõpsake **Start**ja seejärel klõpsake nuppu **OK**. (Võimalik, et peate esmalt lubama teenuse valides kas **käsitsi** või **automaatse** **käivituse** tüüp.) 
+- Veenduge, et WebClient teenus töötab. Windowsi otsinguväljale tippige Run, valige Käivita töölauarakendus, tippige Services. mscja vajutage sisestusklahvi ENTER. Kerige WebClient teenuse ja veenduge, et **olek** veerus kuvatakse "töötab." Kui ei, topeltklõpsake teenust, klõpsake nuppu **Start**ja seejärel klõpsake nuppu **OK**. (Võib-olla peate teenuse esmalt lubama, valides **käivitustüübi** väljal **käsitsi** või **automaatselt** .) 
     
 > [!NOTE]
-> File Exploreris Raamatukogu avamine on mugav, kui soovite kopeerida või teisaldada mitu faile ja kaustu, kui, kuid kui soovite regulaarselt töötada raamatukogus, soovitame sünkroonimist. File Exploreri avamine tõrkeotsingu, vt [Exploreris avatud](https://go.microsoft.com/fwlink/?linkid=871665). Sünkroonimise häälestamise kohta leiate teemast [uue OneDrive'i sünkroonimisrakenduse sünkroonimine SharePointi faile](https://go.microsoft.com/fwlink/?linkid=871666).
+> Teegi avamine File Exploreris on mugav, kui teil on vaja mitu faili ja kausta korraga kopeerida või teisaldada, kuid kui soovite teegis regulaarselt töötada, soovitame seda sünkroonida. File Exploreris avamise probleemide tõrkeotsinguks vaadake [avatud Exploreris](https://go.microsoft.com/fwlink/?linkid=871665). Sünkroonimise seadistamise kohta teabe saamiseks vaadake [SharePointi failide sünkroonimine uue OneDrive ' i sünkroonimiskliendiga](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Vaadake lisateavet artikli ["avatud koos Explorer" käsu tõrkeotsingu SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) . 
+Lugege artiklit, [Kuidas kasutada käsku "Open with Explorer" tõrkeotsing SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) ' i probleemide kohta lisateabe saamiseks. 
   
 

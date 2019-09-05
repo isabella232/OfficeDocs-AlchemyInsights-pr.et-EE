@@ -1,5 +1,5 @@
 ---
-title: Õiguste postkasti
+title: Postkasti õiguste muutmine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661400"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734377"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Õiguste postkasti
+# <a name="changing-permissions-on-a-mailbox"></a>Postkasti õiguste muutmine
 
-Kui kasutajad vajavad juurdepääsu ainult oma Office 365 postkastid, tuleb anda õigus töötada postkasti. Kuidas määratakse need õigused sõltub postkasti. Kui kasutajad vajavad juurdepääsu:
+Kui kasutajad vajavad juurdepääsu Office 365 postkastid, mis ei ole nende endi, tuleb neile anda õigused nende postkastidega töötamiseks. Nende õiguste määramine sõltub postkasti tüübist. Kui kasutajatel on vaja juurdepääsu:
   
-- Teise kasutaja postkasti - vt [teine kasutaja Office 365 postkasti õigusi anda](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Teise kasutaja postkastid-palun vaadake [anda postkasti õigused teisele kasutajale Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Ühiskasutuses postkasti - vt [Lisa või Eemalda liikmete ühiskasutuses oleva postkasti](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Ühiskasutusega postkast-palun vaadake [lisada või eemaldada liikmeid ühiskasutusse antud postkasti](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Kui õigused ei tööta õigesti pärast te ülaltoodud samme, avage Exchange'i administraatori center ja proovige määrata õigusi sealt (vt teemast [Manage permissions adressaatide jaoks](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Kui õigused ei tööta õigesti pärast ülaltoodud juhiste, minge Exchange ' i halduskeskus ja proovige määrata õigused seal (vt [adressaatide õiguste haldamine](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

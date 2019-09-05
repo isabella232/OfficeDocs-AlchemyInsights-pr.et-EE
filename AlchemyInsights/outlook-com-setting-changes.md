@@ -1,6 +1,6 @@
 ---
-title: Outlook.com-i seaded
-ms.author: kirks
+title: Outlook.com sätted
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 3/21/2019
@@ -9,13 +9,24 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a86cd709a86199c1db427faff74fb1270d217eee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535387"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752892"
 ---
-# <a name="settings-in-outlookcom"></a>Seaded teenuses Outlook.com
+# <a name="settings-in-outlookcom"></a>Outlook.com sätted
 
-<ul type="disc"> <li><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Kui saaja on sisemine või väline organisatsiooni ja kui nad programmi Office 365 või Outlook.com-i meilikontot, järgmised kliendid ei peaks midagi erilist tegema sõnum: <strong>Outlook 2016, Outlook Web / Outlook Web App,</strong> <strong>Outlooki mobiilirakendus</strong></span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Delegaadid</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">kasutajate et kaitstud e-kiri saadeti, ei saa avada kaitstud sõnumeid. Ainult (inimene, et kaitstud e-posti saadeti) algsed adressaadid, saate vaadata teavet e-.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Kui adressaat kasutab erinevaid Interneti-teenuse pakkuja ja nad on&nbsp;ei saa sõnumit avada ja näha on &lsquo;rpmsg&rsquo; manus, palun nõu järgige allpool:</span> <ul type="circle"> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Valige <strong style="mso-bidi-font-weight: normal;">Loe</strong> selle sõnumi.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Nad suunata lehele, kus nad tuleks valida &lsquo; <strong style="mso-bidi-font-weight: normal;">logige sisse ühekordne pääsukood</strong>&rsquo;</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ühekordse kasutusega pääsukood saadetakse sama meiliaadressi. Sisestage brauseri aknas, siis valige <strong style="mso-bidi-font-weight: normal;">Jätka</strong> oma sõnumi lugemiseks.</span></li> </ul> </li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Kui te ei saa krüptitud sõnumite teise Office 365 organisatsiooni, järgige esitatud lahendus selle <a href="https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">artikli</span></a> .</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Kui adressaadi postkast on <strong>Yahoo või Gmail </strong> <span style="mso-bidi-font-weight: bold;">Palun järgige</span> esitatud selles <a href="https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">artiklis</span></a>.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Kaitse eeskirjad kehtivad ainult <a href="https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types"><span style="color: blue;">tuntud failivorminguid</span></a>. PDF ja OneDrive for Business arestimise ei toeta krüptimist.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ühiskasutuses postkasti</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">ei saa avada krüptitud sõnumeid praegu läbi Swedbanki.</span></li> </ul>
+Kui adressaat on sisemine või väline teie organisatsiooni ja kui nad kasutavad Office 365 või Outlook.com e-posti konto, järgmised kliendid ei pea midagi erilist avada sõnumi: **outlook 2016, Outlook Web/Outlook Web Appi, Outlooki mobiilirakendus**
+
+Kasutajad, **kes on kaitstud** e-posti saadetud, ei saa avada kaitstud sõnumeid. E-posti teavet saab vaadata ainult algsed adressaadid (isik, kes on kaitstud e-posti).
+
+- Kui adressaat on mõne muu Interneti-teenuse pakkuja ja nad ei&nbsp;saa avada sõnumit ja vaadake "rpmsg" manus, järgige alltoodud juhiseid:
+    - Valige käsk **Loe** sõnumit.
+    - Nad suunatakse lehele, kus nad peaksid valima Logi sisse **ühekordne pääsukood**.
+    - Ühekordselt kasutatav pääsukood saadetakse samale e-posti aadressile. Sisestage kood brauseriaknasse ja seejärel valige **Jätka** oma sõnumi lugemiseks.
+- Kui te ei saa krüptitud sõnumeid mõnest muust Office 365 organisatsiooni, järgige selles [artiklis](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)määratud eraldusvõime samme.
+- Kui adressaadi postkast on **Yahoo või Gmail**, järgige selles</span> [artiklis](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)toodud juhiseid.
+- Kaitsepoliitikad rakenduvad ainult [teadaolevate failivormingutega](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). Krüptimiseks ei toetata PDF-i ja OneDrive for Business manust.
+- Ühiskasutusega postkastid **ei saa avada krüptitud sõnumeid praegu läbi iga kliendi**. 

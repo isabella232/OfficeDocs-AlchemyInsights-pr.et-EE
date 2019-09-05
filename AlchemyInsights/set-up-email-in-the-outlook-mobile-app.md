@@ -1,5 +1,5 @@
 ---
-title: 1800014 loodud e-posti rakenduses Outlook mobile
+title: 1800014 seadistada e-posti rakenduses Outlook mobiilirakendus
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509176"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734161"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>E-posti Outlook mobile rakenduse seadistamine
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>E-posti häälestamine Outlooki mobiilirakenduses
 
-1. Valige **Alustada** , kui see on teie esimene säte mobiilirakenduses e-kirja. Muul juhul koputage **menüü** ja seejärel valikut **sätted** \> **Lisa konto** \> **Lisa meilikonto**.
+1. Valige **Alusta** , kui see on esimene kord, kui häälestada e-posti mobiilirakendus. Vastasel juhul koputage **menüü** ja seejärel koputage **sätted** \> **lisada konto** \> **lisada e-posti konto**.
 
-2. Sisestage oma täielik meiliaadress ja puudutage käsku **Jätka** või **Lisa konto**.
+2. Sisestage oma täielik meiliaadress ja toksake **Jätka** või **Lisa konto**.
 
-3. Sisestage oma e-posti konto parool ja koputage nuppu **Logi sisse** või **Järgmine**.
+3. Sisestage oma e-posti konto parool ja koputage **Logi** sisse või **edasi**.
 
-4. [Mitmefaktorilist autentimist](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) lubamisel kontrollida seadistatud (6 kohaline, telefonikõne või rakendusega Microsoft Authenticator) meetodil.
+4. Kui [mitme teguriga autentimine](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) on lubatud, kontrollige, kasutades seadistatud meetodit (6-kohaline kood, telefonikõne või Microsoft Authenticator app).
 
-5. Kui täiendavaid IT Ylijärjestelmänvalvoja poliitika on paigas, puudutage käsku **Aktiveeri** , et nad.
+5. Kui on olemas täiendavad IT-halduse poliitikad, toksake nende lubamiseks **Aktiveeri** .
 
-6. Outlook võib taotleda õigust juurdepääsuks teie kalendrit, kontakte ja muud teavet. Valige **Jah** või **lubada**.
+6. Outlook võib taotleda luba juurdepääsuks teie kalendrile, kontaktidele ja muule teabele. Valige **Jah** või **Luba**.
 
-Saada Detailne loodud juhiseid [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) või [iOS Outlook](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) siin.
+Hankige üksikasjalikke seadistate juhiseid [Outlooki Androidi](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) või Outlooki jaoks [iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) -i jaoks.
   
- **Vajate abi?**
+ **Vajad abi?**
   
-- [Tõrkeotsing e-posti seadistamiseks mobiil](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Meilide häälestamise tõrkeotsing mobiilseadmes](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Rakendusesiseste teave Outlooki iOS ja Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Hankige rakendusesiseseid spikrit Outlooki iOS-i ja Androidi jaoks](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

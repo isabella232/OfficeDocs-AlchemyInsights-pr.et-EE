@@ -1,6 +1,6 @@
 ---
-title: Sõnum "OneDrive'i konto kustutatakse"
-ms.author: kirks
+title: "\"OneDrive ' i konto kustutatakse\" sõnum"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 93d86ecb14623480f8566b9b20372a9688e76d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e9027e4bf2baa9b1a04177651ec627723ba4a4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521383"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753504"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>Sõnum "OneDrive'i konto kustutatakse"
+# <a name="onedrive-account-will-be-deleted-message"></a>"OneDrive ' i konto kustutatakse" sõnum
 
-E-posti saanud, email@mail.onedrive.com hoiatus, et "teie OneDrive'i kustutatakse" pange tähele, see on isikliku OneDrive.com konto, pole teie OneDrive'i kontoga. 
+Kui saite e-kirja email@mail.onedrive.com hoiatus, et "teie OneDrive ' i konto kustutatakse" Palun pange tähele, et see on teie isiklik OneDrive.com konto, mitte OneDrive for Business konto. 
   
-Kui sa ei tea, kas kasutada isikliku OneDrive'i, sisse logida oma konto uuesti aktiveerida ja onedrive.com.
+Kui te pole kindel, kas kasutate isiklikku OneDrive ' i, logige onedrive.com sisse ja vaadake oma konto uuesti.
   
-Lisateabe saamiseks vaadake [miks ma saan e-posti konto kustutatakse öeldes?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Lisateabe saamiseks vaadake, [miks ma sain e-kirja, mis ütleb, et teie konto kustutatakse?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft meeskondi
+title: Luba Microsofti meeskonnad
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "737"
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 78d555d5c93abbdcfd6ebf4a44c8904c7b08625d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527576"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736105"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>Lubada ja kasutada Microsofti meeskonnad
+# <a name="enable-and-use-microsoft-teams"></a>Microsoft Teamsi lubamine ja kasutamine
 
-Kui teil pole juurdepääsu Microsoft Teams üldse, vaadake [Kuidas saada juurdepääsu Microsofti meeskonnad](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
+Kui teil pole juurdepääsu Microsofti meeskondadele, vaadake, [Kuidas ma saan juurdepääsu Microsoft teamsi](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
 
-Kui teil juba on Microsofti Teams ja pead teadma, kuidas seadistada ja hallata seda, vaadake [Microsofti meeskonnad administraatori seaded](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
+Kui teil on juba Microsoft Teamsi ja peate teadma, kuidas seda konfigureerida ja hallata, vaadake teemat [Halda Microsoft teamsi sätteid oma organisatsiooni jaoks](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).

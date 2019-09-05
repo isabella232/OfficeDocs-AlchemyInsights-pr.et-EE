@@ -1,6 +1,6 @@
 ---
-title: SharePointi uued funktsioonid teatas
-ms.author: kirks
+title: SharePointi uusi funktsioone teatas
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/27/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 7aecd959cd2fca7049dfb55c1f18d593a95712a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4640873c2bd75773aad129b6556fbe4ab270162
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508527"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751308"
 ---
-# <a name="sharepoint-new-features-announced"></a>SharePointi uued funktsioonid teatas
+# <a name="sharepoint-new-features-announced"></a>SharePointi uusi funktsioone teatas
 
-Ignite 2018 konverentsil, teatas Microsoft SharePoint, sealhulgas uusi funktsioone kaasaegne portaalid, uusi, Rummu saidid, uudiste link, sihtrühma valimise ja mobiilirakenduste saadavus on uus, seoses arvukate täiustused uuendusi Võistkonda, ja veel...
+Ignite 2018 konverentsil teatas Microsoft uued uuendused SharePointile, sealhulgas uued funktsioonid kaasaegsete portaalide jaoks, uued veebiosad, arvukad täiendused jaoturi saitidele, uudistelink, publiku sihtimine, uute Mobiilirakenduste kättesaadavus, ühendus Meeskonnad, ja veel...
   
-Nende funktsioonide kohta lisateabe saamiseks vaadake blogi postitus [uuendusi SharePointi &amp; Microsoft 365 pakkuda võimsus ja lihtsus sisu koostööks.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Nende funktsioonide kohta lisateabe saamiseks vaadake blogi postitage [uusi uuendusi SharePoint &amp; Microsoft 365 pakkuda Power ja lihtsus sisu koostöö.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Teie organisatsioon saab liituda suunatud vabakslaskmise varase juurdepääsu uusi funktsioone. Vaata [seadistama Standard või sihitud pressiteade Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
+Teie organisatsioon saab liituda suunatud Väljalaske programmiga, et neil oleks varajane juurdepääs uutele funktsioonidele. Vt [Standard või suunatud Väljalaske suvandite seadistamine Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).

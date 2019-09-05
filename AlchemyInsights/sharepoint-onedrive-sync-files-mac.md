@@ -1,5 +1,5 @@
 ---
-title: Install, install ja sünkroonimise OneDrive'i või SharePointi failid Mac
+title: OneDrive ' i või SharePointi failide installimine, häälestamine ja sünkroonimine operatsioonisüsteemis Mac
 ms.author: efrene
 author: efrene
 ms.date: 6/10/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: c167e3ffb011f397022a2ca8f6aea14f0c836e04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7a845bbf2fd6f3d3572a1284654c9f593dd3ec1e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507915"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743773"
 ---
-# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Install, install ja sünkroonimise OneDrive'i või SharePointi failid Mac 
+# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>OneDrive ' i või SharePointi failide installimine, häälestamine ja sünkroonimine operatsioonisüsteemis Mac 
 
-Installimiseks installiprogramm ja sünkroonimise OneDrive'i või SharePointi failid juhtnööride [sünkroonimisfailid OneDrive'i sünkroonimisrakenduse Mac OS x](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)Mac.
+Installige, setup ja sünkroonida OneDrive või SharePointi faile Mac juhiseid [sync faile OneDrive sünkroonimise klient Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).
 
-Kui OneDrive rakenduse installimist ja seadistus Mac, kuid kasutajad on tekkinud sünkroonimise probleemid, vt [parandus sünkroonimise probleemid OneDrive'iga (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756?ui=en-US&amp;rs=en-US&amp;ad=US).
+Kui OneDrive ' i rakendus on installitud ja setup Mac, kuid kasutajatel on probleeme sünkroonimise, vaadake [Fix sünkroonimise probleemid OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).
 
 > [!NOTE]
-> Tuntud kausta teisaldada OneDrive'i sünkroonimise Windows funktsioon ei ole saadaval Mac.
+> Tuntud kaustade teisaldamine funktsiooni OneDrive sünkroonimine Windows ei ole saadaval Mac.
 
 
 

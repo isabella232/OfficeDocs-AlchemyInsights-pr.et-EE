@@ -11,16 +11,16 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497028"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734917"
 ---
 # <a name="managing-yammer-users"></a>Yammeri kasutajate haldamine
 
-1. Teave Yammeri kasutajate haldamine Office 365, lugege [kogu nende kasutusaja jooksul, Office 365 kasutajad hallata platvormist sõltumatu](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). See hõlmab üksikasjade kohta:
+1. Yammeri kasutajate Office 365 haldamise kohta teabe saamiseks vaadake [haldamine Yammeri kasutajate kogu oma elutsükli office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). See hõlmab järgmist teavet:
 
   - Kasutaja loomine
 
@@ -28,12 +28,12 @@ ms.locfileid: "36497028"
 
   - Yammeri kasutajate haldamine Office 365
 
-2. Lugege [Lisa, blokeerimiseks või eemaldage Yammeri](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) haldamist kasutajatele Yammeri konsoolis. See hõlmab:
+2. Palun vaadake [lisada, blokeerida või eemaldada Yammeri kasutajate](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) teavet haldamine Yammeri konsoolis kasutajate kohta. See hõlmab järgmist:
 
-  - Kutse või kasutajate eemaldamine
+  - Kasutajate kutsumine või eemaldamine
 
-  - Kutsudes külalisi
+  - Külaliskasutajate kutsumine
 
-  - Eksportivate kasutajate nimekiri
+  - Kasutajaloendi eksportimine
 
-3. Lisamine, eemaldamine ja haldamine väliste kasutajate kohta teabe saamiseks vt [Lisa sõnumside osalejatega oma Yammeri võrgustiku](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. Lisateavet väliste kasutajate lisamise, eemaldamise ja haldamise kohta leiate jaotisest [välise sõnumside osavõtjate lisamine Yammeri võrku](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

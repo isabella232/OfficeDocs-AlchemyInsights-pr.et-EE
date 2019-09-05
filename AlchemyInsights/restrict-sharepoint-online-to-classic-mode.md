@@ -1,6 +1,6 @@
 ---
-title: Klassikalises režiimis SharePoint Online piiramiseks
-ms.author: kirks
+title: SharePoint Online ' i piiramine klassikalise režiimiga
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551555"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752064"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Klassikalises režiimis SharePoint Online piiramiseks
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online ' i piiramine klassikalise režiimiga
 
-Mõned organisatsioonid vajavad ikka klassikaline režiimi kogemus. Kui ei ole plaanis eemaldada klassikalises režiimis granuleeritud tasandil, ei ole enam võimalik piirata klassikaliste režiim loendite ja teekide terve organisatsiooni (rentnik).
+Mõned organisatsioonid vajavad endiselt klassikalise režiimi kogemust. Kuigi ei ole plaanid eemaldada klassikalise režiimi granuleeritud tasemel, ei ole enam võimalik piirata kogu organisatsiooni (rentniku) klassikaline režiim loendid ja teegid.
 
-Admin on hallata üksikute loendite ja teekide abil granuleeritud loobuda lülitid, et pakume järgmiste huvigruppide classic mode valida järgmist:
+Administraatoril on järgmised võimalused üksikute loendite ja teekide haldamiseks klassikalises režiimis, kasutades granuleeritud loobumislüliteid, mida pakume järgmistel tasemetel:
 
 - saidikogumi
-- saidi
-- nimekiri
+- Saidi
+- Nimekiri
 - Raamatukogu
 
-Lisaks loendite, et teatud funktsioonide kasutamiseks ja kohandused, mis ei toeta modern viiakse ikka automaatselt üle klassikalises režiimis.
+Lisaks on loendid, mis kasutavad teatud funktsioone ja kohandused, mis ei toeta kaasaegne ikka automaatselt sisse klassikaline režiim.
 
-Alates 1 aprill 2019, keelata rentniku tasandil protsessi loobuda kaasaegne nimekirja ja raamatukogude alustada ja jätkata läbi 31 mai 2019.  Loendid ja teegid, mis on klassikalise režiimi tõttu rentniku loobuda on nihkunud automaatselt kaasaegne.
+Alates aprill 1, 2019, protsess keelata rentniku tase loobuda kaasaegne nimekiri ja teegid algavad ja jätkavad mai 31, 2019.  Loendid ja teegid, mis on klassikalise režiimi tulemusena rentniku loobumine-out automaatselt nihkunud kaasaegne.
 
-Kui vajate klassikalises režiimis leiate rohkem teavet [siin](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) ja PnP PowerShelli juhiseid [siin](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) kirjeldatud võimalusi ja vahendeid, mida saate kasutada klassikalise režiimi kogemus täna.
+Kui vajate klassikalist režiimi, vaadake lisateavet [siit](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) ja PnP PowerShelli juhis [siin](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) , mis kirjeldab võimalusi ja tööriistu, mida saate kasutada tänapäeval klassikalise režiimi kogemuse kasutamiseks.

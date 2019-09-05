@@ -1,5 +1,5 @@
 ---
-title: Tõrge 30068-39 lahendused
+title: Lahendused tõrke 30068-39
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501687"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743341"
 ---
-# <a name="solutions-for-error-30068-39"></a>Tõrge 30068-39 lahendused
+# <a name="solutions-for-error-30068-39"></a>Lahendused tõrke 30068-39
 
-Proovige järgmisi võimalusi parandada viga [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
+Proovige neid lahendusi tõrke [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)parandamiseks:
   
-- Taaskäivitage arvuti ja proovige [Office installida](https://portal.office.com/OLS/MySoftware.aspx).
+- Taaskäivitage arvuti ja proovige [Office ' i installida](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Kui **Microsoft klõpskäivituse**[teenus on keelatud](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) ja kui see on keelatud, **käsitsi** või **automaatse**olekut muuta.
+- Kontrollige, kas **Microsoft Click-to-Run** [teenus on keelatud](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) ja kui see on keelatud, muutke olekut **käsitsi** või **automaatselt**.
 
-- Laadida ja installida [toetust ja taastamise abimees](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Laadige alla ja installige [toe ja taastamise abimees](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Avamisel, **eemaldada Office'i toodete** käsku uninstall ja valige **järgmise**versiooni.
+1. Kui see avaneb, alates **Uninstall Office ' i tooted** valige versioon, mida soovite desinstallida ja valige **edasi**.
 
-2. Jätkata läbimas ekraanid ja taaskäivitage arvuti, kui teilt küsitakse.
+2. Jätkake ekraanid ja taaskäivitage arvuti, kui küsitakse.
 
-    Pärast taaskäivitamist, toetust ja taastamise abimees uuesti avab automaatselt desinstalli lõpule viia.
+    Pärast taaskäivitamist, toe ja taastamise abimees automaatselt uuesti avab lõpuleviimiseks uninstall protsess.
 
 3. Järgige allesjäänud viipasid ja [installige Office uuesti](https://portal.office.com/OLS/MySoftware.aspx) või sulgege abimees.

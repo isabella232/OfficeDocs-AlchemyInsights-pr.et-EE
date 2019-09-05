@@ -1,5 +1,5 @@
 ---
-title: Soovitusi lahendamiseks "Litsentsimata toode" vead
+title: Soovitused "litsentsimata toote" tõrgete lahendamiseks
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501039"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743269"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Soovitusi lahendamiseks "Litsentsimata toode" vead
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Soovitused "litsentseerimata toote" tõrgete lahendamiseks
 
-Veenduge, on tellimus, mis võimaldab kliendi litsentsid, nt Office 365 Business või Business Premium ja [tagada, et kasutaja on määratud](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Tühista installimise](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) kontrollida, kui olete ületanud paigaldab toetab tellimuse number.
+Veenduge, et teil on tellimus, mis võimaldab kliendi litsentsid, näiteks Office 365 Business või Business Premium ja [veenduge, et kasutajal on määratud litsents](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Desaktiveerige install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , et kontrollida, kas teie tellimusega toetatud installite arv on ületatud.
   
-Tagada kasutaja logida sama konto, mis on määratud litsents.
+Veenduge, et kasutaja on sisse logida sama kontoga, millel on määratud litsents.
   
-[Aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy)käivitamine.
+Käivitage [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Kontrollige, kui teie tellimus staatus on lõppenud
+Kontrollige, kas tellimuse olek on aegunud
   
-Kontrollida kas on teenuse teadaolevad probleemid [Office 365 teenuseid tervise lehekülg](https://docs.microsoft.com/office365/enterprise/view-service-health) .
+Kontrollige [Office 365 teenuse tervise lehel](https://docs.microsoft.com/office365/enterprise/view-service-health) , et näha, kas on mingeid teadaolevaid probleeme teenusega.
   
-[Office Online remont](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Sooritada online remont Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Tõrkeotsingu lisalahendusi, vt: [litsentsimata toode ja aktiveerimistõrgete kontoris](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Täiendavate tõrkeotsingulahenduste leidmiseks vaadake: [litsentsimata toote-ja aktiveerimistõrked Office ' is](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

@@ -1,6 +1,6 @@
 ---
-title: OSE jagamine vead SharePointis või OneDrive
-ms.author: kirks
+title: OSE ühiskasutuse tõrked SharePointis ja OneDrive ' is
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543129"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752964"
 ---
-# <a name="ose-sharing-errors"></a>OSE jagamine vead
+# <a name="ose-sharing-errors"></a>OSE ühiskasutuse tõrked
 
-Artikkel hõlmab erinevat viga, mis võib tekkida, kui failide või kaustade OneDrive for Business Office 365 või SharePoint Online. Sa pead olema globaalse või SharePointi admin organisatsiooni nende vigade parandamiseks. Kui te ei ole administraator, võtke ühendust oma klienditoega ja annab neile oma tõrkekood.
+Artikkel hõlmab erinevaid tõrkeid, mis võivad ilmneda, kui failide või kaustade ühiskasutus SharePoint Online ' i või OneDrive for Business Office 365. Nende tõrgete lahendamiseks peate oma organisatsioonis olema globaalne või SharePointi administraator. Kui te ei ole administraator, võtke ühendust oma abiinfost ja andke neile oma veakood.
 
-OSE tõrkekoodide kohta lisateabe saamiseks vt [ühiskasutus vead SharePointis või OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+OSE tõrkekoodide kohta lisateabe saamiseks vaadake [ühiskasutuse tõrked SharePointi ja OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

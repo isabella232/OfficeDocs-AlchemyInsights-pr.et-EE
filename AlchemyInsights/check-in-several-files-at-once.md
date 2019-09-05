@@ -1,6 +1,6 @@
 ---
-title: Kontrollida mitu faili korraga
-ms.author: kirks
+title: Mitme faili korraga kontrollimine
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 9b5d4de2a39e7af0a91c5de758f6f98c5fd8457a
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 70b441ca4c8751a84603e923adabd56c87f3ea92
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631706"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755016"
 ---
-# <a name="check-in-several-files-at-once"></a>Kontrollida mitu faili korraga
+# <a name="check-in-several-files-at-once"></a>Mitme faili korraga kontrollimine
 
-Mitu faili mitu kaustad SharePointi teegis vaatamiseks valige **Kuva kõik üksused ilma kaustadeta** **jaotisest** lehel **Vaate redigeerimine** . 
+Mitme faili mitmes kaustas SharePointi teegis kontrollimiseks valige **Kuva kõik üksused ilma kaustadeta** lehel **Redigeeri vaadet** . **** 
   
- **Märkus**: SharePoint Online ja Office 365 praegu välistavad mitme faili sisse kaasaegse režiimis kontrollimisel. 
+ **Märkus**: SharePoint Online ' i ja Office 365 ei võimalda praegu mitme faili kontrollimisel kaasaegne režiim. 
   
-Vt rohkem korduma kippuvate küsimuste sisse-/ väljaregistreerimine, vt [peamised küsimused sissemöllimine, väljamöllimine ja versioonid](https://go.microsoft.com/fwlink/?linkid=2018786).
+Vaadake korduma kippuvad küsimused sisse-/väljaregistreerimine, vaadake [Top küsimusi väljaregistreerimine, sisse-ja versioonid](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

@@ -1,6 +1,6 @@
 ---
-title: Jõudluse probleemid-SharePointi või OneDrive'i
-ms.author: kirks
+title: Jõudlusprobleemid-SharePoint või OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666728"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752712"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePointi või OneDrive aeglane, juurdepääsetav või mitme kasutaja jaoks saadaval
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePointi või OneDrive ' i aeglane, juurdepääsetav või mitmele kasutajale kättesaamatu
 
-SharePointi või OneDrive võib olla aeglane, juurdepääsetav või saadaval mitmel põhjusel:
+SharePointi või OneDrive võib olla aeglane, kättesaamatu või pole saadaval mitmel põhjusel:
   
-- Kui OneDrive'i või SharePointi saidil on aeglane või hilisemat mitme kasutaja, võib teenuse ajutise probleemi kui kasutajate kogemusi ajutiste viivituste või navigeerimisvigade juurdepääsu SharePointi saitide või OneDrive'i sisu loomisel. [Teenuste seisundi armatuurlaud](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) näha, kui teie organisatsioonis on mõjutanud vaadata.
+- Kui teie SharePointi või OneDrive ' i sait on aeglane või viibib mitu kasutajat, võib olla ajutine teenuse probleem, kus kasutajad kogevad vahelduva viivitusi või navigeerimine tõrked SharePointi saitide või OneDrive ' i sisu kasutamisel. Kontrollige [teenuse tervise armatuurlauda](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et näha, kas teie organisatsioon on mõjutatud.
   
-- Kui teil tekib väike jõudlus **klassikaline** SharePointi saidil või lehe, kasutada [lehe diagnostikatööriista](https://aka.ms/perftool) analüüsida lehti.
+- Kui teil on aeglane **klassikaline** SharePointi saidi või lehe, kasutada [lehe diagnostikatööriista](https://aka.ms/perftool) analüüsimiseks lehed.
   
-- Kui üldise aegluse endiselt, vaadake käesoleva artikli allosas ressursside: [Sissejuhatus jõudluse häälestamine SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Kui teil on endiselt üldine aeglane jõudlus, vaadake selle artikli allosas ressursid: [Sissejuhatus jõudluse häälestamine SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

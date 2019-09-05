@@ -1,5 +1,5 @@
 ---
-title: Välise kasutaja ei saa kasutada SharePoint Online sisu
+title: Väline kasutaja ei pääse SharePoint Online ' i sisu
 ms.author: efrene
 author: efrene
 ms.date: ''
@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e948fc3fbba4b82904023b8da08b9ea723be694d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 06e964ec2d9f8b9cf1a8185ce78f067e7a0e42e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503919"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744097"
 ---
-# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Välise kasutaja ei saa kasutada SharePoint Online sisu
+# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Väline kasutaja ei pääse SharePoint Online ' i sisu
 
-Kui välise kasutaja on kutsutud ja ei saa juurdepääsu sisu, Palun proovige külastada alltoodud linke.
+Kui väline kasutaja on kutsutud ja ei pääse sisule juurde, proovige allolevaid linke külastada.
 
-- [Tõrketeade, kui välise kasutaja aktsepteerib SharePoint Online kutse teise kontoga](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Tõrketeade, kui väline kasutaja aktsepteerib SharePoint Online ' i kutse, kasutades teise kontoga](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Juurdepääs ühiskasutusega kausta keelatud](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Juurdepääs on keelatud ühiskasutusse antud kaustale](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [OSE vead SharePointis või OneDrive ühiskasutuse](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE ühiskasutuse tõrked SharePointis ja OneDrive ' is](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
