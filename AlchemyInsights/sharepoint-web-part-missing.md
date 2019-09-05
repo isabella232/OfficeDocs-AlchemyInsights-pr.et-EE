@@ -1,6 +1,6 @@
 ---
 title: Project Web App puudub SharePointi saidikogumi
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: a68fefa2f92ee43a6e26807fe89d034589b2476b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502558"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749652"
 ---
-# <a name="missing-web-part-in-sharepoint-site-collection"></a>Veebiosa SharePointi saidikogumi kadunud
+# <a name="missing-web-part-in-sharepoint-site-collection"></a>SharePointi saidikogumi veebiosa puudub
 
-Kui oleme harjunud nägema veebiosa on puudu, on võimalik proovite lisada [klassikaline kaasaegse lehe veebiosa](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). On oluline märkida, et kaasaegne lehed võivad kasutada ainult kaasaegne veebiosad ja klassikaline lehed võivad kasutada ainult klassikaline veebiosi. Paljudes tänapäeva täita samadel eesmärkidel kui klassikaline veebiosi, kuid näete välimus ja funktsionaalsus.
+Kui teil puudub veebiosa, mida te näete, on võimalik, et proovite lisada [klassikalisele veebiosale tänapäevast lehelt](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). On oluline märkida, et kaasaegne lehekülgi saab kasutada ainult kaasaegsed veebiosad ja klassikalised leheküljed saavad kasutada ainult klassikalisi veebiosi. Paljud kaasaegsed veebiosad täidavad samu eesmärke kui klassikalised veebiosad, kuid näete välimuse ja funktsionaalsuse erinevusi.
 
-Pole palju veebiosa, mis ei Näita [kohandatud skripti seadmine](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), mis on kaasaegne saidid vaikimisi keelatud tõttu. 
+On palju veebiosi, mis ei ilmu [kohandatud skripti sätte](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)tõttu, mis on vaikimisi kaasaegne saitidel keelatud. 
 
-Veebiosi, mis pole loetelu leiate, [kui kohandatud skript on blokeeritud funktsioonid](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+Mittesaadaval olevate veebiosade loendi leiate [kohandatud skripti blokeerimisel mõjutatud funktsioonid](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
- Kohandatud skripti turbeprobleemide kohta leiate teemast [võttes lubada kohandatud skripti](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+ Kohandatud skripti turbeprobleemide kohta leiate lisateavet teemast [kohandatud skripti lubamise turbekaalutlused](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).

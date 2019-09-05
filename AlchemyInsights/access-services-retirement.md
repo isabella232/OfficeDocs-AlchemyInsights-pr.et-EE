@@ -1,6 +1,6 @@
 ---
-title: Juurdepääs teenuste pensionile
-ms.author: kirks
+title: Juurdepääs teenustele pensionile
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495747"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747780"
 ---
-# <a name="access-services-retirement"></a>Juurdepääs teenuste pensionile
+# <a name="access-services-retirement"></a>Juurdepääs teenustele pensionile
 
-Kui me algselt teatas MC97576, märts 2017 ja jätkas suhelda viimase aasta jooksul on juurdepääsuteenused on pensionile Office 365. Järgmine etapp selles protsessis saab olema juurdepääs Web andmebaasidele, mida kasutama SharePointi loendid oma alusandmeid ladustamiseks eemaldamist.
+Nagu me algselt teatas MC97576, märtsis 2017, ja jätkas suhtlemine viimase aasta juurdepääsuteenused on pensionile Office 365. Järgmise etapi selle protsessi on eemaldamine Access Web andmebaasid, mis kasutavad SharePointi loendid nende aluseks andmete salvestamise.
 
 **Kuidas see mind mõjutab?**
 
-Alates juuni 2019, me peatus loomine uue Accessi andmebaaside SharePoint Online ja teenuse ja ülejäänud rakendused sulgeda aprill 2020.
+Alates juunist 2019, me peatada uute Accessi andmebaaside loomine SharePoint Online ' i ja sulgege teenus ja kõik ülejäänud rakendused aprill 2020.
 
-**Mida vaja valmistada selle muudatuse teha?**
+**Mida ma pean tegema, et selleks muutusega valmistuda?**
 
-Soovitame teil luua ettevõtte juurdepääsu veebiandmebaasid ülemineku kava. Administraatorid saate hankida juurdepääsu rakendused, mis kasutavad saitide loendi [SharePointi juurdepääs rakenduse skanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) .
+Soovitame luua oma organisatsiooni Accessi veebiandmebaasidele üleminekuplaani. Administraatorid saavad kasutada [SharePoint Accessi rakenduse skannerit](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) , et hankida veebisaite kasutavate Accessi rakenduste ladu.
 
-On mitu võimalust rännata andmetele juurdepääsu web andmebaasid:
+Accessi veebiandmebaaside andmete migreerimiseks on mitu võimalust.
 
-- Juurdepääs kohaliku andmebaasi importimine (. ACCDB) või Exceli faili.
-- Samuti soovitame uurida Microsoft PowerApps alternatiivse platvormi luua veebi ja mobiilseadmete koodita ärilahendusi.
+- Importimine kohalikku Accessi andmebaasi (. ACCDB) või Exceli faili.
+- Samuti soovitame uurida Microsoft PowerApps alternatiivse platvormina luua koodi Business lahendusi veebi-ja mobiilsideseadmete.

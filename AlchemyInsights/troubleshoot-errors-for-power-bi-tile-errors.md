@@ -1,5 +1,5 @@
 ---
-Title: Tõrkeotsing värskendamise stsenaariumid - plaatide
+title: Värskendusstsenaariumide tõrkeotsing-paani tõrked
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506835"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748824"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Tõrkeotsing värskendamise stsenaariumid - plaatide
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Värskendusstsenaariumide tõrkeotsing-paani tõrked
 
-Kui teil tekib plaatide Värskenda vead Power BI teenistuses, oodake umbes 10-15 minutit Värskenda kajastuma armatuurlaua plaadid. Kui see on ikka ei Näita üles, uuesti kinnitada armatuurlauale visualiseerimine.
+Kui teil tekib Power BI teenuse paani värskendamise tõrked, palun oodake umbes 10-15 minutit värskendamiseks kajastada armatuurlaua paanid. Kui see ikka ei kuvata, uuesti kinnitada visualiseerimine armatuurlauale.
 
-Lisateave:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Lisateavet:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

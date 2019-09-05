@@ -1,5 +1,5 @@
 ---
-title: Luua ja kasutada ühiskasutuses postkasti
+title: Ühiskasutusega postkasti loomine ja kasutamine
 ms.author: dianef
 author: dianef77
 ms.audience: ITPro
@@ -10,18 +10,18 @@ ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
 ms.common:
 - "358"
 - "3500003"
-ms.openlocfilehash: c9d6789b3e6ea438656bb10ff81e19ef9e77aa7d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5d704041fdf9245036bd20e13bad187f9aea9401
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665332"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736681"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Luua ja kasutada ühiskasutuses postkasti
+# <a name="create-and-use-a-shared-mailbox"></a>Ühiskasutusega postkasti loomine ja kasutamine
 
-Ühiskasutuses postkasti abil mitmele isikule saata ja vastu võtta e-posti pseudonüümi, nagu sales@contoso.com, teine juhiluba kaasamata.
+Ühiskasutusse antud postkasti võimaldab rohkem kui ühe isiku saata ja vastu võtta e-posti alias, nagu sales@contoso.com, ilma teise litsentsi määramist.
   
-- [Tehke](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) Microsoft 365 administreerimiskeskuses alustamiseks. 
+- Microsoft 365 halduskeskus alustamiseks toimige [järgmiselt](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) . 
 
-Lugege ka [ühiskasutuses postkasti](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) artikkel, mis ütleb teile kõik, mida vaja teada ühiskasutuses olevad postkastid, sealhulgas kuidas neid kasutada.
+Samuti saate lugeda [luua ühiskasutusse antud postkasti](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) artikkel, mis ütleb teile kõik, mida peate teadma ühiskasutusega postkastid, sealhulgas kuidas neid kasutada.
   

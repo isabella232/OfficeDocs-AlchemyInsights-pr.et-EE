@@ -1,5 +1,5 @@
 ---
-title: Muuda UPN
+title: Muuda UPN-i
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520843"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738589"
 ---
 # <a name="change-a-users-email-address"></a>Kasutaja e-posti aadressi muutmine
 
-Kellegi e-posti aadressi muutmine on lihtne! Lihtsalt järgige neid samme:
+Kellegi e-posti aadressi vahetamine on lihtne! Lihtsalt järgige neid samme:
   
-1. Microsoft 365 administreerimiskeskuses [Kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) lehele või **Kasutajad** \> **Aktiivsed kasutajad**.
+1. Microsoft 365 halduskeskus, minge lehele [Kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) või valige **kasutajate** \> **aktiivsed kasutajad**.
     
 2. Valige kasutaja.
     
-3. Paremal, on selle **kasutajanimi / e-post varjunimed** reas, valige käsk **Redigeeri**.
+3. Paremal, **kasutajanimi/e-posti pseudonüümide** rida, valige **Edit**.
     
-4. Väljale **pseudonüüm** sisestage uus meiliaadress ja klõpsake **Lisa**.
+4. Tippige väljale **pseudonüüm** uus meiliaadress ja seejärel valige **Lisa**.
     
-    **Tähtis**: kui saate tõrketeate " **ei leidu parameeter, mis vastab parameetri nimi" EmailAddresses**"tähendab see, et see võtab natuke kauem teie rentniku või kohandatud domeeni seadistuse lõpuleviimiseks, kui olete hiljuti lisanud ühe Office 365 . Häälestusprotsessi võib võtta kuni 4 tundi. Oodake nii seadistamisel on aega ja proovige siis uuesti. Kui probleem ei kao, helistage toetust ja nad teevad teile täieliku sünkroonimise.
+    **NB**!: kui kuvatakse tõrketeade " **parameetrit ei leita, mis vastab parameetri nimi" EmailAddresses**"See tähendab, et see võtab veidi kauem aega Office 365 lõpetada seadistamise oma rentniku või oma kohandatud domeeni kui olete hiljuti lisanud ühe . Installiprotsessi lõpuleviimiseks võib kuluda kuni 4 tundi. Oodake, kuni seadistusprotsessil on aega lõpuleviimiseks ja proovige siis uuesti. Kui probleem ei lahene, helistage tuge ja nad teevad teile täieliku sünkroonimise.
     
-    Kui saate tõrketeate " **kahjuks pole kasutaja ei saa redigeerida. Kasutaja teabe üle ja proovige uuesti**"See tähendab te ei ole Office 365 globaalne administraator ja teil pole õigust seda muuta kasutaja nime.
+    Kui kuvatakse tõrketeade " **meil on kahju, kasutajat ei saa redigeerida. Vaadake Kasutajateave üle ja proovige uuesti**"See tähendab, et te ei ole Office 365 globaalne admin ja teil pole õigust muuta kasutaja nimi.
     
-5. Valige **esmaseks** meiliaadressi, mida soovite seadistada peamist meiliaadressi kutsetele. Kui ostsite tellimuse GoDaddy, peab logige sisse oma halduskonsooli peamist meiliaadressi seadmiseks. 
+5. Valige **määrata esmane** e-posti aadress, mida soovite seada peamine e-posti aadress selle isiku. Kui ostsite oma tellimuse GoDaddy-lt, peate esmase meiliaadressi seadmiseks oma halduskonsoolile sisse logima. 
     
-6. Valige **Salvesta**, seejärel **tihe**, ja ongi kõik!
+6. Valige **Salvesta**, siis **Sule**ja sa oled valmis!
     
-Ei olnud nii lihtne? Üksikasjad ja ekraanikuvasid samme, lugege sellest artiklist: [Muuda kasutajanime ja e-posti aadress Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Kas polnud nii lihtne? Rohkem üksikasju ja samme ekraanipilte, vaadake seda artiklit: [muuta kasutajanime ja e-posti aadress Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

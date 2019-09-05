@@ -1,5 +1,5 @@
 ---
-title: Postkasti mahtu suurendada ettevõtte SKUs
+title: Suurendage ettevõtte SKU-dele postkasti mahtu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499419"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739273"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Kui teie postkasti maht on juba 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Mida teha, kui teie postkasti maht on juba 100GB
 
-E3 või E5 plaan, teie postkasti maht on juba 100 GB ja ei ole võimalik seda suurendada. Selle asemel kustutada vana e-posti või e-posti arhiveerimise talletatakse pilve sisse lülitada. 
+E3 või E5 plaaniga on teie postkasti maht juba 100 GB ja seda ei saa kuidagi suurendada. Selle asemel kustutage vana e-posti või lülitage e-posti arhiivimine salvestada see pilve. 
   
-E-posti arhiveerimise lubamine
+Meili arhiivimise lubamiseks toimige järgmiselt.
   
-1. Microsoft 365 administreerimiskeskuses, minge **Admin keskuste** \> **vahetus**. 
+1. Microsoft 365 halduskeskus, minge **admin keskused** \> **Exchange**. 
     
-2. **Valida** \> **postkastid**ja valige postkast. 
+2. Valige **adressaatide** \> **postkastid**ja postkasti valimine. 
     
-3. Valige all **Kohapealses arhiivis**üksikasjapaanil **lubade kasutada programmi**. 
+3. Valige jaotises kohapealset **arhiivi**üksikasjapaanil **Luba**. 
     
-4. Mõne minuti pärast ilmub uus kaust nimega *Kohapealses arhiivis* veebis oma kasutaja Outlook või Outlook app nimega *võrguarhiivi - \<nimi\> * . Teie kasutaja saate lohistada e-posti arhiivi. 
+4. Mõne minuti pärast kuvatakse uue kausta teie kasutaja Outlookis veebis nimega *-Place Arhiiv* või Outlook rakendus nimega * \<online Arhiiv-Name\> * . Kasutaja saab lohistada e-kirja arhiivi. 
     
-Pääsete piiramata salvestusruumi arhiivimiseks. Lisateabe saamiseks vt [Luba piiramatu arhiveerimine](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Saate arhiivimiseks kasutada piiramatu salvestusruumi. Lisateabe saamiseks vaadake [Luba piiramatu arhiveerimine](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
   
 

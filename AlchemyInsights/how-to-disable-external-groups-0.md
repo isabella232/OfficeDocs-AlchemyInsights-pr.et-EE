@@ -1,5 +1,5 @@
 ---
-title: Kuidas keelata välised rühmad
+title: Välisrühmade keelamine
 ms.author: pebaum
 author: pebaum
 ms.date: 8/1/2018
@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541212"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739561"
 ---
-# <a name="how-to-disable-external-groups"></a>Kuidas keelata välised rühmad
+# <a name="how-to-disable-external-groups"></a>Välisrühmade keelamine
 
-Selleks on neli võimalust välised kasutajad pääsevad oma Yammeri võrgustiku.
+On neli võimalust välised kasutajad pääsevad teie võrgule Yammeri.
   
-1. **Külalised** - administraatoritel Yammer saab kutsuda kontaktid välistelt domeenidelt kodu võrgu kasutajatele. Need kasutajad näevad kõik ettevõtte toita ja liituda teiste rühmade võrgud ning ühtlasi.
+1. **Külaliskasutajad** -Yammeri administraatorid saavad kutsuda kontakte väliste domeenide koduvõrgu kasutajatele. Need kasutajad näevad kõik ettevõtte sööda ja saab liituda teiste rühmade võrkudes samuti.
 
-2. **Välised kasutajad väliste gruppi** - välised rühmad väliskasutajatele. Väliste kasutajate juurdepääsemiseks on ainult välise kontrollrühma. Välised rühmad, saate ainult kutsuda kontaktid Yammeri võrgud, mis võimaldavad kasutajatel osaleda välise vestlused.
+2. Väliste **kasutajate välise rühma** -välised rühmad lubada väliste kasutajate. Välise kasutaja juurdepääsu ulatus on piiratud välise grupiga. Väliste gruppidega saate kutsuda kontakte ainult Yammeri võrkudes, mis lubavad kasutajatel osaleda välisvestlustes.
 
-3. **Väliste kasutajate Yammeri vestlust sisemine rühmas** - see valik võimaldab lisada mõne kindla vestluse osalejatega. Osalejatega saad osaleda vestlused otseselt neid on ja et selle vestluse manuseid. Nad pöörduvad need vestlused oma Yammeri sisendkausta (võrkudes). Neil ei ole juurdepääsu ülejäänud võrk.
+3. **Välised kasutajad Yammeri vestluse sisemine rühm** -see suvand võimaldab väliste osalejate lisada konkreetse vestluse. Välised osalejad saavad osaleda ainult vestlustes, mida nad on selgesõnaliselt kutsunud ja mis tahes selle vestluse manuseid. Nad pääsevad need vestlused kaudu oma Yammeri sisendkausta (oma võrgus). Neil ei ole juurdepääsu ülejäänud võrgule.
 
-4. **Välise võrgustikud** - see valik võimaldab kutsuda väliskasutajatele välise võrgu, mille administraatorid saate luua oma võrku. See suvand on kõige paremini hosting väliste ühenduste.
+4. **Välised võrgud** – see suvand võimaldab teil kutsuda väliseid kasutajaid välisvõrku, mis kontrollis administraatoritel teie võrgus luua. See valik sobib kõige paremini väliste kogukondade majutamiseks.
 
-Lisateabe saamiseks vt [Lisa sõnumside osalejatega oma Yammeri vestlused](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) ja [Välise sõnumside KKK (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Lisateabe saamiseks vaadake [Lisa väline sõnumside osalejad Yammeri vestlused](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) ja [väline sõnumside KKK (Yammeri)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

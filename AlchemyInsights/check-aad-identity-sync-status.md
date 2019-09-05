@@ -1,5 +1,5 @@
 ---
-title: AAD identiteedi sünkroonimise oleku kontrollimine
+title: Kontrollige AAD identiteedi sünkroonimise olekut
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520555"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738517"
 ---
-# <a name="check-aad-identity-sync-status"></a>AAD identiteedi sünkroonimise oleku kontrollimine
+# <a name="check-aad-identity-sync-status"></a>Kontrollige AAD identiteedi sünkroonimise olekut
 
-Kontrolli sünkroonimisolekut on lihtne:
+Sünkroonimise oleku kontrollimine on lihtne:
   
-- Logige sisse Microsoft 365 halduskeskus ja vali **DirSync** kodulehekülg.
+- Logige sisse Microsoft 365 halduskeskus ja valige **Dirsync olek** avalehel.
 
-- Vaheldumisi, võite minna kasutajad \> aktiivsed kasutajad ja valige lehel kasutajaid rohkem \> kataloogi sünkroonimise.
+- Vaheldumisi, võite minna kasutajate \> aktiivsed kasutajad ja valige lehel aktiivsed kasutajad rohkem \> kataloogi sünkroonimine.
 
-- Kataloogi sünkroonimise paanil valige Mine DirSync juhtimise.
+- Valige paanil kataloogi sünkroonimine käsk Mine DirSync haldus.
 
-Kui on probleem kataloogi sünkroonimist, loetletud vead sellel lehel. Võite kokku puutuda erinevate tõrgete kohta lisateabe saamiseks vt [nimetage kataloogi sünkroonimise tõrked Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Kui teie kataloogi sünkroonimisel esineb probleeme, on sellel lehel loetletud tõrked. Erinevate tõrgete kohta lisateabe saamiseks vaadake [Kuva kataloogi sünkroonimise tõrked Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

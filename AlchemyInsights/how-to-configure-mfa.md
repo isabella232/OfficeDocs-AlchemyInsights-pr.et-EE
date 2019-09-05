@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 851aed83ff87777666130dfd2009073d852cb643
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664028"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739633"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Mitmekordne autentimine konfigureerida Office 365
+# <a name="configure-multi-factor-authentication-in-office-365"></a>Konfigureerige mitme teguriga autentimine Office 365
 
-Makromajandusliku finantsabi konfigureerimiseks vaadake [seadistada mitmefaktorilist autentimist Office 365 kasutajatele](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx).
+MFA konfigureerimiseks vaadake [seadistada mitme teguriga autentimine Office 365 kasutajatele](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Pange tähele, et sa pead olema Office 365 globaalne administraator lubamiseks ja konfigureerimiseks makromajandusliku finantsabi.
+Pange tähele, et peate olema Office 365 globaalne admin lubamiseks ja konfigureerimiseks MFA.

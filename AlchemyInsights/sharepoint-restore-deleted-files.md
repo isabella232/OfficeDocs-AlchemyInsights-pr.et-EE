@@ -1,6 +1,6 @@
 ---
-title: Taastada kustutatud faili või kausta
-ms.author: kirks
+title: Kustutatud faili või kausta taastamine
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,34 +10,34 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 604690e62f09b7ca0618c4a581605e22f19a7732
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d9937c632212d12883a02860354b6112efd49a6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507447"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749904"
 ---
-# <a name="restore-a-deleted-file-or-folder"></a>Taastada kustutatud faili või kausta
+# <a name="restore-a-deleted-file-or-folder"></a>Kustutatud faili või kausta taastamine
 
-SharePoint Online'i säilitab varukoopiaid sisu tegelik kustutamise üle 14 päeva. Kui sisu ei saa taastada prügikasti või faile taastada, administraator pöörduda Microsoft Support nõuda igal ajal 14-päevase aknaga sees taastamise. Varukoopiatest taastamine lõpule viia ainult saidikogumite ja saitide, mitte jaoks kindlad failid, loenditele ja teekidele.
+SharePoint Online säilitab varukoopia kogu sisu 14 päeva pärast tegelikku kustutamist. Kui sisu ei saa prügikasti või failide taaste kaudu taastada, võib administraator võtta ühendust Microsofti tugiteenust, et taotleda taastamist igal ajal 14-päevase akna sees. Varukoopiaid saab lõpule viia ainult saidikogumite või alamsaitide puhul, mitte kindlate failide, loendite või teekide jaoks.
 
-Kui kustutate üksuse või saidi Sharepoint, see ei ole kohe eemaldada. Kustutatud üksused lähevad prügikasti aja. Selle aja jooksul saate taastada kustutatud üksused nende algses asukohas. Lisateabe saamiseks külastage alltoodud linke.
+Kui kustutate üksuse või saidi SharePointist, siis seda kohe ei eemaldata. Kustutatud üksused lähevad prügikasti ajaperioodiks. Selle aja jooksul saate kustutatud üksused oma algsesse asukohta taastada. Lisateabe saamiseks külastage allolevaid linke.
 
-[Taastada üksusi, SharePointi saidi prügikasti](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US).
+[SharePointi saidi prügikasti üksusi taastada](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b).
 
-[Taastada kustutatud faile ja kaustu OneDrive'is](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+[Kustutatud failide või kaustade taastamine OneDrive ' is](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-[Taastada kustutatud saidikogumi (sealhulgas rühma-, side- ja mujal)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[Kustutatud saidikogumi taastamine (sh rühm, suhtlus ja muud saidid)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Taastada kustutatud OneDrive'i saidi](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+[Kustutatud OneDrive ' i saidi taastamine](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Recycle bin hulgitoiminguid administraatoritel võib kaaluge [Sharepoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
+Hulgi prügikasti toimingute administraatoritel võib kaaluda kasutades [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
 
-**Funktsiooni Taasta failid**
+**Failide taastamise funktsioon**
 
-Kui palju teie OneDrive'i või SharePointi faile kustutada, saada üle kirjutada, rikutud või nakatunud pahavara, saate taastada kogu OneDrive'i või SharePointi teegi eelmisele näidule, kasutades funktsiooni Taasta failid.
+Kui palju teie OneDrive ' i või SharePointi failidest kustutatakse, kirjutatakse üle, rikutakse või on pahavara poolt nakatunud, saate taastada kogu oma OneDrive ' i või SharePointi teegi, kasutades failide taastefunktsiooni.
 
-[OneDrive teegi taastada](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+[OneDrive ' i teegi taastamine](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-[Dokumendi taastamine](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US.)
+[Dokumenditeegi taastamine](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 

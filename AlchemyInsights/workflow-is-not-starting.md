@@ -1,5 +1,5 @@
 ---
-title: Töövoog ei käivitu
+title: Töövoog ei käivitatav
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557966"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738085"
 ---
-# <a name="workflow-is-not-starting"></a>Töövoog ei käivitu
+# <a name="workflow-is-not-starting"></a>Töövoog ei käivitatav
 
-- SharePoint 2013 ja SharePoint 2010 töövoog ei käivitu.
+- SharePoint 2010 ja SharePoint 2013 töövoogude ei käivitamata.
 
-    - Kui teie töövoog ei käivitu, võib teenuse ajutise probleemi kui kasutajad võivad ilmneda vahelduva viivitused töövoog arenguga. [Teenuste seisundi armatuurlaud](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) näha, kui teie organisatsioonis on mõjutanud vaadata.
+    - Kui teie töövoog ei käivitust, võib olla ajutine teenuse probleem, kus kasutajad võivad kogeda vahelduva viivitusi töövoo edenemise. Kontrollige [teenuse tervise armatuurlauda](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) , et näha, kas teie organisatsioon on mõjutatud.
 
-    - Kui te esimest korda nägin see probleem on möödunud üle 24 tunni, logi palun toetust pilet. Paljudel juhtudel arendame juba lahenduse. Palun anna meile vähemalt 24 tundi, lahendus.
+    - Kui teil on möödunud rohkem kui 24 tundi pärast seda, kui te esimest korda seda probleemi, Palun logige tugiteenuse pilet. Paljudel juhtudel oleme juba lahenduse kallal töötanud. Palun andke meile vähemalt 24 tundi, et lahendus lõpule viia.
 
-- SharePoint 2010 töövoogu hilinenud Start.
+- SharePoint 2010 töövood viivitusega käivitamisel.
 
-    - See juhtub, kui töövoog käivitatakse suuri koguseid. (näiteks kui ridu lisatakse korraga).
+    - See juhtub, kui töövoog käivitatakse suur partiide. (näiteks kui korraga lisatakse mitu üksust).
 
-    - Töövood on mõeldud töötama reaalajas, nii et viivitus on-design käitumist.
+    - Töövoogude ei ole mõeldud töötama reaalajas, nii viivitus on-Design käitumist.
 
-   -  Kui töövoog on keeruliste laiendatav objekti Markup keel (XMOL), koostamine võib olla aeglane. On soovitatav [seda](https://support.microsoft.com/en-us/kb/3043697) artiklit.
+   -  Kui töövoog on keerukas laiendatav objekti märgistuskeel (XMOL), võib Kompileerimine olla aeglane. Vaadake [seda](https://support.microsoft.com//kb/3043697) artiklit.
 
-    - Tuleks lihtsustada töövoo või ümber kujundada, kasutades Microsoft SharePointi 2013 töövoo platvormi tüüp.
+    - Töövoogu tuleks lihtsustada või selle ümber kujundada, kasutades Microsoft SharePoint 2013 töövoo platvormi tüüp.
 
-    - Kui töövoo ajalugu on suur, võite selle üksuste likvideerimine või luua uus ajalooloend.
+    - Kui teie töövoo ajalugu on kasvanud suureks, võite soovida üksused puhastada või luua uue ajalooloendi.
 
-        Lisainfo: [puhastada töövoo ajalugu](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Lisateave: [Likvideeri töövoo ajalugu](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Seotud teemad
-Tahan proovida Microsoft Flow SharePoint Online?
-- [Luua voolu](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint ja voolu](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Soovite proovida Microsoft Flow SharePoint Online?
+- [Voo loomine](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePointi ja voog](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

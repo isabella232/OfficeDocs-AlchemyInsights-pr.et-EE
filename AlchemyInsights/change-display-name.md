@@ -1,5 +1,5 @@
 ---
-title: 959 muutus kuvatav nimi
+title: 959 Muuda kuvatav nimi
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519799"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736717"
 ---
-# <a name="change-your-display-name"></a>Kuvatavat nime muuta
+# <a name="change-your-display-name"></a>Kuvatava nime muutmine
   
-Saate muuta Outlookis kuvatavat nime, toimige järgmiselt.
+Outlooki kuvatava nime muutmiseks kasutage järgmisi juhiseid.
   
-1. Outlookis valige **fail** \> **Sätete** \> **Sätted**.
+1. Outlookis valige \> **failikonto sätete** \> **Kontosätted**. ****
 
-2. Valige konto ja seejärel **muutus**.
+2. Valige e-posti konto ja seejärel valige **Muuda**.
 
     > [!NOTE]
-    > Kui te ei näe võimalust oma kuvatavat nime muuta, kasutate ilmselt Microsoft Exchange'i meilikonto. Sellisel juhul peate pöörduma lisada kuvatavat nime. Vaata [muuta kasutajanime ja e-posti aadress Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Kui te ei näe kuvatavat nime muutmise võimalust, kasutate tõenäoliselt Microsoft Exchange ' i meilikontot. Sel juhul peate kuvatava nime muutmiseks pöörduma oma administraatori poole. Vaadake [muuta kasutajanime ja e-posti aadress Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Pärast muutmist kuvatavat nime, klõpsake nuppu **OK** muudatuste salvestamiseks. Võib võtta paar tundi kajastada sinu organisatsiooni muutuste.
+3. Pärast kuvatava nime muutmist klõpsake muudatuste salvestamiseks nuppu **OK** . Teie muudatuste kajastamiseks kogu organisatsioonis võib kuluda mõni tund.
 
-Lisateabe saamiseks vaadake [muutmine kuvatav nimi, mida meili adressaatidele näha](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Lisateabe saamiseks vaadake [Muuda kuvatav nimi, mida e-posti adressaadid näevad](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

@@ -1,5 +1,5 @@
 ---
-title: Alkeemia - loomine ja lisamine sõnumid Outlook allkirja
+title: Alchemy-luua ja lisada allkirja sõnumeid Outlookis
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664640"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737365"
 ---
-# <a name="creating-email-signatures"></a>E-posti allkirja loomine
+# <a name="creating-email-signatures"></a>E-posti allkirjade loomine
 
-Need artiklid aitavad luua Outlooki e-posti allkirja.
+Need artiklid peaksid aitama teil luua e-posti allkirjad Outlookis.
   
-- Soovin luua meilisõnumi allkirja, kasutades Outlook Windows: [loomine ja sõnumitele signatuuri lisamine](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Soovin luua e-posti allkirja, kasutades Outlooki Windowsis: [signatuuri loomine ja lisamine sõnumitele](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Soovin luua meilisõnumi allkirja, kasutades Outlook Web: [Loo ja lisada meilisõnumi allkirja Outlook Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Soovin luua e-posti allkirja, kasutades Outlooki veebis: [Looge ja lisage e-posti allkiri Outlookis veebis](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- Soovin luua meilisignatuuri, Outlook.com-i kaudu: [loomine ja e-kirja allkirja lisamine Outlook.com-i](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Soovin luua e-posti allkirja kasutades Outlook.com: [luua ja lisada e-posti allkiri Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Soovin luua ülemaailmse e-posti allkirja kõik meilisõnumid krediitkaardilt: [Loo kogu asutuses kehtivaid allkirjad ja LAHTIÜTLEMISED Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+- Soovin luua globaalse e-posti allkirja kõik minu ettevõttest saadetud e-kirjad: [luua organisatsiooni laiad allkirjad ja lahtiaajad](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
 
- **Vihje:** Üle kogu asutuse kehtivad allkirjad nimetatakse "Hoiatused".
+ **Näpunäide:** Organisatsiooni hõlmavaid allkirju nimetatakse "lahtiaastajad."
   

@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551807"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745069"
 ---
-# <a name="restore-a-user-in-office-365"></a>Taastada kasutaja Office 365
+# <a name="restore-a-user-in-office-365"></a>Taasta kasutaja Office 365
 
-Taastada kasutaja Office 365 abil järgmiselt:
+Taasta kasutaja Office 365, kasutades neid samme:
   
-1. Mine [kasutajate \> kustutada kasutajate](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Minge [ \> kasutajate kustutatud kasutajad](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Valige kasutaja, valige **taastada**.
+2. Valige kasutaja ja seejärel käsk **Taasta**.
 
-3. Järgige viipasid seada parooli.
+3. Järgige parooli seadmiseks viipasid.
 
-4. Kliki **saada- ja sulgege**, ja ongi valmis!
+4. Klõpsake nuppu **Saada e-posti ja sulgege**ja olete valmis!
 
-Ei olnud nii lihtne? Lähemalt ja ekraanipilt samme, lugege sellest artiklist: [taastada kasutaja Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Kui sa mõistad, peate selle asemel taastada kasutaja postkasti, vt: [kustutada või taastada kasutaja postkastide Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Kas polnud nii lihtne? Rohkem üksikasju ja juhiseid ekraanipilt, vaadake seda artiklit: [taastada kasutaja Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Kui te mõistate, et teil on vaja taastada kasutaja postkast, vaadake: [kustutage või taastada kasutaja postkastid Exchange Online '](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)i.

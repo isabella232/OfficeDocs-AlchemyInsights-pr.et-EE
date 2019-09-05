@@ -1,5 +1,5 @@
 ---
-title: Sain "Parameeter ei leitud" viga?
+title: Kas ilmnes tõrge "parameeter ei leita"?
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -11,21 +11,21 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: a3e12e84d30dc3fed34142c5c60d8fa2ffd6ee56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523471"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739849"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Rändavad e-posti IMAP e-posti süsteemi Office 365
+# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migreerimine e-posti IMAP e-posti süsteemi Office 365
 
-Rändavad e-posti IMAP e-posti süsteemi, järgige selles protsessis: [IMAP-migreerimist Microsoft 365 halduskeskus](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
+E-posti migreerimiseks IMAP-i e-posti süsteemist, järgige seda protsessi: [IMAP migratsioon Microsoft 365 halduskeskus](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Paljud suured organisatsioonid peavad hoolikalt planeerima, et kasutaja vastata. [Mida sa pead teadma oma IMAP-i postkasti Office 365 migreerimine](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) artikkel aitab teil juhtida muutusi.
+Paljud suured organisatsioonid on vaja hoolikalt planeerida, et hallata kasutaja ootusi. [Mida on vaja teada oma IMAP postkastid Office 365 artikli migreerimine](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) aitab teil hallata muutust.
 
-Vaata [vastu Office 365 Fasttracki](https://www.microsoft.com/fasttrack/microsoft-365/office-365) lehe rände, toetatud abi, kui nende.
+Palun kontrollige ka [võtta vastu Office 365 koos FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) lehekülg abiga abi rände, kui abikõlblikud.
   
 
-Vaata [vastu Office 365 Fasttracki](https://www.microsoft.com/fasttrack/microsoft-365/office-365) lehe rände, toetatud abi, kui nende.
+Palun kontrollige ka [võtta vastu Office 365 koos FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) lehekülg abiga abi rände, kui abikõlblikud.
   

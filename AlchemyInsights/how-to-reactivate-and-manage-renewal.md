@@ -1,5 +1,5 @@
 ---
-title: Kuidas aktiveerida ja hallata uuendamine
+title: Kuidas uuesti aktiveerida ja hallata uuendamist
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663956"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739309"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Uuesti aktiveerida ja korduvate arvete haldamine
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Korduva arveldamise uuesti aktiveerimine ja haldamine
 
-Paistab, et teil on tellimus, mis on lõppenud. Kui soovite uuesti aktiveerida see siin kuidas.
+Tundub, et teil on tellimus, mis on aegunud. Kui soovite selle uuesti aktiveerida, siis siin on kuidas.
   
-1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Minge administreerimiskeskuses lehele \> [arveldustooted _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . ****
 
-2. Valige tellimus, mida soovite aktiveerida. Valige jaotises **arve** **uuesti aktiveerida**.
+2. Leidke tellimus, mida soovite uuesti aktiveerida. Valige jaotises **Arveldamine** käsk **Aktiveeri uuesti**.
 
-    Kui näete **uuesti** valikut, "Vajad abi" nupu abil uuesti aktiveerida oma tellimust tehnikuga rääkida.
+    Kui te ei näe suvandit **Aktiveeri** uuesti, kasutage nuppu "Vajan abi", et rääkida tugiteenuse inseneriga, et tellimust uuesti aktiveerida.
 
-3. Kinnitage oma makseandmed. Saate värskendada oma olemasoleva makseteabe siin. Kui olete valmis makseviisi küsitakse, valige **uuesti**.
+3. Kinnitage makse üksikasjad. Siin saate olemasolevat makseteavet uuendada. Kui olete makseviisiks sisestamise lõpetanud, valige käsk **Aktiveeri uuesti**.
 
-Lisateabe saamiseks vaadake [uuesti aktiveerida oma tellimust](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Lisateavet leiate jaotisest [Kordustellimuse](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription)aktiveerimine. 
 
-Hallata iga kuu või iga aasta arved te saate lülitada **korduv arved** sisse või välja.
+Igakuise või iga-aastase arveldamise haldamiseks saate **korduva arveldamise** sisse või välja lülitada.
   
-1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Minge administreerimiskeskuses lehele \> [arveldustooted _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . ****
 
-2. Valige tellimus, millele soovite hallata korduvate arvete.
+2. Valige tellimus, mille jaoks soovite korduvat arveldamist hallata.
 
-3. **Arved**, kõrval **Renews kohta** või **Expiring kohta**, valige **Redigeeri**.
+3. Tehke jaotises **Arveldamine**valiku **uuendamise järel** või **aegumisel**valik **Redigeeri**.
 
-4. **Korduv arvelduse sätted** paanil valige **Lülita välja** lülitada. Kui korduvate arvete juba sisse lülitatud, valige **kuu** või **üks kord** sisse.
+4. Valige paanil **korduv arveldussätted** suvand **Lülita välja** , et see välja lülitada. Kui korduv arveldamine on juba välja lülitatud, valige **kuu** või **üks kord** , et see sisse lülitada.
 
-5. Valige **Edasta muuta**.
+5. Valige **Edasta muudatus**.
 
-Lisateabe saamiseks vaadake teemasid [makse perioodi kaupa sisse või välja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Lisateabe saamiseks vaadake teemat [korduva arveldamise väljalülitamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
