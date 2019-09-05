@@ -1,5 +1,5 @@
 ---
-title: Domeeni Office 365 rühma muutmine
+title: Muuda domeeni Office 365 rühma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 2d08c3b4091274daee8e47527b14865574715176
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519727"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736825"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Muuta domeeni Office 365 rühma
+# <a name="change-the-domain-for-office-365-group"></a>Office 365 rühma domeeni muutmine
 
-Kui soovite muuta domeeni Office 365 rühma loomise ajal, järgige [valida domeeni Office 365 rühmad loomisel kasutada](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx).
+Kui soovite muuta Office 365 rühma domeeni loomise ajal, järgige juhiseid, mida [kasutada office 365 rühmade loomisel](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-Office 365 rühmaga on juba loodud, on praegu kuidagi muuta domeeni. Ainus võimalus on luua uue Office 365 rühma ja vajaduse korral vana ära kustutada ( [Exchange'i halduskeskuse](https://outlook.office365.com/ecp.aspx)kaudu saab lisada e-posti aadressid).
+Pärast seda, kui Office 365 rühm on juba loodud, ei ole praegu võimalik muuta domeeni. Ainus võimalus on luua uus Office 365 rühma ja kustutada vana kui vaja (täiendavaid e-posti aadressid saab lisada kaudu [Exchange ' i halduskeskus](https://outlook.office365.com/ecp.aspx)).

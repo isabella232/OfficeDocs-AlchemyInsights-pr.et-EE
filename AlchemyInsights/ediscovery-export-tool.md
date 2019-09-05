@@ -1,5 +1,5 @@
 ---
-title: eDiscovery eksportimise vahend
+title: eDiscovery ekspordi tööriist
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528259"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736321"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Ei saa installida või käivitada eDiscovery Export Tool?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>EDiscovery Export tööriista ei saa installida või käivitada?
 
-Kui te ei saa installida või käivitada Office 365 eDiscovery Export tööriista alla laadida otsingutulemuste, kontrollige järgmisi asju:
+Kui te ei saa installida või käivitada Office 365 eDiscovery Export tööriista otsingutulemite allalaadimiseks, kontrollige järgmisi asju:
   
-- Kasutamisel arvuti vastab nende 5.1.3:
+- Arvuti, mida kasutate, vastab nendele eeltingimustele:
 
-  - 32 - või 64-bitiste versioonide Windows 7 ja uuemad versioonid
+  - 32-või 64-bitised versioonid Windows 7 ja uuemad versioonid
 
-  - Microsoft .NET Frameworki 4.7
+  - Microsoft .NET Framework 4,7
 
-  - Toetatud brauserit:
+  - Toetatud brauser:
 
-  - Minu pere
+  - Microsoft Edge
 
     Või
 
   - Internet Explorer 10 ja uuemad versioonid
 
-    Muud brauserid, Google Chrome ja Mozilla Firefox ei toeta.
+    Muid brausereid (nt Google Chrome ja Mozilla Firefox) ei toetata.
 
-- Teie organisatsioon saab ühendada lõpp-punkti Azure, mis on ** \*. blob.core.windows.net** (metamärki näitab ainuidentifikaatorile ekspordi töö).
+- Teie organisatsioon saab luua ühendust Azure ' i lõpp-punktiga, mis on ** \*. blob.Core.Windows.net** (metakaart tähistab teie eksporditöö ainulaadset identifikaatorit).
 
-- Oled määratud ekspordi osa Office 365 turvalisuse &amp; täitmise Center. Vaikimisi ainult on seda rolli e-juurdluse haldur rollirühmale määratud. Vaata [eDiscovery õiguste määramine](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Teil on määratud ekspordi rolli Office 365 Security &amp; vastavuse Center. Vaikimisi on see roll määratud ainult eDiscovery Manageri rollirühma. Vt teemat [eDiscovery õiguste määramine](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Lisateabe saamiseks vt [eksportida sisu Otsingu tulemused](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Lisateavet leiate jaotisest [sisu otsingu tulemuste eksportimine](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

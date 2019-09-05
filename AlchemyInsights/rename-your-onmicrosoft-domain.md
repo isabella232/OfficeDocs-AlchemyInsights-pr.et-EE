@@ -1,5 +1,5 @@
 ---
-title: Nimeta onmicrosoft Domeen
+title: Nimetage oma onMicrosofti Domeen ümber
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666476"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741217"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Nimeta onmicrosoft.com Domeen
+# <a name="rename-your-onmicrosoftcom-domain"></a>Nimetage oma onmicrosoft.com Domeen ümber
 
- **Ei saa ümber nimetada pärast onmicrosoft domeeni sisse logida.** Näiteks kui valisite esialgse domeeni *fourthcoffee.onmicrosoft.com*, ei saa muuta seda *fabrikam.onmicrosoft.com*. Erinevate onmicrosoft.com domeeni kasutamiseks teil alustada uue tellimuse Office 365.
+ **Pärast sisselogimist ei saa onMicrosofti domeeni ümber nimetada.** Näiteks kui valitud algne Domeen oli *fourthcoffee.onmicrosoft.com*, ei saa seda muuta *fabrikam.onmicrosoft.com*. Mõne muu onmicrosoft.com domeeni kasutamiseks peate alustama uue tellimuse Office 365.
   
-Kui soovite kasutada kohandatud domeeni *contoso.com* nagu, võib [lisada ühe sa ise](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) või [osta Microsoftilt](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Kui soovite kasutada kohandatud domeeni nagu *contoso.com* , saate [lisada ühe ise](https://docs.microsoft.com/office365/admin/setup/add-domain) või [osta üks Microsoftilt](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

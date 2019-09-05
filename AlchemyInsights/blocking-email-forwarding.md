@@ -1,5 +1,5 @@
 ---
-title: 726 blokeerimine meilide edasisaatmine
+title: 726 blokeerimine e-posti suunamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 4bb1516964fac51fac484cc5dbbacef495081e30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517603"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737725"
 ---
-# <a name="block-email-forwarding"></a>Blokeerida e-posti edastamine
+# <a name="block-email-forwarding"></a>Blokeeri meili suunamine
 
-E-posti edasisuunamise konkreetsele postkastile keelamiseks vt [e-posti suunamist häälestada](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).
+E-posti suunamine konkreetse postkasti keelamiseks vaadake [konfigureerimine e-posti suunamine](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
 
-Kogu organisatsiooni, [nõu, kuidas blokeerida automaatse e-posti edasisuunamise Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)e-kirjad blokeerida.
+Blokeerida e-posti edastamine kogu organisatsiooni, [palju võimalusi blokeerida automaatne e-posti suunamine Exchange Online '](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)i.

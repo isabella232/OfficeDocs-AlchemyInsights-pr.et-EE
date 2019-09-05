@@ -1,6 +1,6 @@
 ---
-title: Juurdepääs keelatud töövoo vaatamisel
-ms.author: kirks
+title: Juurdepääs on keelatud, kui vaatate töövoo
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495819"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747744"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Juurdepääs keelatud töövoo vaatamisel
+# <a name="access-denied-when-viewing-a-workflow"></a>Juurdepääs on keelatud, kui vaatate töövoo
 
-Saatmisel e-posti leviloendiga SharePointi rühm SharePointi 2013 töövoogude ebaõnnestuda kui SharePointi rühma liikmeid ei ole seatud kõigile tõrketeate "Juurdepääs keelatud".
+SharePoint 2013 töövoogude, mis üritavad saata e-posti SharePointi rühma võib nurjuda "juurdepääs keelatud" tõrketeade, kui SharePointi rühma liikmelisus on seatud kõigile.
   
- **Probleemi lahendamiseks toimige järgmiselt.**
+ **Selle probleemi lahendamiseks toimige järgmiselt.**
   
- 1. Luba SharePointi rühma liikmete vaatamiseks.
+ 1. Lubage kõigil näha SharePointi rühma liikmeid.
   
- 2. Eemaldage SharePointi rühm või koopia reale.
+ 2. Eemaldage SharePointi rühma e-posti rida to või CC.
   
- 3. Kasutajate selgesõnaliselt lisamiseks või koopia kui liikmeks nähtavust ei saa muuta SharePointi rühma.
+ 3. Selgesõnaliselt lisada kasutajad to või CC rida, kui liikmelisus nähtavus ei saa muuta SharePointi rühma.
   
-Et näha rohkem üksikasju vt [HTTP volitamata /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Lisateabe saamiseks vaadake palun [http volitamata/_vti_bin/Client.svc/SP.Utilities.Utility.sendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

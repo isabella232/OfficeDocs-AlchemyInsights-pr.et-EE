@@ -1,5 +1,5 @@
 ---
-title: Lisa veel üks e-posti pseudonüüm
+title: Lisa teine e-posti pseudonüüm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: c6ac69ab9a6063b2f42542c05cd7d21ec7d7be57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495099"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737329"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Luua või lisada kasutaja alias e-posti
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Kasutaja e-posti pseudonüümi loomine või lisamine
 
-On vaja luua kasutaja alias e-posti või e-posti aadressi lisada? Lihtsalt tehke!
+Kas soovite luua kasutaja e-posti pseudonüümi või lisada täiendava e-posti aadressi? Lihtsalt järgige neid samme!
   
-1. Microsoft 365 administreerimiskeskuses [Kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) lehele või **Kasutajad** \> **Aktiivsed kasutajad**.
+1. Microsoft 365 halduskeskus, minge lehele [Kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) või valige **kasutajate** \> **aktiivsed kasutajad**.
     
-2. **Kasutajaid** lehel Valige redigeeritav isiku nimi. 
+2. Valige lehel **aktiivsed kasutajad** isiku nimi, keda soovite redigeerida. 
     
-3. Paremal, on selle **kasutajanimi / e-post varjunimed** reas, valige käsk **Redigeeri**.
+3. Paremal, **kasutajanimi/e-posti pseudonüümide** rida, valige **Edit**.
     
-4. Väljale **pseudonüüm** sisestage uus meiliaadress ja klõpsake **Lisa**. Kui ostsite tellimuse GoDaddy või teise partneri, kui soovite Uus pseudonüüm esmane, peab lähete GoDaddy/partner halduskonsooli. 
+4. Tippige väljale **pseudonüüm** uus meiliaadress ja seejärel valige **Lisa**. Kui ostsite oma tellimuse GoDaddy või teise partneri, et määrata uue pseudonüüm esmane, peate minema GoDaddy/partner halduskonsooli. 
     
-    **Tähtis**: kui saate tõrketeate " **ei leidu parameeter, mis vastab parameetri nimi" EmailAddresses**"tähendab see, et see võtab natuke kauem teie rentniku või kohandatud domeeni seadistuse lõpuleviimiseks, kui olete hiljuti lisanud ühe Office 365 . Häälestusprotsessi võib võtta kuni 4 tundi. Oodake nii häälestusprotsessi on aega ja proovige siis uuesti. Kui probleem ei kao, helistage toetust ja nad teevad teile täieliku sünkroonimise.
+    **NB**!: kui kuvatakse tõrketeade " **parameetrit ei leita, mis vastab parameetri nimi" EmailAddresses**"See tähendab, et see võtab veidi kauem aega Office 365 lõpetada seadistamise oma rentniku või oma kohandatud domeeni kui olete hiljuti lisanud ühe . Installiprotsessi lõpuleviimiseks võib kuluda kuni 4 tundi. Oodake, kuni seadistatud protsessil on aega lõpuleviimiseks ja proovige siis uuesti. Kui probleem ei lahene, helistage tuge ja nad teevad teile täieliku sünkroonimise.
     
-    Tavaliselt kulub umbes 30 minutit Uus alias jõustumiseks.
+    Uue pseudonüümi jõustumiseks kulub tavaliselt umbes 30 minutit.
     
-    **Lisateavet, vaadake seda:** [Lisa e-posti aliases kasutajale](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    Lisateavet **leiate artiklist:** [Lisa teine e-posti pseudonüüm kasutajale](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 
