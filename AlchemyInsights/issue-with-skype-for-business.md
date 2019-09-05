@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 08a59e9ebcae5ab0daff6089b54a73339fea6fc9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661544"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739057"
 ---
 # <a name="issue-with-skype-for-business"></a>Probleem Skype’i ärirakendusega?
 
@@ -23,11 +23,10 @@ Tuvastasime probleemid, mistõttu ei pruugi Skype’i ärirakendus järgmiste do
   
 {HealthCheckString}
   
-Domeeni (DNS-i) sätete NS-, CNAME-, või SRV-kirjed on Skype’i ärirakenduse jaoks valesti konfigureeritud. Üksikasjalikud juhised leiate artiklist [Office 365 DNS-kirjete värskendamine](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).
+Domeeni (DNS-i) sätete NS-, CNAME-, või SRV-kirjed on Skype’i ärirakenduse jaoks valesti konfigureeritud. Täpsemad juhtnöörid leiate artiklist [DNS-i kirjete loomine Office 365 jaoks mis tahes DNS-hostiteenuse pakkuja lehel](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Probleemi lahendamiseks avage Microsoft 365 halduskeskuses leht [Domeenid](https://admin.microsoft.com/adminportal/home#/Domains) ja me aitame teid.
   
 Kui teil on probleeme ettevõtteväliste kasutajatega suhtlemisel, leiate üksikasjalikud juhised artiklist [Skype'i ärirakenduse veebiväljaande välissuhtluse häälestamine](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx).
-  
-Muud levinud lahendused leiate artiklist [KKK domeenide kohta](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).
+
   
