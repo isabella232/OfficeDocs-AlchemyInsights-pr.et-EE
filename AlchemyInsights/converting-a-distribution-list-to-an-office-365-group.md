@@ -1,5 +1,5 @@
 ---
-title: Leviloendi teisendamine Office 365 rühma 712
+title: 712 teisendamine leviloendi Office 365 rühma
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516415"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738337"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="b734a-102">Levirühma teisendamine kuvamiseks Office 365 rühmas</span><span class="sxs-lookup"><span data-stu-id="b734a-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="1c2d3-102">Levirühma teisendamine Office 365 rühma</span><span class="sxs-lookup"><span data-stu-id="1c2d3-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="b734a-103">Levirühmade saate teisendada Office 365 rühmad, kui need vastavad teatavatele kriteeriumidele.</span><span class="sxs-lookup"><span data-stu-id="b734a-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="b734a-104">Teisendada rühma või tõrkeotsing muutmise küsimustes, vt [uuendada Office 365 rühmad Outlook leviloendeid](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).</span><span class="sxs-lookup"><span data-stu-id="b734a-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).</span></span>
+<span data-ttu-id="1c2d3-103">Saate teisendada levirühmade Office 365 rühmad, kui nad vastavad teatud kriteeriumidele.</span><span class="sxs-lookup"><span data-stu-id="1c2d3-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="1c2d3-104">Rühma teisendamiseks või Teisendusprobleemide tõrkeotsinguks vaadake teemat [täiendamine leviloendid Office 365 rühmad Outlookis](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="1c2d3-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>

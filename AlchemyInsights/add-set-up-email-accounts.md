@@ -1,5 +1,5 @@
 ---
-title: 1800018 lisa moodustatavate Meilikontod
+title: 1800018 lisa/Seadista e-posti kontod
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494955"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737977"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="dc510-102">Outlooki Exchange'i meilikonto seadistamine</span><span class="sxs-lookup"><span data-stu-id="dc510-102">Problems setting up an Exchange email account in Outlook</span></span>
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="6e145-102">Outlooki Exchange ' i meilikonto häälestamisega seotud probleemid</span><span class="sxs-lookup"><span data-stu-id="6e145-102">Problems setting up an Exchange email account in Outlook</span></span>
 
-<span data-ttu-id="dc510-103">Kui teil on probleeme Exchange'i kontot Outlookis, käivitada [Outlooki konto seadistamise tööriist](https://aka.ms/SaRA-OutlookSetupProfile) nakatunud arvutis.</span><span class="sxs-lookup"><span data-stu-id="dc510-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="dc510-104">See teostab tehtavaid kontrolle ja anda oma konto seadistuse probleemi võimalikud lahendused.</span><span class="sxs-lookup"><span data-stu-id="dc510-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
+<span data-ttu-id="6e145-103">Kui teil on probleeme Outlooki Exchange ' i konto häälestamisega, saate käivitada mõjutatud arvutis [Outlooki konto seadistamise tööriista](https://aka.ms/SaRA-OutlookSetupProfile) .</span><span class="sxs-lookup"><span data-stu-id="6e145-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="6e145-104">See teeb mitmesuguseid kontrolle ja pakub teie konto seadistamise probleemile võimalikke lahendusi.</span><span class="sxs-lookup"><span data-stu-id="6e145-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
   
-<span data-ttu-id="dc510-105">Kui probleemid jätkuvad, vaadake [Outlook ei saa seadistada uue profiili kasutades Autodiscover Exchange'i Office 365 Exchange Online'i postkasti](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).</span><span class="sxs-lookup"><span data-stu-id="dc510-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).</span></span>
+<span data-ttu-id="6e145-105">Kui teil on endiselt probleeme, vaadake [Outlook ei saa luua uue profiili, kasutades Exchange ' i automaattuvastuse Exchange Online ' i postkasti Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span><span class="sxs-lookup"><span data-stu-id="6e145-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
   
