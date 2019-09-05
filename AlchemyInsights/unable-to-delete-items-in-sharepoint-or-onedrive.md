@@ -1,6 +1,6 @@
 ---
-title: Ei saa kustutada OneDrive'i või SharePointi üksuste
-ms.author: kirks
+title: SharePointi või OneDrive ' is ei saa üksusi kustutada
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -11,26 +11,26 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: b25e6d144dcefcfed4258e78ad5cfd4089ba7d1e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cc168846999c6880b95edfaedb2df8cf6e843a6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558649"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748542"
 ---
-# <a name="unable-to-delete-items"></a><span data-ttu-id="9e9c4-102">Ei saa üksusi kustutada</span><span class="sxs-lookup"><span data-stu-id="9e9c4-102">Unable to delete items</span></span>
+# <a name="unable-to-delete-items"></a><span data-ttu-id="2871b-102">Üksusi ei saa kustutada</span><span class="sxs-lookup"><span data-stu-id="2871b-102">Unable to delete items</span></span>
 
-<span data-ttu-id="9e9c4-103">SharePointi üksuste kustutamine probleeme?</span><span class="sxs-lookup"><span data-stu-id="9e9c4-103">Having issues deleting SharePoint items?</span></span>
+<span data-ttu-id="2871b-103">Kas SharePointi üksuste kustutamisel on probleeme?</span><span class="sxs-lookup"><span data-stu-id="2871b-103">Having issues deleting SharePoint items?</span></span>
 
-- <span data-ttu-id="9e9c4-104">Alati veenduge, et teil on [vastavad õigused](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) kustutada üksuse või [saidikogumi administraator](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) katse üksuse eemaldada.</span><span class="sxs-lookup"><span data-stu-id="9e9c4-104">Always make sure you have the [appropriate permissions](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) to delete the item or have a [site collection administrator](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) attempt remove the item.</span></span>
+- <span data-ttu-id="2871b-104">Veenduge alati, et teil on üksuse kustutamiseks [vajalikud õigused](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) või kui [saidikogumi administraator](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) proovib üksust eemaldada.</span><span class="sxs-lookup"><span data-stu-id="2871b-104">Always make sure you have the [appropriate permissions](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) to delete the item or have a [site collection administrator](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) attempt remove the item.</span></span>
 
-- <span data-ttu-id="9e9c4-105">Tagada, et üksusel ei ole [säilituspoliitika](https://docs.microsoft.com/office365/securitycompliance/retention-policies) setup.</span><span class="sxs-lookup"><span data-stu-id="9e9c4-105">Ensure that there is not a [retention policy](https://docs.microsoft.com/office365/securitycompliance/retention-policies) setup on the item.</span></span>
+- <span data-ttu-id="2871b-105">Veenduge, et üksusel pole [säilituspoliitika](https://docs.microsoft.com/office365/securitycompliance/retention-policies) seadistust.</span><span class="sxs-lookup"><span data-stu-id="2871b-105">Ensure that there is not a [retention policy](https://docs.microsoft.com/office365/securitycompliance/retention-policies) setup on the item.</span></span>
 
-- <span data-ttu-id="9e9c4-106">Tagada, et kaup ei ole mõnele teisele kasutajale [välja möllitud](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) .</span><span class="sxs-lookup"><span data-stu-id="9e9c4-106">Ensure the item is not [checked out](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) to another user.</span></span>
+- <span data-ttu-id="2871b-106">Veenduge, et üksus on [välja möllitud](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) teisele kasutajale.</span><span class="sxs-lookup"><span data-stu-id="2871b-106">Ensure the item is not [checked out](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) to another user.</span></span>
 
-- <span data-ttu-id="9e9c4-107">Administraatorid saavad kasutada [SharePoint ja tavasid](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) mis sisaldab Raamatukogu PowerShelli käsud, mille abil saab keerulisi juhtimise toiminguid nagu sundida kangekaelne üksuste kustutamine.</span><span class="sxs-lookup"><span data-stu-id="9e9c4-107">Finally, administrators can use [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) which contains a library of PowerShell commands that allow you to perform complex management actions such as force deleting stubborn items.</span></span>
-- [<span data-ttu-id="9e9c4-108">PNP faili eemaldamiseks</span><span class="sxs-lookup"><span data-stu-id="9e9c4-108">Remove PNP File</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
-- [<span data-ttu-id="9e9c4-109">PNP kausta eemaldamine</span><span class="sxs-lookup"><span data-stu-id="9e9c4-109">Remove PNP Folder</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
-- [<span data-ttu-id="9e9c4-110">PNP loendiüksuse eemaldada</span><span class="sxs-lookup"><span data-stu-id="9e9c4-110">Remove PNP List Item</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [<span data-ttu-id="9e9c4-111">Eemalda PNP loend</span><span class="sxs-lookup"><span data-stu-id="9e9c4-111">Remove PNP List</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [<span data-ttu-id="9e9c4-112">Eemalda PNP väli (veerg)</span><span class="sxs-lookup"><span data-stu-id="9e9c4-112">Remove PNP Field (Column)</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- <span data-ttu-id="2871b-107">Lõpuks administraatorid saavad kasutada [SharePointi mustrid ja tavad](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP), mis sisaldab teegi PowerShelli käske, mis võimaldavad teil sooritada keerukaid haldustoiminguid, näiteks jõu kustutamine kangekaelsed üksused.</span><span class="sxs-lookup"><span data-stu-id="2871b-107">Finally, administrators can use [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) which contains a library of PowerShell commands that allow you to perform complex management actions such as force deleting stubborn items.</span></span>
+- [<span data-ttu-id="2871b-108">PNP-faili eemaldamine</span><span class="sxs-lookup"><span data-stu-id="2871b-108">Remove PNP File</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
+- [<span data-ttu-id="2871b-109">Eemalda PNP-kaust</span><span class="sxs-lookup"><span data-stu-id="2871b-109">Remove PNP Folder</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
+- [<span data-ttu-id="2871b-110">Eemalda PNP loendiüksus</span><span class="sxs-lookup"><span data-stu-id="2871b-110">Remove PNP List Item</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
+- [<span data-ttu-id="2871b-111">Eemalda PNP-loend</span><span class="sxs-lookup"><span data-stu-id="2871b-111">Remove PNP List</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [<span data-ttu-id="2871b-112">Eemalda PNP-väli (veerg)</span><span class="sxs-lookup"><span data-stu-id="2871b-112">Remove PNP Field (Column)</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)

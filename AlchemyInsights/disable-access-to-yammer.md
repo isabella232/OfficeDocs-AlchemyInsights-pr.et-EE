@@ -1,5 +1,5 @@
 ---
-title: Juurdepääsu Yammeri
+title: Keela juurdepääs Yammerisse
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,15 +11,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 50f10f68670ca7fd68a771405f07f3bea4220ff4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512851"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740353"
 ---
-# <a name="disable-access-to-yammer"></a><span data-ttu-id="fb5db-102">Juurdepääsu Yammeri</span><span class="sxs-lookup"><span data-stu-id="fb5db-102">Disable access to Yammer</span></span>
+# <a name="disable-access-to-yammer"></a><span data-ttu-id="87eb0-102">Keela juurdepääs Yammeri</span><span class="sxs-lookup"><span data-stu-id="87eb0-102">Disable access to Yammer</span></span>
 
-<span data-ttu-id="fb5db-103">Yammeri juurdepääsu lahendus on blokeerida ja Yammeri Office 365 kasutajatele litsentside tühistamise.</span><span class="sxs-lookup"><span data-stu-id="fb5db-103">The solution to disable Yammer access is to block and unassign Yammer licenses for Office 365 users.</span></span> <span data-ttu-id="fb5db-104">Palun vaadake järgmine artikkel rohkem teavet.</span><span class="sxs-lookup"><span data-stu-id="fb5db-104">Please refer to the following article for more information.</span></span>
+<span data-ttu-id="87eb0-103">Yammeri juurdepääsu keelamiseks lahendus on blokeerida ja Tühista Yammeri litsentsid Office 365 kasutajatele.</span><span class="sxs-lookup"><span data-stu-id="87eb0-103">The solution to disable Yammer access is to block and unassign Yammer licenses for Office 365 users.</span></span> <span data-ttu-id="87eb0-104">Lisateabe saamiseks lugege järgmist artiklit.</span><span class="sxs-lookup"><span data-stu-id="87eb0-104">Please refer to the following article for more information.</span></span>
   
-- [<span data-ttu-id="fb5db-105">Yammeri Office 365 kasutajatele juurdepääsu välja lülitada</span><span class="sxs-lookup"><span data-stu-id="fb5db-105">Turn off Yammer access for Office 365 users</span></span>](https://support.office.com/article/1f79bfad-f713-4143-aa5d-5584985ce53a)
+- [<span data-ttu-id="87eb0-105">Yammeri juurdepääsu väljalülitamine Office 365 kasutajatele</span><span class="sxs-lookup"><span data-stu-id="87eb0-105">Turn off Yammer access for Office 365 users</span></span>](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)

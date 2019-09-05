@@ -11,19 +11,19 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f493daec299e5831f72b48d2ff1ae63c79c23b81
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506169"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738049"
 ---
-# <a name="trying-to-verify-your-domain"></a><span data-ttu-id="0e714-102">Kas soovite domeeni kinnitada?</span><span class="sxs-lookup"><span data-stu-id="0e714-102">Trying to verify your domain?</span></span>
+# <a name="trying-to-verify-your-domain"></a><span data-ttu-id="115a5-102">Kas soovite domeeni kinnitada?</span><span class="sxs-lookup"><span data-stu-id="115a5-102">Trying to verify your domain?</span></span>
 
-<span data-ttu-id="0e714-103">Kinnitamaks, et domeen kuulub teile, peate oma domeenregistripidaja juures lisama TXT-kirje.</span><span class="sxs-lookup"><span data-stu-id="0e714-103">You need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="0e714-104">Järgige Microsofti 365 halduskeskuses viisardit Uus domeen, avades **Häälestamine** \> **Domeenid** ja seejärel **Lisa domeen**.</span><span class="sxs-lookup"><span data-stu-id="0e714-104">Follow the New Domain wizard in the Microsoft 365 admin center by going to **Setup** \> **Domains**, and then **Add domain**.</span></span> 
+<span data-ttu-id="115a5-103">Kinnitamaks, et domeen kuulub teile, peate oma domeenregistripidaja juures lisama TXT-kirje.</span><span class="sxs-lookup"><span data-stu-id="115a5-103">You need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="115a5-104">Järgige Microsofti 365 halduskeskuses viisardit Uus domeen, avades **Häälestamine** \> **Domeenid** ja seejärel **Lisa domeen**.</span><span class="sxs-lookup"><span data-stu-id="115a5-104">Follow the New Domain wizard in the Microsoft 365 admin center by going to **Setup** \> **Domains**, and then **Add domain**.</span></span> 
   
-<span data-ttu-id="0e714-105">Domeeni kinnitamise jaoks TXT-kirje lisamiseks täitke allpool olevas artiklis toodud juhised.</span><span class="sxs-lookup"><span data-stu-id="0e714-105">Follow the instructions in the article below to add a TXT record to verify your domain.</span></span> <span data-ttu-id="0e714-106">Domeeni kohta käivate täpsemate juhiste lugemiseks valige oma domeeni registripidaja.</span><span class="sxs-lookup"><span data-stu-id="0e714-106">Select your domain registrar for specific instructions for your domain.</span></span>
+<span data-ttu-id="115a5-105">Domeeni kinnitamise jaoks TXT-kirje lisamiseks täitke allpool olevas artiklis toodud juhised.</span><span class="sxs-lookup"><span data-stu-id="115a5-105">Follow the instructions in the article below to add a TXT record to verify your domain.</span></span> <span data-ttu-id="115a5-106">Domeeni kohta käivate täpsemate juhiste lugemiseks valige oma domeeni registripidaja.</span><span class="sxs-lookup"><span data-stu-id="115a5-106">Select your domain registrar for specific instructions for your domain.</span></span>
   
-[<span data-ttu-id="0e714-107">DNS-i kirjete loomine Office 365 jaoks</span><span class="sxs-lookup"><span data-stu-id="0e714-107">Create DNS records for Office 365</span></span>](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[<span data-ttu-id="115a5-107">DNS-i kirjete loomine Office 365 jaoks</span><span class="sxs-lookup"><span data-stu-id="115a5-107">Create DNS records for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
   
 

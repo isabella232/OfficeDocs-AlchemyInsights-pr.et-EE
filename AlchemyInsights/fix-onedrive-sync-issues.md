@@ -1,5 +1,5 @@
 ---
-title: OneDrive'i sünkroonimisprobleemide lahendamine
+title: OneDrive ' i sünkroonimise probleemide lahendamine
 ms.author: matteva
 author: pebaum
 ms.date: 6/29/2018
@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
-ms.openlocfilehash: 99f8efcbd35c1980091afed683e07f68e33ed611
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 36946e14703993198f5fa2f96949815059c8cc14
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525105"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739993"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="1d826-102">OneDrive'i sünkroonimisprobleemide lahendamine</span><span class="sxs-lookup"><span data-stu-id="1d826-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="1e7f0-102">OneDrive ' i sünkroonimise probleemide lahendamine</span><span class="sxs-lookup"><span data-stu-id="1e7f0-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="1d826-103">Kui OneDrive pole failide sünkroonimise oodatud viisil, võite [OneDrive sünkroonimise probleemide tõrkeotsingut](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US).</span><span class="sxs-lookup"><span data-stu-id="1d826-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US).</span></span>
+<span data-ttu-id="1e7f0-103">Kui OneDrive ei sünkrooni faile nii, nagu te ootate, saate [OneDrive ' i sünkroonimise probleemide tõrkeotsing](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90).</span><span class="sxs-lookup"><span data-stu-id="1e7f0-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90).</span></span>
   
