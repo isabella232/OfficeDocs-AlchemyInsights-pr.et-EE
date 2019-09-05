@@ -1,5 +1,5 @@
 ---
-title: Soovitusi lahendamiseks "Litsentsimata toode" vead
+title: Soovitused "litsentsimata toote" tõrgete lahendamiseks
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501039"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743269"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="89444-102">Soovitusi lahendamiseks "Litsentsimata toode" vead</span><span class="sxs-lookup"><span data-stu-id="89444-102">Suggestions for solving "Unlicensed Product" errors</span></span>
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="05f34-102">Soovitused "litsentseerimata toote" tõrgete lahendamiseks</span><span class="sxs-lookup"><span data-stu-id="05f34-102">Suggestions for solving "Unlicensed Product" errors</span></span>
 
-<span data-ttu-id="89444-103">Veenduge, on tellimus, mis võimaldab kliendi litsentsid, nt Office 365 Business või Business Premium ja [tagada, et kasutaja on määratud](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="89444-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span> <span data-ttu-id="89444-104">[Tühista installimise](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) kontrollida, kui olete ületanud paigaldab toetab tellimuse number.</span><span class="sxs-lookup"><span data-stu-id="89444-104">[Deactivate an install](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) to check if you have exceeded the number of installs supported by your subscription.</span></span>
+<span data-ttu-id="05f34-103">Veenduge, et teil on tellimus, mis võimaldab kliendi litsentsid, näiteks Office 365 Business või Business Premium ja [veenduge, et kasutajal on määratud litsents](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="05f34-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span> <span data-ttu-id="05f34-104">[Desaktiveerige install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , et kontrollida, kas teie tellimusega toetatud installite arv on ületatud.</span><span class="sxs-lookup"><span data-stu-id="05f34-104">[Deactivate an install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) to check if you have exceeded the number of installs supported by your subscription.</span></span>
   
-<span data-ttu-id="89444-105">Tagada kasutaja logida sama konto, mis on määratud litsents.</span><span class="sxs-lookup"><span data-stu-id="89444-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
+<span data-ttu-id="05f34-105">Veenduge, et kasutaja on sisse logida sama kontoga, millel on määratud litsents.</span><span class="sxs-lookup"><span data-stu-id="05f34-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
   
-<span data-ttu-id="89444-106">[Aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy)käivitamine.</span><span class="sxs-lookup"><span data-stu-id="89444-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
+<span data-ttu-id="05f34-106">Käivitage [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="05f34-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
   
-<span data-ttu-id="89444-107">Kontrollige, kui teie tellimus staatus on lõppenud</span><span class="sxs-lookup"><span data-stu-id="89444-107">Check if your subscription status has expired</span></span>
+<span data-ttu-id="05f34-107">Kontrollige, kas tellimuse olek on aegunud</span><span class="sxs-lookup"><span data-stu-id="05f34-107">Check if your subscription status has expired</span></span>
   
-<span data-ttu-id="89444-108">Kontrollida kas on teenuse teadaolevad probleemid [Office 365 teenuseid tervise lehekülg](https://docs.microsoft.com/office365/enterprise/view-service-health) .</span><span class="sxs-lookup"><span data-stu-id="89444-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+<span data-ttu-id="05f34-108">Kontrollige [Office 365 teenuse tervise lehel](https://docs.microsoft.com/office365/enterprise/view-service-health) , et näha, kas on mingeid teadaolevaid probleeme teenusega.</span><span class="sxs-lookup"><span data-stu-id="05f34-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
   
-<span data-ttu-id="89444-109">[Office Online remont](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="89444-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="05f34-109">[Sooritada online remont Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="05f34-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="89444-110">Tõrkeotsingu lisalahendusi, vt: [litsentsimata toode ja aktiveerimistõrgete kontoris](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="89444-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="05f34-110">Täiendavate tõrkeotsingulahenduste leidmiseks vaadake: [litsentsimata toote-ja aktiveerimistõrked Office ' is](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="05f34-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
