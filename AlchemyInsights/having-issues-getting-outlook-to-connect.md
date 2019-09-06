@@ -1,5 +1,5 @@
 ---
-title: Probleeme Outlook ühendust saada?
+title: Kas Outlooki ühendamiseks on probleeme?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -8,23 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 0f576239078d9807dbf0b11d7d705f1b7d56acca
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 024aa4d8b747af61f9253b40e2edbad9f6df77d9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523183"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735673"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Probleeme Outlook ühendust saada?
+# <a name="having-issues-getting-outlook-to-connect"></a>Kas Outlooki ühendamiseks on probleeme?
 
-Avastasime, et Outlook pole konfigureeritud töötama korralikult järgmine (t):
+Oleme tuvastanud, et Outlook pole konfigureeritud töötama korralikult järgmistes domeenis (s):
   
 {HealthCheckString}
   
-NS või CNAME kirje domeeni (DNS) sätted ei ole setup õigesti. Üksikasjalikud juhised leiate artiklist [Office 365 DNS-kirjete värskendamine](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
+Domeeni (DNS) sätted NS või CNAME kirjed ei ole õigesti setup. Võite viidata [luua DNS-i kirjete DNS-i hosting pakkuja Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) üksikasjalikud juhised. 
   
 Probleemi lahendamiseks avage Microsoft 365 halduskeskuses leht [Domeenid](https://admin.microsoft.com/adminportal/home#/Domains) ja me aitame teid. 
-  
-Muud levinud lahendused leiate artiklist [Domeenide KKK](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
+
   
 

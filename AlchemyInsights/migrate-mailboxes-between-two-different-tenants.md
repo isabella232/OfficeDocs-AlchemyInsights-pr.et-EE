@@ -1,5 +1,5 @@
 ---
-title: Siirdamine ja kaks erinevate üürnike vahel
+title: Migreerige postkastid kahe erineva üürnike vahel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544643"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734449"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Siirdamine ja kaks erinevate üürnike vahel
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Migreerige postkastid kahe erineva üürnike vahel
 
-Võib osutuda postkastide vahel kaks erinevat üürnikud Office 365, näiteks kui on organisatsiooni ühinemise. Neid rände tuleb hoolikalt planeerida. Lugege järgmisi juhiseid:
+Võib-olla peate migreerima postkastid vahel kaks erinevat rentnike Office 365, näiteks kui on organisatsiooni ühinemise. Need migreerimist tuleks hoolikalt kavandada. Palun vaadake järgmisi juhiseid:
   
-[Kuidas postkastide migreerimiseks ühe Office 365 rentnikule teise](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Kuidas migreerida postkastid ühest Office 365 rentniku teise](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   
