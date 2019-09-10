@@ -1,5 +1,5 @@
 ---
-title: Klassikaline Outlook Web tagasi pöörata
+title: Tagasi pöörata klassikaline Outlook veebis
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 036de86ef0d18869a47bed6306e2df1b711ee764
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b50d8c94d831a1836a65077bc33cd7665db9baa9
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556021"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822088"
 ---
-# <a name="the-new-outlook-on-the-web"></a><span data-ttu-id="7610d-102">Uue Outlook Web</span><span class="sxs-lookup"><span data-stu-id="7610d-102">The new Outlook on the web</span></span>
+# <a name="the-new-outlook-on-the-web"></a><span data-ttu-id="a964f-102">Uus Outlook veebis</span><span class="sxs-lookup"><span data-stu-id="a964f-102">The new Outlook on the web</span></span>
 
-<span data-ttu-id="7610d-103">See ei ole enam võimalik taastada klassikaline Outlook web kogemus.</span><span class="sxs-lookup"><span data-stu-id="7610d-103">It's no longer possible to return to the classic Outlook on the web experience.</span></span> <span data-ttu-id="7610d-104">Kui soovite anda tagasisidet uus kogemus, Mine [UserVoice Foorum](https://outlook.uservoice.com/forums/313228--outlook-on-the-web-office-365).</span><span class="sxs-lookup"><span data-stu-id="7610d-104">If you'd like to give feedback about the new experience, go to the [UserVoice forum](https://outlook.uservoice.com/forums/313228--outlook-on-the-web-office-365).</span></span> <span data-ttu-id="7610d-105">Sa hääletada ideid või soovite näha küsimusi ja vastame top kommentaare ja ettepanekuid.</span><span class="sxs-lookup"><span data-stu-id="7610d-105">You can vote on the ideas or issues you'd like to see addressed, and we'll respond directly to the top comments and suggestions.</span></span>
+<span data-ttu-id="a964f-103">Ei ole enam võimalik naasta klassikaline Outlook Web kogemus.</span><span class="sxs-lookup"><span data-stu-id="a964f-103">It's no longer possible to return to the classic Outlook on the web experience.</span></span> <span data-ttu-id="a964f-104">Kui soovite anda tagasisidet uue kogemuse kohta, minge [UserVoice foorumisse](https://go.microsoft.com/fwlink/?linkid=2103182).</span><span class="sxs-lookup"><span data-stu-id="a964f-104">If you'd like to give feedback about the new experience, go to the [UserVoice forum](https://go.microsoft.com/fwlink/?linkid=2103182).</span></span> <span data-ttu-id="a964f-105">Võite hääletada ideede või teemade üle, mida soovite käsitleda, ja me vastame otse tippkommentaaridele ja ettepanekutele.</span><span class="sxs-lookup"><span data-stu-id="a964f-105">You can vote on the ideas or issues you'd like to see addressed, and we'll respond directly to the top comments and suggestions.</span></span>
 
-[<span data-ttu-id="7610d-106">Abi uue Outlook Web</span><span class="sxs-lookup"><span data-stu-id="7610d-106">Get help with the new Outlook on the web</span></span>](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[<span data-ttu-id="a964f-106">Hankige abi uue Outlookiga veebis</span><span class="sxs-lookup"><span data-stu-id="a964f-106">Get help with the new Outlook on the web</span></span>](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
