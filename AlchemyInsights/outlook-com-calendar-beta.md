@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com-i kalendri beetaversioon
+title: 9000198 Outlook.com kalender Beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548135"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821978"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Uus kalender kogemusi tulevad Outlook.com
 
-Uue ilme toob parima kujunduse ja õpetused posti kogemusi kalendrisse.
+Uus ilme toob parima kujunduse ja õpib e-posti kogemus kalender.
 
-Sa naudid kaasaegne disain, mis vähendab visuaalne segadusega ja annab teile kiiremat võimalust kalendris liikuda. Samuti on lihtsam leida huvitav kalendrid oma lemmik tegevuse — TV näitab spordiklubide ja sündmused.
+Saate nautida kaasaegne disain, mis vähendab visuaalse segaduse ja annab teile kiiremini navigeerida kalendrit. Samuti on lihtsam leida huvitavaid kalendreid oma lemmiktegevusteks – telesaateid spordimeeskondadele ja üritustele.
 
-Me meie kogumise sündmuse ikoone laiendatud ja uuendatud ilme ja olemasolevaid — ja nüüd automaatselt lisame vastava ikoonid sündmusi, nii et näete, mis toimub kiiresti.
+Me laiendasime oma sündmuste ikoonide kogumist ja ajakohasime olemasolevate välimuse ja tunnetega – ja nüüd lisame automaatselt teie sündmustele asjakohased ikoonid, nii et saate hõlpsalt näha, mis toimub lühidalt.
 
-Tagasisidet saab anda uusi funktsioone [Outlook.com-i kalendri UserVoice kanali](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197)kaudu.
+Saate anda tagasisidet uute funktsioonide kaudu [Outlook.com Calendar UserVoice kanal](https://go.microsoft.com/fwlink/?linkid=2103075).
