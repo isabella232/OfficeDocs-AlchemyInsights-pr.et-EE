@@ -1,5 +1,5 @@
 ---
-title: 1374 lahendada kaks postkastide howto
+title: 1374 lahendada kaks postkastid Howto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1374"
+- "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
+ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369841"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37026590"
 ---
-# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="81932-102">Kasutajal on kaks postkastid</span><span class="sxs-lookup"><span data-stu-id="81932-102">A user has two mailboxes</span></span>
+# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="09d9f-102">Kasutajal on kaks postkastid</span><span class="sxs-lookup"><span data-stu-id="09d9f-102">A user has two mailboxes</span></span>
 
-<span data-ttu-id="81932-103">Hübriid keskkondades, mis kasutavad Azure Active Directory (AAD ühenduse) või ühendust DirSync kogemata võib põhjustada kasutajal on kaks postkastid: üks asutusesiseses organisatsioonis ja pilves.</span><span class="sxs-lookup"><span data-stu-id="81932-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one in the on-premises organization and one in the cloud.</span></span>
+<span data-ttu-id="09d9f-103">Hübriid keskkondades, mis kasutavad Azure Active Directory ühenduse (AAD Connect) või DirSync võib kogemata põhjustada kasutaja on kaks postkastid: üks asutusesisese ja üks pilve.</span><span class="sxs-lookup"><span data-stu-id="09d9f-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one on-premises, and one in the cloud.</span></span> <span data-ttu-id="09d9f-104">Duplikaadi postkasti saab luua mõlemas kohas.</span><span class="sxs-lookup"><span data-stu-id="09d9f-104">A duplicate mailbox could be created in either place.</span></span>
 
-<span data-ttu-id="81932-104">Probleemi lahendamiseks vaadake [Lõplikult selge eelmise postkasti Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).</span><span class="sxs-lookup"><span data-stu-id="81932-104">To resolve this issue, see [Permanently Clear Previous Mailbox Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).</span></span>
+<span data-ttu-id="09d9f-105">Selle probleemi lahendamiseks vaadake, [Kuidas taastada, kui postkast on olemas Exchange Online ' i ja asutusesisese](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span><span class="sxs-lookup"><span data-stu-id="09d9f-105">To resolve this issue, see [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span></span> <span data-ttu-id="09d9f-106">Kui soovite lisateavet selle kohta, kuidas vältida selle juhtumist tulevikus, vaadake [minu kasutajal on postkast nii asutusesisese kui ka Exchange Online ' i. Aidake mind!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)</span><span class="sxs-lookup"><span data-stu-id="09d9f-106">If you want to learn more about how to avoid this from happening in the future, see [My user has a mailbox both on-premises and in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span></span>
