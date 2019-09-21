@@ -1,5 +1,5 @@
 ---
-title: Klassikaline SharePointi auditi aruanded
+title: Klassikaline SharePointi auditilogi aruanded
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504387"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068019"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePointis või OneDrive kontrollida logisid
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePointi ja OneDrive ' i auditilogi
 
-**SharePointis või OneDrive kaasaegne ühendatud auditi palgid vastavuse**
+**SharePointi ja OneDrive kaasaegne ühendatud audit logib vastavuse**
 
-- [Sisse/välja ühtne auditilogi](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Lülita sisse/välja ühendatud auditilogi logimine](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-OneDrive'i või SharePointi nõutakse täiendavaid konfiguratsiooni.
+SharePoint või OneDrive ei vaja täiendavat konfiguratsiooni.
 
-- Auditilogi Otsi abil saate kontrollida tegevus failid, kaustad, kasutaja (t), õigused:
+- Auditilogi otsingu abil saate kontrollida faili (de), kausta (de), kasutaja (te), õigusi:
 
-    - [Faili-ja lehekülg](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Kausta tegevuse](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Taotluse jagamine ja juurdepääsu tegevuse](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Tegevuste sünkroonimine](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Saidi administratsioon tegevuse](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Lisateavet allalaadimiseks need sündmused [Otsi auditilogisse](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [Faili-ja lehetegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Kausta tegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Jagamise ja juurdepääsu taotluse tegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Sünkroonimise tegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Saidihalduse tegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- Lisateavet nende sündmuste kohta leiate teemast [auditilogi otsing](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**SharePointi klassikaline auditilogid**
+**SharePointi klassikaline auditilogi**
 
-- [Vaata ja võimaldada klassikaline SharePointi auditilogid](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Me migreerisime SPO pärand auditeerimine Unified audit log (UAL). See tähendab sisuliselt, et kõik SPO pärand auditiaruanded on nüüd läbi UAL ja pärand auditi signaale on migreeritud UAL.
 
-Auditeerimise vajadust kohta iga saidikogumis lubatud. 
+Peamised muudatused:
 
-**Märkus**: soovitame kasutada kaasaegne ühendatud auditi palgid parem ja Täpsem auditi võimalusi kui need klassikaline auditilogid.
+- Korrastamine võimetena ei ole saadaval.
+- Jaotis, kus saate auditeerimiseks konkreetseid sündmusi valida, pole saadaval. Palun vaadake [seda dokumenti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) vaikimisi saadaolevate auditeeritud sündmuste täieliku loendi kohta.
+- **Kohandatud aruannete** all suvand "asukoht" pole saadaval. 
+- "Dokumentide avamine või allalaadimine" sündmused pole saadaval. 
 
