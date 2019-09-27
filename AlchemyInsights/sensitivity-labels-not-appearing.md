@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744817"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207221"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Tundlikkussilte ei kuvata
 
-Tundlikkuse sildid võimaldavad teil oma tundliku sisuga sisu klassifitseerida ja kaitsta. Selle funktsiooni kohta lisateabe saamiseks vaadake [tundlikkuse siltide ülevaade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Tundlikkuse sildid võimaldavad teil oma tundliku sisuga sisu klassifitseerida ja kaitsta. Neid saab luua Microsoft 365 vastavuse keskus, Microsoft 365 Turvakeskus või Office 365 Security & vastavuse Center jaotises klassifikatsioon > tundlikkuse sildid. Selle funktsiooni kohta lisateabe saamiseks vaadake [tundlikkuse siltide ülevaade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Kui konfigureerisite tundlikkuse silte, kuid neid ei kuvata Office ' i rakendustes, kontrollige järgmist.
 
@@ -32,5 +32,10 @@ Kui konfigureerisite tundlikkuse silte, kuid neid ei kuvata Office ' i rakendust
 - Kui [migreerite Azure ' i teabekaitse silte](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), arvestage [siin](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)loetletud kaalutlustega.
 
 - Andmete kadu vältimine (DLP) tugi: praegu ainult Säilitussildid saab kasutada tingimus DLP poliitika.  Tundlikkuse sildid DLP poliitika tugi ei ole veel saadaval, kuid me töötame selle kallal.
+
+- Kui tundlikkuse sildil on krüptimine lubatud, saate valida kas:
+    - Määra õigused kohe
+    - Luba kasutajatel õigusi määrata
+
 
 Võimalike probleemide kohta lisateabe saamiseks vaadake [teadaolevad probleemid tundlikkuse sildid](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
