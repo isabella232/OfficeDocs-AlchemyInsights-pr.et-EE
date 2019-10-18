@@ -17,10 +17,10 @@ ms.contentlocale: et-EE
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520627"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="c5b0a-102">Teave uue Outlook.com-i kohta</span><span class="sxs-lookup"><span data-stu-id="c5b0a-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="c2277-102">Teave uue Outlook.com-i kohta</span><span class="sxs-lookup"><span data-stu-id="c2277-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="c5b0a-103">[Lugege lisateavet](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) uue Outlook.com-i muudatuste kohta või otsige allpool asuva välja kaudu.</span><span class="sxs-lookup"><span data-stu-id="c5b0a-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="c2277-103">[Lugege lisateavet](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) uue Outlook.com-i muudatuste kohta või otsige allpool asuva välja kaudu.</span><span class="sxs-lookup"><span data-stu-id="c2277-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="c5b0a-104">Tulemite kuvamiseks liikuge kerides allapoole.</span><span class="sxs-lookup"><span data-stu-id="c5b0a-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="c2277-104">Tulemite kuvamiseks liikuge kerides allapoole.</span><span class="sxs-lookup"><span data-stu-id="c2277-104">Scroll down to see the results.</span></span>
   
 
