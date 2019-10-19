@@ -1,5 +1,5 @@
 ---
-title: Juurdepääsu Intune'iga
+title: Tingimuslik juurdepääs Intune ' iga
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504990"
 ---
-# <a name="conditional-access-with-intune"></a>Juurdepääsu Intune'iga
+# <a name="conditional-access-with-intune"></a>Tingimuslik juurdepääs Intune ' iga
 
-Kasutades **Tingimusjuurdepääsu** Intune'iga nõuab 3 sammu: 
+**Tingimusliku juurdepääsu** kasutamine Intune ' iga nõuab 3 etappi: 
   
-- **Tingimusliku juurdepääsu poliitika** , mis määratleb, milliseid ressursse on kaitstud, ja millised tingimused peavad olema täidetud juurdepääsu nende ressursside loomine. Näiteks seade peab olema ühilduv enne ettevõtte e-posti. 
+- Looge **tingimuslik juurdepääsupoliitika** , mis määratleb, milliseid ressursse kaitstakse, ja millised tingimused peavad neile ressurssidele juurdepääsuks vastama. Näiteks seade peab olema ühilduv enne juurdepääsu ettevõtte e-posti. 
     
-- Seadete, mis peavad olema täidetud enne seadme nõuetele **Vastavuse poliitika** loomine. Näiteks seade peab olema vähemalt 6-kohaline pin leiti nõuetele. 
+- Looge **Vastavuspoliitika** , et määratleda sätted, mis peavad olema täidetud enne seadme ühildumist. Näiteks peab seadmel olema vähemalt 6-kohaline PIN-kood, enne kui seda peetakse vastavaks. 
     
-- Tagada **Täitmise poliitika** ja **Tingimusliku juurdepääsu poliitika** on suunatud soovitud kasutajarühmade. See võib nõuda teostamise loomine Azure Active Directory. 
+- **Nõuetele vastavuse poliitika** ja **tingimuslike juurdepääsupoliitikate** tagamine on suunatud soovitud kasutajate rühmadele. See võib nõuda teatud kasutajate rühmade loomine Azure Active Directory. 
     
 Loe lähemalt:
   
-- [Tingimusliku juurdepääsu parimate tavade](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Tingimuslike juurdepääsu parimad tavad](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Alustamine: juurdepääsu](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Tingimusliku juurdepääsuga alustamine](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

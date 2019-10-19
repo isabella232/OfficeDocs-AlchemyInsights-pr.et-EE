@@ -1,5 +1,5 @@
 ---
-title: Outlook Web Õigekirja kontrollimine
+title: Kontrolli õigekirja Outlookis veebis
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510547"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Teie brauser kasutab õigekirja
+# <a name="use-your-browser-to-check-spelling"></a>Brauseri kasutamine õigekirja kontrollimiseks
 
-Puudub Outlook Web õigekirja sisse võimalus. Õigekirja kontrollimiseks peate oma veebibrauseris. Õigekirjakontroll on saadaval Microsoft Edge, Internet Explorer 10 ja uuemad versioonid ning Firefoxi, Chrome'i ja Safari uusimad. Kontrollige suvandeid brauser Lisateavet kuidas kontrollida õigekirja.
+Veebis pole õigekirjakontrolli suvandit Outlookis. Õigekirja kontrollimiseks peate kasutama oma veebibrauserit. Õigekirjakontroll on saadaval Microsoft Edge ' is, Internet Explorer 10-s ja uuemates versioonides ning Firefoxi, Chrome ' i ja Safari praegustele versioonidele. Kontrollige oma veebibrauseri suvandeid, et saada lisateavet õigekirja kontrollimise kohta.

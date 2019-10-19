@@ -1,5 +1,5 @@
 ---
-title: Sisemine muudatused
+title: Välise kasutaja juurdepääsu muutmine
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
 ms.openlocfilehash: a136938d3962c0b49a8711b5940ed650c0903c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36520807"
 ---
-# <a name="changes-to-external-user-access"></a>Sisemine muudatused
+# <a name="changes-to-external-user-access"></a>Välise kasutaja juurdepääsu muutmine
 
-Alates 23 märts 2018 välised kasutajad enam saab sisu, jagatud kõigile, kõigile autenditud kasutajatele või vormid kõigile, isegi kui nad on kutsutud või volitatud sõprade loendisse. Välised kasutajad saab ainult sisu, kasutaja või rühma, kuhu kasutaja kuulub jagatud. Kui soovite säilitada olemasolevad sätted, siis vaadake:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+Alates märts 23, 2018, välised kasutajad ei saa enam juurdepääsu sisule, mis on jagatud kõigiga, kõik autenditud kasutajad või kõik vormid kasutajad, isegi kui nad on kutsutud või lisatud lubatud rühmadele. Välised kasutajad pääsevad juurde ainult sisule, mis on ühiskasutuses kasutaja või gruppidega, kuhu kasutaja kuulub. Kui soovite oma olemasolevaid seadeid säilitada, lugege:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 

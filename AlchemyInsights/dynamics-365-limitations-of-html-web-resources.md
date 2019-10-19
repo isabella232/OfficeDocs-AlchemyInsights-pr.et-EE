@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 vormi XML-skeemi
+title: Dynamics 365 vormi XML-skeem
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528511"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Veebilehe (HTML) web ressursse piirangud
+# <a name="webpage-html-web-resources-limitations"></a>Veebilehe (HTML) veebiressursside piirangud
 
-* HTML-i veebiressurss ei tohi sisaldada koodi, mis tuleb käivitada server. ASP.NET-lehed ei saa üles laadida, kuna HTML veebiressursse.
+* HTML-i veebiressurss ei tohi sisaldada koodi, mis tuleb serveris käivitada. ASP.NET lehti ei saa laadida HTML-i veebiressurssina.
 
-* HTML-i veebiressursse nõustub ainult teatud päringustringi parameetrite. Lisateave: [edastada parameetreid HTML veebiressursse](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML-veebiressursid saavad aktsepteerida ainult piiratud arvu päringustringi parameetreid. Lisateave: [liigu parameetrite HTML-i veebiressurssidele](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Veebilehe HTML-veebiressursside](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Veebilehe (HTML) veebiressursid](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

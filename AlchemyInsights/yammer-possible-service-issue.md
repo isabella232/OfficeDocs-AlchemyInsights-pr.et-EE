@@ -1,5 +1,5 @@
 ---
-title: Yammeri - võimalik teenus probleemi
+title: Yammeri-võimalik teenuse probleem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,12 +12,12 @@ ms.custom:
 - "1338"
 - "2800001"
 ms.openlocfilehash: 7d89ce9a13430ac85fe3f634ccd106ef3f1e5532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557821"
 ---
-# <a name="yammer---possible-service-issue"></a>Yammeri - võimalik teenus probleemi
+# <a name="yammer---possible-service-issue"></a>Yammeri-võimalik teenuse probleem
 
-Võib esineda ajutine probleem, kus kasutajad võivad ilmneda vigu, kui juurdepääsu Yammeri. [Teenuste seisundi armatuurlaud](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) näha, kui see mõjutab teie võrgus vaadata.
+Võib olla ajutine probleem, kus kasutajad võivad ilmneda tõrked Yammeri kasutamisel. Kontrollige [teenuse tervise armatuurlauda](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et näha, kas see mõjutab teie võrku.

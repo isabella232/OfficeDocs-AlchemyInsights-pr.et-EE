@@ -1,5 +1,5 @@
 ---
-title: Küsimustes kogu paigaldus office Terminal Server lahendused
+title: Lahendused probleemidele Office ' i installimise kohta terminaliserveris
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501471"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Küsimustes kogu paigaldus office Terminal Server lahendused
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Lahendused probleemidele Office ' i installimise kohta terminaliserveris
 
-Ühiskasutatavas arvutis aktiveerimisega kasutamiseks peab teil olema Office 365 leping, mis sisaldab Office 365 ProPlus.
+Ühiskasutusega arvuti aktiveerimise kasutamiseks peab teil olema Office 365 kava, mis sisaldab Office 365 ProPlus.
   
-- Jaoks Office 365 ProPlus on lubatud ühiskasutatavas arvutis aktiveerimisega
+- Veenduge, et ühiskasutuses arvuti aktiveerimine on lubatud Office 365 ProPlus
     
 - Veenduge, et Office 365 ProPlus aktiveerimine õnnestus
     
-- Keskmiseks ühiskasutatavas arvutis aktiveerimisega tõrketeadetest:
+- Vaadake tõrketeated ühiskasutusse antud arvuti aktiveerimise kohta:
     
-  - "Leidsime oma kontol tooted ei saa kasutada Office'i aktiveerimiseks ühiskasutatavas arvutis stsenaariumid"
+  - "Teie kontol leiduvaid tooteid ei saa kasutada Office ' i aktiveerimiseks ühiskasutatava arvuti stsenaariumide puhul"
   
-See tõrge tähendab, et teil pole Office 365 leping, mis sisaldab Office 365 ProPlus.
+See tõrge tähendab, et teil pole Office 365 plaani, mis sisaldab Office 365 ProPlus.
     
   - "Litsentsimata toode"
     
-  - Kontrollige, et kasutajale on määratud litsentsi jaoks Office 365 ProPlus.
+  - Veenduge, et kasutajale on määratud litsents Office 365 ProPlus.
     
-  - Kontrollige, et kasutaja logib sisse oma kasutajakontoga Office 365
+  - Veenduge, et kasutaja logib sisse oma kasutajakonto Office 365
     
-  - Sisse on ühenduse ühiskasutusega arvuti ja Interneti vahel.
+  - Kontrollige, kas ühiskasutatava arvuti ja Interneti vahel on Ühenduvus.
     
-Laulu, vt: [tõrkeotsing probleemide puhul Office 365 ProPlus ühiskasutatavas arvutis aktiveerimisega](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Muud tõrkeotsingu näpunäited, vaadake: [tõrkeotsing probleemid ühiskasutusse antud arvuti aktiveerimine Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

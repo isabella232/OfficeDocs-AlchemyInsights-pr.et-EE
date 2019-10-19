@@ -1,5 +1,5 @@
 ---
-title: Luua saidi SharePoint Online
+title: SharePoint Online ' i saidi loomine
 ms.author: stevhord
 author: spowriter
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515900"
 ---
 # <a name="create-a-site"></a>Saidi loomine
 
-SharePoint Online'i saate luua eri tüüpi saite. Selleks uue SharePointi administreerimiskeskuses, vaadake teemat [Loo sait](https://go.microsoft.com/fwlink/?linkid=866295). Täpsemat infot, mis võimaldab kasutajatel luua oma saitidele, [Halda saidi loomist SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+SharePoint Online ' is saate luua erinevat tüüpi saite. Lisateavet uue SharePointi administreerimiskeskuse kohta leiate teemast [saidi loomine](https://go.microsoft.com/fwlink/?linkid=866295). Lisateavet selle kohta, kuidas lubada kasutajatel luua oma saite, vaadake teemat [SharePoint Online ' i saidi loomise haldamine](https://go.microsoft.com/fwlink/?linkid=866296).
  
-Uue saidi tüüpide kohta leiate teemast [rühma ühendatud meeskonnasaitide](https://go.microsoft.com/fwlink/?linkid=866292) või [teatist saidid](https://go.microsoft.com/fwlink/?linkid=866294).
+Lisateavet uute saiditüüpide kohta vt teemast [rühma ühendatud meeskonnatöö saidid](https://go.microsoft.com/fwlink/?linkid=866292) või [suhtlussaidid](https://go.microsoft.com/fwlink/?linkid=866294).
     
 
 

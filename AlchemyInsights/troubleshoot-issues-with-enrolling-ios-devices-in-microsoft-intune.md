@@ -1,5 +1,5 @@
 ---
-title: Tõrkeotsingu kasutamine iOS seadmeid Microsoft Intune
+title: Microsoft Intune ' i sisseveeretavate iOS-i seadmetega seotud probleemide tõrkeotsing
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
 ms.openlocfilehash: bdbfe7bae00a4c5cfa0edbe9a37522cc98e52401
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36506921"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Tõrkeotsingu kasutamine iOS seadmeid Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Microsoft Intune ' i sisseveeretavate iOS-i seadmetega seotud probleemide tõrkeotsing
 
-Läbi nende lahendamiseks nüüd allpool loetletud ressurssidele. 
+Vaadake allpool loetletud ressursid probleemi lahendamiseks kohe. 
   
-Mõned levinud tõrketeated ja lahendus:
+Mõned levinud tõrketeated ja eraldusvõime sammud:
   
-- **Seadme Cap jõudis** Kasutajal on rohkem kui seadme seadmete. Läbi nende dokumentide [seade eemaldada](https://docs.microsoft.com/intune/devices-wipe) või [muuta seadme piirang](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Seadme kork on saavutatud** Kasutajal on rohkem seadmeid, mis on registreeritud kui seadme piirang. Vaadake neid dokumente [seadme eemaldamiseks](https://docs.microsoft.com/intune/devices-wipe) või [seadme piirangu muutmiseks](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **See teenus ei toeta. Puudub liitumise poliitika:** Apple Push teatamise teenus (APNid) määramine peab olema konfigureeritud või uuendada. Läbi [selle dokumendi](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) juhiseid, kuidas seda teha. 
+- **Seda teenust ei toetata. Ei ole registreerimine poliitika:** Apple push Notification Service (APNS) tuleb konfigureerida või uuendada. Vaadake [seda dokumenti](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) juhiste saamiseks selle kohta, kuidas seda teha. 
     
-- **Kasutaja litsentsi tüüp sobimatu või Tundmatu kasutajanimi:** Kasutaja peab olema määratud Intune või EMS litsentsi. Läbi nende dokumentide kaudu litsentsi omistamiseks: [Office administreerimiskeskuse](https://docs.microsoft.com/intune/licenses-assign) või [Azure'i portaal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Kasutaja litsentsi tüüp kehtetu või kasutaja nimi ei tuvastata:** Kasutajale tuleb määrata Intune ' i või EMS-i litsents. Vaadake üle need dokumendid litsentsi määramiseks: [Office ' i halduskeskus](https://docs.microsoft.com/intune/licenses-assign) või [Azure ' i portaal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
-Lisaressursse, mis probleemi lahendada:
+Täiendavad ressursid probleemi lahendamiseks:
   
-1. Diagnoosimiseks ja lahendamiseks ühise registreerimise rikete [Intune tõrkeotsingu portaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) abil. Läbi [selle dokumendi](https://docs.microsoft.com/intune/help-desk-operators) lisateabe saamiseks. 
+1. Levinud registreerimise tõrgete diagnoosimiseks ja lahendamiseks kasutage [tõrkeotsingu portaali Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Vaadake [seda dokumenti](https://docs.microsoft.com/intune/help-desk-operators) rohkem üksikasju. 
     
-2. Läbi nende dokumentide nimekiri kõige sagedasemad vead, mis takistavad registreerimine ja lahendused igale: [tõrkeotsing juhend](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ja [tõrkeotsing doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Vaadake need dokumendid läbi levinud tõrgete loendi, mis takistavad registreerimise ja resolutsioonide iga: [tõrkeotsingu juhend](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ja [tõrkeotsingu doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-3. [Kuidas registreeruda Microsoft Intune iOS seadmeid](https://docs.microsoft.com/intune/ios-enroll).
+3. [Teave selle kohta, kuidas registreeruda iOS-i seadmeid Microsoft Intune ' is](https://docs.microsoft.com/intune/ios-enroll).
     
 

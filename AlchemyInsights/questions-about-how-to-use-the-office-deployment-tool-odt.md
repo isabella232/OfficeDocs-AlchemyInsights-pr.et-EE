@@ -1,5 +1,5 @@
 ---
-title: Küsimustele, kuidas kasutada Office'i juurutamise tööriist (ODT)
+title: Küsimused Office ' i juurutamise tööriista (ODT) kasutamise kohta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553536"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Küsimustele, kuidas kasutada Office'i juurutamise tööriist (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Küsimused Office ' i juurutamise tööriista (ODT) kasutamise kohta
 
-Office'i juurutamise tööriist alla laadida [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+Office ' i juurutamise tööriista alla laadida [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Pärast allalaadimist faili, käivitage iseavanev käivitatava faili, mis sisaldab Office'i juurutamise tööriist käivitatava (setup.exe) ja proovi konfiguratsioonifaili (configuration.xml).
+Pärast faili allalaadimist käivitage iseavanev täitmisfail, mis sisaldab Office ' i Juurutustööriista täitmisfaili (setup. exe) ja näidiskonfiguratsioonifaili (Configuration. XML).
   
- **Või eemaldada Office 365 ProPlus toodete kliendi arvutitega:**
+ **Välistada või eemaldada Office 365 ProPlus toodete klientarvutid:**
   
-Kui installite Office 365 ProPlus, jätta kindlaid tooteid. Selleks järgige juhiseid Office installida selle ODT, kuid sisaldavad ExcludeApp element konfiguratsioonifaili. Näiteks selle konfiguratsiooni faili installib Office 365 ProPlus toodete, välja arvatud Kirjastaja:
+Office 365 ProPlus installimisel saate välistada teatud tooted. Selleks järgige Office ' i ODT-ga installimiseks juhiseid, kuid lisage konfiguratsioonifailis Excludeappi element. Näiteks installib see konfiguratsioonifail kõik Office 365 ProPlusi tooted peale Publisheri:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ Kui installite Office 365 ProPlus, jätta kindlaid tooteid. Selleks järgige juh
 </Add>
 ```
 
-[Ülevaade Office'i juurutamise tööriist](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[Office ' i juurutamise tööriista ülevaade](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
   
 

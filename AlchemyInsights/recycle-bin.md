@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552974"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>SharePoint Online'i üksuste taastamine
+# <a name="restore-items-in-sharepoint-online"></a>SharePoint Online ' i üksuste taastamine
 
-Kui kustutate üksused SharePoint Online, nad on alles kokku 93 päeva. Nad viibivad saidi prügikasti kogu aeg, kui te tühjendada või üksused kustutada. Sel juhul minge kaubad saidi saidikogumi prügikasti, kui nad jäävad ülejäänud 93 päeva. Aeg lõpus kustutatakse jäädavalt üksused. Taastada kustutatud üksused saidi prügikasti:
+SharePoint Online ' i üksuste kustutamisel säilivad need kokku 93 päeva. Nad jääda saidi prügikasti kogu aeg, kui te ei Tühjenda või kustutage üksused. Sel juhul lähevad üksused saidikogumi prügikasti, kus nad on ülejäänud 93 päeva. Aja lõpus kustutatakse üksused jäädavalt. Kustutatud üksuste taastamiseks saidi prügikastis toimige järgmiselt.
   
-1. Minge veebisaidile ja klõpsake vasakpaani **Prügikast** . 
+1. Minge saidile ja klõpsake vasakpoolsel paanil **prügikasti** . 
     
-    Kui vasakpaani pole kuvatud **Prügikast** , klõpsake paremas ülanurgas seadete ikoonil ja seejärel klõpsake nuppu **saidi sisu**. Prügikast on paremas otsas ülaosas käsuriba.
+    Kui te ei näe vasakpoolsel paanil **prügikasti** , klõpsake paremas ülanurka ikoonil sätted ja seejärel klõpsake **saidi sisu**. Prügikast asub ülemisel käsuribal paremal.
     
-2. Valige lehel **Prügikasti** üksused taastada neid ja klõpsake märke ikoon, mis kuvatakse. 
+2. Valige lehel **Prügikast** üksused, mida soovite taastada, osutades neile ja klõpsates ilmuvat märkeruutuikooni. 
     
 3. Klõpsake nuppu **Taasta**.
     
-[Saidikogumi prügikasti kustutatud üksuste taastamine](https://go.microsoft.com/fwlink/?linkid=866439)
+[Taasta kustutatud üksused saidikogumi prügikastis](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

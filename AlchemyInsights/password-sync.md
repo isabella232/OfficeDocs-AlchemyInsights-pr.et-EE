@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36555373"
 ---
-# <a name="enable-password-sync"></a>Parooli sünkroonimise lubamise kohta
+# <a name="enable-password-sync"></a>Luba parooli sünkroonimine
 
-1.  Vali **DirSync** Microsoft 365 admin keskus kodulehel. 
+1.  Valige **Dirsync olek** Microsoft 365 administreerimiskeskuse avalehel. 
     
-     *Vaheldumisi, võite minna **kasutajate** \> **aktiivsed kasutajad**ja valige lehel kasutajaid **rohkem** \> **kataloogi sünkroonimine.*** 
+     *Vaheldumisi, võite minna **kasutajate** \> **aktiivsed kasutajad**ja valige lehel aktiivsed kasutajad **rohkem** \> **kataloogi sünkroonimine.*** 
     
-2. Kataloogi sünkroonimise paanil valida **minge DirSync juhtimine**. 
+2. Kataloogi sünkroonimise paanil valige **Mine DirSync haldus**. 
     
-3. Nüüd saate oma olekuteavet ning muuta:
+3. Nüüd näete oma olekut ja teete muudatusi.
     
-    **Parooli sünkroonimine on lubatud:** (True või False). Määrab, kas teil on parooli sünkroonimine on lubatud asutusesisese ja Office 365 rentnikule. 
+    **Parooli sünkroonimine on lubatud:** (TRUE või FALSE). Määrab, kas teil on parooli sünkroonimise lubatud asutusesisese ja Office 365 rentniku vahel. 
     
-    **Parooli sünkroonimine kesta:** (Parooli sünkroonimine jooksis viimast korda). See kuvatakse hoiatus ja link on tõrkeotsingu tööriist kui viimasest sünkroonimisest oli rohkem kui kolm päeva tagasi. 
+    **Viimane parooli sünkroonimine:** (Viimane kord parooli sünkroonimine jooksis). See kuvab hoiatuse ja tõrkeotsingu tööriista lingi, kui Viimane sünkroonimine oli pikem kui kolm päeva tagasi. 
     
 
