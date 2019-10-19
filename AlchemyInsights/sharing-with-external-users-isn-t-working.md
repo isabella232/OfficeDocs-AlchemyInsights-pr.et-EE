@@ -1,5 +1,5 @@
 ---
-title: Jagamine välistele kasutajatele ei tööta
+title: Ühiskasutus väliste kasutajatega ei tööta
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36502227"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a><span data-ttu-id="0ff5b-102">SharePointi sisu jagamine välistele kasutajatele probleemide lahendamine</span><span class="sxs-lookup"><span data-stu-id="0ff5b-102">Fix problems sharing SharePoint content with external users</span></span>
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a><span data-ttu-id="6595c-102">SharePointi sisu ühiskasutuse probleemide lahendamine väliste kasutajatega</span><span class="sxs-lookup"><span data-stu-id="6595c-102">Fix problems sharing SharePoint content with external users</span></span>
 
-<span data-ttu-id="0ff5b-103">Veenduge, et väline jagamine on lubatud oma organisatsiooni:</span><span class="sxs-lookup"><span data-stu-id="0ff5b-103">Make sure external sharing is turned on for your organization:</span></span>
+<span data-ttu-id="6595c-103">Veenduge, et väline ühiskasutus oleks teie organisatsiooni jaoks sisse lülitatud.</span><span class="sxs-lookup"><span data-stu-id="6595c-103">Make sure external sharing is turned on for your organization:</span></span>
   
-1. <span data-ttu-id="0ff5b-104">Mine ning [teenuste &amp; lisandmoodulid Microsoft 365 administreerimiskeskuses lehe](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), ja klõpsake nuppu **saidid**.</span><span class="sxs-lookup"><span data-stu-id="0ff5b-104">Go to the [Services &amp; add-ins page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), and click **Sites**.</span></span>
+1. <span data-ttu-id="6595c-104">Minge [microsofti 365 halduskeskus lehele teenuste &amp; lisandmoodulid](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)ja klõpsake **saite**.</span><span class="sxs-lookup"><span data-stu-id="6595c-104">Go to the [Services &amp; add-ins page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), and click **Sites**.</span></span>
     
-2. <span data-ttu-id="0ff5b-105">Veenduge, et seade on sisse lülitatud, "Sees".</span><span class="sxs-lookup"><span data-stu-id="0ff5b-105">Make sure the setting is turned to "On."</span></span> <span data-ttu-id="0ff5b-106">Kui "Ainult olemasoleva välise kasutajate" on valitud, veenduge, et välise kasutaja on loetletud Microsoft 365 halduskeskus.</span><span class="sxs-lookup"><span data-stu-id="0ff5b-106">If "Only existing external users" is selected, make sure the external user is listed in the Microsoft 365 admin center.</span></span>
+2. <span data-ttu-id="6595c-105">Veenduge, et säte oleks sisse lülitatud.</span><span class="sxs-lookup"><span data-stu-id="6595c-105">Make sure the setting is turned to "On."</span></span> <span data-ttu-id="6595c-106">Kui "ainult olemasolevad välised kasutajad" on valitud, veenduge, et väline kasutaja on loetletud Microsoft 365 halduskeskus.</span><span class="sxs-lookup"><span data-stu-id="6595c-106">If "Only existing external users" is selected, make sure the external user is listed in the Microsoft 365 admin center.</span></span>
     
-<span data-ttu-id="0ff5b-107">Veenduge, et väline jagada seda lubatud ala.</span><span class="sxs-lookup"><span data-stu-id="0ff5b-107">Make sure external sharing it turned on for the site.</span></span> <span data-ttu-id="0ff5b-108">Klassikaline saidikogumi:</span><span class="sxs-lookup"><span data-stu-id="0ff5b-108">For a classic site collection:</span></span>
+<span data-ttu-id="6595c-107">Veenduge, et väline ühiskasutus oleks saidi jaoks sisse lülitatud.</span><span class="sxs-lookup"><span data-stu-id="6595c-107">Make sure external sharing it turned on for the site.</span></span> <span data-ttu-id="6595c-108">Klassikaline saidikogumi:</span><span class="sxs-lookup"><span data-stu-id="6595c-108">For a classic site collection:</span></span>
   
-1. <span data-ttu-id="0ff5b-109">Uus SharePointi administreerimiskeskuses, vasakul paanil klõpsake nuppu **saidid**.</span><span class="sxs-lookup"><span data-stu-id="0ff5b-109">In the new SharePoint admin center, in the left pane, click **sites**.</span></span>
+1. <span data-ttu-id="6595c-109">Klõpsake uue SharePointi administreerimiskeskus vasakpoolsel paanil **saidid**.</span><span class="sxs-lookup"><span data-stu-id="6595c-109">In the new SharePoint admin center, in the left pane, click **sites**.</span></span>
     
-2. <span data-ttu-id="0ff5b-110">Valige või kohtadesse ja lindi nuppu **ühiskasutus**.</span><span class="sxs-lookup"><span data-stu-id="0ff5b-110">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
+2. <span data-ttu-id="6595c-110">Valige sait või saidid ja klõpsake lindil valikul **ühiskasutus**.</span><span class="sxs-lookup"><span data-stu-id="6595c-110">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
     
-<span data-ttu-id="0ff5b-111">Meeskonnatöö saidi, mis kuulub Office 365 rühma või teatise saidi:</span><span class="sxs-lookup"><span data-stu-id="0ff5b-111">For a team site that belongs to an Office 365 group, or a communication site:</span></span>
+<span data-ttu-id="6595c-111">Meeskonnatöö sait, mis kuulub Office 365 rühma või side saidi:</span><span class="sxs-lookup"><span data-stu-id="6595c-111">For a team site that belongs to an Office 365 group, or a communication site:</span></span>
   
-- <span data-ttu-id="0ff5b-112">Uue saidi selliseid on sama ühiskasutuse säte kui oma kogu asutuses kehtivaid sätteid, kui kogu asutuses kehtivaid säte võimaldab jagada faile, linke, mis ei nõua sisselogimist kasutades.</span><span class="sxs-lookup"><span data-stu-id="0ff5b-112">These new site types have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in.</span></span> <span data-ttu-id="0ff5b-113">Sel juhul saidid võimaldavad jagada uute ja olemasolevate väliste kasutajate sisselogimine.</span><span class="sxs-lookup"><span data-stu-id="0ff5b-113">In this case, the sites allow sharing with new and existing external users who sign in.</span></span> <span data-ttu-id="0ff5b-114">Konkreetsetele lehekülgedele sätte muutmiseks kasutage uue SharePointi administreerimiskeskuse või PowerShelli.</span><span class="sxs-lookup"><span data-stu-id="0ff5b-114">To change the setting for specific sites, use the new SharePoint admin center or PowerShell.</span></span> <span data-ttu-id="0ff5b-115">[Lisateave](https://go.microsoft.com/fwlink/?linkid=871863).</span><span class="sxs-lookup"><span data-stu-id="0ff5b-115">[Learn more](https://go.microsoft.com/fwlink/?linkid=871863).</span></span>
+- <span data-ttu-id="6595c-112">Need uued saiditüübid on sama ühiskasutuse säte kui teie organisatsiooni hõlmav säte, kui organisatsiooni hõlmav säte võimaldab failide ühiskasutust, kasutades linke, mis ei nõua sisselogimist.</span><span class="sxs-lookup"><span data-stu-id="6595c-112">These new site types have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in.</span></span> <span data-ttu-id="6595c-113">Sel juhul saidid võimaldavad ühiskasutus uute ja olemasolevate väliste kasutajatega, kes sisse logida.</span><span class="sxs-lookup"><span data-stu-id="6595c-113">In this case, the sites allow sharing with new and existing external users who sign in.</span></span> <span data-ttu-id="6595c-114">Kindlate saitide sätte muutmiseks kasutage uut SharePointi administreerimiskeskust või PowerShelli.</span><span class="sxs-lookup"><span data-stu-id="6595c-114">To change the setting for specific sites, use the new SharePoint admin center or PowerShell.</span></span> <span data-ttu-id="6595c-115">[Lisateave](https://go.microsoft.com/fwlink/?linkid=871863).</span><span class="sxs-lookup"><span data-stu-id="6595c-115">[Learn more](https://go.microsoft.com/fwlink/?linkid=871863).</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="0ff5b-116">Välise jagamise säte meetmeid saab rohkem piiranguid kui kogu asutuses kehtivaid keskkonnas, kuid mitte rohkem kui kogu asutuses kehtivaid säte leebe.</span><span class="sxs-lookup"><span data-stu-id="0ff5b-116">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
+> <span data-ttu-id="6595c-116">Väline ühiskasutuse säte iga saidi jaoks võib olla kitsendavam kui teie organisatsiooni hõlmav säte, kuid mitte rohkem kui organisatsiooni hõlmav säte.</span><span class="sxs-lookup"><span data-stu-id="6595c-116">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
   
 

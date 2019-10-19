@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
 ms.openlocfilehash: 20f28659b2b4a3d8920c2143cfa25bc109fc0096
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742369"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="bdbd4-102">Lülita suunatud sisendkausta e-posti kliendid</span><span class="sxs-lookup"><span data-stu-id="bdbd4-102">Turn off Focused Inbox in email clients</span></span>
+# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="9bd33-102">Lülita suunatud sisendkausta e-posti kliendid</span><span class="sxs-lookup"><span data-stu-id="9bd33-102">Turn off Focused Inbox in email clients</span></span>
 
-<span data-ttu-id="bdbd4-103">Suunatud sisendkausta välja lülitada Outlook 2016, Outlook veebis, Outlook.com/Hotmail.com, Outlook 2016 for Mac või Mail for Windows 10, vaadake [Lülita suunatud sisendkausta](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span><span class="sxs-lookup"><span data-stu-id="bdbd4-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
+<span data-ttu-id="9bd33-103">Suunatud sisendkausta välja lülitada Outlook 2016, Outlook veebis, Outlook.com/Hotmail.com, Outlook 2016 for Mac või Mail for Windows 10, vaadake [Lülita suunatud sisendkausta](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span><span class="sxs-lookup"><span data-stu-id="9bd33-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
 
-<span data-ttu-id="bdbd4-104">Et välja lülitada suunatud sisendkausta kõigile organisatsioonis, vaadake [konfigureerida suunatud sisendkausta kõigile oma organisatsioonis](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="bdbd4-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="9bd33-104">Et välja lülitada suunatud sisendkausta kõigile organisatsioonis, vaadake [konfigureerida suunatud sisendkausta kõigile oma organisatsioonis](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="9bd33-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
