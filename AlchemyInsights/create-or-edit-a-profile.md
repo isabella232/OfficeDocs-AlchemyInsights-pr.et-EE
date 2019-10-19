@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515155"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Looge või redigeerige Outlooki profiili
+# <a name="create-or-edit-an-outlook-profile"></a>Outlooki profiili loomine või redigeerimine
 
-Looma uue Outlooki profiili, profiili redigeerimine või muuta profiilide nimetusi, tehke järgmist.
+Uue Outlooki profiili loomiseks, profiili redigeerimiseks või profiili ümbernimetamiseks kasutage järgmisi juhiseid.
   
-1. Outlookis valige **fail** \> **Sätete muutmine** \> **Hallata profiilid**.
+1. Outlookis valige \> **failikontosätted** \> **Halda profiile**. ****
     
-2. Dialoogiboksi **Meilihäälestus** käsku **Kuva profiilid**.
+2. Valige dialoogis **meili häälestus** suvand **Kuva profiilid**.
     
 3. Tehke ühte järgmistest:
     
-  - Uue profiili loomiseks valige **Lisa**.
+  - Uue profiili loomiseks valige käsk **Lisa**.
     
-  - Muuda või Muuda profiili nime, valige **Atribuudid**.
+  - Profiili redigeerimiseks või ümbernimetamiseks valige **Atribuudid**.
     
-Kui teil on probleeme loomisel või redigeerimisel Outlooki profiili, käivitada [Outlook profiili tööriist](https://aka.ms/SaRA-OutlookSetupProfile) nakatunud arvutis. Ta täidab mõne kontrolli, ja kui te ei Loo Outlooki profiili oma e-posti aadress. 
+Kui teil on Outlooki profiili loomisel või redigeerimisel probleeme, saate käivitada mõjutatud arvutis [Outlooki profiilitööriista](https://aka.ms/SaRA-OutlookSetupProfile) . See teeb mõned kontrollid ja kui olete valmis loob Outlooki profiili oma e-posti aadressiga. 
   
 

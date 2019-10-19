@@ -1,5 +1,5 @@
 ---
-title: 8000036 muuta profiili pic/nimi Outlook.com-is
+title: 8000036 Muuda profiili pic/Name in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
 ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511339"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Minu profiili pilti või Outlook.com-i nime muutmine
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Muuda minu profiilipilti või nime Outlook.com
 
-1. Avage [oma Microsofti konto teabe](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Valige **Muuda nimi** või **Muuda pilti**.
+1. Minge [oma Microsofti kontoteabe](https://go.microsoft.com/fwlink/p/?linkid=860841)juurde.
+1. Valige **Redigeeri nime** või **Muuda pilti**.
 
-Palun lubage oma profiili fotot või nime sisse muudatused kuni 24 tundi.
+Palun lubage kuni 24 tundi, et muuta oma profiilifotot või nime, et see jõustuksin.

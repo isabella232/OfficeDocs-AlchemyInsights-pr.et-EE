@@ -1,5 +1,5 @@
 ---
-title: Leia kadunud või puuduvate failide OneDrive'i või SharePointi
+title: Kadunud või puuduvate failide otsimine OneDrive ' is või SharePointis
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525415"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Leia kadunud või puuduvate failide OneDrive'i või SharePointi
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Kadunud või puuduvate failide otsimine OneDrive ' is või SharePointis
 
-- Kontrollige oma OneDrive'i või SharePointi saidi veebis sirvimise ja prügikasti vasakul paanil prügikasti. (Kui te ei näe Recycle bin ja Vasakpaanil klõpsake seadete ikoonil ja valige **saidi sisu**. **Prügikast** on paremas otsas ülaosas käsuriba.) 
+- Kontrollige prügikasti, sirvides OneDrive ' i või SharePointi saidile veebis ja klõpsates vasakpoolsel paanil prügikasti. (Kui te vasakpoolsel paanil prügikasti ei näe, klõpsake ikooni sätted ja seejärel valige **saidi sisu**. **Prügikasti** asub ülemisel käsuribal paremal.) 
     
-- Kui sünkroonite faile arvutist, kontrollige arvuti prügikast. 
+- Kui sünkroonite faile arvutis, kontrollige prügikasti arvutis. 
     
-- Kui kauba te otsite, ja see kustutati hiljuti, saidikogumi administraator võib-olla saidikogumi prügikasti taastamine. Kui olete saidikogumi administraator, vaadake [kustutatud sõnumite taastamise allikas saidikogumi prügikasti](https://go.microsoft.com/fwlink/?linkid=866439).
+- Kui te ei näe seda üksust, mida te otsite ja see kustutati hiljuti, võib saidikogumi administraator selle saidikogumi prügikastis taastada. Kui olete saidikogumi administraator, vaadake teemat [Kustutatud üksuste taastamine saidikogumis prügikastis](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Abi saamiseks taastada kustutatud faile ja kaustu OneDrive'is](https://go.microsoft.com/fwlink/?linkid=872872)
+[Rohkem abi kustutatud failide ja kaustade OneDrive ' is taastamine](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

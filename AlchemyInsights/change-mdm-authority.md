@@ -1,5 +1,5 @@
 ---
-title: Muuta MDM asutus
+title: MDM-i asutuse muutmine
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519295"
 ---
-# <a name="change-intune-mdm-authority"></a>Muuta Intune MDM asutus
+# <a name="change-intune-mdm-authority"></a>Muuda Intune MDM-i autoriteet
 
-MDM asutus muutmiseks esitamist avamata. Vaadake juhiseid järgmised dokumendid:
+MDM-i autoriteet saate muuta ilma tugiteenuse juhtumit avamata. Juhiste saamiseks vaadake järgmisi dokumente:
   
-- [Muuta Configuration Manager MDM asutus Intune autonoomseks](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [MDM-i asutuse muutmine Configuration Manageri Intune autonoomne](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Muuta MDM asutus Intune standalone Configuration Manager](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Muuda MDM-i autoriteet Intune autonoomne Configuration Manager](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **MDM asutus kooseksisteerimine**
+ **MDM-i asutuse kooseksisteerimine**
   
-- Sul võib olla nii MDM asutuste aktiivne samaaegselt, kui teil on juba Office 365 MDM lubatud, kuid soovite proovida Intune MDM.
+- Mõlemad MDM-i asutused võivad olla aktiivsed üheaegselt, kui teil on juba Office 365 MDM lubatud, kuid soovite proovida Intune MDM.
     
-- Administraatorid, kes on juba O365 MDM aktiivne saate märkida lihtsalt Intune MDM Azure portaali aktiivseks.
+- Administraatoritel, kes juba on O365 MDM aktiivne saab lihtsalt tähistada Intune MDM aktiivne Azure ' i portaal.
     
-- Kui teil on Intune MDM, kuid tahavad kasutada Office 365 MDM: Palun avada allpool pileti ja tugiteenuste töötajalt aitab see sinu jaoks lubada.
+- Kui teil on Intune MDM kuid soovite kasutada Office 365 MDM: Palun avage pilet allpool ja tugiteenuse agent aitab teil seda teha.
     
 

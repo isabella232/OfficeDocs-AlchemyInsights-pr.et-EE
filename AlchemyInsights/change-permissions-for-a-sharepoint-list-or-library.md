@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
 ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519079"
 ---
 # <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePointi loendi või teegi õiguste muutmine
 
-1. Avage veebibrauseris SharePointi saidi ja avage loend või teek.
+1. Minge SharePointi saidile veebibrauseris ja avage loend või teek.
     
-2. Klõpsake paremas ülanurgas seadete ikoonil ja seejärel klõpsake käsku **loendi sätted**või **Dokumenditeegi sätted** . (Käsku ei kuvata, klõpsake vahekaarti **Teek** või **loend** avada lindi ja seejärel klõpsake lindil käsku **Loendi sätted** või **Dokumenditeegi sätted** .) 
+2. Klõpsake paremas ülanurkas ikooni sätted ja siis käsku **teegi sätted** või **loendi sätted**. (Kui te käsku ei näe, valige lindi avamiseks **teegi** või **loendi** vahekaart ja seejärel klõpsake lindi **teegi sätted** või **Loendisätted** .) 
     
-3. Klõpsake **õigused ja haldus**linki **selle loendi õigused** või **selle dokumenditeegi õigused**.
+3. Klõpsake jaotises **õigused ja haldus**, **õigused selle dokumenditeegi loendi** või **õigused**.
     
-Pange tähele, et vaikimisi SharePointi loendid ja teegid päri saidi nende õigusi. Kui katkestate päriluse, kopeeritakse praeguste õiguste loendit või teeki ja kõik selles. Saidi õigused muudetakse hiljem, ei rakendata muudatused loendit või teeki ja olevaid üksusi.
+Pange tähele, et SharePointi loendid ja teegid pärivad vaikimisi oma õigused saidilt. Kui murdate õiguste pärandist, kopeeritakse praegused õigused loendisse või teeki ja kõik selle sees. Kui saidi õigused on hiljem muudetud, siis muudatusi ei rakendata loendisse või teeki ega selle sees olevatele üksustele.
   
 

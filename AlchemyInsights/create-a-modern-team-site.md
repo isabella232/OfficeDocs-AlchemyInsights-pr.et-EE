@@ -1,5 +1,5 @@
 ---
-title: Kaasaegse meeskonnatöö saidi loomine
+title: Kaasaegne meeskonnatöö saidi loomine
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516313"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Office 365 rühma ühendatud meeskonna saidi loomine
+# <a name="create-an-office-365-group-connected-team-site"></a>Office 365 rühma ühendatud meeskonnatöö saidi loomine
 
-1. Klõpsake vasakus ülanurgas rakenduse käivitajal ja valige **SharePointi**. SharePointi paani ei kuvata, klõpsake valikut **Kõik rakendused**.
+1. Klõpsake rakenduse käivitaja ülemises vasakus nurgas ja valige **SharePoint**. Kui te SharePointi paani ei näe, klõpsake suvandit **Kõik rakendused**.
     
-2. SharePointi avalehe ülaosas nuppu **Loo sait** ja vali **Team site** . 
+2. Klõpsake SharePointi avalehe ülaosas valikul **Loo sait** ja valige suvand **meeskonnatöö sait** . 
     
     > [!NOTE]
-    > Ei kuvata käsku Loo sait, võib mitte olla lubatud teie ettevõttes. See vaadake [Halda saidi loomist](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Kui te ei näe käsku Loo sait, ei pruugi saidi loomine teie organisatsioonis lubatud olla. Selle lubamiseks vaadake teemat [saidi loomise haldamine](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Järgige ekraanil saidi nimi ja luua Office 365 rühma e-posti aadress ja klõpsake **järgmise**. Võite sisestada ka muud rühma omanikud ja liikmed. Klõpsake nuppu **valmis**.
+3. Järgige ekraanil saidi nime ja luua e-posti aadress Office 365 rühma ja seejärel klõpsake nuppu **edasi**. Saate lisada ka teisi grupi omanikke ja liikmeid. Klõpsake nuppu **Finish**.
   
- **Märkus:** Ilma ühendatud rühma meeskonna saidi loomiseks järgige eespool, kuid mitte valides meeskond saidi samm 2. Valige muud Valikud. See aitab sul luua meeskonnatöö veebisaidi ilma rühma. 
+ **Märkus:** Meeskonnatöö saidi loomiseks ilma rühma ühendatud, järgige ülaltoodud juhiseid, kuid selle asemel, et valida meeskonnatöö sait juhises 2. Valige muud suvandid. See aitab teil meeskonnatöö saiti ilma rühmata luua. 
     
 

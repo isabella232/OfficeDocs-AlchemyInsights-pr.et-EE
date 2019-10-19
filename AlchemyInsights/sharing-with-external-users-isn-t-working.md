@@ -1,5 +1,5 @@
 ---
-title: Jagamine välistele kasutajatele ei tööta
+title: Ühiskasutus väliste kasutajatega ei tööta
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36502227"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePointi sisu jagamine välistele kasutajatele probleemide lahendamine
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePointi sisu ühiskasutuse probleemide lahendamine väliste kasutajatega
 
-Veenduge, et väline jagamine on lubatud oma organisatsiooni:
+Veenduge, et väline ühiskasutus oleks teie organisatsiooni jaoks sisse lülitatud.
   
-1. Mine ning [teenuste &amp; lisandmoodulid Microsoft 365 administreerimiskeskuses lehe](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), ja klõpsake nuppu **saidid**.
+1. Minge [microsofti 365 halduskeskus lehele teenuste &amp; lisandmoodulid](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)ja klõpsake **saite**.
     
-2. Veenduge, et seade on sisse lülitatud, "Sees". Kui "Ainult olemasoleva välise kasutajate" on valitud, veenduge, et välise kasutaja on loetletud Microsoft 365 halduskeskus.
+2. Veenduge, et säte oleks sisse lülitatud. Kui "ainult olemasolevad välised kasutajad" on valitud, veenduge, et väline kasutaja on loetletud Microsoft 365 halduskeskus.
     
-Veenduge, et väline jagada seda lubatud ala. Klassikaline saidikogumi:
+Veenduge, et väline ühiskasutus oleks saidi jaoks sisse lülitatud. Klassikaline saidikogumi:
   
-1. Uus SharePointi administreerimiskeskuses, vasakul paanil klõpsake nuppu **saidid**.
+1. Klõpsake uue SharePointi administreerimiskeskus vasakpoolsel paanil **saidid**.
     
-2. Valige või kohtadesse ja lindi nuppu **ühiskasutus**.
+2. Valige sait või saidid ja klõpsake lindil valikul **ühiskasutus**.
     
-Meeskonnatöö saidi, mis kuulub Office 365 rühma või teatise saidi:
+Meeskonnatöö sait, mis kuulub Office 365 rühma või side saidi:
   
-- Uue saidi selliseid on sama ühiskasutuse säte kui oma kogu asutuses kehtivaid sätteid, kui kogu asutuses kehtivaid säte võimaldab jagada faile, linke, mis ei nõua sisselogimist kasutades. Sel juhul saidid võimaldavad jagada uute ja olemasolevate väliste kasutajate sisselogimine. Konkreetsetele lehekülgedele sätte muutmiseks kasutage uue SharePointi administreerimiskeskuse või PowerShelli. [Lisateave](https://go.microsoft.com/fwlink/?linkid=871863).
+- Need uued saiditüübid on sama ühiskasutuse säte kui teie organisatsiooni hõlmav säte, kui organisatsiooni hõlmav säte võimaldab failide ühiskasutust, kasutades linke, mis ei nõua sisselogimist. Sel juhul saidid võimaldavad ühiskasutus uute ja olemasolevate väliste kasutajatega, kes sisse logida. Kindlate saitide sätte muutmiseks kasutage uut SharePointi administreerimiskeskust või PowerShelli. [Lisateave](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Välise jagamise säte meetmeid saab rohkem piiranguid kui kogu asutuses kehtivaid keskkonnas, kuid mitte rohkem kui kogu asutuses kehtivaid säte leebe. 
+> Väline ühiskasutuse säte iga saidi jaoks võib olla kitsendavam kui teie organisatsiooni hõlmav säte, kuid mitte rohkem kui organisatsiooni hõlmav säte. 
   
 

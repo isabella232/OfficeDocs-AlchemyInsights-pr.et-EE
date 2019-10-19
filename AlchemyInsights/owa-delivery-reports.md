@@ -1,5 +1,5 @@
 ---
-title: Kättetoimetamatuse aruande Outlook veebis
+title: Kättetoimetamatuse aruanded Outlookis veebis
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557101"
 ---
-# <a name="issues-with-email-delivery"></a>Küsimusi e-posti teenuse
+# <a name="issues-with-email-delivery"></a>Probleemid meili kohaletoimetamisega
 
-Kui on probleem pakkuda teile saadetud e-kirja, saadab Office 365 e-kirja teile. Email teile on kohaletoimetamise staatuse teate, tuntud ka kui DSN või põrge sõnum. Kõige levinum on nn kohaletoimetamise aruanne (NDR), mis näitab, et sõnumit ei toimetatud kohale. Kättetoimetamatuse võib olla põhjustatud midagi nii lihtne kui e-posti aadress kirjaviga. NDR sisaldavad vea kood, mis näitab oma e-posti mittesaatmise, lahendused aitavad teil saada oma e-posti tarnitud, lingi Lisateavet veebis ja tehnilised üksikasjad administraatoritele.
+Kui teie saadetud e-kirja kohaletoimetamiseks on probleem, saadab Office 365 meili, et teile teada saada. E-kiri on kohaletoimetamise oleku teade, tuntud ka kui DSN või põrketeade. Kõige tavalisem tüüp nimetatakse kättetoimetamatuse aruanne (NDR), mis ütleb teile, et sõnumit ei toimetatud. Kättetoimetamatuse võib põhjustada midagi nii lihtne kui trükikas e-posti aadress. NDR-i sisaldavad tõrkekoodi, mis näitab, miks teie e-posti ei toimetatud, lahendusi, mis aitavad teil saada oma e-posti, link rohkem abi veebis ja tehnilisi üksikasju administraatoritele.
 
-NDR loend ja teada saada, miks teie sõnumit ei toimetatud kohale, vaadake [e-posti kohaletoimetamise lahendid Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+NDRs loendi kuvamiseks ja teada saada, miks teie sõnumit ei toimetatud, vaadake [meili kättetoimetamatuse aruanded Exchange Online '](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)i.

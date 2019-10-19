@@ -14,17 +14,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660968"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Istmete lisamine ettemakstud tellimusele
 
 Ettemakstud Office 365 Litsentsid väljastatakse teile 25-kohaline tähtnumbriline kood. Kui olete vajalikud litsentsid ostnud, saate need oma tellimusele lisada. 
 
-1. Minge administreerimiskeskuses lehele **** > [arveldustooted _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Minge administreerimiskeskuses lehele > [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) . ****
 
 2. Leidke tellimus, millele soovite litsentse lisada. Valige jaotises **litsentsid** suvand **Lisa litsentsid**.
 

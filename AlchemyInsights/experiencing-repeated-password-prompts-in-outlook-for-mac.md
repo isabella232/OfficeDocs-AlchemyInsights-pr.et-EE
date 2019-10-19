@@ -1,5 +1,5 @@
 ---
-title: Tekkinud korrata parooli küsib Outlook Macile?
+title: Esineb korduv parool küsib Outlook for Mac?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36526603"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Tekkinud korrata parooli küsib Outlook Macile?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Esineb korduv parool küsib Outlook for Mac?
 
-Saame aidata pakkuda rohkem spetsialiseerunud Outlook Mac abi otse taotluse.
+Me saame aidata pakkuda rohkem spetsialiseeritud Outlook for Mac abi otse taotluse.
   
-Palun minge mõjutatud kasutaja Mac, Avage Outlook ja kliki **aidata** \> **Võtke ühendust toega**.
+Palun minge mõjutatud kasutaja Mac, Avage Outlook ja klõpsake **abi** \> **Kontakt tugiteenusega**.
   
-Outlooki Mac rakendusesiseste klienditoe kasutamise kohta lisateabe saamiseks vaadake seda: [uue kontakti toetada funktsioon Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Lisateavet Outlook for Mac in-app klienditoe kasutamise kohta leiate artiklist: [Uus kontakt toe funktsioon outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 

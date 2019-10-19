@@ -1,5 +1,5 @@
 ---
-title: Wordi faili ei avanud topeltklõpsuga
+title: Wordi faili ei avatud topeltklõps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "850"
 - "2100002"
 ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558181"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Wordi dokumendi vale Appis avanud või ei avanud
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Wordi dokument avati vales rakenduses või ei avanud
 
-Proovige ühte järgmistest soovitustest:
+Proovige ühte neist soovitustest.
 
-**Valige sõna automaatselt**
+**Vali vaikimisi Wordi**
 
-- Paremklõpsake dokumendil, Vali **Ava programmiga**ning valige **sõna**
+- Paremklõpsake dokumenti, valige käsk **Ava**ja seejärel valige **sõna**
 
-**Kiire remondi**
+**Kiirparanduse käivitamine**
 
-1. Mine **Control Panel > programmi > programmid ja funktsioonid**.
+1. Avage juhtpaneel **> programmid > programmid ja funktsioonid**.
 
-2. Valige Office'i toote parandatava ja valige **Muuda**.
+2. Valige Office ' i toode, mida soovite parandada, ja seejärel valige **Muuda**.
 
-3. **Kiirparanduse** valikuks ja valige **remont**.
+3. Valige **kiirparanduse** suvand ja seejärel valige **Paranda**.
 
-**Kasutate Office'i versioonide desinstallimine**
+**Desinstallige Office ' i versioonid, mida te ei kasuta**
 
-1. Mine **Control Panel > Desinstalli programm**ja valige eemaldada Office'i versiooni.
+1. Avage juhtpaneel **> desinstallige programm**ja seejärel valige Office ' i versioon, mida soovite eemaldada.
 
-2. Klõpsake **desinstallida**.
+2. Klõpsake **desinstalli**.
 
 3. Taaskäivitage arvuti.
 
-**Käivitage selle tõrkeotsing samochdów Office'i faili avamiseks Office**
+**Käivitage see tõrkeotsija Office ' i faililaiendite Office ' i avamiseks**
 
-1. See tõrkeotsija käivitamine: https://aka.ms/diag_officefile.
+1. Käivita see tõrkeotsija https://aka.ms/diag_officefile:.
 
-2. Sõltuvalt brauseri, **Ava** või **Salvesta** tõrkeotsija töölauale ja siis **Käivita** ta.
+2. Sõltuvalt brauserist **avage** või **salvestage** tõrkeotsija töölauale ja seejärel **käivitage** see.

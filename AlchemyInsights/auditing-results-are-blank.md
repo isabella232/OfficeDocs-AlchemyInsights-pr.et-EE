@@ -1,5 +1,5 @@
 ---
-title: Tulemused on tühjad
+title: Audititulemuste tulemused on tühjad
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517423"
 ---
-# <a name="auditing-results-are-blank"></a>Tulemused on tühjad
+# <a name="auditing-results-are-blank"></a>Audititulemuste tulemused on tühjad
 
- **Auditi aruande klassikaline saidid**
+ **Auditiaruanded klassikalistele saitidele**
   
-SharePointi saidikogumi aruande vaatamiseks peate olema saidikogumi administraator. Lisa ennast administraatorina, vt [Lisa saidi saidikogumi administraatoritel kui ülemaailmne või SharePointi admin](https://go.microsoft.com/fwlink/?linkid=869390). Auditilogi töötamise kohta leiate teemast [Vaade auditi aruandeid](https://go.microsoft.com/fwlink/?linkid=395237). 
+SharePointi saidikogumi auditiaruande vaatamiseks peate olema saidikogumi administraator. Iseenda administraatorina lisamiseks vaadake teemat [saidikogumi administraatorite lisamine globaalseks või SharePointi administraatoriks](https://go.microsoft.com/fwlink/?linkid=869390). Teavet auditilogi töötamise kohta vaadake teemast [auditilogi aruannete vaatamine](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Office 365 auditilogi otsing**
+ **Otsige Office 365 auditilogi**
   
-Sa pead olema Office 365 töötada auditilogi on globaalne admin on [turvalisuse &amp; täitmise Center](https://protection.office.com). Auditilogi sisse lülitada enne alustamist. Seejärel käivitada auditi logifaili Otsi. 
+Peate olema globaalne admin Office 365 töötada auditilogi [ &amp; turvalisuse vastavuse keskus](https://protection.office.com). Enne alustamist lülitage sisse auditilogi. Seejärel saate käivitada auditilogi otsingu. 
   
-[Õppida, kuidas otsida auditilogisse](https://go.microsoft.com/fwlink/?linkid=708432).
+[Vaadake, kuidas auditilogi otsida](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

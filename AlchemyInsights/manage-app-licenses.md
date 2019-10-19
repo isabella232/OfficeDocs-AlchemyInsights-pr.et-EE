@@ -1,5 +1,5 @@
 ---
-title: Rakenduse litsentside haldamine
+title: Rakenduselitsentside haldamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,28 +13,28 @@ ms.custom:
 - "1500008"
 - "2443"
 ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497367"
 ---
 # <a name="manage-office-365-app-licenses"></a>Office 365 rakenduse litsentside haldamine
 
-## <a name="to-change-license-quantity"></a>Muuta litsentsi kogus
+## <a name="to-change-license-quantity"></a>Litsentsi koguse muutmine
 
-1. Mine **arved** > [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehekülg ja seejärel valige selle **rakendused** vahekaart.
-
-2. Leidke ja valige rakendus, mida soovite hallata.  
-
-3. Valige **Add/remove litsentsid**.
-
-4. Sisestage uue mitu litsentsi vaja. Näiteks kui teil on praegu 5 litsentsi ja on vaja ainult 4, lahtrisse 4 **kokku litsentsid** . Kui praegu on 5 litsentsi ja pea 10 kokku litsentside lahtrisse 10 **kokku litsentsid** .
-
-## <a name="to-assign-app-licenses"></a>Rakenduse litsentside määramine
-
-1. Mine **arved** > [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehekülg ja seejärel valige selle **rakendused** vahekaart.
+1. Avage leht > [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) ja seejärel valige vahekaart **rakendused** . ****
 
 2. Leidke ja valige rakendus, mida soovite hallata.  
 
-3. Valige jaotises **sätted & meetmete**linki Halda **väljaandja portaalis**.
+3. Valige **Lisa/eemalda litsentsid**.
+
+4. Sisestage uus vajalik arv litsentse. Näiteks kui teil on praegu 5 litsentsi ja vajate ainult 4, sisestage väljale **kokku litsentsid** 4. Kui teil on praegu 5 litsentsi ja vajate 10 üldlitsentsi, sisestage 10 väljale **kokku litsentsid** .
+
+## <a name="to-assign-app-licenses"></a>Rakenduselitsentside määramine
+
+1. Avage leht > [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) ja seejärel valige vahekaart **rakendused** . ****
+
+2. Leidke ja valige rakendus, mida soovite hallata.  
+
+3. Jaotises **sätted & toimingud**valige **Publisheri portaalis Halda**link.

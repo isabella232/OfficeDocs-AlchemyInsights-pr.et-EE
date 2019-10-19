@@ -1,5 +1,5 @@
 ---
-title: GatewayNotReachable mandaadi määramisel
+title: Gatewaynotre, kui säte mandaat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1321"
 - "2500002"
 ms.openlocfilehash: 599fb10eb557217c2de52bbab72784cd10bbe95c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507123"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable mandaadi määramisel
+# <a name="gatewaynotreachable-when-setting-credentials"></a>Gatewaynotre, kui säte mandaat
 
-GatewayNotReachable võib ilmneda, kui proovite Power BI teenistuses andmeallika mandaati seada. See võib olla tingitud aegunud lüüsi. Installida Viimane värav ja proovige uuesti.
+Kui püüate seada Power BI teenuse andmeallika mandaat, võib ilmneda Gatewaynotreattraction. See võib olla aegunud lüüsi tulemus. Installige uusim lüüs ja proovige uuesti.
 
-Lisateave:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Lisateavet:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

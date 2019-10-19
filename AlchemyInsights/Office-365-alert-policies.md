@@ -1,5 +1,5 @@
 ---
-title: 1385-office-365-alert-poliitika
+title: 1385-Office-365-hoiatus-poliitika
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,35 +13,35 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661292"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 Alert poliitika
+# <a name="office-365-alert-policies"></a>Office 365 teatiste poliitikad
 
-Office 365 turvalisuse & vastavuse Center pakub [vaikimisi alert poliitika](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) mis vallandavad kohta Office 365 Enterprise'i või Office 365 USA valitsuse E1/G1, E3/G3 või E5/G5 tellimusega organisatsioonid. Seetõttu administraatoritel saada edastatud Office365Alerts@microsoft.com joonega teema nagu teate e-posti teatis "low-raskus märguanne: *alert poliitika nimi*". Hoiatavad teated saadetakse teatised käivitatakse ühise tegevuse näiteks kasutajad:
+Office 365 Security & vastavuse keskus pakub [vaikimisi Alert poliitika](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , mis käivitab teateid organisatsioonidele Office 365 Enterprise või Office 365 USA valitsus E1/G1, E3/G3 või E5/G5 tellimus. Seetõttu administraatoritel võidakse saada teatise e-posti teatis saadetud Office365Alerts@microsoft.com teema rida nagu "madala raskusastmega Hoiatus: *Alert poliitika nimi*". Hoiatusteated saadetakse, kui teatised käivitatakse levinud tegevuste jaoks, näiteks kui kasutajad:
 
-- Luues edastada e-posti sisendkausta reeglid.
-- Määrata oma postkasti.
-- Jagada või kustutada mitmeid faile SharePointi faili ühiskasutust.
-- EDiscovery otsingu loomine ja eksportida otsingutulemeid.
+- Loo sisendkausta reeglid, mis edasi e-posti.
+- Määrake õigused oma postkasti.
+- Jagage või kustutage suur hulk faile SharePointi failide ühiskasutus.
+- Saate luua eDiscovery otsinguid ja eksportida otsingutulemusi.
 
-Läbivaatamiseks ja teatise kohta:
+Hoiatuse läbivaatamiseks ja tegutsemiseks toimige järgmiselt.
 
-1. Avage [Turvakeskus & täitmise](https://protection.office.com) ja logige sisse.
-2. Klõpsake **hoiatusteadete** > **teatiste vaatamine**.
-3. Klõpsake hoiatusteate hüpik lehe teatise kohta teabe kuvamiseks.
+1. Minge [turvalisuse & vastavuse keskus](https://protection.office.com) ja logige sisse.
+2. Klõpsake **teatiste** > **vaate teatised**.
+3. Klõpsake teatist, et kuvada hüpik lehekülg hoiatuse kohta teabega.
 
-Te saate teatise, näiteks [kõrvaldades kahtlaste reegel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)tegutseda. Või saate lihtsalt sulgeda teate **lahendamiseks** klõpsake lehel alert hüpik.
+Võite teha hoiatuse, näiteks [eemaldades kahtlase sisendkausta reegli](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Võite hoiatuse lihtsalt sulgeda, klõpsates teatise hüpik lehel nuppu **lahenda** .
 
-Konfigureerimise ja haldamise alert poliitika kohta lisateabe saamiseks vaadake [seda](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Lisateavet teatiste poliitikate konfigureerimise ja haldamise kohta leiate [käesolevast artiklist](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**NB**: teate e-posti teated Microsofti ei küsi kunagi seda teha järgmist:
+**Oluline**: Teavita e-posti teated Microsoft ei palu teil teha järgmist:
 
-- Parooli
-- Kontrollida oma konto turvalisuse andmeid
-- Uuesti autentima
+- Sisestage parool
+- Kontrollige oma konto turbeandmeid
+- Uuesti autentida
 
-Kui sellist e-kirja, ei saadetud Microsoft ja tuleks kaaluda andmete analüüs. Sellisel juhul palun [teatage sellest Microsoftile](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Kui saate sellise meilisõnumi, ei saatnud seda Microsoft ja seda tuleks käsitada andmepüügi kelmuse abil. Kui see juhtub, teatage [sellest Microsoftile](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

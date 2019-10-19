@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514020"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Saite, mis kuuluvad Office 365 rühma kustutamine
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Kustutage saidid, mis kuuluvad Office 365 rühma
 
-Kui kasutajad loovad uue meeskonnasaidi SharePointi kodus või loote uue meeskonnasaidi uus SharePointi administreerimiskeskuse, luuakse automaatselt vastav Office 365 rühma. Office 365 rühma või meeskond Microsofti Teams loomisel loob Office 365 rühma ühendatud meeskonnatöö saitidel ka. SharePointi sait, mis kuulub Office 365 rühma kustutamiseks peate kustutama kogu Office 365 ühistule. 
+Kui kasutajad loovad uue meeskonnatöö saidi SharePoint Home või uue meeskonna saidi loomine uue SharePointi administreerimiskeskus, luuakse vastav Office 365 rühma automaatselt. Office 365 rühma ühendatud meeskonnatöö saidid luuakse ka siis, kui loote Office 365 rühma või meeskond Microsoft Teams. SharePointi sait, mis kuulub Office 365 rühma kustutamiseks peate kustutama Office 365 rühma ise. 
   
-1. Avage [lehe Microsoft 365 halduskeskus](https://portal.office.com/adminportal/home#/groups).
+1. Minge [Microsoft 365 administreerimiskeskuse rühmade lehele](https://portal.office.com/adminportal/home#/groups).
     
-2. Märkige rühma kõrval olev ruut.
+2. Valige rühma kõrval olev märkeruut.
     
 3. Valige **Kustuta**.
     
-Märkus: Kui kustutate rühma, võib viivitus enne eemaldatakse saidi SharePointi.
+Märkus: Kui kustutate rühma, võib olla viivitus enne saidi eemaldatakse SharePoint.
   
-**Kustuta teatis lehti või klassikaline lehti:**
+**Kustuta suhtlussaidid või klassikalised saidid:**
 
-1. Minge veebisaidile.
+1. Minge saidile.
   
-2. Klõpsake paremas ülanurgas **seadete** ikoonil. 
+2. Klõpsake paremas ülanurka ikooni **sätted** . 
   
-3. Klõpsake käsku **Saidisätted**. **Teavet** või **Saiditoimingud**, käsku **Kustuta see sait**ja seejärel klõpsake käsku **Kustuta**.
+3. Klõpsake **saidi sätted**. **Saidi teave** või **saidi toimingud**, klõpsake nuppu **Kustuta see sait**ja klõpsake **kustutada**.
   
-**SharePointi saidikogumi kustutamine**
+**Kustutage SharePointi saidikogum:**
 
-Saidi kustutamine
+Saidi kustutamiseks toimige järgmiselt.
   
-1. Uus SharePointi administreerimiskeskuses, lehel saidid märkige **ruut** kõrval saidi kustutada. 
+1. Klõpsake uue SharePointi administreerimiskeskuse lehel saidid, märkige **ruut** selle saidi kõrval, mida soovite kustutada. 
     
-2. Klõpsake tööriistariba lindi **kustutamine.**
+2. Klõpsake lindi tööriistaribal nuppu **Kustuta.**
     
-**Saidi kustutada õnnetus?**
+**Kas sait on kogemata kustutatud?**
 
-Vaata [taastada kustutatud saidikogumi](https://go.microsoft.com/fwlink/?linkid=867660).
+Vt teemat [Kustutatud saidikogumi taastamine](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

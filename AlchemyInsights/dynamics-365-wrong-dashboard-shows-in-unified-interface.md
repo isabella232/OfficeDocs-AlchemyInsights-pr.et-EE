@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - vale armatuurlaual Dynamics 365 ühtne liides
+title: Dynamics 365-vale armatuurlaud näitab Dynamics 365 ühendatud liides
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528547"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Vale armatuurlaual Dynamics 365 ühtne liides
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Vale armatuurlaud näitab Dynamics 365 ühendatud liides
 
-On mitu põhjust, miks võite näha teise armatuurlaua kui ootate:
+On mitu põhjust, miks võite näha teise armatuurlaua kui see, mida ootate:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Kasutaja valib kasutaja vaikimisi armatuurlaual 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Kasutaja on seadnud kasutaja vaikimisi armatuurlaud 
 
-Tavaliselt saate tuvastada kasutaja vaikimisi armatuurlaual määratakse, kui nupu **Set Default** näitab armatuurlaua käsuriba. Kasutaja vaikimisi armatuurlaual alistab muud vaikimisi armatuurlauad isegi siis, kui kasutaja vaikimisi armatuurlaual pole praeguses rakenduses.
+Tavaliselt saate tuvastada kasutaja vaikimisi armatuurlaud on seatud kui vaikimisi nuppu **Sea** ei kuvata armatuurlaua käsuribal. Kasutaja vaikimisi armatuurlaud alistab kõik muud vaikimisi armatuurlauad isegi siis, kui kasutaja vaikimisi armatuurlaud ei ole praeguses rakenduses.
 
-Tühista lahendusena kasutada oma vaikimisi armatuurlaual.
+Kasutage järgmist lahendust, et Tühista oma vaikimisi armatuurlaud.
 
-1. Luuakse armatuurlaud, isiklik.
+1. Saate luua uue isikliku armatuurlaua.
 
-2. Et armatuurlaud kasutaja vaikesätte seadmine.
+2. Seadke see uus armatuurlaud kasutaja vaikesätteks.
 
-3. Selle armatuurlaua kustutamine.
+3. Kustutage armatuurlaud.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Sisukord asub armatuurlaua
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Armatuurlaud on seatud saidikaardi
 
-On seatud organisatsiooni vaikimisi armatuurlaual, valige armatuurlaua ning "Määra nii Default" "Kohandada süsteemi". Kuid määratletud sitemap disainer armatuurlaud on ülimuslik selle armatuurlaua, kui kasutajal on juurdepääs.
+Võimalik, et olete seadistanud organisatsiooni vaike-armatuurlaua, valides armatuurlaua ja valides jaotises "Kohanda süsteemi". Kuid saidikaardi kujundajas määratletud armatuurlaud on selle armatuurlaua suhtes ülimuslik, kui kasutajal on sellele juurdepääs.
 
-Et kasutajad vaadata määramist organisatsiooni vaikimisi armatuurlaual, saate:
+Kui soovite, et kasutajad näeksid armatuurlauda, mille olete seadnud organisatsiooni vaikesätteks, saate teha järgmist:
 
-* Määrata selle armatuurlaua sitemap
+* Armatuurlaua seadmine saidikaardi
 
-* Sisukord, mis on määratletud armatuurlaua juurdepääsu nende kasutajate jaoks
+* Eemalda juurdepääs saidikaardi määratud armatuurlauale nende kasutajate jaoks

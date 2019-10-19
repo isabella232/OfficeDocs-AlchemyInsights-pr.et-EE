@@ -1,5 +1,5 @@
 ---
-title: SharePointi Rummu saidid ülevaade
+title: SharePointi jaoturi saitide ülevaade
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,27 +7,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ee8c20bff9bf22f8b3eeacf085bce4a7f2d1b0e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "1591"
+- "5300012"
+ms.openlocfilehash: 189eef97019776b52c8f4f12aaaa303f79704a7a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503549"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818890"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>SharePointi Rummu saidid ülevaade
+# <a name="sharepoint-hub-sites-overview"></a>SharePointi jaoturi saitide ülevaade
 
-SharePointi Rummu saite abi teie ettevõtte vajadustele vastavad ühendavad ja saite korraldamine vastavalt projekti, osakond, osakonna, piirkonna jne lihtsustamine:
+SharePointi jaoturi saidid aitavad teil täita oma organisatsiooni vajadusi, ühendades ja korraldades saite, mis põhinevad projektil, osakonnal, jaotustel, piirkonnal jne, muutes lihtsamaks:
 
-- Vaadake Uudised ja muu saidi tegevusega seotud sisu.
+- Avastage seostuv sisu (nt Uudised ja muud saidiga seotud tegevused).
 
-- Kehtivad ühised navigeerimine ja branding seotud veebisaitidel. 
+- Rakendage ühist navigeerimist ja bränte seostuvate saitide vahel. 
 
-- Otsi kõik seotud veebisaitidel.
+- Otsige kõiki seostuvaid saite.
 
-Vaadake järgmist lisateavet Rummu saidid:
-- [Loo jaoturi sait SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): saate luua uue halduskeskuse kaudu või PowerShelli jaoturi sait.
+Lisateavet jaoturi saitide kohta leiate järgmisest jaotisest:
+- [SharePoint Online ' i jaoturi saidi loomine](https://docs.microsoft.com/sharepoint/create-hub-site): Vaadake, kuidas luua jaoturi sait uuest administreerimiskeskusest või PowerShelli.
 
-- [SharePointi sait, kus jaoturi sait seostada](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): õppida siduda olemasolevate saitide Rummu kodukale uue halduskeskuse kaudu või PowerShelli.
+- [SharePointi saidi seostamine jaoturi saidiga](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): teave olemasolevate saitide seose kohta jaoturi saidiga uue administreerimiskeskuse või PowerShelli kaudu.
 
-- [Eemaldada jaoturi sait](https://docs.microsoft.com/sharepoint/remove-hub-site): uus halduskeskuse kaudu või PowerShelli olemasolevate jaoturi sait eemaldamise kohta.
+- [Eemalda jaoturi sait](https://docs.microsoft.com/sharepoint/remove-hub-site): Vaadake, kuidas eemaldada olemasolevat jaoturi saiti uues administreerimiskeskuses või PowerShellis.
 

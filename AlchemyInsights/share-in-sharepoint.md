@@ -1,5 +1,5 @@
 ---
-title: SharePointi jagada
+title: Ühiskasutus SharePointis
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549467"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Kuidas jagada SharePoint Online
 
-Saidi jagada:
+Saidi ühiskasutusse andmiseks toimige järgmiselt.
   
 1. Avage sait veebibrauseris.
     
-2. Kuulub Office 365 rühma, klõpsake paremas ülanurgas seadete ikoonil ja klõpsake **saidi õigused**. Klõpsake **Kutsu inimesi**ja valige Office 365 rühma liikmeid lisada või jagada ainult sait. 
+2. Kui sait kuulub Office 365 rühma, klõpsake ikooni sätted ülemises paremas ja klõpsake **saidi õigused**. Klõpsake **Kutsu inimesi**ja seejärel valige liikmete lisamiseks Office 365 rühma või ainult saidi ühiskasutusse anda. 
     
-    Side saidi, klõpsake **aktsia saidi** paremas ülanurgas, sisestage isiku nimi ja valige seejärel õiguste tase (Loe, Redigeeri või täielik kontroll). 
+    Suhtlussaidi puhul klõpsake ülemises paremas ülaosas **saiti** , sisestage isiku nimi ja valige siis õigusetase (lugemine, redigeerimine või täielik kontroll). 
     
-    Classic meeskond sait, klõpsake paremas ülanurgas **aktsia** . Sisestage isiku kutsuda või tippige kõik kõigiga jagada oma organisatsiooni nimi. Klõpsake käsku **Anna ühiskasutusse**.
+    Klassikaline meeskonnatöö sait, klõpsake nuppu **Share** ülemises paremas. Sisestage selle isiku nimi, keda soovite kutsuda või tippige kõik oma organisatsioonis kõigiga jagamiseks. Klõpsake valikul **ühiskasutus**.
     
-[Lisateavet faili või kausta ühiskasutusse andmiseks](https://go.microsoft.com/fwlink/?linkid=511430)
+[Vaadake, kuidas faili või kausta ühiskasutusse anda](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

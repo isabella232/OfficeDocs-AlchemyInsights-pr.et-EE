@@ -1,5 +1,5 @@
 ---
-title: Auditi sätete konfigureerimine
+title: Auditisätete konfigureerimine
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
 ms.openlocfilehash: d5d1da516104d7c062038551142cdd9ccaad4407
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504963"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>Konfigureerige SharePointi auditeerimissätted
+# <a name="configure-sharepoint-audit-settings"></a>SharePointi auditisätete konfigureerimine
 
-SharePointi saidi saidikogumi administraatoritel saate jälgida kasutaja tegevust sisu konfigureerides auditeerimissätted.
+SharePointi saidikogumi administraatorid saavad jälgida kasutaja toimingud sisu konfigureerides audit sätted.
   
 1. Avage SharePointi sait.
     
-2. Klõpsake ikooni sätted ja seejärel käsku **saidi sätted**. "Saidi sätted" ei kuvata, klõpsake **saidi teave**ja klõpsake nuppu **Vaata kõiki saidisätteid**.
+2. Klõpsake ikooni sätted ja seejärel suvandit **saidi sätted**. Kui te ei näe "saidi sätted", klõpsake **saidi teave**ja klõpsake **Kuva kõik saidi sätted**.
     
-3. Valige jaotises **Saidikogumi administreerimine** **saidikogumi auditi sätted**. (Kui te ei näe, klõpsake **Ava ülataseme saidi sätted** esimesena.) 
+3. Valige jaotises **saidikogumiku Administreerimine** **saidikogumi auditisätted**. (Kui te seda ei näe, klõpsake nuppu **Mine ülataseme saidi sätted** kõigepealt.) 
     
-Infot mis kuulub SharePointi auditilogi aruannete ja kuidas neid vaadata, vt [Configure auditi sätted saidikogumi](https://go.microsoft.com/fwlink/?linkid=404050).
+Teavet selle kohta, mis on kaasatud SharePointi auditilogi aruanded ja kuidas neid vaadata, vaadake [konfigureerimine auditi sätted saidikogumi](https://go.microsoft.com/fwlink/?linkid=404050).
   
 

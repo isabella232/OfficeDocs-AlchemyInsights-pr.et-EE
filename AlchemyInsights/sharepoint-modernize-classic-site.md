@@ -1,5 +1,5 @@
 ---
-title: Kaasaegne saidi juursait
+title: Kaasaegne sait kui root sait
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503487"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576668"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Kaasajastada klassikaline SharePointi saidil
+# <a name="modernize-your-classic-sharepoint-site"></a>Modereerige oma klassikaline SharePointi sait
 
-Vaadake lisateavet uus kaasaegne kogemus kasutamise kohta järgmist:
+Et muuta lüliti kaasaegse kasutajaliidese, peate keskenduma järgmisele:
 
-- Vaata samm-sammult ülevaadet uuendada oma klassikaline SharePointi saite kaasaegne kogemus, [Modernize classic SharePointi saitidele](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Oma **loendid ja teegid** transitioning kasutada kaasaegne kasutajaliides (nimetatakse ka kaasaegne loend ja raamatukogu kogemus).
+- Muutes oma **saidi lehed** klassikaline wiki ja veebiosa lehed kaasaegse kliendipoolne lehed.
+- **Moodsate saitide** loomine (meeskonnatöö sait või suhtlussait).
 
-- Suurendada kaasaegne kasutajaliides kasutada oma saidi lehekülgi ja lehekülgi loendites ja teekides, vt [Modernize kasutajaliides](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+Moderniseerida oma kogemust:
+- [Lubades loendite ja teekide kuvamine kaasaegses kasutajaliideses](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) , asendades kohandused, eemaldades sobimatud veerud kasutatud vaadetest või (viimase võimalusena) andmete teisaldamine kaasaegse kasutajaliidese ühilduvasse loenditüüpi.
+- [Teie saidi ühendamine Office 365 grupiga](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), mis annab saidile kaasaegse kodulehe ja võimaldab teie saidil kasutada näiteks postkasti või Microsofti plaanijat. See võimaldab teil kasutada kalendri-ja tööülesandeloendi kaasaegset versiooni.
+- [Tänapäevaste lehtede loomine](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)on suurepärane võimalus jagada ideid piltide, Exceli, Wordi ja PowerPointi dokumentide, video ja muu abil.
+- [Luua kaasaegne kliendipoolne lehed](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) ja konfigureerimine need olla "sarnane" oma võtme klassikaline wiki ja veebiosa lehed. Programmeerimislehe ümberkujundamine peaks toimuma teie saitide võtmelehekülgedel, kuna kõigi lehtede muutmine on ressursimahukas ja sageli ei ole seda vaja. Selles hõimus abistamiseks võib SharePointi modereerimise skanner anda teile kasutusteavet praeguse wiki ja veebiosade lehtede kohta.
+- [Moodsate saitide loomine](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Kas ma peaksin looma meeskonnatöö saidi või suhtlussaidi?
 
-- Lisateabe saamiseks kuidas blokeeringu loendid ja teegid, kasutades kaasaegne kasutajaliides, artiklis [Maksimeeri kasutada kaasaegseid loendite ja teekide](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Lisainfo: 
+- Samm-sammult ülevaade modereerimine oma klassikalise SharePointi saidid kaasaegne kogemus, vaadake [Modernize oma klassikalise SharePointi saidid](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Vaadake [kaasaegsete kogemuste](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)juhendit.
+- Vaadake [SharePointi klassikalisi ja kaasaegseid kogemusi](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- Vt lisateavet Office 365 rühma ühendada ja täidab rühma-ühendust [Office 365 rühma loomiseks](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+

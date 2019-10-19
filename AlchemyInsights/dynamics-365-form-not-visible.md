@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 moodustavad nähtav
+title: Dynamics 365 vormi pole nähtav
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1470"
 - "6200014"
 ms.openlocfilehash: ae5078109428667b2ce88e8674419589875c27fd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528835"
 ---
-# <a name="dynamics-365-form-not-visible"></a>Dynamics 365 vorm ei ole nähtav
+# <a name="dynamics-365-form-not-visible"></a>Dynamics 365 vormi pole nähtav
 
-* [Vorm ei ole nähtav vormi valijat](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [Vormi ei kuvata vormi valija](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
 
-* [Miks ei ole mu vorm nähtav vormi valija rippmenüü mis tahes App?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)
+* [Miks on minu vormi ei kuvata vormi valija rippmenüüst üheski rakenduses?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)

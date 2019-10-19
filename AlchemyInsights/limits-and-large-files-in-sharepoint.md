@@ -1,5 +1,5 @@
 ---
-title: Piirid ja suuri faile SharePointi
+title: Piirangud ja suured failid SharePointis
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497583"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Faile ei saa üles laadida SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Failid, mida ei saa SharePoint Online ' i üles laadida
 
-Kui faili ei SharePoint Online, veenduge, et:
+Kui faili ei laadita SharePoint Online ' i, veenduge, et:
   
-- See on vähem kui 15 GB suuruseid.
+- See on alla 15 GB suurust.
     
-- Kogu tee koos faili nimega, on vähem kui 400 tähemärki.
+- Kogu tee (sh faili nimi) on väiksem kui 400 märki.
     
-- Faili nimi ei sisalda märke " \* : \< \> ? / \ | ja ei ole [sobimatut nime](https://go.microsoft.com/fwlink/?linkid=866430)loendis.
+- Faili nimi ei sisalda märke " \* :? \< \> / \ | ja ei ole [kehtetute nimede](https://go.microsoft.com/fwlink/?linkid=866430)nimekirjas.
     
-Kui proovite laadida faili OneDrive töölaua rakenduse abil, Vaata [kitsendusi ja piiranguid failide ja kaustade sünkroonimise](http://go.microsoft.com/fwlink/p/?LinkID=717734) või [määrata OneDrive'i sünkroonimisprobleemide](https://go.microsoft.com/fwlink/?linkid=866431).
+Kui proovite faili üles laadida OneDrive ' i töölauarakenduse abil, vaadake [piiranguid ja piiranguid failide ja kaustade sünkroonimisel](http://go.microsoft.com/fwlink/p/?LinkID=717734) või [OneDrive ' i sünkroonimise probleemide lahendamisel](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Delve kasutajaprofiilide haldamine
+title: Kasutajaprofiilide haldamine Delve ' is
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497187"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Delve kasutajaprofiilide haldamine
+# <a name="manage-user-profiles-in-delve"></a>Kasutajaprofiilide haldamine Delve ' is
 
 Office Delve võimaldab kasutajatel hallata oma Office 365 kasutaja profiili. Kasutajad saavad:
   
-- Vaadata ja uuendada oma andmeid
+- Vaadake ja värskendage nende teavet
     
-- Informatsiooni hoidmiseks
+- Hoidke teavet privaatsel
     
-- Muuta oma profiili või katta pilt
+- Muutke nende profiili või kattepilti
     
-- Muuda keel ja kellaajavorming Delve
+- Delve ' i keele-ja kellaajavormingu muutmine
     
 > [!NOTE]
-> Kui kasutaja uuendada oma profiili pilti ja muutus ei ilmu SharePoint või OneDrive, paluge tal Avage veebibrauser, [minge Office.com](https://www.office.com), logite sisse oma töö või kooli kontole ja klõpsake paani OneDrive'i või SharePointi. See kiire profiili pilti sünkroonimine. Kasutaja võib tuleb proovida, täites oma brauseris privaatse versiooni järgmiselt. 
+> Kui kasutaja uuendas oma profiilipilti ja muudatust ei kuvata SharePointis või OneDrive ' is, paluge neil avada veebibrauser, [minge veebisaidile Office.com](https://www.office.com), logige sisse oma töö või kooli kontoga ja klõpsake siis OneDrive ' i või SharePointi paani. See küsib profiilipildi sünkroonimiseks. Kasutaja võib osutuda vajalikuks proovida neid samme oma brauseri Privaatversiooni. 
   
-[Lisateavet Delve profiilide värskendamine](https://go.microsoft.com/fwlink/?linkid=735070)
+[Lisateave profiilide värskendamise kohta Delve ' is](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

@@ -1,5 +1,5 @@
 ---
-title: 410 kalendri Office365 teenustes
+title: 410 kalendri ühiskasutus Office365
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
 ms.openlocfilehash: f76c16275605a5716d4e20b569c10498763a8204
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36518251"
 ---
 # <a name="calendar-sharing-in-office-365"></a>Kalendri ühiskasutus Office 365
 
-Kui teil on küsimusi oma kalendri või muud kalendrid, kasutage [Microsofti toe ja taastamise abimees Office 365](https://diagnostics.office.com/).
+Kui teil on probleeme juurdepääsu oma kalendri või muude kalendrite, kasutage [Microsoft support ja taastamise abimees Office 365](https://diagnostics.office.com/).
   
-Lisateavet teie kalendrit, vt [osa Outlooki kalendri teiste inimestega](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
+Kalendri jagamise kohta lisateabe saamiseks vaadake teemat [Outlooki kalendri jagamine teiste inimestega](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
   
 

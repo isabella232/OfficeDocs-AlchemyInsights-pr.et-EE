@@ -1,5 +1,5 @@
 ---
-title: Juurdepääs saidile Project Web App keelatud
+title: Juurdepääs keelatud Project Web Appi saidile
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661220"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Project Online'i kasutajatele õiguste andmiseks
+# <a name="give-users-permissions-in-project-online"></a>Anna kasutajatele õigused Project Online
 
-Võimaldada kasutajatele juurdepääs SharePointi luba režiimis Project Web App saiti:
+Andke kasutajatele juurdepääs Project Web Appi saidile, kasutades SharePointi õiguste režiimi:
 
-1. Logi sisse Project Online'i admin.
-2. Valige avalehel Project Web App paremas ülanurgas **aktsia** .
-3. **Ühiskasutus Project Web App** dialoogiboksi tippige kasutajanimi väljale **Kutsuda inimesi** juurdepääsu andmiseks isiku.
-4. Valige **Näita**ja seejärel **õiguste tase valige** menüü **Project Web App projektijuhid**.
-5. Valige **Anna ühiskasutusse**.
+1. Logige sisse Project Online admin.
+2. Project Web App koduleht, valige **Share** ülemises paremas nurgas.
+3. Tippige dialoogiboksi **Share Project Web App** isiku kasutajanimi, kellele soovite juurdepääsu anda, **kutsudes inimesi** kasti.
+4. Valige **Kuva suvandid**ja valige **õigusetaseme** menüüst valige projekti **haldurite Project Web App**.
+5. Valige **ühiskasutus**.
 
-Projekti õigused režiimi kasutamisel või lisateabe saamiseks, vaadake [Project Online inimeste lisamine](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Kui kasutate projekti õiguste režiimi või lisateabe saamiseks vaadake teemat [inimeste lisamine Project Online ' i](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
