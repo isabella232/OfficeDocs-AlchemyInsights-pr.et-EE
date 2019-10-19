@@ -1,5 +1,5 @@
 ---
-title: Ava Explorer nuppu puuduva
+title: Avatud Explorer nupp puudub
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36543057"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a><span data-ttu-id="088fa-102">Selle Ava Explorer puudub</span><span class="sxs-lookup"><span data-stu-id="088fa-102">The Open with Explorer button is missing</span></span>
+# <a name="the-open-with-explorer-button-is-missing"></a><span data-ttu-id="dc03b-102">Nupp Ava Exploreriga puudub</span><span class="sxs-lookup"><span data-stu-id="dc03b-102">The Open with Explorer button is missing</span></span>
 
-<span data-ttu-id="088fa-103">Kaasaegne kogemus SharePoint ja OneDrive'i ei kuvata nuppu **Ava Explorer** .</span><span class="sxs-lookup"><span data-stu-id="088fa-103">The **Open with Explorer** button doesn't appear in the modern experience of SharePoint and OneDrive.</span></span> <span data-ttu-id="088fa-104">Dokumenditeegi avamiseks File Exploreris sirvides seda Internet Explorer ja valige menüü Vaade \> **File Exploreris**.</span><span class="sxs-lookup"><span data-stu-id="088fa-104">To open a document library in File Explorer, browse to it in Internet Explorer and select the view menu \> **View in File Explorer**.</span></span> <span data-ttu-id="088fa-105">**File Exploreris** suvand ei ole saadaval Microsoft Edge, Google Chrome või Firefox.</span><span class="sxs-lookup"><span data-stu-id="088fa-105">The **View in File Explorer** option is not available in Microsoft Edge, Google Chrome or Firefox.</span></span> 
+<span data-ttu-id="dc03b-103">**Open Explorer** nuppu ei kuvata kaasaegne kogemus SharePointi ja OneDrive.</span><span class="sxs-lookup"><span data-stu-id="dc03b-103">The **Open with Explorer** button doesn't appear in the modern experience of SharePoint and OneDrive.</span></span> <span data-ttu-id="dc03b-104">Dokumenditeegi avamiseks File Exploreris sirvige seda Internet Exploreris ja valige menüü \> vaade **File Exploreris**.</span><span class="sxs-lookup"><span data-stu-id="dc03b-104">To open a document library in File Explorer, browse to it in Internet Explorer and select the view menu \> **View in File Explorer**.</span></span> <span data-ttu-id="dc03b-105">**Vaade File Explorer** suvand ei ole saadaval Microsoft Edge, Google Chrome või Firefox.</span><span class="sxs-lookup"><span data-stu-id="dc03b-105">The **View in File Explorer** option is not available in Microsoft Edge, Google Chrome or Firefox.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="088fa-106">Ava Explorer on toetatud ainult Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="088fa-106">Open with Explorer is supported only through Internet Explorer.</span></span> <span data-ttu-id="088fa-107">Selle asemel [SharePointi failid koos uue OneDrive'i sünkroonimisrakenduse](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) mis pakub [Tellitavate faile](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span><span class="sxs-lookup"><span data-stu-id="088fa-107">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="088fa-108">Juurdepääs oma OneDrive'is olevaid faile ilma kohalikku talletusruumi.</span><span class="sxs-lookup"><span data-stu-id="088fa-108">Access all your files in OneDrive without using local storage space.</span></span> 
+> <span data-ttu-id="dc03b-106">Avatud Exploreriga toetatakse ainult Internet Exploreri kaudu.</span><span class="sxs-lookup"><span data-stu-id="dc03b-106">Open with Explorer is supported only through Internet Explorer.</span></span> <span data-ttu-id="dc03b-107">Selle asemel [sünkroonida SharePointi failid uue OneDrive sünkroonimise klient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , mis pakub [faile nõudmisel](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span><span class="sxs-lookup"><span data-stu-id="dc03b-107">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="dc03b-108">Juurdepääs kõigile failidele OneDrive ilma kohalikku salvestusruumi.</span><span class="sxs-lookup"><span data-stu-id="dc03b-108">Access all your files in OneDrive without using local storage space.</span></span> 
   
 

@@ -10,14 +10,14 @@ ms.custom:
 - "1939"
 - "9000314"
 ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36752964"
 ---
-# <a name="ose-sharing-errors"></a><span data-ttu-id="d8a42-102">OSE ühiskasutuse tõrked</span><span class="sxs-lookup"><span data-stu-id="d8a42-102">OSE Sharing errors</span></span>
+# <a name="ose-sharing-errors"></a><span data-ttu-id="7b361-102">OSE ühiskasutuse tõrked</span><span class="sxs-lookup"><span data-stu-id="7b361-102">OSE Sharing errors</span></span>
 
-<span data-ttu-id="d8a42-103">Artikkel hõlmab erinevaid tõrkeid, mis võivad ilmneda, kui failide või kaustade ühiskasutus SharePoint Online ' i või OneDrive for Business Office 365.</span><span class="sxs-lookup"><span data-stu-id="d8a42-103">The article covers the different errors that you might encounter when sharing files or folders from SharePoint Online or OneDrive for Business in Office 365.</span></span> <span data-ttu-id="d8a42-104">Nende tõrgete lahendamiseks peate oma organisatsioonis olema globaalne või SharePointi administraator.</span><span class="sxs-lookup"><span data-stu-id="d8a42-104">You need to be a global or SharePoint admin in your organization to fix these errors.</span></span> <span data-ttu-id="d8a42-105">Kui te ei ole administraator, võtke ühendust oma abiinfost ja andke neile oma veakood.</span><span class="sxs-lookup"><span data-stu-id="d8a42-105">If you are not an administrator, contact your help desk and give them your error code.</span></span>
+<span data-ttu-id="7b361-103">Artikkel hõlmab erinevaid tõrkeid, mis võivad ilmneda, kui failide või kaustade ühiskasutus SharePoint Online ' i või OneDrive for Business Office 365.</span><span class="sxs-lookup"><span data-stu-id="7b361-103">The article covers the different errors that you might encounter when sharing files or folders from SharePoint Online or OneDrive for Business in Office 365.</span></span> <span data-ttu-id="7b361-104">Nende tõrgete lahendamiseks peate oma organisatsioonis olema globaalne või SharePointi administraator.</span><span class="sxs-lookup"><span data-stu-id="7b361-104">You need to be a global or SharePoint admin in your organization to fix these errors.</span></span> <span data-ttu-id="7b361-105">Kui te ei ole administraator, võtke ühendust oma abiinfost ja andke neile oma veakood.</span><span class="sxs-lookup"><span data-stu-id="7b361-105">If you are not an administrator, contact your help desk and give them your error code.</span></span>
 
-<span data-ttu-id="d8a42-106">OSE tõrkekoodide kohta lisateabe saamiseks vaadake [ühiskasutuse tõrked SharePointi ja OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span><span class="sxs-lookup"><span data-stu-id="d8a42-106">For more information on OSE error codes, see [Sharing errors in SharePoint and OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span></span>
+<span data-ttu-id="7b361-106">OSE tõrkekoodide kohta lisateabe saamiseks vaadake [ühiskasutuse tõrked SharePointi ja OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span><span class="sxs-lookup"><span data-stu-id="7b361-106">For more information on OSE error codes, see [Sharing errors in SharePoint and OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span></span>
