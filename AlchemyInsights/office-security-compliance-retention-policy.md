@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753756"
 ---
 # <a name="more-info-about-retention-policies"></a>Lisateavet säilituspoliitikate kohta
@@ -26,13 +26,13 @@ Enamiku organisatsioonide puhul suureneb nende andmete maht ja keerukus igapäev
 
 ## <a name="a-from-security-and-compliance-center"></a>A) turbe-ja Vastavuskeskusest
 
-- Minge jaotisse turvalisus ja vastavuse > andmehalduse _ Gt_-säilitamine
+- Avage turvalisuse ja vastavuse > andmete juhtimine > säilitamine
   - Vaata [seda](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artiklit
 
-- Minge jaotisse turvalisus ja vastavus _ Gt_ eDiscovery> Advanced eDiscovery 
+- Minge jaotisse turvalisus ja vastavus > eDiscovery> Täpsem eDiscovery 
   - Vaata [seda](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artiklit
 
-- Minge turbe-ja vastavusandmete > klassifikaatorid _ Gt_
+- Avage turvalisuse ja vastavuse > liigitused > säilitamine
   - Vaata neid artikleid
     - [Tundlikkuse Sildid](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Siltide ülevaade](https://docs.microsoft.com/office365/securitycompliance/labels)

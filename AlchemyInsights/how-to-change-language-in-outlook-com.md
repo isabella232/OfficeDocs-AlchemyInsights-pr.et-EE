@@ -1,5 +1,5 @@
 ---
-title: Kuidas muuta keele Outlook.com-is
+title: Kuidas muuta keelt Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541662"
 ---
-# <a name="change-your-language"></a>Keele vahetamiseks
+# <a name="change-your-language"></a>Keele muutmine
 
-1. Minge chang Outlookis keel, [**keele**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) -ja (**seaded** \> **Vaata kõik Outlook seaded** > **üldise** > **keel ja aeg**).
+1. Chang keele Outlook, minge [**keele ja kellaaja**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) seaded (**seaded** \> **Vaade kõik Outlooki seaded** > **Üldine** > **keel ja kellaaeg**).
 
-2. Keele valik.
+2. Vali oma keel.
 
 3. Valige **Salvesta**.
 
-Lisateabe saamiseks vaadake [muuta ajavööndi- ja keelesätted Outlook.com-is](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Lisateavet leiate teemast Outlook.com ajavööndi [ja keelesätete muutmine](https://go.microsoft.com/fwlink/p/?linkid=873132).

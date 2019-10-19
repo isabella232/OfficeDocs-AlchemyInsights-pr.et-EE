@@ -11,10 +11,10 @@ ms.custom:
 - "2009"
 ms.assetid: ''
 ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36747780"
 ---
 # <a name="access-services-retirement"></a>Juurdepääs teenustele pensionile
@@ -27,7 +27,7 @@ Alates juunist 2019, me peatada uute Accessi andmebaaside loomine SharePoint Onl
 
 **Mida ma pean tegema, et selleks muutusega valmistuda?**
 
-Soovitame luua oma organisatsiooni Accessi veebiandmebaasidele üleminekuplaani. Administraatorid saavad kasutada [SharePoint Accessi rakenduse skannerit](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) , et hankida veebisaite kasutavate Accessi rakenduste ladu.
+Soovitame luua oma organisatsiooni Accessi veebiandmebaasidele üleminekuplaani. Administraatorid saavad kasutada [SharePoint Accessi rakenduse skannerit](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) , et hankida saitide kasutamisel Accessi rakendusi.
 
 Accessi veebiandmebaaside andmete migreerimiseks on mitu võimalust.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Yammer — haldamine Office 365 rühmad '
+title: 'Yammeri-hallata Office 365 rühmad '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.custom:
 - "995"
 - "6000003"
 ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530925"
 ---
-# <a name="manage-office-365-groups-in-yammer"></a>Yammeri Office 365 rühmade haldamine
+# <a name="manage-office-365-groups-in-yammer"></a>Office 365 rühmade haldamine Yammeri
 
-Siit leiate vastused enamlevinud küsimustele Yammeri Office 365 rühmadega.
+Siin on mõned vastused levinumad probleemid Office 365 rühmad Yammeri.
 
-* **Office 365 rühmad** on Ühistööruum meilide, vestluste, failid ja sündmused saate teevad korral grupi liikmed. Yammeris Office 365 rühmad on palju eeliseid-ühendatud Yammeri rühmad. Näiteks saate luua ja live üritusi, taastada kustutatud sõprade, kasutada dünaamilise rühma liikmeks, auto Arhiiv ja juurdepääsu ühiskasutusega ressurssidele nagu Sharepoint, OneNote ja planeerija.
+* **Office 365 rühmad** on ühiskasutuses tööruum meili, vestluste, failide ja sündmuste kohta, kus rühma liikmed saavad koostööd teha. Yammeri, Office 365 rühmad on palju eeliseid üle ühendamata Yammeri rühmad. Näiteks saate luua ja majutada reaalajas sündmusi, taastada kustutatud rühmi, kasutada dünaamilist rühma liikmesust, automaatset arhiivi ja kasutada ühiskasutusega ressursse (nt SharePointi, OneNote ja plaanija).
 
-* Öelda kui Yammeri rühma on seotud Office 365 rühmad kui te jaotisest **Office 365 ressurssidele** (Sharepoint, OneNote'i, planeerija) õige navigatsiooni rühma. Kui ei ole saadaval, kontrollige järgmist.
+* Võite öelda, kui Yammeri rühm on ühendatud Office 365 rühmad, kui näete **office 365 ressursid** jaotises (SharePoint, OneNote, Planner) paremal navigeerimine rühma. Kui ressursid pole saadaval, kontrollige järgmist.
 
-  1. Yammeri võrgustikku tuleb 1 üürnik: 1 võrgu konfiguratsioonist. Kontrollige, kas konfiguratsioonis 1:1, kasutage **võrgu Migreerimistööriista** vastavalt [rände võrk - mitu Yammeri võrku ühendada](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Yammeri võrgu peab olema 1 rentniku: 1 võrgu konfiguratsioon. veendumaks, et olete 1:1 konfiguratsiooni, kasutage **võrgu siirdamise tööriista** nagu on kirjeldatud [võrgu migratsioon-Konsolideerige mitu Yammeri võrgud](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-  2. Sirvige **võrgu Admin, turvalisuse**ja tagada **Office 365 identiteedi** rakendamine Yammeri kasutajatele.
+  2. Sirvige **võrgu admin, turvasätted**ja veenduge, et **Office 365 identiteedi** jõustada Yammeri kasutajatele.
 
-Lisateave Office 365 rühmad ja Yammer, vt [Yammeri platvormil ja office 365 rühmad](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Rühma haldamise kohta leiate teemast [Yammeri rühma haldamiseks](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Office 365 rühmade ja Yammeri kohta lisateabe saamiseks lugege [Yammeri ja Office 365 rühmad](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Lisateavet rühma haldamise kohta vt teemast [Halda rühma Yammeri](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

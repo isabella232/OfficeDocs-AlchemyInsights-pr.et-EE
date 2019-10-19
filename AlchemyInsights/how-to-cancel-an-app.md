@@ -1,5 +1,5 @@
 ---
-title: Kuidas loobuda app
+title: Rakenduse tühistamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542097"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Kuidas loobuda software-as-a-service rakendused 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Tarkvara-a-teenuse rakenduste tühistamine 
 
-1. Microsoft 365 administreerimiskeskuses, et **arved** > [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehekülg ja seejärel valige selle **rakendused** vahekaart.
+1. Valige Microsoft 365 halduskeskus lehel > [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) ja seejärel vahekaart **rakendused** . ****
 
 2. Leidke ja valige rakendus, mida soovite hallata.
 
-3. Valige jaotises **sätted & meetmete** **loobumine**.
+3. Tehke jaotises **sätted & toimingud**valik **Tühista tellimus**.

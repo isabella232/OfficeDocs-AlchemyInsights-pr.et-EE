@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532615"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Kausta või failide üleslaadimine SharePointi dokumenditeegis
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Kausta või failide üleslaadimine SharePointi dokumenditeeki
 
-Upload kausta, peate kasutama Microsoft Edge, Google Chrome või Mozilla FireFox. Te ei saa laadida kaustad klassikaline Raamatukogu kogemus või Internet Explorer 10 või 11.
+Kausta üleslaadimiseks peate kasutama Microsoft Edge ' i, Google Chrome ' i või Mozilla Firefoxi. Te ei saa laadida kaustu klassikaline Raamatukogu kogemus, või kasutades Internet Explorer 10 või 11.
   
 1. Avage dokumenditeek, kuhu soovite kausta või faile üles laadida.
     
-2. Avage arvutis File Explorer ja otsige üles kaustad või failid, mille soovite üles laadida.
+2. Avage arvutis File Explorer ja sirvige kausta või faile, mida soovite üles laadida.
     
-3. Lohistage kaust või failid dokumenditeeki. Kui te üles laadida üksuste teegis kuvatakse, värskendage lehte. 
+3. Lohistage kaust või failid dokumenditeeki. Kui te ei näe teegis kuvatavaid üksusi, värskendage lehte. 
     
-Kui te ei soovi üleslaadimiseks lohistage üksused ühest aknast, saate nupule **Upload** dokumenditeeki valida kaust või failid, mille soovite üles laadida. 
+Kui te ei soovi laadida üksusi akende vahel lohistades, võite kasutada ka dokumenditeegi nuppu **üleslaadimine** , et valida kaust või failid, mida soovite üles laadida. 
   
 

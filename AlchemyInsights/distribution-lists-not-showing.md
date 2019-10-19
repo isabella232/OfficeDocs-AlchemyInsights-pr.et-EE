@@ -1,5 +1,5 @@
 ---
-title: Leviloendeid ei Näita
+title: Leviloendid ei Näita
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
 ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530455"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Levirühma ei Näita sõprade nimekirja
+# <a name="distribution-group-not-showing-in-groups-list"></a>Levirühm, mis ei Näita rühmade loendis
 
-Võib kuluda kuni 60 minutit enne oma uue kontaktirühma kuvatakse Exchange'i administraatori center center.
+See võib võtta kuni 60 minutit enne uue leviloendi kuvatakse Exchange ' i administraatori Center Center.
   
-Kui soovite lisada liikmeid või muude muudatuste tegemiseks kohe, kasutage [Exchange'i halduskeskuse](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)sõprade funktsiooni.
+Kui soovite lisada liikmeid või teha muid muudatusi kohe, kasutage funktsiooni rühmad [Exchange ' i administreerimiskeskuses](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

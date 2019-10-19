@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 vormid Business reegli nimi ei laskepaiga
+title: Dynamics 365 vormid Business reegli kasutades FullName välja ei tulista
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528942"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Täielik nimi välja ühtse inteface rakendused ei toeta
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Täielik nimi välja ei toetata Unified inteface rakendused
 
-Toimingute või tingimuste, mis kasutavad välja **Täisnimi** (nimi) ei toeta rakendusi vastavalt ühtne liides. Teise võimalusena saate toimingute või tingimuste **eesnimi** (eesnimi) ja **Perekonnanimi** (perekonnanimi) välja.
+Toiminguid või tingimusi, mis kasutavad **täielik nimi** (FullName) välja ei toetata rakendusi, mis põhinevad Unified Interface. Teise võimalusena saate kasutada toiminguid või tingimusi **eesnime** (eesnimi) ja **perekonnanimi** (perekonnanimi).
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

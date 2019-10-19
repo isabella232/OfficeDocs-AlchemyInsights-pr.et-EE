@@ -1,5 +1,5 @@
 ---
-title: Probleemid makromajandusliku finantsabi
+title: Makromajandusliku finantsabi probleemid
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545158"
 ---
-# <a name="issues-with-mfa"></a>Probleemid makromajandusliku finantsabi
-On paar asja kontrollida, kui kasutajad ei saa sisse logida, kasutades mitme teguriga autentimine (MFA)
+# <a name="issues-with-mfa"></a>Makromajandusliku finantsabi probleemid
+On mõned asjad, mida kontrollida, kui kasutajad ei saa sisse logida, kasutades mitme teguriga autentimine (MFA)
 
-1. Mõjutatud kasutaja võib blokeerida Azure Active Directory keskkonnas. Kui see juhtub, autentimise katsed selleks keelatakse automaatselt konkreetse kasutaja. [Palun järgige selles artiklis endi blokeerimise lõpetamist.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Mõjutatud kasutaja võib blokeerida Azure Active Directory portaalis. Kui see on nii, keelatakse autentimise katsed selle konkreetse kasutaja automaatselt. [Palun järgige käesoleva artikli juhiseid blokeeringu tühistamiseks.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Kui kasutaja on blokeeritud või blokeeringu kasutaja ei aidanud proovige lähtestada kasutaja MFA ja nad lähevad läbi registreeruda protsessi uuesti. [Palun järgige selles artiklis.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Kui kasutaja blokeerimine ei aita või kasutaja ei ole blokeeritud võite proovida lähtestada kasutaja MFA ja nad lähevad läbi registreeruda protsessi uuesti. [Palun järgige käesoleva artikli juhiseid.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Kui esimest korda te lubatud MFA ja kasutajad ei saa logida-brauserid kliendid, nagu Outlook, Skype jne, ehk ADAL (Active Directory autentimise Raamatukogu) on sisse lülitatud tellimuse O365. Sel juhul peate ühendust Exchange Online PowerShelli ja käivitada:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Kui see on esimene kord, kui aktiveerite MFA ja kasutajad ei saa sisse logida mitte-brauserid klientidele nagu Outlook, Skype, jne, võib-olla ADAL (Active Directory autentimine Raamatukogu) on lubatud teie O365 tellimus. Sel juhul peate ühendust Exchange Online PowerShelli ja käivitage see cmdlet-käsu:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $True*

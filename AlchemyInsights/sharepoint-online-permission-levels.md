@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online'i õiguste tasemed
+title: SharePoint Online ' i õiguste tasemed
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534883"
 ---
-# <a name="sharepoint-online-permission-levels"></a>SharePoint Online'i õiguste tasemed
+# <a name="sharepoint-online-permission-levels"></a>SharePoint Online ' i õiguste tasemed
 
-SharePoint on mõned õigusetasemed, mille abil saate näiteks osaleja ja vaade ainult. Kui nad ei vasta teie vajadustele, saate luua täiendavaid õigusetasemed. Siis tasub abil õigused kui ei redigeerida või kustutada vaikimisi tabeleid ja kui te saate lisada inimesed ja määrata nende rühmade asemel õigusetasemete määramine kasutajatele õiguste tasemed.
+SharePointiga on kaasas mõned vaikimisi loa tasemed, mida saate kasutada (nt panusta ja Kuva ainult). Kui nad ei vasta teie vajadustele, saate luua täiendavaid õigusetasemeid. On lihtsam jälgida õigusi, kui te ei Redigeeri või kustutage vaiketasemed ja kui lisate inimesi rühmadesse ja määrake nende rühmade õiguste tasemed asemel üksikutele kasutajatele õiguste tase.
   
-- [Mõistmise õigusetasemed](https://go.microsoft.com/fwlink/?linkid=867071)
+- [Õigusetasemete mõistmine](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [Kuidas luua ja redigeerida õigusetasemed](https://go.microsoft.com/fwlink/?linkid=867072)
+- [Õigusetasemete loomine ja redigeerimine](https://go.microsoft.com/fwlink/?linkid=867072)
     
 

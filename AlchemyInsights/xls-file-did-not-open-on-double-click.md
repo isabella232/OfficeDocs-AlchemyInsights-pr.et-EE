@@ -1,5 +1,5 @@
 ---
-title: XLS fail ei avane topeltklõpsuga
+title: XLS-fail ei avaneks topeltklõpsuga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530743"
 ---
 # <a name="excel-file-doesnt-open"></a>Exceli fail ei avane
 
-Proovige ühte järgmistest soovitustest:
+Proovige ühte neist soovitustest.
 
-**Valige Exceli vaikimisi**
+**Vali vaikimisi Exceli**
 
-* Paremklõpsake töölehel, valige **Ava programmiga**ning valige **Exceli**
+* Paremklõpsake töölehte, valige käsk **Ava**ja seejärel valige **Excel**
 
-**Kiire remondi**
+**Kiirparanduse käivitamine**
 
-1. Mine **Control Panel > programmi > programmid ja funktsioonid**.
+1. Avage juhtpaneel **> programmid > programmid ja funktsioonid**.
 
-2. Valige Office'i toote parandatava ja valige **Muuda**.
+2. Valige Office ' i toode, mida soovite parandada, ja seejärel valige **Muuda**.
 
-3. **Kiirparanduse** valikuks ja valige **remont**.
+3. Valige **kiirparanduse** suvand ja seejärel valige **Paranda**.
 
-**Kasutate Office'i versioonide desinstallimine**
+**Desinstallige Office ' i versioonid, mida te ei kasuta**
 
-1. Mine **Control Panel > Desinstalli programm**ja valige eemaldada Office'i versiooni.
+1. Avage juhtpaneel **> desinstallige programm**ja seejärel valige Office ' i versioon, mida soovite eemaldada.
 
-2. Klõpsake **desinstallida**.
+2. Klõpsake **desinstalli**.
 
 3. Taaskäivitage arvuti.
 
-**Käivitage selle tõrkeotsing samochdów Office'i faili avamiseks Office**
+**Käivitage see tõrkeotsija Office ' i faililaiendite Office ' i avamiseks**
 
-1. See tõrkeotsija käivitamine: https://aka.ms/diag_officefile.
+1. Käivita see tõrkeotsija https://aka.ms/diag_officefile:.
 
-2. Sõltuvalt brauseri, **Ava** või **Salvesta** tõrkeotsija töölauale ja siis **Käivita** ta.
+2. Sõltuvalt brauserist **avage** või **salvestage** tõrkeotsija töölauale ja seejärel **käivitage** see.

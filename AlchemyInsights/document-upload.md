@@ -1,5 +1,5 @@
 ---
-title: Dokumendi allalaadimine
+title: Dokumendi üleslaadimine
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529426"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Laadige failid OneDrive'i või SharePointi
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Failide üleslaadimine OneDrive ' i või SharePointile
 
-1. Veebibrauseris, minge kohta, kuhu soovite faile üles laadida.
+1. Minge oma veebibrauseris asukohta, kuhu soovite faile üles laadida.
     
-2. Avage File Explorer ja otsige üles failid, mida soovite üles laadida.
+2. Avage File Explorer ja sirvige failidega, mida soovite üles laadida.
     
-3. Valige failid ja lohistage need OneDrive'i või SharePointi asukohta. Märkus: Kui kasutate Microsoft Edge, Mozilla FireFox või Google Chrome, saad laadida kausta ja kõik failid.
+3. Valige failid ja lohistage need OneDrive ' i või SharePointi asukohta. Märkus: kui kasutate Microsoft Edge, Mozilla FireFox või Google Chrome, saate laadida ka kausta ja kõik failid selles.
     
 > [!NOTE]
->  Saate faile üles laadida kuni 15 GB suuruseid. > täielik tee (koos faili nimega) fail ei tohi olla üle 400 tähemärki. Kui soovite [kasutada OneDrive'i sünkroonimisrakenduse](https://go.microsoft.com/fwlink/?linkid=866427)failide üle 100 >. 
+>  Faile saab üles laadida kuni 15 GB suuruses. > faili täielik tee (sh faili nimi) ei saa olla pikem kui 400 märki. > kui teil on vaja laadida üle 100 faile, [Kasutage OneDrive ' i sünkroonimise klient](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

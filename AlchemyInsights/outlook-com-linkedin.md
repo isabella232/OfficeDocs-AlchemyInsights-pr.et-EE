@@ -1,5 +1,5 @@
 ---
-title: Probleemid väidetavalt LinkedIn rämpsposti
+title: Probleemid rämpsposti väidavad, et LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1276"
 - "8000079"
 ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536497"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Probleemid väidetavalt LinkedIn rämpsposti
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Probleemid rämpsposti väidavad, et LinkedIn
 
-Me oleme teadlikud, et mõned kasutajad saate rämpsposti, mis väidab end olevat LinkedIn.
+Oleme teadlikud, et mõned kasutajad saavad rämpsposti, mis väidab olevat LinkedIn.
 
-Soovitame kasutada sisendkausta reegel filtreerida need meile.
+Nende meilide filtreerimiseks soovitame kasutada sisendkausta reeglit.
 
-Lisateabe saamiseks lugege Kuidas [kasutada Outlook.com-i sisendkausta reeglid](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateabe saamiseks lugege, kuidas [kasutada sisendkausta reeglid Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).

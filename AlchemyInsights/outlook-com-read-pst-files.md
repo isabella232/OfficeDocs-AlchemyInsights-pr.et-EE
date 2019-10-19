@@ -1,5 +1,5 @@
 ---
-title: 9000199 PST faile teenuses Outlook.com
+title: 9000199 PST faile Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535603"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>PST failid Outlook.com-is
+# <a name="pst-data-files-in-outlookcom"></a>PST andmefailid Outlook.com
 
-See ei ole võimalik importida Outlooki. PST faili brauseris teenuse Outlook.com kontole.
+Outlooki ei saa importida. PST andmete faili oma Outlook.com konto kasutades brauserit.
 
-Importida on. PST faili, kasutage Outlooki töölauarakendust. Lisateabe saamiseks lugege [e-posti, kontaktide ja kalendri importimine Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Importimiseks. PST andmefail, peate kasutama Outlook Desktop app. Lisateabe saamiseks lugege [import e-posti, kontaktid ja kalender Outlook. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
