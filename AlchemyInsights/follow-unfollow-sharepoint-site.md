@@ -1,26 +1,26 @@
 ---
 title: SharePointi saidi jälgimine või jälgimine
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755700"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611693"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="cd550-102">SharePointi saidi jälgimine või jälgimine</span><span class="sxs-lookup"><span data-stu-id="cd550-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="cbefd-102">SharePointi saidi jälgimine või jälgimine</span><span class="sxs-lookup"><span data-stu-id="cbefd-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="cd550-103">On mitmeid viise, kuidas järgida saidi, mis teid huvitab SharePoint.</span><span class="sxs-lookup"><span data-stu-id="cd550-103">There are multiple ways to follow a site that interests you in SharePoint.</span></span> <span data-ttu-id="cd550-104">See võimaldab teil leida saidi hõlpsalt oma nimekirja ja võimaldab teil näha tegevust saidilt.</span><span class="sxs-lookup"><span data-stu-id="cd550-104">This will allow you to find the site easily in your list, and allow you to see activity from the site.</span></span> 
+<span data-ttu-id="cbefd-103">On mitmeid viise, kuidas leida ja jälgida saite, uudiseid ja sisu, mis teile huvi SharePoint.</span><span class="sxs-lookup"><span data-stu-id="cbefd-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="cbefd-104">See võimaldab teil teavet hõlpsalt oma loendis leida ja lubada teil SharePointi tegevust näha.</span><span class="sxs-lookup"><span data-stu-id="cbefd-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
 
-<span data-ttu-id="cd550-105">Vaadake videot [SharePointi saidi järgi](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0).</span><span class="sxs-lookup"><span data-stu-id="cd550-105">Watch the video to [Follow a SharePoint site](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0).</span></span> 
+<span data-ttu-id="cbefd-105">Vaata videot [leida ja jälgida saite ja uudiseid](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="cbefd-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
 
-<span data-ttu-id="cd550-106">Kui te ei saa jälgida või järgige saidi ja tunnete, et tulemused ei ole oodatud, vaadake, kas probleem on seotud ühe kasutaja või kõik kasutajad teie organisatsioonis.</span><span class="sxs-lookup"><span data-stu-id="cd550-106">If you are unable to follow or un-follow a site and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="cd550-107">Kui probleem on ilmnenud kõik kasutajad, võib olla ajutine teenuse probleem.</span><span class="sxs-lookup"><span data-stu-id="cd550-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span> 
+<span data-ttu-id="cbefd-106">Kui te ei saa jälgida või järgige saidi, Uudised või sisu ja tunne tulemusi ei ole, mida on oodata, vaadake, kas probleem on seotud ühe kasutaja või kõik kasutajad teie organisatsioonis.</span><span class="sxs-lookup"><span data-stu-id="cbefd-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="cbefd-107">Kui probleem on ilmnenud kõik kasutajad, võib olla ajutine teenuse probleem.</span><span class="sxs-lookup"><span data-stu-id="cbefd-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
 
-<span data-ttu-id="cd550-108">Kontrollige [teenuse tervise armatuurlauda](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et näha, kas teie organisatsioon on mõjutatud.</span><span class="sxs-lookup"><span data-stu-id="cd550-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+<span data-ttu-id="cbefd-108">Kontrollige [teenuse tervise armatuurlauda](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et näha, kas teie organisatsioon on mõjutatud.</span><span class="sxs-lookup"><span data-stu-id="cbefd-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
