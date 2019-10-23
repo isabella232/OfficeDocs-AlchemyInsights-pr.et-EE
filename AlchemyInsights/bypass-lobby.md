@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376609"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637773"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Fuajeeseadete ja osalemise taseme kontrollimine
 
-Need sätted kontrollivad, millised osavõtjad ootavad fuajees enne koosoleku lubamist ja koosolekul lubatud osalemise taset. PowerShelli abil saate värskendada koosoleku poliitika sätted, mida pole veel rakendatud (märgistatud "peatselt") meeskonnad halduskeskus.  Vaadake allpool näide PowerShelli cmdlet-käsk, mis võimaldab kõigil kasutajatel mööduda fuajee.  
+Kui soovite lubada kõigil, sealhulgas dial-in, välised ja anonüümsed kasutajad mööduda fuajee, saate seda teha PowerShelli abil. Siin on näide muuta oma organisatsiooni globaalse koosoleku poliitika:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+See cmdlet-käsk on praegu vaja kasutada Skype Business PowerShelli moodul. Selle cmdlet-käsu kasutamiseks installiprogrammi saamiseks vaadake haldamine poliitika PowerShelli kaudu.
+
+Saate seadistada uue poliitika, mille peate selle kasutajatele rakendama. Kui muudate Globaalpoliitikat, rakenduvad see automaatselt kasutajatele. Poliitika muutmiseks peate ootama vähemalt 4 tundi ja kuni 24 tundi poliitika jõustumiseks.
+
+Veenduge, et vaadata allpool dokumentatsiooni, enne kui teha need muudatused täpselt aru, mida see võimaldab.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Fuajeepoliitika juhtelementide koosoleku meeskondade mõistmine
 
 - [Automaatselt tunnistama](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , et inimesed on ühe korraldaja poliitika, mis kontrollib, kas inimesed koosolekuga otse või oodake fuajees, kuni nad on lubatud autenditud kasutaja.
 
@@ -30,15 +40,4 @@ Need sätted kontrollivad, millised osavõtjad ootavad fuajees enne koosoleku lu
 
 - [Luba korraldajad alistada fuajeeätted](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **(peatselt**) on ühe korraldaja poliitika, mis kontrollib, kas koosoleku korraldaja saab alistada fuajeesätted, mis admin seatud **automaatselt tunnistama inimesed** ja **lubada dial-in kasutajatel** uue koosoleku ajastamiseks fuajees mööduda.
 
-**Märkus:** Lugege [Manage Koosolekupoliitikad meeskonnad](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) täielik ülevaade Microsoft teamsi koosoleku poliitikad. 
-
-
-**PowerShelli näide**
-
-Kui soovite lubada kõigil, sealhulgas väliste või anonüümsete kasutajate, fuajee mööduda, saate selle ülesande täitmiseks kasutada ka PowerShelli.  Siin on näide teie organisatsiooni globaalse koosoleku poliitika muutmise kohta.   
-
-(Vaadake kindlasti üle ülaltoodud dokumendid enne nende muudatuste tegemist, et mõista täpselt, mida see võimaldab.)
-
-Set-CsTeamsMeetingPolicy-identiteedi globaalne-AutoAdmittedUsers "kõik"-AllowPSTNUsersToBypassLobby $True
-
-Lisateabe saamiseks vaadake [komplekt-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Märkus:** Lugege [Manage Koosolekupoliitikad meeskonnad](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) täielik ülevaade Microsoft teamsi koosoleku poliitikad.
