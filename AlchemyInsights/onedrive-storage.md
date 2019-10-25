@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661040"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658289"
 ---
 # <a name="manage-your-onedrive-storage"></a>OneDrive ' i salvestusruumi haldamine
 
-Uute ja olemasolevate OneDrive ' i kasutajate vaikemäluruumi muutmiseks toimige järgmiselt.
-  
-- Minge [OneDrive ' i halduskeskus Storage lehele](https://admin.onedrive.com/?v=StorageSettings)ja sisestage uus summa GB.
+OneDrive Storage ruumi ei arvestata üldine rentniku kvoodi. 
 
-See mäluruumi säte kehtib kõigile kasutajatele, kellele te pole kindlaid salvestuspiiranguid seadnud. Teatud kasutajate talletusruumi muutmiseks peate kasutama Microsoft PowerShelli. Lisateavet selle kohta, kuidas seda teha, vaadake [muuta oma kasutajate OneDrive ' i salvestusruumi PowerShelli abil](https://go.microsoft.com/fwlink/?linkid=866402). Et kontrollida, kui palju salvestusruumi te oma OneDrive ' is kasutate, vaadake teemat [OneDrive for Business Storage haldamine](https://go.microsoft.com/fwlink/?linkid=866429). Teavet iga plaaniga kaasas oleva salvestusruumi kohta leiate teemast [OneDrive for Business Service kirjeldus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Vaadake, [Kuidas OneDrive ' i salvestusruum kasutaja/plaani kohta eraldatakse](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Vaadake [, kui palju salvestusruumi teie OneDrive ' is kasutate](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Vaadake [, kuidas saada OneDrive Storage kvoodi PowerShelli abil](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Microsoft annab esialgu 1 TB kasutaja kohta, mis administraatoritel võib suurendada kuni 5 TB kasutaja kohta. Teave selle kohta, kuidas [seada OneDrive ' i kasutajate jaoks vaikimisi talletusruumi](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Vaadake [, kuidas teatud kasutaja OneDrive ' i salvestusruumi muuta](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Vaadake [, kuidas globaalne administraatoritel saab määrata OneDrive Storage kvoodi kõigile kasutajatele, kes kasutavad PowerShelli](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   

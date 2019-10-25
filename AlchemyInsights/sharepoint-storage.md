@@ -1,9 +1,8 @@
 ---
-title: SharePointi mällu
+title: SharePointi salvestusruum
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502704"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658253"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Hallata oma SharePoint Online ladustamise
+# <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online ' i salvestusruumi haldamine
 
-Enamikule asutustele SharePointi mällu juhitakse automaatselt, et te ei peaks seada piiranguid saidi kogumise kohta. Et näha kui palju teil on SharePointi mällu:
-  
-- Uus SharePointi administreerimiskeskuses, on ülemise paremal lehe saitide otsige saadaval ja kokku hoidmine.
+Vaadake, kuidas [rentniku salvestusruum](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) teie plaani põhjal arvutatakse.
 
-Täpsemat infot oma limiidi arvutamise, [SharePoint Online piirid](https://go.microsoft.com/fwlink/p/?LinkID=856113). Osta lisahoiuruumi, vaadake [Muuda salvestusruumi tellimuse](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Infot jälgida üksikute saitide ladustamiseks PowerShelli abil ja saidi kogumise mälu haldamine käsitsi, leiate teemast [Halda saidi kogumise](https://go.microsoft.com/fwlink/?linkid=867833)
+Enamiku organisatsioonide puhul hallatakse SharePointi salvestusruumi automaatselt, seega pole teil vaja seada piiranguid saidikogumi kohta.
+
+Siin on teavet selle kohta, kuidas [vaadata oma organisatsiooni koguvaba salvestusruumi](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Siin on teavet selle kohta, kuidas [hallata üksikute saidikogumiku salvestuspiiranguid](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Kui teie sait on ruumi otsas või soovite teada, milline teek või loend kasutab ruumi, minge **saidi sätted** > **Storage mõõdikud** (saidikogumi administraatoriõigused on vajalikud).
+
+Vaadake, kuidas [jälgida saidi ladustamise piirangud PowerShelli abil](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Vaadake, kuidas [täiendavat salvestusruumi osta](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   
