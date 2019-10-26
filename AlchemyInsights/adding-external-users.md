@@ -14,18 +14,18 @@ ms.custom:
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
 ms.openlocfilehash: bf16fa05a2c878e11d28582258c3615923393cdc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36737401"
 ---
-# <a name="adding-external-users"></a><span data-ttu-id="aa13e-102">Väliste kasutajate lisamine</span><span class="sxs-lookup"><span data-stu-id="aa13e-102">Adding external users</span></span>
+# <a name="adding-external-users"></a><span data-ttu-id="6f4a7-102">Väliste kasutajate lisamine</span><span class="sxs-lookup"><span data-stu-id="6f4a7-102">Adding external users</span></span>
 
-<span data-ttu-id="aa13e-103">Väliste/külaliskasutajate lisamise sammud võivad erineda sõltuvalt sellest, mida teil on vaja juurdepääsuks.</span><span class="sxs-lookup"><span data-stu-id="aa13e-103">The steps for adding external / guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="aa13e-104">Palun valige üks järgmistest:</span><span class="sxs-lookup"><span data-stu-id="aa13e-104">Please choose one of the following:</span></span>
+<span data-ttu-id="6f4a7-103">Väliste/külaliskasutajate lisamise sammud võivad erineda sõltuvalt sellest, mida teil on vaja juurdepääsuks.</span><span class="sxs-lookup"><span data-stu-id="6f4a7-103">The steps for adding external / guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="6f4a7-104">Palun valige üks järgmistest:</span><span class="sxs-lookup"><span data-stu-id="6f4a7-104">Please choose one of the following:</span></span>
   
-- [<span data-ttu-id="aa13e-105">Väline ühiskasutuse ülevaade</span><span class="sxs-lookup"><span data-stu-id="aa13e-105">External sharing overview</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [<span data-ttu-id="6f4a7-105">Väline ühiskasutuse ülevaade</span><span class="sxs-lookup"><span data-stu-id="6f4a7-105">External sharing overview</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [<span data-ttu-id="aa13e-106">Külalisjuurdepääs Office 365 gruppidele</span><span class="sxs-lookup"><span data-stu-id="aa13e-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [<span data-ttu-id="6f4a7-106">Külalisjuurdepääs Office 365 gruppidele</span><span class="sxs-lookup"><span data-stu-id="6f4a7-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [<span data-ttu-id="aa13e-107">Külalisjuurdepääs Microsoft Teamsi</span><span class="sxs-lookup"><span data-stu-id="aa13e-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [<span data-ttu-id="6f4a7-107">Külalisjuurdepääs Microsoft Teamsi</span><span class="sxs-lookup"><span data-stu-id="6f4a7-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

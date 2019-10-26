@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36530491"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a><span data-ttu-id="23665-102">Levirühm "{AimKIObject}" ei kuvata rühmade loendis pärast {Aimkitimeelveerunud} minutit</span><span class="sxs-lookup"><span data-stu-id="23665-102">Distribution Group "{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a><span data-ttu-id="47473-102">Levirühm "{AimKIObject}" ei kuvata rühmade loendis pärast {Aimkitimeelveerunud} minutit</span><span class="sxs-lookup"><span data-stu-id="47473-102">Distribution Group "{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
 
-<span data-ttu-id="23665-103">Teie rühm "{AimKIObject}" loodi {Aimkitimeelveerunud} minutit tagasi.</span><span class="sxs-lookup"><span data-stu-id="23665-103">Your group "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="23665-104">See tavaliselt ei võta rohkem kui 60 minutit uue levirühm ilmuma administreerimiskeskuses.</span><span class="sxs-lookup"><span data-stu-id="23665-104">It normally doesn't take more than 60 minutes for your new distribution group to appear in the Admin center.</span></span>
+<span data-ttu-id="47473-103">Teie rühm "{AimKIObject}" loodi {Aimkitimeelveerunud} minutit tagasi.</span><span class="sxs-lookup"><span data-stu-id="47473-103">Your group "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="47473-104">See tavaliselt ei võta rohkem kui 60 minutit uue levirühm ilmuma administreerimiskeskuses.</span><span class="sxs-lookup"><span data-stu-id="47473-104">It normally doesn't take more than 60 minutes for your new distribution group to appear in the Admin center.</span></span>
   
-<span data-ttu-id="23665-105">Võib olla võimalik kasutada adressaatide > rühmad funktsiooni [Exchange ' i halduskeskus](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) hallata oma rühma kohe või kasutada "Olgem helistada" võimalus rääkida tugiteenuse insener.</span><span class="sxs-lookup"><span data-stu-id="23665-105">You may be able to use the Recipients > Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) to manage your group now, or use the "Let us call you" option to talk to a support engineer.</span></span> 
+<span data-ttu-id="47473-105">Võib olla võimalik kasutada adressaatide > rühmad funktsiooni [Exchange ' i halduskeskus](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) hallata oma rühma kohe või kasutada "Olgem helistada" võimalus rääkida tugiteenuse insener.</span><span class="sxs-lookup"><span data-stu-id="47473-105">You may be able to use the Recipients > Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) to manage your group now, or use the "Let us call you" option to talk to a support engineer.</span></span> 
   
 

@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36661220"
 ---
-# <a name="give-users-permissions-in-project-online"></a><span data-ttu-id="b23bf-102">Anna kasutajatele õigused Project Online</span><span class="sxs-lookup"><span data-stu-id="b23bf-102">Give users permissions in Project Online</span></span>
+# <a name="give-users-permissions-in-project-online"></a><span data-ttu-id="4a61a-102">Anna kasutajatele õigused Project Online</span><span class="sxs-lookup"><span data-stu-id="4a61a-102">Give users permissions in Project Online</span></span>
 
-<span data-ttu-id="b23bf-103">Andke kasutajatele juurdepääs Project Web Appi saidile, kasutades SharePointi õiguste režiimi:</span><span class="sxs-lookup"><span data-stu-id="b23bf-103">Give users access to a Project Web App site using SharePoint Permission Mode:</span></span>
+<span data-ttu-id="4a61a-103">Andke kasutajatele juurdepääs Project Web Appi saidile, kasutades SharePointi õiguste režiimi:</span><span class="sxs-lookup"><span data-stu-id="4a61a-103">Give users access to a Project Web App site using SharePoint Permission Mode:</span></span>
 
-1. <span data-ttu-id="b23bf-104">Logige sisse Project Online admin.</span><span class="sxs-lookup"><span data-stu-id="b23bf-104">Log in to Project Online as an admin.</span></span>
-2. <span data-ttu-id="b23bf-105">Project Web App koduleht, valige **Share** ülemises paremas nurgas.</span><span class="sxs-lookup"><span data-stu-id="b23bf-105">On the Project Web App home page, select **Share** in the top right corner.</span></span>
-3. <span data-ttu-id="b23bf-106">Tippige dialoogiboksi **Share Project Web App** isiku kasutajanimi, kellele soovite juurdepääsu anda, **kutsudes inimesi** kasti.</span><span class="sxs-lookup"><span data-stu-id="b23bf-106">In the **Share Project Web App** dialog box, type the user name of the person you want to give access to in the **Invite People** box.</span></span>
-4. <span data-ttu-id="b23bf-107">Valige **Kuva suvandid**ja valige **õigusetaseme** menüüst valige projekti **haldurite Project Web App**.</span><span class="sxs-lookup"><span data-stu-id="b23bf-107">Select **Show Options**, and in the **Select a permission level** menu, select **Project Managers for Project Web App**.</span></span>
-5. <span data-ttu-id="b23bf-108">Valige **ühiskasutus**.</span><span class="sxs-lookup"><span data-stu-id="b23bf-108">Select **Share**.</span></span>
+1. <span data-ttu-id="4a61a-104">Logige sisse Project Online admin.</span><span class="sxs-lookup"><span data-stu-id="4a61a-104">Log in to Project Online as an admin.</span></span>
+2. <span data-ttu-id="4a61a-105">Project Web App koduleht, valige **Share** ülemises paremas nurgas.</span><span class="sxs-lookup"><span data-stu-id="4a61a-105">On the Project Web App home page, select **Share** in the top right corner.</span></span>
+3. <span data-ttu-id="4a61a-106">Tippige dialoogiboksi **Share Project Web App** isiku kasutajanimi, kellele soovite juurdepääsu anda, **kutsudes inimesi** kasti.</span><span class="sxs-lookup"><span data-stu-id="4a61a-106">In the **Share Project Web App** dialog box, type the user name of the person you want to give access to in the **Invite People** box.</span></span>
+4. <span data-ttu-id="4a61a-107">Valige **Kuva suvandid**ja valige **õigusetaseme** menüüst valige projekti **haldurite Project Web App**.</span><span class="sxs-lookup"><span data-stu-id="4a61a-107">Select **Show Options**, and in the **Select a permission level** menu, select **Project Managers for Project Web App**.</span></span>
+5. <span data-ttu-id="4a61a-108">Valige **ühiskasutus**.</span><span class="sxs-lookup"><span data-stu-id="4a61a-108">Select **Share**.</span></span>
 
-<span data-ttu-id="b23bf-109">Kui kasutate projekti õiguste režiimi või lisateabe saamiseks vaadake teemat [inimeste lisamine Project Online ' i](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).</span><span class="sxs-lookup"><span data-stu-id="b23bf-109">If you use Project Permissions mode, or for more information, please see [Add people to Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).</span></span>
+<span data-ttu-id="4a61a-109">Kui kasutate projekti õiguste režiimi või lisateabe saamiseks vaadake teemat [inimeste lisamine Project Online ' i](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).</span><span class="sxs-lookup"><span data-stu-id="4a61a-109">If you use Project Permissions mode, or for more information, please see [Add people to Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).</span></span>
