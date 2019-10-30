@@ -1,9 +1,8 @@
 ---
-title: 718 lisamine väliskontaktid / inimesed väljastpoolt asutust leviloendile
+title: 718 lisamine väliste kontaktide/inimeste väljaspool organisatsiooni leviloendi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e31a9f4213a69e84f78fcd00b767edb04bd9ec4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494559"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766635"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="9c089-102">Levirühma väline e-posti aadresside lisamine</span><span class="sxs-lookup"><span data-stu-id="9c089-102">Add external email addresses to a distribution group</span></span>
+# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="421da-102">Väliste meiliaadresside lisamine levirühma</span><span class="sxs-lookup"><span data-stu-id="421da-102">Add external email addresses to a distribution group</span></span>
 
-<span data-ttu-id="9c089-103">Esiteks sa pead luua kontakti oma organisatsiooni välise meiliaadressi.</span><span class="sxs-lookup"><span data-stu-id="9c089-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="9c089-104">Seejärel saate lisada kontakti levirühmale.</span><span class="sxs-lookup"><span data-stu-id="9c089-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="9c089-105">Lisateabe saamiseks vaadake [väliste kasutajate lisamine levirühma?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="9c089-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
+<span data-ttu-id="421da-103">Kõigepealt peate looma kontakti oma organisatsioonis välise e-posti aadressi jaoks.</span><span class="sxs-lookup"><span data-stu-id="421da-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="421da-104">Seejärel saate lisada kontakti levirühma.</span><span class="sxs-lookup"><span data-stu-id="421da-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="421da-105">Lisateavet leiate jaotisest [väliste kasutajate lisamine levirühma?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="421da-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
 
-<span data-ttu-id="9c089-106">Välised kasutajad tohivad levirühmale sõnumite saatmiseks soovi kontrollida rühma on konfigureeritud vastu posti välistelt saatjatelt.</span><span class="sxs-lookup"><span data-stu-id="9c089-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="9c089-107">Lisateabe saamiseks vt [Kohaletoimetamishaldus](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="9c089-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
+<span data-ttu-id="421da-106">Kui soovite, et välised kasutajad saaksid saata sõnumeid levirühma, veenduge, et rühm on konfigureeritud vastu võtma meilisõnumeid väliste saatjate.</span><span class="sxs-lookup"><span data-stu-id="421da-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="421da-107">Lisateavet vt teemast [Delivery Management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="421da-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
