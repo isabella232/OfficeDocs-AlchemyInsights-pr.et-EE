@@ -1,9 +1,8 @@
 ---
-title: Kus on võimu Pivot?
+title: Kus on Power Pivot?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530939"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769839"
 ---
-# <a name="where-is-power-pivot"></a>Kus on võimu Pivot?
+# <a name="where-is-power-pivot"></a>Kus on Power Pivot?
 
-On kolm põhjust, miks te ei näe Power Pivot:
+On kolm põhjust, miks te ei pruugi Power Pivot näha.
   
-**Exceli versioonides ei sisalda**
+**Teie Exceli versioon ei sisalda seda**
   
-Kõik versioonid Excel sisaldavad Power Pivot. Pead Power Pivot hõlmab Office'i versiooni. [Toetatud versioonid leiate.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Kõik Exceli versioonid ei sisalda Power Pivot. Peate täiendama Office ' i versiooni, mis sisaldab Power Pivot. [Kontrollige toetatud versioonide loendit.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Ei ole lubatud Power Pivot**
+**Te pole Power Pivot-i lubanud**
   
-Kui töötate Excel, Power Pivot toetava versiooni, siis kontrollige, kas lisandmoodul on lubatud:
+Kui töötate Exceli versioonis, mis toetab Power Pivot, kontrollige, et lisandmoodul on lubatud:
   
-1. Valige **fail** \> **Valikud** \> **Lisandmoodulid**.
+1. Valige **failisuvandite** \> **** \> **lisandmoodulid**.
 
-2. **Haldamine** rippmenüüst valige **COM-lisandmoodulid** ja klõpsake käsku **Ava**.
+2. Valige rippmenüüst **Halda** **com-** lisandmoodulid ja klõpsake nuppu **Mine**.
 
-3. Dialoogiboksi **Com Add-ins** märkige ruut **Microsoft Power Pivot Excel**kõrval ja klõpsake **OK**.
+3. Dialoogiboksis **com-** lisandmoodulid märkige ruut **Microsoft Power Pivot Exceli**kõrval ja seejärel klõpsake nuppu **OK**.
 
-**Teil on mitu tellimuste või kontod**
+**Teil on mitu tellimust või kontot**
   
-Võib olla erinevaid Office 365 tellimuse määratud erinevatele kasutajakontodele. Veenduge, et olete sisse logitud kontole, Excel, Power Pivot toetava versiooniga. [Toetatud versioonid](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)leiate ja järgige [Office erinevate kontode vahel ümber lülituda](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Võimalik, et teil on erinevad Office 365 tellimused, mis on määratud erinevatele kasutajakontodele. Veenduge, et olete kontole sisse logitud Exceli versiooniga, mis toetab Power Pivot-i. Kontrollige [toetatud versioonide](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)loendit ja järgige juhiseid [erinevate Office ' i kontode vahetamiseks](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

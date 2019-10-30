@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754188"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768797"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Probleemi tõrkeotsing-kasutajat ei leitud kataloogist
 
-Kui kasutajad saavad tõrketeate "kasutajat ei leita" kataloogis. Palun proovige uuesti, kui probleemi tüüp on kasutaja ei ole kataloogis.
+Kui kasutajad saavad tõrketeate "kasutajat ei leita" kataloogis, proovige uuesti, kui probleemi tüüp on kasutaja ei ole kataloog.
 
 Järgmised sammud saab lõpule viia probleemi tõrkeotsingu sooritamiseks.
 
@@ -27,9 +27,9 @@ Lisateabe saamiseks vaadake, [Kuidas hallata pseudonüümid oma Microsofti konto
 
 - Sirvige iga saidi (s), kus kasutaja saab tõrke. 
 
-Lisage "/_ Layouts/15/People.aspx/membershipgroupid = 0" (sees kahekordsete jutumärkidega) saidi URL-i lõppu. 
+Lisage "/_layouts/15/People.aspx/membershipgroupid = 0" (sees kahekordsete jutumärkidega) saidi URL-i lõppu. 
 
-Näide: https://_ lt_ "contoso">. SharePoint. com/_paigutused/15/People. aspx/membershipGroupId = 0.
+Näide: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Valige loendist kasutaja.
 

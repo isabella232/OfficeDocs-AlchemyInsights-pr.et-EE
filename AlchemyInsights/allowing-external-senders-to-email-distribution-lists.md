@@ -1,9 +1,8 @@
 ---
-title: 714 lubatud on välistelt saatjatelt e-posti leviloendid
+title: 714 lubamine väliste saatjate e-posti leviloendid
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506547"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768220"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Luba välistelt saatjatelt levirühmade sõnumeid saata
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Luba väliste saatjate sõnumite saatmine levirühmadele
 
-Kui kasutajad teie asutusest saada tõrketeateid, kui teie levirühmadele sõnumeid saata või soovite veenduge oma levirühmi, saada mail välistelt saatjatelt, toimige järgmiselt.
+Kui kasutajad väljaspool teie organisatsiooni saada tõrkeid, kui nad saadavad sõnumeid oma levirühmade või soovite veenduda, et teie levirühmad on konfigureeritud vastu võtma meilisõnumeid väliste saatjate, toimige järgmiselt.
 
-1. Minge [Office 365 haldusportaali](https://portal.office.com/adminportal/home#/groups) **rühmad** sõlme.
+1. Office 365 halduskeskus, minge lehele **rühmade** > [rühmad](https://portal.office.com/adminportal/home#/groups) .  
 
-2. Valige levirühma ja rühma atribuudid lennata, et kuvatakse, klõpsake **Redigeeri** jaotises, mis sisaldab **Luba välistelt saatjatelt**.
+2. Valige levirühm ja valige paanil rühma atribuudid vahekaart **sätted** .
 
-3. Kontrollige **üksikasjade redigeerimine** lennata, et tundub, et **inimesed väljastpoolt minu asutust saata e-posti levirühmale.** **on**, ja klõpsake siis nuppu **Salvesta**.
+3. Valige suvand **Luba välised saatjad selle rühma meiliga**ja seejärel valige **Salvesta**.

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37654252"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768436"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Fuajeeseadete ja osalemise taseme kontrollimine
 
-Kui soovite lubada kõigil, sealhulgas dial-in, välised ja anonüümsed kasutajad mööduda fuajee, saate seda teha PowerShelli abil. Siin on näide muuta oma organisatsiooni globaalse koosoleku poliitika:
+Kui soovite lubada kõigil, sh sissehelistamine, välised ja anonüümsed kasutajad Microsoft Teamsi fuajees mööduda, saate seda teha PowerShelli abil. Siin on näide muuta oma organisatsiooni globaalse koosoleku poliitika:
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 

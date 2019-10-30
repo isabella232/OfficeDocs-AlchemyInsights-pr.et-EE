@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344199"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768869"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Meeskondade autonoomseks või uute või olemasolevate Office ' i installide installimine
 
-Microsoft Teams on nüüd lisatud osana *uutest installid* Office 365 ProPlus, Office 365 Business ja Office for Mac. Lisateabe saamiseks vaadake, [Millal Microsoft Teams hakkavad sisalduma Office ' i uute installide puhul?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams sisaldub osana *uutest installid* Office 365 ProPlus, Office 365 Business ja Office for Mac. Lisateabe saamiseks vaadake, [Millal Microsoft Teams hakkavad sisalduma Office ' i uute installide puhul?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
 Lisaks alates versioon 1906 igakuine kanal, meeskonnad *lisatakse olemasolevatele* installidele Office 365 ProPlus (ja Office 365 Business) seadmetes, kus töötab Windows, kui värskendate olemasoleva installi uusim versioon. Lisateabe saamiseks vaadake, [mis on Office ' i olemasolevate installide kohta?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 

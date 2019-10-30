@@ -1,9 +1,8 @@
 ---
-title: Litsentside kohta küsimus
+title: Küsimus litsentside kohta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666656"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768616"
 ---
-# <a name="questions-about-your-office-365-license"></a>Teie Office 365 litsentsi küsimused
+# <a name="questions-about-your-office-365-license"></a>Küsimused Office 365 litsentsi kohta
 
-Kui soovite teada, mitu litsentsi olete ostnud või mitu litsentsi määratakse tellimus:
+Kui soovite teada, kui palju litsentse olete ostnud või kui palju litsentse on tellimusest määratud:
   
-1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Minge halduskeskuses lehele **Arveldamine** \> [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Valige tellimus, mida soovite rohkem teada. Näete te maksate litsentsid ja saadaolev määramiseks.
+2. Leidke tellimus, mille kohta soovite rohkem teada saada. Saate vaadata nende litsentside arvu, mille eest maksate, ja kui palju on saadaval määratud.
 
-Kui soovite lisada rohkem litsentse või kui teil on liiga palju, valida soovitud ostetud **litsentside lisamine või eemaldamine** .
+Kui soovite lisada rohkem litsentse või kui teil on liiga palju, valige ostetud summa kohandamiseks **litsentsid Lisa/eemalda** .

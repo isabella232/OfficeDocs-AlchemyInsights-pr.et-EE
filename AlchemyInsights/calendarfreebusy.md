@@ -1,8 +1,7 @@
 ---
-title: 400 kalender - FreeBusy
+title: 400 kalender-FreeBusy
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +9,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 284f069416ee9fecbd623beb4f4174212179099c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c3e9f99f0132f3fffa492c995cd8c45959749ea
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396214"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768472"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Probleemide nägemine kalendri vaba/hõivatud aja teavet
+# <a name="issues-seeing-calendar-freebusy-information"></a>Kalendri vaba/hõivatud teavet nägemisega seotud probleemid
 
-Kui te ei näe teistes kalendrites vaba/hõivatud teavet või kui teised inimesed ei näe teie kalendris vaba/hõivatud teavet, kasutage [Microsoft Office 365 tugi- ja taasteteenuste abilist](https://diagnostics.office.com/).
+Kui te ei näe kalendri vaba/hõivatud teavet teiste Outlooki kalendrite või kui teised inimesed ei näe vaba/hõivatud teavet teie kalendris, kasutage [Microsoft support ja taastamise abimees Office 365](https://diagnostics.office.com/).

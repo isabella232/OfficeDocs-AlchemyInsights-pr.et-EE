@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750840"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766779"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Probleemid Office ' i failide avamisel SharePointist
 
@@ -29,5 +29,5 @@ Kui teil on probleeme Office ' i failide ja dokumentide avamisel SharePointist k
 
 Lisateabe saamiseks või üksikasjade palun viide artiklile, [lahendada probleeme avamine SharePointi teegid](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Märkus**: kui teil on probleeme dokumentide avamisel brauseri või kliendi vaikimisi, võib olla vaja muuta teegi sätet. Selleks liikuge teeki, millel on probleeme > käik ikoon ülemises paremas nurgas > teegi sätted > Täpsemad sätted > dokumentide avamine brauseris.
+**Märkus:** Kui teil on probleeme dokumentide avamisel brauseri või kliendi vaikimisi, võib osutuda vajalikuks teegi sätet muuta. Selleks liikuge teeki, millel on probleeme > käik ikoon ülemises paremas nurgas > **teegi sätted** >  **Täpsemad sätted** > **avamine dokumente brauseris**.
 

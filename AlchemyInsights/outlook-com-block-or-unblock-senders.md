@@ -1,5 +1,5 @@
 ---
-title: Blokeerida või blokeeringu saatjate Outlook.com-is
+title: Blokeeri või blokeerige saatjad Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643690"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768724"
 ---
-# <a name="block-or-unblock-senders"></a>Blokeerida või blokeeringu saatjad
+# <a name="block-or-unblock-senders"></a>Saatjate blokeerimine või blokeeringu tühistamine
 
-E-posti aadressid või domeenid on blokeeritud saatjate sõnumid pöörduge oma rämpspostifiltri kausta. E-post eemaldatakse automaatselt rämpsposti e-kausta pärast 30 päeva ja ei ole käibemaksukohustuslane. Se; jne kaupa näha, kuna see eemaldatakse.
+Sõnumid meiliaadressidest või domeenidest teie blokeeritud saatjatelt lähevad otse teie Outlooki rämpsmeili kausta. E-posti eemaldatakse automaatselt rämpsposti kausta pärast 30 päeva ja ei taastata. Valige üksus, et näha, millal see eemaldatakse.
 
-**Sisendkaustast:**
+**Teie sisendkausta:**
 
-- Sõnumite loendis Valige sõnum ja seejärel valige **rämpsposti** > **plokk**.
-- **Märkus:** Üksuse juba oma rämpspostifiltri kausta blokeerimine ei Kustuta see.
+- Valige sõnumiloendis sõnum ja seejärel valige > **rämpsplokk**. ****
+- **Märkus:** Rämpsposti kaustas juba oleva üksuse blokeerimine ei kustutata seda.
 
 **Seaded:**
 
-1. [Rämpspostifiltri](https://outlook.live.com/mail/options/mail/junkEmail) sätete avamiseks.
-2. **Blokeeritud saatjad ja domeenid**, valige **Lisa**.
-3. Tippige meiliaadress, domeen, mida soovite blokeerida ja vajutage sisestusklahvi Enter.
+1. Avage [rämpsposti](https://outlook.live.com/mail/options/mail/junkEmail) sätted.
+2. Valige jaotises **Blokeeritud saatjad ja domeenid**suvand **Lisa**.
+3. Tippige domeeni, mida soovite blokeerida e-posti aadress ja vajutage sisestusklahvi ENTER.
 4. Valige **Salvesta**.
 
-Saatja avamiseks valige prügikasti ikooni meiliaadress või domeen, mida soovite avada.
+Saatja blokeeringu tühistamiseks valige selle e-posti aadressi või domeeni kõrval olev prügikasti ikoon, mida soovite blokeeringust vabastada.
 
-Lisateabe saamiseks vt [märkige e-posti rämpsposti või plokk saatjatena Outlook.com-i](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateabe saamiseks vaadake [märkige e-posti Rämpspost või Block saatjate Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
