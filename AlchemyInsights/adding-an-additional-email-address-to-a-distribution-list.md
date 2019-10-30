@@ -1,9 +1,8 @@
 ---
-title: E-posti aadressi lisamine meililisti 713
+title: 713 lisamine täiendav e-posti aadress leviloendi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494775"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766203"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Lisada levirühma meiliaadressi
+# <a name="add-an-email-address-for-a-distribution-group"></a>Lisage levirühma e-posti aadress
 
-Olemasoleva levirühma meiliaadresside lisamiseks toimige järgmiselt.
+Olemasoleva levirühma e-posti aadresside lisamiseks toimige järgmiselt.
 
-1. [Exchange'i halduskeskuse](https://outlook.office365.com/ecp/)minna **adressaadid** \> **pakuvad**.
+1. Avage [Exchange ' i halduskeskus](https://outlook.office365.com/ecp/) **adressaatide** \> **rühmad**.
 
-2. Valige muudetav levirühma, ja klõpsake siis nuppu **Redigeeri**.
+2. Valige muudetav levirühm ja klõpsake siis nuppu **Redigeeri**.
 
-3. Rühma atribuudid, minge **e-posti suvandid** jaotises e-posti aadresside lisamiseks. 
+3. Minge rühma atribuutide e-posti aadresside lisamiseks vahekaardi **Meilisuvandid** . 
 
-Lisateabe saamiseks vaadake [e-posti seaded](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Lisateabe saamiseks vaadake [e-posti Valikud](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
