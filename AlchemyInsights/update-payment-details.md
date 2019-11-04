@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660932"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921810"
 ---
 # <a name="update-payment-details"></a>Makseteabe värskendamine
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660932"
 4. Tehke värskendused ja valige **Salvesta**.
 
 5. Makseviisi eemaldamiseks valige **Kustuta**.
+
+**Tõrkeotsing**
+
+Kui lehe laadimisega on probleeme, proovige avada veebileht mõne teise brauseriga või privaatses brauseriaknas (nt Microsoft Edge’i InPrivate-aknas või Google Chrome’i inkognito-aknas). 
 
 Lisateavet leiate artiklitest [Krediitkaardi või pangakonto lisamine, värskendamine või eemaldamine Office 365 ettevõtteversioonis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ning [Krediitkaartide ja pangakontode tõrkeotsing](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
