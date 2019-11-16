@@ -13,16 +13,16 @@ ms.custom:
 - "1276"
 - "8000079"
 ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36536497"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="fb462-102">Probleemid rämpsposti väidavad, et LinkedIn</span><span class="sxs-lookup"><span data-stu-id="fb462-102">Issues with junk email claiming to be from LinkedIn</span></span>
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="b2eba-102">Probleemid rämpsposti väidavad, et LinkedIn</span><span class="sxs-lookup"><span data-stu-id="b2eba-102">Issues with junk email claiming to be from LinkedIn</span></span>
 
-<span data-ttu-id="fb462-103">Oleme teadlikud, et mõned kasutajad saavad rämpsposti, mis väidab olevat LinkedIn.</span><span class="sxs-lookup"><span data-stu-id="fb462-103">We're aware that some users are receiving junk email which claims to be from LinkedIn.</span></span>
+<span data-ttu-id="b2eba-103">Oleme teadlikud, et mõned kasutajad saavad rämpsposti, mis väidab olevat LinkedIn.</span><span class="sxs-lookup"><span data-stu-id="b2eba-103">We're aware that some users are receiving junk email which claims to be from LinkedIn.</span></span>
 
-<span data-ttu-id="fb462-104">Nende meilide filtreerimiseks soovitame kasutada sisendkausta reeglit.</span><span class="sxs-lookup"><span data-stu-id="fb462-104">We recommend using an inbox rule to filter these emails.</span></span>
+<span data-ttu-id="b2eba-104">Nende meilide filtreerimiseks soovitame kasutada sisendkausta reeglit.</span><span class="sxs-lookup"><span data-stu-id="b2eba-104">We recommend using an inbox rule to filter these emails.</span></span>
 
-<span data-ttu-id="fb462-105">Lisateabe saamiseks lugege, kuidas [kasutada sisendkausta reeglid Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="fb462-105">For more information, read how to [use inbox rules in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="b2eba-105">Lisateabe saamiseks lugege, kuidas [kasutada sisendkausta reeglid Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="b2eba-105">For more information, read how to [use inbox rules in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
