@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499635"
 ---
 # <a name="inbox-rules"></a>Sisendkausta reeglid
@@ -27,4 +27,4 @@ Sisendkausta reeglid oma postkasti kasutamise kohta lisateabe saamiseks vaadake:
 
 - [Halda oma sõnumeid Outlook Web sisendkausta reeglite abil](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-Samuti saate hallata sisendkausta reeglid Exchange Online PowerShelli. Lisateabe saamiseks vaadake [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Vaade), [Uus-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (luua), [Eemalda-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Kustuta), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (muuta olemasolevat), [Keela-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Keela olemasolev) ja [lubage-InboxRule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(lubage olemasolev).
+Samuti saate hallata sisendkausta reeglid Exchange Online PowerShelli. Lisateabe saamiseks vaadake [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Vaade), [Uus-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (luua), [Eemalda-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Kustuta), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (muuta olemasolevat), [Keela-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Keela olemasolev) ja [lubage-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (lubage olemasolev).
