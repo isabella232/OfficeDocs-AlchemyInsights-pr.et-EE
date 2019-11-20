@@ -1,5 +1,5 @@
 ---
-title: Üksusi kopeerida ega teisaldada SharePointi dokumenditeegis
+title: Üksuste kopeerimine või teisaldamine SharePointi dokumenditeegis
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,31 +13,37 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 0db9b6b20cb77c709c24273e089c2e511535e7ab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e14260d3670eb15f73e92dc5b0c86e0e842974a
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516235"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711752"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Üksusi kopeerida ega teisaldada SharePointi dokumenditeegis
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Üksuste kopeerimine või teisaldamine SharePointi dokumenditeegis
 
-Võite kopeerida ja teisaldada faile, kaustu ja lingid erinevates asukohtades dokumenditeeki. Üksusi saate kopeerida ka kõigil saitidel. Kui olete [luua sihitud vabastamise võimalus](https://go.microsoft.com/fwlink/?linkid=622980), saate teisaldada üksused saidil, liiga.
+Saate kopeerida ja teisaldada faile, kaustu ja linke erinevatesse asukohtadesse dokumenditeegis. Üksusi saate kopeerida ka üle saitide. 
   
-1. Brauser, Sirvige faile, kaustad või lingid, mida soovite teisaldada ja klõpsake **kopeerida** või **teisaldada**.
+1. Sirvige brauseris faile, kaustu või linke, mida soovite teisaldada, ja seejärel klõpsake käsku **Kopeeri** või **Teisalda**.
 
     > [!NOTE]
-    > **Kopeerimine** ja **teisaldamine** ei ole saadaval, kui kasutate SharePoint Online klassikaline kogemus.
+    > **Kopeerimine** ja teisaldamine ei ole saadaval, kui kasutate SharePoint Online **'** i klassikalise kogemuse.
   
-2. Valige jaotises **valige sihtkoht**, asukoht, kuhu soovite kopeerida või teisaldada üksused või klõpsake **sirvida saidid** alade Täpsem loetelu.
+2. Valige jaotises **sihtkoha**valimine asukoht, kuhu soovite üksusi kopeerida või teisaldada või klõpsake saitide täieliku loendi nägemiseks nuppu **Sirvi saite** .
 
     > [!NOTE]
-    > Muud alad, mis on loetletud üksuste kopeerimisel ei kuvata, kopeerimine saidil pole konfigureeritud. Selle lubamiseks minge SharePointi administreerimiskeskuse lehele sätted ja klõpsake nuppu **OK**.
+    > Kui te ei näe muid üksusi, mis on loetletud üksuste kopeerimisel, ei ole kopeerimine saitide vahel konfigureeritud. Selle lubamiseks minge SharePointi administreerimiskeskuse sätete lehele ja klõpsake nuppu **OK**.
   
-    Uue kausta loomiseks valige kaust hierarhia, klõpsake nuppu **Uus kaust**, sisestage kausta nimi ja klõpsake nime salvestada.
+    Uue kausta loomiseks valige kausta hierarhias asukoht, klõpsake nuppu **Uus kaust**, sisestage kausta nimi ja märkige nime salvestamiseks märge.
 
-3. Klõpsake **siin** - kaardilt **siin**.
+3. Klõpsake nuppu **Kopeeri siia** või **liikuge siia**.
 
-> [!NOTE]
-> Kuni 500 MB failide ja kaustade kopeerimist samal ajal. > mis on versioon ajalugu, ainult uuemate kopeerimisel kopeeritakse. Dokumentide teisaldamisel teisaldatakse ka oma ajalugu.
+    > [!NOTE]
+    > Saate kopeerida kuni 500 MB faile ja kaustu korraga. > kui kopeerite versiooniajalugu dokumente, kopeeritakse ainult uusim versioon. Dokumentide teisaldamisel teisaldatakse ka nende ajalugu.
   
+ Kui fail liigub, kuvatakse see endiselt lähtekataloogis, kuni see on täielikult sihtkohta teisaldatud, ja siis see kustutatakse. Fail jääb lähtesaitide prügikasti pärast seda, kui liikumine on lõpule viidud ja selle suhtes kehtib tavaline prügikasti ajakava, kui kasutaja ei saa seda prügikasti.
+
+Lisateavet vaadake teemast
+
+ - [Teisaldage või kopeerige failid SharePointis](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office ' i tugiteenuste artikkel)
+ - [Teisaldage failid igast kaustast Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech kogukonna ajaveebi artikkel)  

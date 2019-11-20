@@ -13,29 +13,33 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516353"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711788"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Üksuste kopeerimine SharePointi dokumenditeegis
 
-1. Veebibrauseri, Sirvige faile, kaustad või lingid, mida soovite kopeerida, ja seejärel klõpsake käsku **Kopeeri**.
+1. Sirvige veebibrauseris faile, kaustu või linke, mida soovite kopeerida, ja seejärel klõpsake käsku **Kopeeri**.
 
     > [!NOTE]
-    > **Kopeerimine** ei ole saadaval, kui kasutate SharePoint Online klassikaline kogemus.
+    > **Kopeerimine** pole saadaval, kui kasutate SharePoint Online ' i klassikalise kogemuse.
   
-2. Valige jaotises **valige sihtkoht**, asukoht, kuhu soovite kopeerida. Kui kopeerimiseks muule saidile või alamsaidi ja seda loendis ei näe, klõpsake **Sirvi saidid** saidid, mida saate kopeerida täieliku loendi leiate.
+2. Valige jaotises **sihtkoha**valimine asukoht, kuhu soovite üksusi kopeerida. Kui kopeerite teise saidi või alamsaidi ja ei näe seda loendis, klõpsake nuppu **Sirvi** saite, et näha täielikku loendit saitidelt, kuhu saate kopeerida.
 
     > [!NOTE]
-    > Muud alad, mis on loetletud üksuste kopeerimisel ei kuvata, kopeerimine saidil pole konfigureeritud. Selle lubamiseks minge SharePointi administreerimiskeskuse lehele sätted ja klõpsake nuppu **OK**.
+    > Kui te ei näe muid üksusi, mis on loetletud üksuste kopeerimisel, ei ole kopeerimine saitide vahel konfigureeritud. Selle lubamiseks minge SharePointi administreerimiskeskuse sätete lehele ja klõpsake nuppu **OK**.
   
-    Valimiseks, kataloogihierarhias faile kopeerida uue kausta loomiseks klõpsake nuppu **Uus kaust**, sisestage kausta nimi ja klõpsake nime salvestada.
+    Failide kopeerimiseks uue kausta loomiseks valige kausta hierarhias asukoht, klõpsake nuppu **Uus kaust**, sisestage kausta nimi ja märkige nime salvestamiseks märge.
 
-3. Klõpsake käsku **Kopeeri siia**.
+3. Klõpsake **Kopeeri siia**.
 
 > [!NOTE]
-> Kuni 500 MB failide ja kaustade kopeerimist samal ajal. > mis on versiooniajalugu, ainult uusima versiooni **koopia** kasutamisel kopeeritakse.
+> Saate kopeerida kuni 500 MB faile ja kaustu korraga. > kui kasutate **koopia** dokumentidega, mis on versiooni ajalugu, kopeeritakse ainult uusim versioon.
   
+Lisateavet vaadake teemast
+
+ - [Teisaldage või kopeerige failid SharePointis](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office ' i tugiteenuste artikkel)
+ - [Teisaldage failid igast kaustast Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech kogukonna ajaveebi artikkel)   
