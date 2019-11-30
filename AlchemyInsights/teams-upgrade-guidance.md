@@ -11,12 +11,12 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7c60869897cacd688f32b2e8f28b9fcd934aa510
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469096"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626308"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teamsi täiendamine
 
@@ -32,4 +32,4 @@ Kas olete just alustanud meeskonnad, juba kasutades meeskonnad koos Skype ' i ä
 
 [Täiendamine Skype ' i asutusesisese Business meeskonnad](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Kontrollige olekut Skype Business Online meeskonnad uuendada PowerShelli](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Kontrollige olekut Skype Business Online meeskonnad uuendada PowerShelli](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

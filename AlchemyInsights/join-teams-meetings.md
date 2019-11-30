@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: d85206cd0fc4844187665369191839da54f49d84
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376606"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627606"
 ---
 # <a name="join-a-meeting-in-teams"></a>Liitu koosolekuga meeskonnad
 
@@ -24,6 +24,6 @@ Meeskondi koosolekuga liitumiseks seadistage esmalt koosolekupoliitikad, seejär
 
 - Seadke koosolekupoliitikad, mis kontrollivad, kes saavad koosolekust [osavõtjate või külaliste](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)koosolekutena liituda. 
 
-- Kasutage poliitika muudatuste tegemiseks Microsoft Teamsi [PowerShelli cmdlet](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview) -käske.    
+- Kasutage poliitika muudatuste tegemiseks Microsoft Teamsi [PowerShelli cmdlet](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) -käske.    
 
 **Märkus:** Poliitika muudatuste jõustumiseks võib kuluda kuni 24 tundi.

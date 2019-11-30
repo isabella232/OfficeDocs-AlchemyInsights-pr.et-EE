@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768436"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626344"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Fuajeeseadete ja osalemise taseme kontrollimine
 
@@ -24,7 +24,7 @@ Kui soovite lubada kõigil, sh sissehelistamine, välised ja anonüümsed kasuta
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-See cmdlet-käsk on praegu vaja kasutada Skype Business PowerShelli moodul. Selle cmdlet-käsu kasutamiseks installiprogrammi saamiseks vaadake [haldamine poliitika PowerShelli kaudu](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+See cmdlet-käsk on praegu vaja kasutada Skype Business PowerShelli moodul. Selle cmdlet-käsu kasutamiseks installiprogrammi saamiseks vaadake [haldamine poliitika PowerShelli kaudu](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Saate seadistada uue poliitika, mille peate selle kasutajatele rakendama. Kui muudate Globaalpoliitikat, rakenduvad see automaatselt kasutajatele. Poliitika muutmiseks peate ootama vähemalt 4 tundi ja kuni 24 tundi poliitika jõustumiseks.
 
@@ -36,8 +36,8 @@ Veenduge, et vaadata allpool dokumentatsiooni, enne kui teha need muudatused tä
 
 - [Luba anonüümsetel inimestel alustada koosolekut](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) on iga korraldaja poliitika, mis kontrollib, kas anonüümsed inimesed, sealhulgas B2B ja välise kasutajad, saavad liituda kasutaja koosolekuga ilma autenditud kasutaja organisatsioonist osavõtja.
 
-- [Luba dial-in kasutajad mööduda fuajee](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**peatselt**) on ühe korraldaja poliitika, mis kontrollib, kas inimesed, kes dial telefoni liituda otse koosolekule või oodake fuajees, sõltumata **automaatselt tunnistama inimesed** seade.
+- [Luba dial-in kasutajad mööduda fuajee](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**peatselt**) on ühe korraldaja poliitika, mis kontrollib, kas inimesed, kes dial telefoni liituda otse koosolekule või oodake fuajees, sõltumata **automaatselt tunnistama inimesed** seade.
 
 - [Luba korraldajad alistada fuajeeätted](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **(peatselt**) on ühe korraldaja poliitika, mis kontrollib, kas koosoleku korraldaja saab alistada fuajeesätted, mis admin seatud **automaatselt tunnistama inimesed** ja **lubada dial-in kasutajatel mööduda fuajee** , kui nad ajastada uue koosoleku.
 
-**Märkus:** Lugege [Manage Koosolekupoliitikad meeskonnad](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) täielik ülevaade Microsoft teamsi koosoleku poliitikad.
+**Märkus:** Lugege [Manage Koosolekupoliitikad meeskonnad](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) täielik ülevaade Microsoft teamsi koosoleku poliitikad.

@@ -1,5 +1,5 @@
 ---
-title: Microsofti meeskonnad - taastada kustutatud Team Site
+title: Microsofti meeskonnad-kustutatud meeskonnatöö saidi taastamine
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 84aaa331fdd4d4e10fcbebe41800c86b3a457649
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 38eaf578b1b1bdd4df7217b2f0e57433640ee8e0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666944"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627462"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Taastada kustutatud meeskond Microsoft Teams
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Kustutatud meeskonna taastamine Microsoft Teamsi
 
-Kas te kustutasite kogemata meeskond? Kui kustutasite meeskond on möödunud vähem kui 30 päeva, sa oled õnne; Saate selle taastada. Selleks järgige siin: [taastada kustutatud meeskond](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
-  
+Kas sa kogemata kustutasid meeskonna? Kui olete meeskonna kustutamisest möödunud vähem kui 30 päeva, olete õnnega koos; Saate selle taastada. Selleks toimige järgmiselt: [Taasta kustutatud meeskond](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
