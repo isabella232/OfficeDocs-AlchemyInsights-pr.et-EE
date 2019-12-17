@@ -1,7 +1,7 @@
 ---
-title: Otsi ja hübriid
-ms.author: efrene
-author: efrene
+title: Otsing ja hübriid
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79b1c47b33e2e5c8b46a93ef2edbb1e9e0c8ff1d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504819"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048684"
 ---
-# <a name="search-and-hybrid"></a>Otsi ja hübriid
+# <a name="search-and-hybrid"></a>Otsing ja hübriid
 
-- Kas vajate teavet hübriid ja välise Otsi SharePoint Online? Sellisel juhul leiate [sellest artiklist](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+- Kas vajate teavet hübriid ja väline otsing SharePoint Online? Kui jah, siis vaadake [seda artiklit](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-- Kas otsid teavet umbes planeerimine hübriid välise Otsi?  Sellisel juhul leiate [sellest artiklist](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+- Kas teil on vaja teavet hübriid välise otsingu planeerimise kohta?  Kui jah, siis vaadake [seda artiklit](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
 
 
 

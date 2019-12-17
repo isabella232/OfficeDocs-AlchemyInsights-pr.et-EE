@@ -1,7 +1,7 @@
 ---
-title: Luba kohandatud funktsioone
-ms.author: efrene
-author: efrene
+title: Luba kohandatud skripti funktsioonide lubamiseks
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: cc39fd3e840ac17af2aea242551015074eb985cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548891"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051781"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Luba kohandatud funktsioone
+# <a name="allow-custom-script-to-enable-features"></a>Luba kohandatud skripti funktsioonide lubamiseks
 
-Administraatorid võib tekkida vajadus **Lubada kohandatud skripti** teatud funktsioonide lubamiseks. Näiteks võidakse kasutaja viga 403 SharePoint SharePoint Designer ühendamisel. Täpsed juhised, näidised ja kaalutlused vt [Luba või kohandatud skripti](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Administraatorid võivad **lubada kohandatud skripti** teatud funktsioonide lubamiseks. Näiteks kasutajad võidakse kuvada tõrge 403 SharePoint Designeri SharePointi ühendamisel. Üksikasjalikke juhiseid, näiteid ja kaalutlusi vt [kohandatud skripti lubamine või vältimine](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Kui kasutajad on tekkinud **viga 403** SharePoint või OneDrive, kontrollige kas see on probleem resolutsioon pooleli enne kõne toetada või veeta aega tõrkeotsingu [teenuste seisundi armatuurlaud](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) . Küsimus võib olla väga ajutine ja juba määratletud Microsoft, kuid siis võib aegumise probleemi identifitseerimine ja postitad, teenuste seisundi armatuurlaud. Palun jätka vaadata veelgi uuendusi teenuste seisundi armatuurlaud.
+Kui kasutajatel esineb **tõrge 403** koos SharePoint või OneDrive, saate kontrollida [teenuse tervise armatuurlauale](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et teha kindlaks, kas see on teadaolev probleem resolutsiooni pooleli enne, kui helistate tugiteenuse või kulutada aega tõrkeotsingu. Probleem võib olla väga ajutine ja juba tuvastatud Microsoft, kuid võib olla aegumine aja jooksul probleemi tuvastamine ja postitamine teenuse tervise armatuurlauale. Jätkamiseks kontrollige teenuse tervise armatuurlauda edasiseks värskendusks.
 

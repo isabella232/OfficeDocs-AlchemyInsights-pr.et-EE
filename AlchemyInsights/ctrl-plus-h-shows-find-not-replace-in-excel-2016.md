@@ -1,7 +1,7 @@
 ---
-title: CTRL + H näitab leida, ei asenda Excel 2016
-ms.author: dludwig
-author: dludwig
+title: CTRL + H näitab Leia, mitte asendada Excelis 2016
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 0d2260163a837d5d2c2f0ad54e74a73ca204c635
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 32ff3ad922af38adab8e6b60dfa139b3794668df
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514507"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053149"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H näitab leida, ei asenda Excelis
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H näitab Excelis Otsi, mitte Asenda
 
-Excel 2016, vajutades CTRL + H avab dialoogiboksi Otsing ja asendus ja näitab vahekaarti Otsi, Asenda tab. asemel klõpsake menüü Avaleht jaotises asendada teeb sama. See probleem parandati versiooni 1708 (8431.2094). Probleemi lahendamiseks värskendage Office'i uusimale versioonile. Valige **faili** \> **konto** \> **Update Valikud** \> **Värskenda kohe**.
+Excelis 2016, vajutades klahvikombinatsiooni CTRL + H avab Otsi ja Asenda dialoog ja kuvab vahekaardi otsimine asemel Asenda vahekaart. klõpsake nuppu Asenda vahekaardil Avaleht sama asi. See probleem parandati versioonis 1708 (8431,2094). Selle probleemi lahendamiseks värskendage Office ' i uusim versioon. Valige **faili** \> **konto** \> **värskendamise suvandid** \> **värskendada kohe**.
   

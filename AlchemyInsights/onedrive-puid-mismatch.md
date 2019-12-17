@@ -1,7 +1,7 @@
 ---
-title: OneDrive PUID ei ühti
-ms.author: efrene
-author: efrene
+title: OneDrive PUID mittevastavus
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521343"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049081"
 ---
-# <a name="onedrive-puid-mismatch"></a>OneDrive PUID ei ühti
-Tundub, et [PUID ei ühti](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive for Business probleemist. Nii, et me võib aidata teil kiiresti, järgige alltoodud juhiseid:
+# <a name="onedrive-puid-mismatch"></a>OneDrive PUID mittevastavus
+Tundub, et teil on tekkinud [puid mittevastavus](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive for Business. Palun järgige alltoodud samme, et saaksime teid aidata nii kiiresti kui võimalik:
 
-1. Klõpsake **pöörduge tugiteenuse poole**ja siis **uue teenuse taotluses**.
-2. Pealkiri ja kirjeldus kui **PUID lahknevus OneDrive'i veebisaidil**jätta.
-3. Kui pilet on esitatud, värskendage seda järgmise teabe:
-    - OneDrive'i saidi URL, mis on mõjutatud.
-    - Kasutaja turvasubjektinime (UPN) mõjutatud kasutaja.
+1. Klõpsake nuppu **Kontakt tugiteenja**seejärel **uue teenuse taotlus**.
+2. Jätke tiitel ja kirjeldus, nagu **puid mittevastavus OneDrive ' i saidil**.
+3. Kui pilet on esitatud, värskendage seda järgmise teabega:
+    - OneDrive ' i saidi URL, mis mõjutab.
+    - Kasutaja turvasubjektinimi (UPN) mõjutatud kasutaja.
 
 
 

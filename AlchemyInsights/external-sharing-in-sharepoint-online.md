@@ -1,7 +1,7 @@
 ---
 title: Väline ühiskasutus SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735961"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049765"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Väline ühiskasutus SharePoint Online
 
-Kui teie organisatsioon teeb tööd, mis hõlmab dokumentide jagamist või koostööd otse hankijate, klientide või klientidega, saate kasutada [SharePoint Online ' i väliste ühiskasutuse funktsioone](https://docs.microsoft.com/sharepoint/external-sharing-overview) , et jagada sisu inimestega väljaspool teie Organisatsiooni.
+Kui teie organisatsioon teeb tööd, mis hõlmab dokumentide ühiskasutust või otse hankijate, klientide või klientidega koostööd, saate kasutada SharePoint Online ' i [väliste ühiskasutuse funktsioone](https://docs.microsoft.com/sharepoint/external-sharing-overview) , et jagada sisu inimestega väljaspool teie organisatsiooni.
 
 Lisateavet välise ühiskasutuse kohta leiate alltoodud linkidest:
 

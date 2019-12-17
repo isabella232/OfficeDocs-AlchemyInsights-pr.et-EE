@@ -1,7 +1,7 @@
 ---
-title: Täiustatud ohutõrje SharePointis või OneDrive
-ms.author: efrene
-author: efrene
+title: Täiustatud ohutõrje SharePointis ja OneDrive ' is
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4043e9716ebdf5236df7ec0ead32d1a738fbc23
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493875"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050413"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Täiustatud ohutõrje (ATP) SharePointis või OneDrive
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Täiustatud ohutõrje (ATP) SharePointis ja OneDrive ' is
 
-Vaadake järgmist.
-- [ATP SharePoint, OneDrive ja meeskonnad](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Ohtu Explorer ja reaalajas avastused](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+Vaadake järgmist:
+- [ATP SharePointi, OneDrive ' i ja meeskondade jaoks](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Ohtude uurija ja reaalajas tuvastused](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
-Lisainfo:
+Lisateave:
 
-- [Antiviiruse SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Andmete krüptimine ODB ja SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [SharePointi andmete kaitsmine](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Ransomware avastamise ja tagasi faile](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Viiruse tuvastamine SPO-s](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Andmete krüptimine ODB-s ja SPO-s](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Teie andmete kaitsmine SharePointis](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
+- [Ransomware avastamise ja taastamine faile](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

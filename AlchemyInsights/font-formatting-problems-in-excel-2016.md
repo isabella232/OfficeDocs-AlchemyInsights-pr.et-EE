@@ -1,7 +1,7 @@
 ---
-title: Fondi vormindamise probleemid Excel 2016
-ms.author: dludwig
-author: dludwig
+title: Fondi vormindamise probleemid Excelis 2016
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 808fb5caefcd07885ac2b29d3f499cc5cb824fc3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524623"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051961"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Fondi vormindamise probleemid Excelis
 
-Excel 2016 fondi vormingut ei pruugita õigesti lahtrisse. See võib juhtuda, kui lahter sisaldab rohkem kui üht liiki fondi vormingut. Näiteks kui mõned märgid on paksus kirjas, ja teised ei ole paksus kirjas, ei pruugi te näha kuvatakse paksu vormingu. Või kui teil on erinevad värvilised märgid ladestusalale, ei pruugi te näha värvid kuvatakse õigesti. Meie meeskond on sellest probleemist teadlik ning töötab praegu määrata. Vahepeal proovige kasutada mõnda muud fonti. Või hoiduda, kasutades mitut liiki vormingu samas lahtris, kuni see probleem on lahendatud.
+Excelis 2016 ei pruugita fondi vormingut lahtris õigesti kuvada. See võib juhtuda, kui lahter sisaldab rohkem kui ühte tüüpi fondi vormingut. Näiteks kui mõned tähemärgid on julgeid ja teised pole julgeid, ei pruugi te näha paksu vormingu kuvamist. Kui samas lahtris on erinevad värvilised märgid, ei pruugi te näha värve õigesti. Meie inseneri meeskond on sellest probleemist teadlik ja praegu töötab parandus. Vahepeal proovige kasutada mõnda muud fonti. Või proovige vältida mitut tüüpi vormingu samas lahtris, kuni see probleem on lahendatud.
   

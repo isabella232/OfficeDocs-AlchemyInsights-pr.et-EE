@@ -1,7 +1,7 @@
 ---
 title: SharePoint Online ' i levinud probleemid ja lahendused
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 32657303d7f2176eb6840269daffe5825d24478c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744061"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051529"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online ' i levinud probleemid ja lahendused
 
@@ -33,4 +33,4 @@ Siin on mõned korduma kippuvad teemad SharePoint Online ' i probleemid:
 
 - **Modernize SharePoint**: vaadake üle [juhend kaasaegne kogemus SharePointi](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) ja [Modernize oma klassikalise SharePointi saidid](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) alustada liikuda.
 
-- Alustamine **: vaadake**, kuidas [alustada SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) ' i saidihalduse strateegiatega.
+- **Alustamine: vaadake**, kuidas [alustada SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) ' i saidihalduse strateegiatega.

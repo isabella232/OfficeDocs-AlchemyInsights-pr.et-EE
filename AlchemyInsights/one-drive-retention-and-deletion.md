@@ -1,7 +1,7 @@
 ---
-title: OneDrive'i säilitamine ja kustutamine
-ms.author: efrene
-author: efrene
+title: OneDrive ' i säilitamine ja kustutamine
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,25 +12,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521563"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053329"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive'i säilitamine ja kustutamine
+# <a name="onedrive-retention-and-deletion"></a>OneDrive ' i säilitamine ja kustutamine
 
-- Saate [taastada kustutatud kasutajad OneDrive'i](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) ise. Nad on prügikasti 93 päeva. 
+- [Kustutatud kasutajate OneDrive ' i saate taastada](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Need on prügikastis 93 päeva. 
 
-- Lugege [see artikkel](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) õppida:
-    - Kuidas anda teisele kasutajale juurdepääs kustutatud kasutaja OneDrive'i.
-    - Mis juhtub kasutaja OneDrive kasutaja Office 365 konto kustutamisel teie organisatsiooni jaoks.
-    - Kuidas seadistada automaatse juurdepääsu delegatsioon.
-    - Kuidas töötab OneDrive kustutusprotsess.
+- Vaadake [seda artiklit](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) , et õppida:
+    - Kuidas anda teisele kasutajale juurdepääsu kustutatud kasutaja OneDrive ' i.
+    - Mis juhtub kasutaja OneDrive, kui kustutate kasutaja Office ' i 365 konto oma organisatsiooni.
+    - Automaatse juurdepääsu delegeerimine konfigureerimine.
+    - Kuidas OneDrive ' i kustutamise protsess töötab.
 
-- Turvalisus ja vastavus Center säilitamise ja hoidke huvitatud?:
-    - [Säilituspoliitikate OneDrive ja SharePointi saidid](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+- Huvitatud turvalisuse ja vastavuse keskus säilitamine ja hoida?:
+    - [Säilituspoliitikad OneDrive ja SharePointi saidid](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
     - [eDiscovery hoidke OneDrive ja SharePointi saidid](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 

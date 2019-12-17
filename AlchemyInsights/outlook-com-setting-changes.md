@@ -1,7 +1,7 @@
 ---
 title: Outlook.com sätted
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386361"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053257"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com sätted
 
-Kui adressaat on sisemine või väline teie organisatsiooni ja kui nad kasutavad Office 365 või Outlook.com e-posti konto, järgmised kliendid ei pea midagi erilist avada sõnumi: **outlook 2016, Outlook Web/Outlook Web Appi, Outlooki mobiilirakendus**
+Kui adressaat on sisemine või väline teie organisatsiooni ja kui nad kasutavad Office 365 või Outlook.com e-posti konto, järgmised kliendid ei pea midagi erilist avada sõnumi: **outlook 2016, Outlook Web/Outlook Web Appi, Outlook mobiilirakenduse**
 
 Kasutajad, **kes on kaitstud** e-posti saadetud, ei saa avada kaitstud sõnumeid. E-posti teavet saab vaadata ainult algsed adressaadid (isik, kes on kaitstud e-posti).
 

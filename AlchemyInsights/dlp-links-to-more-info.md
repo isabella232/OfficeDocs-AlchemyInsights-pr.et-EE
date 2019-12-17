@@ -1,7 +1,7 @@
 ---
-title: Rohkem infot DLP küsimusi
-ms.author: stephow
-author: stephow-MSFT
+title: Rohkem infot DLP probleemid
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665192"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052285"
 ---
-# <a name="information-about-dlp-issues"></a>DLP probleemide kohta
+# <a name="information-about-dlp-issues"></a>Teave DLP probleemid
 
-DLP poliitika, saate tuvastada, jälgida ja kaitsta tundlikku teavet automaatselt Office 365.
+DLP poliitika, saate tuvastada, jälgida ja automaatselt kaitsta tundlikku teavet kogu Office 365.
 
-Külastage neid linke lisateabe saamiseks:
+Lisateabe saamiseks külastage neid linke:
 
-- [Ülevaade andmete kaotsimineku vältimine](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [Otsige tundliku teabe tüübid](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [Looge kohandatud tundliku teabe tüüp](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [Saada e-postiga teateid ja Näita nõuanded](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [Kaitsta faile SharePoint Online säilituspoliitika siltide ja DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP ja Microsofti võistkonnad](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+- [Andmete kaotsimineku vältimise ülevaade](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [Millised tundlikud teabetüübid otsida](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Kohandatud tundliku teabe tüübi loomine](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Saatke meiliteatised ja näidake poliitikaspikreid](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- [Kaitse SharePoint Online faile Säilitussildid ja DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP ja Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
 
-Andmete või kohandatud tundliku teabe tüüp testimiseks kasutada **klassifikaatorite**võimalust **testida tüüp**  > **tundliku teabe tüübid**. Lisateabe saamiseks vaadake [katse kohandatud tundliku teabe liigid](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Oma andmete testimiseks sisseehitatud või kohandatud tundliku teabe tüübiga kasutage suvandit **testi tüüp jaotises liigitustundlikud** **** > **teabetüübid**. Lisateabe saamiseks vt teemat [kohandatud tundliku teabe tüüpide testimine](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).

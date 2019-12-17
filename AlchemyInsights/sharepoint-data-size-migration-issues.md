@@ -1,7 +1,7 @@
 ---
-title: Küsimused, samas rändavad andmeid SharePoint Online
-ms.author: efrene
-author: efrene
+title: Probleemid SharePoint Online ' i andmete migreerimine
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504351"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051745"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Küsimused, samas rändavad andmeid SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleemid SharePoint Online ' i andmete migreerimine
 
-Selgub, et üle 100TB andmete migreerimist SharePoint Online'iga. Palun järgige allpool nii me võib aidata teil kiiresti. 
+Tundub, et olete migreerimine üle 100TB andmeid SharePoint Online. Palun järgige alltoodud samme, et saaksime teid aidata nii ruttu kui võimalik. 
 
-1. Valige **uue teenuse taotluses**, ja seejärel **uue teenuse taotluses**. 
-2. Pealkiri ja kirjeldus kui **SharePointi rände üle 100 TB**jätta.
-3. Kui pilet on esitatud, värskendage seda järgmise teabe: 
+1. Valige **Uus teenuspäring**ja seejärel **Uus teenuspäring**. 
+2. Jätke tiitel ja kirjeldus **SharePointi migreerimise üle 100TB**.
+3. Kui pilet on esitatud, värskendage seda järgmise teabega: 
 
-    - Teie hinnanguline suurus.
-    - Millal soovite alustada ja lõpetada oma rände prognoos.
-    - Kirjeldada, kui migreerite oma sisu, SharePoint Server, kasti, GDrive, faili osade, jne...
+    - Teie migratsiooni hinnanguline suurus.
+    - Hinnang, millal soovite oma migreerimise käivitada ja lõpule viia.
+    - Kirjeldage, kus olete oma sisu migreerimine (nt SharePoint Server, kast, GDrive, failide osad jne).
 
 
   

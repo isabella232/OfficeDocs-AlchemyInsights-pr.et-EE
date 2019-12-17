@@ -1,7 +1,7 @@
 ---
-title: Auto kohaldada tundlikkussilte
-ms.author: stephow
-author: stephow-MSFT
+title: Automaatselt rakendada tundlikkuse silte
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517387"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050305"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Auto kohaldada tundlikkussilte
+# <a name="auto-apply-sensitivity-labels"></a>Automaatselt rakendada tundlikkuse silte
 
-Tundlikkussilte käsitsi rakendub sisu kasutajatele või saate konfigureerida neid automaatselt sisu suhtes.
+Tundlikkuse silte saab kasutaja sisule käsitsi rakendada või saate konfigureerida need automaatselt sisule rakendama.
 
-Majandamiskavaga tundlikkussilte eemaldab koolitama kasutajate liigitamiseks sisu ja vajadust teavitada neist poliitika koosseisud.
+Tundlikkuse siltide automaatne rakendamine eemaldab vajaduse koolitada kasutajaid, kuidas klassifitseerida sisu ja vajadust teavitada neid poliitika konfiguratsioonides.
 
-Sildid automaatselt rakenduvad on kohustatud:
+Siltide automaatseks rakendamiseks on vaja järgmist:
 
-- Azure tellimuse teabe kaitse P2
-- [Laadige alla ja installige Azure kaitse ühtne märgistamine klient](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure ' i teabe kaitse P2 tellimus
+- [Laadige alla ja installige Azure ' i teabe kaitse ühendatud märgistamise klient](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Üritame native toetust, mis ei nõua Azure'i kaitse ühtne märgistamine klient tulevikus.
+Me töötame Native Support, mis ei nõua Azure ' i teabe kaitse ühendatud sildistamise klient tulevikus.
 
-Hetkel ainult Windows toetab ühtse märgistuse klient.  Funktsiooni ei toetata veel Mac, iOS ja Android.
+Praegu toetab ainult Windows ühendatud sildistamise klienti.  Funktsioon ei toeta veel Mac, iOS ja Android.
 
-Tundlikkussilte ja neid automaatselt kohaldada sisu kohta lisateabe saamiseks vaadake:
+Tundlikkussiltide kohta lisateabe saamiseks ja nende automaatseks rakendamiseks sisule vaadake järgmist:
 
-- [Ülevaade tundlikkussilte](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Rakendamiseks tundlikkus sildi sisu automaatselt](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Tundlikkuse siltide ülevaade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Tundlikkuse sildi rakendamine sisule automaatselt](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
