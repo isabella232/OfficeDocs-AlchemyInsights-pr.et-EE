@@ -1,7 +1,7 @@
 ---
 title: Kustutatud saidi taastamine
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: a1fb15869b9f576696de4eda4c0b2101bd6cca17
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: edf851da951e163f30660d524049abe0798a8314
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768544"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048792"
 ---
-# <a name="restore-a-deleted-site"></a><span data-ttu-id="4e413-102">Kustutatud saidi taastamine</span><span class="sxs-lookup"><span data-stu-id="4e413-102">Restore a deleted site</span></span>
+# <a name="restore-a-deleted-site"></a><span data-ttu-id="12432-102">Kustutatud saidi taastamine</span><span class="sxs-lookup"><span data-stu-id="12432-102">Restore a deleted site</span></span>
 
-<span data-ttu-id="4e413-103">Kui administraator kustutab SharePointi saidi, paigutatakse see saidikogumi prügikasti, kus seda säilitatakse 93 päeva enne jäädavalt kustutamist.</span><span class="sxs-lookup"><span data-stu-id="4e413-103">When an admin deletes a SharePoint site, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted.</span></span> <span data-ttu-id="4e413-104">Saidi taastamiseks toimige järgmiselt.</span><span class="sxs-lookup"><span data-stu-id="4e413-104">To restore the site:</span></span>
+<span data-ttu-id="12432-103">Kui administraator kustutab SharePointi saidi, paigutatakse see saidikogumi prügikasti, kus seda säilitatakse 93 päeva enne jäädavalt kustutamist.</span><span class="sxs-lookup"><span data-stu-id="12432-103">When an admin deletes a SharePoint site, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted.</span></span> <span data-ttu-id="12432-104">Saidi taastamiseks toimige järgmiselt.</span><span class="sxs-lookup"><span data-stu-id="12432-104">To restore the site:</span></span>
   
-1. <span data-ttu-id="4e413-105">Klõpsake uue SharePointi administreerimiskeskus lindi **prügikasti** .</span><span class="sxs-lookup"><span data-stu-id="4e413-105">In the new SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
+1. <span data-ttu-id="12432-105">Klõpsake uue SharePointi administreerimiskeskus lindi **prügikasti** .</span><span class="sxs-lookup"><span data-stu-id="12432-105">In the new SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
     
-2. <span data-ttu-id="4e413-106">Märkige selle saidikogumi kõrval olev ruut, mida soovite taastada.</span><span class="sxs-lookup"><span data-stu-id="4e413-106">Select the check box next to the site collection you want to restore.</span></span>
+2. <span data-ttu-id="12432-106">Märkige selle saidikogumi kõrval olev ruut, mida soovite taastada.</span><span class="sxs-lookup"><span data-stu-id="12432-106">Select the check box next to the site collection you want to restore.</span></span>
     
-3. <span data-ttu-id="4e413-107">Klõpsake käsul **Taasta kustutatud üksused**.</span><span class="sxs-lookup"><span data-stu-id="4e413-107">Click **Restore Deleted Items**.</span></span>
+3. <span data-ttu-id="12432-107">Klõpsake käsul **Taasta kustutatud üksused**.</span><span class="sxs-lookup"><span data-stu-id="12432-107">Click **Restore Deleted Items**.</span></span>
     
-<span data-ttu-id="4e413-108">Kustutatud suhtlussaidi taastamiseks võite kasutada uut SharePointi administreerimiskeskust.</span><span class="sxs-lookup"><span data-stu-id="4e413-108">To restore a deleted communication site, you can use the new SharePoint admin center.</span></span> <span data-ttu-id="4e413-109">Vastasel juhul peate kasutama Microsoft PowerShelli.</span><span class="sxs-lookup"><span data-stu-id="4e413-109">Otherwise, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="4e413-110">Saidi, mis kuulub Office 365 rühma taastamiseks peate taastama rühma Exchange ' i halduskeskus.</span><span class="sxs-lookup"><span data-stu-id="4e413-110">To restore a site that belongs to an Office 365 group, you need to restore the group in the Exchange admin center.</span></span> <span data-ttu-id="4e413-111">Rühmi saab taastada 30 päeva pärast nende kustutamist.</span><span class="sxs-lookup"><span data-stu-id="4e413-111">Groups can be restored for 30 days after they're deleted.</span></span>
+<span data-ttu-id="12432-108">Kustutatud suhtlussaidi taastamiseks võite kasutada uut SharePointi administreerimiskeskust.</span><span class="sxs-lookup"><span data-stu-id="12432-108">To restore a deleted communication site, you can use the new SharePoint admin center.</span></span> <span data-ttu-id="12432-109">Vastasel juhul peate kasutama Microsoft PowerShelli.</span><span class="sxs-lookup"><span data-stu-id="12432-109">Otherwise, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="12432-110">Saidi, mis kuulub Office 365 rühma taastamiseks peate taastama rühma Exchange ' i halduskeskus.</span><span class="sxs-lookup"><span data-stu-id="12432-110">To restore a site that belongs to an Office 365 group, you need to restore the group in the Exchange admin center.</span></span> <span data-ttu-id="12432-111">Rühmi saab taastada 30 päeva pärast nende kustutamist.</span><span class="sxs-lookup"><span data-stu-id="12432-111">Groups can be restored for 30 days after they're deleted.</span></span>
   
 

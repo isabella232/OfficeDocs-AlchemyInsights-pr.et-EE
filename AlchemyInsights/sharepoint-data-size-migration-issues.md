@@ -1,7 +1,7 @@
 ---
-title: Küsimused, samas rändavad andmeid SharePoint Online
-ms.author: efrene
-author: efrene
+title: Probleemid SharePoint Online ' i andmete migreerimine
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504351"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051745"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="657c6-102">Küsimused, samas rändavad andmeid SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="657c6-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="35c8f-102">Probleemid SharePoint Online ' i andmete migreerimine</span><span class="sxs-lookup"><span data-stu-id="35c8f-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="657c6-103">Selgub, et üle 100TB andmete migreerimist SharePoint Online'iga.</span><span class="sxs-lookup"><span data-stu-id="657c6-103">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="657c6-104">Palun järgige allpool nii me võib aidata teil kiiresti.</span><span class="sxs-lookup"><span data-stu-id="657c6-104">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+<span data-ttu-id="35c8f-103">Tundub, et olete migreerimine üle 100TB andmeid SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="35c8f-103">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="35c8f-104">Palun järgige alltoodud samme, et saaksime teid aidata nii ruttu kui võimalik.</span><span class="sxs-lookup"><span data-stu-id="35c8f-104">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-1. <span data-ttu-id="657c6-105">Valige **uue teenuse taotluses**, ja seejärel **uue teenuse taotluses**.</span><span class="sxs-lookup"><span data-stu-id="657c6-105">Select **New Service Request**, and then **New Service Request**.</span></span> 
-2. <span data-ttu-id="657c6-106">Pealkiri ja kirjeldus kui **SharePointi rände üle 100 TB**jätta.</span><span class="sxs-lookup"><span data-stu-id="657c6-106">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
-3. <span data-ttu-id="657c6-107">Kui pilet on esitatud, värskendage seda järgmise teabe:</span><span class="sxs-lookup"><span data-stu-id="657c6-107">Once the ticket has been submitted, please update it with the following information:</span></span> 
+1. <span data-ttu-id="35c8f-105">Valige **Uus teenuspäring**ja seejärel **Uus teenuspäring**.</span><span class="sxs-lookup"><span data-stu-id="35c8f-105">Select **New Service Request**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="35c8f-106">Jätke tiitel ja kirjeldus **SharePointi migreerimise üle 100TB**.</span><span class="sxs-lookup"><span data-stu-id="35c8f-106">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="35c8f-107">Kui pilet on esitatud, värskendage seda järgmise teabega:</span><span class="sxs-lookup"><span data-stu-id="35c8f-107">Once the ticket has been submitted, please update it with the following information:</span></span> 
 
-    - <span data-ttu-id="657c6-108">Teie hinnanguline suurus.</span><span class="sxs-lookup"><span data-stu-id="657c6-108">Estimated size of your migration.</span></span>
-    - <span data-ttu-id="657c6-109">Millal soovite alustada ja lõpetada oma rände prognoos.</span><span class="sxs-lookup"><span data-stu-id="657c6-109">An estimate of when you would like to start and complete your migration.</span></span>
-    - <span data-ttu-id="657c6-110">Kirjeldada, kui migreerite oma sisu, SharePoint Server, kasti, GDrive, faili osade, jne...</span><span class="sxs-lookup"><span data-stu-id="657c6-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
+    - <span data-ttu-id="35c8f-108">Teie migratsiooni hinnanguline suurus.</span><span class="sxs-lookup"><span data-stu-id="35c8f-108">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="35c8f-109">Hinnang, millal soovite oma migreerimise käivitada ja lõpule viia.</span><span class="sxs-lookup"><span data-stu-id="35c8f-109">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="35c8f-110">Kirjeldage, kus olete oma sisu migreerimine (nt SharePoint Server, kast, GDrive, failide osad jne).</span><span class="sxs-lookup"><span data-stu-id="35c8f-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
 
 
   
