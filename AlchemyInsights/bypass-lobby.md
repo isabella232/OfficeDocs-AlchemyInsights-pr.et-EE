@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626344"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889078"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Fuajeeseadete ja osalemise taseme kontrollimine
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Fuajeeseadete ja meeskondade osalemise taseme kontrollimine
 
-Kui soovite lubada kõigil, sh sissehelistamine, välised ja anonüümsed kasutajad Microsoft Teamsi fuajees mööduda, saate seda teha PowerShelli abil. Siin on näide muuta oma organisatsiooni globaalse koosoleku poliitika:
+Kui soovite lubada kõigile, sealhulgas dial-in, välised ja anonüümsed kasutajad, et **mööduda fuajee**, kasutada PowerShelli selle ülesande täitmiseks. Siin on näide teie organisatsiooni globaalse koosoleku poliitika muutmise kohta.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-See cmdlet-käsk on praegu vaja kasutada Skype Business PowerShelli moodul. Selle cmdlet-käsu kasutamiseks installiprogrammi saamiseks vaadake [haldamine poliitika PowerShelli kaudu](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+See cmdlet-käsk on praegu vaja kasutada Skype Business PowerShelli moodul. Selle cmdlet-käsu kasutamiseks seadistamiseks vaadake [PowerShelli kaudu haldamine poliitika](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Saate seadistada uue poliitika, mille peate selle kasutajatele rakendama. Kui muudate Globaalpoliitikat, rakenduvad see automaatselt kasutajatele. Poliitika muutmiseks peate ootama vähemalt 4 tundi ja kuni 24 tundi poliitika jõustumiseks.
+Kui olete poliitika seadistanud, peate selle rakendama kasutajatele; või kui olete muutnud Globaalpoliitikat, rakendatakse seda automaatselt kasutajatele. Mis tahes poliitika muutmiseks peate ootama vähemalt **4 tundi kuni 24 tundi** poliitika jõustumiseks. 
 
 Veenduge, et vaadata allpool dokumentatsiooni, enne kui teha need muudatused täpselt aru, mida see võimaldab.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Fuajeepoliitika juhtelementide koosoleku meeskondade mõistmine
+
+Need sätted kontrollivad, millised osavõtjad ootavad fuajees enne koosoleku lubamist ja koosolekul lubatud osalemise taset. PowerShelli abil saate värskendada koosoleku poliitika sätted, mida pole veel rakendatud (märgistatud "peatselt") meeskonnad halduskeskus. Vaadake allpool näide PowerShelli cmdlet-käsk, mis võimaldab kõigil kasutajatel mööduda fuajee.
 
 - [Automaatselt tunnistama](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , et inimesed on ühe korraldaja poliitika, mis kontrollib, kas inimesed koosolekuga otse või oodake fuajees, kuni nad on lubatud autenditud kasutaja.
 
