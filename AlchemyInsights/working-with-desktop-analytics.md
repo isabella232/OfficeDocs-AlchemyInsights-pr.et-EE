@@ -1,5 +1,5 @@
 ---
-title: Teie töölaua Analytics konto sulgemine
+title: Töölauaanalüüsi konto sulgemine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800300"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771103"
 ---
-# <a name="working-with-desktop-analytics"></a>Töölaua Analytics töötamine
+# <a name="working-with-desktop-analytics"></a>Töölaua analüütika töötamine
 
-Tundub, et te küsite umbes Desktop Analytics. Me võib aidata täpsema vastuse, kui sõnastage oma küsimus ümber.
+Tundub, nagu küsite Töölauaanalüüsi kohta. Meil võib olla võimalik aidata täpsema vastuse, kui te ümber sõnastada oma küsimus.
 
-- [Mis on Desktop Analytics?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Kuidas luua töölaua Analytics](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Korduma kippuvad küsimused](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Töölaua Analytics tõrkeotsing](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Mis on Töölauaanalüüs?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Töölauaanalüüsi seadistamine](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Korduma kippuvad küsimused](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Töölauaanalüüsi tõrkeotsing](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

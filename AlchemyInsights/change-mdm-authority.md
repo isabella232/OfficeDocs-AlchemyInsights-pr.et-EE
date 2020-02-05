@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519295"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770959"
 ---
 # <a name="change-intune-mdm-authority"></a>Muuda Intune MDM-i autoriteet
 
 MDM-i autoriteet saate muuta ilma tugiteenuse juhtumit avamata. Juhiste saamiseks vaadake järgmisi dokumente:
   
-- [MDM-i asutuse muutmine Configuration Manageri Intune autonoomne](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Muutke oma MDM-i autoriteet Configuration Manageri Intune autonoomne](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Muuda MDM-i autoriteet Intune autonoomne Configuration Manager](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Muuda oma MDM-i autoriteet Intune autonoomne Configuration Manager](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
  **MDM-i asutuse kooseksisteerimine**
   

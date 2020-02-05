@@ -1,5 +1,5 @@
 ---
-title: Täpsem saagi kõik reegel
+title: Täpsem juurutamine saagi kõik reegel
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 4873fcfd66f196daeff3e407ccd10fe5b142cca6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 08171914804f3e13a4a7e3ee90662af61034c141
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494091"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770779"
 ---
-# <a name="deploy-office-apps"></a>Juurutamine Office'i rakendused
+# <a name="deploy-office-apps"></a>Office ' i rakenduste juurutamine
 
-Office'i rakenduste juurutamiseks mitu lõppkasutajatele kaudu Office'i juurutamise tööriist System Center Configuration Manager operatsioonisüsteemi ketta pilt või jagatud arvuti stsenaariumi kasutatakse Windows Server kaugtöölaua teenuste (RDS) või Terminal Arvab, kasutades üksikasjalik juhend **juurutamine Office 365 ProPlus nõunik**.
+Office ' i rakenduste juurutamisel mitmele lõppkasutajatele Office ' i Juurutustööriista kaudu, Microsoft Endpoint Configuration Manageri operatsioonisüsteemi ketta pildi osana või ühiskasutusega arvuti stsenaariumis, kasutades Windows Serveri kaugtöölaua teenuste (RDS) või terminaliteenuste kaudu, kaaluge samm-sammult juhendi **Office 365 ProPlus juurutamise nõustaja**abil.
   
-Enne alustamist veenduge, et olete sisse logitud rentnike halduse või globaalne admin ja klõpsake siin: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
+Alustamiseks veenduge, et olete sisse logitud rentniku admin või globaalne admin ja klõpsake siin: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
   

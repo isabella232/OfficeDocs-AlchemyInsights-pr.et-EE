@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049405"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771139"
 ---
 # <a name="why-cant-i-edit-files"></a>Miks ma ei saa faile redigeerida?
 
-Kui dokument, tööleht või esitlus on redigeerimiseks lukus ja seda ei saa Windowsi töölauarakenduste puhul avada, võib see olla, et keegi teine on faili juba redigeeritud või on fail väljamöllinud. Võtame kiiresti pilk mõned põhjused, [miks te ei saa faili redigeerida](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Võtke kiiresti pilk mõned põhjused, [miks te ei pruugi olla võimalik faili redigeerida](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Kui teil on teegid **kassasse, nõutavad** või **valideerimise** veerud või metaandmed või kui **projekti üksuse turvalisus** on seatud kas **ainult kasutajatele, kes saavad redigeerida** või **ainult kasutajad, kes saavad kinnitada üksuste** versiooni sätted teegi:
 

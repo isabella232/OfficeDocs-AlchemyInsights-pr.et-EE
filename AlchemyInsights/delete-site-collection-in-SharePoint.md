@@ -1,5 +1,5 @@
 ---
-title: Saidikogumi kustutamine SharePointis
+title: Saidi kustutamine
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053005"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770383"
 ---
-# <a name="delete-a-site-collection"></a>Saidikogumi kustutamine
+# <a name="delete-a-site"></a>Saidi kustutamine
 
-Kui globaalne või SharePoint admin Office 365, kustutage sait (varem nimetatakse "saidikogum"), see teisaldatakse saidikogumi prügikasti ja säilitatakse 93 päeva. 
+Kui kustutate saidi, see teisaldatakse [Kustutatud saidid](https://admin.microsoft.com/sharepoint) ja säilitatakse 93 päeva. Saidi kustutamiseks minge jaotisse [aktiivsed saidid](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Kui kustutate saidi, kustutatakse kõik selle sees, sealhulgas:
 
@@ -26,6 +26,6 @@ Kui kustutate saidi, kustutatakse kõik selle sees, sealhulgas:
 - Saidi sätted ja ajalugu.
 - Kõik alamsaidid ja nende sisu.
 
-Peaksite teavitama saidi administraatoritel ja kõik alamsaidi omanikud enne saidi kustutamist, et nad saaksid teisaldada oma andmeid teise asukohta ja ka kasutajatele, kui saidid kustutatakse. 
+Peaksite teavitama saidi administraatoritel ja kõik sub saidi omanikud enne saidi kustutamist, et nad saaksid teisaldada oma andmeid teise asukohta ja ka kasutajatele, kui saidid kustutatakse.
 
-Lisateavet vt teemast [saidikogumi kustutamine](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Lisateabe saamiseks vaadake [saidi kustutamine](https://docs.microsoft.com/sharepoint/delete-site-collection).

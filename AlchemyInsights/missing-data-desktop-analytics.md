@@ -1,5 +1,5 @@
 ---
-title: Ei saa luua kokkusobivuse hindamine
+title: Ühilduvushinnangut ei saa luua
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800306"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771067"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Ei saa luua kokkusobivuse hindamine
+# <a name="cant-create-a-compatibility-assessment"></a>Ühilduvushinnangut ei saa luua
 
-Configuration Manager konfigureeritud seade, kuid Desktop Analytics ei saa luua kokkusobivuse hindamine. Installitud rakendused (varude) või ei ole täielik andmekogum seadme konfiguratsiooni (loendus).
+Microsoft Endpoint Configuration Manager on seadme edukalt konfigureerinud, kuid Töölauaanalüüs ei saa luua ühilduvushinnangut. Sellel pole seadme konfiguratsiooni (loenduse) ega installitud rakenduste (varude) jaoks täielikku andmekomplekti.
 
-See küsimus on fikseeritud sageli automaatselt kui seade üritab uuesti käivitada. Kui see ei kao, veenduge, et seade saab suhelda teenuse. Lisateabe saamiseks vt [lõpp-punktide](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) ja [Puuduvad andmed](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+See probleem on sageli fikseeritud automaatselt, kui seade korduskatsete. Kui see püsib, veenduge, et seade saab teenusega suhelda. Lisateabe saamiseks vaadake lõpp- [punktid](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) ja [puuduvad andmed](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

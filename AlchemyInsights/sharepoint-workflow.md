@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050917"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770455"
 ---
 # <a name="workflows-in-sharepoint"></a>Töövoogude SharePointis
 
-SharePointi töövoogude on eelnevalt programmeeritud mini-rakendusi, mis sujuvamaks ja automatiseerida mitmesuguseid äriprotsesse. Töövood võivad ulatuda plaani või dokumendi allkirjade, tagasiside või kinnituste kogumisest, et jälgida rutiinse protseduuri praegust olekut.
+SharePointi töövoogude on eelnevalt programmeeritud rakendused, mis sujuvamaks mitmesuguseid äriprotsesse. Lisateavet leiate alltoodud linkidest.
 
-Alustamine **:** Kui olete lihtsalt alustada SharePointi töövoogude, vaadake [Sissejuhatus SharePointi töövoogude rohkem teavet](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Alustamine
 
-**Microsoft Flow**: kaaluge Microsoft Flow asemel klassikalise SharePointi töövoo lahenduste kasutamine. Lisateabe saamiseks vaadake [luua voog loendi või teegi SharePoint Online ' i või OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Kui olete alles hakanud SharePointi töövoogude, vaadake [Intro SharePointi töövoogude](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Töövoo tõrkeotsing ja silumine**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Tõrkeotsing ja siluda SharePointi töövoog
 
-Silumine töövoogude meenutab eelmise versiooni. Lisateavet leiate jaotisest [SharePointi töövoogude silumine](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Tõrkeotsingu kohta leiate lisateavet teemast [SharePoint Serveri töövoo valideerimistõrgete tõrkeotsing](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Vaadake [tõrkeotsing SharePointi töövoo valideerimise tõrked](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ja [silumine SharePointi töövoogude](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Toide automatiseerida
+
+Kaaluge [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) asemel klassikaline SharePointi töövoo lahendused.
