@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611693"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855547"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePointi saidi jälgimine või jälgimine
 
-On mitmeid viise, kuidas leida ja jälgida saite, uudiseid ja sisu, mis teile huvi SharePoint. See võimaldab teil teavet hõlpsalt oma loendis leida ja lubada teil SharePointi tegevust näha.
+Kui kasutajatel on probleeme SharePointi ressursside pärast või järgun, toimige järgmiselt.
 
-Vaata videot [leida ja jälgida saite ja uudiseid](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Kui te ei saa jälgida või järgige saidi, Uudised või sisu ja tunne tulemusi ei ole, mida on oodata, vaadake, kas probleem on seotud ühe kasutaja või kõik kasutajad teie organisatsioonis. Kui probleem on ilmnenud kõik kasutajad, võib olla ajutine teenuse probleem.
-
-Kontrollige [teenuse tervise armatuurlauda](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et näha, kas teie organisatsioon on mõjutatud.
+* Paluge kasutajal logige välja ja logige tagasi SharePointi ja proovige samu samme, et jälgida/unfollow SharePointi ressurss.
+* Tehke kindlaks, kas probleem on konkreetse saidi või kõik saidid. Kui probleem ilmneb teatud saidid, veenduge, et "järgmine sisu" funktsioon on aktiivne saidi, minnes **saidi sätted > Halda saidi funktsioonid > järgmine sisu**. Kui funktsioon on seatud aktiivseks, proovige saidi jaoks uuesti funktsiooni desaktiveerida ja aktiveerida.
+* Paluge kasutajal proovida mõnda muud Interneti-brauserit, et näha, kas probleem on seotud kasutaja brauseriga.
+* Kui kõik kasutajad ja saidid on tekkinud sama probleem, kontrollige [teenuse tervise armatuurlauale](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et näha, kas teie organisatsioon on mõjutatud.
