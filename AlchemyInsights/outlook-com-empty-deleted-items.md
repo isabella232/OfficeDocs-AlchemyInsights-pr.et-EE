@@ -3,6 +3,7 @@ title: Tühjendage kaustas Outlook.com kustutatud üksused
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768688"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277927"
 ---
-# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="af4b7-102">Kustutatud üksuste kausta tühjendamine</span><span class="sxs-lookup"><span data-stu-id="af4b7-102">Empty the Deleted Items folder</span></span>
+# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="3487e-102">Kustutatud üksuste kausta tühjendamine</span><span class="sxs-lookup"><span data-stu-id="3487e-102">Empty the Deleted Items folder</span></span>
 
-<span data-ttu-id="af4b7-103">Kõigi kustutatud Outlooki sõnumite tühjendamiseks minge [kausta](https://outlook.live.com/mail/deleteditems) kustutatud ja valige **tühi kaust**, seejärel valige sõnumiloendist ülalpool  **sellest kaustast Kustutatud üksuste taastamine**ja valige **tühi kaust** uuesti.</span><span class="sxs-lookup"><span data-stu-id="af4b7-103">To purge all your deleted Outlook messages, go to your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recover items deleted from this folder** above the message list and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="3487e-103">Avage kaust Kustutatud ja valige **tühi kaust**.</span><span class="sxs-lookup"><span data-stu-id="3487e-103">Open your Deleted Items folder and select **Empty folder**.</span></span>
+2. <span data-ttu-id="3487e-104">Valige lehe ülaosas **Taastatavad üksused** ja valige uuesti **tühi kaust** .</span><span class="sxs-lookup"><span data-stu-id="3487e-104">Select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="af4b7-104">Kui olete kustutanud palju sõnumeid, võib kuluda aega, et need üksused teisaldada või puhastada kustutatud üksuste kaustast.</span><span class="sxs-lookup"><span data-stu-id="af4b7-104">If you've deleted a lot of messages, it may take some time for those items to move to or be purged from the Deleted Items folder.</span></span> <span data-ttu-id="af4b7-105">Palun jätke brauseriaken avatuks, kuni üksused kustutatakse.</span><span class="sxs-lookup"><span data-stu-id="af4b7-105">Please leave the browser window open until the items are deleted.</span></span>
+<span data-ttu-id="3487e-105">**Kustutatud üksuste kausta ei saa tühjendada**</span><span class="sxs-lookup"><span data-stu-id="3487e-105">**Unable to empty the Deleted Items folder**</span></span>
 
-<span data-ttu-id="af4b7-106">Kui sõnumid ei kustuta õigesti, proovige kustutada väiksem arv sõnumeid.</span><span class="sxs-lookup"><span data-stu-id="af4b7-106">If messages fail to delete properly, try deleting a smaller number of messages.</span></span>
+- <span data-ttu-id="3487e-106">Kui olete kustutanud palju e-posti, võib kuluda aega, et need üksused teisaldada või kustutada kaustast Kustutatud.</span><span class="sxs-lookup"><span data-stu-id="3487e-106">If you've deleted a lot of email, it may take some time for those items to move to or be deleted from the Deleted Items folder.</span></span> <span data-ttu-id="3487e-107">Jätke brauseriaken avatuks, kui kustutamine toimub.</span><span class="sxs-lookup"><span data-stu-id="3487e-107">Leave the browser window open while the deleting takes place.</span></span>
+- <span data-ttu-id="3487e-108">Kui e-posti ikka ei kustutata korralikult, valige väiksem partii kustutamiseks.</span><span class="sxs-lookup"><span data-stu-id="3487e-108">If the email still fails to delete properly, select a smaller batch to delete.</span></span>
+- <span data-ttu-id="3487e-109">Kui kustutatud e-posti tuleb tagasi, see võib olla, sest olete kustutanud palju e-posti hiljuti.</span><span class="sxs-lookup"><span data-stu-id="3487e-109">If deleted email comes back, it could be because you've deleted a lot of email recently.</span></span> <span data-ttu-id="3487e-110">Palun proovige hiljem uuesti.</span><span class="sxs-lookup"><span data-stu-id="3487e-110">Please try again later.</span></span>
