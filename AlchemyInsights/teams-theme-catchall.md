@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626380"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371518"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Meeskondade ühised küsimused ja resolutsioonid
 
 Konkreetse vastuse saamiseks Microsoft Teamsi probleemi kohta saate küsimuse lühidalt ümber sõnastada ja lisada kõik tõrked, mida näete või milliseid funktsioone kasutate.
+
+Kui vajate abi kaugtöötajate toetamiseks (WFH) koos meeskondadega, vaadake üle [Microsoft teamsi kasutavate kaugtöötajate tugi](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
 
 Siin on mõned täiendavad ressursid:
 
