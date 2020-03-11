@@ -3,7 +3,7 @@ title: Outlook.com puuduvad kaustad
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 3/9/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: e6a5170655d98eaa914f686753e0aea3873fc058
+ms.sourcegitcommit: e1307138631f9a5489f5309dfc5dd1bc6be3dc96
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260238"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42572571"
 ---
 # <a name="find-missing-folders"></a>Puuduvate kaustade otsimine
 
 Mõni kasutaja ei pruugi näha väikest ekraani vaadates vasakpoolse kaustapaani.
 
+- Kui te ei näe kaustapaani, Maksimeeri oma brauseri akent või kerige kaustaloendi vaatamiseks vasakule.
 - Laiendage kaustapaani ainult siis, kui seda vajate. Kaustade kuvamiseks või peitmiseks valige vasakpoolses külgribal kolm rida ikooni.
 - Avage [paigutussätted](https://outlook.live.com/mail/options/mail/layout) ja valige **Peida lugemispaan** ja seejärel **salvestage**. See annab ekraanile rohkem ruumi kaustade kuvamiseks.
 

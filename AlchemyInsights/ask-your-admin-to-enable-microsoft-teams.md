@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962293"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573128"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Sa jääd ilma! Küsige oma administraatoril Microsoft Teamsi lubamiseks
 
-Kas õppejõud ja personal pääsevad meeskonda, kuid õpilased ei saa või on teie F1 litsentseeritud kasutajad ei pääse meeskonnad?
+Kui teil on EDU rentniku, peate lubama Microsoft Teams käsitsi. Selleks Microsoft 365 halduskeskus > **teenused ja lisandmoodulid > Microsoft Teams**. Kui kasutate uusi meeskondi halduskeskust, peate **teenuste ja lisandmoodulite**leidmiseks välja lülitama **uue administreerimiskeskuse** . 
 
-Meeskonnad peavad olema üliõpilastele ja F1-litsentsidele selgesõnaliselt lubatud. Üksikasjalikumaid juhiseid selle kohta, kuidas lubada meeskondi oma koolile, saate [konfigureerida haridusmeeskondi](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**NB**!: te peate ootama kuni 24 tundi muudatuste jõustumiseks.
