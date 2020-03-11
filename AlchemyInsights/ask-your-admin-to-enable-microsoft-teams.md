@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962293"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573128"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="d8e9b-102">Sa jääd ilma!</span><span class="sxs-lookup"><span data-stu-id="d8e9b-102">You're missing out!</span></span> <span data-ttu-id="d8e9b-103">Küsige oma administraatoril Microsoft Teamsi lubamiseks</span><span class="sxs-lookup"><span data-stu-id="d8e9b-103">Ask your admin to enable Microsoft Teams</span></span>
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="6dfe0-102">Sa jääd ilma!</span><span class="sxs-lookup"><span data-stu-id="6dfe0-102">You're missing out!</span></span> <span data-ttu-id="6dfe0-103">Küsige oma administraatoril Microsoft Teamsi lubamiseks</span><span class="sxs-lookup"><span data-stu-id="6dfe0-103">Ask your admin to enable Microsoft Teams</span></span>
 
-<span data-ttu-id="d8e9b-104">Kas õppejõud ja personal pääsevad meeskonda, kuid õpilased ei saa või on teie F1 litsentseeritud kasutajad ei pääse meeskonnad?</span><span class="sxs-lookup"><span data-stu-id="d8e9b-104">Are faculty and staff able to access Teams but students cannot, or are your F1 licensed users unable to access Teams?</span></span>
+<span data-ttu-id="6dfe0-104">Kui teil on EDU rentniku, peate lubama Microsoft Teams käsitsi.</span><span class="sxs-lookup"><span data-stu-id="6dfe0-104">If you have an EDU tenant, you need to enable Microsoft Teams manually.</span></span> <span data-ttu-id="6dfe0-105">Selleks Microsoft 365 halduskeskus > **teenused ja lisandmoodulid > Microsoft Teams**.</span><span class="sxs-lookup"><span data-stu-id="6dfe0-105">To do this, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**.</span></span> <span data-ttu-id="6dfe0-106">Kui kasutate uusi meeskondi halduskeskust, peate **teenuste ja lisandmoodulite**leidmiseks välja lülitama **uue administreerimiskeskuse** .</span><span class="sxs-lookup"><span data-stu-id="6dfe0-106">If you're using the new Teams admin center, you'll have to turn off **Try the new admin center** to find **Services and add-ins**.</span></span> 
 
-<span data-ttu-id="d8e9b-105">Meeskonnad peavad olema üliõpilastele ja F1-litsentsidele selgesõnaliselt lubatud.</span><span class="sxs-lookup"><span data-stu-id="d8e9b-105">Teams must be explicitly enabled for students and F1 licenses.</span></span> <span data-ttu-id="d8e9b-106">Üksikasjalikumaid juhiseid selle kohta, kuidas lubada meeskondi oma koolile, saate [konfigureerida haridusmeeskondi](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span><span class="sxs-lookup"><span data-stu-id="d8e9b-106">You can find more detailed instructions about how to enable Teams for your school in [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span></span> 
+<span data-ttu-id="6dfe0-107">**NB**!: te peate ootama kuni 24 tundi muudatuste jõustumiseks.</span><span class="sxs-lookup"><span data-stu-id="6dfe0-107">**IMPORTANT**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
