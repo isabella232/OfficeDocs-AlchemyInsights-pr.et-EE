@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031610"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600128"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Vigade lahendamine Wordi failide avamisel või salvestamisel
 
@@ -25,7 +25,7 @@ Kui teil on Wordi dokumentide avamisel või salvestamisel probleeme, proovige j�
 - [Installige Office ' i värskendused](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Uusimate Office ' i värskenduste loendi leiate [värsketest värskendustest](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Wordis kahjustatud dokumentide tõrkeotsing](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Office ' i rakenduse parandamiseks](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Kui dokument sisaldab jälitatud muutusi, kasutage [Wordi soovitusi või lõpetab reageerimise, kui probleemi lahendamiseks on liigne jälitatud muutused või kommentaarid](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) .
+- Kui dokument sisaldab jälitatud muutusi, kasutage [Wordi soovitusi või lõpetab reageerimise, kui probleemi lahendamiseks on liigne jälitatud muutused või kommentaarid](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) .
 
 Kui saite tõrketeate, nagu üks järgmistest, kasutage soovitusi [tõrketeate Office ' i kui fail on blokeeritud registri poliitika sätted](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 

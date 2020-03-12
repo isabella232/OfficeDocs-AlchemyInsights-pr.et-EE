@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162908"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600596"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery Yammeri võrkudes
 
@@ -29,5 +29,5 @@ Nüüd saate eDiscovery otsib Yammeri sisu Office 365.  EDiscovery otsingud või
 Lisateavet:
 
 - Native mode Yammeri, vt: [Ülevaade Native mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery Yammeri võrkudes, vaadake: [Ülevaade eDiscovery Yammeri võrkudes](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery Office 365, vt [eDiscovery office 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery).
+- eDiscovery Yammeri võrkudes, vaadake: [Ülevaade eDiscovery Yammeri võrkudes](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- eDiscovery Office 365, vt [eDiscovery office 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

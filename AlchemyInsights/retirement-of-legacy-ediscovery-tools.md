@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157564"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600361"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Pärand eDiscovery tööriistade pensionile jäämine
 
@@ -37,7 +37,7 @@ Uue ja täiustatud eDiscovery funktsiooni Microsoft 365 vastavuse Center tulemus
     - [Setholdonpostkastid](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Getholdonpostkastid](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 täpsem eDiscovery v 1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 täpsem eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Pensionile jäämise ajakava**:
 - 1. aprill 2020: te ei saa luua uusi otsinguid ja hoiab, kuid saate endiselt käivitada, redigeerida ja kustutada olemasolevaid otsinguid omal vastutusel. Microsoft support ei toeta enam kohapealse eDiscovery & hoiab EAC.
@@ -46,9 +46,9 @@ Uue ja täiustatud eDiscovery funktsiooni Microsoft 365 vastavuse Center tulemus
 
 **Lisateabe saamiseks vaadake**:
 
- - [Migreerimine pärand eDiscovery otsingud ja hoiab Microsoft 365 vastavuse keskus](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Pärand eDiscovery tööriistade pensionile jäämine](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [KKK kohapealse eDiscovery ja kohapealse valda kohta](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Migreerimine pärand eDiscovery otsingud ja hoiab Microsoft 365 vastavuse keskus](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Pärand eDiscovery tööriistade pensionile jäämine](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [KKK kohapealse eDiscovery ja kohapealse valda kohta](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
