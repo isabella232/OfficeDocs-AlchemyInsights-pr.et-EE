@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745000"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856463"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Sagedasemad Teamsi probleemid ja lahendused
 
@@ -36,11 +36,11 @@ Kõigile Teamsi klientidele:
 
     Kontrollimaks, kas kasutajal on kõnekonverentside teenuse litsents ja tasuline vaikenumber olemas, tehke järgmist.
     1.    Valige „Aktiivsed kasutajad“. Seejärel valige asjaomane kasutaja.
-    2.    Olenevalt halduskeskuse versioonist valige kas „Litsentsid ja rakendused“ või klõpsake aknas „Tootelitsentsid“ nuppu „Redigeeri“.
+    2.    Olenevalt halduskeskuse versioonist valige kas **Litsentsid ja rakendused** või klõpsake aknas **Tootelitsentsid** nuppu **Redigeeri**.
     3.    Veenduge, et kasutajal oleksid valitud järgmised litsentsid: Kõnekonverents, Microsoft Teams ja Skype’i ärirakenduse veebiväljaanne (leping 2).
-    4.    Klõpsake kuval „Halduskeskused“ nuppu „Kuva kõik“ ja valige siis Teams.
-    5.    Klõpsake Microsoft Teamsi halduskeskuses linki „Pärandportaal“.
-    6.    Skype’i ärirakenduse halduskeskuses klõpsake linki „Kõnekonverents“ ja siis linki „Kasutajad“.
+    4.    Klõpsake halduskeskuste kuval nuppu **Kuva kõik** ja valige siis **Teams**.
+    5.    Klõpsake Microsoft Teamsi halduskeskuses linki **Pärandportaal**.
+    6.    Klõpsake Skype’i ärirakenduse halduskeskuses linki **Kõnekonverents** ja siis **Kasutajad**.
     7.    Valige soovitud kasutaja ja veenduge, et kasutajal oleks tasuline vaikenumber.
     
     Lisateavet leiate artiklist [Office 365 kõnepaketid](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365); kui teil on litsentsimisega seotud küsimusi, helistage Microsoft Commerce’i arveldusosakonda.
