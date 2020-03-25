@@ -13,14 +13,20 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 890bba57bc36c034c507e6124cd6593ef4d92af8
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052897"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932654"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP võib vajada kohandatud tüüpi
+
+**Oluline**: paljud SharePoint Online ' i ja OneDrive kliendid käivitada Business kriitilised rakendused teenuse, mis töötavad taustal. Nende hulka kuuluvad sisu migratsioon, andmete kadu vältimine (DLP) ja backup lahendused. Nendel enneolematul ajal me võtame meetmeid, et tagada SharePoint Online ' i ja OneDrive teenused on väga kättesaadav ja usaldusväärne oma kasutajatele, kes sõltuvad teenuse rohkem kui kunagi varem kaugtöö stsenaariume.
+
+Selle eesmärgi toetuseks oleme rakendanud ranget ahendamise piiranguid taustal olevatele rakendustele (migratsioon, DLP ja backup lahendused) tööpäeval päeva jooksul. Te peaksite ootama, et need rakendused saavutavad nende aegade jooksul väga piiratud läbilaskevõime. Aga, õhtuti ja nädalavahetusel tundi piirkonna, teenus on valmis töötlema oluliselt suurem hulk taotlusi taustal apps.
+
+**DLP võib nõuda kohandatud teabe tüüp**
 
 Andmete kadu vältimine (DLP) poliitika, saate tuvastada ja kaitsta tundliku loomuga andmeid oma organisatsioonis. Mõnel juhul peate võib-olla looma oma **kohandatud** tundliku teabe tüübi, et kaitsta oma organisatsiooni andmeid.
 

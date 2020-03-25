@@ -11,14 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b53a98480bab48497274c7358f7e606caa477f5a
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051745"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931690"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleemid SharePoint Online ' i andmete migreerimine
+
+**Oluline**: paljud SharePoint Online ' i ja OneDrive kliendid käivitada Business kriitilised rakendused teenuse, mis töötavad taustal. Nende hulka kuuluvad sisu migratsioon, andmete kadu vältimine (DLP) ja backup lahendused. Nendel enneolematul ajal me võtame meetmeid, et tagada SharePoint Online ' i ja OneDrive teenused on väga kättesaadav ja usaldusväärne oma kasutajatele, kes sõltuvad teenuse rohkem kui kunagi varem kaugtöö stsenaariume.
+
+Selle eesmärgi toetuseks oleme rakendanud ranget ahendamise piiranguid taustal olevatele rakendustele (migratsioon, DLP ja backup lahendused) tööpäeval päeva jooksul. Te peaksite ootama, et need rakendused saavutavad nende aegade jooksul väga piiratud läbilaskevõime. Aga, õhtuti ja nädalavahetusel tundi piirkonna, teenus on valmis töötlema oluliselt suurem hulk taotlusi taustal apps.
+
+**Üle 100TB andmete migreerimine**
 
 Tundub, et olete migreerimine üle 100TB andmeid SharePoint Online. Palun järgige alltoodud samme, et saaksime teid aidata nii ruttu kui võimalik. 
 

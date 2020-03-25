@@ -8,14 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: ed3598dc92a7c36c9c9b077db0ab31f63537ef60
-ms.sourcegitcommit: 14894a09db1c4101e48ff720d878d1c9f7b1dac8
+ms.custom:
+- "9000149"
+- "1662"
+- "3491"
+ms.openlocfilehash: 59104ef96c95de4e4bc7744825245bdafba97d7c
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/16/2019
-ms.locfileid: "40065554"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931222"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online ' i ahendamine
+
+**Oluline**: paljud SharePoint Online ' i ja OneDrive kliendid käivitada Business kriitilised rakendused teenuse, mis töötavad taustal. Nende hulka kuuluvad sisu migratsioon, andmete kadu vältimine (DLP) ja backup lahendused. Nendel enneolematul ajal me võtame meetmeid, et tagada SharePoint Online ' i ja OneDrive teenused on väga kättesaadav ja usaldusväärne oma kasutajatele, kes sõltuvad teenuse rohkem kui kunagi varem kaugtöö stsenaariume.
+
+Selle eesmärgi toetuseks oleme rakendanud ranget ahendamise piiranguid taustal olevatele rakendustele (migratsioon, DLP ja backup lahendused) tööpäeval päeva jooksul. Te peaksite ootama, et need rakendused saavutavad nende aegade jooksul väga piiratud läbilaskevõime. Aga, õhtuti ja nädalavahetusel tundi piirkonna, teenus on valmis töötlema oluliselt suurem hulk taotlusi taustal apps.
+
+**503 server on hõivatud tõrge**
 
 Kasutajad võivad saada 503 server on hõivatud tõrge katsel navigeerida SharePointi või OneDrive saidid. 
 

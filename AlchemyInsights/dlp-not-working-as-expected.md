@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530275"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932618"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP ei tööta ootuspäraselt
 
-On teil probleeme **Andmete kaotsimineku vältimise (DLP)** ei tööta õigesti Office 365? Sellisel juhul veenduge, et teie **DLP poliitika** on õigesti seadistatud, ja teie andmed sisaldavad mida **DLP poliitika** otsin kui see hinnatakse.
-  
- **DLP seadistamine**
-  
-Kasutusvalmis DLP-poliitika abil saab tuvastada ja kaitsta tundlikku teavet teie ettevõttes. DLP poliitika setup, kasutage teave [siin](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
-  
- **DLP poliitika otsima**
-  
-**Sisseehitatud tundliku teabe tüübid** kasutamisel Office 365 turbe ja vastavuse Centeris vaadake DLP poliitika mustriga ja elemente, kui avastada selliseid tundlikke.
-  
-- **Sisseehitatud tundliku teabe tüübid**
+**Oluline**: paljud SharePoint Online ' i ja OneDrive kliendid käivitada Business kriitilised rakendused teenuse, mis töötavad taustal. Nende hulka kuuluvad sisu migratsioon, andmete kadu vältimine (DLP) ja backup lahendused. Nendel enneolematul ajal me võtame meetmeid, et tagada SharePoint Online ' i ja OneDrive teenused on väga kättesaadav ja usaldusväärne oma kasutajatele, kes sõltuvad teenuse rohkem kui kunagi varem kaugtöö stsenaariume.
 
-    Sisseehitatud tundlike liikide ja mida DLP poliitika välja otsib, kui tundlik liik tuvastamine Lisateavet: [tundliku teabe tüübid otsima](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+Selle eesmärgi toetuseks oleme rakendanud ranget ahendamise piiranguid taustal olevatele rakendustele (migratsioon, DLP ja backup lahendused) tööpäeval päeva jooksul. Te peaksite ootama, et need rakendused saavutavad nende aegade jooksul väga piiratud läbilaskevõime. Aga, õhtuti ja nädalavahetusel tundi piirkonna, teenus on valmis töötlema oluliselt suurem hulk taotlusi taustal apps.
+
+ **DLP seadistamine**
+
+Kas teil on probleeme **andmete kadu vältimine (DLP)** Office 365 ei tööta ootuspäraselt? Kui jah, veenduge, et teie **DLP poliitika** on õigesti seadistatud ja et teie andmed sisaldavad seda, mida **DLP poliitika** otsib, kui seda hinnatakse.
+  
+DLP poliitika võimaldab teil tuvastada ja kaitsta tundliku loomuga teavet oma organisatsioonis. DLP poliitikate häälestamise puhul kasutage [siin](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)olevat teavet.
+  
+ **Mida DLP poliitikad otsida**
+  
+**Sisseehitatud tundliku teabe tüüpide** kasutamisel Office 365 turvalisuse ja vastavuse keskus, DLP poliitika otsida konkreetseid mustreid ja elemente, kui need tundlikud tüübid tuvastada.
+  
+- **Sisseehitatud tundlikud teabetüübid**
+
+    Teave sisseehitatud tundlik tüübid ja mida DLP poliitika otsib kui tuvastamine tundlik tüüp, vaadake: [mida tundliku teabe tüübid otsida](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
 - **Kohandatud tundliku teabe tüübid**
 
-    Kui soovite luua kohandatud tundlikku teavet, kasutada artikkel teavet, kuidas luua kohandatud tundlik tüüp: [Loo kohandatud tundliku teabe tüüp](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Kui proovite luua kohandatud tundliku teabe tüüpe, kasutage järgmist artiklit teabe saamiseks kohandatud tundliku tüübi loomise kohta: [kohandatud tundliku teabe tüübi loomine](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
-**Test DLP poliitika**
+**DLP poliitika testimine**
 
-Andmete või kohandatud tundliku teabe tüüp testimiseks kasutada **klassifikaatorite**võimalust **testida tüüp**  > **tundliku teabe tüübid**. Lisateabe saamiseks vaadake [katse kohandatud tundliku teabe liigid](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Oma andmete testimiseks sisseehitatud või kohandatud tundliku teabe tüübiga kasutage suvandit **testi tüüp jaotises liigitustundlikud** **Classifications** > **teabetüübid**. Lisateabe saamiseks vt teemat [kohandatud tundliku teabe tüüpide testimine](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Aruanded**
   
-- Saa tundlike andmete ülevaade koos [DLP aruannete.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Hankige tundlikud andmete ülevaated [DLP aruannetega.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
-- Vaata [Intsident](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)sündmuse üksikasju.
+- Vaadake juhtumi konkreetseid üksikasju [intsidendi aruandega](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
