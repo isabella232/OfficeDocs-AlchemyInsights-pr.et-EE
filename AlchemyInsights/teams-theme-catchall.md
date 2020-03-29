@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856463"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030396"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Sagedasemad Teamsi probleemid ja lahendused
+
+**Tähtis**: Teamsi kasutamise hiljutise suurenemise tõttu võib kasutajale Teamsi litsentsi määramiseks kuluda umbes 24 tundi, enne kui see on täielikult seadistatud. Seni ei saa te neile Teamsi poliitikaid määrata ja neil ei pruugi olla juurdepääsu mõnele Teamsi funktsioonile (nt helistamine ja helikonverents).
+
+**Sagedasemad probleemid ja lahendused**
 
 Konkreetsema vastuse saamiseks proovige oma küsimus ümber sõnastada nii, et see sisaldaks teie nähtud tõrketeadet või teie kasutatavaid Teamsi funktsioone.
 
