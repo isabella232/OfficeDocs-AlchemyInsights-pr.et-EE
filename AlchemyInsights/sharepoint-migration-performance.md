@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: 812444589d5a5bf766bbc6f466077d4ca829d79f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932000"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958731"
 ---
 # <a name="sharepoint-migration-performance"></a>SharePointi migreerimisjõudlus
 
-**Tähtis.** Paljud SharePoint Online’i ja OneDrive’i kliendid käitavad äriks olulisi rakendusi teenuses, mis töötab taustal. Nende hulka kuuluvad sisu migreerimine, andmelekketõkestus (DLP) ja varunduslahendused. Praegusel ootamatul ajal teeme kõik selleks, et SharePoint Online’i ja OneDrive’i teenused jääksid püsivalt kättesaadavaks ja töökindlaks kasutajate jaoks, kes sõltuvad kaugtööd tehes teenusest rohkem kui kunagi varem.
-
-Selle eesmärgi toetamiseks oleme taustrakenduste (migreerimine, DLP ja varunduslahendused) jaoks tööpäevadel päevasel ajal kehtestanud rangemad ahendamispiirangud. Eeldatavasti on neil rakendustel nendel aegadel väga piiratud läbilaskevõime. Aga piirkonna õhtustel aegadel ja nädalavahetustel on teenus valmis töötlema palju suuremat hulka taustrakendustest pärit taotlusi.
+**Tähtis**! Nende enneolematude aegade jooksul võtame kasutusele meetmed, et säilitada SharePoint Online’i ja OneDrive’i teenuste hea kättesadavus. Lisateabe saamiseks vaadake teemat [SharePoint Online’i ajutised funktsioonide muudatused](https://aka.ms/ODSPAdjustments).
 
 **Migreerimise jõudlus**
 
