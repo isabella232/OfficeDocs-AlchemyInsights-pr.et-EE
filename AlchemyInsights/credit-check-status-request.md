@@ -1,5 +1,5 @@
 ---
-title: Krediidi sisse oleku taotluse
+title: Kreeditkontrolli oleku päring
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: bd359cff76ef943b90157140888963282e9a5ce3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c7489cd4e37cc7a55c0db597aabc96c3a8592d0f
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386508"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105271"
 ---
-# <a name="credit-check-status-request"></a>Krediidi sisse oleku taotluse
+# <a name="credit-check-status-request"></a>Kreeditkontrolli oleku päring
 
-Teie tellimus on laenu kontrollimine. See täidetakse tavaliselt alla 24 tunni jooksul, kuid võib võtta kuni 48 tundi. Kui valmis, muutub teie liitumisleping staatust kuni aktiivse ja teenuseid osutatakse kasutamiseks.
+Teie tellimus on ootel krediidikvaliteedi kontroll. See on tavaliselt lõpetatud alla 24 tunni, kuid võib kuluda kuni 48 tundi. Kui see on lõpule viidud, muutub teie tellimuse olek Otsustamata olekuks aktiivne ja teenused on kasutamiseks saadaval.
+
+Lisateabe saamiseks vaadake, [Millal võib osutuda vajalikuks krediidi kontrollimine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).

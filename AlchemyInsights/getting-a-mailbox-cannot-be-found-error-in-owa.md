@@ -1,5 +1,5 @@
 ---
-title: 126 saada postkasti ei leitud viga OWA?
+title: 126 saada postkasti ei leita tõrge OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523867"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105235"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Kuidas postkasti ei leitud viga Outlook veebis?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Postkasti ei leitud viga Outlook veebis?
 
-Kui kasutate Outlook Web ja teile **postkasti ei suutnud leida** viga, kontoga, mida kasutasite ühenduse loomiseks Outlook Web ei ole Exchange Online'i litsentsi ja seetõttu ühtegi postkasti seostatakse konto. Teie admin saab kontole litsentsi määrata järgmiselt:
+Kui kasutate Outlook veebis ja saate **postkasti ei leitud** tõrke, konto, mida kasutasite ühenduse loomiseks Outlook Web ei ole Exchange Online ' i litsentsi ja seetõttu ei ole postkasti seostatud kontoga. Teie administraator saab määrata oma kontole litsentsi, järgides neid samme:
 
-1. **Aktiivsed kasutajad**all valige **Redigeeri kasutaja**avada [Microsoft 365 halduskeskus](https://portal.office.com/adminportal/home#/homepage) .
+1. Avage [Microsoft 365 halduskeskus](https://portal.office.com/adminportal/home#/homepage) ja kasutajate jaotises **Active users** **Kasutajad** ja valige tõrge kuvatakse kasutaja.
 
-2. Avaneval **muuta kasutaja** lehel Valige kasutaja. Kasutaja atribuudid lehel, mis avaneb, klõpsake **Muuda** **toote litsentsi**.
-
-3. Avaneval lehel **toote litsentsi** valige **asukoht** väärtusest ja mis sisaldab Exchange Online'i litsentsi omistamiseks (laiendage üksikasjade kuvamiseks litsents). Kui olete lõpetanud, klõpsake käsku **Salvesta**.
+2. Avage kasutaja leht, mis avaneb, jaotisse **litsentsid ja rakendused** , valige sobiv **asukoha** väärtus ja määrake litsents, mis sisaldab Exchange Online ' i (laiendage litsentsi selle üksikasjade nägemiseks). Kui olete lõpetanud, klikkige käsul **Salvesta muudatused**.
