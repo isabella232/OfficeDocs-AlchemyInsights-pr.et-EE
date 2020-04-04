@@ -1,5 +1,5 @@
 ---
-title: Soovitusi lahendamiseks puudub OneNote 2016
+title: Soovitused OneNote 2016 lahendamiseks on puudu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 665611e3fbb93a7142b8eac0c1f84208661d46d2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534415"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143021"
 ---
-# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Soovitusi lahendamiseks puudub OneNote 2016
+# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Soovitused OneNote 2016 lahendamiseks on puudu
 
-Pärast installimist Microsoft Office 2019 või Office 365 arvutis, kus töötab Windows 10 väljaannetes, OneNote 2016 kuvatakse installitud töölaua rakenduste loendist puududa.
+Alates märtsist 2020, Office 365 või Office 2019 installimisel installitakse OneNote ' i töölauarakendus kõrvuti Wordi, PowerPointi ja Exceli töölauarakendustega.
 
-Vaikimisi Office 2019 ja Office 365 ei saa automaatselt installida töölaua versiooni OneNote 2016, kuid kui ikka on vaja või eelistada uuemat versiooni, saate alla laadida eraldi ja kasutada kõrval teie uus Office 2019 rakendused.
+Pärast installimist Microsoft Office 2019 või Office 365 ARVUTIS, kus töötab Windows 10 mis tahes väljaanne, OneNote 2016 tundub olevat puudu installitud töölaua rakenduste loendist.
 
-Järgige [järgmiselt](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) lisateabe, allalaadimise OneNote 2016 32-bitine või 64-bitine versioon Windows.
+Lisateabe [saamiseks selle kohta,](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) kuidas alla laadida 32-bitise või 64-bitise versiooni OneNote 2016 Windows.
