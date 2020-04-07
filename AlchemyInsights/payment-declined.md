@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: dc4c4f55a16fb14dd76f47e23672dc04073fbe61
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164046"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160812"
 ---
-# <a name="update-or-add-a-new-payment-method"></a>Uue makseviisi värskendamine või lisamine
+# <a name="payment-declined"></a>Makse on tagasi lükatud
 
-1. Avage leht > **arveldusarved & maksete** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">makseviisid</a> . ****
-2. Valige **Lisa makseviis** või valige uuendatav kaart või pangakonto ja klõpsake nuppu **Redigeeri**.
-3. Värskendage makseviisi teavet (nimi kaardil või pangakonto, arveldusaadress, telefoninumber või aegumiskuupäev), seejärel valige **Salvesta**.
-4. Ärge unustage muuta selle uue makseviisi tellimuse (te) eest tasumise viisi. Juhised selle kohta, kuidas seda teha, on järgmises sektsioonis.
+Microsoft proovib laadida kaardi mitu korda 3-4 nädalat pärast arve kuupäeva.  Kui olete selle arveldusperioodi kohta saanud ainult ühe või kaks tagasilükka teadet, proovib Microsoft makseinstrumenti uuesti nõuda.  
 
-Kui olete lisanud uue kaardi ja teil on endiselt vana krediitkaardi kohta tagasilükatav teade, peate võib-olla siduma uue kaardi tellimusega.
+**NB**!: kui olete lisanud uue kaardi ja teil on ikka saada languse teade vana krediitkaart, võib olla vaja seostada uue kaardi tellimus.
 
-1. Avage > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">arveldustooted & teenused</a> ****
-2. Valige tellimus, mille soovite uue kaardi või pangakontoga maksta. Valige jaotises **Arveldamine** makseviisi kõrval käsk **Redigeeri**.
-3. Valige praeguse makseviisi kõrval olev **muudatus** .
+1. jaotisse **arveldamine > [tooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+
+2. Valige tellimus, mille soovite uue kaardi või pangakontoga maksta. Klikkige jaotises **Arveldamine** makseviisi kõrval valikul **Redigeeri**.
+
+3. Klõpsake praeguse makseviisi kõrval nuppu **Muuda** .
+
 4. Valige rippmenüüs alternatiivne makseviis või lisage uus makseviis.
 
-[Makseviiside lisamine, uuendamine või eemaldamine](https://go.microsoft.com/fwlink/?linkid=2118133)
+**Uue makseviisi värskendamine või lisamine**
+
+1. Avage leht **arveldamine > arved & maksed > [makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** .
+
+2. Klikkige valikul **makseviisi lisamine**, kaardi valimiseks või pangakontole värskendamiseks ja klõpsake nuppu **Redigeeri**.
+
+3. Värskendage makseviisi teavet (nimi kaardil või pangakonto, arveldusaadress, telefoninumber või aegumiskuupäev) ja seejärel klõpsake nuppu **Salvesta**.
+
+4. Ärge unustage muuta selle uue makseviisi tellimuse (te) eest tasumise viisi. Lisateabe saamiseks lugege teemat [ Makseviiside lisamine, värskendamine või eemaldamine](https://go.microsoft.com/fwlink/?linkid=2118133). 
