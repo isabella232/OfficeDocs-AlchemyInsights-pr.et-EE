@@ -1,5 +1,5 @@
 ---
-title: Kuidas lisada või vähendada litsentsid
+title: Litsentside lisamine või vähendamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664280"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207369"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="efd0c-102">Kuidas lisada või vähendada litsentsid</span><span class="sxs-lookup"><span data-stu-id="efd0c-102">How to add or reduce licenses</span></span>
+# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="e1fa1-102">Litsentside lisamine või vähendamine</span><span class="sxs-lookup"><span data-stu-id="e1fa1-102">How to add or reduce licenses</span></span>
 
-<span data-ttu-id="efd0c-103">Siin on, kuidas eemaldada Office 365 litsentsid või osta rohkem litsentse.</span><span class="sxs-lookup"><span data-stu-id="efd0c-103">Here's how to remove Office 365 licenses or purchase more licenses.</span></span>
+<span data-ttu-id="e1fa1-103">Litsentsid saate lisada/eemaldada.</span><span class="sxs-lookup"><span data-stu-id="e1fa1-103">Here's how to Add/Remove licenses.</span></span>
   
-1. <span data-ttu-id="efd0c-104">Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.</span><span class="sxs-lookup"><span data-stu-id="efd0c-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="e1fa1-104">Liikuge \*\* [tellimustega](https://portal.office.com/adminportal/home#/subscriptions)arveldamine > tellimused\*\*.</span><span class="sxs-lookup"><span data-stu-id="e1fa1-104">Navigate to **Billing > [Subscriptions](https://portal.office.com/adminportal/home#/subscriptions)**.</span></span>
 
-2. <span data-ttu-id="efd0c-105">Valige tellimus, mille soovite lisada/eemaldada litsentsid.</span><span class="sxs-lookup"><span data-stu-id="efd0c-105">Choose the subscription from which you want to add/remove licenses.</span></span>
+2. <span data-ttu-id="e1fa1-105">Valige tellimus, millest soovite litsentse lisada/eemaldada.</span><span class="sxs-lookup"><span data-stu-id="e1fa1-105">Choose the subscription from which you want to add/remove licenses.</span></span>
 
-3. <span data-ttu-id="efd0c-106">Valige **Add/Remove litsentsid**.</span><span class="sxs-lookup"><span data-stu-id="efd0c-106">Select **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="e1fa1-106">Klõpsake käsul **Lisa/eemalda litsentsid**.</span><span class="sxs-lookup"><span data-stu-id="e1fa1-106">Click **Add/Remove licenses**.</span></span>
 
-4. <span data-ttu-id="efd0c-107">Sisestage vajalik kasutajate arv.</span><span class="sxs-lookup"><span data-stu-id="efd0c-107">Enter the total number of users needed.</span></span>
+4. <span data-ttu-id="e1fa1-107">Sisestage vajalike kasutajate koguarv.</span><span class="sxs-lookup"><span data-stu-id="e1fa1-107">Enter the total number of users needed.</span></span> <span data-ttu-id="e1fa1-108">Näiteks kui teil on praegu 25 litsentsi ja soovite eemaldada 5, sisestage sellele väljale 20.</span><span class="sxs-lookup"><span data-stu-id="e1fa1-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
 
-    <span data-ttu-id="efd0c-108">Näiteks kui teil on praegu 25 litsentsi ja eemaldada 5, sisestage sellele väljale 20.</span><span class="sxs-lookup"><span data-stu-id="efd0c-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
+5. <span data-ttu-id="e1fa1-109">Klõpsake suvandit **Edasta muudatus**.</span><span class="sxs-lookup"><span data-stu-id="e1fa1-109">Click **Submit change**.</span></span>
 
-5. <span data-ttu-id="efd0c-109">Valige **Edasta muuta**.</span><span class="sxs-lookup"><span data-stu-id="efd0c-109">Choose **Submit change**.</span></span>
+<span data-ttu-id="e1fa1-110">**Märkus**: mis tahes uus tasu (litsentsi suurendamine) või krediidi (litsentsi vähenemine) ilmub teie järgmise arve.</span><span class="sxs-lookup"><span data-stu-id="e1fa1-110">**Note**: Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span>
 
-> [!NOTE]
-> <span data-ttu-id="efd0c-110">Uus tasuta (litsentsi tõus) või krediidi (litsentsi vähenemine) kuvatakse teie järgmisel arvel.</span><span class="sxs-lookup"><span data-stu-id="efd0c-110">Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span>
+<span data-ttu-id="e1fa1-111">Lisateavet litsentside määramiseks vt teemast [litsentside määramine kasutajatele](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="e1fa1-111">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-<span data-ttu-id="efd0c-111">Lisateabe saamiseks vt [osta litsentse oma Office 365 tellimusega](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="efd0c-111">To learn more, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
-
- <span data-ttu-id="efd0c-112">**Täiendavad ressursid**</span><span class="sxs-lookup"><span data-stu-id="efd0c-112">**Additional resources**</span></span>
+ <span data-ttu-id="e1fa1-112">**Ressursse**</span><span class="sxs-lookup"><span data-stu-id="e1fa1-112">**Resources**</span></span>
   
-- [<span data-ttu-id="efd0c-113">Teie Office 365 tellimusega litsentsid eemaldamine</span><span class="sxs-lookup"><span data-stu-id="efd0c-113">Remove licenses from your Office 365 for business subscription</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [<span data-ttu-id="e1fa1-113">Kordustellimuste litsentside haldamine – ostmine või eemaldamine</span><span class="sxs-lookup"><span data-stu-id="e1fa1-113">Manage subscription licenses - buy or remove</span></span>](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [<span data-ttu-id="efd0c-114">Tühista Office 365 Business</span><span class="sxs-lookup"><span data-stu-id="efd0c-114">Cancel Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [<span data-ttu-id="e1fa1-114">Tühista Office 365 äri</span><span class="sxs-lookup"><span data-stu-id="e1fa1-114">Cancel Office 365 for business</span></span>](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [<span data-ttu-id="efd0c-115">Ostke teine Office 365 tellimusega</span><span class="sxs-lookup"><span data-stu-id="efd0c-115">Buy another Office 365 for business subscription</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [<span data-ttu-id="e1fa1-115">Osta teine Office 365 Business tellimus</span><span class="sxs-lookup"><span data-stu-id="e1fa1-115">Buy another Office 365 for business subscription</span></span>](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
