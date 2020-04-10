@@ -1,5 +1,5 @@
 ---
-title: Laiendada oma Office 365 ettevõtteversioon prooviperiood
+title: Laienda oma prooviversiooni Office 365 Business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665000"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207333"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Laiendada oma Office 365 prooviversioon töö jaoks
+# <a name="extend-your-trial-for-office-365-for-business"></a>Laienda oma prooviversiooni Office 365 äri
 
-Kui teie Proovitellimus on kuni 15 päeva jooksul ja enne pole pikendatud kohtuprotsess, saate pikendada järgmiseks 30-päevase prooviversiooni. Saate teha ainult üks kord.
+Võite oma prooviversiooni pikendada veel 30 päeva jooksul. Seda saab teha ainult üks kord.
   
-1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Avage administreerimiskeskuses \> [arveldustoodete & teenused](https://portal.office.com/adminportal/home#/subscriptions). **Billing**
 
-2. Valige proovi tellimuse, mida soovite laiendada.
+2. Valige Proovitellimus, mida soovite laiendada.
 
-3. **Lõigud & meetmete** jaotises Valige **Laienda uuringute** ja täitke ka ülejäänud juhised.
+3. Klõpsake nuppu **Laienda prooviversiooni** ja täitke viisardi sammud.
 
-4. Tuleb sisestada krediitkaardi andmeid laiendada oma uuringus. Me ei võta teie krediitkaardilt prooviversiooni pikendamiseks.
+4. Prooviversiooni laiendamiseks peate esitama krediitkaardi andmed. Me ei tasu teie krediitkaarti prooviversiooni pikendamise eest.
 
-Lisateabe saamiseks vt [Laienda oma Office 365 ettevõtteversioon prooviperiood](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Lisateabe saamiseks prooviversiooni laiendamise või samm-sammult juhiste kohta vaadake teemat [Office 365 ettevõtte jaoks prooviversiooni laiendamine](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

@@ -12,13 +12,14 @@ ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
+- "4552"
 - "1500025"
-ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
+ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195014"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43217860"
 ---
 # <a name="change-how-often-you-pay"></a>Muutke, kui tihti maksate
 
@@ -28,4 +29,4 @@ Kui ostate kordustellimuse, valite igakuise või aastase arveldamise. Tellimuse 
 
 2. Leidke tellimus, mida soovite muuta. Klõpsake jaotises **Arveldamine** , mis on **iga** - **aastaselt**arveldatud või arveldatud, nuppu **Redigeeri**.
 
-3. Valige suvand, kui tihti soovite arve esitada, seejärel tehke valik **Muuda**.
+3. Valige suvand, kui tihti soovite arve esitada, seejärel klõpsake nuppu **Muuda**.

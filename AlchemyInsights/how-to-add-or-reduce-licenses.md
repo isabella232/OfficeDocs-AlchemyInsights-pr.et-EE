@@ -1,5 +1,5 @@
 ---
-title: Kuidas lisada või vähendada litsentsid
+title: Litsentside lisamine või vähendamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664280"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207369"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Kuidas lisada või vähendada litsentsid
+# <a name="how-to-add-or-reduce-licenses"></a>Litsentside lisamine või vähendamine
 
-Siin on, kuidas eemaldada Office 365 litsentsid või osta rohkem litsentse.
+Litsentsid saate lisada/eemaldada.
   
-1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Liikuge ** [tellimustega](https://portal.office.com/adminportal/home#/subscriptions)arveldamine > tellimused**.
 
-2. Valige tellimus, mille soovite lisada/eemaldada litsentsid.
+2. Valige tellimus, millest soovite litsentse lisada/eemaldada.
 
-3. Valige **Add/Remove litsentsid**.
+3. Klõpsake käsul **Lisa/eemalda litsentsid**.
 
-4. Sisestage vajalik kasutajate arv.
+4. Sisestage vajalike kasutajate koguarv. Näiteks kui teil on praegu 25 litsentsi ja soovite eemaldada 5, sisestage sellele väljale 20.
 
-    Näiteks kui teil on praegu 25 litsentsi ja eemaldada 5, sisestage sellele väljale 20.
+5. Klõpsake suvandit **Edasta muudatus**.
 
-5. Valige **Edasta muuta**.
+**Märkus**: mis tahes uus tasu (litsentsi suurendamine) või krediidi (litsentsi vähenemine) ilmub teie järgmise arve.
 
-> [!NOTE]
-> Uus tasuta (litsentsi tõus) või krediidi (litsentsi vähenemine) kuvatakse teie järgmisel arvel.
+Lisateavet litsentside määramiseks vt teemast [litsentside määramine kasutajatele](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Lisateabe saamiseks vt [osta litsentse oma Office 365 tellimusega](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Täiendavad ressursid**
+ **Ressursse**
   
-- [Teie Office 365 tellimusega litsentsid eemaldamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Kordustellimuste litsentside haldamine – ostmine või eemaldamine](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Tühista Office 365 Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Tühista Office 365 äri](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Ostke teine Office 365 tellimusega](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Osta teine Office 365 Business tellimus](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
