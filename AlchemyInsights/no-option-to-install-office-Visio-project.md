@@ -1,0 +1,46 @@
+---
+title: Office’it, Visiot ega Projecti pole võimalik installida
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002414"
+- "4799"
+ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
+ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.translationtype: HT
+ms.contentlocale: et-EE
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43218139"
+---
+# <a name="no-option-to-install-office-visio-or-project"></a>Office’it, Visiot ega Projecti pole võimalik installida
+
+Office’i klientrakenduste installimiseks veenduge, et teil on Office 365 või Microsoft 365 tellimus, mis [sisaldab Office’i klientrakendusi](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) (nt Office 365 Business Premium, Office 365 Business või Office 365 ProPlus).
+
+**Märkus**: [Office Home and Business](https://products.office.com/home-and-business) on [Office kodukasutajatele](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) toode ja mitte ärirakenduse osa. Project Online Essentials ei hõlma Projecti töölauaversiooni, mistõttu pole ka vaja midagi installida. Visio lepingu 1 kasutajad pääsevad Visiole juurde veebis, kuna leping ei sisalda Visio töölauarakendust. Projecti ja Visio töölauarakendused ei ole Mac-arvuti jaoks saadaval
+
+Kui teil on tellimus, mis sisaldab Office’i rakendusi, näete selle installimise võimalust üksnes juhul, kui teile on [määratud litsents](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Kui olete litsentside määramise eest vastutav Office 365 administraator, lugege artiklit [Litsentside määramine kasutajatele](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+
+
+Laske igal kasutajal teha järgmist.
+
+1. Avada [portaalileht](https://portal.office.com/OLS/MySoftware.aspx).
+
+2. Logida sisse oma töö- või koolikontoga, millele on määratud Office’i litsents.
+
+3. Valida Office'i jaotises keel. Valida 32- või 64-bitine versioon.
+
+4. Klõpsata nuppu **Installi**.
+
+Office’i installimise üksikasjalikke juhiseid ja tõrkeotsingu lahendusi vaadake teemast [Office’i allalaadimine ja installimine või uuesti installimine PC- või Mac-arvutisse](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA). Visio või Projecti installimise täpsemat teavet vt teemast [Visio installimine](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) või [Projecti installimine](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).
+
+Lahendusi konkreetsetele Office’i installiprobleemidele vt järgmistest teemadest.
+
+[Office’i installimise tõrkeotsing](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)
+
+[Ei leia operatsioonisüsteemis Windows 10, Windows 8 või Windows 7 Office’i rakendusi](https://support.office.com/article/can-t-find-office-applications-in-windows-10-windows-8-or-windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6)
