@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: da09215ca846e34fa3f75fead99537c4808ec65a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7a2f2ae8bc80e3d66ab3227b8c675efcb23bc1e6
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664388"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231487"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Kuidas krediitkaardiandmeid värskendada?
 
@@ -28,9 +28,8 @@ ms.locfileid: "36664388"
 
 3. Krediitkaardi või pangakonto andmete muutmiseks valige **Muuda makse üksikasju**.
 
-> [!NOTE]
-> Kui tellimuse ostis mõni teine administraator, ei saa teie selle tellimusega seotud krediitkaardi ega pangakonto andmeid muuta. Kui krediitkaart on aegumas ja teine administraator ei saa teavet värskendada, võite teenusekatkestuste vältimiseks tellimusse lisada mõne muu krediitkaardi või uue pangakonto andmed.
-
 4. Vajaduse korral värskendage krediitkaardi- või pangakontoteavet (krediitkaardil või pangakontol olevat nime, arveaadressi, telefoninumbrit või aegumiskuupäeva) ja seejärel valige **Salvesta** > **Valmis**.
 
 Lisateabe saamiseks vaadake artiklit [Krediitkaardi või pangakonto lisamine, värskendamine või eemaldamine Office 365 ettevõtteversioonis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+
+**Märkus**.Kui tellimuse ostis mõni teine administraator, ei saa teie selle tellimusega seotud krediitkaardi ega pangakonto andmeid muuta. Kui krediitkaart on aegumas ja teine administraator ei saa teavet värskendada, võite teenusekatkestuste vältimiseks tellimusse lisada mõne muu krediitkaardi või uue pangakonto andmed.
