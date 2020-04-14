@@ -1,5 +1,5 @@
 ---
-title: Kuidas osta Office 365 Educationi plaanid
+title: Kuidas osta Office 365 haridus plaanid
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390904"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286244"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Kuidas osta Office 365 Educationi plaanid
+# <a name="how-to-purchase-office-365-education-plans"></a>Kuidas osta Office 365 haridus plaanid
 
-Teil on kinnitatud Office 365 Educationi kasutajaks. Osta:
-  
-1. Administreerimiskeskuses, minge **arved** \> [Ost](https://go.microsoft.com/fwlink/p/?linkid=868433) teenused.
+Olete tunnistatud Office 365 Educationi lepingu ostmiseks sobilikuks.  Ostmiseks tehke järgmist.
 
-2. Valige loendist **Hariduse plaanid**.
+1. Valige **[Arveldamine > Teenuste ostmine](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
-3. Kursorit tellimus, mida soovite osta ja valida **Osta nüüd**.
+2. Valige sobiv leping jaotise **Haridusasutuste lepingud** loendist.
+
+3. Viige kursor soovitud tellimusele ja klõpsake nuppu **Osta kohe**.
+
+**Kaugõpe ja õppimine**
+
+- Kõige asjakohasema juhendi kooli häälestamiseks, tundide plaanimiseks, virtuaalselt kohtumiseks ja õpilastega sisu jagamiseks leiate artiklist [Kaugõpe ja õppimine haridusasutustele mõeldud teenuse Office 365 abil](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4).
+
+- Täiendavaid IT-alaseid juhiseid leiate artiklitest [Microsoft Teamsi kaugõppe jaoks kasutamise alustamine](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) ja [Üleminek kaugõppele](https://www.microsoft.com/education/remote-learning).
