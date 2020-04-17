@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958534"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537737"
 ---
 # <a name="general-migration-performance-guidance"></a>Üldised migreerimise jõudluse juhised
 
+
 **Tähtis**! Nende enneolematude aegade jooksul võtame kasutusele meetmed, et säilitada SharePoint Online’i ja OneDrive’i teenuste hea kättesadavus. Lisateabe saamiseks vaadake teemat [SharePoint Online’i ajutised funktsioonide muudatused](https://aka.ms/ODSPAdjustments).
 
-**Migreerimise jõudluse juhised**
+**Migreerimise võimalused**
 
-Migreerimise jõudlust võivad mõjutada võrgutaristu, failimaht, migreerimiskellaaeg ja ahendamine. Nende tegurite mõistmine aitab teil plaanida oma migreerimisprotsessi ja tagada suurim tõhusus.
+Olenevalt teisaldavate failide suurusest ja kogusest, on olemas mitu võimalust, kuidas sisu SharePoint Online’i migreerida. Võimaluste loendi leiate [siit](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Üldised migreerimise jõudluse juhised](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Sisu migreerimise kohta leiate lisateavet allpool toodud linkidest.
+
+- [SharePointi migreerimistööriist](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Migreerimishalduri kasutamise alustamine](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
