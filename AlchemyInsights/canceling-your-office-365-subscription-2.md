@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665468"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552593"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 tellimuse tühistamine?
 
-Meil on kahju, et lahkute!
+Meil on kahju näha, et sa lähed!
   
-Vastavalt teie organisatsiooni andmetele, usume, et praeguse tellimusega on üle 25 määratud litsentse. Eemaldada kasutajaid kuni vähem kui 25 ja seejärel minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele. Valige jaotises **sätted & meetmete** **loobumine**.
+Teie organisatsiooni andmete põhjal usume, et kõik teie praegused tellimused on rohkem kui 25 määratud litsentsid. Saate kasutajaid eemaldada seni, kuni teil on vähem kui 25, seejärel lehele **arveldustooted** \> [& teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) . Jaotises **sätted & toimingud** valige **Tühista tellimus**.
   
-Võimalusena valida **abi vaja** tehnikuga rääkida.
+Teise võimalusena valige abi **vajate** , et rääkida tugiteenuse inseneriga.
   
-Lisateabe saamiseks vaadake [oma tellimuse tühistada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Tagasimakse: kõik Esri väljastab proportsionaalse krediidi tagastatakse teile järgmise arveldustsükli jooksul.** 
+
+**Märkus**: kui te ei näe võimalust loobuda, klõpsake tellimuse üksikasjade vaatamiseks ja peaksite nägema **Tühista tellimus** valik **seaded & toimingud**. 
+
+Lisateavet leiate jaotisest [tellimuse tühistamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

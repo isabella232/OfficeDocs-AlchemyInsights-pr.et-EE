@@ -12,21 +12,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 54872bd5f3053e2ac72552feac122343e5afe54e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 05a20f539fbff1018b2869bc10fe597ff91187ce
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665432"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552557"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 tellimuse tühistamine?
 
-Meil on kahju, et lahkute, kuid kui soovite tellimuse tühistada, järgmised valikud:
+Meil on kahju näha teid minna, kuid kui soovite tühistada oma tellimus, siin on teie valikud:
   
-- Kui sa oled uuringu klient, ei ole midagi üles öelda. Uuringute tellimine lõpeb automaatselt kui te makseviisi.
+- Kui olete prooviversiooni klient, pole midagi tühistada. Prooviversiooni tellimused aeguvad automaatselt, kui te ei esita maksemeetodit.
 
-- Kui teil on vähem kui 25 määratud litsentse, saab online tellimuse tühistada. Mine **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele. Valige jaotises **sätted & meetmete** **loobumine**.
+- Kui teil on vähem kui 25 määratud litsentsi, saate tellimuse veebis tühistada. Avage leht \> [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) . **Billing** Jaotises **sätted & toimingud** valige **Tühista tellimus**.
 
-- Kui teil on rohkem kui 25 määratud litsentse, te võite eemaldada kasutajaid enne, on vähem kui 25 või pidage nõu tehnikuga "anna meile helistada" suvandi abil.
+- Kui teil on rohkem kui 25 määratud litsentsid, saate eemaldada kasutajaid enne, kui teil on vähem kui 25, või kasutage "Olgem helistada" võimalus rääkida tugiteenuse insener.
+  
+**Tagasimakse: kõik Esri väljastab proportsionaalse krediidi tagastatakse teile järgmise arveldustsükli jooksul.** 
 
-Lisateabe saamiseks vaadake [oma tellimuse tühistada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Märkus**: kui te ei näe võimalust loobuda, klõpsake tellimuse üksikasjade vaatamiseks ja peaksite nägema **Tühista tellimus** valik **seaded & toimingud**. 
+
+Lisateavet leiate jaotisest [tellimuse tühistamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
