@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: et-EE
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591507"
+ms.locfileid: "43599350"
 ---
 # <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="cb517-102">Microsofti voo üleslaadimise tõrked</span><span class="sxs-lookup"><span data-stu-id="cb517-102">Microsoft Stream upload errors</span></span>
 
