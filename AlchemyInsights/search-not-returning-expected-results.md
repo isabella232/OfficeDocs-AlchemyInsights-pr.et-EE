@@ -1,9 +1,9 @@
 ---
-title: 1491-Search-Not-returning-Expected-Results
+title: 1491-otsing-mitte-tagasi oodatud-tulemused
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 094da9d75013aae56ca219b7ae03e85736ce5ee0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d0707af19b0299f7257a10a20ab38f47860308fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551411"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709223"
 ---
-# <a name="content-search-not-returning-expected-results"></a>Otsing ei tagasta oodatavad tulemused
+# <a name="content-search-not-returning-expected-results"></a>Sisu otsing ei tagasta oodatud tulemusi
 
-Sõites sisu otsingud: Office 365 turvalisus & vastavuse Center, saate ootamatu Otsingu tulemused. Kaaluge järgmist asjad, mis võib mõjutada teie otsingu tulemused:
+Microsoft 365 Security & vastavuse Center sisu otsingud käivitamisel võidakse kuvada ootamatuid otsingutulemeid. Kaaluge järgmisi toiminguid, mis võivad teie otsingutulemeid mõjutada:
 
-- **Sisu kohtades ja Otsi tingimustes**: Veenduge, et valitud sisu ettenähtud kohas ja otsingu tingimused. Kui käivitasite annab suur otsing (paljudes kohtades), kaaluda mitmeks mitu otsinguid.
+- **Sisu asukohad ja otsingutingimused**: Veenduge, et olete valinud õiged sisu asukohad ja otsingutingimused. Kui te käivitasite suure otsingu (paljude asukohtadest), kaaluge selle tükeldamist mitmesse otsingusse.
 
-- **Osaliselt indekseeritud üksuste**: [osaliselt indekseeritud üksuste](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) postkastidest sisalduvad hinnanguline Otsingu tulemused. Siiski osaliselt indekseeritud üksuste SharePointis või OneDrive saidid pole lisatud Otsi hinnang.
+- **Osaliselt indekseeritud üksused**: postkastidest [osaliselt indekseeritud üksused](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) kaasatakse hinnangulisest otsingutulemustest. Kuid osaliselt indekseeritud üksused SharePoint ja OneDrive saidid ei sisaldu otsingu hinnang.
 
-- **Otsi vead**: palju postkaste (üle 100 000 postkastid) otsimisel võite saada Otsi tõrkeid, tõrkekoodide nagu CS008-009 ja CS012-002). Sel juhul proovige uuesti otsida ainult ebaõnnestunud sisu asukohad. Vaata [see artikkel](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) rohkem teavet.
+- **Otsingu tõrked**: otsides suur hulk postkastid (üle 100 000 postkastid), võite saada otsingu tõrked, TÕRKEKOODIDEST nagu CS008-009 ja CS012-002). Sel juhul proovige otsingut ainult nurjunud sisu asukohtade puhul. Vaadake [seda artiklit](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) lisateabe saamiseks.

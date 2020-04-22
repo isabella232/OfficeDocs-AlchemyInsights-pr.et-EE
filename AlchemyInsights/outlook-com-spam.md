@@ -1,9 +1,9 @@
 ---
-title: Rämpsposti ja rämpsposti Outlook.com-is
+title: Kauplemine rämpsposti ja rämps in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 7/19/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 4fda7a84d8fce49876126392ba09c24d6d697439
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512060"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710727"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Rämpsposti ja rämpsposti e-posti, Outlook.com-is
+# <a name="spam-and-junk-email-in-outlookcom"></a>Rämpspost ja rämpsposti Outlook.com
 
-Kui te saate liiga palju rämpsposti või spämmi, proovida nende meetodite:
+Kui teil on liiga palju rämpsposti või rämpsposti, proovige järgmisi meetodeid.
 
-1. **E-posti märkimine rämpspostiks**
+1. **Märgi Rämpspost**
     1. Valige sõnum.
-    1. Valige **rämpsposti** > **rämpsposti** sõnumit teisaldada kausta Rämpspost.
-    1. [Lisateavet rämpsposti ja rämpsposti oma postkastist eemal hoida.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. **Rämpsposti kausta** teisaldamiseks valige **Rämpspost** > .
+    1. [Vaadake lisateavet selle kohta, kuidas hoida rämpsposti ja Rämpspost oma sisendkausta.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Blokeeri saatja sisendkaustast**
+1. **Saatja blokeerimine sisendkausta**
     1. Valige sõnum.
-    1. Valige **rämpsposti** > **ploki** > **OK**.
-    1. [Vaadake lisateavet kuidas blokeerida või blokeeringu saatjad.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Valige **rämpsblokeeri** > **Block** > **OK**.
+    1. [Vaadake lisateavet saatjate blokeerimise või blokeeringu tühistamise kohta.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Lisa saatja blokeeritud saatjate loendisse**
-    1. Avage oma [rämpsposti e-posti seaded](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
-    1. **Blokeeritud saatjad ja domeenid**, valige **Lisa**.
-    1. Tippige meiliaadress või domeen, mida soovite blokeerida ja vajutage sisestusklahvi Enter.
-    1. Valige jaotises **filtrid**, kui soovite usaldada meili aadressid turvaliste saatjate ja domeenid ja ohutu meililistides.
+1. **Saatja lisamine blokeeritud saatjate loendisse**
+    1. Avage oma [rämpspostisätted](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. Valige jaotises **Blokeeritud saatjad ja domeenid**suvand **Lisa**.
+    1. Tippige e-posti aadress või domeen, mida soovite blokeerida, ja vajutage sisestusklahvi (ENTER).
+    1. Jaotises **filtrid**valige, kas soovite usaldada meili aadressidest jaotises Turvalised saatjad ja domeenid ning turvalised postitusloendid.
     1. Valige **Salvesta**.
 
-1. **Loo sisendkausta reegel**
-    1. Paremklõpsake sõnumit sõnumite loendis ja valige **Loo reegel**.
-    1. Valige kaust, kuhu veetakse kõiki sõnumeid, ja valige **OK** > **OK**.
-    1. [Lisateavet sisendkausta reeglite Outlook.com-is.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
+1. **Sisendkausta reegli loomine**
+    1. Paremklõpsake sõnumiloendis soovitud sõnumit ja valige käsk **Loo reegel**.
+    1. Valige kaust, kuhu soovite kõik selle saatja sõnumid teisaldada, ja valige **OK** > **OK**.
+    1. [Lisateave sisendkausta reeglite kohta Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

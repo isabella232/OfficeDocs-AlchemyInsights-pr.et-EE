@@ -1,9 +1,9 @@
 ---
-title: Vaadates osta uue tellimuse?
+title: Kas soovite osta uue tellimuse?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9aa692d149a6619564ec1bc5c1edc877ed8ff607
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497439"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709439"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>Vaadates osta uue tellimuse?
+# <a name="looking-to-buy-a-new-subscription"></a>Kas soovite osta uue tellimuse?
 
-Kui teil on juba Office 365 tellimusega ja soovite teise tellimuse teie organisatsiooni jaoks, minge **arved** \> [Ostuteenused](https://go.microsoft.com/fwlink/p/?linkid=868433) lehel näha nimekirja tellimused, mis on teie asutusele saadaval.
+Kui teil on juba Microsoft 365 Business tellimuse jaoks ja soovite osta oma organisatsiooni jaoks veel ühe tellimuse, lehele **arvelduse** \> [Ostuteenused](https://go.microsoft.com/fwlink/p/?linkid=868433) , et näha teie organisatsioonile saadaolevate tellimuste loendit.
  
-1. Valige soovitud tellimus ja valige **osta**.
+1. Valige soovitud tellimus ja seejärel valige **osta**.
 
-2. Valige, kuidas soovite maksta, ja vajalike litsentside arvu.
+2. Valige, kuidas soovite maksta, ja vajalike kasutajilitsentside arv.
 
-3. Valida, **vaadake nüüd**. Järgmisel leheküljel saate vaadata tellimuse ja maksevahendilt.
+3. Valige **Vaata kohe**. Järgmisel leheküljel saate tellimuse üle vaadata ja ostu lõpule viia.
 
-4. Pärast ostu lõpetamist peate võib litsentsi ümber määrata või tellimusest loobumine. Abi käesoleva, palun vaadake jaotisest lisavahendeid.
+4. Kui ost on lõpule jõudnud, võib osutuda vajalikuks litsentside ümbermääramine või tellimuse tühistamine. Selle kohta abi saamiseks lugege allpool jaotist täiendavad ressursid.
 
- **Lisavahendeid:**
+ **Lisaressursid:**
   
-- [Määrata kasutajatele Office 365 Business litsentsid](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Litsentside määramine kasutajatele Microsoft 365 Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
     
-- [Tellimuse tühistamiseks](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Tellimuse tühistamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
     
-- Kui olete huvitatud üleminek tellimused, [aktiveerida erinevaid Office 365 Businessi.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- Kui olete huvitatud tellimuste vaherežimisest, vaadake teemat [Microsoft 365 äriplaani aktiveerimine.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)

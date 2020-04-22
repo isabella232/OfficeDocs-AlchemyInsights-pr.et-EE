@@ -1,33 +1,33 @@
 ---
-title: Konfigureerida järelevalve
+title: Konfigureeri järelevalve
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813829"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705909"
 ---
-# <a name="configure-supervision-policies"></a>Järelevalvepoliitika konfigureerimine
+# <a name="configure-supervision-policies"></a>Konfigureeri Järelevalvepoliitikad
 
-Poliitika Microsoft 365 ja Office 365 võimaldavad jälgida Exchange e-posti, Skype Business Online, Microsoft Teams ja 3. pool side saadetakse ka väljaspool organisatsiooni. Määratud arvustuse kirjutajad saavad uurida jälgitud sõnumeid need on kooskõlas organisatsiooni poliitika, juhtimise ja nõuetele vastavuse standarditele ja lahendada nende liigitamise tüüp.
+Järelevalve poliitika Microsoft 365 võimaldab teil jälgida Exchange e-posti, Skype Business Online, Microsoft Teams ja 3rd Party side saadetakse sisse ja väljapoole oma organisatsiooni. Määratud Läbivaatajad saavad kontrollida jälgitud sõnumeid, et tagada nende vastavus teie organisatsiooni poliitikale, riskijuhtimisnõuetele ja regulatiivsetele vastavusstandarditele ning lahendada need klassifitseerimistüübiga.
 
-Teie asutuse poliitika kasutamiseks peate:
+Oma organisatsioonis järelevalvepoliitikate kasutamiseks peate:
 
-- Kindlaks side jälgimiseks.
-- Otsustada, kes täidab communications läbivaatamine.
-- Setup poliitika
+- Määrake jälgimiseks teatised.
+- Otsustage, kes teostab side ülevaatamisel.
+- Setup järelevalve poliitikad
 
 Lisateave:
 
-- [Ülevaade poliitika](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [Järelevalvepoliitika konfigureerimine](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [Järelevalvepoliitika ülevaade](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
+- [Seadista järelevalve poliitikad](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)

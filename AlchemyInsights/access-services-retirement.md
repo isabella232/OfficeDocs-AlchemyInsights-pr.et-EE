@@ -10,16 +10,16 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050485"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687254"
 ---
 # <a name="access-services-retirement"></a>Juurdepääs teenustele pensionile
 
-Nagu me algselt teatas MC97576, märtsis 2017, ja jätkas suhtlemine viimase aasta juurdepääsuteenused on pensionile Office 365. Järgmise etapi selle protsessi on eemaldamine Access Web andmebaasid, mis kasutavad SharePointi loendid nende aluseks andmete salvestamise.
+Nagu me algselt teatas MC97576, märtsis 2017, ja jätkas suhtlemine viimase aasta juurdepääsuteenused on pensionil. Järgmise etapi selle protsessi on eemaldamine Access Web andmebaasid, mis kasutavad SharePointi loendid nende aluseks andmete salvestamise.
 
 **Kuidas see mind mõjutab?**
 

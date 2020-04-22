@@ -1,9 +1,9 @@
 ---
-title: Firefox ei tööta lingid Outlook.com-is
+title: Lingid Outlook.com ei tööta Firefox
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: de188644b301495eb29fd828fd460107656a28ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8ae65175bdb2e9d9bc4b624c3bfc7ab6f1eda803
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542553"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709475"
 ---
-# <a name="links-in-outlookcom-dont-work-in-firefox"></a>Firefox ei tööta lingid Outlook.com-is
+# <a name="links-in-outlookcom-dont-work-in-firefox"></a>Lingid Outlook.com ei tööta Firefox
 
-Outlook.com'i kirju lingid ei tööta, kui nad on Firefox brauseritega. Mozilla on [lahendus töötab](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) Firefox, aga:
+Lingid Outlook.com e-kirju ei tööta, kui nad on vaadatud Firefox brauserid. Mozilla [töötab Fix](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) Firefox, kuid seni:
   
-- Palun kasutage [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) või muu brauseri.
-- Meili kuvamiseks lugemispaanil. Lisateabe saamiseks lugege Kuidas [muuta välimust teie Outlook.com postkasti](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+- Palun kasutage [Microsoft Edge ' i](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) või mõnda muud veebibrauserit.
+- Saate vaadata e-posti lugemispaanil. Lisateabe saamiseks lugege, kuidas [muuta oma Outlook.com postkasti ilme](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

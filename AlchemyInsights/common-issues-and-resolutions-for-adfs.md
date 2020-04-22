@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286536"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706197"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Sagedasemad ADFS-i probleemid ja lahendused
 
@@ -28,4 +28,4 @@ Liitdomeeni konfiguratsiooni saab värskendada järgmistes Microsofti teabebaasi
 
 - [2647020](https://support.microsoft.com/help/2647020) Tõrge „Kahjuks on meil probleeme teie sisselogimisega“ ja 80041317 või 80043431, kui väliskasutaja proovib rakendusse Office 365, Azure või Intune sisse logida.
 
-Lisateavet leiate teemast [Office 365, Azure’i või Intune’i liitdomeeni sätete värskendamine või parandamine](https://docs.microsoft.com/et-EE/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Lisateavet leiate teemast [Office 365, Azure’i või Intune’i liitdomeeni sätete värskendamine või parandamine](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

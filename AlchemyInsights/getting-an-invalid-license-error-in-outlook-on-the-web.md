@@ -1,9 +1,9 @@
 ---
-title: 125 saada viga kehtetu litsents Outlook veebis?
+title: 125 saada sobimatu litsentsi tõrge Outlook veebis?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523795"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708827"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Tõrge sobimatu litsentsi saada Outlook Web?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Kas Outlookis on veebis sobimatu Litsentsitõrge?
 
-Kui kasutate Outlook Web ja saad **midagi läks valesti** viga, mis sisaldab **X-OWA-tõrge: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Exchange Online'i litsentsi pole õigesti määratud või on hiljuti aegunud. Teie saate määrata litsentsi teile järgmiselt:
+Kui kasutate Outlook Web ja saate **midagi läks valesti** viga, mis sisaldab **X-OWA-tõrge: Microsoft. Exchange. Data. Storage. InvalidLicenseException**, teie Exchange Online ' i litsents ei ole õigesti määratud või on hiljuti aegunud. Teie administraator saab teile litsentsi määrata, järgides neid samme:
   
-1. **Aktiivsed kasutajad**all valige **Redigeeri kasutaja**avada [Microsoft 365 halduskeskus](https://portal.office.com/adminportal/home#/homepage) .
+1. Avage [Microsoft 365 halduskeskus](https://portal.office.com/adminportal/home#/homepage) ja **aktiivsed kasutajad**, valige **Redigeeri kasutajat**.
 
-2. Avaneval **muuta kasutaja** lehel Valige kasutaja. Kasutaja atribuudid lehel, mis avaneb, klõpsake **Muuda** **toote litsentsi**.
+2. Valige avab kasutaja lehel **Redigeeri** kasutaja. Klõpsake lehe kasutaja atribuutide lehel nuppu **Redigeeri** **toote litsentsid**.
 
-3. Avaneval lehel **toote litsentsi** valige **asukoht** väärtusest ja mis sisaldab Exchange Online'i litsentsi omistamiseks (laiendage üksikasjade kuvamiseks litsents). Kui olete lõpetanud, klõpsake käsku **Salvesta**.
+3. Valige avab lehel **tootelitsentsid** sobiv **asukoha** väärtus ja määrake litsents, mis sisaldab Exchange Online ' i (laiendage litsentsi selle üksikasjade nägemiseks). Kui olete lõpetanud, klõpsake käsku **Salvesta**.

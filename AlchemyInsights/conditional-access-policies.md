@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706053"
 ---
 # <a name="conditional-access-policies"></a>Tingimusjuurdepääsu poliitikad
 
@@ -24,7 +24,7 @@ Tingimusjuurdepääs on Azure Active Directory funktsioon, mis võimaldab teil k
 
 Lisateavet leiate teemast [Azure Active Directory tingimusjuurdepääs](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-**Märkus**. Kui teie rentnik loodi pärast 21. oktoobrit 2019 ja teilt küsitakse ootamatult mitmikautentimist, olete tõenäoliselt oma rentnikus lubanud [turvalisuse vaikesätted](http://aka.ms/securitydefaults).
+**Märkus**. Kui teie rentnik loodi pärast 21. oktoobrit 2019 ja teilt küsitakse ootamatult mitmikautentimist, olete tõenäoliselt oma rentnikus lubanud [turvalisuse vaikesätted](https://aka.ms/securitydefaults).
 
 **Turvalisuse vaikesätete haldamine**
 

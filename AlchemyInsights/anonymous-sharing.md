@@ -2,18 +2,18 @@
 title: Anonüümne ühiskasutus
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 8a007821fb44544512ae5b9bf22ee9aba16e618c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050377"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708051"
 ---
 # <a name="anonymous-sharing"></a>Anonüümne ühiskasutus
 
@@ -31,6 +31,6 @@ Klõpsake uue SharePointi administreerimiskeskuses vasakpoolsel paanil **ühiska
     
 - Kellele meeldiks see link tööle? Klõpsake **kedagi.**
   
- **Märkus**: **igaüks** loob lingi, mida igaüks saab kasutada dokumendile või kaustale juurdepääsuks, isegi kui nad pole sisse logitud Office 365 või OneDrive. Kasutage seda jagada kellegagi, sees või väljaspool ettevõtet. Seda linki saab edastada ka kellelegi teisele. 
+ **Märkus**: **igaüks** loob lingi, mida igaüks saab kasutada dokumendile või kaustale juurdepääsuks, isegi kui nad pole sisse logitud Microsoft 365 või OneDrive. Kasutage seda jagada kellegagi, sees või väljaspool ettevõtet. Seda linki saab edastada ka kellelegi teisele. 
     
 

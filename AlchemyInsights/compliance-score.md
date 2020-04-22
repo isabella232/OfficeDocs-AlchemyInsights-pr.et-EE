@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600346"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706089"
 ---
 # <a name="compliance-score"></a>Vastavuse skoor
 
@@ -33,7 +33,7 @@ Globaalne Admin on vaja seadistada õiged [õigused](https://docs.microsoft.com/
 
 **Lisateavet:**
 
-- Pääsuõiguste seadistamine vastavuse skoor, vaadake [anda kasutajatele juurdepääsu Office 365 Security & vastavuse keskus](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Juurdepääsu õigused vastavuse skoor, vt [anda kasutajatele juurdepääsu Microsoft 365 Security & vastavuse keskused](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Töö parandamise meetmeid vastavuse skoor, vt [töö vastavuse skoor](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Kuidas arvutatakse vastavuse skoor, vt [Vastavusskoori metoodikat](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
 - Vastavuse skoor vs. vastavuse haldur, vt [seost vastavuse Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

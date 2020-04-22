@@ -1,9 +1,9 @@
 ---
-title: Aidata mõista oma arve
+title: Aidake oma arvet mõista
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523075"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710079"
 ---
-# <a name="help-understanding-your-bill"></a>Aidata mõista oma arve
+# <a name="help-understanding-your-bill"></a>Aidake oma arvet mõista
 
-Teie Office 365 tellimusega arvetele peegeldab ostetud litsentside ja vajalike maksude/tasude arv korrutatakse litsentsi hind.
+Tellimuse eest arve summa kajastab litsentsi hind korrutatuna ostetud litsentside arv ja kõik nõutavad maksud/tasud.
   
-Kui arve summa on erinev siis oodata, on see võib juhtuda mitmel põhjusel:
+Kui arve summa on teistsugune, siis eeldatakse, et see võib juhtuda mõnel põhjusel:
   
-- Litsentsid olid lisada või eemaldada oma tellimuse. Kui litsentsid on muutunud vahehindamine, seda näitab järgmine arve. Võite näha krediidi- ja uuesti arve teenuse eelmise perioodi arvesse selle muudatuse.
+- Litsentsid lisati või eemaldati teie tellimusest. Kui litsentsid on muudetud keskel, see kajastub järgmine arve. Muudatuse kajastamiseks võite oma arvel näha krediiti või uut arvet eelmise teenindusperioodi eest.
 
-- Tellimus tühistati. Te saate arve pärast ülesütlemist boonuspunktide miinus kõik tasumata jääk.
+- Tellimus on tühistatud. Pärast tühistamist saate arve maksmata saldoga või krediidi / tagasimaksetega.
 
-- Teie tellimus uueks ametiajaks uuendada ja muuta litsentsi hind.
+- Olete tellimust uueks perioodiks pikendanud, kuid litsentsihind on muutunud.
 
-Arve kohta lisateabe saamiseks vt: [aru oma arve](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Arve kohta leiate lisateavet teemast: [mõista oma arvet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

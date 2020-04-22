@@ -1,5 +1,5 @@
 ---
-title: Kuidas aktiveerida Office
+title: Office ' i aktiveerimine
 ms.author: jillz
 author: jillz
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: 194c03d4cb1e519b1dc72737fa92a1fcfadc5e26
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 56e91bf630fe234ca54ba09c3c756d9f4b71854c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664352"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709691"
 ---
-# <a name="how-to-activate-office"></a>Kuidas aktiveerida Office
+# <a name="how-to-activate-office"></a>Office ' i aktiveerimine
 
-Installida ja aktiveerida Office edukalt, peate admin määratud [Office'i litsentsi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) kasutaja töö või kooli kontole.
+Office ' i edukaks installimiseks ja aktiveerimiseks peab administraator olema määranud Office ' i [litsentsi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) kasutaja töö-või koolikontole.
   
-Pärast paigaldamist Office, paljudel juhtudel Office 365 rakenduste aktiveerib automaatselt ja kui kasutaja ei ole paluda aktiveerida, nad saab kohe kasutama hakata Office.
+Pärast Office ' i installimist aktiveeritakse paljudel juhtudel rakendused automaatselt ja kui kasutajal ei paluta aktiveerida, saavad nad hakata Office ' it kohe kasutama.
   
-Aga kui kasutaja palub sisselogimiseks **asukoht**, logige sisse oma töö või kooli kontot, mis peaks juba on [määratud Office litsentsi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Kuid kui kasutajal palutakse **Office ' i Häälestamississe logida**, peavad nad oma töö või kooli kontoga sisse logima, millel peaks juba olema [määratud Office ' i litsents](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   
-Üksikasjalikuma teabe saamiseks vt [Aktiveerida Office PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) või [Mac Office aktiveerida](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
+Üksikasjalikku teavet vt teemast [Office ' i aktiveerimine arvutis](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) või [Office ' i aktiveerimine Macis](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
   

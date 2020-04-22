@@ -1,5 +1,5 @@
 ---
-title: Kuidas kasutajale litsentsi määrata
+title: Kasutajale litsentsi määramine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,27 +10,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "325"
-- "150008"
+- "651"
+- "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664244"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709547"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Kuidas kasutajale litsentsi määrata
+# <a name="how-to-assign-a-license-to-a-user"></a>Kasutajale litsentsi määramine
 
-Kasutaja vajab juurdepääsu teenuseid Office 365 litsentsi. Siin on sammud lisamine, muutmine või eemaldamine kasutaja litsentsi.
+Kasutaja vajab litsentsi juurdepääsuks teenustele. Siin on juhised kasutaja litsentsi lisamiseks, muutmiseks või eemaldamiseks.
   
-1. **Kasutajatele** minna administreerimiskeskuses, \> [aktiivseid kasutajaid](https://go.microsoft.com/fwlink/p/?linkid=834822) lehel.
+1. administreerimiskeskuses **kasutajate** \> [aktiivsed kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) lehele.
 
-2. Valige kasutaja, kellele soovite määrata, muuta või eemaldada litsentsi nimi.
+2. Valige selle kasutaja nimi, kellele soovite litsentsi määrata, muuta või eemaldada.
 
-3. Valige vahekaardil **litsentsid ja rakenduste** litsentsi, mida soovite sellele kasutajale määrata.
+3. Valige vahekaardil **litsentsid ja rakendused** litsents, mille soovite sellele kasutajale määrata.
 
-    Vaikimisi määratakse see litsents kõiki teenuseid automaatselt kasutaja. Piirata, millised teenused on kasutajale saadaval, tühjendage ruut teenuste eest, mida te ei soovi, et kasutaja on.
+    Vaikimisi määratakse kasutajale automaatselt kõik selle litsentsiga seotud teenused. Kasutajale saadaolevate teenuste piiramiseks tühjendage märkeruut nende teenuste puhul, mida te ei soovi sellel kasutajal kasutada.
 
-4. Vali paani allosas **muudatusi salvestada**.
+4. Valige paani allosas käsk **Salvesta muudatused**.
 
-Lisateabe saamiseks vt [määrama litsentsid kasutajatele](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ja [kasutajatelt litsentside eemaldada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Lisateavet vt teemast [kasutajate litsentside määramine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ja [kasutajate litsentside eemaldamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

@@ -1,9 +1,9 @@
 ---
-title: 1051 rämpsposti 4.7.500 juurdepääs on keelatud, proovige hiljem uuesti
+title: 1051 rämpspostitõrje 4.7.500 juurdepääs keelatud, proovige hiljem uuesti
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: b9c75542378f64cdc4765c22f398e43b5523f2e1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 550b5ceadb2abcd0fea7e352b988bc740235722c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517135"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707979"
 ---
 # <a name="47500-access-denied-please-try-again-later"></a>4.7.500 juurdepääs keelatud, proovige hiljem uuesti
 
-See tõrge ilmneb juhul, kui e-posti liiklus: allika IP-aadress IP-aadressi allikat maine (või maine puudumine) ületab.
+See tõrge ilmneb siis, kui e-posti liikluse allikas IP-aadress maht ületab piirangu allika IP-aadressi maine (või puudumine maine).
 
-Blokeerida e-posti: allika IP-aadress muutub kehtetuks ühe tunni jooksul. Allika IP-aadress kuulub sulle asutusesisese meiliserveri veenduge, posti voolu konnektori konfiguratsiooni. Kui käitumine kestab üle tunni, võtke ühendust tuge erand, IP-aadressi allikat.
+E-posti blokeerimine allika IP-aadressist aegub tunni jooksul. Kui allika IP-aadress on asutusesisene meiliserver, mis kuulub teile, kontrollige meilivoo konnektori konfiguratsiooni. Kui käitumine jätkub rohkem kui tund, pöörduge tugiteenuse taotleda erandi allika IP-aadress.

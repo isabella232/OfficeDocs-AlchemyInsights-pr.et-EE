@@ -1,9 +1,9 @@
 ---
-title: Kasutage kohandatud profiilid Intune
+title: Kohandatud profiilide kasutamine Intune ' is
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531751"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710475"
 ---
-# <a name="using-custom-policy-in-intune"></a>Kasutades kohandatud poliitika Intune
+# <a name="using-custom-policy-in-intune"></a>Kohandatud poliitika kasutamine Intune ' is
 
-Intune on paljud sätted sisseehitatud Android, iOS, macOS ja Windowsi seadmete jaoks. Saate luua ka kohandatud profiili ja seejärel kasutada neid kohandatud sätete abil Intune oma seadmetega. Kohandatud profiilid on loodud seadme seaded ja funktsioonid, mis ei ole ehitatud Intune.
+Intune on palju seadeid sisseehitatud Android, iOS, macOS ja Windows seadmed. Saate luua ka kohandatud profiili ja seejärel juurutada need kohandatud sätted oma seadmetesse Intune ' i abil. Kohandatud profiilid on loodud seadmesätete ja funktsioonide lisamiseks, mis pole Intune ' i sisse ehitatud.
 
-[Android seadmete Intune kohandatud sätted](https://docs.microsoft.com/intune/custom-settings-android)
+[Kohandatud seaded Android seadmeid Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Android ettevõtte seadmete Intune kohandatud sätted](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Kohandatud seaded Android Enterprise seadmete Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[IOS seadmete Intune kohandatud sätted](https://docs.microsoft.com/intune/custom-settings-ios)
+[Kohandatud sätted iOS seadmete Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[MacOS seadmete Intune kohandatud sätted](https://docs.microsoft.com/intune/custom-settings-macos)
+[MacOS-seadmete kohandatud sätted Intune ' is](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Windows 10 seadmete Intune kohandatud sätted](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Kohandatud sätted Windows 10 seadmetele Intune ' is](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Kohandatud sätted holograafiline Windows Intune äri seadmeid](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Kohandatud sätted Windowsi Holograafika Business seadmete Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

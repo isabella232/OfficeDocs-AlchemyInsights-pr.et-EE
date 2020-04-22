@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737111"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708351"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlooki krahhi tõrkeotsingu sammud
+# <a name="outlook-crash-troubleshooting-steps"></a>Outlooki krahhi tõrkeotsingutoimingud
 
-Kui teil on Outlooki töölaua krahhi probleemid, alustage, järgides kolme alltoodud samme, mis on loetletud üksikasjalikult selles artiklis: [Kuidas teha tõrkeotsingut probleeme, mis põhjustavad Outlooki krahhi või lõpetada reageerimise, kui kasutate Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Kui teil on Outlooki töölaua krahhi probleemid, alustage, järgides kolme alltoodud juhiseid, mis on kõik loetletud üksikasjalikult selles artiklis: [Tõrkeotsing probleemidele, mis põhjustavad Outlooki krahhi või reageerimise lõpetada.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 1. samm: Uurige võimalikke probleeme lisandmoodulidega.
   
@@ -30,5 +30,5 @@ Kui teil on Outlooki töölaua krahhi probleemid, alustage, järgides kolme allt
   
 3. samm: looge uus Outlooki profiil või käivitage [Outlooki profiili tööriista](https://aka.ms/SaRA-OutlookSetupProfile) mõjutatud arvutis.
   
-Kui probleem ilmnes pärast värskendust ja ülaltoodud sammud ei tööta, võib osutuda vajalikuks taastada eelmise järk. Vaadake, [Kuidas taastada varasema versiooni Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
+Kui probleem ilmnes pärast värskendust ja eeltoodud toimingud probleemi ei kõrvalda, peate võib-olla taastama mõne varasema versiooni. Vaadake, [Kuidas taastada varasema versiooni Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
   

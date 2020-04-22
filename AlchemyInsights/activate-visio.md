@@ -1,9 +1,9 @@
 ---
-title: Aktiveerida Visio
+title: Aktiveeri Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 50d1fc29ee4eafd6b6bbe0a873684ab471ba8f02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495423"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43682288"
 ---
-# <a name="activate-visio"></a>Aktiveerida Visio
+# <a name="activate-visio"></a>Aktiveeri Visio
 
-Enne kui kasutaja saab installida ja aktiveerida töölaua Visio töölauarakenduse kaasas oma Visio Online'i lepingu 2, kasutaja peab määratud [Visio litsentsi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Enne, kui kasutaja saab installida ja aktiveerida töölaua Visio töölauarakenduse, mis on kaasas nende Visio Online ' i plaaniga 2, peab kasutajale olema määratud [Visio litsents](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
 
-**Märkus** Visio Online'i leping 1 ei sisalda Visio töölauaversiooni.
+**Märkus** Visio Online ' i leping 1 ei sisalda Visio töölauaversiooni.
 
-Visio aktiveerimiseks:
+Visio aktiveerimiseks toimige järgmiselt.
 
-1. Kui see pole juba installitud, installige Visio oma [minu konto portaal](https://portal.office.com/account#installs) . Abi saamiseks vaadake [Visio installida](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
-2. Kui installimine on lõpule jõudnud, avage Visio rakendus. Visio tõenäoliselt aktiveerib automaatselt ja saate hakata kasutama kohe. Kui seda pole, palutakse teil sisse logida. Kindlasti sisse logida sama töö või kooli kontole, mis oli määratud Visio litsentsi. Järgige viipasid jätkamiseks aktiveerimine. 
+1. Kui see pole juba installitud, installige Visio [minu kontoportaalist](https://portal.office.com/account#installs) . Abi saamiseks vaadake teemat [Visio installimine](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Kui installimine on lõpule jõudnud, avage Visio rakendus. Tõenäoliselt aktiveerub Visio automaatselt ja saate seda kohe kasutama hakata. Kui seda ei juhtu, võidakse teil paluda sisse logida. Logige kindlasti sisse sama töö- või koolikontoga, millele on määratud Visio litsents. Aktiveerimisega jätkamiseks järgige viipasid. 
 
-Aktiveerimise probleemid, [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy) käivitamine probleemses arvutis.
+Aktiveerimisprobleemide korral käivitage probleemsel arvutil [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy) .
 
 Üksikasjalikku teavet vt:<br>
-[Aktiveerida Office PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Office 365 rakenduse avamisel kuvatakse tellimuse teatis](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Office viga "ei saa kasutada tooteid, mis leidsime oma konto aktiveerida <app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Litsentseerimata toote ja aktiveerimine tõrked Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+[Office ' i aktiveerimine ARVUTIS](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Microsofti rakenduse avamisel kuvatakse tellimuse teade](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Office ' i tõrge "teie kontol leitud toodete aktiveerimiseks <app>ei saa kasutada"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Litsentsimata toote ja aktiveerimisega seotud tõrketeated Office’is](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

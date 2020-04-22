@@ -2,18 +2,18 @@
 title: SharePointi või OneDrive ' i juurdepääsu piiramine
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053761"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692761"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>SharePointi või OneDrive ' i juurdepääsu piiramine
 
@@ -31,7 +31,7 @@ SharePoint Online ' i ja OneDrive for Business, piirame juurdepääsu üksustele
 
 - [Haldamata seadmete juurdepääsu kontrollimine](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-SharePointi või globaalse admin Office 365, saate blokeerida või piirata juurdepääsu SharePointi ja OneDrive ' i sisu haldamata seadmete (need ei ole hübriid AD ühendatud või Intune).
+SharePointi või globaalse admin, saate blokeerida või piirata juurdepääsu SharePointi ja OneDrive ' i sisu haldamata seadmete (need ei ole hübriid AD liidetud või ühilduv Intune).
 
 **Võrguasukoha piirang**
 
@@ -43,5 +43,5 @@ SharePoint Online ' i sees on teil võimalus saidikogumi lukustada, nii et keegi
 
 **Kasutajate piiramine saitide või alamsaitide loomisega**
 
-SharePointi administraator või Office 365 globaalse admin, saate lasta oma kasutajatel luua ja hallata oma SharePointi saite, määratleda, milliseid saite nad saavad luua ja määrata saitide asukoht. Lisateabe saamiseks lugege [saidi loomine SharePoint Online ' i haldamine](https://docs.microsoft.com/sharepoint/manage-site-creation)
+SharePointi administraatori või globaalse administraatoriks saate lasta oma kasutajatel luua ja hallata oma SharePointi saite, määratleda, milliseid saite nad saavad luua, ja määrata saitide asukoha. Lisateabe saamiseks lugege [saidi loomine SharePoint Online ' i haldamine](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

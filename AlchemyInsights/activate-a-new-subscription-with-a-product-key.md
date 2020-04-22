@@ -1,5 +1,5 @@
 ---
-title: Uue kordustellimuse aktiveerimine tootevõtmega
+title: Uue tellimuse aktiveerimine tootevõtme abil
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b4ae470e2a03509ea8a90e7fdf006eddfa4792ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766383"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707111"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>Uue kordustellimuse aktiveerimine tootevõtmega
+# <a name="activate-a-new-subscription-with-a-product-key"></a>Uue tellimuse aktiveerimine tootevõtme abil
 
-1. Uue Office 365 tellimuse aktiveerimiseks oma tootenumber, minge [https://office.com/setupkey](https://office.com/setupkey).
+1. Uue kordustellimuse aktiveerimiseks tootevõtmega [https://office.com/setupkey](https://office.com/setupkey).
 
-2. Sisestage oma Office 365 tootenumber ja järgige tellimuse aktiveerimiseks kuvatavaid juhiseid. Kui teil on aktiveerimisega probleeme, vaadake seda [levinud tootenumbri tõrgete ja lahenduste loendit](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Sisestage oma tootenumber ja järgige tellimuse aktiveerimiseks kuvatavaid juhiseid. Kui teil on aktiveerimisega probleeme, vaadake seda [levinud tootenumbri tõrgete ja lahenduste loendit](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

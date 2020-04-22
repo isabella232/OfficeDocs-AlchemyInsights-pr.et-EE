@@ -3,7 +3,7 @@ title: Kontrollige oma domeeni
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531355"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710439"
 ---
 # <a name="verify-your-domain"></a>Kontrollige oma domeeni
 
- **Kirje pole ilmselt värskendada Interneti.**
+ **Kirjet ei ole ilmselt kogu Internetis värskendatud.**
   
-Tavaliselt kulub vaid paar minutit meile vaadata uue kirje, kuid vahel võib võtta aega kuni paar tundi. 
+See võtab tavaliselt vaid mõne minuti, et saaksime uut kirjet näha, kuid aeg-ajalt võib see võtta aega mõne tunni jooksul. 
   
-- Kui see on juba ammu oodanud, kontrollige üle, et te olete kopeerimisel ja kleepimisel TXT Taatlusprotokolli täpne väärtus kell DNS host. Üks levinud küsimus on ka selle "MS =" osa kirje. Seda on vaja liiga!
+- Kui olete oodanud, et juba ammu, topelt-kontrollige, et olete kopeerinud ja kleebitud täpse väärtuse TXT kontrolli kirje DNS-i hosti. Üks levinud probleem ei hõlma kirje "MS =" osa. Me vajame seda ka!
 
-- Mõned DNS hosts, pead võtma lisatööd (DNS-kirje salvestamise) tsooni faili salvestamiseks nii, et see update Internetis. Veenduge, et salvestate muudatused nii Office 365 näete ja kirje.
+- Mõned DNS-i hosts, peate võtma täiendavaid samme, et salvestada tsooni faili (kus DNS-kirje on salvestatud) nii, et see uuendab kogu Internet. Veenduge, et olete salvestanud oma muudatused, et Microsoft saaks kirjet vaadata ja kontrollida.

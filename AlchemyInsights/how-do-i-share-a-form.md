@@ -1,5 +1,5 @@
 ---
-title: Kuidas jagada vormi?
+title: Kuidas vormi jagada?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: 656c3f05494abbe0f387dffec4bd36c4e337a317
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0517697073ca20fa73f41f6b142e50090c7fd2c2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522824"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709899"
 ---
-# <a name="share-a-form"></a>Jagada vormi
+# <a name="share-a-form"></a>Vormi jagamine
 
-Viktoriin või vormi Microsoft Forms ühiskasutusse andmiseks Vaata [jagada vormi tegema](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
+Viktoriini või vormi jagamiseks Microsofti vormides vt teemat [vormi jagamine koostööks](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
 
-Ühiskasutamise vormid väliselt haldamiseks vaadake teemat [Microsoft vorme luua](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?ui=en-US&rs=en-US&ad=US#PickTab=Configure). 
+Et hallata võimalust vorme väliselt jagada, vaadake teemat [Microsofti vormide seadistamine](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240). 
 
-Kokkuvõttelingi teistega jagada tulemuste saamine
+Kokkuvõtliku lingi saamiseks tulemuste jagamiseks teistega:
 
-1. Klõpsake vahekaardi **vastused** Ellipsite nupp (****...).
-3. Valige **Loo Kokkuvõte link**.
+1. Klõpsake vahekaardil **vastused** nuppu ellipsid (**...**).
+3. Valige **Loo kokkuvõtlik link**.
 4. Klõpsake nuppu **Kopeeri**.
 
-Keegi, kellega jagada seda linki Vaata Kokkuvõte vastustest oma vormi.
+Igaüks, kellega te seda linki jagate, saab vaadata oma vormi vastuste kokkuvõtet.

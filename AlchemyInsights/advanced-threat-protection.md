@@ -3,30 +3,30 @@ title: Office 365 täiustatud ohutõrje
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664496"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710331"
 ---
 # <a name="office-365-advanced-threat-protection"></a>Office 365 täiustatud ohutõrje
 
-- Ohutu manuseid, Safe Links ja andmepüügi kuuluvad ning Office 365 arenenud oht kaitse (ATP). Microsoft 365 Business Enterprise E5 ja hariduse A5 sisaldab ATP. Kõik plaanid vaja lisandmooduli ATP tellimust.
+- Turvaliste manuste, turvaliste linkide ja andmepüügi on osa Office 365 täiustatud ohutõrje (ATP). Enterprise E5, Education a5 ja Microsoft 365 Business Premiumi hulka kuuluvad ATP. Kõik muud plaanid nõuavad lisandmooduli ATP tellimust.
 
-- Peate määrama asjakohased litsentsid teie Office 365 ATP kasutajate kaitsmiseks. Vaata [selle teema](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) kehtivad litsentsid teie kasutajatele juhised lahtiselt.
+- Peate määrama sobivad litsentsid, et kaitsta oma kasutajaid Office 365 ATP. Vaadake [seda teemat](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) juhiste saamiseks selle kohta, kuidas hulgi litsentse oma kasutajatele rakendada.
 
-- Office 365 globaalne administraatorite või turvalisuse administraatorid pääsevad Office 365 ATP funktsioonid turvalisus & vastavuse Center **Ohu Managmeent** \> **poliitika**.
+- Globaalne administraatorid või Turbeadministraatorid pääsevad Office 365 ATP funktsioonid Security & vastavuse keskus **Threat managmeent** \> **poliitika**.
 
-- Safe Attachments ja ohutu Link poliitika saab hõlmavaid te kogu ettevõttele, konkreetsetes valdkondades või väiksemates rühmades kasutajate.
+- Turvaliste manuste ja turvalise lingi poliitikad võivad ulatatakse teile kogu organisatsiooni, teatud domeene või väiksemaid kasutajagruppe.
 
-- Ei pole vaikepoliitikat ATP ohutu manus. Tuleb [kehtestada](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) poliitika ja rakendada seda oma kasutajatele.
+- Ei ole vaikimisi ATP turvalise manuse poliitika. Peate [looma poliitika](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) ja rakendama seda oma kasutajatele.
 
-- On vaikimisi ATP Safe Links poliitika, mis rakendatakse kõigile teie ettevõttes. Seda poliitikat redigeerida või [luua kohandatud poliitika, vt](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- On vaikimisi ATP turvaliste linkide poliitika, mis kehtib kõigile teie organisatsioonis. Selle poliitika redigeerimiseks või kohandatud poliitikate loomiseks vaadake [seda teemat](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
