@@ -1,22 +1,22 @@
 ---
-title: Ühiskasutuses postkasti mahtu suurendada 1815
+title: 1815 suurendada ühiskasutusse antud postkasti maht
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 7e31c3cff7f21dce9435ae47c717465680ef624b
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 52e4e313319ec55111ee656e1eef0b01ada88ca9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764997"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711159"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a><span data-ttu-id="a9652-102">Ühiskasutuses postkasti mahtu suurendada</span><span class="sxs-lookup"><span data-stu-id="a9652-102">Increase the size of a shared mailbox</span></span>
+# <a name="increase-the-size-of-a-shared-mailbox"></a><span data-ttu-id="7646b-102">Ühiskasutusega postkasti mahu suurendamine</span><span class="sxs-lookup"><span data-stu-id="7646b-102">Increase the size of a shared mailbox</span></span>
 
-<span data-ttu-id="a9652-103">Ühiskasutuses postkasti: vaikimisi suurus 50 GB ja 100 GB suurust saab suurendada määrate ühiskasutuses postkasti Exchange Online P2 litsentsi, (mis on lülitatud E3 ja E5 litsentsid).</span><span class="sxs-lookup"><span data-stu-id="a9652-103">You can increase the size of a shared mailbox from the default size of 50 GB to 100 GB by assigning the shared mailbox an Exchange Online P2 license (which is included within E3 and E5 licenses).</span></span> <span data-ttu-id="a9652-104">P2 litsentsi määrates [aktiivsed kasutajad](https://portal.office.com/adminportal/home)ühiskasutuses postkasti suurus automaatselt suureneb 15 minuti jooksul.</span><span class="sxs-lookup"><span data-stu-id="a9652-104">When you assign the P2 license to the shared mailbox in [Active users](https://portal.office.com/adminportal/home), the size will be automatically increased within 15 minutes.</span></span>
+<span data-ttu-id="7646b-103">Saate suurendada ühiskasutusse antud postkasti suurus 50 GB 100 GB, määrates ühiskasutusse antud postkasti Exchange Online P2 litsents (mis sisaldub E3 ja E5 litsentsid).</span><span class="sxs-lookup"><span data-stu-id="7646b-103">You can increase the size of a shared mailbox from the default size of 50 GB to 100 GB by assigning the shared mailbox an Exchange Online P2 license (which is included within E3 and E5 licenses).</span></span> <span data-ttu-id="7646b-104">Kui määrate P2 litsentsi ühiskasutusse antud postkasti [aktiivsed kasutajad](https://portal.office.com/adminportal/home), suurendatakse suurust automaatselt 15 minuti jooksul.</span><span class="sxs-lookup"><span data-stu-id="7646b-104">When you assign the P2 license to the shared mailbox in [Active users](https://portal.office.com/adminportal/home), the size will be automatically increased within 15 minutes.</span></span>

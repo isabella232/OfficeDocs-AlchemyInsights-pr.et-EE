@@ -1,9 +1,9 @@
 ---
-title: Ei saa valida kontakte Outlook.com-i meili koostamise
+title: Ei saa valida kontakte, kui koostamisel e-posti Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: b74cabb36a6214c81ba90004225e1c08eeb1b262
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518611"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711663"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="d4806-102">Kontakte ei saa valida, kui meili koostamise</span><span class="sxs-lookup"><span data-stu-id="d4806-102">Can't select contacts when composing email</span></span>
+# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="761fc-102">E-posti koostamisel ei saa kontakte valida</span><span class="sxs-lookup"><span data-stu-id="761fc-102">Can't select contacts when composing email</span></span>
 
-<span data-ttu-id="d4806-103">Uue meili koostamisel mõned kliendid ei näe oma kontaktide loendi **-** või **Cc** nuppu klõpsamisel.</span><span class="sxs-lookup"><span data-stu-id="d4806-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="d4806-104">Kontakti valimiseks Sisestage **et** või **koopia** väljad ja seotud kontaktid kuvatakse.</span><span class="sxs-lookup"><span data-stu-id="d4806-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>
+<span data-ttu-id="761fc-103">Uue meili koostamisel ei näe mõned kliendid nende kontaktide **loendit, kui** nad klõpsavad nuppe **Adressaat või koopia** .</span><span class="sxs-lookup"><span data-stu-id="761fc-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="761fc-104">Kontakti valimiseks alustage tippimist väljadele **Adressaat** või koopia **To** ja kuvatakse seotud kontaktid.</span><span class="sxs-lookup"><span data-stu-id="761fc-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>

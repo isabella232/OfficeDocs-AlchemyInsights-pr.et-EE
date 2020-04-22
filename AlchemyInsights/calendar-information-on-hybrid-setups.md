@@ -1,9 +1,9 @@
 ---
-title: 608 kalendriteabe hübriid seadistustesse
+title: 608 kalendri teave Hübriidseadistuse kohta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 76463159f18d3cfd03828f834454bad7b8dfc76f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c2a31c31905393a78817b21e6580b4c4d76c3aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518143"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712095"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="fb9a1-102">Kalendri vaba/hõivatud aja probleemid hübriid keskkonnas</span><span class="sxs-lookup"><span data-stu-id="fb9a1-102">Calendar free/busy issues in hybrid environments</span></span>
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="239af-102">Kalendri vaba/hõivatud probleemid hübriid keskkondades</span><span class="sxs-lookup"><span data-stu-id="239af-102">Calendar free/busy issues in hybrid environments</span></span>
 
-<span data-ttu-id="fb9a1-103">Kui kasutajad on näha kalendri vaba/hõivatud aja teavet hübriid keskkonnas probleeme, käivitage uuesti hübriid konfigureerimisviisard.</span><span class="sxs-lookup"><span data-stu-id="fb9a1-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="fb9a1-104">Lisateavet hübriid konfigureerimisviisard Vaata [hübriid konfigureerimisviisard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="fb9a1-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
+<span data-ttu-id="239af-103">Kui kasutajatel on probleeme näha kalendri vaba/hõivatud teavet hübriid keskkondades, käivitage hübriid-konfigureerimisviisard uuesti.</span><span class="sxs-lookup"><span data-stu-id="239af-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="239af-104">Hübriid-konfigureerimisviisard kohta lisateabe saamiseks vaadake hübriid- [konfigureerimisviisard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="239af-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
 
-<span data-ttu-id="fb9a1-105">Veaotsingu toiminguid hübriid keskkonnas, vt [tõrkeotsing hübriidjuurutuse](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="fb9a1-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
+<span data-ttu-id="239af-105">Hübriid keskkondades tõrkeotsingu juhiste saamiseks vaadake [tõrkeotsing hübriid juurutamine](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="239af-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
