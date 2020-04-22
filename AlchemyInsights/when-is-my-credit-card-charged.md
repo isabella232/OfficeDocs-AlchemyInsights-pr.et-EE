@@ -1,9 +1,9 @@
 ---
-title: Millal minu krediitkaart tuleb maksta?
+title: Millal on minu krediitkaart laetud?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: ba7ee6b1b683c04454e024e9c167fbdc91ea66b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558397"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765265"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Millal minu krediitkaart tuleb maksta?
+# <a name="when-is-my-credit-card-charged"></a>Millal on minu krediitkaart laetud?
 
-Esialgse ostu, võib kuluda kuni kaks päeva kulu tekkida.
+Esialgse ostu korral võib kulu tekkida kuni kaks päeva.
   
-Korduvad kulud tekivad ühel päeval on loodud.
+Korduvad tasud toimuvad ühe päeva jooksul pärast arve loomist.
   
-Kui tasu ei õnnestu, jätkab süsteem tasakaalu lahendada järgmise paari nädala jooksul. Saate uuendada makseandmed alati kindlustada tasuta katse on edukas. Lisateabe saamiseks vt [lisamine, värskendamine või eemaldamine krediitkaart või pangakonto Office 365 ettevõtteversioon](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Kui tasu ei õnnestu, püüab süsteem järgmise paari nädala jooksul tasakaalu tasakaalustada. Saate teha oma makseteabe värskendusi igal ajal, et kindlustada järgmise tasukatse edukas tegemine. Lisateabe saamiseks vaadake [Lisa, värskendage või eemaldage krediitkaardi või pangakonto Microsoft 365 äri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

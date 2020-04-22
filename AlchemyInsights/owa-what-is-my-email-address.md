@@ -1,25 +1,25 @@
 ---
-title: Mis on minu e-posti aadress Outlook veebis
+title: Mis on minu e-posti aadress Outlookis veebis
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 0dffe1ca5aaf9627869db9d8f7ba50343edb7753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f06176a4695d46bf3f8386be1a77705abf187112
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555625"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768181"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Mis on minu e-posti aadress Outlook veebis?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Mis on minu e-posti aadress Outlookis veebis?
 
-E-posti aadress on määratud teie töö- või. See näeb välja nagu ellen@contoso.onmicrosoft.com, ellen@contoso.edu või ellen@contoso.com. See töö- või koolikontoga konto on meiliaadress ja kasutate teenusekomplekti Office 365 sisselogimine töö või kooli kontole.
+Teie e-posti aadress on teile määratud teie töö või kooli poolt. See näeb välja nagu ellen@contoso.onmicrosoft.com, ellen@contoso.edu või ellen@contoso.com. See töö või kooli konto on e-posti aadress ja konto, mida kasutate sisselogimiseks Microsoft 365 töö või kooli.
 
-Töö või kool tarbeks erineb Microsofti konto. Microsofti konto kasutamiseks osutatavate teenuste puhul nagu Outlook.com, Xbox Live, Skype jpt.
+Teie töö-või koolikonto erineb teie Microsofti kontolt. Microsofti konto abil saate kasutada isiklikke teenuseid, nagu Outlook.com, Xbox Live, Skype ja muud.
 
-Lisateabe saamiseks vaadake [mis on minu kasutaja ID ja miks ma pean seda Office 365 Business?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Lisateabe saamiseks vaadake, [mis on minu kasutaja ID ja miks on vaja seda Microsoft 365 äri?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)

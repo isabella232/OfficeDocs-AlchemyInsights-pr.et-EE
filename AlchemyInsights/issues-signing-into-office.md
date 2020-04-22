@@ -1,5 +1,5 @@
 ---
-title: Office apps sisselogimisega probleeme
+title: Office ' i rakendustele sisselogimisega seotud probleemid
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 3622a3408b25b43090e9414ae5ffcfc2760264ee
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938190"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762982"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Office apps sisselogimisega probleeme
+# <a name="issues-signing-in-to-office-apps"></a>Office ' i rakendustele sisselogimisega seotud probleemid
 
-Office apps sisselogimise probleemide lahendamiseks proovige järgmist:
+Office ' i rakendustega sisselogimise probleemide lahendamiseks proovige järgmist.
 
-- Eemaldage kõik töö omanikud, välja arvatud mõjutatud konto, kasutades Windowsi sätted > **juurdepääsu tööl või koolis**.
-- [Selge Office mandaati](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) kasutades Windows Mandaadihaldur.<br/>
-    **Märkus:** Registri teed Office 2016 on muutunud 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Avage mõni Office'i rakendus, valige **faili** > **konto** > **Logi välja**. Seejärel sisse kasutajakontoga, kellel on kehtiv juhiluba. Üksikasjalikuma teabe saamiseks vt [kontode ametisse](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Mac, vaadake [Office 2016 for Mac app ei saa sisse logida](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Vigade ilmnemisel ühendamisel Office 365, Office 2013 kasutades lubada Office'i kliendi kaasaegne autentimise.
+- Eemaldage kõik töökontod, välja arvatud mõjutatud konto, kasutades Windowsi sätteid > **juurdepääsu töö või kooli**.
+- [Tühjendage Office ' i mandaat](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) , kasutades Windowsi mandaat Manager.<br/>
+    **Märkus:** Office 2016 registri teed on muutunud 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Avage Office ' i rakendus, valige **faili** > **konto** > **Logi välja**. Seejärel logige sisse, kasutades kehtivat litsentsi kasutajakontoga. Lisateavet vt teemast [Office’i kontod](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Maci kasutajad võiksid lugeda artiklit [Office 2016 for Maci rakendusse ei saa sisse logida](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Kui tõrked ilmneb samal ajal, kui ühendate Microsoft 365, kasutades Office 2013, lubage kaasaegne autentimine Office ' i klient.
 
-Lisateavet vaadake teemast
-- [Te ei saa sisse logida Office 365, Azure ja Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Ühenduse probleemid sisselogimine pärast update Office 2016 ehitada 16.0.7967 Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Kahjuks ei õnnestunud teise konto organisatsioonist kirjutatakse juba selles arvutis" asukoht](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Tõrkeotsingu sisselogimiseks Office kaasaegne autentimine kui kasutate ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+Lisateavet leiate teemadest
+- [Te ei saa sisse logida Microsoft 365, Azure või Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+- [Ühenduse probleemid sisselogimise pärast värskenduse Office 2016 ehitada 16.0.7967 Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
+- ["Kahjuks teine konto teie organisatsioonis on juba sisse logitud selles arvutis" Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
+- [Sisselogimise probleemide tõrkeotsing Office ' i kaasaegne autentimine ADFS kasutamisel](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
