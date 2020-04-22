@@ -1,9 +1,9 @@
 ---
-title: Aegunud tellimust
+title: Aegunud tellimus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665036"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714146"
 ---
-# <a name="expired-subscription"></a>Aegunud tellimust
+# <a name="expired-subscription"></a>Aegunud tellimus
 
-Tundub, et teil on mõni aegunud tellimused. Kui soovite jätkama, tuleb tellimus aktiveerida või uue ostu sooritada.
+Näib, et teil on üks või mitu aegunud tellimust. Kui soovite teenust jätkata, peate kordustellimuse uuesti aktiveerima või tegema uue ostu.
   
-**Uuesti aktiveerida**
+**Uuesti aktiveerimine**
   
-1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Minge halduskeskuses lehele **Arveldamine** \> [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Valige tellimus, mida soovite aktiveerida. Valige jaotises **arve** **uuesti aktiveerida**.
+2. Leidke tellimus, mille soovite uuesti aktiveerida. Valige jaotises **Arveldamine** suvand **Aktiveeri uuesti**.
 
-Kui te ei näe **uuesti** saadaval kaebuse, ühendust toega uuesti aktiveerida oma tellimust.
+Kui te ei näe toimingut **Aktiveeri uuesti** saadaolevana, helistage tellimuse uuesti aktiveerimiseks tugiteenuse töötajale.
 
-3. Kinnitage oma makseandmed. Saate värskendada oma olemasoleva makseteabe siin. Kui olete lõpetanud, sisestage makseviisi, valida **uuesti aktiveerida**.
+3. Kinnitage maksete üksikasjad. Siin saate värskendada olemasolevat makseteavet. Kui olete makseviisi sisestamise lõpetanud, valige suvand **Aktiveeri uuesti**.
 
-Lisateabe saamiseks vaadake [uuesti aktiveerida oma tellimust](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
-**Uue ostu**
+**Uue ostu tegemine**
   
-1. Administreerimiskeskuses, minge **arved** \> [Ost](https://go.microsoft.com/fwlink/p/?linkid=868433) teenused.
+1. administreerimiskeskuses lehele **arveldamise** \> [Ostuteenused](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Valige tellimus, mida soovite osta, siis vali **osta**.
+2. Valige tellimus, mida soovite osta, seejärel valige **osta**.
 
-3. Sisestage litsentsi vaja ja valida, kas maksta iga kuu või kogu aasta. Valige, kas soovite automaatselt määrata litsentside kõigile, kes on praegu litsentsi. Seejärel valida, **vaadake nüüd**.
+3. Sisestage vajalik arv litsentse ja valige, kas maksta iga kuu või terve aasta. Valige, kas soovite automaatselt määrata litsentsid kõigile, kellel pole praegu litsentsi. Seejärel valige **Vaata nüüd**.
 
-4. Järgige ülejäänud samme, et lõpetada vaadata läbi.
+4. Täitke kõik ülejäänud sammud, et väljaregistreerimine lõpule viia.
 
-Lisateabe saamiseks vt [teise tellimuse](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Lisateabe saamiseks vaadake [osta teine tellimus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

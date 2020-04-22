@@ -1,9 +1,9 @@
 ---
-title: Viga saatmisel e-post blokeeritud SpamHaus
+title: SpamHaus blokeeritud e-posti saatmise tõrge
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 39213f6f1b96c2bef9ea071f43c38766debf64d1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ff4f7a155fe74f5b42a1bd43e67ef0a751d7fbd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527128"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714254"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Viga saatmisel e-post: kliendi vastuvõtva blokeerida Spamhaus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Tõrge meili saatmisel: kliendi hosti blokeeritud kasutades SpamHaus
 
-Saadetud sõnumi IP-aadress on nende omanduses [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)plokk. Blokeeritud Spamhaus võib olla ohustatud kontod ohus avalik IP-aadress ja Interneti-teenuse pakkuja (ISP) poliitika masinad. Võimalikud parandused on:
+Sõnumi saatnud IP-aadress on blokeeriloendis, mille omanik on [SpamHaus](https://go.microsoft.com/fwlink/p/?linkid=123245). SpamHaus blokeeritavate põhjuste hulka kuuluvad ohustav konto, rikutud masinad, mis jagavad avalikku IP-aadressi ja Interneti-teenuse pakkuja (ISP) poliitikaid. Võimalikud parandused on:
   
-- Blokeeritud sissetulevad sõnumid Office 365 kui teil kontrollida allikas e-posti server, peate põhjuse ja eemaldada plokk Spamhaus veebilehel.
+- Blokeeritud sissetulevad sõnumid, kus te kontrolli allika meiliserverit, peate kindlaks tegema põhjuse ja eemaldama Block SpamHaus veebisaidilt.
 
-- Blokeeritud sissetulevate teadete kui allika IP-aadress kuulub kellelegi teisele Office 365 aadressi omanik peab eemaldama ploki Spamhaus veebilehel. Kui IP-aadress on poliitika Blokeeri nimekirja (PBL), omanik eri staatilist IP-aadressi määrata või eemaldada aadress on PBL.
+- Blokeeritud sissetulevate sõnumite puhul, kus allika IP-aadress kuulub kellelegi teisele, peab aadressi omanik eemaldama SpamHaus veebisaidilt ploki. Kui IP-aadress on poliitika Block List (PBL), omanik saab määrata teise staatilise IP-aadressi või eemaldada aadress PBL.
 
-- Blokeeritud väljaminevad sõnumid teie Office 365 domeeni, saate selle tõrke, kui sõnumid on viidud läbi 3. osapoole teenust. WHOIS lookup tööriist abil saate leida blokeeritud IP aadressi omanik.
+- Blokeeritud väljaminevate sõnumite domeenist, mis on ühendatud Microsofti, saate selle tõrke, kui sõnumid on marsruutitud kaudu 3rd Party teenust. WHOIS otsinguriista abil saate leida blokeeritud IP-aadressi omanik.

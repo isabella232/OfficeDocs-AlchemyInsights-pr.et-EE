@@ -1,9 +1,9 @@
 ---
-title: Ava Explorer on keelatud
+title: Avatud Explorer nupp on keelatud
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/19/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 9483dbaa45c8c3a5c59fb8a318bf6564dd7b1b6f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dd23a4228c930cc7c934c2943cc1e1080da253df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548351"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713102"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Selle Ava Explorer on keelatud
+# <a name="the-open-with-explorer-button-is-disabled"></a>Nupp Ava Exploreriga on keelatud
 
-- Sirvige Internet Explorer 10 või Internet Exploreri 11 OneDrive'i või SharePointi asukohta. Nupp ei ole kooskõlas veebibrauseritest.
+- Sirvige SharePointi või OneDrive ' i asukohta Internet Explorer 10 või Internet Explorer 11. Nupp ei ühildu teiste veebibrauseritega.
     
 > [!NOTE]
-> File Exploreris Raamatukogu avamine on mugav, kui soovite kopeerida või teisaldada mitu faile ja kaustu, kui, kuid kui soovite regulaarselt töötada raamatukogus, soovitame sünkroonimist. Rohkem abi ja muid tõrkeotsingu Ava File Explorer vt [Exploreris avatud](https://go.microsoft.com/fwlink/?linkid=871665). Sünkroonimise häälestamise kohta leiate teemast [uue OneDrive'i sünkroonimisrakenduse sünkroonimine SharePointi faile](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Teegi avamine File Exploreris on mugav, kui teil on vaja mitu faili ja kausta korraga kopeerida või teisaldada, kuid kui soovite teegis regulaarselt töötada, soovitame seda sünkroonida. Lisateabe saamiseks ja muude probleemide tõrkeotsingu sooritamiseks File Exploreris vaadake [avatud Exploreris](https://go.microsoft.com/fwlink/?linkid=871665). Sünkroonimise seadistamise kohta teabe saamiseks vaadake [SharePointi failide sünkroonimine uue OneDrive ' i sünkroonimiskliendiga](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

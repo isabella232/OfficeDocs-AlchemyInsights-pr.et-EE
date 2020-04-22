@@ -1,9 +1,9 @@
 ---
-title: Sisendkausta reegli tegevuse auditilogid tuvastada
+title: Tuvastada sisendkausta reegli tegevuse auditilogi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539160"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716420"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Sisendkausta reegli tegevuse auditilogid tuvastada
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Tuvastada sisendkausta reegli tegevuse auditilogi
 
-Office 365 turvalisuse & vastavuse Center auditi logifaili Otsi saate vaadata sisendkausta reegel sündmused (luua, muuta ja kustutada sisendkausta reeglid).
+Auditilogi otsingut saate kasutada Microsoft 365 Security & vastavuse keskus sisendkausta reegli sündmuste kuvamiseks (loomine, muutmine ja kustutamine sisendkausta reeglid).
 
-1. Logige sisse [Office 365 & vastavuse Turvakeskus](https://protection.office.com/).
+1. Logige sisse [Microsoft 365 Security & vastavuse Center](https://protection.office.com/).
 
-2. Mine **Otsi** > **auditi logifaili** otsingulehte.
+2. **otsingulehele otsingu** > **auditilogi** .
 
-3. Valige kuupäevavahemik väljadele **Alguskuupäev** ja **lõppkuupäev** .
+3. Saate **valida kuupäevavahemiku alguskuupäeva ja** **lõppkuupäeva** väljadel.
 
-4. Kontrollige jaotises **Exchange'i postkasti tegevust**, **tegevuse** väärtuseks on **New-InboxRule loomine/muutmine/luba/Keela reegel**.
+4. **Exchange ' i postkasti tegevuste**, veenduge, et välja **Tegevused** väärtuseks on seatud **Uus InboxRule luua/muuta/lubada/keelata sisendkausta reegel**.
 
-5. Klõpsake nuppu **Otsi**.
+5. Klõpsake suvandit **Otsing**.
 
-Tulemused, valige audit kirje. Hüpik üksikasjad nuppu **Lisateave**. Sisendkausta reegli sätete kohta teabe kuvatakse väljal **Parameetrid** .
+Valige tulemustel auditikirje. Üksikasjade hüpik, klõpsake **rohkem teavet**. Teave sisendkausta reegli sätete kohta kuvatakse väljal **Parameetrid** .
 
-Lisateabe saamiseks vt [Determining kui sisendkausta reegel loonud kasutaja](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Lisateabe saamiseks vaadake määratlemine, [kui kasutaja lõi sisendkausta reegel](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

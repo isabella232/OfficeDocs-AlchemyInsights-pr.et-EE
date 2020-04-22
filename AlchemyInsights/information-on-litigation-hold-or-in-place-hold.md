@@ -1,32 +1,32 @@
 ---
-title: Otsuse ootel või on koht kätte
+title: Teave kohtuvaidluse ootel või kohapeal ootel
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498951"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711015"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Kohtuvaidluste trümmid ja installige omab
+# <a name="about-litigation-holds-and-in-place-holds"></a>Kohtuvaidlused on ja in-Place hoiab
 
-- Kohaldada kohtuvaidlused ootele või in-koht kuulub postkasti, [Exchange Online'i lepingu 2 litsents](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) on nõutav. Kui teil on muid plaane, määrata konto eraldi [Seostuvad](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) litsentsi. 
+- Kohtuprotsessi ootel või in-Place hoidke postkasti, on vaja [Exchange Online ' i leping 2 litsents](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Kui teil on mõni muu plaan, määrake kontole eraldi [Exchange Online ' i arhiivimislitsents](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) . 
     
-- **Otsuse ootel lubada** ühe kasutaja, järgige kirjeldatud [siin](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Kui otsuse ootelepanek on lubatud, kõik postkasti sisu pannakse ootele.
+- **Et lubada kohtuvaidlus** ühe kasutaja jaoks, järgige [siin](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)kirjeldatud juhiseid. Kui kohtuvaidluse ootel on lubatud, paigutatakse kogu postkasti sisu ootel.
     
-- Mis **kohapeal kinni ühe kasutajad** või kätte pöörduda **kõigi postkastide kogu ettevõttele**, saate säilituspoliitikate keskel Office 365 turbe ja nõuetele vastavuse järgides selle järgmiselt kirjeldatud [siin](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- Rakendada kohapeal **hoidke ühe kasutaja** või hoidke **kõik postkastid kogu organisatsioonis**, saate Säilituspoliitikad Microsoft 365 turvalisuse ja vastavuse keskus, järgides [siin](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )kirjeldatud samme.
     
     > [!NOTE]
-    > Org kogu säilitamise poliitika, lisatakse uusi kasutajaid automaatselt ootele panna. 
+    > Org-Wide Säilituspoliitikad lisatakse uued kasutajad automaatselt Hold. 
   
-- Vaata või leida postkasti sisu, mis on pandud ootele, kasutage **eDiscovery Otsi ja ekspordi**. **EDiscovery Otsi ja ekspordi**kohta leiate jälgida selle järgmiselt kirjeldatud [siin](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- Postkasti sisu, mis on paigutatud hoida või avastada, kasutage **eDiscovery otsing ja eksport**. **EDiscovery otsingu ja ekspordi**kasutamise kohta teabe saamiseks järgige [siin](https://docs.microsoft.com/office365/securitycompliance/export-search-results)kirjeldatud juhiseid.
     
 

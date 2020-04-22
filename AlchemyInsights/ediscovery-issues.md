@@ -1,9 +1,9 @@
 ---
-title: 1829-e-probleemid
+title: 1829-eDiscovery-probleemid
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33544543"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714474"
 ---
-# <a name="ediscovery-issues"></a>eDiscovery küsimusi
+# <a name="ediscovery-issues"></a>eDiscovery probleemid
 
-Otsin eDiscovery Valikud? Ümber kujundada navigation turvalisuse & vastavuse Center, eDiscovery Valikud juba liigutada.  EDiscovery Valikud leiate vastavuse Center põhineb mida sa üritad teha turvalisuse & järgmistes asukohtades:
+Kas otsite eDiscovery suvandeid? Uuesti kujundatud navigeerimine turvalisuse & vastavuse keskus, võib teie eDiscovery suvandid on teisaldatud juba.  EDiscovery suvandite leiate järgmistes asukohtades Security & vastavuse keskus põhineb see, mida te üritate teha:
 
-- Kasutage sisu otsingut hankida sisu ettevõtte e-posti, dokumente, Skype Business vestlused ja siis ekspordi andmed - Mine **Otsi > otsing**
+- Kasutage Sisuotsingut, et otsida oma organisatsiooni sisu e-posti, dokumentide, Skype ' i ärivestluste ja seejärel eksportida andmed-Avage **otsing > sisu otsing**
 
-- Luua eDiscovery tellimisel jaoks sisu ja koht ootel - otsida **eDiscovery > eDiscovery** minna
+- Looge eDiscovery juhtum, et otsida sisu ja asetada sisu asukohad hoidke-Mine **ediscovery > eDiscovery**
 
-- Otsast-otsani täiustatud e-juurdlus uue lahenduse abil saate tuvastada ja suhelda hooldajad, säilitada hooldaja andmed seotud kohtuasi, koguda andmeid ja lisada see keskmiseks komplekt ja vähendada andmeid kasutades analytics praagitud mittevajalikud andmed ja keskenduda kõige asjassepuutuvaid - minge **eDiscovery > täiustatud e-juurdlus**
+- Kasutage uut end-to-end Advanced eDiscovery lahendust, et tuvastada ja suhelda kontohalduriga, säilitada teenindusjuhtumiga seotud andmed, koguda andmeid ja lisada see läbivaatusekomplekti, ja vähendada andmete mahtu, rakendades analüüsi mittevajalikke andmeid ja keskenduda sellele, mis on juhtumis kõige asjakohasam-Mine **ediscovery > Advanced eDiscovery**
 
-Lisateavet vaadake teemast
+Lisateavet leiate teemadest
 
-- [Office 365 otsing](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Sisu otsing](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-- [eDiscovery juhtudel turvalisuse & vastavuse Center](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [eDiscovery juhtudel turvalisuse & vastavuse keskus](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- [Täiustatud e-juurdlus lahendus Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Täpsem eDiscovery lahendus Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)

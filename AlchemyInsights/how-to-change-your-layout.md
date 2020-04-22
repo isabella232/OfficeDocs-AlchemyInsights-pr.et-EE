@@ -1,9 +1,9 @@
 ---
-title: 8000059 kuidas muuta
+title: 8000059 kuidas muuta oma paigutust
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: be859fdc896f1e0489f31ea8f5f9a16a0ceeb6b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 583f13900746f8fbc722bfceecaa56052efab369
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541699"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711195"
 ---
-# <a name="how-to-change-your-layout"></a>Kuidas muuta
+# <a name="how-to-change-your-layout"></a>Paigutuse muutmine
 
-See on lihtne, Outlook.com-i sätteid muuta nii, et see näeb välja ja käitub, kuidas peaks välja nägema. **Levinud võimalused tööriistariba seaded.**
+See on lihtne muuta seadeid Outlook.com nii et see näeb välja ja käitub nii, nagu soovite. Valige tööriistaribal **sätted** kõige populaarsemaks valikuteks.
 
-Kõik paigutuse suvandid kuvamiseks valige **seaded** > **Mail** > [**paigutus**](https://outlook.live.com/mail/options/mail/layout).
+Kõigi paigutusvalikute nägemiseks valige **sätted** > **meili** > [**paigutus**](https://outlook.live.com/mail/options/mail/layout).
   

@@ -12,19 +12,19 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665612"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711987"
 ---
-# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues Outlooki kalendri
+# <a name="isues-with-calendar-sharing-in-outlook"></a>Outlooki kalendrite ühiskasutust isuvid
 
-- Kui te ei näe teistes kalendrites vaba/hõivatud teavet või kui teised inimesed ei näe teie kalendris vaba/hõivatud teavet, kasutage [Microsoft Office 365 tugi- ja taasteteenuste abilist](https://diagnostics.office.com/).
+- Kui te ei näe kalendri vaba/hõivatud teavet teiste kalendrite või kui teised inimesed ei näe vaba/hõivatud teavet kalendris, kasutage [Microsofti tugiteenuse ja taastamise abimees microsoft 365](https://diagnostics.office.com/).
 
-**Lisavahendeid:**
+**Lisaressursid:**
 
 - [Outlooki kalendri ühiskasutus](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-- [Jaga oma kalendrit Outlook Web äri](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Jagage oma kalendrit Outlookis veebis äritegevusele](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

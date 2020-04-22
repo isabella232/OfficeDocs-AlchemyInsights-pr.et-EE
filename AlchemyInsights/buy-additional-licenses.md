@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664712"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712167"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Osta täiendavaid Office 365 litsentsid
+# <a name="buy-additional-licenses"></a>Osta täiendavaid litsentse
 
-1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Minge halduskeskuses lehele **Arveldamine** \> [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Valige tellimus, mida soovite lisada litsentse ja valige **Add/Remove litsentsid**.
+2. Leidke tellimus, millele soovite litsentse lisada, ja valige siis **Lisa/eemalda litsentsid**.
 
-    [Aga kui ma ei näe ja eemaldamise linki?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Mis siis, kui ma ei näe linki Lisa/eemalda?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. **Kokku litsentsid** väljale Sisestage selle tellimuse jaoks soovitud litsentside koguarv ja valige **Edasta muuta**. Näiteks kui teil on 100 litsentsid ja tuleb lisada veel 5, sisestage 105.
+3. Sisestage väljale **kokku litsentsid** selle kordustellimuse jaoks vajalik litsentside koguarv ja seejärel valige **Edasta muutus**. Näiteks kui teil on 100 litsentsid ja peate lisama 5 rohkem, sisestage 105.
 
     > [!NOTE]
-    > Kui maksate tellimuse krediitkaardi või pangakonto, uued litsentsid, mida osta on saadaval kohe pärast tellimuse kinnituse. Kui maksate arvega, peate enne uue litsentsid on saadaval kasutada krediidilimiidi kontrollimise ootama.
+    > Kui maksate oma tellimuse eest krediitkaardiga või pangakontoga, on kõik ostetud uued litsentsid saadaval kohe pärast tellimuse kinnituse saamist. Kui maksate arve alusel, peate enne uute litsentside kasutamist ootama kreeditkontrolli.
 
-Lisateabe saamiseks vt [osta litsentse oma Office 365 tellimusega](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Lisateabe saamiseks vaadake [osta litsentsid Microsoft 365 Business tellimus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
 **Täiendavad ressursid**
 
-- [Määrata kasutajatele Office 365 Business litsentsid](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Litsentside määramine kasutajatele Microsoft 365 Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

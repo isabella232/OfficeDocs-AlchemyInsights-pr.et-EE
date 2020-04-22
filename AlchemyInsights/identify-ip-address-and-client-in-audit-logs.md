@@ -1,9 +1,9 @@
 ---
-title: IP-aadress ja kliendi auditilogi
+title: IP-aadressi ja kliendi tuvastamine auditiloogides
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539025"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716384"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-aadress ja kliendi auditilogi
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-aadressi ja kliendi tuvastamine auditiloogides
 
-Office 365 kasutaja või administraator tegevus vastab IP-aadress kuvatakse auditilogide. Kliendi andmed ka logitud. Siin on sammud teha kindlaks sellise teabe
+Auditilogi kuvatakse IP-aadress, mis vastab tegevusele Microsoft 365 kasutaja või administraator. Samuti logitakse klienditeave. Siin on juhised sellise teabe tuvastamiseks
 
-1. Logige sisse [Office 365 & vastavuse Turvakeskus](https://protection.office.com/).
+1. Logige sisse [Microsoft 365 Security & vastavuse Center](https://protection.office.com/).
 
-2. Mine **Otsi** > **auditi logifaili** otsingulehte.
+2. **otsingulehele otsingu** > **auditilogi** .
 
-   Kui olete huvitatud konkreetse töö, valige see **tegevus** . Kui ei, siis kõik tegevused tuleb tagasi valitud kasutaja (vaikesäte).
+   Kui olete huvitatud konkreetsest tegevusest, valige see **tegevuste** loendist. Kui ei, siis tagastatakse kõik tegevused valitud kasutajale (vaikesäte).
 
-   **Märkus**: teatud tegevused ei pruugi **tegevuste** menüü; Aga need auditi üksused tagasi kui **Näita tulemust kõik tegevused** on valitud (vaikesäte).
+   **Märkus**: teatud tegevused ei pruugi olla saadaval menüüs **Tegevused** ; kuid need auditiüksused tagastatakse, kui on valitud **kõigi tegevuste Kuva tulemid** (vaikesäte).
 
-3. Määrake kasutajanimi väljale **Kasutajad** valida tegevuseks sobiv kuupäevavahemik ja klõpsake nuppu **Otsi**.
+3. Määrake kasutajanimi väljal **Kasutajad** , valige tegevuse jaoks sobiv kuupäevavahemik ja klõpsake suvandit **Otsing**.
 
-Tulemused, näete IP-aadressi, mille puhul tulemuste paanil. Valige auditikirje üksikasjaliku teabe **üksikasjad** hüpik (nt klient, kasutaja, et läbi tegevuse, jne.).
+Tulemustes näete tulemuste paanil selle tegevuse IP-aadressi. Valige auditiloend üksikasjaliku teabe kuvamiseks **üksikasjade** hüpik (nt. Klient, kasutaja, kes tegi toimingu vms).
 
-Lisateabe saamiseks vt [ohustatud konto juurdepääsuks arvuti IP-aadressi leidmine](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Lisateabe saamiseks vaadake [kahjustatud kontole juurdepääsuks kasutatava arvuti IP-aadressi leidmist](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

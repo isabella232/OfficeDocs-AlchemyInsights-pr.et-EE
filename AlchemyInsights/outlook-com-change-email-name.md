@@ -1,9 +1,9 @@
 ---
-title: Outlook.com-i e-posti nime muutmine
+title: Muuda oma e-posti nime Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e1e6f476833bbb9f6830217c661176c15d440a4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537453"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712886"
 ---
 # <a name="change-your-email-name"></a>E-posti nime muutmine
 
-Kui teil on üks Outlook.com-i meiliaadress ja soovite muuta nime adressaadid näevad teie kirju:
+Kui teil on üks Outlook.com e-posti aadress ja soovite muuta nime adressaadid näevad teie sõnumid:
   
-1. Valige kell lehe paremas ülanurgas kontopilti.
-2. Seejärel valige **Minu profiil**.
-3. Valige **Muuda nimi** muuta ja valige **Salvesta**.
+1. Valige lehe paremas ülanurgas oma konto pilt.
+2. Valige **Minu profiil**.
+3. Muudatuste tegemiseks valige **Redigeeri nime** ja valige **Salvesta**.
 
-Palun lubage kuni 24 tundi teie profiilinime sisse muudatused.
+Palun lubage kuni 24 tundi muudatuste jõustumiseks oma profiilinime.
   
-Kui teil on mitu e-posti pseudonüüm või aadressi, mis on ühendatud teie Outlook.com-i konto, saate oma aadressid ühte e-posti saata.
+Kui teil on rohkem kui üks e-posti pseudonüüm või aadress, mis on ühendatud teie Outlook.com kontoga, võite saata meili mis tahes aadressidest.
   
-1. Sõnumi koostamisel saate valida "..." Koosta akna allservas.
-1. Valige **Kuva saatja** saatja näha.
-1. Eespool, reale **valida** ja valida, millist meiliaadressi, mida soovite kasutada.
+1. Sõnumi koostamisel valige "..." koostamise akna allosas.
+1. Valige käsk **Näita alates** , et näha rida.
+1. Valige **väljalt** kuni rida valik ja valige, millist e-posti aadressi soovite kasutada.
 
-Lisateavet saate [saata e-posti saatja-aadressi Outlook.com-is](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateabe saamiseks vaadake [saatke e-posti aadress Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

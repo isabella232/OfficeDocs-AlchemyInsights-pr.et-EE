@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9a2a6eb8736c2fd9b4b3cdc548461d5b15feb4a4
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682099"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712634"
 ---
 # <a name="banned-sending-ip"></a>Keelatud saatmise IP
 
-Office 365 saatmisel saatja võib ilmneda see tõrge. Saatja peab külastama https://sender.office.com ja järgima juhiseid.  Kui nad ei saa kontrolli e-posti portaali, lasta neil kontrollida rämpsposti kausta ja/või proovige teise e-posti aadress.
+Kui saadate e-posti Microsoft 365, saatja võib ilmneda see tõrge. Saatja peab külastama https://sender.office.com ja järgima juhiseid.  Kui nad ei saa kontrolli e-posti portaali, lasta neil kontrollida rämpsposti kausta ja/või proovige teise e-posti aadress.

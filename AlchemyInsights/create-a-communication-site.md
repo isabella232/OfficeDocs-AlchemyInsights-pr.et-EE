@@ -2,18 +2,18 @@
 title: Suhtlussaidi loomine
 ms.author: pebaum
 author: pebaum
-ms.date: 11/13/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: cb5207ef7348f0c7728d2752d1a7196dc712b566
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: efd118352e2f7a137a489c69956b3eac11f1ffb7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049909"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715592"
 ---
 # <a name="create-a-communication-site"></a>Suhtlussaidi loomine
 
@@ -23,7 +23,7 @@ SharePoint Online ' i suhtlussaidi loomiseks tehke järgmist.
     
 2. SharePointi lehe ülaosas klõpsake nuppu **Loo sait** ja valige **suhtlussait**. Järgige saidi loomise viisardi juhiseid. 
     
- **Märkus**: kui te ei näe võimalust **luua saidi**, Iseteenindav saidi loomine võib keelata Office 365. Meeskonnatöö saidi loomiseks pöörduge oma organisatsiooni Office 365 haldava isiku poole. Kui olete rentniku administraator, vaadake [hallata saidi loomine SharePoint Online ' i, et lubada Iseteenindav saidi loomine oma organisatsiooni.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Märkus**: kui te ei näe võimalust **luua saidi**, Iseteenindav saidi loomine võib olla keelatud. Meeskonnatöö saidi loomiseks pöörduge oma organisatsiooni Microsoft 365 haldava isiku poole. Kui olete rentniku administraator, vaadake [hallata saidi loomine SharePoint Online ' i, et lubada Iseteenindav saidi loomine oma organisatsiooni.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
  **Märkus:** Kui proovite luua Suhtlussaiti ja URL-i lisatakse juhuslike numbritega, on tõenäoline, et sama URL-i sait on SharePointi keskkonnas juba olemas või see on kustutatud ja kustutatud saitidel (prügikastis) endiselt olemas. Kasutage [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) prügikasti hindamiseks ja [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) saidi eemaldamiseks prügikastist. 
   

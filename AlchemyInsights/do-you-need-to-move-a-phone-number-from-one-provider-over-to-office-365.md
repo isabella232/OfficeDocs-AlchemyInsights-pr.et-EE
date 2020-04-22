@@ -1,5 +1,5 @@
 ---
-title: Kas vajate kolida telefoninumbri ühelt Office 365?
+title: Kas peate teisaldanud telefoninumbri ühelt teenusepakkujalt Microsoftile?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 77d5699e69e625e03262b8472421e240e5a2e723
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664676"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714910"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-office-365"></a>Kolida teise pakkuja telefoninumber Office 365
+# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>Telefoninumbri teisaldamine teiselt teenusepakkujalt Microsoftile
 
-Kas vajate kolida telefoninumbri teise pakkuja Office 365? [Halda telefoninumbreid oma asutuse](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)leiate telefoninumbrid eri riikide ja piirkondade jaoks. Valida teie riigis või regioonis numbrite teisaldamise kohta teabe leidmiseks. 
+Kas teil on vaja liigutada telefoninumbrit teiselt teenusepakkujalt Microsoftile? Erinevate riikide ja regioonide telefoninumbrid leiate [oma organisatsiooni telefoninumbrite haldamisel](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). Numbrite ülekandmise kohta teabe leidmiseks valige oma riik või regioon. 
   

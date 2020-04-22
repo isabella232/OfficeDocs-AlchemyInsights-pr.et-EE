@@ -1,40 +1,40 @@
 ---
-title: Järelevalve juurdepääsu
+title: Tingimusjuurdepääsu jälgimine
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538737"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713714"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Järelevalve juurdepääsu Exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>Exchange ' i tingimusjuurdepääsu jälgimine
 
-Saavad juurdepääsu kasutajad saavad selle ettevõtte juurdepääsu nõuetele ei vasta. Probleemi lahendamiseks soovitame ühte või mitut järgmistest lahendustest:
+Tingimusjuurdepääsu sihtkasutajad saavad meilimeili, kui need ei vasta teie organisatsiooni juurdepääsunõuetele. Probleemi lahendamiseks soovitame ühte või mitut järgmistest lahendustest:
   
-- Kui seade on eeldada, et olla kaasatud, nõustada ettevõtte portaali rakendust ja veenduge, et see on ettevõtte portaali kasutaja. Kui seda pole, peaks kasutaja seadet registreerida.
+- Kui eeldatakse, et seade on registreeritud, soovitame kasutajal minna ettevõtteportaali rakendusse ja veenduda, et see kuvatakse ettevõtteportaalis. Kui ei ole, kasutaja peaks registreeruda seade.
     
-- Minge Azure'i portaal **Intune \> seade vastavust**. **Kuvari** all klõpsake **seadme vastavust**. Saate vaadata oma seadme vastavuse aruandes veendumaks, et kasutaja seade on märgitud vastavuses. 
+- Azure ' i portaal minna **Intune \> seadme nõuetele**. Klõpsake **Monitor** jaotises monitor **seadme vastavus**. Vaadake seadme vastavusaruannet veendumaks, et kasutaja seade on märgitud vastavaks. 
     
-- Minge Azure'i portaal **Intune \> seade vastavust**. Klõpsake jaotises **Halda**ja **poliitika**. Täitmise poliitika loendis kontrollida, et profiil on oma kasutaja seadmele määratud. Kui ühtegi profiili on määratud, siis Intune ei saa kinnitada seadme vastavust oleku. 
+- Azure ' i portaal minna **Intune \> seadme nõuetele**. Klõpsake jaotises **Halda** **poliitikad**. Vastavuse poliitika loendis veenduge, et profiil on määratud teie kasutaja seadmesse. Kui ühtegi profiili pole määratud, ei saa Intune kinnitada seadme vastavusolekut. 
     
-- Muuta kasutaja juurdepääsu määramine.
+- Redigeerige kasutaja tingimusjuurdepääsu määramist.
     
-1. Minge Azure'i portaal **Intune \> juurdepääsu \> poliitika**
+1. Azure ' i portaal minna **Intune \> tingimusjuurdepääsu \> poliitikad**
     
-2. Valige loendist reeglid
+2. Valige loendist soovitud poliitika
     
-3. Klõpsake suvandit **kasutajad ja rühmad**
+3. Klõpsake valikul **kasutajad ja rühmad**
     
-4. Keegi poliitika suunata need lisada **kaasamisloendis** . Tagamaks, et isik on välja jäetud poliitikast, lisada need **välistada** nimekirja. 
+4. Teatud poliitika kellelegi sihtimiseks lisage need **kaasamisloendisse** . Et tagada, et inimene on poliitikast välja jäetud, lisage need **välisnimekirja** . 
     
-Loe edasi: [Monitor tingimusjuurdepääsuseadmete kuidas](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Loe lähemalt: [Kuidas jälgida tingimusjuurdepääsu seadmed](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

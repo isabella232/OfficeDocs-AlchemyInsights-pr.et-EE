@@ -1,9 +1,9 @@
 ---
-title: Office 365 tellimuse tühistada
+title: Tühista Microsoft 365 tellimus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665504"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711555"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Office 365 tellimuse tühistamine?
+# <a name="cancelling-your-microsoft-365-subscription"></a>Microsoft 365 tellimuse tühistamine?
 
-Meil on kahju, et lahkute, kuid teie valikud tühistada tellimus:
+Meil on kahju näha, et te lähete, kuid siin on teie võimalusi tühistada oma tellimus:
   
-- Kui sa oled uuringu klient, ei ole midagi üles öelda. Uuringute tellimine lõpeb automaatselt kui te makseviisi.
+- Kui olete prooviversiooni klient, pole midagi tühistada. Prooviversiooni tellimused aeguvad automaatselt, kui te ei esita maksemeetodit.
 
-- Kui teil on vähem kui 25 määratud litsentse, saab online tellimuse tühistada. Mine **arved** \> [toodete & teenuseid](https://go.microsoft.com/fwlink/p/?linkid=842054). Valige jaotises **sätted & meetmete** **loobumine**.
+- Kui teil on vähem kui 25 määratud litsentsi, saate tellimuse veebis tühistada. Avage \> [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054). **Billing** Jaotises **sätted & toimingud** valige **Tühista tellimus**.
 
-- Kui teil on rohkem kui 25 määratud litsentse, te võite eemaldada kasutajaid enne, on vähem kui 25 või pidage nõu tehnikuga "anna meile helistada" suvandi abil.
+- Kui teil on rohkem kui 25 määratud litsentsid, saate eemaldada kasutajaid enne, kui teil on vähem kui 25, või kasutage "Olgem helistada" võimalus rääkida tugiteenuse insener.
 
-Lisateabe saamiseks vaadake [oma tellimuse tühistada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Lisateavet leiate jaotisest [tellimuse tühistamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

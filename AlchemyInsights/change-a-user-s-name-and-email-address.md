@@ -1,5 +1,5 @@
 ---
-title: Muuta kasutaja nimi ja aadress
+title: Kasutaja nime ja meiliaadressi muutmine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 833e4142356a02b23e2465273bf63c42ee7e4f5b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665396"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715772"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Muuta kasutaja nimi ja aadress
+# <a name="change-a-users-name-and-email-address"></a>Kasutaja nime ja meiliaadressi muutmine
 
-Kasutaja nimi ja meiliaadress Office 365 muutmine on lihtne. **Kasutajatele** minna \> [Aktiivseid kasutajaid](https://go.microsoft.com/fwlink/p/?linkid=834822) lehel ja valige oma teabe redigeerimiseks. Samuti saate selle artikli üksikasjalikud juhised:
+Kasutaja nime ja e-posti aadressi muutmine Microsoft 365 on lihtne. lehele **kasutajate** \> [aktiivsed kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) ja valige nende teabe redigeerimiseks kasutaja. Seda artiklit saate kasutada ka samm-sammult juhiste saamiseks.
   
-[Office 365 nimi ja e-posti aadressi muutmine](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+[Kasutajanime ja e-posti aadressi muutmine Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
- **Märkus**: kui kasutaja peamist meiliaadressi muuta oma vana e-posti aadress ikka kehtib (see toimub automaatselt) meili vastuvõtmiseks. Kui teie organisatsioonis on hübriid olekus, kõik e-posti ja kasutaja nime muutused tuleb teha asutusesisese Active Directory ja seejärel sünkroonitud pilve.
+ **Märkus**: kui muudate kasutaja peamine e-posti aadress, nende vana e-posti aadress kehtib ikka saada e-posti (see juhtub automaatselt). Samuti, kui teie organisatsioon on hübriid olekus, kõik e-posti ja kasutajanimi muudatused tuleb teha asutusesisese Active Directory ja seejärel sünkroonida pilve.

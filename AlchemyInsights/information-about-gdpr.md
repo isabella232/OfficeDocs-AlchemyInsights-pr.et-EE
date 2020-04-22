@@ -1,8 +1,8 @@
 ---
-title: Teavet Üldmäärus
+title: Teave GDPR-i kohta
 ms.author: pebaum
 author: pebaum
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 5d65ee9d648360c47f400ed2935c118086e8e0c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13b8371f8e8c4afa54f7b33eadbf2f42db6b5eca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499203"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711087"
 ---
-# <a name="information-about-gdpr"></a>Teavet Üldmäärus
+# <a name="information-about-gdpr"></a>Teave GDPR-i kohta
 
-- Alustamine ning [teenuse usalduse portaali.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- Alustage [teenuse Usaldusportaaliga.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-- Midagi seotud **Andmetöötluslepingu** (DPA), vaadake:
+- **Andmete töötlemise lepinguga** (DPA) seotud midagi, vaadake üle:
 
-  - [Andmete kasutamist](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - [Andmekaitse ressursid](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-  - [Auditiaruanded](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [Auditi aruanded](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Teavet **Teema andmetaotlusi** (DSR) - vaadake, kasutada, parandada, piirata, kustutamiseks eksporti [siin.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Teave andmesubjekti **taotlused** (DSR)-avastada, juurdepääs, parandada, piirata, kustutada, eksport on [siin.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Teavet **Andmete rikkumise teatis** on [siin.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- **Andmed rikkumise kohta teatamine** on [siin.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- **Andmed** teave on [siin.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- **Andmed asukohtade** kohta on [siin.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
