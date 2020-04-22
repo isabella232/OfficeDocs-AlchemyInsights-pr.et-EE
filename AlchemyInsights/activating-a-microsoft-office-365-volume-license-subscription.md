@@ -1,9 +1,9 @@
 ---
-title: Microsoft Office 365 Köide litsentsi tellimuse aktiveerimine
+title: Microsofti Hulgilitsentsitellimuse aktiveerimine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661184"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708755"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a><span data-ttu-id="3a403-102">Microsoft Office 365 Köide litsentsi tellimuse aktiveerimine</span><span class="sxs-lookup"><span data-stu-id="3a403-102">Activating a Microsoft Office 365 Volume License Subscription</span></span>
+# <a name="activating-a-microsoft-volume-license-subscription"></a><span data-ttu-id="82fb1-102">Microsofti Hulgilitsentsitellimuse aktiveerimine</span><span class="sxs-lookup"><span data-stu-id="82fb1-102">Activating a Microsoft Volume License Subscription</span></span>
 
-1. <span data-ttu-id="3a403-103">Logige sisse oma [Köide litsentsi teeninduskeskus (VLSC) portaal](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span><span class="sxs-lookup"><span data-stu-id="3a403-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
+1. <span data-ttu-id="82fb1-103">Logige sisse oma [hulgilitsentsimise teeninduskeskuse (VLSC) portaali](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span><span class="sxs-lookup"><span data-stu-id="82fb1-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
 
-2. <span data-ttu-id="3a403-104">Liikuge Office 365 tellimuse ja valige **Aktiveeri**.</span><span class="sxs-lookup"><span data-stu-id="3a403-104">Navigate to your Office 365 subscription and choose **Activate**.</span></span>
+2. <span data-ttu-id="82fb1-104">Liikuge tellimusse ja valige **Aktiveeri**.</span><span class="sxs-lookup"><span data-stu-id="82fb1-104">Navigate to your subscription and choose **Activate**.</span></span>
 
-3. <span data-ttu-id="3a403-105">Online teenused (OLS) kontaktisikule saadetakse e-posti.</span><span class="sxs-lookup"><span data-stu-id="3a403-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
+3. <span data-ttu-id="82fb1-105">E-posti saadetakse teie Online Services (OLS) kontakt.</span><span class="sxs-lookup"><span data-stu-id="82fb1-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
 
-4. <span data-ttu-id="3a403-106">Aktiveerimise e pakub kaks võimalust: **registreeru**või **Logi sisse**.</span><span class="sxs-lookup"><span data-stu-id="3a403-106">The activation email will provide you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="3a403-107">Kui on varem loodud uuringus, valige **Logi sisse**.</span><span class="sxs-lookup"><span data-stu-id="3a403-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="3a403-108">Kui teil pole veel Office 365 rentnikule, valige **Logi sisse**.</span><span class="sxs-lookup"><span data-stu-id="3a403-108">If you don't yet have an Office 365 tenant, choose **Sign up**.</span></span>
+4. <span data-ttu-id="82fb1-106">Aktiveerimismeilisõnum annab teile kaks võimalust: **Registreeruge**või **logige**sisse.</span><span class="sxs-lookup"><span data-stu-id="82fb1-106">The activation email will provide you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="82fb1-107">Kui olete varem prooviversiooni loonud, valige **Logi**sisse.</span><span class="sxs-lookup"><span data-stu-id="82fb1-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="82fb1-108">Kui teil pole veel Microsoft 365 rentniku, valige **registreeru**.</span><span class="sxs-lookup"><span data-stu-id="82fb1-108">If you don't yet have a Microsoft 365 tenant, choose **Sign up**.</span></span>
 
-5. <span data-ttu-id="3a403-109">Logige sisse Microsoft 365 halduskeskus ([https://admin.microsoft.com](https://admin.microsoft.com)) olemasoleva Office 365 administraatori mandaadiga.</span><span class="sxs-lookup"><span data-stu-id="3a403-109">Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing Office 365 administrator credentials.</span></span> <span data-ttu-id="3a403-110">Pärast seda, kui logite edukalt sisse, saadetakse teisele e-posti ostu kinnitamist.</span><span class="sxs-lookup"><span data-stu-id="3a403-110">After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
+5. <span data-ttu-id="82fb1-109">Logige sisse Microsoft 365 halduskeskus ([https://admin.microsoft.com](https://admin.microsoft.com)) olemasoleva administraatori mandaadi abil.</span><span class="sxs-lookup"><span data-stu-id="82fb1-109">Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing administrator credentials.</span></span> <span data-ttu-id="82fb1-110">Kui olete edukalt sisse logida, saate teise e-kirja, mis kinnitab ostu.</span><span class="sxs-lookup"><span data-stu-id="82fb1-110">After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
 
-6. <span data-ttu-id="3a403-111">Pärast seda, kui olete sisse loginud, võite minna **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele kontrollimaks, kas teie ostetud Office 365 tellimused aktiveeritakse jooksul teie rentniku.</span><span class="sxs-lookup"><span data-stu-id="3a403-111">After you've signed in, you can go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased Office 365 Subscriptions are activated within your tenant.</span></span> <span data-ttu-id="3a403-112">(Võite ka vahekaarti **tellimuse** kontrollib, et teie tellimus on üle antud sündmuste VLSC-s.)</span><span class="sxs-lookup"><span data-stu-id="3a403-112">(You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span>
+6. <span data-ttu-id="82fb1-111">Kui olete sisse logitud, võite minna lehele \> [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) , et veenduda, kas teie ostetud tellimused on teie rentniku sees aktiveeritud. **Billing**</span><span class="sxs-lookup"><span data-stu-id="82fb1-111">After you've signed in, you can go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased subscriptions are activated within your tenant.</span></span> <span data-ttu-id="82fb1-112">(Saate valida ka VLSC vahekaart **tellimus** üksikasju kontrollida, et teie tellimus on hoiule.)</span><span class="sxs-lookup"><span data-stu-id="82fb1-112">(You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span>

@@ -2,29 +2,29 @@
 title: Rakenduste loomine PowerAppsis
 ms.author: toresing
 author: tomresing
-ms.date: 5/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: bccd19399ada810007ef810444822e58b3d3fcfb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9a8897f29fb0c787853fd4ae4ff409751de59af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515515"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705441"
 ---
-# <a name="create-apps-with-powerapps"></a><span data-ttu-id="f76b6-102">Rakenduste loomine PowerAppsiga</span><span class="sxs-lookup"><span data-stu-id="f76b6-102">Create apps with PowerApps</span></span>
+# <a name="create-apps-with-powerapps"></a><span data-ttu-id="5fda3-102">Rakenduste loomine PowerAppsiga</span><span class="sxs-lookup"><span data-stu-id="5fda3-102">Create apps with PowerApps</span></span>
 
-<span data-ttu-id="f76b6-103">PowerApps on ärirakenduste arendusplatvorm.</span><span class="sxs-lookup"><span data-stu-id="f76b6-103">PowerApps is a development platform for business apps.</span></span> <span data-ttu-id="f76b6-104">Sellel on kolm peamist komponenti.</span><span class="sxs-lookup"><span data-stu-id="f76b6-104">It has three major components:</span></span> 
+<span data-ttu-id="5fda3-103">PowerApps on ärirakenduste arendusplatvorm.</span><span class="sxs-lookup"><span data-stu-id="5fda3-103">PowerApps is a development platform for business apps.</span></span> <span data-ttu-id="5fda3-104">Sellel on kolm peamist komponenti.</span><span class="sxs-lookup"><span data-stu-id="5fda3-104">It has three major components:</span></span> 
   
-- <span data-ttu-id="f76b6-105">[Lõuendirakendused](https://go.microsoft.com/fwlink/?linkid=874495) alustavad teie kasutuskeskkonnaga, luues tühja lõuendi abil kohandatud kasutajaliidese ning ühendades selle teie valitud andmeallikaga 200-st.</span><span class="sxs-lookup"><span data-stu-id="f76b6-105">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources.</span></span> <span data-ttu-id="f76b6-106">Lõuendirakendusi saate luua veebi-, mobiili- ja tahvelarvutite rakenduste jaoks.</span><span class="sxs-lookup"><span data-stu-id="f76b6-106">You can build canvas apps for web, mobile, and tablet applications.</span></span> 
+- <span data-ttu-id="5fda3-105">[Lõuendirakendused](https://go.microsoft.com/fwlink/?linkid=874495) alustavad teie kasutuskeskkonnaga, luues tühja lõuendi abil kohandatud kasutajaliidese ning ühendades selle teie valitud andmeallikaga 200-st.</span><span class="sxs-lookup"><span data-stu-id="5fda3-105">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources.</span></span> <span data-ttu-id="5fda3-106">Lõuendirakendusi saate luua veebi-, mobiili- ja tahvelarvutite rakenduste jaoks.</span><span class="sxs-lookup"><span data-stu-id="5fda3-106">You can build canvas apps for web, mobile, and tablet applications.</span></span> 
     
-- <span data-ttu-id="f76b6-107">[Mudelipõhised rakendused](https://go.microsoft.com/fwlink/?linkid=874496) alustavad teie andmemudeli loomisega, ehitades selle üles teie Common Data Service‘i platvormi peamiste äriandmete ja toimingute põhjal, et luua vorme, vaateid ja muid komponente.</span><span class="sxs-lookup"><span data-stu-id="f76b6-107">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components.</span></span> <span data-ttu-id="f76b6-108">Mudelipõhised rakendused genereerivad automaatselt suurepärase kasutajaliidese, mis toimib erinevates seadmetes.</span><span class="sxs-lookup"><span data-stu-id="f76b6-108">Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
+- <span data-ttu-id="5fda3-107">[Mudelipõhised rakendused](https://go.microsoft.com/fwlink/?linkid=874496) alustavad teie andmemudeli loomisega, ehitades selle üles teie Common Data Service‘i platvormi peamiste äriandmete ja toimingute põhjal, et luua vorme, vaateid ja muid komponente.</span><span class="sxs-lookup"><span data-stu-id="5fda3-107">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components.</span></span> <span data-ttu-id="5fda3-108">Mudelipõhised rakendused genereerivad automaatselt suurepärase kasutajaliidese, mis toimib erinevates seadmetes.</span><span class="sxs-lookup"><span data-stu-id="5fda3-108">Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
     
-- <span data-ttu-id="f76b6-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) on PowerAppsis sisalduv andmeplatvorm, mis võimaldab äriandmeid talletada ja kujundada.</span><span class="sxs-lookup"><span data-stu-id="f76b6-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data.</span></span> <span data-ttu-id="f76b6-110">See on platvorm, millel on loodud Dynamics 365 rakendused.</span><span class="sxs-lookup"><span data-stu-id="f76b6-110">It's the platform on which Dynamics 365 applications are built.</span></span> <span data-ttu-id="f76b6-111">Kui olete Dynamicsi klient, on teie andmed juba Common Data Service‘i platvormis.</span><span class="sxs-lookup"><span data-stu-id="f76b6-111">If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
+- <span data-ttu-id="5fda3-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) on PowerAppsis sisalduv andmeplatvorm, mis võimaldab äriandmeid talletada ja kujundada.</span><span class="sxs-lookup"><span data-stu-id="5fda3-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data.</span></span> <span data-ttu-id="5fda3-110">See on platvorm, millel on loodud Dynamics 365 rakendused.</span><span class="sxs-lookup"><span data-stu-id="5fda3-110">It's the platform on which Dynamics 365 applications are built.</span></span> <span data-ttu-id="5fda3-111">Kui olete Dynamicsi klient, on teie andmed juba Common Data Service‘i platvormis.</span><span class="sxs-lookup"><span data-stu-id="5fda3-111">If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
     
-[<span data-ttu-id="f76b6-112">Lisateave PowerAppsi kohta</span><span class="sxs-lookup"><span data-stu-id="f76b6-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
+[<span data-ttu-id="5fda3-112">Lisateave PowerAppsi kohta</span><span class="sxs-lookup"><span data-stu-id="5fda3-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
   
 

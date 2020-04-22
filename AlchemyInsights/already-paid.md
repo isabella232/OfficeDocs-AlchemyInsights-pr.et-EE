@@ -3,7 +3,7 @@ title: Juba makstud?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e7ddb784b195767477962b94542cd292cb0c7ce1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386167"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708171"
 ---
-# <a name="already-paid"></a><span data-ttu-id="81d04-102">Juba makstud?</span><span class="sxs-lookup"><span data-stu-id="81d04-102">Already paid?</span></span>
+# <a name="already-paid"></a><span data-ttu-id="455de-102">Juba makstud?</span><span class="sxs-lookup"><span data-stu-id="455de-102">Already paid?</span></span>
 
-<span data-ttu-id="81d04-103">Kui juba saadetud makse, teie andke teada:</span><span class="sxs-lookup"><span data-stu-id="81d04-103">If you've already sent payment, you can let us know:</span></span>
+<span data-ttu-id="455de-103">Kui olete juba makse saatnud, võite meile teada:</span><span class="sxs-lookup"><span data-stu-id="455de-103">If you've already sent payment, you can let us know:</span></span>
   
-1. <span data-ttu-id="81d04-104">Administreerimiskeskuses, minge **arved** \> [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel.</span><span class="sxs-lookup"><span data-stu-id="81d04-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="455de-104">administreerimiskeskuses lehele **arveldamise** \> [tellimused](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="455de-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="81d04-105">Vali tellimuse ja **arve** jaotises Valige **Vaade arve**.</span><span class="sxs-lookup"><span data-stu-id="81d04-105">Choose a subscription, and in the **My bill** section, choose **View Bill**.</span></span>
+2. <span data-ttu-id="455de-105">Valige tellimus ja valige jaotisest **minu arve** käsk **Kuva Bill**.</span><span class="sxs-lookup"><span data-stu-id="455de-105">Choose a subscription, and in the **My bill** section, choose **View Bill**.</span></span>
 
-3. <span data-ttu-id="81d04-106">**Arve üksikasjade** lehel valida **juba makstud?**</span><span class="sxs-lookup"><span data-stu-id="81d04-106">On the **Bill details** page, choose **Already Paid?**</span></span> <span data-ttu-id="81d04-107">Küsitakse kohustust saadetud teabe sisestamiseks.</span><span class="sxs-lookup"><span data-stu-id="81d04-107">You'll be asked to enter information related to the payment that was sent.</span></span>
+3. <span data-ttu-id="455de-106">Kas valida lehel **Arve üksikasjad** **juba makstud?**</span><span class="sxs-lookup"><span data-stu-id="455de-106">On the **Bill details** page, choose **Already Paid?**</span></span> <span data-ttu-id="455de-107">Teil palutakse sisestada saadetud maksega seotud teave.</span><span class="sxs-lookup"><span data-stu-id="455de-107">You'll be asked to enter information related to the payment that was sent.</span></span>
 
-4. <span data-ttu-id="81d04-108">Kui kogu vajalik teave on sisestatud, valige **saada**.</span><span class="sxs-lookup"><span data-stu-id="81d04-108">When all required information has been entered, choose **Send**.</span></span>
+4. <span data-ttu-id="455de-108">Kui kogu vajalik teave on sisestatud, valige **saada**.</span><span class="sxs-lookup"><span data-stu-id="455de-108">When all required information has been entered, choose **Send**.</span></span>

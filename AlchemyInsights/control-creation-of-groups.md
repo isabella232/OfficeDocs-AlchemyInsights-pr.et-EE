@@ -1,9 +1,9 @@
 ---
-title: Juhtelemendi loomine rühmade
+title: Rühmade loomise kontrollimine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516667"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705621"
 ---
-# <a name="control-creation-of-office-365-groups"></a><span data-ttu-id="19fbd-102">Juhtelemendi loomine Office 365 rühmad</span><span class="sxs-lookup"><span data-stu-id="19fbd-102">Control creation of Office 365 groups</span></span>
+# <a name="control-creation-of-office-365-groups"></a><span data-ttu-id="997d9-102">Kontrolli loomine Office 365 rühmad</span><span class="sxs-lookup"><span data-stu-id="997d9-102">Control creation of Office 365 groups</span></span>
 
-<span data-ttu-id="19fbd-103">Vaikimisi kõigile kasutajatele ettevõtte siseselt on võimalik moodustada.</span><span class="sxs-lookup"><span data-stu-id="19fbd-103">By default, all users within the company are able to create groups.</span></span> <span data-ttu-id="19fbd-104">Kui vaja, teil on võimalik seda muuta ja määrata õigus luua teie ettevõttesse kuuluvate inimeste kogum.</span><span class="sxs-lookup"><span data-stu-id="19fbd-104">If needed, you are able to change this, and assign the right to create groups to a set of people within your company.</span></span> <span data-ttu-id="19fbd-105">Pange tähele, et see avaldab mõju (nt Outlook, meeskonnad, planeerija jne) teenusest Office 365 ühinemisi.</span><span class="sxs-lookup"><span data-stu-id="19fbd-105">Note that this will have impact on creation of groups from any Office 365 service (such as Outlook, Teams, Planner and so on).</span></span>
+<span data-ttu-id="997d9-103">Vaikimisi saavad kõik ettevõtte kasutajad luua gruppe.</span><span class="sxs-lookup"><span data-stu-id="997d9-103">By default, all users within the company are able to create groups.</span></span> <span data-ttu-id="997d9-104">Vajadusel saate seda muuta ja määrata endale õiguse luua gruppe oma ettevõttes olevatele inimestele.</span><span class="sxs-lookup"><span data-stu-id="997d9-104">If needed, you are able to change this, and assign the right to create groups to a set of people within your company.</span></span> <span data-ttu-id="997d9-105">Pange tähele, et see mõjutab Microsoft 365 teenuse (nt Outlook, meeskonnad, Planner jne) rühmade loomine.</span><span class="sxs-lookup"><span data-stu-id="997d9-105">Note that this will have impact on creation of groups from any Microsoft 365 service (such as Outlook, Teams, Planner and so on).</span></span>
   
-<span data-ttu-id="19fbd-106">Juhised: [kes on võimalik koostada Office 365 haldamine](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="19fbd-106">Instructions: [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span></span>
+<span data-ttu-id="997d9-106">Juhised: [Halda, kes saavad luua Office 365 rühmad](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="997d9-106">Instructions: [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span></span>

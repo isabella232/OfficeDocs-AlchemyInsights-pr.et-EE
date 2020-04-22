@@ -1,9 +1,9 @@
 ---
-title: Outlook.com-i BitLocker recovery
+title: Outlook.com BitLockeri taastamine
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: 0f9c7669a91c3bf197cd19d566296dd0dedf62cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 39aa462e69d2636ee560504070d95e989c3cb0fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542733"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681892"
 ---
-# <a name="bitlocker-recovery"></a><span data-ttu-id="9aec5-102">BitLocker recovery</span><span class="sxs-lookup"><span data-stu-id="9aec5-102">BitLocker recovery</span></span>
+# <a name="bitlocker-recovery"></a><span data-ttu-id="35bc8-102">BitLockeri taastamine</span><span class="sxs-lookup"><span data-stu-id="35bc8-102">BitLocker recovery</span></span>
 
-<span data-ttu-id="9aec5-103">Valige [seadmete](https://account.microsoft.com/devices/recoverykey) vaatamiseks BitLockeri taastevõtmed.</span><span class="sxs-lookup"><span data-stu-id="9aec5-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
+<span data-ttu-id="35bc8-103">Avage [seadmed](https://account.microsoft.com/devices/recoverykey) BitLockeri Taastevõtmete vaatamiseks.</span><span class="sxs-lookup"><span data-stu-id="35bc8-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
 
-<span data-ttu-id="9aec5-104">Vaata [leida BitLockeri taastevõtme](https://support.microsoft.com/help/4026181) lisateabe saamiseks.</span><span class="sxs-lookup"><span data-stu-id="9aec5-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>
+<span data-ttu-id="35bc8-104">Lisateavet [leiate jaotisest BitLockeri taastevõtme](https://support.microsoft.com/help/4026181) otsimine.</span><span class="sxs-lookup"><span data-stu-id="35bc8-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>
