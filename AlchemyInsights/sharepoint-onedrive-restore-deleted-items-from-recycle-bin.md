@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053833"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692833"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>OneDrive ' is või SharePointis puuduvate failide või kaustade tõrkeotsing
 
@@ -25,17 +25,17 @@ ms.locfileid: "40053833"
 
 
 
-**Failide taastamise funktsioon**
+**Failitaaste funktsioon**
 
 Kui palju teie OneDrive ' i või SharePointi failidest kustutatakse, kirjutatakse üle, rikutakse või on pahavara poolt nakatunud, saate taastada kogu oma OneDrive ' i või SharePointi teegi, kasutades failide taastefunktsiooni.
 
-- [OneDrive ' i teegi taastamine](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+- [OneDrive’i teegi taastamine](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 - [Dokumenditeegi taastamine](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 **Kasuta auditilogi või faili tegevuse paani, et kontrollida faili ajalugu**
 
-[Kontrollige auditiaruandeid](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) </a> , liikudes [siia](https://protection.office.com/#/unifiedauditlog)
+[Kontrollige auditiaruandeid](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> , liikudes [siia](https://protection.office.com/#/unifiedauditlog)
 
 Faili ajaloo kontrollimiseks kasutage [faili tegevuspaani](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) .
 

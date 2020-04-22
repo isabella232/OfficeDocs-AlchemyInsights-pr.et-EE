@@ -3,7 +3,7 @@ title: Fail on avatud kirjutuskaitstud
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822230"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702770"
 ---
 # <a name="file-open-read-only"></a>Fail on avatud kirjutuskaitstud
 
@@ -37,7 +37,7 @@ Internetist ja muudest potentsiaalselt ebaturvalistest kohtadest pärit failid v
   
  **Kas OneDrive on täis?**
   
-Kui fail on talletatud OneDrive ' is ja teie OneDrive ' i salvestusruum on täis, ei saa te dokumenti salvestada enne, kui olete määratud ruumi all. Võite kontrollida oma vaba ruumi OneDrive ' is, klõpsates teatiskeskuses asuvat OneDrive ' i ikooni ja valides salvestusruumi haldamine, või võite minna [http://onedrive.live.com](http://onedrive.live.com), logige sisse ja märkige ekraani alumises vasakus osas kasutatud ruumi hulk.
+Kui fail on talletatud OneDrive ' is ja teie OneDrive ' i salvestusruum on täis, ei saa te dokumenti salvestada enne, kui olete määratud ruumi all. Võite kontrollida oma vaba ruumi OneDrive ' is, klõpsates teatiskeskuses asuvat OneDrive ' i ikooni ja valides salvestusruumi haldamine, või võite minna [https://onedrive.live.com](https://onedrive.live.com), logige sisse ja märkige ekraani alumises vasakus osas kasutatud ruumi hulk.
   
  **Kas Office on aktiveeritud?**
   

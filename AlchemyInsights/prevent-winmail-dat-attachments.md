@@ -1,32 +1,32 @@
 ---
-title: 2589 vältida Winmail.dat manused e-kirju organisatsioonist
+title: 2589 aidata vältida Winmail. dat manuseid e-kirju oma organisatsiooni
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 41ab3f22499994cda5883834ff54e5767c69265b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391227"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666737"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Vältida Winmail.dat manused e-kirju organisatsioonist
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Aidata vältida Winmail. dat manuseid e-kirju oma organisatsiooni
 
-Kui admin, proovige järgmist.
+Admin, proovige neid samme:
 
-1. Avage [Exchange'i administraatori center](https://outlook.office365.com/ecp/).
+1. Avage [Exchange ' i halduskeskus](https://outlook.office365.com/ecp/).
 
-2. Mine **meilivoo** > **kaugdomeenide**.
+2. Avage **meilivoog** > **Kaugtöölaua domeenid**.
 
-3. Valige Vaikekaugdomeen nimega **vaikimisi**ja klõpsake siis nuppu **Redigeeri**.
+3. Valige vaikimisi serveri **domeeni vaikimisi ja**seejärel klõpsake nuppu **Redigeeri**.
 
-4. **Kasuta RTF - vorming** jaotises Valige **mitte kunagi**.
+4. Valige jaotises **Kasuta RTF-vormingut** **mitte kunagi**.
 
-Lisateabe saamiseks vaadake teemat [määra, kaugdomeenide sõnumi vorming](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Lisateavet leiate jaotisest [kaugdomeenide sõnumivormingu määramine](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).

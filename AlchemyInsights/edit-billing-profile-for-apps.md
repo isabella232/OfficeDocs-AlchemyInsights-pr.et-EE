@@ -1,9 +1,9 @@
 ---
-title: Redigeeri arveldusprofiilis rakenduste
+title: Rakenduste arveldusprofiili redigeerimine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606671"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703891"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Redigeeri arveldusprofiilis rakenduste
+# <a name="edit-billing-profile-for-apps"></a>Rakenduste arveldusprofiili redigeerimine
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Muuta arveldusprofiilis apps
+## <a name="to-change-the-billing-profile-on-apps"></a>Arveldusprofiili muutmine rakendustes
 
-1. Mine **arved** > [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehekülg ja seejärel valige selle **rakendused** vahekaart.
+1. Avage leht > [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) ja seejärel valige vahekaart **rakendused** . **Billing**
 
 2. Leidke ja valige rakendus, mida soovite hallata.  
 
-3. Kõrval **Arveldusprofiil**, valige **Muuda** ja soovite seostada rakenduse arveldusprofiilis.
+3. Valige **arveldusprofiili**kõrval käsk **Redigeeri** ja valige Arveldusprofiil, mida soovite rakendusega seostada.
 
-## <a name="edit-billing-profiles"></a>Arvete profiilide muutmine
+## <a name="edit-billing-profiles"></a>Arveldusprofiilide redigeerimine
 
-1. Mine **arved** > [arved & maksete](https://go.microsoft.com/fwlink/p/?linkid=848039) lehekülg ja seejärel valige **arvelduse profiilid**.
+1. Avage leht > [arveldusarved & maksed](https://go.microsoft.com/fwlink/p/?linkid=848039) ja seejärel valige **arveldusprofiilid**. **Billing**
 
-2. Vali arve profiili nimekirja muuta.
+2. Valige loendist Arveldusprofiil, mida soovite redigeerida.

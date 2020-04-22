@@ -1,8 +1,8 @@
 ---
-title: Aktiveerimise probleemid
+title: Aktiveerimise tõrkeotsing
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495567"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676421"
 ---
-# <a name="activation-troubleshooting"></a>Aktiveerimise probleemid
+# <a name="activation-troubleshooting"></a>Aktiveerimise tõrkeotsing
 
-**Juhtpaneeli** \> **programmid ja funktsioonid**, Office. Näed, Microsoft Office 365 ProPlus või Microsoft Office 365 Business. Kui näete mitut versiooni ametisse, kasutate versiooni desinstallida.
+\> Juhtpaneel **Control Panel** **programmid ja funktsioonid**, otsige Office. Peaksite nägema Microsoft 365 apps ettevõtte või Microsoft 365 apps äri. Kui näete loendis rohkem kui ühte Office’i versiooni, desinstallige versioon, mida te ei kasuta.
   
-Kui ei saa desinstallida juhtpaneeli abil edukalt, kasutage [toetust ja taastamise abimees](https://aka.ms/SARA-OfficeUninstall-Alchemy) kasutate versiooni.
+Kui te ei saa juhtpaneeli abil edukalt desinstallida, kasutage [toe-ja Taasteabimeest](https://aka.ms/SARA-OfficeUninstall-Alchemy) , et desinstallida versioon, mida te ei kasuta.
   
-Kui Office on endiselt litsentseerimata, tagasi minna **Control Panel** \> **programmid ja funktsioonid**. Paremklõpsake ülejäänud Office'i install, valige **Muuda** (või Muuda) ja seejärel valige **Võrgus parandamine**. Online remont võib aega võtta. Siis Office'i taaskäivitama ja sisse logida oma töö või kooli kontole, kui küsitakse.
+Kui Office on endiselt litsentsimata, tagasi **juhtpaneeli** \> **programmidele ja funktsioonidele**. Paremklõpsake ülejäänud Office ' i installi, valige käsk **Muuda** (või Muuda) ja seejärel valige **võrguparandus**. Võrgus parandamine võib aega võtta. Seejärel taaskäivitage Office ja logige sisse oma töökoha või kooli kontoga, kui teil palutakse seda teha.
   
-Office on endiselt litsentseerimata, laadige alla ja käivitage [tõrkeotsija aktiveerimine](https://aka.ms/SARA-OfficeActivation-Alchemy) aktiveerimise probleemide lahendamiseks mõjutatud arvutisse.
+Kui Office on endiselt litsentsimata, laadige alla ja käivitage Aktiveerimisprobleemide lahendamiseks mõjutatud arvutis [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy) .
   
-Lisateabe saamiseks vt: [litsentsimata toode ja aktiveerimistõrgete kontoris](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Lisateabe saamiseks vaadake: [litsentseerimata toote-ja aktiveerimistõrked Office ' is](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

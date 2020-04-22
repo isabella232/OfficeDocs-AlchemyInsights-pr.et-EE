@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661292"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687614"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 teatiste poliitikad
+# <a name="alert-policies"></a>Teatise reeglid
 
-Office 365 Security & vastavuse keskus pakub [vaikimisi Alert poliitika](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , mis käivitab teateid organisatsioonidele Office 365 Enterprise või Office 365 USA valitsus E1/G1, E3/G3 või E5/G5 tellimus. Seetõttu administraatoritel võidakse saada teatise e-posti teatis saadetud Office365Alerts@microsoft.com teema rida nagu "madala raskusastmega Hoiatus: *Alert poliitika nimi*". Hoiatusteated saadetakse, kui teatised käivitatakse levinud tegevuste jaoks, näiteks kui kasutajad:
+Microsoft 365 Security & vastavuse keskus pakub [vaikimisi Alert poliitika](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , mis käivitab teateid organisatsioonidele Office 365 Enterprise või Office 365 USA valitsus E1/G1, E3/G3 või E5/G5 tellimus. Seetõttu administraatoritel võidakse saada teatise e-posti teatis saadetud Office365Alerts@microsoft.com teema rida nagu "madala raskusastmega Hoiatus: *Alert poliitika nimi*". Hoiatusteated saadetakse, kui teatised käivitatakse levinud tegevuste jaoks, näiteks kui kasutajad:
 
 - Loo sisendkausta reeglid, mis edasi e-posti.
 - Määrake õigused oma postkasti.
@@ -30,7 +30,7 @@ Office 365 Security & vastavuse keskus pakub [vaikimisi Alert poliitika](https:/
 
 Hoiatuse läbivaatamiseks ja tegutsemiseks toimige järgmiselt.
 
-1. Minge [turvalisuse & vastavuse keskus](https://protection.office.com) ja logige sisse.
+1. [turvalisuse & vastavuse keskus](https://protection.office.com) ja logige sisse.
 2. Klõpsake **teatiste** > **vaate teatised**.
 3. Klõpsake teatist, et kuvada hüpik lehekülg hoiatuse kohta teabega.
 

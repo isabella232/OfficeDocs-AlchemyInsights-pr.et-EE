@@ -2,7 +2,7 @@
 title: Tõrkekood 550 5.7.501 juurdepääs keelatud, rämpsposti kuritarvitamine avastatud
 ms.author: chrisda
 author: chrisda
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740137"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703022"
 ---
 # <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 juurdepääs keelatud, rämpsposti kuritarvitamine avastatud
 
-Tavaliselt see teade ilmneb siis, kui kasutajad saata e-kirju IP-aadressid, kasutades algse *. onmicrosoft.com* domeeni, mis on määratud uus rentnike Office 365. Lihtsaim viis selle probleemi lahendamiseks on:
+See teade ilmneb tavaliselt siis, kui kasutajad saadavad e-kirju IP-aadressidest, kasutades algset *. onmicrosoft.com* domeeni, mis on määratud uutele rentnikele Microsoft 365. Lihtsaim viis selle probleemi lahendamiseks on:
 
 1. [Lisage oma rentnikule Domeen](https://docs.microsoft.com//office365/admin/setup/add-domain).
 

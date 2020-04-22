@@ -1,8 +1,8 @@
 ---
-title: Tõrkekood 550 5.7.705 juurdepääs keelatud, üürnik on ületanud läve
+title: Tõrkekood 550 5.7.705 juurdepääs keelatud, rentniku on ületanud piirmäära
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527215"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702986"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 juurdepääs keelatud, üürnik on ületanud läve
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 juurdepääs keelatud, rentniku on ületanud piirmäära
 
-See kuvatakse siis, kui liiga palju rämpsposti või lahtise e-posti on saadetud teie asutuse ja paneme ploki väljuva e-posti.
-Sagedasemad põhjused on ohustatud asutusesisestest serveritest või ohustatud admin kontodele, luua ühendused kasutatud. Nende tingimuste võimaldavad rämpsposti läbi oma organisatsiooni.
+See teade ilmneb siis, kui teie organisatsioon on saatnud liiga palju rämpsposti või Hulgimeili ja me Asetame Väljamineva meili blokeeringu.
+Levinud põhjused on rikutud asutusesisese serverid või rikutud admin kontod, mida on kasutatud konnektorid. Kumbki tingimus võib lubada rämpsposti läbi teie organisatsiooni.
 
-Selle ploki eemaldamiseks peate mõista ja selgitada põhjus tugiteenuste töötajalt, samuti aluseks oleva probleemi.
-Kui see on tehtud, klõpsake nuppu **Võta meiega ühendust** allpool.
+Selle ploki eemaldamiseks peate mõistma ja selgitama tugiteenuse agendi põhjust ning parandama ka põhiprobleemi.
+Kui olete valmis, klikkige allpool valikul **Võta meiega ühendust** .

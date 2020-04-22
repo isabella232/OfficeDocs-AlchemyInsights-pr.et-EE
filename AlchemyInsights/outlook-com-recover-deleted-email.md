@@ -1,9 +1,9 @@
 ---
-title: Taastada kustutatud e-posti teenuses Outlook.com
+title: Taasta kustutatud e-posti Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545345"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666953"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Outlook.com-i taastada kustutatud e-posti
+# <a name="recover-deleted-email-outlookcom"></a>Taasta kustutatud e-post Outlook.com
 
-1. Valige vasakus paanis **Kustutatud**.
-2. Vali Taasta ja valige **Taasta**.
-3. Kui sõnumit ei kustutatud, valige akna ülaosas **sellest kaustast Kustutatud üksused taastada** .
+1. Valige vasakpoolsel paanil **Kustutatud üksused**.
+2. Valige üksus, mida soovite taastada, ja valige **Taasta**.
+3. Kui sõnumit pole kustutatud, valige akna ülaosas **sellest kaustast Kustutatud üksuste taastamine** .
 
  **Oluline teave kustutatud üksuste kohta:**
   
-- Kaustast Kustutatud eemaldatud üksuste nõutakse sisse 30 päeva.
-- Kui ei ole oma kontole 365 päeva, meili kustutatakse ning ei saa taastada.
-- See ei ole võimalik katta laste kontodelt kustutatud meilisõnumeid.
+- Kustutatud üksuste kaustast eemaldatud üksused Taastatavad 30 päeva.
+- Kui te pole oma kontole 365 päeva sisse loginud, kustutatakse teie e-kiri ja seda ei saa taastada.
+- Lapse kontodest kustutatud meilisõnumeid pole võimalik taastada.
 
-Lisateabe saamiseks vt [Taasta kustutatud meilisõnumid Outlook.com-is](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateabe saamiseks vaadake [Taasta kustutatud e-kirjad Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

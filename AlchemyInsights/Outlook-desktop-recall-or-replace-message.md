@@ -3,18 +3,18 @@ title: Outlooki töölaua tagasivõtmine või asendamine e-kirja
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496107"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687506"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Outlooki e-kirja tagasivõtmine või asendamine
 
@@ -37,4 +37,4 @@ Meilisõnumite otsimine ja kustutamine teie organisatsioonis
 - [Saate luua sisuotsingu](https://docs.microsoft.com/office365/securitycompliance/content-search) , et leida kustutatav sõnum.
 - [Ühendage turbe-ja Vastavuskeskus PowerShelli](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Kui kasutate mitme teguriga autentimine, vaadake [ühendust Office 365 turvalisuse ja vastavuse keskus PowerShelli mitme teguriga autentimine abil](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Kui kasutate mitme teguriga autentimine, vaadake [ühendust Microsoft 365 turvalisuse ja vastavuse Center PowerShelli mitme teguriga autentimine abil](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

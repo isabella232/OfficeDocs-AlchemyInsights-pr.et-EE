@@ -3,22 +3,22 @@ title: 934 luba POP ja IMAP kontod
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
-ms.openlocfilehash: fc1a55f9f3d58ac35645ffd7aaea1692e05d716d
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 733b70f50991ba8d73c566e04521aec0d78889b7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752807"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703386"
 ---
-# <a name="pop-and-imap4-settings"></a>POP-ja IMAP4
+# <a name="pop-and-imap4-settings"></a>POP ja IMAP4 seaded
 
-POP3 ja IMAP4 serveri sätted oma postkasti leiate [POP ja IMAP email Outlook seaded](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+POP3 ja IMAP4 serveri sätete leidmiseks oma postkasti, vaadake [pop ja IMAP e-posti sätted Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
 
-Administraatorid saab lubada ja konfigureerida POP3 ja IMAP4 asutusesisese Exchange'i asutused. Lisateabe saamiseks vt [lubamine ja konfigureerimine Exchange'i serverid POP3](https://technet.microsoft.com/library/bb124934.aspx) ja [lubada ja konfigureerida Exchange'i serverid IMAP4](https://technet.microsoft.com/library/bb124489.aspx).
+Administraatorid saavad lubada ja konfigureerida POP3 ja IMAP4 asutusesisese Exchange ' i organisatsioonides. Lisateabe saamiseks vaadake [lubada ja KONFIGUREERIDA POP3 Exchange ' i serverid](https://technet.microsoft.com/library/bb124934.aspx) ja [lubada ja konfigureerida IMAP4 Exchange ' i serverid](https://technet.microsoft.com/library/bb124489.aspx).

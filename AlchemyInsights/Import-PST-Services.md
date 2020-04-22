@@ -3,7 +3,7 @@ title: 1245-import-PST-teenused
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496339"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687758"
 ---
-# <a name="office-365-import-service"></a>Office 365 Import service
+# <a name="microsoft-365-import-service"></a>Microsoft 365 impordi teenus
 
-Office 365 importida teenus võimaldab teil lahtiselt-import mitu PST faili Exchange Online'i postkastidele.
+Microsoft 365 import teenus võimaldab teil hulgi importida mitme PST faile Exchange Online ' i postkasti.
 
-Import service ja alustada importimine:
+Importimisteenusele juurdepääsuks ja importimise alustamiseks toimige järgmiselt.
 
-1. [Turvalisuse & vastavuse Center](https://protection.office.com) külastage ja logige sisse oma Office 365 organisatsiooni administraatorikonto mandaadi abil.
+1. [turvalisuse & vastavuse keskus](https://protection.office.com) ja logige sisse administraatori konto mandaadi abil oma organisatsioonis.
 
-2. **Turvalisuse & vastavuse Center**Vasakpaanil klõpsake **andmete juhtimise > Import**.
+2. Klõpsake **turvalisuse & vastavuse keskus**vasakul paanil **andmete haldamine > import**.
 
-3. Klõpsake lehel **impordi** **Uus importida töö**.
+3. Klõpsake lehel **import** nuppu **Uus Imporditöö**.
 
-4. Viisardi sammude läbimist järgige neid [samm-sammult juhiseid](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Viisardi juhiste lõpuleviimiseks Palun järgige neid [üksikasjalikke juhiseid](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Oluline**: turvalisuse & vastavuse Center lehel **importimine** juurdepääsemiseks on siis määratud [vastavad õigused](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Oluline**: juurdepääs **impordi** lehele Security & vastavuse keskus, teile määratakse [vastavad õigused](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Kui soovite importida PST postkastiga, lugege [artiklit](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Kui soovite lihtsalt importida PST oma postkasti, lugege [käesoleva artikli](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

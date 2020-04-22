@@ -1,9 +1,9 @@
 ---
-title: Avage SharePointi teegis tulekul
+title: SharePointi teegi avamine File Exploreris
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 381326b9edc8e3f56f443551b95f1410fd3752a8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 231b026c42fddd3957b01fc7e383d7161f525e91
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548711"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698486"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Avage SharePointi teegis tulekul
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>SharePointi teegi avamine File Exploreris
 
-1. Sirvige Internet Explorer 10 või Internet Exploreri 11 Raamatukogu. 
+1. Sirvige teeki Internet Explorer 10 või Internet Explorer 11. 
     
-2. Paremas ülanurgas ikoonil View ja klõpsake **File Exploreris**.
+2. Klõpsake paremas ülanurka ikoonil vaade ja seejärel klõpsake käsku **Kuva File Exploreris**.
     
 > [!NOTE]
-> File Exploreris Raamatukogu avamine on mugav, kui soovite kopeerida või teisaldada mitu faile ja kaustu, kui, kuid kui soovite regulaarselt töötada raamatukogus, soovitame sünkroonimist. File Exploreri avamine tõrkeotsingu, vt [Exploreris avatud](https://go.microsoft.com/fwlink/?linkid=871665). Sünkroonimise häälestamise kohta leiate teemast [uue OneDrive'i sünkroonimisrakenduse sünkroonimine SharePointi faile](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Teegi avamine File Exploreris on mugav, kui teil on vaja mitu faili ja kausta korraga kopeerida või teisaldada, kuid kui soovite teegis regulaarselt töötada, soovitame seda sünkroonida. File Exploreris avamise probleemide tõrkeotsinguks vaadake [avatud Exploreris](https://go.microsoft.com/fwlink/?linkid=871665). Sünkroonimise seadistamise kohta teabe saamiseks vaadake [SharePointi failide sünkroonimine uue OneDrive ' i sünkroonimiskliendiga](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

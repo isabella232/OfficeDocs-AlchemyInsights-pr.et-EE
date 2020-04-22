@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: d95bd56839e56b199c7a7c4e569c8fe2c5d00c1e
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: c349f896d68c408ce6e5adba4bd69d012e0f2daa
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908846"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655386"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>PSTN-i helistamine Skype Business Online
 
-Kui soovite teha üldkasutatava Kommuteeritava kõned Office 365, vajate [office 365 helistaja plaan](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) või ühendust asutusesisese PSTN-i telefoni infrastruktuuri. Lisateavet vaadake teemast
+Kui soovite teha üldkasutatava Kommuteeritava kõned Microsoft 365, vajate [microsoft 365 helistaja kava](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) või ühendust asutusesisese PSTN-i telefonitaristu. Lisateavet leiate teemadest
 
 - [Riigi ja regiooni kättesaadavus audio konverentsi-ja Kõneplaanid](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Levinud küsimused, mis on seotud Microsoft Office 365 audio conferencing](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Levinud küsimused, mis on seotud Microsoft 365 audio conferencing](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Lisa fondid ja Halda side krediiti](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
 - [PSTN-i helistajad ei saa liituda Skype Business dial-in konverentskõne](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

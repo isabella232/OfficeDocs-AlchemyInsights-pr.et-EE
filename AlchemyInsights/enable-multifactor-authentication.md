@@ -1,8 +1,8 @@
 ---
-title: Multifactor autentimise lubamine
+title: Luba Mitmefaktoriga autentimine
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527467"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703458"
 ---
-# <a name="enable-multi-factor-authentication"></a>Mitmekordne autentimine
+# <a name="enable-multi-factor-authentication"></a>Luba mitme teguriga autentimine
 
-Mitmekordne autentimine Microsoft 365 administreerimiskeskuses lubamine
+Mitme teguriga autentimise lubamiseks Microsoft 365 halduskeskus:
 
-1. **Kasutajatele** minna \> **aktiivseid kasutajaid** lehel.
+1. lehele **kasutajate** \> **aktiivsed kasutajad** .
     
-2. Valige lehe ülaosas **mitmefaktorilist autentimist**. 
+2. Valige lehe ülaosas **mitme teguriga autentimine**. 
     
-3. Leia kasutaja(d) kes soovitud mitmefaktorilist autentimist. Kõigi kasutajate vaatamiseks peate muuta **mitmefaktorilist autentimist seisundi** filter peal.
+3. Leidke kasutaja või kasutajad, kelle soovite lubada mitme teguriga autentimine. Kõigi kasutajate nägemiseks peate võib-olla muutma **mitme teguriga authi olekufiltri** ülaosas.
     
-4. Märkige ruut kõrval lubada kasutajatel.
+4. Märkige ruut nende kasutajate kõrval, keda soovite lubada.
     
-5.  Vali õige kasutaja info paani jaotises **kiirtoimingute** **Luba**. 
+5.  Valige paremas kasutaja teabepaanil jaotises **kiirtoimingud**suvand **Luba**. 
     
-6. Avanevas dialoogiaknas Vali **Luba mitmefaktorilist autentimist**. 
+6. Valige avanevas dialoogiboksis suvand **Luba mitme teguriga autentimine**. 
     
 
