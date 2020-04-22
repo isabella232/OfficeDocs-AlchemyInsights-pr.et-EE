@@ -3,7 +3,7 @@ title: Lisateavet säilituspoliitikate kohta
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: 08/14/2019
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 4885407578e959bddcdd8374d482d2f6d7a461fe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053401"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761289"
 ---
 # <a name="more-info-about-retention-policies"></a>Lisateavet säilituspoliitikate kohta
 
@@ -29,7 +29,7 @@ Enamiku organisatsioonide puhul suureneb nende andmete maht ja keerukus igapäev
 - Avage turvalisuse ja vastavuse > andmete juhtimine > säilitamine
   - Vaata [seda](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artiklit
 
-- Minge jaotisse turvalisus ja vastavus > eDiscovery> Täpsem eDiscovery 
+- jaotisse turvalisus ja vastavus > eDiscovery> Täpsem eDiscovery 
   - Vaata [seda](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artiklit
 
 - Avage turvalisuse ja vastavuse > liigitused > säilitamine

@@ -1,9 +1,9 @@
 ---
-title: Taastada kustutatud alamsaidi
+title: Kustutatud alamsaidi taastamine
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552257"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758678"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Taastada kustutatud SharePointi alamsaitide
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Kustutatud SharePointi alamsaidi taastamine
 
-Kustutatud alamsaidid saadetakse saidikogumi prügikasti, kust nad hoitakse 93 päeva. Taastada kustutatud alamsaidi:
+Kustutatud alamsaidid saadetakse saidikogumi prügikasti, kus neid säilitatakse 93 päeva. Kustutatud alamsaidi taastamiseks toimige järgmiselt.
   
-1. Uus SharePointi administreerimiskeskuses leida kust alamsaidi kustutati saidi ja veenduge, et olete saidi kogumise admin. 
+1. Leidke uus SharePointi administreerimiskeskus sait, kust alamsaidi kustutati ja veenduge, et olete saidikogumi administraator. 
     
-2. Minge veebisaidile. Klõpsake vasakul paanil nuppu **Prügikast** . (Kui prügikasti pole näha, klõpsake ikooni sätted ja klõpsake nuppu **saidi sisu**. Prügikasti on paremas otsas ülaosas käsuriba.)
+2. saidile. Klõpsake vasakpoolsel paanil **prügikasti** . (Kui te prügikasti ei näe, klõpsake ikooni sätted ja seejärel suvandit **saidi sisu**. Prügikast asub ülemisel käsuribal paremal.)
     
-3. Klõpsake lehe allosas **etapil prügikast**.
+3. Klõpsake lehe allosas **teise etapi prügikasti**.
     
-4. Klõpsake vasakul alamsaidi ja seejärel klõpsake käsku **Taasta**.
+4. Klõpsake alamsaidi vasakul ja klõpsake nuppu **Taasta**.
     
 

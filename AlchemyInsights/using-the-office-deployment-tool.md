@@ -1,8 +1,8 @@
 ---
-title: Kasutades Office'i juurutamise tööriist
+title: Office ' i Juurutusriista kasutamine
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 874bb7883bca4f062e85963a6828a771cd2dad9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531571"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726244"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Kasutades Office'i juurutamise tööriist (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Office ' i Juurutusriista (ODT) kasutamine
 
-Kasutate Office'i juurutamise tööriist (ODT) juurutamine Office 365 versioone Office. Office'i juurutamise tööriist (setup.exe) on käivitada käsurealt ja konfiguratsiooni XML-faili kasutab milliseid sätteid kohaldada Office'i juurutamisel.
+Office ' i juurutamise tööriista (ODT) abil saate juurutada Office 365 Office ' i versiooni. Office ' i juurutamise tööriist (setup. exe) käivitatakse käsurealt ja kasutab konfiguratsiooni XML-faili määratlemaks, milliseid sätteid rakendada Office ' i juurutamisel.
   
-1. Office'i juurutamise tööriist uusim versioon alla laadida [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Laadige alla uusim versioon Office ' i juurutamise tööriist [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. [Office'i kohandamisriist (OCT)](https://config.office.com) abil juurutamise eelistusi valida ja luua konfiguratsiooni XML-faili. Konfiguratsiooni faili eksportida ja asetage see kohapeal samasse kausta, kus asub setup.exe.
+2. Kasutage [Office ' i kohandamisriista (Oct)](https://config.office.com) juurutamise eelistuste valimiseks ja konfiguratsiooni XML-faili loomiseks. Eksportima konfiguratsioonifail ja asetage see kohalikult samasse kausta, kus asub setup. exe.
 
-    **Märkus:** Office'i installi probleemid sageli tekkida et valesti või malformatted failid. Selliste probleemide vältimiseks soovitame, et kasutate Office'i kohandamise tööriista loomiseks konfiguratsioonifaili. Olemasolevad failid saate importida ka Office'i kohandamise tööriista.
+    **Märkus:** Office ' i installimise probleemid ilmnevad sageli valesti konfigureeritud või vigane konfiguratsioonifailide tõttu. Selliste probleemide vältimiseks soovitame kasutada Office ' i kohandamise tööriista konfiguratsioonifaili loomiseks. Olemasolevaid konfiguratsioonifaile saate importida ka Office ' i Kohandamistööriistasse.
 
-3. Alates tõstetud käsuviipa, kus elab setup.exe asukohta vahetada ja käivitage Office'i juurutamise tööriist laadida mode ja määrake salvestatud konfiguratsiooni fail. Selles näites konfiguratsiooni faili nimi Configuration.xml:
+3. Laiendatud käsuviibalt, aktiveerige asukoht, kus setup. exe asub ja käivitage Office ' i juurutamise tööriista allalaadimise režiimis ja määrake äsja salvestatud konfiguratsioonifail. Selles näites konfiguratsioonifaili nimega Configuration. XML:
     
   ```
   setup.exe /download Configuration.xml  
   ```
 
-4. Käivitage Office'i juurutamise tööriist konfigureerida režiimis ja määrake konfiguratsioonifaili.
+4. Käivitage Office ' i juurutamise tööriist Konfigureeri režiimis ja määrake konfiguratsioonifail.
     
   ```
   setup.exe /configure Configuration.xml
   ```
 
-    **Märkus:** Käivitate kliendi arvutisse, kuhu soovite Office'i installida ja peavad olema kohaliku administraatori õigused, et selle sammu.
+    **Märkus:** Peate käivitama selle kliendi arvutisse, kuhu soovite Office ' i installida, ja teil peab olema kohaliku administraatori õigused selles arvutis.
 
-Kasutades Office'i juurutamise tööriist teie Office 365 ProPlus juurutamise stsenaariumide kohta lisateabe saamiseks vaadake [Office'i juurutamise tööriist ülevaade](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Office'i kohandamise tööriista kasutamise kohta lisateabe saamiseks vaadake [Office'i kohandamise tööriista ülevaade](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Lisateavet Office ' i juurutamise tööriista kasutamise kohta Microsoft 365 rakenduste jaoks ettevõtte juurutamise stsenaariumide puhul vt [Office ' i Juurutustööriista ülevaade](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Office ' i kohandamise tööriista kasutamise kohta lisateabe saamiseks vaadake [Office ' i kohandamise tööriista ülevaade](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

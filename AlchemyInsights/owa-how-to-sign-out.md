@@ -1,9 +1,9 @@
 ---
-title: Kuidas Outlook Web väljalogimine
+title: Kuidas Outlook veebis välja logida
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 6eac1462c26c1889d2e91ce336c88de0d221124b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556669"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742945"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kuidas Outlook Web väljalogimine
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kuidas Outlook veebis välja logida
 
-Logige Outlook veebis, valige oma nimel või pildil üleval paremas nurgas ja valige **Logi välja**.
+Outlookist välja sisselogimiseks valige paremas ülanurgas oma nimi või pilt ja valige **Logi välja**.
 
-Lõpetada oma töö või kooli kontot sisselogimine automaatselt:
+Töö-või koolikontole automaatse sisselogimise lõpetamiseks toimige järgmiselt.
 
-1. Valige oma nimel või pildil ja valige **Logi välja**.
-1. Valige **muud kontot,** minge [Outlook.office.com](https://outlook.office.com/) .
-1. Logige sisse e-posti aadress, mida soovite kasutada.
+1. Valige oma nimi või pilt ja valige **Logi välja**.
+1. jaotisse [Outlook.Office.com](https://outlook.office.com/) ja valige **Kasuta teist kontot**.
+1. Logige sisse e-posti aadressiga, mida soovite kasutada.
 
-Lisateavet leiate teemast [sisselogimine või Outlook veebis kokku](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Lisateabe saamiseks vaadake, [Kuidas logida sisse või välja Outlook veebis](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

@@ -3,7 +3,7 @@ title: Prügikast
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36552974"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720205"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>SharePoint Online ' i üksuste taastamine
 
 SharePoint Online ' i üksuste kustutamisel säilivad need kokku 93 päeva. Nad jääda saidi prügikasti kogu aeg, kui te ei Tühjenda või kustutage üksused. Sel juhul lähevad üksused saidikogumi prügikasti, kus nad on ülejäänud 93 päeva. Aja lõpus kustutatakse üksused jäädavalt. Kustutatud üksuste taastamiseks saidi prügikastis toimige järgmiselt.
   
-1. Minge saidile ja klõpsake vasakpoolsel paanil **prügikasti** . 
+1. saidile ja klõpsake vasakpoolsel paanil **prügikasti** . 
     
     Kui te ei näe vasakpoolsel paanil **prügikasti** , klõpsake paremas ülanurka ikoonil sätted ja seejärel klõpsake **saidi sisu**. Prügikast asub ülemisel käsuribal paremal.
     

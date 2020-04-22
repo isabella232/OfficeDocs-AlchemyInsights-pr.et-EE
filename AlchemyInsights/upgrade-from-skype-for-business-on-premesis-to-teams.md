@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6b3e7944a8035865fa8ef1a170b22a5aa39eb8b7
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: b78662e68e053b8b94349032d80ac9bb4fbc0d64
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305258"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43727283"
 ---
 # <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Uuenda Skype ettevõtetele ruumides meeskonnad
 
-Kui olete juurutanud Skype ' i äri-või Microsoft Lync ruumides ja teie organisatsioon soovib uuendada meeskonnad, järgige juhiseid allpool toodud artiklis. Peate seadistama hübriid Ühenduvus oma Office 365 rentniku ja seejärel teisaldage kasutajad meeskonnad ja määrata neile sobiv kooseksisteerimine ja täiendamine režiimis. 
+Kui olete juurutanud Skype ' i äri-või Microsoft Lync ruumides ja teie organisatsioon soovib uuendada meeskonnad, järgige juhiseid allpool toodud artiklis. Peate seadistama oma rentnikuga hübriidühenduvuse ja seejärel teisaldama oma kasutajad meeskondadele ning määrama neile sobiva kooseksisteerimise ja versiooniuuendusrežiimi. 
 
 [Täiendage Skype ' i asutusesisesest tööruumidest meeskonnad](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

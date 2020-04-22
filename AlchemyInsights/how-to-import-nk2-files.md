@@ -1,9 +1,9 @@
 ---
-title: Kuidas-to-import-nk2-failid
+title: Kuidas importida-nk2-faile
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770243"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759328"
 ---
 # <a name="how-to-import-nk2-files"></a>Kuidas importida nk2-faile 
 
-Kui käivitate esimest korda Microsoft Outlook 2013, Outlook 2016, Outlook 2019 või Outlooki Office 365, imporditakse hüüdnimede vahemälu ( *profilename*.nk2 faili salvestatud) peidetud sõnum teie vaikimisi sõnumisalv.
+Kui käivitate Microsoft Outlook 2013, Outlook 2016, Outlook 2019 või Outlook for Microsoft 365 esimest korda, teie hüüdnimede vahemälu (salvestatud faili *profiilinimi*. nk2) imporditakse peidetud sõnum teie vaikimisi sõnumi salvestada.
 
-Outlook 2013, Outlook 2016, Outlook 2019 või Office 365 Outlook importida nk2-faile, veenduge, et Nk2-fail on järgmises kaustas: %appdata%\Microsoft\Outlook
+Importida nk2-faile Outlook 2013, Outlook 2016, Outlook 2019 või Outlook for Microsoft 365, veenduge, et Nk2-fail on järgmises kaustas:%appdata%\Microsoft\Outlook
 
-**Märkus**: Nk2-fail peab olema teie praeguse Outlooki 2013 või Outlook 2016 profiili nimi. Profiili nimi on vaikimisi "Outlooki." See profiilinimi kontrollimiseks toimige järgmiselt. 
-1. Klõpsake nuppu **Start**ja käsku **Control Panel**.
-2. Topeltklõpsake ikooni **Elektronpost**.
-3. Dialoogiboksi Meilihäälestus valige **Kuva profiilid**.
-4. Valige **Start** > **joosta**.
-5. Väljale **Ava** tippige *outlook.exe /importnk2*, ja seejärel klõpsake **nuppu OK**. 
+**Märkus**: Nk2-fail peab olema sama nimi nagu praegune Outlook 2013 või Outlook 2016 profiili. Vaikimisi on profiili nimi "Outlook." Profiili nime kontrollimiseks toimige järgmiselt. 
+1. Klõpsake nuppu **Start**ja seejärel käsku **Juhtpaneel**.
+2. Topeltklõpsake e- **posti**.
+3. Valige dialoogiaknas Meilihäälestus suvand **Kuva profiilid**.
+4. Valige **Alusta** > **käivitamist**.
+5. Väljale **Ava** tippige *Outlook. exe/importnk2ja*seejärel klõpsake **nuppu OK**. 
 
-Pärast seda, kui sa importida .nk2 faili, faili sisu on liidetud olemasoleva hüüdnimede vahemälus talletatakse teie postkasti.
+Nk2-faili importimisel ühendatakse faili sisu olemasoleva hüüdnimede vahemälu talletatakse teie postkasti.
 
-**Märkus**: Nk2-fail ümber failinime laiendiga .old järgmine kord, kui käivitate Outlook 2013, Outlook 2016, Outlook 2019 või Outlooki Office 365. Kui soovite uuesti importida .nk2 faili, eemaldage faililaiendina failinimelaiend esmalt.
+**Märkus**: Nk2-fail nimetatakse ümber. Old failinime laiendiga järgmisel korral, kui käivitate Outlook 2013, Outlook 2016, Outlook 2019 või Outlook for Microsoft 365. Kui soovite nk2-faili uuesti importida, eemaldage esmalt. Old failinime laiend.
 
-Lisateabe saamiseks vaadake [Import või kopeerimine teise arvutisse automaatteksti loend](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Lisateavet leiate jaotisest [automaatse täieliku loendi importimine või kopeerimine teise arvutisse](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

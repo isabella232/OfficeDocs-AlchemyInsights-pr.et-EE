@@ -1,9 +1,9 @@
 ---
-title: 8000035 jäta Outlook.com beeta
+title: 8000035 jäta Outlook.com Beta
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,18 +18,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 8ee26da8360626165d120b592dec9d32b3d48dce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542877"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762745"
 ---
-# <a name="the-new-outlookcom"></a>Uue Outlook.com
+# <a name="the-new-outlookcom"></a>Uus Outlook.com
 
-See ei ole enam jätta Outlook.com beta ja tagasi Outlook.com-i tavaversiooni.
+See ei ole enam võimalik jätta Outlook.com beta ja naasta klassikaline versioon Outlook.com.
   
-Kui soovite anda tagasisidet uue Outlook.com, minge [UserVoice Foorum](https://go.microsoft.com/fwlink/p/?linkid=851599). Sa hääletada ideid või soovite näha küsimusi ja vastame top kommentaare ja ettepanekuid.
+Kui soovite anda tagasisidet uue Outlook.com, [UserVoice Foorum](https://go.microsoft.com/fwlink/p/?linkid=851599). Võite hääletada ideede või teemade üle, mida soovite käsitleda, ja me vastame otse tippkommentaaridele ja ettepanekutele.
   
-[Lisateavet uue Outlook.com-i.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Lisateave uue Outlook.com kohta.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

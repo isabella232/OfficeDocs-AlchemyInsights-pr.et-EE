@@ -3,7 +3,7 @@ title: Muuda oma profiilinime Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6f90968c23674274f4f516572828fe7a52c7818c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36546716"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760660"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Muuda oma profiilinime Outlook.com
 
-1. Minge [oma Microsofti kontoteabe](https://go.microsoft.com/fwlink/p/?linkid=860841)juurde.
+1. [oma Microsofti kontoteabe](https://go.microsoft.com/fwlink/p/?linkid=860841)juurde.
 2. Valige **Redigeeri nime**.
 3. Sisestage eesnimi ja perekonnanimi ning valige **Salvesta**.
 

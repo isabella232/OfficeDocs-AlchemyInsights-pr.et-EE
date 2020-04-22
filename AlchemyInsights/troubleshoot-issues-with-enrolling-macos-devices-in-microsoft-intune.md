@@ -1,9 +1,9 @@
 ---
-title: Tõrkeotsingu kasutamine Microsoft Intune macOS seadmete
+title: Microsoft Intune ' i sisseveeretavate macOS-seadmetega seotud probleemide tõrkeotsing
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 6c2293852554ce9be066975c4b8937444e544779
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5322a6054294ff475323ade91a052e2dd678a37
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499995"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736118"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Tõrkeotsingu kasutamine Microsoft Intune macOS seadmete
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Microsoft Intune ' i sisseveeretavate macOS-seadmetega seotud probleemide tõrkeotsing
 
-Läbi nende lahendamiseks nüüd allpool loetletud ressurssidele.
+Vaadake allpool loetletud ressursid probleemi lahendamiseks kohe.
   
-1. Diagnoosimiseks ja lahendamiseks ühise registreerimise rikete [Intune tõrkeotsingu portaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) abil. Läbi [selle dokumendi](https://docs.microsoft.com/intune/help-desk-operators) lisateabe saamiseks.
+1. Levinud registreerimise tõrgete diagnoosimiseks ja lahendamiseks kasutage [tõrkeotsingu portaali Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Vaadake [seda dokumenti](https://docs.microsoft.com/intune/help-desk-operators) rohkem üksikasju.
 
-2. Nimekiri kõige sagedasemad vead, mis takistavad registreerimine ja lahendused igale [dokumendi](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) läbivaatamiseks.
+2. Vaadake [seda dokumenti](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) levinud tõrgete loendi, mis takistavad registreerimise ja resolutsioonide iga.
 
-3. [Kuidas registreeruda macOS seadmeid Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
+3. [Vaadake, kuidas registreeruda macOS-seadmeid Microsoft Intune ' is](https://docs.microsoft.com/intune/macos-enroll).
 
-[Tutvu lõppkasutaja juhend registreerimiseks macOS seade Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Vaadake lõppkasutaja juhend registreeruda macOS seadme Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

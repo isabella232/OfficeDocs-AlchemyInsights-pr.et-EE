@@ -3,7 +3,7 @@ title: SharePointi või OneDrive ' i salvestusruumi haldamine
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: 111ab6b7833751a97341f8e2b365e74db7e749f4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b58aa242786fd09c83993e8ecc28c6a2d744dfcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049189"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762529"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>SharePointi või OneDrive ' i salvestusruumi haldamine
 
@@ -32,7 +32,7 @@ Lisateavet selle kohta, kuidas teie limiit arvutatakse, vaadake [SharePoint Onli
   
 Uute ja olemasolevate OneDrive ' i kasutajate vaikemäluruumi muutmiseks toimige järgmiselt.
   
-- Minge [OneDrive ' i administreerimiskeskuse salvestuslehele](https://admin.onedrive.com/?v=StorageSettings)ja sisestage uus summa GB-s.
+- [OneDrive ' i administreerimiskeskuse salvestuslehele](https://admin.onedrive.com/?v=StorageSettings)ja sisestage uus summa GB-s.
     
 Et kontrollida, kui palju salvestusruumi te oma OneDrive ' is kasutate, vaadake teemat [OneDrive for Business Storage haldamine](https://go.microsoft.com/fwlink/?linkid=866429). Teavet iga plaaniga kaasas oleva salvestusruumi kohta leiate teemast [OneDrive for Business Service kirjeldus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   

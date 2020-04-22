@@ -1,9 +1,9 @@
 ---
-title: Hallata automaatne uuendamine
+title: Automaatse uuendamise haldamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762601"
 ---
-# <a name="manage-recurring-billing"></a>Korduvate arvete haldamine
+# <a name="manage-recurring-billing"></a>Korduva arveldamise haldamine
 
-Siis saad uuendatavate arvelduse Microsoft 365 halduskeskus sisse või välja.
+Saate korduva arvelduse sisse või välja lülitada Microsoft 365 halduskeskus.
   
-1. Administreerimiskeskuses, minge **arved** \> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele.
+1. Minge halduskeskuses lehele **Arveldamine** \> [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. **Arved**, kõrval **Renews kohta** või **Expiring kohta**, valige **Redigeeri**.
+2. Tehke jaotises **Arveldamine**valiku **uuendamise järel** või **aegumisel**valik **Redigeeri**.
 
-3. **Korduv arvelduse sätted** paanil valige **Lülita välja** lülitada. Kui korduvate arvete juba sisse lülitatud, valige **kuu** või **üks kord** sisse.
+3. Valige paanil **korduv arveldussätted** suvand **Lülita välja** , et see välja lülitada. Kui korduv arveldamine on juba välja lülitatud, valige **kuu** või **üks kord** , et see sisse lülitada.
 
-4. Valige **Edasta muuta**.
+4. Valige **Edasta muudatus**.
 
-Lisateabe saamiseks vaadake teemasid [makse perioodi kaupa sisse või välja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Lisateavet leiate artiklist [Korduva arveldamise sisse- või väljalülitamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

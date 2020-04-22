@@ -1,9 +1,9 @@
 ---
-title: Kindlakstegemiseks on asetatud postkastid
+title: Postkastidele paigutatud hoidte tuvastamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538762"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724772"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Tuvastada omab postkastide kohta
+# <a name="identify-holds-placed-on-mailboxes"></a>Tuvastada hoiab paigutatud postkastid
 
-Kas teil on Office 365 sisu kohta **säilitada** on **hoidke** mis ei tuvasta? On vaja **teada,** kui **postkast** asub pagasiruumis? Omab (*säilitamise funktsioonid*) saab rakendada ühe järgmistest meetoditest, Office 365:
+Kas teil on Microsoft 365 sisu, mis **säilib** **Hold** , mida te ei saa tuvastada? Kas soovite **teada** saada, kus asub **postkast** ? Omab (*säilitusfunktsioone*) saab rakendada ühega järgmistest meetoditest:
   
-- Otsuse ootel
+- Kohtuvaidlused ootel
 
-- Hoidke e-juurdlus
+- eDiscovery hoidke
 
-- Kohapealne ootelepanek
+- Koht, kus hoida
 
-- Office 365 säilituspoliitika 
+- Microsoft 365 säilituspoliitika 
 
-  - Kindlas asukohas säilituspoliitikaid
+  - Spetsiifilised asukoha säilitamise poliitikad
 
-  - Kogu organisatsiooni säilituspoliitikaid
+  - Organisatsiooni hõlmav Säilituspoliitikad
 
-- Office 365 Sildid
+- Microsoft 365 Sildid
 
-Kindlaks teha, millist tüüpi hold on seotud kasutaja postkasti, Vaata [Kuidas tüübi hoidke Exchange Online'i postkasti panna](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Et tuvastada, millist tüüpi Hold on rakendatud kasutaja postkasti, vaadake, [Kuidas tuvastada tüüpi hoida paigutatud Exchange Online ' i postkasti](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

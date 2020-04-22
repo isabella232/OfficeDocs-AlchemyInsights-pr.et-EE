@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733194"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>OneDrive ' i jõudluse tõrkeotsing
 
@@ -22,7 +22,7 @@ Kui teil esineb oodatust aeglasemat sünkroonimist või sarnaseid jõudlusproble
 
 - Veenduge, et [teenuse tervise armatuurlaual](https://portal.office.com/adminportal/home?ref=/servicehealth)on teadaolevad probleemid.
 
-- [Lubage failid nõudmisel](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US) nii, et pääsete juurde kõigile oma failidele OneDrive ' i ilma, et peaksite kõik need alla laadima ja kasutama oma seadmes talletusruumi.
+- [Lubage failid nõudmisel](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) nii, et pääsete juurde kõigile oma failidele OneDrive ' i ilma, et peaksite kõik need alla laadima ja kasutama oma seadmes talletusruumi.
 
 - [Vaadata läbi](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) võrgu planeerimise ja tulemuslikkuse parimad tavad.
 

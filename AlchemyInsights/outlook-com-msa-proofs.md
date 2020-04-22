@@ -1,9 +1,9 @@
 ---
-title: Outlook.com-i MSA tõendid
+title: Outlook.com MSA korrekt
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,24 +15,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535963"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745897"
 ---
-# <a name="security-info-and-security-codes"></a>Turbeteabe ja turbekoodide kohta
+# <a name="security-info-and-security-codes"></a>Turbeteave ja turbekoodid
 
-Turbeteabe lisamine Microsofti konto:
+Turbeteabe lisamiseks oma Microsofti kontole toimige järgmiselt.
 
-1. Logige sisse [turvalisuse põhitõed](https://account.microsoft.com/security) Microsofti kontoga.
-1. Valige **turvalisuse kontakti andmed**.
-1. Valige **turbeteabe lisamine** ja järgige juhiseid, et telefoni või e-posti aadress.
-1. Saate sellel aadressil telefoni või turvakoodi. Sisestage saite **turbeteabe lisamine** aknas valige **Järgmine**.
+1. Logige sisse [turvalisuse põhitõed](https://account.microsoft.com/security) oma Microsofti kontoga.
+1. Valige **turvalisuse kontaktteave**.
+1. Valige **Lisa turbeteave** ja järgige juhiseid telefoninumbri või e-posti aadressi sisestamiseks.
+1. Selle telefoninumbri või e-posti aadressiga saate turvakoodi. Sisestage aknasse **turbeteabe lisamine** saadud turbekood ja klõpsake nuppu **edasi**.
 
-Kui soovite eemaldada telefoni või e-posti aadress, valige selle kõrval **eemaldada** .
+Kui soovite telefoninumbri või meiliaadressi eemaldada, valige selle kõrval käsk **Eemalda** .
 
-Kui muuta mis telefoni number või e-posti aadressi saab turvahoiatused, valige **märguande suvandite muutmine**.
+Kui soovite muuta, milline telefoninumber või e-posti aadress saab turbeteatisi, valige **Muuda teatiste suvandeid**.
 
-Lisateavet lugeda [Microsofti konto info ja kontrolli turbekoode](https://support.microsoft.com/help/12428/).
+Lisateabe saamiseks lugege [Microsofti konto turbeteavet ja kinnituskoode](https://support.microsoft.com/help/12428/).

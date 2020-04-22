@@ -1,9 +1,9 @@
 ---
-title: Logige Outlook.com-i
+title: Logige välja Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82e1926e267bd821b3374765878e6c7ce1e36d69
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557770"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743521"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Kuidas sisse logida Outlook.com-i Parimaks
+# <a name="how-to-sign-out-of-outlookcom"></a>Kuidas välja logida Outlook.com
 
-1. Valige oma nimel või pildil üleval paremal nurgas.
+1. Valige paremas ülanurgas oma nimi või pilt.
 
-    Ekraani ülaosas oma pilti ei kuvata, siis kontrollige, kui reklaami blokeerimine on sisse lülitatud. Mõnikord see takistab pildi näitamist.
+    Kui te ei näe oma pilti ekraani ülaosas, kontrollige, kas reklaami blokeerimine on sisse lülitatud. Mõnikord võib see takistada pildi kuvamist.
 
 2. Valige **Logi välja**.
 
-    Automaatselt sisselogimise peatamiseks tühjendage märkeruut jaoks **Jäta mind meelde** lehel, kui sisestate parooli.
+    Sisselogimise automaatseks peatamiseks tühjendage märkeruut, et **hoida mind** leheküljel, kuhu sisestate parooli.
 
-Lisateavet leiate teemast [sisselogimine või Outlook.com-i parimaks](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateabe saamiseks vaadake, [Kuidas sisse logida või välja Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

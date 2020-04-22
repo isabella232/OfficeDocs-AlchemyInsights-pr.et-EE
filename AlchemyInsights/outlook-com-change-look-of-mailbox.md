@@ -1,28 +1,28 @@
 ---
-title: Outlook.com postkasti ilme muutmine
+title: Outlook.com muuta oma postkasti ilme
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547671"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721908"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Teie Outlook.com postkasti ilme muutmine
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Outlook.com postkasti ilme muutmine
 
-Nimekirja ja lugemine kirjapaani Outlook.com-i välimuse muutmiseks.
+Saate muuta sõnumiloendi ja lugemispaani ilmet Outlook.com.
 
-- Sõnumiakna paigutuse muutmiseks avage [lugemispaani](https://outlook.live.com/mail/options/mail/layout/readingPane) suvandites.
-- Kuidas oma e-posti sortida ülaosas sõnumiloendis valige **Filter** > **Sortimisalus** ja valige, kuidas soovite sortida oma e-posti.
-- Vestluse sõnumeid rühmitada, avage oma [sõnumi](https://outlook.live.com/mail/options/mail/layout/conversations) suvandeid.
-- Keskendunud sisse või välja lülitamiseks Avage [paigutus](https://outlook.live.com/mail/options/mail/layout/focused) suvandid.
+- Sõnumiakna paigutuse muutmiseks avage [lugemispaani](https://outlook.live.com/mail/options/mail/layout/readingPane) suvandid.
+- E-kirja sortimise muutmiseks valige sõnumiloendis ülaosas **Filtreeri** > **Sortimisalus** ja valige, kuidas soovite oma meili sortida.
+- Sõnumite rühmitamist vestluse teel avage oma [Sõnumikasutuse](https://outlook.live.com/mail/options/mail/layout/conversations) suvandid.
+- Suunatud sisendkausta sisse-või väljalülitamiseks avage oma [paigutuse](https://outlook.live.com/mail/options/mail/layout/focused) suvandid.

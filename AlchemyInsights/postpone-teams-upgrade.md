@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626740"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758858"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kuidas edasi lükata Microsofti juhitud meeskonnad täiendamine
 
-Kui olete saanud teatise Microsofti juhitud automaatse versiooniuuenduse kohta Skype ' i ärirakenduse Microsoft Teamsi jaoks ja soovite automaatset täiendamist hiljem edasi lükata, saate Office ' i 365 Global admin sisse logida [meeskondade administreerimisportaali](https://admin.teams.microsoft.com/dashboard) ja valida nupu **Lükka edasi** . Oma rentniku automaatse versiooniuuenduse Microsoft Teamsi uue kuupäeva nägemiseks värskendage lehe meeskonnad admin portaali.
+Kui saite teatise Microsofti juhitud automaatse versiooniuuenduse kohta Skype ' i ärirakenduse Microsoft Teams juurde ja soovite automaatset täiendamist hiljem edasi lükata, saab teie globaalne administraator sisse logida [meeskondade administreerimisportaali](https://admin.teams.microsoft.com/dashboard) ja valida nupu **Lükka edasi** . Oma rentniku automaatse versiooniuuenduse Microsoft Teamsi uue kuupäeva nägemiseks värskendage lehe meeskonnad admin portaali.
 
 **Märkus:** Nupp **Lükka edasi** on saadaval ainult juhul, kui olete saanud sõnumikeskuse teatise automaatse täiendamise kohta. 
 
-Office 365 globaalse administraatoritel saab käivitada ka [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) rohkem teada oma praeguse versiooniuuenduse olek. 
+Globaalne administraatoritel saab käivitada ka [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) rohkem teada oma praeguse versiooniuuenduse olek. 

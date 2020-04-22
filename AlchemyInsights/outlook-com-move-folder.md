@@ -1,9 +1,9 @@
 ---
-title: Outlook.com-is kausta teisaldada
+title: Teisalda kaust Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
 ms.custom:
 - "8000062"
 - "1070"
-ms.openlocfilehash: f8de9ceaa7d249f187a5e96b2c728440e0e434b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e1012b151c064b32ea35086dac398d72205f16f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546119"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746323"
 ---
-# <a name="move-a-folder-in-outlookcom"></a>Outlook.com-is kausta teisaldada
+# <a name="move-a-folder-in-outlookcom"></a>Teisalda kaust Outlook.com
 
-Te saate reorganiseerida kaustad kaustas **Lemmikud**, kuid ei saa järjestada kaustad **kausta** või kausta alamkausta teha. Kui te kogemata kausta teisaldada mõnda muusse kausta, luua uus kaust ja kopeerida uude kausta alamkausta oma e-posti.
+Saate kaustu **lemmikute**all ümber paigutada, kuid kaustu ei saa **kaustadesse** ümber paigutada ega kausta alamkausta teha. Kui teisaldate kogemata kausta mõnda muusse kausta, looge uus kaust ja kopeerige kõik oma meilisõnumid alamkaustast uude kausta.
   
-Lisateabe saamiseks lugege [sõnumi kaustade Outlook.com-is](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateabe saamiseks lugege [Outlook.com sõnumikaustadega töötamise](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)kohta.

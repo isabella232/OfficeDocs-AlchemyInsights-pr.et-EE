@@ -1,34 +1,34 @@
 ---
-title: Office 365 täiustatud ohutõrje tõrkeotsing
+title: Tõrkeotsing Office 365 täiustatud ohutõrje
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765009"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732398"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Office 365 täiustatud ohutõrje tõrkeotsing
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Tõrkeotsing Office 365 täiustatud ohutõrje
 
-- Kas te teate sõnumi kohaletoimetamise viivituse? Kasutada [Dünaamilise tellimise](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) võimalus ATP Safe Attachments poliisil. See aitab vältida sõnumi viivitusi, samal ajal kaitstes adressaadid pahatahtlike faile.
+- Kas märkate viivitusi sõnumi kohaletoimetamisega? Kasutage oma ATP turvaliste manuste poliitika [dünaamilise kohaletoimetamise](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) suvandit. See aitab vältida sõnumi viivitusi, kaitstes adressaadid pahatahtlike failide.
 
-- Kas soovite teavitada Microsofti valepositiivseid või valenegatiivseid? Kasuta seda [linki](https://www.microsoft.com/wdsi/filesubmission/) failid analüüsiks.
+- Kas soovite Microsoftile esitada valeandmeid või valenegatiivseid andmeid? Seda [linki](https://www.microsoft.com/wdsi/filesubmission/) saate kasutada analüüsimiseks failide edastamiseks.
 
-- Kas teadsite, et saate lubada Safe Links kaitse sisemise meilisõnumid vahel adressaadile oma organisatsioonis? Toimige järgmiselt.
+- Kas teadsite, et saate lubada turvaliste linkide kaitse sisemise meili kaudu, mis saadetakse teie organisatsioonis adressaatide vahel? Tehke järgmist.
 
-  1. Mine [https://protection.office.com](https://protection.office.com) ja logite sisse globaalne administraatori või turvalisuse administraatori konto.
+  1. [https://protection.office.com](https://protection.office.com) ja logige sisse globaalse administraatori või turbeadministraatori kontoga.
 
-  2. Valige vasakpoolsel navigeerimispaanil alusel **ohu haldamise** **poliitika** \> **Safe Links**.
+  2. Valige jaotises **ohutõrje**Vasakpoolsel navigeerimispaanil **poliitika** \> **Turvalised lingid**.
 
-  3. **Saada kogu organisatsiooni** reeglites, valige poliitika ja klõpsake nuppu **Redigeeri**.
+  3. Poliitika, **mis kehtivad kogu organisatsiooni** jaotises, valige poliitika ja klõpsake nuppu **Redigeeri**.
 
-  4. **Rakenda ohutu linke ettevõtte saadetavatele**lubada jaotises **sätted**.
+  4. Lubage jaotises **sätted**luba **Rakenda turvalised lingid organisatsioonis saadetud sõnumitele**.

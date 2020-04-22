@@ -1,9 +1,9 @@
 ---
-title: Püüdes leida prooviversiooni?
+title: Üritades leida kohtuprotsessi?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533083"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732326"
 ---
-# <a name="trying-to-find-a-trial"></a>Püüdes leida prooviversiooni?
+# <a name="trying-to-find-a-trial"></a>Üritades leida kohtuprotsessi?
 
-Kui soovite proovida uut teenust, leiate tellimused olemas loetelu prooviversiooni Microsoft 365 administreerimiskeskuses.
+Kui soovite proovida uut teenust, leiate Microsoft 365 halduskeskuses prooviversiooni jaoks saadaolevate tellimuste loendi.
   
-1. Administreerimiskeskuses, minge **arved** \> [Ost](https://go.microsoft.com/fwlink/p/?linkid=868433) teenused.
+1. administreerimiskeskuses lehele **arveldamise** \> [Ostuteenused](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Valige tellimus, mis vastab teie vajadustele ja valige **Proovi tasuta**.
+2. Valige tellimus, mis vastab teie vajadustele ja valige **Hangi tasuta prooviversioon**.
 
     > [!NOTE]
-    > Kõik paketid on saadaval prooviversiooni. Kui **tasuta prooviversiooni** nuppu ei kuvata, kui hiirt üle tellimuse, see tähendab, et kohtuprotsessi pole saadaval.
+    > Kõik tellimused pole prooviversiooni jaoks saadaval. Kui te ei näe nuppu **saada tasuta prooviversiooni** , kui te hiirega üle tellimuse, see tähendab, et prooviversioon pole saadaval.
   
-3. Teil võidakse paluda sisestada krediitkaardi või muu makseviisita anda täiendava kontrolli turvalisuse huvides. Teilt ei võeta tasuta prooviversiooni. Me hoiab teie makseteavet faili ja ei kasuta seda ostu ilma teie nõusolekuta.
+3. Teil võidakse paluda sisestada krediitkaart või muu makseviis, et pakkuda turbemeetmena täiendavat kontrollimist. Sa ei tasu selle tasuta prooviversiooni eest. Me säilitame teie makseteabe faili ja ei kasuta seda ühegi ostu puhul ilma teie heakskiiduta.
 
-4. Valida, **Proovige nüüd**.
+4. Valige **proovi kohe**.

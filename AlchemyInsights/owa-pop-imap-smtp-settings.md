@@ -1,31 +1,31 @@
 ---
-title: Outlooki Web POP, IMAP ja SMTP sätteid
+title: POP, IMAP ja SMTP sätted Outlookis veebis
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556489"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721131"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & SMTP sätteid Outlook veebis
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & SMTP sätted Outlook veebis
 
-Kui soovite lisada oma Office 365 kontole teine meilirakendust, mis toetab POP-, IMAP-i või SMTP, järgnevalt tuleb käsitsi seaded:
+Kui soovite lisada oma Microsoft 365 konto teise e-posti rakendus, mis toetab POP, IMAP või SMTP, siin on käsitsi serveri seadeid vajate:
   
-- **IMAP-serveri nimi:** outlook.office365.com
-- **IMAP port:** 993
-- **IMAP krüptimise meetod:** SSL/TLS
-- **POP-serveri nimi:** outlook.office365.com  
-- **POP-port:** 995  
-- **POP krüptimise meetod:** SSL/TLS  
-- **SMTP-serveri nimi:** smtp.office365.com
-- **SMTP port:** 587
+- **IMAP-serveri nimi:** Outlook.office365.com
+- **IMAP-pordi:** 993
+- **IMAP-krüptimismeetod:** SSL/TLS
+- **Pop serveri nimi:** Outlook.office365.com  
+- **Pop Port:** 995  
+- **Pop-krüptimismeetod:** SSL/TLS  
+- **SMTP-serveri nimi:** SMTP.office365.com
+- **SMTP-Port:** 587
 - **SMTP krüptimise meetod:** STARTTLS

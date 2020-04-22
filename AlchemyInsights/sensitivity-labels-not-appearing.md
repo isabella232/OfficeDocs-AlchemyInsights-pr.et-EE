@@ -3,7 +3,7 @@ title: Tundlikkussilte ei kuvata
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048648"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758392"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Tundlikkussilte ei kuvata
 
-Tundlikkuse sildid võimaldavad teil oma tundliku sisuga sisu klassifitseerida ja kaitsta. Neid saab luua Microsoft 365 vastavuse keskus, Microsoft 365 Turvakeskus või Office 365 Security & vastavuse Center jaotises klassifikatsioon > tundlikkuse sildid. Selle funktsiooni kohta lisateabe saamiseks vaadake [tundlikkuse siltide ülevaade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Tundlikkuse sildid võimaldavad teil oma tundliku sisuga sisu klassifitseerida ja kaitsta. Neid saab luua Microsoft 365 vastavuse keskus, Microsoft 365 Turvakeskus või Microsoft 365 Security & vastavuse Center jaotises klassifikatsioon > tundlikkuse sildid. Selle funktsiooni kohta lisateabe saamiseks vaadake [tundlikkuse siltide ülevaade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Kui konfigureerisite tundlikkuse silte, kuid neid ei kuvata Office ' i rakendustes, kontrollige järgmist.
 
 - Kinnitage, et tundlikkuse silt on [avaldatud](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) soovitud kasutajatele ja rühmadele.
 
-- Kinnitage, et kasutaja kasutab tundlikkussilte toetavat rakendust – vt [dokumendi tundlikkuse silte](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Kinnitage, et kasutaja kasutab tundlikkussilte toetavat rakendust – vt [dokumendi tundlikkuse silte](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
 - Kui [migreerite Azure ' i teabekaitse silte](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), arvestage [siin](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)loetletud kaalutlustega.
 

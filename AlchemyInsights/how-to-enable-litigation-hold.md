@@ -3,7 +3,7 @@ title: 976-Kuidas lubada-kohtuvaidluse-ootel
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398623"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720728"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Asetage postkast juriidilisele
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398623"
 
 - Ühe kasutaja kohtuvaidluste ootel lubamiseks toimige [järgmiselt](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Kui kohtuvaidluste ootel on lubatud, säilitatakse kogu postkasti sisu.
 
-- Kõigi postkastide sisu säilitamiseks organisatsioonis saate kasutada [organisatsiooni hõlmav Office 365 säilituspoliitika](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Pange tähele, et organisatsiooni hõlmava säilituspoliitika puhul määratakse uutele kasutajatele automaatselt poliitika.
+- Kõigi postkastide sisu säilitamiseks organisatsioonis saate kasutada [organisatsiooni hõlmavat säilituspoliitikat](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Pange tähele, et organisatsiooni hõlmava säilituspoliitika puhul määratakse uutele kasutajatele automaatselt poliitika.
