@@ -1,9 +1,9 @@
 ---
-title: Lahendused "Office (64- või 32-bitine) ebaõnnestus
+title: Lahendused "Office ' i (64-bitine või 32-bitine) ei saa installida
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501195"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764185"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="eafe0-102">Lahenduste jaoks "Office (64- või 32-bitine) ebaõnnestus</span><span class="sxs-lookup"><span data-stu-id="eafe0-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="a7664-102">Lahendused "Office ' i (64-bitine või 32-bitine) ei saa installida</span><span class="sxs-lookup"><span data-stu-id="a7664-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
 
-<span data-ttu-id="eafe0-103">"Office (64- või 32-bitine) ebaõnnestus" tõrge ilmneb Office'i 32-bitine ja 64-bit versioonid ei saa segada.</span><span class="sxs-lookup"><span data-stu-id="eafe0-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
+<span data-ttu-id="a7664-103">"Office (64-bit või 32-bit) ei saa installida" tõrge ilmneb seetõttu, et te ei saa segada 64-bitine ja 32-bitised versioonid Office.</span><span class="sxs-lookup"><span data-stu-id="a7664-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
   
-<span data-ttu-id="eafe0-104">Määrata see viga ja üleminek 32-bitine 64-bitine, tehke järgmised selles järjekorras.</span><span class="sxs-lookup"><span data-stu-id="eafe0-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
+<span data-ttu-id="a7664-104">Selle tõrke lahendamiseks ja 32-bitisesse 64-bitisesse lülituda peate selles järjestuses tegema järgmist.</span><span class="sxs-lookup"><span data-stu-id="a7664-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
   
-1. <span data-ttu-id="eafe0-105">Laadida ja installida [toetust ja taastamise abimees](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="eafe0-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+1. <span data-ttu-id="a7664-105">Laadige alla ja installige [tugi- ja taasteteenuste abiline](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="a7664-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="eafe0-106">Avamisel, **eemaldada Office'i toodete** käsku uninstall ja valige **järgmise**versiooni.</span><span class="sxs-lookup"><span data-stu-id="eafe0-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="a7664-106">Kui see avaneb, alates **Uninstall Office ' i tooted** valige versioon, mida soovite desinstallida ja valige **edasi**.</span><span class="sxs-lookup"><span data-stu-id="a7664-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="eafe0-107">Jätkata läbimas ekraanid ja taaskäivitage arvuti, kui teilt küsitakse.</span><span class="sxs-lookup"><span data-stu-id="eafe0-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="a7664-107">Jätkake liikumist läbi kuvade ja taaskäivitage arvuti, kui seda palutakse teha.</span><span class="sxs-lookup"><span data-stu-id="a7664-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="eafe0-108">Pärast taaskäivitamist, toetust ja taastamise abimees uuesti avab automaatselt desinstalli lõpule viia.</span><span class="sxs-lookup"><span data-stu-id="eafe0-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="a7664-108">Pärast taaskäivitamist, toe ja taastamise abimees automaatselt uuesti avab lõpuleviimiseks uninstall protsess.</span><span class="sxs-lookup"><span data-stu-id="a7664-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="eafe0-109">Järgige allesjäänud viipasid ja [installige Office uuesti](https://portal.office.com/OLS/MySoftware.aspx) õige 32-bitine või 64-bitise versiooniga.</span><span class="sxs-lookup"><span data-stu-id="eafe0-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span>
+3. <span data-ttu-id="a7664-109">Järgige allesjäänud viipasid ja [installige Office uuesti](https://portal.office.com/OLS/MySoftware.aspx) õige 32-bitise või 64-bitise versiooniga.</span><span class="sxs-lookup"><span data-stu-id="a7664-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span>
 
-    <span data-ttu-id="eafe0-110">Järgige [Installi Office PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="eafe0-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
+    <span data-ttu-id="a7664-110">Järgige juhiseid [installida Office ' i arvutis](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="a7664-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
 
-<span data-ttu-id="eafe0-111">Lisateabe saamiseks vt ["Office (64 - või 32-bitine) ebaõnnestus" tõrge installimisel](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="eafe0-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
+<span data-ttu-id="a7664-111">Lisateabe saamiseks vaadake ["Office (64-bitine või 32-bitine) ei saa installida" tõrge, kui proovite paigaldada](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="a7664-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
   

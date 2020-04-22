@@ -1,28 +1,28 @@
 ---
-title: Rämpsposti ja rämpsposti Outlook Web
+title: Kauplemine rämpsposti ja rämpsposti Outlook veebis
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 151356f9bafa1fea6eb2c33d157e3fb7038ceef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c972537cb4f00c9310edeaa589391d5bbd8ebc62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555589"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768253"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a><span data-ttu-id="11d01-102">E-posti sõnumite märkimine rämpspostiks Outlook Web</span><span class="sxs-lookup"><span data-stu-id="11d01-102">Mark email messages as junk in Outlook on the web</span></span>
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a><span data-ttu-id="2ca75-102">E-kirjade märkimine rämpspostina Outlookis veebis</span><span class="sxs-lookup"><span data-stu-id="2ca75-102">Mark email messages as junk in Outlook on the web</span></span>
 
-<span data-ttu-id="11d01-103">Sõnumi märkimiseks rämpsposti kui valige sõnumiloendis sõnum ja valige **Junk** > **rämpsposti**.</span><span class="sxs-lookup"><span data-stu-id="11d01-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
+<span data-ttu-id="2ca75-103">Sõnumi märkimiseks rämpspostiks või rämpspostina valige sõnum sõnumiloendis ja valige > **Rämpspost**. **Junk**</span><span class="sxs-lookup"><span data-stu-id="2ca75-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
 
-<span data-ttu-id="11d01-104">Et blokeerida kõik sõnumid konkreetse e-posti aadress, valige sõnumiloendis sõnum või sõnumid ja valige **rämpsposti** > **plokk**.</span><span class="sxs-lookup"><span data-stu-id="11d01-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
+<span data-ttu-id="2ca75-104">Kõigi teatud meiliaadressist pärit sõnumite blokeerimiseks valige sõnumiloendis sõnum või sõnumid ja seejärel valige > **rämpsplokk**. **Junk**</span><span class="sxs-lookup"><span data-stu-id="2ca75-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
 
-<span data-ttu-id="11d01-105">Kui te kogemata rämpsposti sõnumi märkimine, valige rämpsposti kaustas sõnum ja valige **mitte rämpspostiks** > **mitte rämpspostiks**.</span><span class="sxs-lookup"><span data-stu-id="11d01-105">If you accidentally mark a message as junk, select the message in your Junk Email folder and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="11d01-106">(*Märkus:* oma rämpspostifiltri kausta üksused kustutatakse 30 päeva pärast.)</span><span class="sxs-lookup"><span data-stu-id="11d01-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+<span data-ttu-id="2ca75-105">Kui te kogemata märgistada sõnumi Rämpspost, valige sõnum oma rämpsposti kausta ja valige **ei rämpsposti** > **rämpsposti.**</span><span class="sxs-lookup"><span data-stu-id="2ca75-105">If you accidentally mark a message as junk, select the message in your Junk Email folder and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="2ca75-106">(*Märkus:* üksused rämpsposti kausta kustutatakse 30 päeva pärast.)</span><span class="sxs-lookup"><span data-stu-id="2ca75-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
 
-<span data-ttu-id="11d01-107">Vaadake lisateavet kuidas [rämpsposti ja rämpsposti teie Outlooki sisendkaustas web.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)</span><span class="sxs-lookup"><span data-stu-id="11d01-107">Learn more about how to [help keep spam and junk email out of your Outlook on the web inbox.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)</span></span>
+<span data-ttu-id="2ca75-107">Vaadake lisateavet selle kohta, kuidas [aidata rämpsposti ja rämpsposti oma Outlookist välja veebi postkasti.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)</span><span class="sxs-lookup"><span data-stu-id="2ca75-107">Learn more about how to [help keep spam and junk email out of your Outlook on the web inbox.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)</span></span>
