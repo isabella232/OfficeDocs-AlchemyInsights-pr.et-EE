@@ -1,9 +1,9 @@
 ---
-title: 1800014-rakenduse kasutajatugi Outlook mobile App
+title: 1800014 Hankige Rakendusesisese toe Outlooki mobiilirakenduse jaoks
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: d7c0acfa834f68977d2a04468fb39ac50e41023f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42fcbe6f0e5433a60149a2b58b232e2ab895d7aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524227"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759074"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a><span data-ttu-id="547f6-102">Rakendusesiseste kasutajatugi Outlook mobiilirakendus</span><span class="sxs-lookup"><span data-stu-id="547f6-102">Get in-app support for the Outlook mobile app</span></span>
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a><span data-ttu-id="a00f7-102">Rakenduse Outlook mobiilirakenduse Rakendusesisese toe saamiseks</span><span class="sxs-lookup"><span data-stu-id="a00f7-102">Get in-app support for the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="547f6-103">Outlook mobile rakendus, avage **menüü**.</span><span class="sxs-lookup"><span data-stu-id="547f6-103">In the Outlook mobile app, open the **Menu**.</span></span>
+1. <span data-ttu-id="a00f7-103">Avage Outlooki mobiilirakenduses **menüü**.</span><span class="sxs-lookup"><span data-stu-id="a00f7-103">In the Outlook mobile app, open the **Menu**.</span></span>
 
-2. <span data-ttu-id="547f6-104">Küsimärk avamiseks valige selle **aidata &amp; tagasiside** ekraani.</span><span class="sxs-lookup"><span data-stu-id="547f6-104">Select the question mark to open the **Help &amp; Feedback** screen.</span></span>
+2. <span data-ttu-id="a00f7-104">Valige küsimärk, et avada **spikri &amp; tagasiside** Kuva.</span><span class="sxs-lookup"><span data-stu-id="a00f7-104">Select the question mark to open the **Help &amp; Feedback** screen.</span></span>
 
-3. <span data-ttu-id="547f6-105">Koputage **Kontakti toe** ja selgitada oma probleemi.</span><span class="sxs-lookup"><span data-stu-id="547f6-105">Tap **Contact Support** and explain your issue.</span></span>
+3. <span data-ttu-id="a00f7-105">Puudutage valikut **Kontaktitugi** ja selgitage oma probleemi.</span><span class="sxs-lookup"><span data-stu-id="a00f7-105">Tap **Contact Support** and explain your issue.</span></span>
 
-4. <span data-ttu-id="547f6-106">Puudutage käsku **saada** ja saate rakendusesiseste teate kui tugiteenuste töötajalt kontaktid.</span><span class="sxs-lookup"><span data-stu-id="547f6-106">Tap **Send** and you'll receive an in-app notification when a support agent contacts you.</span></span>
+4. <span data-ttu-id="a00f7-106">Toksake **saada** ja te saate Rakendusesisese teate, kui tugiteenuse agent teiega ühendust võtab.</span><span class="sxs-lookup"><span data-stu-id="a00f7-106">Tap **Send** and you'll receive an in-app notification when a support agent contacts you.</span></span>
 
-<span data-ttu-id="547f6-107">Üksikasjalikud juhised leiate jaotisest [Outlooki iOS ja Android - rakenduse spikri](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span><span class="sxs-lookup"><span data-stu-id="547f6-107">For detailed instructions, see [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span></span>
+<span data-ttu-id="a00f7-107">Üksikasjalike juhiste saamiseks vaadake teemat [Outlooki iOS-i ja Androidi jaoks Rakendusesisese abi](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)saamiseks.</span><span class="sxs-lookup"><span data-stu-id="a00f7-107">For detailed instructions, see [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span></span>

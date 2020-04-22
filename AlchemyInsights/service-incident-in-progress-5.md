@@ -1,8 +1,8 @@
 ---
-title: Teenuse intsident pooleli
+title: Pooleliolev teenindusjuhtum
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550619"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719727"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="bfb06-102">Teenuse intsident pooleli</span><span class="sxs-lookup"><span data-stu-id="bfb06-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="b785f-102">Pooleliolev teenindusjuhtum</span><span class="sxs-lookup"><span data-stu-id="b785f-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="bfb06-103">Te võib mõjutada teenuse juhtumi või nõustamine mis on selgitamisel.</span><span class="sxs-lookup"><span data-stu-id="bfb06-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="bfb06-104">Saate [Teenuseid tervise](https://admin.microsoft.com/adminportal/home#/servicehealth) lehele minnes värskeimat olekut.</span><span class="sxs-lookup"><span data-stu-id="bfb06-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="b785f-103">Teid võidakse mõjutada teenindusjuhtum või nõustamine, mida praegu uuritakse.</span><span class="sxs-lookup"><span data-stu-id="b785f-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="b785f-104">Uusima oleku saate vaadata, minnes [teenuse tervise](https://admin.microsoft.com/adminportal/home#/servicehealth) lehele.</span><span class="sxs-lookup"><span data-stu-id="b785f-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="bfb06-105">Teie mugavuseks leiate kokkuvõtte selle juhtumi allpool:</span><span class="sxs-lookup"><span data-stu-id="bfb06-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="b785f-105">Teie mugavuse huvides võite leida kokkuvõtte sellest juhtumist allpool:</span><span class="sxs-lookup"><span data-stu-id="b785f-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="bfb06-106">**Juhtumi number:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="bfb06-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="b785f-106">**Juhtumi number:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="b785f-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="bfb06-107">Mõju kirjeldus: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="bfb06-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="b785f-107">Mõju kirjeldus: {Impactkirjeldus}</span><span class="sxs-lookup"><span data-stu-id="b785f-107">Impact description: {ImpactDescription}</span></span>
