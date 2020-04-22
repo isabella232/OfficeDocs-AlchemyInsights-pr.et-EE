@@ -1,8 +1,8 @@
 ---
-title: Tõrkekood 30125-4 või 30125-1011 Office'i installimisel
+title: Office ' i installimisel tõrkekood 30125-4 või 30125-1011
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: e57c0c5fd35f54c6fff70965e0010f3d013a8fe7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4853344968d0516e975cb71c5a92d070bdc454cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527068"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703058"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a><span data-ttu-id="dde2a-102">Tõrkekood 30125-4 või 30125-1011 Office'i installimisel</span><span class="sxs-lookup"><span data-stu-id="dde2a-102">Error code 30125-4 or 30125-1011 when installing Office</span></span>
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a><span data-ttu-id="98b72-102">Office ' i installimisel tõrkekood 30125-4 või 30125-1011</span><span class="sxs-lookup"><span data-stu-id="98b72-102">Error code 30125-4 or 30125-1011 when installing Office</span></span>
 
-<span data-ttu-id="dde2a-103">See tõrge võidakse kuvada, kui viirusetõrje tarkvara, tulemüür, proxy seaded või ühenduse takistavad teil installida Office.</span><span class="sxs-lookup"><span data-stu-id="dde2a-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="dde2a-104">Mõned asjad, proovige probleemi lahendamiseks.</span><span class="sxs-lookup"><span data-stu-id="dde2a-104">Here are some things you can try to fix the problem:</span></span>
+<span data-ttu-id="98b72-103">See tõrge võidakse kuvada juhul, kui teie viirusetõrje tarkvara, tulemüür, puhverserveri sätted või ühendus takistab Office ' i installimist.</span><span class="sxs-lookup"><span data-stu-id="98b72-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="98b72-104">Siin on mõned asjad, mida võite proovida probleemi lahendamiseks.</span><span class="sxs-lookup"><span data-stu-id="98b72-104">Here are some things you can try to fix the problem:</span></span>
   
-- <span data-ttu-id="dde2a-105">Taaskäivitage arvuti ja installige uuesti Office</span><span class="sxs-lookup"><span data-stu-id="dde2a-105">Restart your computer and reinstall Office</span></span>
+- <span data-ttu-id="98b72-105">Taaskäivitage arvuti ja installige Office uuesti</span><span class="sxs-lookup"><span data-stu-id="98b72-105">Restart your computer and reinstall Office</span></span>
 
-- <span data-ttu-id="dde2a-106">Installige Office abil [Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="dde2a-106">Install Office using the [Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
+- <span data-ttu-id="98b72-106">Office ' [i ühenduseta Installeri](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) abil installimine</span><span class="sxs-lookup"><span data-stu-id="98b72-106">Install Office using the [Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
 
-- <span data-ttu-id="dde2a-107">Puhverserveri sätete ajutine väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="dde2a-107">Temporarily turn off proxy settings</span></span>
+- <span data-ttu-id="98b72-107">Puhverserveri sätete ajutiselt väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="98b72-107">Temporarily turn off proxy settings</span></span>
 
-- <span data-ttu-id="dde2a-108">Viirusetõrjetarkvara ajutine väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="dde2a-108">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="98b72-108">Viirusetõrje tarkvara ajutiselt väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="98b72-108">Temporarily turn off antivirus software</span></span>
 
-- <span data-ttu-id="dde2a-109">Tulemüüri ajutine väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="dde2a-109">Temporarily turn off firewall</span></span>
+- <span data-ttu-id="98b72-109">Tulemüüri ajutiselt väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="98b72-109">Temporarily turn off firewall</span></span>
 
-<span data-ttu-id="dde2a-110">Lisateavet [tõrkekoodi 30125-4 või 30125-1011 Office'i installimisel](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="dde2a-110">For more information see [Error code 30125-4 or 30125-1011 when installing Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)</span></span>
+<span data-ttu-id="98b72-110">Lisateabe saamiseks vaadake [Office ' i installimisel tõrkekoodi 30125-4 või 30125-1011](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="98b72-110">For more information see [Error code 30125-4 or 30125-1011 when installing Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)</span></span>
   

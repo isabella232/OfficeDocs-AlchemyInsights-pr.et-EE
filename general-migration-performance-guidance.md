@@ -1,9 +1,9 @@
 ---
-title: Üldine migratsiooni tulemuslikkuse suunised
+title: Üldised migreerimise jõudluse juhised
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "5300030"
 - "3179"
 ms.assetid: ''
-ms.openlocfilehash: 2a9d796966daa64e6db8ca0f5c951e65d2ff29c4
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 0f754fd4264d7800e4e02a295147cded46aca817
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692653"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="10a86-102">Üldine migratsiooni tulemuslikkuse suunised</span><span class="sxs-lookup"><span data-stu-id="10a86-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="d69d5-102">Üldised migreerimise jõudluse juhised</span><span class="sxs-lookup"><span data-stu-id="d69d5-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="10a86-103">Migratsiooni jõudlus võib mõjutada võrgu infrastruktuuri, faili suurus, migratsiooni aeg ja ahendamine.</span><span class="sxs-lookup"><span data-stu-id="10a86-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="10a86-104">Nende mõistmine aitab teil planeerida ja maksimeerida rände tõhusust.</span><span class="sxs-lookup"><span data-stu-id="10a86-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="d69d5-103">Migreerimise jõudlust võivad mõjutada võrgutaristu, failimaht, migreerimiskellaaeg ja ahendamine.</span><span class="sxs-lookup"><span data-stu-id="d69d5-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="d69d5-104">Nende tegurite mõistmine aitab teil plaanida oma migreerimisprotsessi ja tagada suurim tõhusus.</span><span class="sxs-lookup"><span data-stu-id="d69d5-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
 
-[<span data-ttu-id="10a86-105">Üldine migratsiooni tulemuslikkuse suunised</span><span class="sxs-lookup"><span data-stu-id="10a86-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+[<span data-ttu-id="d69d5-105">Üldised migreerimise jõudluse juhised</span><span class="sxs-lookup"><span data-stu-id="d69d5-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)

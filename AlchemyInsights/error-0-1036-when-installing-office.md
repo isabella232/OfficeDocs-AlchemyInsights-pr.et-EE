@@ -1,8 +1,8 @@
 ---
-title: Tõrge 0-1036 Office'i installimisel
+title: Tõrge 0-1036 Office ' i installimisel
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527503"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703242"
 ---
-# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="efbf1-102">Tõrge 0-1036 Office'i installimisel</span><span class="sxs-lookup"><span data-stu-id="efbf1-102">Error 0-1036 when installing office</span></span>
+# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="9c45b-102">Tõrge 0-1036 Office ' i installimisel</span><span class="sxs-lookup"><span data-stu-id="9c45b-102">Error 0-1036 when installing office</span></span>
 
-<span data-ttu-id="efbf1-103">Proovige määrata oma Office viga 0-1036 järgmisi võimalusi:</span><span class="sxs-lookup"><span data-stu-id="efbf1-103">Try these solutions to fix your Office error 0-1036:</span></span>
+<span data-ttu-id="9c45b-103">Proovige neid lahendusi Office ' i tõrke 0-1036 parandamiseks:</span><span class="sxs-lookup"><span data-stu-id="9c45b-103">Try these solutions to fix your Office error 0-1036:</span></span>
   
-- <span data-ttu-id="efbf1-104">Taaskäivitage arvuti ja proovige uuesti [Office installida](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="efbf1-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span>
+- <span data-ttu-id="9c45b-104">Taaskäivitage arvuti ja proovige [Office ' i uuesti installida](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="9c45b-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span>
 
-- <span data-ttu-id="efbf1-105">Laadida ja installida [toetust ja taastamise abimees](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="efbf1-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="9c45b-105">Laadige alla ja installige [tugi- ja taasteteenuste abiline](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="9c45b-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="efbf1-106">Avamisel, **Desinstallige Office** toodetest valida versiooni desinstallida ning valige **Järgmine**.</span><span class="sxs-lookup"><span data-stu-id="efbf1-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
+1. <span data-ttu-id="9c45b-106">Kui see avaneb, valige **Uninstall Office ' i tooted** versiooni, mida soovite desinstallida, ja valige **edasi**.</span><span class="sxs-lookup"><span data-stu-id="9c45b-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
 
-2. <span data-ttu-id="efbf1-107">Jätkata läbimas ekraanid ja taaskäivitage arvuti, kui teilt küsitakse.</span><span class="sxs-lookup"><span data-stu-id="efbf1-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="9c45b-107">Jätkake liikumist läbi kuvade ja taaskäivitage arvuti, kui seda palutakse teha.</span><span class="sxs-lookup"><span data-stu-id="9c45b-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="efbf1-108">Pärast taaskäivitamist, toetust ja taastamise abimees uuesti avab automaatselt desinstalli lõpule viia.</span><span class="sxs-lookup"><span data-stu-id="efbf1-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="9c45b-108">Pärast taaskäivitamist, toe ja taastamise abimees automaatselt uuesti avab lõpuleviimiseks uninstall protsess.</span><span class="sxs-lookup"><span data-stu-id="9c45b-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="efbf1-109">Järgige allesjäänud viipasid ja [installige Office uuesti](https://portal.office.com/OLS/MySoftware.aspx) või sulgege abimees.</span><span class="sxs-lookup"><span data-stu-id="efbf1-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="9c45b-109">Järgige allesjäänud viipasid ja [installige Office uuesti](https://portal.office.com/OLS/MySoftware.aspx) või sulgege abimees.</span><span class="sxs-lookup"><span data-stu-id="9c45b-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
 
-- <span data-ttu-id="efbf1-110">Office'i installimiseks [kasutada Office'i offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="efbf1-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>
+- <span data-ttu-id="9c45b-110">Office [' i ühenduseta Installeri abil saate](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) installida</span><span class="sxs-lookup"><span data-stu-id="9c45b-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>
