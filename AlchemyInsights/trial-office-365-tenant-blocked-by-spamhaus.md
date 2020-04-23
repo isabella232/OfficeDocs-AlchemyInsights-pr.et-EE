@@ -1,8 +1,8 @@
 ---
-title: Trial Office 365 rentnikule blokeerinud Spamhaus
+title: Trial Microsoft 365 rentniku blokeeritud SpamHaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500405"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759868"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="a6e45-102">Viga, kui Office 365 prooviversioon kasutaja saadab e-posti: kliendi vastuvõtva blokeerida Spamhaus</span><span class="sxs-lookup"><span data-stu-id="a6e45-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="5342b-102">Tõrge, kui Microsoft 365 prooviversiooni kasutaja saadab e-posti: kliendi hosti blokeeritud kasutades SpamHaus</span><span class="sxs-lookup"><span data-stu-id="5342b-102">Error when a Microsoft 365 trial user sends email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="a6e45-103">Tundub, et saadate e-posti, uue Office 365 prooviversioon organisatsioonist.</span><span class="sxs-lookup"><span data-stu-id="a6e45-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="a6e45-104">Et vältida kuritarvitusi, blokeerime IP-aadressid, mis teadaolevalt varem sattunud.</span><span class="sxs-lookup"><span data-stu-id="a6e45-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="a6e45-105">See konkreetne sisse enam ei kohaldata pärast kasutamist tasuda litsentsid.</span><span class="sxs-lookup"><span data-stu-id="a6e45-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="a6e45-106">Võimalik saada ajutist leevendust, nõudes uue IP aadressi teie Interneti-teenuse pakkuja (ISP) või blokeeringu alt [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) veebilehel.</span><span class="sxs-lookup"><span data-stu-id="a6e45-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
+<span data-ttu-id="5342b-103">Tundub, et saadate e-posti uue Microsoft 365 prooviversiooni organisatsiooni.</span><span class="sxs-lookup"><span data-stu-id="5342b-103">It appears that you are sending email from a new Microsoft 365 trial organization.</span></span> <span data-ttu-id="5342b-104">Kuritarvitamise vältimiseks blokeerime IP-aadressid, mis teadaolevalt on varem ohustatud.</span><span class="sxs-lookup"><span data-stu-id="5342b-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="5342b-105">See konkreetne kontroll ei jõustu enam pärast tasulise litsentsi kasutamise alustamist.</span><span class="sxs-lookup"><span data-stu-id="5342b-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="5342b-106">Teil võib olla võimalik saada ajutist kergendust, küsides uue IP-aadressi oma Interneti-teenuse pakkujalt (ISP) või eemaldades bloki [SpamHaus](https://go.microsoft.com/fwlink/p/?linkid=123245) veebisaidilt.</span><span class="sxs-lookup"><span data-stu-id="5342b-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
