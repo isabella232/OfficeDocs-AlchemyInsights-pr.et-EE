@@ -2,7 +2,7 @@
 title: Vaheta oma Classic root saidi kaasaegne sait
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042923"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741540"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Vaheta oma Classic root saidi kaasaegne sait
 
@@ -28,7 +28,7 @@ Kui teie keskkond on seadistatud enne aprill 2019, saate muuta oma juursaiti kaa
 
 - Varsti võetakse kasutusele täiendavad võimalused, mis võimaldavad teil saidi sisu kasutada, kuid teisendage olemasolev sait suhtlussaidile. 
 >[!Important]
->Need võimed tehakse järk-järgult. Jätkake Office 365 Message Center värskenduste kontrollimiseks. 
+>Need võimed tehakse järk-järgult. Jätkake teadete keskuse värskenduste kontrollimiseks. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Teadaolevad probleemid vahetamise saidid
 
@@ -37,8 +37,3 @@ Kui teie keskkond on seadistatud enne aprill 2019, saate muuta oma juursaiti kaa
 - Midagi sõltub "staatiline" linke (nt faili sünkroonimine ja OneNote faile) tuleb käsitsi parandada.
 - Kui Lähtesait oli organisatsiooni uudistesait, värskendage URL-i.Saate hankida kõigi organisatsiooniuudiste saitide loendi.
 - Project Serveri saidid võib olla vaja valideerida, et tagada, et need on endiselt õigesti seotud.
-
-
-
-
-

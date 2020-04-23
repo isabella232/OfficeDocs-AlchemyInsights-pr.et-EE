@@ -1,9 +1,9 @@
 ---
-title: Tagasi kutsuda või asendada e-kirja
+title: E-kirja tagasivõtmine või asendamine
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +13,33 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553428"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742751"
 ---
-# <a name="recall-or-replace-an-email-message-in-office-365"></a>Tagasi kutsuda või asendada e-kirja rakenduses Office 365
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Tagasivõtmine või asendamine e-kirja rakenduses Microsoft 365
 
-- Saab **ainult turult sõnumid, mis saadetakse ettevõtte**. Kui sõnum saadeti Gmaili aadressi, näiteks ei mäleta seda.
-- Saab **ainult turult kirjad Outlook 2016 PC**. Kui kasutaja saadab sõnumi, kasutades Outlook for Mac või Outlook veebis, ei mäleta seda.
-- Kui olete administraator, saate **tagasikutsumise kirju PowerShelliga kasutajate nimel**. Ei mäleta sõnumeid halduskeskuse kaudu. Kerige "Otsida ja kustutada e-kirju teie organisatsiooni" Lisateavet.
+- Te saate **ainult meenutada sõnumeid, mis saadetakse inimestele teie organisatsioonis**. Kui sõnum saadeti näiteks Gmaili aadressile, ei saa te seda meenutada.
+- Saate **meenutada ainult sõnumeid, mis on saadetud Outlook 2016 arvuti jaoks**. Kui kasutaja saadab sõnumi, kasutades Outlook for Mac või Outlook veebis, ei mäleta seda.
+- Kui olete administraator, võite **meenutada sõnumeid kasutajate nimel PowerShelli abil**. Administreerimiskeskusest ei saa sõnumeid meenutada. Lisateabe saamiseks Kerige allapoole "Otsi ja Kustuta e-kirju oma organisatsioonis".
 
-**Tagasi kutsuda või asendada saadetud e-kirja**
+**Saadetud meilisõnumi tagasivõtmine või asendamine**
 
-1. Valige Outlooki vasakul paanil kausta kausta Saadetud.
-2. Avage sõnum, mida soovite mäleta. Peate sõnumi avamiseks topeltklõpsake. Nii et see kuvatakse lugemispaanil kuvada sõnumi seda valides ei luba sõnumi tagasikutsumine.
-3. Valige sõnum jaotises **toimingud** > **Kutsu see sõnum tagasi**.
-4. Valige **kustutada selle sõnumi lugemata eksemplarid** või **kustutada lugemata eksemplarid ja asendada need uue sõnumiga**ja seejärel valige **OK**.
-5. Asendamine sõnumi saatmisel Koosta sõnum ja valige **saada**.
-6. Sõnumi tagasikutsumise takistavaid sõltub adressaatide sätted Outlookis.
+1. Valige Outlooki aknast vasakul asuva kaustapaanil kaust saadetud.
+2. Avage sõnum, mida soovite meelde tuletada. Sõnumi avamiseks peate topeltklõpsama. Sõnumi valimine lugemispaanil ei võimalda teil sõnumit meenutada.
+3. Valige vahekaardil sõnum suvand **Tegevused** > **Meenuta seda sõnumit**.
+4. Valige **kustutage selle sõnumi lugemata koopiad** või **kustutage lugemata koopiad ja asendage see uue sõnumiga**, seejärel valige **OK**.
+5. Kui saadate asendussõnumi, koostage sõnum ja valige **saada**.
+6. Sõnumi tagasikutsumise õnnestumine või nurjumine sõltub adressaatide sätetest Outlookis.
 
-Vaadake lisateavet selle kohta, kuidas kontrollida tόhistamise, [tagasikutsumine või asendamine saadetud e-kirja](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+Lisateabe saamiseks, sealhulgas kuidas kontrollida tagasivõtmine, vaadake [tagasikutsumine või asendada e-kirja, mille te saatsite](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Otsida ja kustutada e-kirju teie organisatsiooni*** Otsida ja kustutada e-kirju teie ettevõttes, on lihtsam kui oled global admin. Kui sa ei ole globaalne admin, konto lisatakse e-juurdluse haldur rollirühma või vastavuse Otsi haldusrollile. Sõnumite kustutamiseks peate organisatsioonihalduse rollirühma või otsingu- ja Likvideeri RBAC-roll. Nende lubade määratakse [& vastavuse Turvakeskus](https://protection.office.com/).
+***E-kirjade otsimine ja kustutamine teie organisatsioonis*** Teie organisatsioonis meilisõnumite otsimiseks ja kustutamiseks on see lihtsaim, kui olete globaalne administraator. Kui te pole globaalne administraator, tuleb teie konto lisada eDiscovery halduri rollirühma või vastavuse otsingu haldamise rollile. Sõnumite kustutamiseks peate liituma organisatsiooni juhtimise rolligrupiga või otsingu ja Purge juhtimise rolliga. Nende rollide õigused on määratud [turvalisuse & vastavuse keskus](https://protection.office.com/).
 
-1. [Loo sisu otsida](https://docs.microsoft.com/office365/securitycompliance/content-search) leida sõnumi kustutamiseks.
-2. [Turvalisuse & vastavuse Center PowerShelli ühendamine](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Saate luua sisuotsingu](https://docs.microsoft.com/office365/securitycompliance/content-search) , et leida kustutatav sõnum.
+2. [Ühendage Security & vastavuse keskus PowerShelli](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-MFA kasutamisel vaadake [ühenduse loomine Office 365 turvalisuse & vastavuse Center PowerShelli kasutamine mitmefaktorilist autentimist](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Kui kasutate MFA, vaadake [ühendust Microsoft 365 security & vastavuse Center PowerShelli mitme teguriga autentimine abil](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

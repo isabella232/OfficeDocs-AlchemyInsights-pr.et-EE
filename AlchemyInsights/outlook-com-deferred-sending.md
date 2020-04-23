@@ -1,9 +1,9 @@
 ---
-title: Edasilükkunud Outlook.com-i saatmine
+title: Edasilükatud saatmine Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: d4df8902d8334b54582eacc3edd6ee13d463239d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 164da9375951c6a1a193b2026272fa211cc38f50
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546947"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760408"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Viivitamine või plaani järgi saatmine e-kirju
+# <a name="delay-or-schedule-sending-email-messages"></a>Meilisõnumite saatmise viivitus või ajastamine
 
-Vabandame, kuid mitte edasi lükata ega ajastada, mobiilse rakenduse või veebibrauseri e-kirju saata. Selleks, kasutage [Outlook Windows või Outlook Macile](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Vabandage, kuid te ei saa edasi lükata ega ajastada meilisõnumite saatmist mobiilirakenduse või veebibrauseri kaudu. Selleks kasutage [Outlook for Windows või Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
 
-**Võta saada**
+**Võta saatmine tagasi**
 
-Muutke oma Outlook.com-i sätteid edasi saatmine kuni 10 sekundit. Saate sõnumi saatnud selle aja jooksul. Selle funktsiooni sisselülitamiseks avage seadeid [Võta saada](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+Saate muuta oma Outlook.com sätteid, et viivitada sõnumi saatmisel kuni 10 sekundiks. Selle aja jooksul saate sõnumi saatmise tühistada. Selle funktsiooni sisselülitamiseks avage oma [undo saada](https://outlook.live.com/mail/options/mail/messageContent/undoSend) sätted.
 
-Lisateavet [meenutab email Outlook.com-is](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateave [e-kirja tuletades Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

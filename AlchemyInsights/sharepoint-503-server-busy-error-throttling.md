@@ -2,7 +2,7 @@
 title: SharePoint Online ' i ahendamine
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958715"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742205"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online ' i ahendamine
 
-**Oluline**: nendel enneolematul ajal me võtame meetmeid, et tagada SharePoint Online ' i ja OneDrive teenused on väga kättesaadavad-Palun külastage [SharePoint Online ajutised funktsiooni kohandused](https://aka.ms/ODSPAdjustments) lisateabe saamiseks.
+**Tähtis**! Nende enneolematude aegade jooksul võtame kasutusele meetmed, et säilitada SharePoint Online’i ja OneDrive’i teenuste hea kättesadavus. Lisateabe saamiseks vaadake teemat [SharePoint Online’i ajutised funktsioonide muudatused](https://aka.ms/ODSPAdjustments).
 
 **503 server on hõivatud tõrge**
 
 Kasutajad võivad saada 503 server on hõivatud tõrge katsel navigeerida SharePointi või OneDrive saidid. 
 
-See tõrge võib põhjustada ahendamine jooksul SharePointi teenus. SharePoint Online ' i kasutab ahendamine optimaalse jõudluse ja töökindluse SharePoint Online Service. Ahendamine piirab kasutajate toimingute või samaaegsete kõnede (skripti või koodi) arvu, et vältida ressursside ülekasutamist. 
+See tõrge võib põhjustada ahendamine jooksul SharePointi teenus. SharePoint Online kasutab SharePoint Online’i teenuste optimaalse jõudluse ja töökindluse säilitamiseks ahendamist. Ahendamine piirab kasutajate toimingute või samaaegsete kõnede arvu (skripti või koodi poolt), et ennetada ressursside ülekasutamist. 
 
 Ahendamise kohta lisateabe saamiseks [Vältige saada ahendatud või blokeeritud SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

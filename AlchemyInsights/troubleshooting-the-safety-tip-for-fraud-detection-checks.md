@@ -1,9 +1,9 @@
 ---
-title: Tõrkeotsingu ohutuse otsa pettuste avastamiseks kontrollib
+title: Pettuste tuvastamise kontrollide ohutusvihje veaotsing
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 7ce8bcc7caefebf51fc8d9622367fd16405deef1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 61159391f7a9876750cd7fefc40c54054fb9bec9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533174"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759508"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Tõrkeotsingu ohutuse otsa pettuste avastamiseks kontrollib
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Pettuste tuvastamise kontrollide ohutusvihje veaotsing
 
-Kui teil on saada ohutuse tip, mis ütleb "saatja ei meie pettuste avastamise kontrolli ja võib olla, kes need olevat" siis Saatja DKIM või SPF autentimise kontrolli läbida. Parim viis probleemi lahendamiseks on saatja ise lubada. Kui saatja saadab teie nimel, peate lubavad lisades saatja IP-aadress teie SPF-kirje.
+Kui teil on ohutu vihje, mis ütleb: "saatja ebaõnnestus meie pettuste tuvastamise kontrolli ja ei pruugi olla, kes nad tunduvad olevat", siis saatja ei läbinud kas DKIM või SPF autentimise kontrollid. Parim meetod selle lahendamiseks on saatja lubada end. Kui saatja saadab teie nimel, peate need lubama, lisades saatja IP-aadressi oma SPF-kirjele.
   
-Lisateavet vt [tõrkeotsing punane (kahtlane) ohutuse otsa pettuste avastamiseks kontrollib](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .
+Vaadake lisateavet [punase (kahtlase) ohutusvihje kohta pettuste tuvastamise kontrollimiseks](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .
   
-Siin on mõned lingid, mis aitavad:
+Siin on mõned muud lingid, mis aitavad:
   
-- [Kuidas Office 365 kasutab saatja poliitilise raamistiku (SPF), et vältida võltsimist](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [Kuidas Microsoft kasutab saatja poliitika raamistik (SPF) vältida tüssamine](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [Seadistada SPF Office 365, mis aitab vältida võltsimist](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Seadista SPF, et aidata vältida tüssamist](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)

@@ -1,9 +1,9 @@
 ---
-title: 1488-PERFORM-eDiscovery-and-content-Searches
+title: 1488-teha-eDiscovery-ja-sisu-otsingud
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555229"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764724"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sisu otsingud ja eDiscovery otsingu sooritamiseks
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kuidas sooritada sisu otsingud ja eDiscovery otsingud
 
-Kasutamise turvalisuse & vastavuse Center kiireks otsimiseks Exchange'i postkastides, SharePointi saidid ja OneDrive'i kontole ja vahetu sõnumside vestlusi Skype ettevõtetele e-posti sisu otsingumootor. Saate sisu otsingu abil otsida e-posti, dokumente ja sõnumside vestlusi Office 365 koostöö tööriistad nagu Microsoft Teams ja Office 365 rühmad.
+Sisu otsingu tööriista abil Security & vastavuse keskus kiiresti leida e-posti Exchange ' i postkasti, dokumente SharePointi saidid ja OneDrive konto ja vahetu sõnumside vestlused Skype ettevõtetele. Saate kasutada ka sisu otsingu tööriista otsida e-posti, dokumente ja vahetu sõnumside vestlused Microsoft 365 koostööriistad nagu Microsoft Teams ja Office 365 rühmad.
 
-**Sisu otsingu tegemiseks**
+**Sisuotsingu sooritamiseks**
 
-1. [Turvalisuse & vastavuse Center](https://protection.office.com) külastage ja logige sisse.
-2. Klõpsake **Otsi > otsing**.
-3. Klõpsake nuppu **Uus otsing** luua uus otsing.
-4. Sisestage vajalik otsingu tingimused, sealhulgas märksõnad ja sisu asukohad.  
-5. Klõpsake nuppu **salvestamine & run** nime otsing, käivitage see ja seejärel eelvaate.
+1. [turvalisuse & vastavuse keskus](https://protection.office.com) ja logige sisse.
+2. Klõpsake suvandit **otsi > sisu otsing**.
+3. Uue otsingu loomiseks klõpsake nuppu **Uus otsing** .
+4. Sisestage nõutavad otsingutingimused, sealhulgas märksõnad ja sisu asukohad.  
+5. Klõpsake nuppu **salvesta & käivitage** Otsingu nimi, käivitage see ja seejärel eelvaate tulemused.
 
-Üksikasjalikumad juhised sisu otsingud, tulemuste eksportimine ja luua eDiscovery juhtudel hoida andmeid, vt [Otsing](https://docs.microsoft.com/office365/securitycompliance/content-search) ja [eDiscovery juhtudel](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Üksikasjalike juhiste saamiseks sisu otsimise, tulemuste eksportimise ja eDiscovery juhtumite kohta andmete edastamiseks vaadake teemat [sisu otsing](https://docs.microsoft.com/office365/securitycompliance/content-search) ja [eDiscovery teenindusjuhtumid](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Mõista lähemalt vaadates [tingimused ja piirid](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) ja [uurib osaliselt indekseeritud üksuste](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) otsing ja tulemused teada.
+Sisuotsingu kohta saate aru, vaadates läbi [nõuded ja piirangud](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) ning [uurides osaliselt indekseeritud üksusi](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ja muid tulemusi, millest teadlikud olla.

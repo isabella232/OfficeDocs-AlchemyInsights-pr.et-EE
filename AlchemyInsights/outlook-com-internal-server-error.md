@@ -1,9 +1,9 @@
 ---
-title: 9000234 Outlook.com-i serveri sisemine tõrge
+title: 9000234 Outlook.com Sisemine serveritõrge
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 5ba6eaacdc2f763948e7c34d50231fafe4138d5c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3f21b33866d0fe420c42b0c54350a43c99777f6f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536539"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760084"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Outlook.com-i serveri sisemine vigu
+# <a name="internal-server-errors-in-outlookcom"></a>Sisemine Serveritõrked Outlook.com
 
-Oh ei! Kui kuvatakse "Error 500" või "Internal Server Error" sõnum, see on meile ja sa ei - kahju sellest.
+Oh ei! Kui näete "Error 500" või "Sisemine serveritõrge" sõnum, see on meie ja mitte teil-vabandan selle pärast.
 
-Vaadake [Office teenuse oleku lehel](https://portal.office.com/servicestatus) veenduge, et seal on midagi veel toimub, kuid parim lahendus on teha pausi paar minutit, seejärel värskendage oma brauserit vajutades **CTRL** ja **F5**.
+Vaadake [Office ' i teenuse oleku lehte](https://portal.office.com/servicestatus) veendumaks, et seal ei ole midagi muud, kuid parim lahendus on pausi paar minutit, seejärel värskendage oma brauseri vajutades **Ctrl** ja **F5**.

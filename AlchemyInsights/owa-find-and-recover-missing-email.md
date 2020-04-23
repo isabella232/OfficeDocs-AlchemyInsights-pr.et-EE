@@ -1,9 +1,9 @@
 ---
-title: Leida ja taastada kadunud või kustutatud e-posti, sündmuste kalender või kontaktid
+title: Puuduvate või kustutatud meilide, kalendrisündmuste või Kontaktide otsimine ja taastamine
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "8000003"
 - "1991"
-ms.openlocfilehash: 2b458c46f98b5f82fab33add6d66d7b34f8b9bfd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee8a6d9bd660179f1da4ec267462ca580b3139d9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510403"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768469"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>Leida ja taastada kadunud või kustutatud e-posti, sündmuste kalender või Kontaktid Outlook Web
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>Puuduvate või kustutatud meilide, kalendrisündmuste või Kontaktide otsimine ja taastamine Outlookis veebis
 
-- Mail, kasutage selle <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- ** [Sõnumite või kontaktide](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b)otsimine lehe ülaosas otsinguriba.**
+- E-postiga kasutage <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Otsinguriba** lehe ülaosas, et [otsida sõnumeid või kontakte](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).
 
-- Kalender, kasutage selle <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- ** [Otsi üritusi](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477)kasutades sõna, nime või fraasi lehekülje alguses otsinguriba.** Kui teil on mitme kalendri avada, Otsi keskendub hetkel valitud kalender.
+- Kalendris kasutage <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Otsinguriba** lehe ülaosas [, et otsida sündmusi, kasutades sõna, nime või fraasi](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477). Kui teil on rohkem kui üks kalender avatud, keskendub otsing praegu valitud kalendrile.
 
-- Kui kustutate kogemata sõnumi, kalendrisündmuse või kontakti, saate [need üksused, kui nad ikka on kustutatud või rämpspostifiltri kausta taastada](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+- Kui kustutate kogemata sõnumi, kalendrisündmuse või kontakti, saate [need üksused taastada, kui need on endiselt kaustas Kustutatud või rämpspost](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).

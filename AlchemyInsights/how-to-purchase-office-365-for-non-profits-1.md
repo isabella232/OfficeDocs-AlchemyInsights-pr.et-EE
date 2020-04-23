@@ -1,9 +1,9 @@
 ---
-title: Kuidas osta Office 365 aatteellisuus
+title: Kuidas osta Office 365 mittetulundusühingutelt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 930c64aab2278471776f2530bf93892b4afb1f67
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 83eb3cb797ebb7c0e2c3ce0e9449390e71d05341
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390868"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763573"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Kuidas osta Office 365 aatteellisuus
+# <a name="how-to-purchase-office-365-for-non-profits"></a>Kuidas osta Office 365 mittetulundusühingutelt
 
-Oma staatust Microsoft kvalifitseeritud mittetulunduslik organisatsioon heaks kiideti. Osta:
+Teie olek Microsofti kvalifitseeritud Nonprofit organisatsioonina on kinnitatud. Ostmiseks tehke järgmist.
   
-1. Administreerimiskeskuses, minge **arved** \> [Ost](https://go.microsoft.com/fwlink/p/?linkid=868433) teenused.
+1. administreerimiskeskuses lehele **arveldamise** \> [Ostuteenused](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Valige loendist all **Aatteellisuus plaanid**.
+2. Valige loendist **Mittetulundusplaanid**.
 
-3. Kursorit tellimus, mida soovite osta ja valida **Osta nüüd**.
+3. Hõljutage kursorit üle tellimuse, mida soovite osta, ja valige **osta kohe**.

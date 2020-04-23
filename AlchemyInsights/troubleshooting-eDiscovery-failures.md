@@ -3,7 +3,7 @@ title: 1490-tõrkeotsing-eDiscovery-tõrked
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759580"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Otsing tõrgete tõrkeotsing
+# <a name="troubleshoot-content-search-errors"></a>Sisuotsingu tõrgete tõrkeotsing
 
-Kas teil esineb probleeme Office 365 või saada rikete otsing Otsingu tulemused eksportimisel?
+Kas teil on probleeme sisu otsing või saada tõrkeid, kui ekspordite otsingutulemeid?
 
-Näiteks te saate järgmisi otsinguid sõites?
+Näiteks kas te saate otsingud käivitamisel järgmist?
 
-- CS008 või CS012
+- CS008 või CS012 tõrked
 
-- Serveri hõivatud/ajalõpu tõrgete
+- Serveri hõivatud/ajalõpu tõrked
 
-- Rakenduses ilmnes tõrge
+- Ilmnes rakenduse tõrge
 
-Või st eksportimisel tulemused palju postkaste (üle 100 000 postkasti), on muutumas ekspordi vigu?
+Või kui otsida või eksportida tulemusi suur hulk postkastid (üle 100 000 postkastid), kas saad ekspordi vead?
 
-Seda tüüpi vigade, proovige uuesti otsida sisu kohad, mis ei ole. Vaata [see artikkel](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) rohkem teavet.
+Seda tüüpi tõrgete puhul proovige otsida nurjunud sisu asukohti. Vaadake [seda artiklit](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) lisateabe saamiseks.

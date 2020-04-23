@@ -1,9 +1,9 @@
 ---
-title: Outlook.com-i saadab e-posti "nimel" minu e-posti aadress
+title: Outlook.com saadab e-posti aadress "minu nimel"
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "812"
 - "8000048"
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: 1739751052cef1bc57bb8e5667e7d7626ba11eb9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eee0659e9c9e691f25accce5af7386b3bb3bdf47
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521311"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765769"
 ---
-# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com-i saadab e-posti minu e-posti aadressi "nimel"
+# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com saadab e-posti "nimel" minu e-posti aadress
 
-Email saadetud ühendatud konto näitab saatmist "nimel" Microsofti konto. See on teadaolev probleem ja määratakse kindlaks tulevikus. Kuni selle ajani, saate muuta oma aadressi sama oma esmase Microsofti konto pseudonüüm.
+Ühendatud kontolt saadetud meilisõnum kuvatakse teie Microsofti konto "nimel" saatmisel. See on teadaolev probleem ja määratakse tulevikus vabastamist. Seni saate muuta oma aadress on sama, mis peamine Microsofti konto alias.
   
-Lisateabe saamiseks vt [Outlook.com-i saata e-posti minu e-posti aadressi "nimel"](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateabe saamiseks vaadake [Outlook.com saada e-posti "nimel" minu e-posti aadress](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).

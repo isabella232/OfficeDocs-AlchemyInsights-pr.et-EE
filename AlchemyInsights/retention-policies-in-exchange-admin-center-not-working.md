@@ -1,9 +1,9 @@
 ---
-title: Säilituspoliitikate Exchange'i administraatori Center ei tööta
+title: Säilituspoliitikad Exchange ' i halduskeskus ei tööta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,53 +12,53 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551339"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742429"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Säilituspoliitikate Exchange'i administraatori Center
+# <a name="retention-policies-in-exchange-admin-center"></a>Säilituspoliitikad Exchange ' i halduskeskus
 
- **Probleemi:** Vastloodud või Exchange'i administraatori Center uuendatud säilituspoliitikate ei taotle postkastidesse või üksusi ei arhiivi postkasti või kustutatakse. 
+ **Probleem:** Äsja loodud või värskendatud Säilituspoliitikad Exchange ' i halduskeskus ei kohaldata postkastid või üksused on teisaldatud arhiivi postkasti või kustutatud. 
   
- **Root põhjused:**
+ **Algpõhjuste:**
   
-- Põhjuseks võib olla peab **Hallatud kaustade abiline** on töödeldud postkasti. Hallatud kaustade abiline üritab teie pilvepõhise organisatsiooni iga seitsme päeva tagant iga postkasti töötlema. Kui muudate säilitussilti või rakendate postkastile muu säilituspoliitika, saate oodata, kuni õnnestus kausta aidata postkasti töötleb või käivitada cmdleti Start-ManagedFolderAssistant alustada abiline töötlemiseks konkreetne postkasti. Cmdlet-käsu käitamine on kasulik testimiseks või tõrkeotsinguks säilituspoliitika või säilitussildi sätete. Külastage lisateabe saamiseks [käivitada hallatud kaustade abiline](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Põhjuseks võib olla see, et **hallatud Kaustaabimeest** pole kasutaja postkasti töödeldud. Hallatud kaustade abimees proovib töödelda iga postkasti oma pilvepõhise organisatsiooni kord iga seitsme päeva järel. Kui muudate säilitusmärgendit või rakendada mõnda muud säilituspoliitika postkasti, saate oodata, kuni hallatav kaust aitab töötleb postkasti või käivitage cmdleti Start-ManagedFolderAssistant käivitada hallatav kaust abimehe töödelda konkreetse postkasti. Selle cmdlet-käsu käitamine on kasulik säilituspoliitika või säilitusmärgendi sätete testimiseks või tõrkeotsinguks. Lisateabe saamiseks külastage [hallatava kausta abimehe käivitamine](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Lahendus:** Alustada abiline konkreetsele postkastile järgmine käsk:
+  - **Lahendus:** Käivitage järgmine käsk käivitada hallatav kaust Assistant konkreetse postkasti:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- See võib ilmneda ka siis, kui **RetentionHold** on **lubatud** postkasti. Kui postkast on saanud RetentionHold, säilituspoliitika postkastis ei töötle selle aja jooksul. Rohkem teavet vt RetentionHold sätte puhul: [Postkasti säilituse ooteloleku](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- See võib ilmneda ka siis, kui **Retentionhold** on **lubatud** postkasti. Kui postkast on paigutatud RetentionHold, säilituspoliitika postkasti ei töödelda selle aja jooksul. Rohkem teavet kohta retentionhold säte vt: [postkasti säilitamise hoidke](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **Lahendus:**
     
-  - Kindla postkasti [EKSO](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)PowerShelli RetentionHold sisselülitamiseks oleku kontrollimiseks:
+  - Kontrollige oleku RetentionHold kindla postkasti [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Käivitage järgmine käsk **keelata** RetentionHold konkreetse postkasti:
+  - Käivitage järgmine käsk **keelata** retentionhold konkreetse postkasti:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Nüüd käivitage uuesti Managed kausta assistent:
+  - Nüüd käivitage hallatav kausta abimees uuesti:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Märkus:** Kui postkast on väiksem kui 10 MB, abiline ei töötleb automaatselt postkasti.
+ **Märkus:** Kui postkast on väiksem kui 10 MB, hallatav kaust Assistant ei töötle automaatselt postkasti.
  
-Säilituspoliitikate Exchange'i administraatori Center kohta lisateabe saamiseks vaadake:
-- [Säilituspoliitikate ja säilitussiltide](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Säilituspoliitika rakendada postkastid](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Lisada või eemaldada säilitussiltide](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Kuidas sideliigi ootele pandud postkasti](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+Exchange ' i halduskeskus säilituspoliitika kohta lisateabe saamiseks vaadake:
+- [Säilitussildid ja Säilituspoliitikad](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Säilituspoliitika rakendamine postkastidele](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Säilitussiltide lisamine või eemaldamine](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Kuidas tuvastada tüüpi hoidke postkasti](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

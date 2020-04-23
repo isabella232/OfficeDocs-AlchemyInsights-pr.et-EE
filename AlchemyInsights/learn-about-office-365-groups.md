@@ -1,9 +1,9 @@
 ---
-title: 610 teave Office 365 rühmad
+title: 610 õppida Office 365 rühmad
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b67781d510c582737f6f1eb3643024ae044de024
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497691"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762853"
 ---
-# <a name="learn-about-office-365-groups"></a>Siin on teavet Office 365 rühmad
+# <a name="learn-about-office-365-groups"></a>Teave Office 365 rühmade kohta
 
-Office 365 rühmad on teenus, mis töötab Office 365 tööriistade abil kasutate juba, et te saate teha koostööd oma töökaaslastega kirjutamiseks dokumentide, arvutustabelite, projekti kavandatud kallal, plaanimise koosolekud või e-posti saatmisel. Lisateabe saamiseks vaadake teemat [Office 365 rühmade kohta](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Office 365 rühmad on teenus, mis töötab Office 365 tööriistadega, mida kasutate juba, nii et saate oma meeskonnakaaslastega teha dokumentide kirjutamisel, arvutustabelite loomisel, projektiplaanide koostamisel, plaanimiskoosolekutel või meili saates koostööd. Lisateabe saamiseks vaadake [Lisateavet Office 365 rühmade kohta](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

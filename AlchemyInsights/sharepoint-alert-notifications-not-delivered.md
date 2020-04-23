@@ -3,7 +3,7 @@ title: SharePointi teatiste teatisi pole tarnitud
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047063"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742043"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePointi teatiste teatisi pole tarnitud
 
@@ -26,7 +26,7 @@ Palun kontrollige rämpsposti kausta oma e-posti, kui mõnikord teateid võib mi
 
 Tehke kindlaks, kas **teatisi ei toimetata kohale** või kui konkreetset faili või teeki ei toimetata **eraldi teatist** .
 
-- **Üksikuid teatisi ei toimetata**: kui konkreetse faili või teegi konkreetset teatist ei toimetata kohale, võite proovida seda kustutada ja uuesti luua. Teatise uuestilaadamiseks vaadake teemat [SharePointi teatiste haldamine, vaatamine või kustutamine](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) .
+- **Üksikuid teatisi ei toimetata**: kui konkreetse faili või teegi konkreetset teatist ei toimetata kohale, võite proovida seda kustutada ja uuesti luua. Teatise uuestilaadamiseks vaadake teemat [SharePointi teatiste haldamine, vaatamine või kustutamine](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
 - **Kõik teatised on tarnitud**: kui kõik teatised mitme faili või teegid ei toimetata, külastage [teenuse tervise armatuurlauale](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et kontrollida mis tahes nõusid/intsidente, mis võivad esineda SharePointi või Exchange ' iga. See probleem võib olla SharePointi hoiatuse võimalus või viivitused e-kirjade kaudu Exchange. Samuti on oluline märkida, kas muud e-posti toimetatakse ja kui mitte, probleem on tõenäoline, et Exchange viivitused.
 
 KKK hoiatuste kohta:
