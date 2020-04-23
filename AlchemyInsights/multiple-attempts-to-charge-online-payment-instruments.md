@@ -1,9 +1,9 @@
 ---
-title: Mitmekordset proovib laadida online maksevahendid
+title: Mitu katset nõuda online maksevahendid
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5bcba5903f9ca00b3c6235f9d07e165f35b2a66e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548675"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761990"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="48375-102">Mitmekordset proovib laadida online maksevahendid</span><span class="sxs-lookup"><span data-stu-id="48375-102">Multiple attempts to charge online payment instruments</span></span>
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="ad1f9-102">Mitu katset nõuda online maksevahendid</span><span class="sxs-lookup"><span data-stu-id="ad1f9-102">Multiple attempts to charge online payment instruments</span></span>
 
-<span data-ttu-id="48375-103">Teeme mitmeid katseid küsida enne tegutsemist Service online maksevahendid.</span><span class="sxs-lookup"><span data-stu-id="48375-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="48375-104">Pärast makse valitakse meetod, kõik tasumata summad tuleb tasuda valitud makseviisi.</span><span class="sxs-lookup"><span data-stu-id="48375-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="48375-105">Praeguse makse andmeid tellimuse värskendamiseks järgige [lisada, värskendada, või eemaldada krediitkaart või pangakonto Office 365 ettevõtteversioon](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="48375-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="ad1f9-103">Me teeme mitu katset nõuda online maksevahendid enne mis tahes toimingu tegemist.</span><span class="sxs-lookup"><span data-stu-id="ad1f9-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="ad1f9-104">Pärast makseviisi valimist tuleb kõik tähtaja ületanud summad maksta valitud makseviisi abil.</span><span class="sxs-lookup"><span data-stu-id="ad1f9-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="ad1f9-105">Tellimuse praeguse makseteabe värskendamiseks järgige juhiseid [Lisa, Uuenda või eemaldage krediitkaardi või pangakonto Microsoft 365 äri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="ad1f9-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>

@@ -1,9 +1,9 @@
 ---
-title: Edasilükkunud Outlook.com-i saatmine
+title: Edasilükatud saatmine Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: d4df8902d8334b54582eacc3edd6ee13d463239d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 164da9375951c6a1a193b2026272fa211cc38f50
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546947"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760408"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a><span data-ttu-id="c976f-102">Viivitamine või plaani järgi saatmine e-kirju</span><span class="sxs-lookup"><span data-stu-id="c976f-102">Delay or schedule sending email messages</span></span>
+# <a name="delay-or-schedule-sending-email-messages"></a><span data-ttu-id="5e54c-102">Meilisõnumite saatmise viivitus või ajastamine</span><span class="sxs-lookup"><span data-stu-id="5e54c-102">Delay or schedule sending email messages</span></span>
 
-<span data-ttu-id="c976f-103">Vabandame, kuid mitte edasi lükata ega ajastada, mobiilse rakenduse või veebibrauseri e-kirju saata.</span><span class="sxs-lookup"><span data-stu-id="c976f-103">Sorry, but you can't defer or schedule the sending of email messages in a mobile app or web browser.</span></span> <span data-ttu-id="c976f-104">Selleks, kasutage [Outlook Windows või Outlook Macile](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).</span><span class="sxs-lookup"><span data-stu-id="c976f-104">To do this, use [Outlook for Windows or Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).</span></span>
+<span data-ttu-id="5e54c-103">Vabandage, kuid te ei saa edasi lükata ega ajastada meilisõnumite saatmist mobiilirakenduse või veebibrauseri kaudu.</span><span class="sxs-lookup"><span data-stu-id="5e54c-103">Sorry, but you can't defer or schedule the sending of email messages in a mobile app or web browser.</span></span> <span data-ttu-id="5e54c-104">Selleks kasutage [Outlook for Windows või Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).</span><span class="sxs-lookup"><span data-stu-id="5e54c-104">To do this, use [Outlook for Windows or Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).</span></span>
 
-<span data-ttu-id="c976f-105">**Võta saada**</span><span class="sxs-lookup"><span data-stu-id="c976f-105">**Undo send**</span></span>
+<span data-ttu-id="5e54c-105">**Võta saatmine tagasi**</span><span class="sxs-lookup"><span data-stu-id="5e54c-105">**Undo send**</span></span>
 
-<span data-ttu-id="c976f-106">Muutke oma Outlook.com-i sätteid edasi saatmine kuni 10 sekundit.</span><span class="sxs-lookup"><span data-stu-id="c976f-106">You can change your Outlook.com settings to delay sending a message for up to 10 seconds.</span></span> <span data-ttu-id="c976f-107">Saate sõnumi saatnud selle aja jooksul.</span><span class="sxs-lookup"><span data-stu-id="c976f-107">You can cancel sending the message during this period.</span></span> <span data-ttu-id="c976f-108">Selle funktsiooni sisselülitamiseks avage seadeid [Võta saada](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .</span><span class="sxs-lookup"><span data-stu-id="c976f-108">To turn on this feature, open your [Undo send](https://outlook.live.com/mail/options/mail/messageContent/undoSend) settings.</span></span>
+<span data-ttu-id="5e54c-106">Saate muuta oma Outlook.com sätteid, et viivitada sõnumi saatmisel kuni 10 sekundiks.</span><span class="sxs-lookup"><span data-stu-id="5e54c-106">You can change your Outlook.com settings to delay sending a message for up to 10 seconds.</span></span> <span data-ttu-id="5e54c-107">Selle aja jooksul saate sõnumi saatmise tühistada.</span><span class="sxs-lookup"><span data-stu-id="5e54c-107">You can cancel sending the message during this period.</span></span> <span data-ttu-id="5e54c-108">Selle funktsiooni sisselülitamiseks avage oma [undo saada](https://outlook.live.com/mail/options/mail/messageContent/undoSend) sätted.</span><span class="sxs-lookup"><span data-stu-id="5e54c-108">To turn on this feature, open your [Undo send](https://outlook.live.com/mail/options/mail/messageContent/undoSend) settings.</span></span>
 
-<span data-ttu-id="c976f-109">Lisateavet [meenutab email Outlook.com-is](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="c976f-109">Learn more about [recalling email in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="5e54c-109">Lisateave [e-kirja tuletades Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="5e54c-109">Learn more about [recalling email in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

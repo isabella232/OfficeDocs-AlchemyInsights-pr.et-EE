@@ -3,7 +3,7 @@ title: 1490-tõrkeotsing-eDiscovery-tõrked
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759580"
 ---
-# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="56b57-102">Otsing tõrgete tõrkeotsing</span><span class="sxs-lookup"><span data-stu-id="56b57-102">Troubleshoot Content Search errors</span></span>
+# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="1f934-102">Sisuotsingu tõrgete tõrkeotsing</span><span class="sxs-lookup"><span data-stu-id="1f934-102">Troubleshoot Content Search errors</span></span>
 
-<span data-ttu-id="56b57-103">Kas teil esineb probleeme Office 365 või saada rikete otsing Otsingu tulemused eksportimisel?</span><span class="sxs-lookup"><span data-stu-id="56b57-103">Are you experiencing problems with Content Search in Office 365 or getting failures when you export search results?</span></span>
+<span data-ttu-id="1f934-103">Kas teil on probleeme sisu otsing või saada tõrkeid, kui ekspordite otsingutulemeid?</span><span class="sxs-lookup"><span data-stu-id="1f934-103">Are you experiencing problems with Content Search or getting failures when you export search results?</span></span>
 
-<span data-ttu-id="56b57-104">Näiteks te saate järgmisi otsinguid sõites?</span><span class="sxs-lookup"><span data-stu-id="56b57-104">For example, are you receiving the following when running searches?</span></span>
+<span data-ttu-id="1f934-104">Näiteks kas te saate otsingud käivitamisel järgmist?</span><span class="sxs-lookup"><span data-stu-id="1f934-104">For example, are you receiving the following when running searches?</span></span>
 
-- <span data-ttu-id="56b57-105">CS008 või CS012</span><span class="sxs-lookup"><span data-stu-id="56b57-105">CS008 or CS012 errors</span></span>
+- <span data-ttu-id="1f934-105">CS008 või CS012 tõrked</span><span class="sxs-lookup"><span data-stu-id="1f934-105">CS008 or CS012 errors</span></span>
 
-- <span data-ttu-id="56b57-106">Serveri hõivatud/ajalõpu tõrgete</span><span class="sxs-lookup"><span data-stu-id="56b57-106">Server busy/timeout errors</span></span>
+- <span data-ttu-id="1f934-106">Serveri hõivatud/ajalõpu tõrked</span><span class="sxs-lookup"><span data-stu-id="1f934-106">Server busy/timeout errors</span></span>
 
-- <span data-ttu-id="56b57-107">Rakenduses ilmnes tõrge</span><span class="sxs-lookup"><span data-stu-id="56b57-107">Application error occurred</span></span>
+- <span data-ttu-id="1f934-107">Ilmnes rakenduse tõrge</span><span class="sxs-lookup"><span data-stu-id="1f934-107">Application error occurred</span></span>
 
-<span data-ttu-id="56b57-108">Või st eksportimisel tulemused palju postkaste (üle 100 000 postkasti), on muutumas ekspordi vigu?</span><span class="sxs-lookup"><span data-stu-id="56b57-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
+<span data-ttu-id="1f934-108">Või kui otsida või eksportida tulemusi suur hulk postkastid (üle 100 000 postkastid), kas saad ekspordi vead?</span><span class="sxs-lookup"><span data-stu-id="1f934-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
 
-<span data-ttu-id="56b57-109">Seda tüüpi vigade, proovige uuesti otsida sisu kohad, mis ei ole.</span><span class="sxs-lookup"><span data-stu-id="56b57-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="56b57-110">Vaata [see artikkel](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) rohkem teavet.</span><span class="sxs-lookup"><span data-stu-id="56b57-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>
+<span data-ttu-id="1f934-109">Seda tüüpi tõrgete puhul proovige otsida nurjunud sisu asukohti.</span><span class="sxs-lookup"><span data-stu-id="1f934-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="1f934-110">Vaadake [seda artiklit](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) lisateabe saamiseks.</span><span class="sxs-lookup"><span data-stu-id="1f934-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>

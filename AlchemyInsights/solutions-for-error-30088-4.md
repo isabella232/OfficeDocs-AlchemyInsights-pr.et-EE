@@ -1,9 +1,9 @@
 ---
-title: Lahenduste tõrgete 30088-4
+title: Lahendused tõrke 30088-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/10/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,25 +13,25 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc25a9ba8af90b7acba3ab3c978e03a3bcfd2d7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501651"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756879"
 ---
-# <a name="solutions-for-error-30088-4"></a><span data-ttu-id="f5689-102">Lahenduste tõrgete 30088-4</span><span class="sxs-lookup"><span data-stu-id="f5689-102">Solutions for error 30088-4</span></span>
+# <a name="solutions-for-error-30088-4"></a><span data-ttu-id="2aa11-102">Lahendused tõrke 30088-4</span><span class="sxs-lookup"><span data-stu-id="2aa11-102">Solutions for error 30088-4</span></span>
 
-<span data-ttu-id="f5689-103">Proovige järgmisi võimalusi parandada viga [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="f5689-103">Try these solutions to fix error [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="2aa11-103">Proovige neid lahendusi tõrke [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)parandamiseks:</span><span class="sxs-lookup"><span data-stu-id="2aa11-103">Try these solutions to fix error [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="f5689-104">Taaskäivitage arvuti ja proovige [Office installida](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="f5689-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="2aa11-104">Taaskäivitage arvuti ja proovige [Office ' i installida](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="2aa11-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
-- <span data-ttu-id="f5689-105">Laadida ja installida [toetust ja taastamise abimees](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f5689-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="2aa11-105">Laadige alla ja installige [tugi- ja taasteteenuste abiline](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2aa11-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="f5689-106">Avamisel, **eemaldada Office'i toodete** käsku uninstall ja valige **järgmise**versiooni.</span><span class="sxs-lookup"><span data-stu-id="f5689-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="2aa11-106">Kui see avaneb, alates **Uninstall Office ' i tooted** valige versioon, mida soovite desinstallida ja valige **edasi**.</span><span class="sxs-lookup"><span data-stu-id="2aa11-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="f5689-107">Jätkata läbimas ekraanid ja taaskäivitage arvuti, kui teilt küsitakse.</span><span class="sxs-lookup"><span data-stu-id="f5689-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="2aa11-107">Jätkake liikumist läbi kuvade ja taaskäivitage arvuti, kui seda palutakse teha.</span><span class="sxs-lookup"><span data-stu-id="2aa11-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="f5689-108">Pärast taaskäivitamist, toetust ja taastamise abimees uuesti avab automaatselt desinstalli lõpule viia.</span><span class="sxs-lookup"><span data-stu-id="f5689-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="2aa11-108">Pärast taaskäivitamist, toe ja taastamise abimees automaatselt uuesti avab lõpuleviimiseks uninstall protsess.</span><span class="sxs-lookup"><span data-stu-id="2aa11-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="f5689-109">Järgige allesjäänud viipasid ja [installige Office uuesti](https://portal.office.com/OLS/MySoftware.aspx) või sulgege abimees.</span><span class="sxs-lookup"><span data-stu-id="f5689-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="2aa11-109">Järgige allesjäänud viipasid ja [installige Office uuesti](https://portal.office.com/OLS/MySoftware.aspx) või sulgege abimees.</span><span class="sxs-lookup"><span data-stu-id="2aa11-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
