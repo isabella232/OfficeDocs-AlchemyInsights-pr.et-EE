@@ -1,30 +1,30 @@
 ---
-title: Mida ma saan Versioonimine?
+title: Mida ma saan teha versioonimise?
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: d479b44e9ef858b0279f2d7e053132a877aabbd2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531319"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765333"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Mida ma saan Versioonimine?
+# <a name="what-can-i-do-with-versioning"></a>Mida ma saan teha versioonimise?
 
-Kasutage SharePointi loendites ja teekides, et versioonimine.
+Saate kasutada Versioonimine SharePointi loendid ja teegid:
   
-- **Raja ajalugu versiooni**. Kui Versioonimine on lubatud, saate vaadata, millal üksust või faili muudeti ja kes seda tegi. Näete omadused (teavet faili kohta) muutmise. Näiteks kui keegi muudab loendiüksuse Millal, kuvatakse see teave versiooniajaloos. Näete inimesed teevad, kui nad kontrollida failide teekide kommentaare. 
+- **Versiooni ajaloo jälgimine**. Kui Versioonimine on lubatud, näete, millal üksust või faili muudeti ja kes seda muutis. Samuti näete, millal muudeti atribuute (teavet faili kohta). Näiteks kui keegi muudab loendiüksuse tähtaega, kuvatakse see teave versiooniajaloos. Samuti näete kommentaare, mida inimesed teevad failide teekidesse kontrollimiseks. 
     
-- **Varasema versiooni taastamine**. Kui olete teinud vea praeguses versioonis, kui praegune versioon on rikutud või kui sulle lihtsalt meeldib eelmise versiooni parem, te saate asendada praegune versioon varasemaga. Taastatud versioon on uus versioon. 
+- **Taasta eelmine versioon**. Kui tegite praeguses versioonis vea, kui praegune versioon on rikutud või kui soovite lihtsalt varasema versiooni paremini, võite asendada praeguse versiooni eelmise versiooniga. Taastatud versioon muutub uueks praeguseks versiooniks. 
     
-- **Vaade eelmise versiooni**. Kuvatakse eelmise versiooni praegust versiooni üle kirjutamata. Kui te vaatate versiooniajalugu Microsoft Office'i dokumendis, näiteks Wordi või Exceli faili, saate võrrelda määratlemaks, millised erinevused on kaks versiooni. 
+- **Saate vaadata eelmist versiooni**. Eelmist versiooni saate vaadata ilma praegust versiooni üle kirjutamata. Kui vaatate Microsoft Office ' i dokumendis (nt Wordi või Exceli failis) versiooniajalugu, saate võrrelda kahte versiooni erinevuste määratlemiseks. 
     
-[Lisateavet Versioonimine SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
+[Lisateave selle kohta, kuidas Versioonimine töötab SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

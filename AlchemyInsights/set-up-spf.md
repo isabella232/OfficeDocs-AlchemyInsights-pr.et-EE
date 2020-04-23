@@ -1,8 +1,8 @@
 ---
-title: Saate seadistada SPF
+title: Seadista SPF
 ms.author: pebaum
 author: pebaum
-ms.date: 12/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: ed03d39d8bc8724067fe2d98ca718ed9e5308d54
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2415864bc426fbf08a27c1b9d0b0e645fc5e921b
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549971"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789334"
 ---
-# <a name="set-up-spf-in-office-365"></a>SPF Office 365 seadistamine
+# <a name="set-up-spf"></a>Seadista SPF
 
-Uuenda oma DNS-kirjeid nii, et saate saatja poliitika raamistiku (SPF) koos kohandatud domeeni väljamineva e-posti saata oma kohandatud domeeni kinnitamiseks. See aitab vältida "tüssamine" mail kui see teie domeenist saadetud.
+Värskendage oma DNS-kirjete nii, et saate kasutada saatja poliitika Framework (SPF) oma kohandatud domeeni valideerida Väljamineva meili saata oma kohandatud domeeni. See aitab vältida teiste "tüssamine" Mail nagu see saadeti teie domeeni.
   
-- [Seadistada SPF Office 365, mis aitab vältida võltsimist](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Seadista SPF, et aidata vältida tüssamist](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Abi, kõik DNS-kirjete](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Abi kõigi DNS-kirjete seadistamine](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

@@ -14,12 +14,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769839"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765193"
 ---
 # <a name="where-is-power-pivot"></a>Kus on Power Pivot?
 
@@ -33,7 +33,7 @@ Kõik Exceli versioonid ei sisalda Power Pivot. Peate täiendama Office ' i vers
   
 Kui töötate Exceli versioonis, mis toetab Power Pivot, kontrollige, et lisandmoodul on lubatud:
   
-1. Valige **failisuvandite** \> **** \> **lisandmoodulid**.
+1. Valige **failisuvandite** \> **Options** \> **lisandmoodulid**.
 
 2. Valige rippmenüüst **Halda** **com-** lisandmoodulid ja klõpsake nuppu **Mine**.
 
@@ -41,4 +41,4 @@ Kui töötate Exceli versioonis, mis toetab Power Pivot, kontrollige, et lisandm
 
 **Teil on mitu tellimust või kontot**
   
-Võimalik, et teil on erinevad Office 365 tellimused, mis on määratud erinevatele kasutajakontodele. Veenduge, et olete kontole sisse logitud Exceli versiooniga, mis toetab Power Pivot-i. Kontrollige [toetatud versioonide](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)loendit ja järgige juhiseid [erinevate Office ' i kontode vahetamiseks](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Võimalik, et teil on erinevad Microsofti 365 tellimused, mis on määratud erinevatele kasutajakontodele. Veenduge, et olete kontole sisse logitud Exceli versiooniga, mis toetab Power Pivot-i. Kontrollige [toetatud versioonide](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)loendit ja järgige juhiseid [erinevate Office ' i kontode vahetamiseks](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

@@ -1,8 +1,8 @@
 ---
-title: Full versiooni Microsoft Teams
+title: Microsoft Teamsi täisversiooni täiendamine
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506213"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766525"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Full versiooni Microsoft Teams
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Microsoft Teamsi täisversiooni täiendamine
 
-On vaja täiendada tasuta täisversiooni Microsoft Teams? Vt [Microsofti meeskonnad uuendada tasuta versioon Office 365 tellimus](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Kas teil on vaja uuendada tasuta Microsoft Teamsi täisversiooni? Lugege Microsoft [Teams tasuta microsofti 365 tellimuse versiooni täiendamine](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Peate vastama järgmistele nõuetele:
+Peate vastama nendele nõuetele:
 
-- Sa oled inimene, kes tasuta versioon meeskonnad sisse loginud.
-- Kui teil on oma domeen, juba ei saa olla seotud Azure Active Directory.
-- Andmesideks uuendamisel, peate teenuse versiooniuuenduse installimise käigus. Kui ostsite Office 365 väljaspool täiendamist, ei saa edastada andmeid.
+- Te olete isik, kes registreeris üles praeguse tasuta versiooni meeskonnad.
+- Kui teil on oma domeeni, see ei saa juba seotud Azure Active Directory.
+- Andmete ülekandmiseks versiooniuuenduse installimisel peate tellima versiooniuuenduse installimise käigus. Kui ostsite tellimuse väljaspool versiooniuuendusprotsessi, ei saa te andmeid edastada.
