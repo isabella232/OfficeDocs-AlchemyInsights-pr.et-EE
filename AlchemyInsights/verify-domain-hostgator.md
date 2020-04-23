@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ff9c537b12d69253c091f4b7d2301397c273620f
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: aece5e267f5a9a03f374e75643cd9a5e4fa6c21d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326031"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765409"
 ---
-# <a name="verify-your-domain-with-hostgator"></a><span data-ttu-id="87a2a-102">Kontrollige oma domeeni Hostgator</span><span class="sxs-lookup"><span data-stu-id="87a2a-102">Verify your domain with Hostgator</span></span>
+# <a name="verify-your-domain-with-hostgator"></a><span data-ttu-id="916c7-102">Kontrollige oma domeeni Hostgator</span><span class="sxs-lookup"><span data-stu-id="916c7-102">Verify your domain with Hostgator</span></span>
 
-<span data-ttu-id="87a2a-103">Kontrollige oma domeeni, peate lisama TXT kirje domeeni kohtusekretäri veendumaks, et teie domeeni.</span><span class="sxs-lookup"><span data-stu-id="87a2a-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="916c7-103">Kontrollige oma domeeni, peate lisama TXT kirje domeeni kohtusekretäri veendumaks, et teie domeeni.</span><span class="sxs-lookup"><span data-stu-id="916c7-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="87a2a-104">Esmalt järgige [domeeni lisamise viisardit](https://portal.office.com/adminportal/home#/Domains) , valides **sätted** \> **Domeenid**ja seejärel **Lisage Domeen**.</span><span class="sxs-lookup"><span data-stu-id="87a2a-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="916c7-104">Esmalt järgige [domeeni lisamise viisardit](https://portal.office.com/adminportal/home#/Domains) , valides **sätted** \> **Domeenid**ja seejärel **Lisage Domeen**.</span><span class="sxs-lookup"><span data-stu-id="916c7-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="87a2a-105">Vt teemat [DNS-kirjete loomine Hostgator Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) samm-sammult juhiseid.</span><span class="sxs-lookup"><span data-stu-id="87a2a-105">See [Create DNS records at Hostgator for Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) for step-by-step instructions.</span></span>
+<span data-ttu-id="916c7-105">Vt teemat [DNS-kirjete loomine Hostgator Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) samm-sammult juhiseid.</span><span class="sxs-lookup"><span data-stu-id="916c7-105">See [Create DNS records at Hostgator for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) for step-by-step instructions.</span></span>

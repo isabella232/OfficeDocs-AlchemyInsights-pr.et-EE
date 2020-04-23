@@ -1,30 +1,30 @@
 ---
-title: Teabehalduspoliitika seadistamine
+title: Teabehalduse poliitikate seadistamine
 ms.author: stevhord
 author: bentoncity
-ms.date: 6/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 3c4487c613d53e8b0e6b8f7a146c2ac988424e89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cef833cfe39cc7f7fc01f19019f56f7675d24733
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550007"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767533"
 ---
-# <a name="set-up-information-management-policies"></a><span data-ttu-id="ba961-102">Teabehalduspoliitika seadistamine</span><span class="sxs-lookup"><span data-stu-id="ba961-102">Set up information management policies</span></span>
+# <a name="set-up-information-management-policies"></a><span data-ttu-id="db0c5-102">Teabehalduse poliitikate seadistamine</span><span class="sxs-lookup"><span data-stu-id="db0c5-102">Set up information management policies</span></span>
 
-1. <span data-ttu-id="ba961-103">Kui SharePointi saidi alamsaitide, sirvige ülataseme.</span><span class="sxs-lookup"><span data-stu-id="ba961-103">If the SharePoint site has subsites, browse to the top-level site.</span></span>
+1. <span data-ttu-id="db0c5-103">Kui SharePointi saidil on alamsaidid, sirvige ülataseme saiti.</span><span class="sxs-lookup"><span data-stu-id="db0c5-103">If the SharePoint site has subsites, browse to the top-level site.</span></span>
     
-2. <span data-ttu-id="ba961-104">Klõpsake nuppu **sätted**ja seejärel käsku **Saidi sätted**.</span><span class="sxs-lookup"><span data-stu-id="ba961-104">Click **Settings**, and then click **Site Settings**.</span></span> <span data-ttu-id="ba961-105">Kui sait on Office 365 rühma ühendatud sait, klõpsake **sätted**, klõpsake nuppu **Saidi sisu**ja seejärel käsku **Saidi sätted**.</span><span class="sxs-lookup"><span data-stu-id="ba961-105">If the site is an Office 365 group-connected site, click **Settings**, click **Site Contents**, and then click **Site Settings**.</span></span>
+2. <span data-ttu-id="db0c5-104">Klõpsake suvandit **sättedja**seejärel suvandit **saidi sätted**.</span><span class="sxs-lookup"><span data-stu-id="db0c5-104">Click **Settings**, and then click **Site Settings**.</span></span> <span data-ttu-id="db0c5-105">Kui sait on Office 365 rühma ühendatud saidi, klõpsake suvandit **sätted**, klõpsake **saidi sisuja**klõpsake **saidi sätted**.</span><span class="sxs-lookup"><span data-stu-id="db0c5-105">If the site is an Office 365 group-connected site, click **Settings**, click **Site Contents**, and then click **Site Settings**.</span></span>
     
-3. <span data-ttu-id="ba961-106">Jaotises **Saidikogumi administreerimine**klõpsake linki **saidikogumi funktsioonid**.</span><span class="sxs-lookup"><span data-stu-id="ba961-106">Under **Site Collection Administration**, click **Site collection features**.</span></span>
+3. <span data-ttu-id="db0c5-106">Klõpsake jaotises **saidikogumiku Administreerimine** **saidikogumi funktsioonid**.</span><span class="sxs-lookup"><span data-stu-id="db0c5-106">Under **Site Collection Administration**, click **Site collection features**.</span></span>
     
-4. <span data-ttu-id="ba961-107">**Kohapealsete kirjete haldus**klõpsake nuppu **Aktiveeri**.</span><span class="sxs-lookup"><span data-stu-id="ba961-107">Under **In Place Records Management**, click **Activate**.</span></span>
+4. <span data-ttu-id="db0c5-107">Klõpsake jaotises **koht kirjete haldamine** **Aktiveeri**.</span><span class="sxs-lookup"><span data-stu-id="db0c5-107">Under **In Place Records Management**, click **Activate**.</span></span>
     
-<span data-ttu-id="ba961-108">Loomise kohta leiate teemast [teabehalduspoliitika tutvustus](https://go.microsoft.com/fwlink/?linkid=404239) ja [loomine ja Teabehalduspoliitika rakendamiseks](https://go.microsoft.com/fwlink/?linkid=2003916).</span><span class="sxs-lookup"><span data-stu-id="ba961-108">For more info, see [Introduction to information management policies](https://go.microsoft.com/fwlink/?linkid=404239) and [Create and apply information management policies](https://go.microsoft.com/fwlink/?linkid=2003916).</span></span>
+<span data-ttu-id="db0c5-108">Lisateavet leiate teemast [teabepalduse poliitikate Sissejuhatus](https://go.microsoft.com/fwlink/?linkid=404239) ja [Teabepalduse poliitikate loomine ja rakendamine](https://go.microsoft.com/fwlink/?linkid=2003916).</span><span class="sxs-lookup"><span data-stu-id="db0c5-108">For more info, see [Introduction to information management policies](https://go.microsoft.com/fwlink/?linkid=404239) and [Create and apply information management policies](https://go.microsoft.com/fwlink/?linkid=2003916).</span></span>
   
 
