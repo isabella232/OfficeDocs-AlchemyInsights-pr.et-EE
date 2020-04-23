@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737648"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Office ' i värskendustega installitud Microsoft Teams
 
-Microsoft Teams sisaldub osana ***uutest installid*** Office 365 ProPlus, Office 365 Business ja Office for Mac. Lisateabe saamiseks vaadake, [Millal Microsoft Teams hakkavad sisalduma Office ' i uute installide puhul?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams sisaldub osana ***uutest installid*** Microsoft 365 apps Enterprise, Microsoft 365 rakendused äri ja Office for Mac. Lisateabe saamiseks vaadake, [Millal Microsoft Teams hakkavad sisalduma Office ' i uute installide puhul?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Lisaks alates versioon 1906 igakuine kanal, meeskonnad lisatakse järk-järgult ***olemasolevatele*** installidele Office 365 ProPlus (ja Office 365 Business) seadmetes, kus töötab Windows, kui värskendate olemasoleva installi uusim versioon. Lisateabe saamiseks vaadake, [mis on Office ' i olemasolevate installide kohta?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Lisaks alates versioon 1906 igakuine kanal, meeskonnad lisatakse järk-järgult ***olemasolevatele*** installidele Microsoft 365 apps Enterprise (ja Microsoft 365 apps ettevõtetele) seadmetes, kus töötab Windows, kui värskendate olemasoleva installi uusim versioon. Lisateabe saamiseks vaadake, [mis on Office ' i olemasolevate installide kohta?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Märkus:** Kui te ei soovi seda avaldamise ajakava oodata, saate juurutada meeskonnad oma kasutajatele autonoomseks, [järgides neid juhiseid](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), või võite lasta oma kasutajatel installida meeskonnad ise https://teams.microsoft.com/downloads.
 

@@ -1,31 +1,31 @@
 ---
-title: Liitumise võimalusi Microsoft Intune tõrkeotsingu
+title: Microsoft Intune ' i registreerimise võimalustega seotud probleemide tõrkeotsing
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d7568f962f0bb0514ae7f78778151520c75f3d5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559333"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43734628"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Liitumise võimalusi Microsoft Intune tõrkeotsingu
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Microsoft Intune ' i registreerimise võimalustega seotud probleemide tõrkeotsing
 
-Läbi nende lahendamiseks nüüd allpool loetletud ressurssidele. Kui need vahendid ei aita, võtke ühendust klõpsates [siin](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) ja valides "Loo toetuse taotluse." 
+Vaadake allpool loetletud ressursid probleemi lahendamiseks kohe. Kui need ressursid ei aita, pöörduge tugiteenuse poole, klõpsates [siin](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) ja valides "Loo tugiteenuse taotlus." 
   
-- [Keskmiseks Intune TechNeti leida vastuseid ja lahendusi ühistele probleemidele](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Vaadake Intune TechNeti leida vastuseid ja lahendusi levinud probleemidele](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Diagnoosimiseks ja lahendamiseks ühise registreerimise rikete [Intune tõrkeotsingu portaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) abil. Läbi [selle dokumendi](https://docs.microsoft.com/intune/help-desk-operators) lisateabe saamiseks. 
+- Levinud registreerimise tõrgete diagnoosimiseks ja lahendamiseks kasutage [tõrkeotsingu portaali Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Vaadake [seda dokumenti](https://docs.microsoft.com/intune/help-desk-operators) rohkem üksikasju. 
     
-- Nimekiri kõige sagedasemad vead, mis takistavad registreerimine ja lahendused igale [dokumendi](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) läbivaatamiseks. 
+- Vaadake [seda dokumenti](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) levinud tõrgete loendi, mis takistavad registreerimise ja resolutsioonide iga. 
     
-- [Lugege liitumise võimalusi Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- Teave [registreerimise suvandite kohta Microsoft Intune ' is](https://docs.microsoft.com/intune/enrollment-options).
     
 

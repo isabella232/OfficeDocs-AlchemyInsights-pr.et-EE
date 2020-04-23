@@ -1,9 +1,9 @@
 ---
-title: Import-Export-in-Outlook-for-Mac
+title: import-eksport-Outlook-for-Mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629942"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724726"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Import/eksport Outlook for Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Import/eksport rakenduses Outlook for Mac 
 
-Eksport:
-1. Valige vahekaardil **Tööriistad** **eksportida**.
-2. **Kui** märkige jaotises **Lemmikud**, Vali **Downloads** kausta ja valige **Salvesta**.
-3. Kui teate, et eksportimine on lõpetatud, valige **valmis**.
+Ekspordi:
+1. Valige vahekaardil **Tööriistad** käsk **ekspordi**.
+2. Valige loendiboksis **Salvesta kui** jaotises **Lemmikud**kaust **allalaaditavad failid** ja valige **Salvesta**.
+3. Kui kuvatakse teade, et eksport on lõpule jõudnud, valige **Finish**.
 
-Import:
-1. Kohta ning **Tööriistad** vahekaardil, valige **impordi**.
-2. Valige **Outlook for Windows arhiivida erakaustafaili (.pst)** > **Jätka**.
-3. Mac .pst faili ja seejärel valige **impordi**.
-4. Kui importimine on lõpetatud, valige **valmis**.
-5. Imporditud üksused kuvatakse navigeerimispaani jaotises **Minu arvutis**.
+Impordi:
+1. Valige vahekaardil **Tööriistad** käsk **impordi**.
+2. Valige **Outlook for Windows Arhiiv faili (. pst)** > **jätkata**.
+3. Leidke oma Mac PST-fail ja seejärel valige **impordi**.
+4. Kui importimise protsess on lõpule jõudnud, valige **Lõpeta**.
+5. Imporditud üksused ilmuvad navigeerimispaanilt jaotises **minu arvuti**.
 
-Täiskomplekt importi ja eksporti Outlook Macile juhised vt [Import ja eksport Outlook e-posti, kontaktid ja kalender](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Täielik komplekt impordi ja ekspordi juhised Outlook for Mac vt [import ja eksport Outlooki e-posti, kontaktid ja kalender](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-Outlook for Mac probleemid rakendusesiseste toetuse saamiseks avage Outlook ja valige **Spikker** > **Kontakt toetada**. Tippige oma küsimus ja Outlook for Mac tugirühma liige võtame teiega. [Võtke ühendust toega programmis Outlook for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Saada tuge in-app Outlook for Mac probleemidele, Avage Outlook ja valige **abi** > **Kontakt tugiteenust**. Tippige oma küsimus ja liige Outlook for Mac tugiteenuste meeskond saab teiega ühendust. [Pöörduge tugiteenuse Outlook for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

@@ -1,9 +1,9 @@
 ---
-title: 1221-Import-Export-Outlook-email-Contacts-Calendar
+title: 1221-import-eksport-Outlook-e-Kontaktid-Kalender
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545155"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724660"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Import ja eksport Outlook e-posti, kontaktide ja kalendri üksused
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlooki meilisõnumite, kontaktide ja kalendri üksuste importimine ning eksportimine
 
-1. Klõpsake Outlookis menüü **fail**.
+1. Klõpsake Outlookis suvandit **Fail**.
 
-2. Klõpsake **avatud & eksport**ja klõpsake **Impordi/ekspordi**.
+2. Klõpsake **Ava ja ekspordi** ning seejärel **Impordi/ekspordi**.
 
-    Impordi- ja ekspordiviisardis käivitatakse.
+    Käivitub impordi- ja ekspordiviisard.
 
-On analoog komplekt impordi ja ekspordi Outlooki juhiseid, vaadake [seda](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Täielik komplekt impordi-ja ekspordijuhiseid Outlook, lugege [käesoleva artikli](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Kui te olete administraator ja soovite mahtlasti impordiväärtused mitmeks PST faile Office 365 postkastid, lugege [artiklit](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Kui olete administraator ja soovite hulgi-importida mitme PST faile Microsoft 365 postkastid, lugege [käesoleva artikli](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
