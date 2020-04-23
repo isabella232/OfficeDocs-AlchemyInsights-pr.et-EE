@@ -2,7 +2,7 @@
 title: Versioonimine SharePointis ja OneDrive ' is
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044147"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767389"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versioonimine SharePointis ja OneDrive ' is 
 
@@ -39,6 +39,6 @@ Lisateavet versioonimise kohta leiate alltoodud artiklitest.
 - [Versioonimise piirangud](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Kui olete Office 365 klient, Versioonimine on nüüd vaikimisi sisse lülitatud, kui loote uue OneDrive for Business teegid ja see salvestab automaatselt dokumendi viimased 500 versioonid. See aitab vältida oluliste dokumentide või andmete kaotamist. Kui teil on OneDrive for Business saidi või meeskonnatöö sait, mis ei ole versioonimise lubatud teegid, saate igal ajal Versioonimine sisse lülitada.
+>Kui olete Microsoft 365 klient, Versioonimine on nüüd vaikimisi sisse lülitatud, kui loote uue OneDrive for Business teegid ja see salvestab automaatselt dokumendi viimased 500 versioonid. See aitab vältida oluliste dokumentide või andmete kaotamist. Kui teil on OneDrive for Business saidi või meeskonnatöö sait, mis ei ole versioonimise lubatud teegid, saate igal ajal Versioonimine sisse lülitada.
 
 

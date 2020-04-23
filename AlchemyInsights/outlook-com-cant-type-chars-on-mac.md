@@ -1,24 +1,24 @@
 ---
-title: 9000071 ei saa tippida @ märk Mac
+title: 9000071 ei saa tippida @ sümbol Mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: 3bc9915516b268ba8175907bec3a8530351f9f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d252d547757b3bf25dc4f71cf478119f32883be
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537403"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746479"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a>Kuidas kuvada erimärgid Mac
+# <a name="how-to-type-special-characters-on-a-mac"></a>Kuidas tippida erimärgid Mac
 
-Tippige erimärke, Mac, avage klaviatuuri otsetee ⌘ **erisümbolid** menüü **käsk** + **kontroll** + **ruumi**.
+Tippige oma Mac erimärgid, avage **erimärgid** menüü klaviatuuri otsetee ⌘ **käsu** + **kontrolli** + **ruumi**.
 
-@ Otsetee jaoks on ka **ALT** + **64**.
+Kiire otsetee @ jaoks on ka **alt** + **64**.

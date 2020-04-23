@@ -10,19 +10,19 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: d998dec19433279e602c02bdaacc74371a4d0262
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 4ca60a0e433439f4eded0876a2e13c01a9c3a726
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771256"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767713"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Modereerida oma klassikalise SharePointi kogemus
 
 Et muuta lüliti kaasaegne kasutajaliides, vaadake järgmisi ressursse:
 
 - [Luua **kaasaegsed saidid** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (meeskonnatöö sait või side saidi). Kasutage [SharePointi ilme raamat](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) ehitada ilus, võimas sisevõrgu, mis ühendab töökoha. Vaadake [näiteid](https://lookbook.microsoft.com/) ja Hankige [kujundusjuhised](https://spdesign.azurewebsites.net/).
-- [Ühendage sait **Office 365 rühma** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) , et suurendada koostööd kogu Office ' i 365.
+- [Ühendage sait **Office 365 rühma** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) , et suurendada koostööd Microsoft 365.
 - Muutke **kaasaegne loend ja raamatukogu** kogemus [võimaldades loendid ja teegid näidata kaasaegne kasutajaliides](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
 - Muutke **saidi lehed** klassikaline **wiki**, **veebiosa**ja **kodu** lehed [kaasaegne kliendipoolne lehed](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). [SharePointi modereerimisskanner](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) pakub lehe kasutusteavet praeguse wiki ja veebiosa lehtede kohta, et aidata teil lehe transformatsiooni prioriseerida.
 

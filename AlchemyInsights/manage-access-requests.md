@@ -3,7 +3,7 @@ title: Juurdepääsutaotluste haldamine
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542492"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721744"
 ---
 # <a name="manage-access-requests"></a>Juurdepääsutaotluste haldamine
 
 Kui kasutaja proovib SharePointi üksusele juurde pääseda ja neil pole õigust, kuvatakse teade, et neil on vaja üksusele juurdepääsuks luba. Kasutaja saab taotleda juurdepääsu (mõnel juhul konkreetse üksuse või liituda rühma) ja saidi omanik saab kinnitada või keelduda taotluse. Kui keegi, kes ei ole saidi omanik, jagab saiti teise isikuga, saab saidi omanik ka uue kasutaja juurdepääsutaotluse. Juurdepääsutaotluste kinnitamiseks või keelamiseks toimige järgmiselt.
   
-1. Minge saidile, klõpsake ikooni sätted ülemises paremas ja klõpsake **saidi sätted**. (Kui te ei näe saidi sätted, klõpsake **saidi õigused**ja klõpsake **Täpsemad õigused sätted**. Otsige bännerit, millel on link nimega "Kuva juurdepääsutaotlused ja kutsed".)
+1. saidile, klõpsake ikooni sätted ülemises paremas ja klõpsake **saidi sätted**. (Kui te ei näe saidi sätted, klõpsake **saidi õigused**ja klõpsake **Täpsemad õigused sätted**. Otsige bännerit, millel on link nimega "Kuva juurdepääsutaotlused ja kutsed".)
     
 2. Klõpsake jaotises **kasutajad ja õigused** **juurdepääsu taotlusi ja kutsed**. (Kui seda ei kuvata, pole juurdepääsutaotlusi tehtud.)
     

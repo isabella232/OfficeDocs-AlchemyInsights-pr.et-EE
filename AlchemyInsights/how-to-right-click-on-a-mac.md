@@ -1,9 +1,9 @@
 ---
-title: 8000063 kuidas paremklõpsake Mac
+title: 8000063 kuidas paremklõpsu Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 236da9aeac882d9a44373372a93910863fa18469
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8fbfb43cd50040f861ae9975f4703b49eb10f6ec
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539961"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763393"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Kuidas paremklõpsake Mac
+# <a name="how-to-right-click-on-a-mac"></a>Kuidas paremklõps Mac
 
-Maci arvuti, paremklõpsake nimetatakse teiseste kliki või kliki kontrolli. Kui teie hiir, puutepadi või muu sisendseade ei sisalda paremklõpsake nuppu või muul viisil sooritada paremklõpsake, hoidke all **Control klahvi** klaviatuuril.
+Mac arvutites, paremklõpsake on tuntud teisese klõpsuga või Control kliki. Kui teie hiir, puuteplaat või muu sisestusseade ei sisalda paremklõpsu nuppu või muud viisi paremklõpsu tegemiseks, hoidke klõpsamisel all klahvi **all** .
   
-Lisateabe saamiseks külastage [Apple'i](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)toetamiseks.
+Lisateabe saamiseks [Apple ' i toe](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
   

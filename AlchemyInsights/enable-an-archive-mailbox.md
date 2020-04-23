@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: et-EE
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703675"
+ms.locfileid: "43788662"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arhiivi postkasti lubamine
 
-Arhiiv postkastid Office 365 (nimetatakse ka *Online Arhiiv* või *in-Place Archives*) pakkuda kasutajatele täiendavaid e-posti salvestusruumi. Kasutajad saavad teisaldada või kopeerida üksusi oma arhiivi postkasti ja administraatorid saavad luua arhiivi poliitika, mis teisaldab automaatselt üksuste arhiivi postkastid.
+Arhiiv postkastid Microsoft 365 (nimetatakse ka *Online Arhiiv* või *in-Place Archives*) pakkuda kasutajatele täiendavaid e-posti salvestusruumi. Kasutajad saavad teisaldada või kopeerida üksusi oma arhiivi postkasti ja administraatorid saavad luua arhiivi poliitika, mis teisaldab automaatselt üksuste arhiivi postkastid.
   
 Arhiivi postkasti loomiseks toimige järgmiselt.
   

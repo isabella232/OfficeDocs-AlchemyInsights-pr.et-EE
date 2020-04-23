@@ -1,9 +1,9 @@
 ---
-title: Apple MDM Push sertifikaadi Microsoft Intune tõrkeotsingu
+title: Apple MDM push Certificate Microsoft Intune probleemide tõrkeotsing
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: 3fec83f4dd0533bdcfa778c52b9951f3e06f4dda
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f96a0bf1d599dcd48c23d707d50e58e63933b6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500103"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759652"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Apple MDM Push sertifikaadi Microsoft Intune tõrkeotsingu
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Apple MDM push Certificate Microsoft Intune probleemide tõrkeotsing
 
-Läbi nende lahendamiseks nüüd allpool loetletud ressurssidele.
+Vaadake allpool loetletud ressursid probleemi lahendamiseks kohe.
   
-1. Läbi [selle dokumendi](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) konfigureerida või Apple MDM push sertifikaat uuendada.
+1. Vaadake [seda dokumenti](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) Apple MDM tõukeserdi konfigureerimiseks või uuendamiseks.
 
-2. Diagnoosimiseks ja lahendamiseks ühise registreerimise rikete [Intune tõrkeotsingu portaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) abil. Läbi [selle dokumendi](https://docs.microsoft.com/intune/help-desk-operators) lisateabe saamiseks.
+2. Levinud registreerimise tõrgete diagnoosimiseks ja lahendamiseks kasutage [tõrkeotsingu portaali Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Vaadake [seda dokumenti](https://docs.microsoft.com/intune/help-desk-operators) rohkem üksikasju.
 
-3. Läbi nende dokumentide nimekiri kõige sagedasemad vead, mis takistavad registreerimine ja lahendused igale: [tõrkeotsing juhend](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ja [tõrkeotsing doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+3. Vaadake need dokumendid läbi levinud tõrgete loendi, mis takistavad registreerimise ja resolutsioonide iga: [tõrkeotsingu juhend](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ja [tõrkeotsingu doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).

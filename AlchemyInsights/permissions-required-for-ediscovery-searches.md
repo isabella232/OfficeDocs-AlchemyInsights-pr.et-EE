@@ -1,9 +1,9 @@
 ---
-title: 1489-permissions-required-for-eDiscovery-Searches
+title: 1489-load-nõutav-eDiscovery-otsingud
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372124"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758895"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>EDiscovery otsingu vajalikud õigused
+# <a name="permissions-required-for-ediscovery-searches"></a>EDiscovery otsingute jaoks nõutavad õigused
 
-Sisu otsingute teostamiseks turvalisuse & vastavuse Center kasutaja peab olema vähemalt liige e-juurdluse haldur rollirühma, mis võimaldab neil teostada otsinguid ja koht on postkastid, SharePointi saidid ja OneDrive asukohti. Liikmed saavad ka luua ja hallata eDiscovery juhtudel, lisada ja liikmete juhul, luua ja redigeerida sisu otsingud ja kohtuasi andmeid täiustatud e-juurdlus.
+Sisu otsingud turvalisuse & vastavuse Center, kasutaja peab olema vähemalt eDiscovery Manager rollirühma liige, mis võimaldab neil teha otsinguid ja koht hoiab postkastid, SharePointi saidid ja OneDrive asukohad. Liikmed saavad luua ja hallata ka eDiscovery teenindusjuhtumeid, lisada ja eemaldada Teenindusjuhtumi liikmeid, luua ja redigeerida Sisuotsinguid ning kasutada juhtumi andmeid täpsemas eDiscovery.
 
-Sooritada kohapealse eDiscovery otsingu Exchange'i administraatori center (EAC), kasutaja peab olema Exchange Online'is rollirühma Tuvastushaldus liige.
+Teha in-Place eDiscovery otsingud Exchange ' i halduskeskus (EAC), kasutaja peab olema Exchange Online ' i Discovery Management rolli rühma liige.
 
 EDiscovery õiguste kohta lisateabe saamiseks vaadake: 
 
-- [Määratakse e-juurdluse õigused turvalisuse & vastavuse Center](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Määrake eDiscovery õigused Security & vastavuse keskus](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [EDiscovery õiguste määramine Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Määrake eDiscovery õigused Exchange ' is](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Märkus**: pärast määramist e-juurdluse õigused, peate ootama paar minutit õigused propageerida.
+**Märkus**: pärast eDiscovery õiguste määramist peate võib-olla ootama mõne minuti õiguste levitamiseks.

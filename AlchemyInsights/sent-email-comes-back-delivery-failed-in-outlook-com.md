@@ -1,9 +1,9 @@
 ---
-title: 8000044 saadetud meil tuleb tagasi "kohaletoimetamine nurjus" Outlook.com-is
+title: 8000044 saadetud e-kiri tuleb tagasi "kohaletoimetamine nurjus" Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 864b05fb1814df6696aecf5fc0ff25a325521461
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b9b8af26d6cfcfabb04ff7b3f408b42015b2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550979"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758290"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>Saadetud meil tuleb tagasi "teatega kohaletoimetamine nurjus"
+# <a name="sent-email-comes-back-delivery-failed"></a>Saadetud e-kiri tuleb tagasi "kohaletoimetamine nurjus"
 
-Kohaletoimetamise ebaõnnestumise või e-kirju, mis tulevad tagasi kui ei saadud kohale toimetada, võib olla mitu põhjust. Lisateavet kõige levinumad veateated, probleemid ja pakutud lahendused Vaata [saadetud meil Outlook.com-is tuleb tagasi "kohaletoimetamine nurjus"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
+Kohaletoimetamise nurjumine või e-kirjad, mis tulevad tagasi kui ei ole võimalik, võib juhtuda mitu põhjust. Kõige levinumad tõrketeated, koos soovitatud lahenduste kohta lisateabe saamiseks vaadake [saadetud e-posti Outlook.com tuleb tagasi "kohaletoimetamine nurjus"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
   
