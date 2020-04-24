@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761990"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799119"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="ad1f9-102">Mitu katset nõuda online maksevahendid</span><span class="sxs-lookup"><span data-stu-id="ad1f9-102">Multiple attempts to charge online payment instruments</span></span>
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="9bb62-102">Mitu katset nõuda online maksevahendid</span><span class="sxs-lookup"><span data-stu-id="9bb62-102">Multiple attempts to charge online payment instruments</span></span>
 
-<span data-ttu-id="ad1f9-103">Me teeme mitu katset nõuda online maksevahendid enne mis tahes toimingu tegemist.</span><span class="sxs-lookup"><span data-stu-id="ad1f9-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="ad1f9-104">Pärast makseviisi valimist tuleb kõik tähtaja ületanud summad maksta valitud makseviisi abil.</span><span class="sxs-lookup"><span data-stu-id="ad1f9-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="ad1f9-105">Tellimuse praeguse makseteabe värskendamiseks järgige juhiseid [Lisa, Uuenda või eemaldage krediitkaardi või pangakonto Microsoft 365 äri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="ad1f9-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="9bb62-103">Kui tasu ei õnnestu, püüab süsteem järgmise paari nädala jooksul tasakaalu tasakaalustada.</span><span class="sxs-lookup"><span data-stu-id="9bb62-103">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="9bb62-104">Saate teha oma makseteabe värskendusi igal ajal, et kindlustada järgmise tasukatse edukas tegemine.</span><span class="sxs-lookup"><span data-stu-id="9bb62-104">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="9bb62-105">Lisateabe saamiseks vaadake [Lisa, värskendage või eemaldage krediitkaardi või pangakonto Microsoft 365 äri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="9bb62-105">For more information, see [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
