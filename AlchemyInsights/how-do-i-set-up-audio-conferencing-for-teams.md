@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692391"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709935"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – kõnekonverentsid
 
-Kas vajate Microsoft Teamsis kõnekonverentside sisselülitamisel või häälestamisel abi? Kas see kasutaja on alles hiljuti loodud?  Kui jah, siis peate sätete jõustumiseks ootama 2–24 tundi.    
+Kas vajate Microsoft Teamsis kõnekonverentside sisselülitamisel või häälestamisel abi? Kas see kasutaja on alles hiljuti loodud?  Kui jah, siis peate sätete jõustumiseks ootama 2–24 tundi.
 
 Kontrollimaks, kas kasutajal on kõnekonverentside teenuse litsents ja tasuline vaikenumber olemas, tehke järgmist.
 
@@ -39,4 +39,4 @@ Kontrollimaks, kas kasutajal on kõnekonverentside teenuse litsents ja tasuline 
 
 7. Valige soovitud kasutaja ja veenduge, et kasutajal oleks **tasuline vaikenumber**.
 
-Lisateavet leiate artiklist [Office 365 kõnepaketid](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365); kui teil on litsentsimisega seotud küsimusi, helistage Microsoft Commerce’i arveldusosakonda.
+Lisateavet leiate artiklist [Kõnepaketid](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365); kui teil on litsentsimisega seotud küsimusi, helistage Microsoft Commerce’i arveldusosakonda.

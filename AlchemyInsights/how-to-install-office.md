@@ -12,16 +12,16 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735457"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759148"
 ---
-# <a name="how-to-install-office"></a>Office’i installimise juhend
+# <a name="how-to-install-office"></a>Office’i installimine
 
-Office'i klientrakenduste installimiseks tagage, et teil on ettevõtteversiooni tellimus, nagu Office 365 Business Premium, Office 365 Business või Office 365 Education.
+Office’i klientrakenduste installimiseks tagage, et teil oleks ettevõtteversiooni tellimus, nagu Microsoft 365 Business Premium Standard, Microsoft 365 ettevõtterakendused või Office 365 Education.
   
 *MÄRKUS: [Office Home and Business](https://products.office.com/home-and-business) on [kodukasutajatele mõeldud Office’i](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) toode ja ei ole ettevõtteversiooni tellimuse osa. Täpsemaid juhiseid Visio või Projecti kohta vaadake teemast [Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) või [Projecti installimine](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 

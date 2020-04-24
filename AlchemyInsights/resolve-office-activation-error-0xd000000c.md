@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4487"
-ms.openlocfilehash: 0f583f8d4cf0706e1210d5b844dc566c7ae58d98
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: d40c8c07bb80c20b0f09521df334fdb99d96ac04
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116449"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722616"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Office’i aktveerimistõrke 0xD000000C lahendamine
 
-- Veenduge, et Mac-arvutis, kuhu proovite tarkvara installida, oleks Interneti-ühendus. Selleks avage Interneti-brauser ja minge veebisaidile www.microsoft.com. Kui leht laaditakse, on teil töötav Interneti-ühendus olemas.
+- Veenduge, et Mac-arvutis, kuhu proovite tarkvara installida, oleks Interneti-ühendus. Selleks avage Interneti-brauser ja avage [Microsoft](https://www.microsoft.com). Kui leht laaditakse, on teil töötav Interneti-ühendus olemas.
 
 - Sulgege kõik Office’i rakendused.
 

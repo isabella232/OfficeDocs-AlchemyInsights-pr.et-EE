@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664820"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712598"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Kas teie postkasti saabub liiga palju rämpsposti või andmepüügi kirju?
 
-Vaadake rämpsposti tõrkeotsinguks teemat [Office 365 rämpsposti hulga vähendamine](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email).
+Vaadake rämpsposti tõrkeotsinguks teemat [Rämpsposti hulga vähendamine](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email).
   
 Parim viis seda tüüpi probleemidest teavitamiseks on järgmine.
   
