@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509490"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788878"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Kasutaja postkasti automaatvastuste määramine
 
 **1. meetod**
 
-1. Logige sisse Office 365 portaali.
+1. Logige sisse Microsoft 365 portaali.
 
 2. Avage suvand **Kasutajad > Aktiivsed kasutajad** (või **Rühmad > Ühispostkastid**, kui määrate selle ühispostkastile).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509490"
 
 **2. meetod**
 
-1. Logige administraatori identimisteavet kasutades sisse Office 365 haldusportaali.
+1. Logige administraatori identimisteavet kasutades sisse Microsoft 365 haldusportaali.
 
 2. Laiendage suvandit **Halduskeskused** ja seejärel klõpsake suvandit **Exchange**.
 

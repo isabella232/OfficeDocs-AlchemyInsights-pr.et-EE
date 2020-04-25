@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059970"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784543"
 ---
 # <a name="set-up-insider-risk-management"></a>Siseriskide halduse häälestamine
 
@@ -26,13 +26,13 @@ Kasutage siseriskide halduspoliitikaid, et tuvastada riskantsed tegevused ja hal
 
 - **Microsoft 365 E3** tellimus koos Microsoft E5 ühilduvuse lisandmooduliga.
 
-Kui teil pole olemasolevat **Microsoft 365 E5** tellimust ja soovite kasutada siseriskide haldus, saate lisada Microsoft 365 olemasolevale Office 365 tellimusele või registreeruda Microsoft 365 Enterprise E5 prooviversiooni kasutajaks.
+Kui teil pole olemasolevat **Microsoft 365 E5** tellimust ja soovite kasutada siseriskide haldus, saate lisada Microsoft 365 olemasolevale tellimusele või registreeruda Microsoft 365 Enterprise E5 prooviversiooni kasutajaks.
 
 Siseriskide halduse põhisammud hõlmavad järgnevat.
 
 1. Lubage siseriskide halduse load.
 
-2. Lubage Office 365 auditilogi.
+2. Lubage auditilogi.
 
 3. Konfigureerige malli eeltingimused (valikuline).
 

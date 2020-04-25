@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856786"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739432"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Haridusasutustest klientide sagedasemad Teamsi probleemid
 
@@ -39,18 +39,18 @@ Kui vajate abi Teamsi kaugõppeks juurutamisel, külastage taotluse esitamiseks 
 - **Teamsi koosolekud ja sissehelistamine**: kas vajate Microsoft Teamsis kõnekonverentside sisselülitamisel või häälestamisel abi? Kas see kasutaja on alles hiljuti loodud? Sel juhul peate sätete jõustumiseks ootama 2–24 tundi. Kontrollimaks, kas kasutajal on kõnekonverentside teenuse litsents ja tasuline vaikenumber olemas, tehke järgmist.
     1. Avage Aktiivsed kasutajad ja seejärel valige asjaomane kasutaja.
     2. Olenevalt halduskeskuse versioonist valige kas **Litsentsid ja rakendused** või klõpsake aknas **Tootelitsentsid** nuppu **Redigeeri**.
-    3. Veenduge, et kasutajal oleks valitud järgmised litsentsid: Kõnekonverents, Microsoft Teams ja Skype’i ärirakenduse veebiväljaanne (leping 2).
+    3. Veenduge, et kasutajal oleksid valitud järgmised litsentsid: Kõnekonverents, Microsoft Teams ja Skype’i ärirakenduse veebiväljaanne (leping 2).
     4. Klõpsake halduskeskuste kuval nuppu **Kuva kõik** ja valige siis **Teams**.
     5. Klõpsake Microsoft Teamsi halduskeskuses linki **Pärandportaal**.
     6. Klõpsake Skype’i ärirakenduse halduskeskuses linki **Kõnekonverents** ja siis **Kasutajad**.
     7. Valige soovitud kasutaja ja veenduge, et kasutajal oleks tasuline vaikenumber.
 
-    Lisateavet leiate artiklist [Office 365 kõnepaketid](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365); kui teil on litsentsimisega seotud küsimusi, helistage Microsoft Commerce’i arveldusosakonda.
+    Lisateavet leiate artiklist [Kõnepaketid](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365); kui teil on litsentsimisega seotud küsimusi, helistage Microsoft Commerce’i arveldusosakonda.
 
     Lisaressursid
 
     - [Koosolekud ja konverentsid Microsoft Teamsis](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Office 365 kõnekonverentsid](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Helikonverentsid](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Koosolekupoliitikad**: koosolekupoliitikate abil saab juhtida koosolekul, mille on ajastanud teie organisatsiooni või ettevõtte kasutajad, koosolekul osalejatele saadaval olevaid funktsioone. Pärast poliitika loomist ja soovitud muudatuste tegemist saate poliitikale kasutajad määrata.
 
