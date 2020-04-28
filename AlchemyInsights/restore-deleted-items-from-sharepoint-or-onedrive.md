@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742511"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912543"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Kustutatud üksuste taastamine SharePointist või OneDrive ' ist
 
@@ -34,6 +34,6 @@ Kui failid, kaustad, teegid, loendid ja loendiüksused kustutatakse SharePointi 
   
 [Taasta kustutatud saidikogumid](https://go.microsoft.com/fwlink/?linkid=867660) (globaalne või SharePointi administraatoritel Microsoft 365) 
   
-Saidid, mis kuuluvad Office 365 rühma, peate taastada rühma saidi taastamiseks. Vt [Kustutatud Office 365 rühma taastamine](https://go.microsoft.com/fwlink/?linkid=867802) (globaalne admin) 
+Saidid, mis kuuluvad Microsoft 365 rühma, peate taastada rühma saidi taastamiseks. Vaadake [taastada kustutatud Microsoft 365 rühma](https://go.microsoft.com/fwlink/?linkid=867802) (globaalne admin) 
   
 

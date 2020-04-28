@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053113"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908700"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Päevane e-posti piirang ületatud. Töövoog on peatatud.
 
@@ -27,7 +27,7 @@ See tõrge võidakse vastu võtta järgmistel juhtudel:
 - Töövoo käivitamisel e-kirja ei saadeta ja märkate järgmist käitumist:
     - Töövoo abil SharePoint 2013 platvormi tüüp, sirvite **töövoo oleku** lehele. Lehel Töövoo olek **sisemine olek** on seatud **käivitatud**ja teave jutumull kuvatakse **ei saa adressaadile saata**.
 
-Selle probleemi lahendamiseks konfigureerige oma töövoo saata e-kirju, ületamata [Exchange Online ' i saatja piirangud](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Näiteks kasutage pausi töövoo, saatke e-posti Office 365 rühma, levirühm või e-posti lubatud turberühma või saata sõnumi vähem kui 200 adressaatidele korraga.
+Selle probleemi lahendamiseks konfigureerige oma töövoo saata e-kirju, ületamata [Exchange Online ' i saatja piirangud](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Näiteks kasutage pausi töövoo, saatke e-posti Microsoft 365 rühma, levirühm või e-posti lubatud turberühm või saata sõnumi vähem kui 200 adressaatidele korraga.
 
 
 Lisateabe saamiseks lugege järgmist [artiklit](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).

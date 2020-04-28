@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764724"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911827"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kuidas sooritada sisu otsingud ja eDiscovery otsingud
 
-Sisu otsingu tööriista abil Security & vastavuse keskus kiiresti leida e-posti Exchange ' i postkasti, dokumente SharePointi saidid ja OneDrive konto ja vahetu sõnumside vestlused Skype ettevõtetele. Saate kasutada ka sisu otsingu tööriista otsida e-posti, dokumente ja vahetu sõnumside vestlused Microsoft 365 koostööriistad nagu Microsoft Teams ja Office 365 rühmad.
+Sisu otsingu tööriista abil Security & vastavuse keskus kiiresti leida e-posti Exchange ' i postkasti, dokumente SharePointi saidid ja OneDrive konto ja vahetu sõnumside vestlused Skype ettevõtetele. Saate kasutada ka sisu otsingu tööriista otsida e-posti, dokumente ja vahetu sõnumside vestlused Microsoft 365 koostööriistad nagu Microsoft Teams ja Microsoft 365 rühmad.
 
 **Sisuotsingu sooritamiseks**
 

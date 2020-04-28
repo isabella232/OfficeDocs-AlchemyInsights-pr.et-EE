@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705009"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911576"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Kustutage saidid, mis kuuluvad Office 365 rühma
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Kustutage saidid, mis kuuluvad Microsoft 365 rühma
 
-Kui kasutajad loovad uue meeskonnatöö saidi SharePoint Home või uue meeskonna saidi loomine uue SharePointi administreerimiskeskus, luuakse vastav Office 365 rühma automaatselt. Office 365 rühma ühendatud meeskonnatöö saidid luuakse ka siis, kui loote Office 365 rühma või meeskond Microsoft Teams. SharePointi sait, mis kuulub Office 365 rühma kustutamiseks peate kustutama Office 365 rühma ise. 
+Kui kasutajad loovad uue meeskonnatöö saidi SharePoint Home või uue meeskonna saidi loomine uue SharePointi administreerimiskeskus, luuakse vastav Microsoft 365 rühma automaatselt. Microsoft 365 rühma ühendatud meeskonnatöö saidid luuakse ka siis, kui loote Microsoft 365 rühma või meeskond Microsoft Teams. SharePointi saidi, mis kuulub Microsoft 365 rühma kustutamiseks peate kustutama Microsoft 365 rühm ise. 
   
 1. [Microsoft 365 administreerimiskeskuse rühmade lehele](https://portal.office.com/adminportal/home#/groups).
     

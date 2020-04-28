@@ -13,15 +13,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 5cb1963b6ff438510c196e07fe567731ba8c8fb2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 95874a8d12c9ba8c5214f1a7fbb77f9cfc9a4db8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676241"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911036"
 ---
-# <a name="add-contacts-to-an-office-365-group"></a>Kontaktide lisamine Office 365 rühma
+# <a name="add-contacts-to-an-microsoft-365-group"></a>Kontaktide lisamine Microsoft 365 rühma
 
 Rühma omanikud saavad lisada välised kasutajad ja e-posti kontaktid Outlookis, järgides neid juhiseid: [Lisage ja eemaldage rühma liikmed Outlookis](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
   
-Samuti saate lisada või eemaldada rühma liikmed admin portaal: [lisada või eemaldada liikmeid Office 365 rühmad, kasutades Microsoft 365 administreerimiskeskus](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups)
+Samuti saate lisada või eemaldada rühma liikmed admin portaal: [lisada või eemaldada liikmeid microsoft 365 rühmad, kasutades microsoft 365 halduskeskus](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups)

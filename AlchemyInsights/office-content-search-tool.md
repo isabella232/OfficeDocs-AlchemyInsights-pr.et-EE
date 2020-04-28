@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787985"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912254"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Sisuotsingu tööriist asjakohase teabe leidmiseks
 
-Sisu otsingu tööriista abil Security & vastavuse keskus kiiresti leida e-posti Exchange ' i postkasti, dokumente SharePointi saidid ja OneDrive asukohad ja vahetu sõnumside vestlused Skype ettevõtetele. Sisu otsingu tööriista abil saate otsida e-posti, dokumente ja vahetu sõnumside vestlused Microsoft 365 koostööriistad nagu Microsoft Teams ja Office 365 rühmad.
+Sisu otsingu tööriista abil Security & vastavuse keskus kiiresti leida e-posti Exchange ' i postkasti, dokumente SharePointi saidid ja OneDrive asukohad ja vahetu sõnumside vestlused Skype ettevõtetele. Sisu otsingu tööriista abil saate otsida e-posti, dokumente ja vahetu sõnumside vestlused Microsoft 365 koostööriistad nagu Microsoft Teams ja Microsoft 365 rühmad.
 
 
 Enne [sisu otsingut](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [turvalisuse & vastavuse keskusest](https://sip.protection.office.com/homepage), peate täitma konfiguratsioonisätted, sealhulgas [konfigureerida õigusi](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [allalaadimise kiirust](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ja [ekspordi sätteid](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

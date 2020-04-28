@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590418"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911934"
 ---
 # <a name="microsoft-teams-permissions"></a>Microsoft Teamsi õigused
 
-Microsoft Teamsi sisaldab kaht kasutajarolli: omanik ja liige. Vaikimisi antakse kasutajale, kes loob uue meeskonna omanik olek. Lisaks saavad omanikud ja liikmed kanali moderaatori funktsioone (kui modereerimine on seadistatud). Kui meeskond on loodud olemasoleva Office 365 rühma, õigused on päritud. Lisateavet vaadake teemast
+Microsoft Teamsi sisaldab kaht kasutajarolli: omanik ja liige. Vaikimisi antakse kasutajale, kes loob uue töörühma, omanikustaatus. Lisaks saavad omanikud ja liikmed kanali moderaatori funktsioone (kui modereerimine on seadistatud). Kui meeskond on loodud olemasolevast Microsoft 365 Group, õigused on päritud. Lisateavet leiate järgmisest teemast.
 
 - [Meeskonna omanike ja liikmete määramine Microsoft Teamsi](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Microsoft Teamsi rakenduste õigused ja kaalutlused](https://docs.microsoft.com/microsoftteams/app-permissions)

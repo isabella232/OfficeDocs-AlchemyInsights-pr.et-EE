@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768914"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908340"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a>Peida Office 365 rühma aadressiloend (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Peida Microsoft 365 rühma aadressiloend (GAL)
 
-Office 365 rühma peitmiseks aadressiloendid (GAL) Exchange ' i klientide (nt Outlook või OWA), kasutage järgmist käsku EXO kest:
+Microsoft 365 rühma peitmiseks aadressiloendid (GAL) Exchange ' i klientide (nt Outlook või OWA), kasutage järgmist käsku EXO kest:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Office 365 rühma peitmiseks Exchange ' i klientidele nähtavaks, kasutage järgmist käsku EXO kest:
+Microsoft 365 rühma peitmiseks Exchange ' i klientidele nähtavaks, kasutage järgmist käsku EXO kest:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

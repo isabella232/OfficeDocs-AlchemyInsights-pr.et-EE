@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710511"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912890"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePointi ja OneDrive ' i kasutaja õigused
 
@@ -27,7 +27,7 @@ Kui teie organisatsioonis olev kasutaja ei pääse SharePointi või OneDrive ' i
   
 1. Avage sait veebibrauseris.
     
-2. Kui sait kuulub Office 365 rühma, klõpsake ikooni sätted ülemises paremas ja klõpsake **saidi õigused**. Klõpsake **Kutsu inimesi**ja seejärel valige liikmete lisamiseks Office 365 rühma või ainult saidi ühiskasutusse anda. 
+2. Kui sait kuulub Microsoft 365 rühma, klõpsake ikooni sätted ülemises paremas ja klõpsake **saidi õigused**. Klõpsake **Kutsu inimesi**ja seejärel valige liikmete lisamiseks Microsoft 365 rühma või jagada ainult saidi. 
     
     Suhtlussaidi puhul klõpsake ülemises paremas ülaosas **saiti** , sisestage isiku nimi ja valige siis õigusetase (lugemine, redigeerimine või täielik kontroll). 
     

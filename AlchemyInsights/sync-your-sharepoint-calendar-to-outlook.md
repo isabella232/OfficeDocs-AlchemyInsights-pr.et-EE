@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766957"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912854"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Probleemid kalendri sünkroonimine seadmed
 
-SharePointi kalendrid on klassikalise loendi tüübid, mis on mõnikord segamini Office 365 rühma kalendrid.
+SharePointi kalendrid on klassikalise loendi tüübid, mis on mõnikord segamini Microsoft 365 Rühmakalendrid.
 
 SharePointi kalendri Outlookiga sünkroonimiseks toimige järgmiselt.
 
@@ -33,4 +33,4 @@ SharePointi kalendri Outlookiga sünkroonimiseks toimige järgmiselt.
 >[!Note]
 > Kui muudate sünkroonitud Outlooki kalendrit, kuvatakse see SharePointi kalendris ja vastupidi.
 
-Office 365 rühmade kohta lisateabe saamiseks lugege käesoleva [artikli](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Microsoft 365 gruppide kohta lisateabe saamiseks lugege käesoleva [artikli](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

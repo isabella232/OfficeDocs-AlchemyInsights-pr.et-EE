@@ -11,14 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626308"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908773"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teamsi täiendamine
+
+**NB**!: me saame aidata seda parandada, kasutades tugiteenuse diagnostika, kuid tundub, et te ei kasuta uut administreerimiskeskust. Uue administreerimiskeskuse kasutamiseks libistage lüliti ülaosas paremal, mis ütleb **uue administraatori Center** paremale. Uue administreerimiskeskuse abil klõpsake **vaja abi?** vidina, tippige "meeskonnad Upgrade", seejärel järgige juhiseid diagnostika käivitamiseks.
 
 Kas olete just alustanud meeskonnad, juba kasutades meeskonnad koos Skype ' i äri, või valmis uuendada, me tahame tagada, et teil on kõik, mida vaja navigeerida edukas teekond meeskonnad. Lisateavet leiate alltoodud linkidest.
 

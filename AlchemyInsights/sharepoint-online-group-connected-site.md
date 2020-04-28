@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642140"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912962"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Probleemid rühma ühendatud saidi loomisel SharePointis
 
@@ -30,5 +30,5 @@ Kui olete kustutanud rühma ja selle ühendatud saidi ning soovite luua sama URL
 
 1. On erinevaid viise, kuidas luua ja kasutada tänapäevaseid rühmi SharePointiga.
 
-   - Saate ühendada olemasolevad saidid Office 365 rühma. Lisateavet leiate teemast [Office 365 rühma ühendamine SharePointi kasutajaliidese abil](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Office 365 rühma ühendatud saidi loomiseks peate looma [meeskonnatöö saidi](https://admin.microsoft.com/sharepoint).
+   - Saate ühendada olemasolevad saidid Microsoft 365 rühma. Lisateavet leiate teemast [Microsoft 365 rühma ühendamine SharePointi kasutajaliidese abil](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Microsoft 365 rühma ühendatud saidi loomiseks peate looma [meeskonnatöö saidi](https://admin.microsoft.com/sharepoint).

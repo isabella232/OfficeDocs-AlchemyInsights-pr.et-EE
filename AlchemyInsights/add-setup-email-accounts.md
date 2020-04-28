@@ -1,5 +1,5 @@
 ---
-title: 764 lisa/setup e-posti kontod
+title: 764 lisa/Seadista e-posti kontod
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -11,23 +11,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e6cda6d0a21ebca7647662809dd55d942304471
+ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671381"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914974"
 ---
-# <a name="setup-email-accounts"></a>E-posti kontode seadistamine
+# <a name="set-up-email-accounts"></a>E-posti kontode seadistamine
 
-1. Outlookis valige > **Failiteabe** > **lisamise konto**. **File**
+1. Outlookis klõpsake > **failiteave** > **lisada konto**. **File**
 
-2. Sisestage meiliaadress ja seejärel valige **Ühenda**.
+2. Sisestage oma meiliaadress ja klõpsake siis nuppu **Ühenda**.
 
-3. Sisestage oma parool ja seejärel valige **OK**.
+3. Sisestage oma parool ja klõpsake nuppu **OK**.
 
 4. Mitme konto lisamiseks saate neid toiminguid korrata.
 
-    > [!NOTE]
-    > Mõned e-posti kontod, nagu Gmail, Yahoo ja iCloud, nõuavad seadistada kahe teguriga autentimine Outlooki abil saata ja vastu võtta e-posti. Lisateabe saamiseks vaadake teemat [Outlooki e-posti konto lisamine](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+**Märkus**: mõned e-posti kontod, nagu Gmail, Yahoo ja iCloud, nõuavad teil seadistada kahe teguriga autentimine, et kasutada Outlook saata ja vastu võtta e-posti. Lisateabe saamiseks vaadake teemat [Outlooki e-posti konto lisamine](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
   

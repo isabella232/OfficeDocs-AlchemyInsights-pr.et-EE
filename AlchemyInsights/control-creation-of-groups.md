@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b4c322896efc5e382674cc1bd3dde6a5baeaf81c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705621"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908736"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Kontrolli loomine Office 365 rühmad
+# <a name="control-creation-of-microsoft-365-groups"></a>Kontrolli loomine Microsoft 365 rühmad
 
 Vaikimisi saavad kõik ettevõtte kasutajad luua gruppe. Vajadusel saate seda muuta ja määrata endale õiguse luua gruppe oma ettevõttes olevatele inimestele. Pange tähele, et see mõjutab Microsoft 365 teenuse (nt Outlook, meeskonnad, Planner jne) rühmade loomine.
   
-Juhised: [Halda, kes saavad luua Office 365 rühmad](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Juhised: [Halda, kes saavad luua Microsoft 365 rühmad](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
