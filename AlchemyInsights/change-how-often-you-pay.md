@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706823"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939651"
 ---
 # <a name="change-how-often-you-pay"></a>Muutke, kui tihti maksate
 
- **Kas soovite muuta oma maksesagedust?** Kui soovite muuta, kui sageli maksate Microsoft 365 Business tellimuse eest, kas iga-aastasega igakuiselt või igakuiselt, saame teid sellega aidata. Peate ostma sama tellimuse uue maksesagedusega ja tühistama vana tellimuse. Palun kasutage "lase meil helistada" võimalus rääkida tugiteenuse insener.
+Et muuta, kui sageli olete arve ja maksma tellimuse, täitke järgmised sammud Microsoft 365 halduskeskus. 
+1. Avage **Arveldamine > [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Leidke tellimus, mida soovite muuta. Klõpsake jaotises **Arveldamine** , mis on **iga** - **aastaselt**arveldatud või arveldatud, nuppu **Redigeeri**. 
+3. Valige suvand, kui tihti soovite arve esitada, seejärel klõpsake nuppu **Muuda**.
+
+**Märkus**: igakuine või iga-aastane arveldamine on ainsad valikud.
+
+Lisateavet leiate teemast [maksesageduse muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
