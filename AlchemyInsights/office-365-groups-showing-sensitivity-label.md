@@ -1,5 +1,5 @@
 ---
-title: Tundlikkuse silte kuvavad Office 365 rühmad
+title: Tundlikkuse silte kuvavad Microsoft 365 rühmad
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: f0c8a8f07eda120b67a0adb34516d4f0203d6f7b
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218126"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911863"
 ---
-# <a name="office-365-groups-showing-sensitivity-label"></a><span data-ttu-id="59833-102">Tundlikkuse silte kuvavad Office 365 rühmad</span><span class="sxs-lookup"><span data-stu-id="59833-102">Office 365 Groups showing sensitivity label</span></span>
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a><span data-ttu-id="34373-102">Tundlikkuse silte kuvavad Microsoft 365 rühmad</span><span class="sxs-lookup"><span data-stu-id="34373-102">Microsoft 365 Groups showing sensitivity label</span></span>
 
-<span data-ttu-id="59833-103">Võite Office 365 rühma puhul näha järgmisi probleeme.</span><span class="sxs-lookup"><span data-stu-id="59833-103">You may be seeing the following issue with Office 365 Group:</span></span>
+<span data-ttu-id="34373-103">Võite Microsoft 365 rühma puhul näha järgist probleemi:</span><span class="sxs-lookup"><span data-stu-id="34373-103">You may be seeing the following issue with Microsoft 365 Group:</span></span>
 
-- <span data-ttu-id="59833-104">Office 365 rühma ei saa OWA-st luua, veakood „Liigituse väli ei saa olla tühi“.</span><span class="sxs-lookup"><span data-stu-id="59833-104">Unable to create an Office 365 Group from OWA, with the error "The classification field can't be empty."</span></span>
+- <span data-ttu-id="34373-104">Microsoft 365 rühma ei saa OWA-st luua, veakood „Liigituse väli ei saa olla tühi“.</span><span class="sxs-lookup"><span data-stu-id="34373-104">Unable to create an Microsoft 365 Group from OWA, with the error "The classification field can't be empty."</span></span>
 
-- <span data-ttu-id="59833-105">Office 365 rühmade tundlikkuse märgendi nägemine ka siis, kui te pole funktsiooni lubanud.</span><span class="sxs-lookup"><span data-stu-id="59833-105">Seeing sensitivity label for Office 365 groups even though you have not enabled the feature.</span></span>
+- <span data-ttu-id="34373-105">Microsoft 365 rühmade tundlikkuse märgendi nägemine ka siis, kui te pole funktsiooni lubanud.</span><span class="sxs-lookup"><span data-stu-id="34373-105">Seeing sensitivity label for Microsoft 365 Groups even though you have not enabled the feature.</span></span>
 
-<span data-ttu-id="59833-106">See probleem on tuvastatud ja lahendatud.</span><span class="sxs-lookup"><span data-stu-id="59833-106">This issue has been identified and fixed.</span></span> <span data-ttu-id="59833-107">Paranduse avaldaine on pooleli ja peaks paari tunni jooksul lõpule jõudma.</span><span class="sxs-lookup"><span data-stu-id="59833-107">The fix rollout is in progress and should be completed in a few hours.</span></span> <span data-ttu-id="59833-108">Samal ajal kasutage Office 365 rühmade loomiseks Office’i haldusportaali või Azure’i haldusportaali.</span><span class="sxs-lookup"><span data-stu-id="59833-108">Meanwhile, please use Office admin portal or Azure Admin Portal to create Office 365 Groups.</span></span>  
+<span data-ttu-id="34373-106">See probleem on tuvastatud ja lahendatud.</span><span class="sxs-lookup"><span data-stu-id="34373-106">This issue has been identified and fixed.</span></span> <span data-ttu-id="34373-107">Paranduse avaldaine on pooleli ja peaks paari tunni jooksul lõpule jõudma.</span><span class="sxs-lookup"><span data-stu-id="34373-107">The fix rollout is in progress and should be completed in a few hours.</span></span> <span data-ttu-id="34373-108">Samal ajal kasutage Microsoft 365 rühmade loomiseks Office’i haldusportaali või Azure’i haldusportaali.</span><span class="sxs-lookup"><span data-stu-id="34373-108">Meanwhile, please use Office admin portal or Azure Admin Portal to create Microsoft 365 Groups.</span></span>  

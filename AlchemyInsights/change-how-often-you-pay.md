@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706823"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939651"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="b9ace-102">Muutke, kui tihti maksate</span><span class="sxs-lookup"><span data-stu-id="b9ace-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="17087-102">Muutke, kui tihti maksate</span><span class="sxs-lookup"><span data-stu-id="17087-102">Change how often you pay</span></span>
 
- <span data-ttu-id="b9ace-103">**Kas soovite muuta oma maksesagedust?**</span><span class="sxs-lookup"><span data-stu-id="b9ace-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="b9ace-104">Kui soovite muuta, kui sageli maksate Microsoft 365 Business tellimuse eest, kas iga-aastasega igakuiselt või igakuiselt, saame teid sellega aidata.</span><span class="sxs-lookup"><span data-stu-id="b9ace-104">If you want to change how frequently you pay for your Microsoft 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="b9ace-105">Peate ostma sama tellimuse uue maksesagedusega ja tühistama vana tellimuse.</span><span class="sxs-lookup"><span data-stu-id="b9ace-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="b9ace-106">Palun kasutage "lase meil helistada" võimalus rääkida tugiteenuse insener.</span><span class="sxs-lookup"><span data-stu-id="b9ace-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="17087-103">Et muuta, kui sageli olete arve ja maksma tellimuse, täitke järgmised sammud Microsoft 365 halduskeskus.</span><span class="sxs-lookup"><span data-stu-id="17087-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
+1. <span data-ttu-id="17087-104">Avage **Arveldamine > [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="17087-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+2. <span data-ttu-id="17087-105">Leidke tellimus, mida soovite muuta.</span><span class="sxs-lookup"><span data-stu-id="17087-105">Find the subscription you want to change.</span></span> <span data-ttu-id="17087-106">Klõpsake jaotises **Arveldamine** , mis on **iga** - **aastaselt**arveldatud või arveldatud, nuppu **Redigeeri**.</span><span class="sxs-lookup"><span data-stu-id="17087-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
+3. <span data-ttu-id="17087-107">Valige suvand, kui tihti soovite arve esitada, seejärel klõpsake nuppu **Muuda**.</span><span class="sxs-lookup"><span data-stu-id="17087-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+
+<span data-ttu-id="17087-108">**Märkus**: igakuine või iga-aastane arveldamine on ainsad valikud.</span><span class="sxs-lookup"><span data-stu-id="17087-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="17087-109">Lisateavet leiate teemast [maksesageduse muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="17087-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>

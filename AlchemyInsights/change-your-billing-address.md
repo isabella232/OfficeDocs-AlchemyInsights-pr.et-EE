@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198789"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943939"
 ---
-# <a name="change-your-billing-address"></a><span data-ttu-id="fd2c5-102">Arveldusaadressi muutmine</span><span class="sxs-lookup"><span data-stu-id="fd2c5-102">Change your billing address</span></span>
+# <a name="change-your-billing-address"></a><span data-ttu-id="3c243-102">Arveldusaadressi muutmine</span><span class="sxs-lookup"><span data-stu-id="3c243-102">Change your billing address</span></span>
 
-<span data-ttu-id="fd2c5-103">Teie arve või arve sisaldab kolme aadressi.</span><span class="sxs-lookup"><span data-stu-id="fd2c5-103">Your bill or invoice contains three addresses.</span></span> 
+<span data-ttu-id="3c243-103">Teie arve või arve sisaldab kolme aadressi.</span><span class="sxs-lookup"><span data-stu-id="3c243-103">Your bill or invoice contains three addresses.</span></span>
 
-<span data-ttu-id="fd2c5-104">**Maksja aadressi muutmine**</span><span class="sxs-lookup"><span data-stu-id="fd2c5-104">**Change your Bill-To address**</span></span>
+<span data-ttu-id="3c243-104">**Makseviisi arveldusaadressi muutmine**</span><span class="sxs-lookup"><span data-stu-id="3c243-104">**Change the billing address for a payment method**</span></span>
 
-1. <span data-ttu-id="fd2c5-105">administreerimiskeskuses lehele \*\*arveldamine > [makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806) \*\* .</span><span class="sxs-lookup"><span data-stu-id="fd2c5-105">In the admin center, go to the **Billing > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span> 
+1. <span data-ttu-id="3c243-105">Avage administreerimiskeskuses **arveldamine > [makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span><span class="sxs-lookup"><span data-stu-id="3c243-105">In the admin center, go to **Billing > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span></span>
+2. <span data-ttu-id="3c243-106">Valige krediitkaart või pangakonto, mida soovite muuta.</span><span class="sxs-lookup"><span data-stu-id="3c243-106">Select the credit card or bank account that you want to change.</span></span>
+3. <span data-ttu-id="3c243-107">Klõpsake lehel **makseviisi üksikasjad** nuppu **Redigeeri**.</span><span class="sxs-lookup"><span data-stu-id="3c243-107">On the **Payment method details** page, click **Edit**.</span></span>
+4. <span data-ttu-id="3c243-108">Värskendage oma arveldusaadressi ja klõpsake siis nuppu **salvesta > valmis**.</span><span class="sxs-lookup"><span data-stu-id="3c243-108">Update your billing address, then click **Save > Done**.</span></span>
 
-2. <span data-ttu-id="fd2c5-106">Valige krediitkaart või pangakonto, mida soovite muuta.</span><span class="sxs-lookup"><span data-stu-id="fd2c5-106">Select the credit card or bank account that you want to change.</span></span> 
+<span data-ttu-id="3c243-109">Aadressi ja teatise muudatuste kohta leiate lisateavet teemast [Microsoft 365 ettevõtte arveldusaadresside muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="3c243-109">For more info about address and notification changes, see [Change your billing addresses for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span>
 
-3. <span data-ttu-id="fd2c5-107">Klõpsake lehel **makseviisi üksikasjad** nuppu **Redigeeri**.</span><span class="sxs-lookup"><span data-stu-id="fd2c5-107">On the **Payment method details** page, click **Edit**.</span></span> 
+<span data-ttu-id="3c243-110">**Arvelduskonto teabe muutmine**</span><span class="sxs-lookup"><span data-stu-id="3c243-110">**Change the billing account information**</span></span>
 
-4. <span data-ttu-id="fd2c5-108">Värskendage oma arveldusaadressi ja klõpsake siis nuppu **salvesta > valmis**.</span><span class="sxs-lookup"><span data-stu-id="fd2c5-108">Update your billing address, then click **Save > Done**.</span></span> 
+1. <span data-ttu-id="3c243-111">Avage administreerimiskeskuses **arveldamine > [arvelduskontod](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.</span><span class="sxs-lookup"><span data-stu-id="3c243-111">In the admin center, go to **Billing > [Billing accounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.</span></span>
+2. <span data-ttu-id="3c243-112">Valige **Muuda arvelduskonto teavet**.</span><span class="sxs-lookup"><span data-stu-id="3c243-112">Select **Edit billing account information**.</span></span>
+3. <span data-ttu-id="3c243-113">Värskendage arvelduskontoteavet ja klõpsake siis nuppu **salvesta > valmis**.</span><span class="sxs-lookup"><span data-stu-id="3c243-113">Update the billing account information, then click **Save > Done**.</span></span>
 
-<span data-ttu-id="fd2c5-109">Aadressi ja teatise muudatuste kohta leiate lisateavet teemast [Office 365 ettevõtte arveldusaadresside muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="fd2c5-109">For more info about address and notification changes, see [Change your billing addresses for Office 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span> 
+<span data-ttu-id="3c243-114">**Märkus**: riik/regioon ei saa muuta.</span><span class="sxs-lookup"><span data-stu-id="3c243-114">**Note**: You can't change the Country/Region.</span></span> <span data-ttu-id="3c243-115">Kui seda välja on vaja muuta, peate ostma uue rentniku.</span><span class="sxs-lookup"><span data-stu-id="3c243-115">If this field needs to be changed, you'll need to purchase a new tenant.</span></span>
