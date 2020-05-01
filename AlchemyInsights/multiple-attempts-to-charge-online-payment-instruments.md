@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799119"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957902"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Mitu katset nõuda online maksevahendid
+# <a name="past-due-account"></a>Tähtaja ületanud konto?
 
-Kui tasu ei õnnestu, püüab süsteem järgmise paari nädala jooksul tasakaalu tasakaalustada. Saate teha oma makseteabe värskendusi igal ajal, et kindlustada järgmise tasukatse edukas tegemine. Lisateabe saamiseks vaadake [Lisa, värskendage või eemaldage krediitkaardi või pangakonto Microsoft 365 äri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Makse võib tagasi lükata mitmel põhjusel, sealhulgas juhul, kui krediitkaart on aegunud. Saate kasutada **Tasakaalusta saldo** funktsiooni igal ajal, et muuta oma krediitkaardi teavet ja kohe uuesti esitada makse.
+
+1. Avage halduskeskuses **arveldamine > [tooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+Leidke tellimus tasumata saldo. Jaotises **Arveldamine** **on tellimuse kõrval maksetähtaja ületanud makse**, klõpsake kogu tasumata saldo maksmiseks nuppu **Tasakaalusta saldo** .
+2. Kui teil on krediitkaart, saate muuta aegumiskuupäeva, valida mõne muu kaardi või [lisada uue kaardi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+3. Kui teil ei ole krediitkaarti, saate valida teise krediitkaardi või [lisada uue kaardi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+4. Pärast värskenduste lõpuleviimist klikkige nupul **Salvesta**.
+
+**Märkus**: pärast makse tegemist võib möödunud tähtaeg olla lühikese aja jooksul endiselt nähtav. Palun oodake vähemalt **48 tundi** enne tugiteenuse poole pöördumist.

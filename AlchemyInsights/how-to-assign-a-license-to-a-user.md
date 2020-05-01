@@ -1,5 +1,5 @@
 ---
-title: Kasutajale litsentsi määramine
+title: Kasutajatele litsentside määramine või nende määramata määramine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799155"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957866"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Kasutajale litsentsi määramine
+# <a name="assign-or-unassign-licenses-to-users"></a>Kasutajatele litsentside määramine või nende määramata määramine
 
 Kasutaja vajab litsentsi juurdepääsuks teenustele. Siin on juhised kasutaja litsentsi **lisamiseks, muutmiseks või eemaldamiseks** .
   

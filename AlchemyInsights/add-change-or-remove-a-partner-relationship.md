@@ -11,17 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: a6f909aebe87e1398cfc76c5a577ea73c11d253c
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: c388609ebb1c2cc9506ea1f95f5fa692ef95b24f
+ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409012"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43955449"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Partneri seose lisamine, muutmine või eemaldamine
 
 Administraatorina saate töötada partneriga, et osta, aktiveerida ja uuendada Microsoft 365 tellimusi. 
 
-- Kui soovite olemasolevat partnersuhet redigeerida, vaadake teemat [kordustellimuste nõuandepartneri lisamine, muutmine või kustutamine](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide). 
+- Kui soovite olemasolevat partnersuhet redigeerida, vaadake teemat [kordustellimuste nõuandepartneri lisamine, muutmine või kustutamine](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
 
-- Kui otsite Microsofti partneri leidmiseks, vaadake teemat [microsoft 365 partneri või edasimüüja leidmine](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide). 
+- Kui otsite Microsofti partneri leidmiseks, vaadake teemat [microsoft 365 partneri või edasimüüja leidmine](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+
+Kui olete olemasolev Microsofti partner või soovite saada üheks, lugege lisateavet [Microsoft Partner Centeri](https://support.microsoft.com/help/4499930/partner-center-overview) eeliste kohta või [Microsofti partneri toe](https://aka.ms/partnersupport)kaudu abi saamiseks.
