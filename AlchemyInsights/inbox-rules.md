@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724552"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005254"
 ---
-# <a name="inbox-rules"></a>Sisendkausta reeglid
+# <a name="inbox-rules-in-outlook-desktop"></a>Sisendkausta reeglid Outlook Desktop
 
-Sisendkausta reeglid oma postkasti kasutamise kohta lisateabe saamiseks vaadake:
+1. Avage **fail > reeglite & teatiste haldamine** dialoogiboksi **reeglid ja teatised** avamiseks.
+2. Klõpsake vahekaardil **e-posti reeglid** **Uus reegel**.
+3. Valige üks mallide **sammus 1**. Tühja reegli käivitamiseks valige **Rakenda reegel sõnumitele, mida ma saan või Rakenda reegel saadetud sõnumitele**.
+4. **Samm 2: redigeerige reegli kirjelduse kasti**, klõpsake mis tahes allajoonitud suvandite seadmiseks. Näiteks kui valisite juhises 1 **Järeltegevuse jaoks kellegi lipuga sõnumid** , klõpsake nuppu **inimesed või avalik rühm** , et valida, milliseid saatjate sõnumeid soovite lipuga teha; seejärel klõpsake nuppu **järelkontroll** , et valida lipp ja järeltegevuse kuupäev.
+5. Klõpsake valikut **Edasi**.
 
-- [Meilisõnumite haldamine Outlooki arvuti reeglite abil](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Halda oma sõnumeid Outlook Web sisendkausta reeglite abil](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Samuti saate hallata sisendkausta reeglid Exchange Online PowerShelli. Lisateabe saamiseks vaadake [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Vaade), [Uus-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (luua), [Eemalda-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Kustuta), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (muuta olemasolevat), [Keela-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Keela olemasolev) ja [lubage-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (lubage olemasolev).
+Sisendkausta reeglitega töötamise kohta lisateabe saamiseks vaadake [hallata e-kirju reeglite abil](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).

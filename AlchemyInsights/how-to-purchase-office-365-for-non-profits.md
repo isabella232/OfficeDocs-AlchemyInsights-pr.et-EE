@@ -1,5 +1,5 @@
 ---
-title: Kuidas osta Office 365 mittetulundusühingutelt
+title: Microsoft 365 mittetulundusühingutelt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763537"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005218"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Kuidas osta Office 365 mittetulundusühingutelt
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 mittetulundusühingutelt
 
-Teie abikõlblikkus Microsofti kvalifitseeritud Nonprofit organisatsioonina on läbivaatamisel. Te võite eeldada, et saate teate oma sobivuse kindlaksmääramise kohta enne prooviversiooni aegumist. Saate jälgida oma taotluse olekut [siin](https://eligibilityweb.azurewebsites.net/).
+Teie abikõlblikkus Microsofti kvalifitseeritud Nonprofit organisatsioonina on **läbivaatamisel**. Võite oodata, et saada teate oma abikõlblikkuse määramise kohta **48 tundi** alates oma esitamise ajast. Palun lubage vähemalt **48 tundi** , et saada see teade enne teenuse taotluse avamist. 
+
+Lisateavet leiate teemast [Microsoft 365 mittetulundusühingutelt](https://www.microsoft.com/nonprofits/microsoft-365). 
