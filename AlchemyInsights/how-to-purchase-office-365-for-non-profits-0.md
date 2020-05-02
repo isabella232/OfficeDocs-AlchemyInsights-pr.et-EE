@@ -1,5 +1,5 @@
 ---
-title: Kuidas osta Office 365 mittetulundusühingutelt
+title: Microsoft 365 mittetulundusühingutelt tagasilükatud
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: facb44c932a2a610df3c4714c102a666bdf9aa20
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763609"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005290"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="c30eb-102">Kuidas osta Office 365 mittetulundusühingutelt</span><span class="sxs-lookup"><span data-stu-id="c30eb-102">How to purchase Office 365 for Nonprofits</span></span>
+# <a name="microsoft-365-for-nonprofits---declined"></a><span data-ttu-id="204bf-102">Microsoft 365 mittetulundusühingutelt tagasilükatud</span><span class="sxs-lookup"><span data-stu-id="204bf-102">Microsoft 365 for nonprofits - declined</span></span>
 
-<span data-ttu-id="c30eb-103">Me vaatas teie taotluse läbi ja määrasime, et see organisatsioon pole Microsofti kvalifitseeritud mittetulundusorganisatsiooniga abikõlblik.</span><span class="sxs-lookup"><span data-stu-id="c30eb-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="204bf-103">Me vaatas teie taotluse läbi ja määrasime, et see organisatsioon pole Microsofti kvalifitseeritud mittetulundusorganisatsiooniga abikõlblik.</span><span class="sxs-lookup"><span data-stu-id="204bf-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="c30eb-104">Osta Office 365 kaubanduslikult, palun vaadake [saadaval pakkumised](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="c30eb-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="204bf-104">Osta Office 365 kaubanduslikult, palun vaadake [saadaval pakkumised](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="204bf-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>

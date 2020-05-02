@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724552"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005254"
 ---
-# <a name="inbox-rules"></a><span data-ttu-id="27c3b-102">Sisendkausta reeglid</span><span class="sxs-lookup"><span data-stu-id="27c3b-102">Inbox rules</span></span>
+# <a name="inbox-rules-in-outlook-desktop"></a><span data-ttu-id="c615a-102">Sisendkausta reeglid Outlook Desktop</span><span class="sxs-lookup"><span data-stu-id="c615a-102">Inbox rules in Outlook Desktop</span></span>
 
-<span data-ttu-id="27c3b-103">Sisendkausta reeglid oma postkasti kasutamise kohta lisateabe saamiseks vaadake:</span><span class="sxs-lookup"><span data-stu-id="27c3b-103">For more information about using Inbox rules in your own mailbox, see:</span></span>
+1. <span data-ttu-id="c615a-103">Avage **fail > reeglite & teatiste haldamine** dialoogiboksi **reeglid ja teatised** avamiseks.</span><span class="sxs-lookup"><span data-stu-id="c615a-103">Go to **File > Manage Rules & Alerts** to open the **Rules and Alerts** dialog box.</span></span>
+2. <span data-ttu-id="c615a-104">Klõpsake vahekaardil **e-posti reeglid** **Uus reegel**.</span><span class="sxs-lookup"><span data-stu-id="c615a-104">On the **Email Rules** tab, click **New Rule**.</span></span>
+3. <span data-ttu-id="c615a-105">Valige üks mallide **sammus 1**.</span><span class="sxs-lookup"><span data-stu-id="c615a-105">Select one of the templates from **Step 1**.</span></span> <span data-ttu-id="c615a-106">Tühja reegli käivitamiseks valige **Rakenda reegel sõnumitele, mida ma saan või Rakenda reegel saadetud sõnumitele**.</span><span class="sxs-lookup"><span data-stu-id="c615a-106">To start from a blank rule, select **Apply rule on messages I receive or Apply rule on messages I send**.</span></span>
+4. <span data-ttu-id="c615a-107">**Samm 2: redigeerige reegli kirjelduse kasti**, klõpsake mis tahes allajoonitud suvandite seadmiseks.</span><span class="sxs-lookup"><span data-stu-id="c615a-107">In the **Step 2: Edit the rule description box**, click on any underlined options to set them.</span></span> <span data-ttu-id="c615a-108">Näiteks kui valisite juhises 1 **Järeltegevuse jaoks kellegi lipuga sõnumid** , klõpsake nuppu **inimesed või avalik rühm** , et valida, milliseid saatjate sõnumeid soovite lipuga teha; seejärel klõpsake nuppu **järelkontroll** , et valida lipp ja järeltegevuse kuupäev.</span><span class="sxs-lookup"><span data-stu-id="c615a-108">For example, if you selected **Flag messages from someone for follow-up** in Step 1, click **people or public group** to select which senders' messages you want to flag; then click **follow up at this time** to select a flag and a follow-up date.</span></span>
+5. <span data-ttu-id="c615a-109">Klõpsake valikut **Edasi**.</span><span class="sxs-lookup"><span data-stu-id="c615a-109">Click **Next**.</span></span>
 
-- [<span data-ttu-id="27c3b-104">Meilisõnumite haldamine Outlooki arvuti reeglite abil</span><span class="sxs-lookup"><span data-stu-id="27c3b-104">Manage email messages by using rules in Outlook for PC</span></span>](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [<span data-ttu-id="27c3b-105">Halda oma sõnumeid Outlook Web sisendkausta reeglite abil</span><span class="sxs-lookup"><span data-stu-id="27c3b-105">Manage your messages by using inbox rules in Outlook on the web</span></span>](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-<span data-ttu-id="27c3b-106">Samuti saate hallata sisendkausta reeglid Exchange Online PowerShelli.</span><span class="sxs-lookup"><span data-stu-id="27c3b-106">You can also manage Inbox rules in Exchange Online PowerShell.</span></span> <span data-ttu-id="27c3b-107">Lisateabe saamiseks vaadake [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Vaade), [Uus-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (luua), [Eemalda-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Kustuta), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (muuta olemasolevat), [Keela-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Keela olemasolev) ja [lubage-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (lubage olemasolev).</span><span class="sxs-lookup"><span data-stu-id="27c3b-107">For more information, see [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing), and [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).</span></span>
+<span data-ttu-id="c615a-110">Sisendkausta reeglitega töötamise kohta lisateabe saamiseks vaadake [hallata e-kirju reeglite abil](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).</span><span class="sxs-lookup"><span data-stu-id="c615a-110">For additional information on how to work with inbox rules please see [Manage email messages by using rules](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).</span></span>
