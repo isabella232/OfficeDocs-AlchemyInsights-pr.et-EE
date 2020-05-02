@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912041"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943975"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3 tellimuse ja litsentsi haldamise KKK
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912041"
 - E3 litsentside **tühistamiseks** avage **Arveldus > [Toote ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**, klõpsake suvandit **Sätted ja toimingud** ning klõpsake suvandit **Tühista tellimus**. Lisateavet vaadake artiklist [Tellimuse tühistamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - E3 tellimuse **aktiveerimiseks** vaadake teemat [Oma tellimuse aktiveerimine](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - E3 tellimuse **uuesti aktiveerimiseks** vaadake teemat [Oma tellimuse uuesti aktiveerimine](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- E3 prooviversiooni pikendamiseks vaadake teemat [Prooviversiooni pikendamine](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- E3 prooviversiooni **pikendamiseks** vaadake teemat [Prooviversiooni pikendamine](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Lisateavet leiate artiklist [Tellimuste litsentside haldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
