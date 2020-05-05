@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Educationi lepingute ostmine
+title: Microsoft 365 haridusasutustele – kinnitatud
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789370"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005398"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Microsoft 365 Educationi lepingute ostmine
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 haridusasutustele – kinnitatud
 
 Olete tunnistatud Microsoft 365 Educationi lepingu ostmiseks sobilikuks.  Ostmiseks tehke järgmist.
 
@@ -28,6 +28,8 @@ Olete tunnistatud Microsoft 365 Educationi lepingu ostmiseks sobilikuks.  Ostmis
 2. Valige sobiv leping jaotise **Haridusasutuste lepingud** loendist.
 
 3. Viige kursor soovitud tellimusele ja klõpsake nuppu **Osta kohe**.
+
+4. [Microsoft 365 Educationi rentnikkeskkonna häälestamine](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
 **Teamsi sisselülitamine**
 

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713318"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010790"
 ---
 # <a name="office-activation-errors"></a>Office’i aktiveerimistõrked
 
-1. Suvandis **Juhtpaneel > Programmid ja funktsioonid** otsige rakendust **Office**. Peaksite nägema valikut **Microsoft Office 365 ProPlus** või **Microsoft Office 365 Business**. Kui näete loendis rohkem kui ühte Office’i versiooni, desinstallige versioon, mida te ei kasuta. Kui te ei saa juhtpaneeli kaudu desinstallida, kasutage tugi- ja taasteteenuste abilist, et [desinstallida](https://aka.ms/SARA-OfficeUninstall-Alchemy) versioon, mida te ei kasuta. Seejärel taaskäivitage Office ja logige sisse oma töökoha või kooli kontoga, kui teil palutakse seda teha. 
+1. Suvandis **Juhtpaneel > Programmid ja funktsioonid** otsige rakendust **Office**. Peaksite nägema väärtust **Microsoft 365 suurettevõtetele** või **Microsoft 365 ettevõtetele**. Kui näete loendis rohkem kui ühte Office’i versiooni, desinstallige versioon, mida te ei kasuta. Kui te ei saa juhtpaneeli kaudu desinstallida, kasutage tugi- ja taasteteenuste abilist, et [desinstallida](https://aka.ms/SARA-OfficeUninstall-Alchemy) versioon, mida te ei kasuta. Seejärel taaskäivitage Office ja logige sisse oma töökoha või kooli kontoga, kui teil palutakse seda teha. 
 
 2. Kui Office on endiselt litsentsimata, avage uuesti ** Juhtpaneel > Programmid ja funktsioonid**, paremklõpsake allesjäänud Office’i installi, klõpsake käsku **Muuda** (või **Vaheta**) ja seejärel klõpsake käsku **Võrgus parandamine**. Võrgus parandamine võib aega võtta. Seejärel taaskäivitage Office ja logige sisse oma töökoha või kooli kontoga, kui teil palutakse seda teha. 
 
