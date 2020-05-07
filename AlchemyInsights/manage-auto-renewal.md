@@ -13,18 +13,18 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762601"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063829"
 ---
 # <a name="manage-recurring-billing"></a>Korduva arveldamise haldamine
 
 Saate korduva arvelduse sisse või välja lülitada Microsoft 365 halduskeskus.
   
-1. Minge halduskeskuses lehele **Arveldamine** \> [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. administreerimiskeskuses lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Arveldamine** \> .
 
 2. Tehke jaotises **Arveldamine**valiku **uuendamise järel** või **aegumisel**valik **Redigeeri**.
 
@@ -32,4 +32,4 @@ Saate korduva arvelduse sisse või välja lülitada Microsoft 365 halduskeskus.
 
 4. Valige **Edasta muudatus**.
 
-Lisateavet leiate artiklist [Korduva arveldamise sisse- või väljalülitamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Lisateavet leiate artiklist [Korduva arveldamise sisse- või väljalülitamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

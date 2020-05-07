@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716132"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062460"
 ---
 # <a name="find-and-activate-my-product-key"></a>Tootenumbri otsimine ja aktiveerimine
 
@@ -32,7 +32,7 @@ Kui ostsite Microsoft 365 Business Premiumi standardi jaepoest, kasutage aegumis
 
 **Märkus**: tootenumbri abil saate pikendada aegumiskuupäeva või lisada litsentsi olemasoleva Microsoft 365 Business Premium Standard tellimus, peate uue ja kasutamata võti sama Microsoft 365 tellimus.  Algse Microsoft 365 tootenumbri sisestamine ei toimi, kuna juba lunastatud võtit ei saa uuesti kasutada.
 
-1. administreerimiskeskuses lehele > [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) . **Billing**
+1. administreerimiskeskuses lehele**[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Arveldamine** > .
 
 2. Leidke tellimus, millele soovite aegumiskuupäeva pikendada või litsentse lisada.  Klõpsake nuppu [Laienda lõppkuupäev](https://go.microsoft.com/fwlink/p/?linkid=842054) või [Lisage veel litsentse](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

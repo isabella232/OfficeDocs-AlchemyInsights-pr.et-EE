@@ -11,25 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 1f4832ee74470ec2cb0f61fcc50ac559d3767791
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714074"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064281"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Vaheta plaanid suurendada postkasti maht
+# <a name="upgrade-plans-to-increase-mailbox-size"></a>Täiendamine plaanid suurendada postkasti maht
 
 Kui postkasti maht on 50 GB, saate suurendada postkasti maht 100 GB, lülitades [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) või [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Järgnevalt on juhised teise tellimuse aktiveerimiseks.
   
-1. Microsoft 365 halduskeskus, [tellimuste](https://go.microsoft.com/fwlink/p/?linkid=842054) lehele või valige **arvelduste** \> **tellimused**.
-    
-2. Saadaolevate uute plaanide loendi kuvamiseks valige käsk **Vaheta plaane** . 
-    
-3. Saate valida plaani, mis näeb välja uue kogumaksumuse kuu kohta. Lugege kindlasti **põhiteavet**, seejärel valige **edasi** , et kontrollida. 
-    
-4. Kui lõpetate kassasse, Microsoft 365 võtab paar minutit lõpuleviimiseks lüliti. Saate alustada uue tellimuse kasutamist kohe.
-    
-Lisateabe saamiseks vaadake [aktiveerida mõne muu Microsoft 365 tellimus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-  
+1. Avage Microsoft 365 halduskeskus lehel[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) **Arveldamine** > .
 
+2. Valige täiendustellimus ja seejärel valige vahekaart **Uuenda** , et vaadata saadaolevate uute plaanide loendit.
+
+3. Saate valida plaani, mis näeb välja uue kogumaksumuse kuu kohta. Lugege kindlasti **põhiteavet**, seejärel valige **edasi** , et kontrollida.
+
+4. Kui lõpetate kassasse, Microsoft 365 võtab paar minutit lõpuleviimiseks lüliti. Saate alustada uue tellimuse kasutamist kohe.
+
+Lisateavet leiate jaotisest [täiendamine mõnele muule plaanile](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
