@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 54619d2b5012ec100f8e1b25c49cec6f821375dd
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708243"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086884"
 ---
 # <a name="all-subscriptions-are-active"></a>Kõik tellimused on aktiivsed
 
-Teie tellimused on aktiivsed. Seda saab kontrollida, minnes lehele **arvelduste** \> [tellimine](https://go.microsoft.com/fwlink/p/?linkid=842054) . Teie tellimused on tellitud olekuga, mille ülaosas on aktiivsed tellimused. Lisateavet (nt litsentsi arvestus ja makseviis) saab näha tellimuse valimisel.
+Teie tellimused on aktiivsed. Seda saab kontrollida, minnes lehele [toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) **Arveldamine** \> . Teie tellimused on tellitud olekuga, mille ülaosas on aktiivsed tellimused. Lisateavet (nt litsentsi arvestus ja makseviis) saab näha tellimuse valimisel.
   
-Kui teil on oma teenusega probleeme, kasutage tugiteenuse inseneriga rääkimis suvandit "Las me kutsume teid".
+Kui otsite aktiivse tellimuse eemaldamist või konto sulgemist, vaadake, [Kuidas oma kontot sulgeda](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).
