@@ -1,5 +1,5 @@
 ---
-title: Tooted & teenused
+title: Teie tooted
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758786"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062857"
 ---
-# <a name="products--services"></a>Tooted & teenused
+# <a name="your-products"></a>Teie tooted
 
-Teie organisatsiooni omanduses olevad tellimused leiate lehelt > [**arveldustooted & teenused**](https://go.microsoft.com/fwlink/p/?linkid=842054) . **Billing** Siin on mõned selle lehe Tipphetked koos linkide kohta lisateabe saamiseks iga funktsiooni kohta:
+Teie asutuse omanduses olevad tellimused leiate lehel**[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Arveldamine** > . Siin on mõned selle lehe Tipphetked koos linkide kohta lisateabe saamiseks iga funktsiooni kohta:
 
 1. Saate hallata iga kordustellimuse jaoks ostetud litsentside arvu koos sellega, kui palju on kasutusel.  **Märkus**: litsentsid, mis ei ole kasutusel (ei ole määratud kasutajale) on endiselt laetud.  Kasutamata litsentside eest tasu ei maksta, vähendage ostetud litsentside arvu. Lisateavet selle kohta, kuidas litsentse tellimusest lisada või eemaldada, vaadake, [Kuidas litsentse lisada või vähendada](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

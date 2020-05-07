@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705081"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062280"
 ---
 # <a name="declined-credit-card"></a>Tagasilükatud krediitkaart
 
-Kui maksate krediitkaardiga ja teie krediitkaart lükatakse tagasi, saate e-kirja, mis lubab teil teada, et me ei saanud makset töödelda. Kontrollige, kas krediitkaardi [andmed](https://go.microsoft.com/fwlink/p/?linkid=842054) -kaardi number, aegumiskuupäev, nimi krediitkaardil ja aadress, sealhulgas linn, osariik ja sihtnumber – ilmuvad täpselt nii, nagu krediitkaardil ja krediitkaardi väljavõttena. Saate värskendada oma krediitkaardi teavet ja esitada makse kohe, kasutades suvandit **Tasakaalusta saldo** suvandi [tooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) lehel. 
+Kui maksate krediitkaardiga ja teie krediitkaart lükatakse tagasi, saate e-kirja, mis lubab teil teada, et me ei saanud makset töödelda. Kontrollige, kas krediitkaardi [andmed](https://go.microsoft.com/fwlink/p/?linkid=842054) -kaardi number, aegumiskuupäev, nimi krediitkaardil ja aadress, sealhulgas linn, osariik ja sihtnumber – ilmuvad täpselt nii, nagu krediitkaardil ja krediitkaardi väljavõttena. Saate oma krediitkaardi teavet värskendada ja makse kohe esitada, kasutades **[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehel valikut **Tasakaalusta saldo** . 
 
 Lisateabe saamiseks vaadake teemat "mis siis, kui minu krediitkaart on aegunud ja makse on tähtaja ületanud?" [tasu eest oma Microsoft 365 Business tellimus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

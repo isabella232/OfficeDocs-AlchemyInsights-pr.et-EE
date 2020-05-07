@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912962"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064389"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Probleemid rühma ühendatud saidi loomisel SharePointis
 
@@ -26,7 +26,7 @@ Kui olete kustutanud rühma ja selle ühendatud saidi ning soovite luua sama URL
    - Lisateavet PowerShelli kohta alustamine, vaadake alustamine [SharePoint Online Management shelli](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Eemaldage saidi kustutatud saidid kasutades [Eemalda SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShelli cmdlet-käsu. Rühma saitide jäädavalt kustutamiseks on vaja PowerShelli.
 
-1. Kui loote rühma ühendatud saidi ja saate hoiatuse: **teine sama pseudonüümiga rühm on juba olemas**, kontrollige olemasolevaid rühmi [Microsoft 365 administreerimiskeskusest](https://admin.microsoft.com/AdminPortal/Home#/groups). Probleemi lahendamiseks kustutage olemasolev rühm, kui see ei ole enam vajalik või luua saidi teise alias määratud.
+1. Kui loote rühma ühendatud saidi ja kuvatakse hoiatus: **teine sama pseudonüümiga rühm on juba olemas**, kontrollige olemasolevaid rühmi [Microsoft 365 administreerimiskeskusest](https://admin.microsoft.com/AdminPortal/Home#/groups). Probleemi lahendamiseks kustutage olemasolev rühm, kui see ei ole enam vajalik või luua saidi teise alias määratud.
 
 1. On erinevaid viise, kuidas luua ja kasutada tänapäevaseid rühmi SharePointiga.
 
