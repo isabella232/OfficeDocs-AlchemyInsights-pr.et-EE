@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762313"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043033"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsofti otsing Bingis ja Microsoft 365 suurettevõtterakendustes
 
-Alates Microsoft 365 suurettevõtterakenduste versioonist 2002 installitakse Microsofti otsingu laiendus Bingi jaoks, mis muudab Bingi teatud asukohtades asuvates seadmetes Google Chrome’i veebibrauseris vaikeotsimootoriks.
+Google Chrome’i ***valikuline*** Bingi Microsofti otsingu laiendus on saadaval Microsoft 365 suurettevõtterakendustega (varasema nimega Office 365 ProPlus), alustades versioonist 2005. See laiendus on saadaval teatud asukohtades Windowsit kasutavate domeeniga ühendatud seadmete jaoks. Kui otsustate selle laiendi juurutada, määrab see Bingi vaikimisi otsingumootoriks.
 
-**Kui te ei soovi seda laiendust installida, [täitke järgmised juhised](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Laienduse installimiseks peate ***registreeruma***, konfigureerides Microsoft 365 halduskeskuse Microsofti otsingu jaotises sätte.
 
-Ka pärast laienduse installimist saavad teie kasutajad ise loobuda Bingi kasutamisest vaikeotsimootorina – selleks on olemas lihtne [sisse- ja väljalülitamise](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome) tumblernupp. Samuti saate [laienduse eemaldada](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) korraga mitmest seadmest oma asutuses.
+Selle ***valikulise*** laienduse juurutamine tugineb ka taustal kasutatavale teenusele, mis on Microsoft 365 suurettevõtterakendustega saadaval alates versioonist 2005. Kui taustateenus pole installitud, siis laiendust ei installita.
 
-Kui soovite selle muudatuse kohta täpsemat teavet, leiate asjakohaseid artikleid [siit](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+Isegi pärast laienduse installimist saavad kasutajad hõlpsa sisse/välja lülitamise lülitit kasutades peatada Bingi kasutamise vaikimisi otsingumootorina.
+
+Lisateavet selle ***valikulise*** laienduse juurutamise kohta vaadake teemast [Microsofti otsing Bingis ja Microsoft 365 suurettevõtterakendustes](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
