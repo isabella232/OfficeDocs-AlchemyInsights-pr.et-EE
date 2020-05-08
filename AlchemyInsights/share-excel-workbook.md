@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 6a020a9e944b2df85719db3f9fde84897764e36b
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045406"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163777"
 ---
-# <a name="collaborate-on-excel-documents"></a>Exceli dokumentide kallal
+# <a name="collaborate-on-excel-documents"></a>Koostöö Exceli dokumentides
 
-Koostööd kolleegidega Exceli dokumentide, Co-authoring funktsiooni kasutada. Teave lubamise ja kasutades seda funktsiooni [Exceli töövihikute abil samal ajal koostööd](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Koostöö kolleegidega Exceli dokumentides kasutage **kaasautorongi funktsiooni**. 
+
+Siin on teavet selle funktsiooni lubamise ja kasutamise kohta, lisaks vastuste nägemisega korduma kippuvatele küsimustele ühiskasutuse ja kaasautorendi stsenaariumide kohta, tehes [koostööd Exceli töövihikutega samal ajal koos kaasautoriga](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).

@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711411"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086670"
 ---
 # <a name="canceling-your-subscription"></a>Kas tühistate tellimuse?
 
@@ -25,9 +25,9 @@ Meil on kahju näha teid minna, kuid kui soovite tühistada oma tellimus, siin o
   
 - Kui olete prooviversiooni klient, pole midagi tühistada. Prooviversiooni tellimused aeguvad automaatselt, kui te ei esita maksemeetodit.
 
-- Kui teil on vähem kui 25 määratud litsentsi, saate tellimuse veebis tühistada. Avage leht \> [arveldustooted & teenused](https://go.microsoft.com/fwlink/p/?linkid=842054) . **Billing** Jaotises **sätted & toimingud** valige **Tühista tellimus**.
+- Kui teil on vähem kui 25 määratud litsentsi, saate tellimuse veebis tühistada. lehele toodete **Arveldamine** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Jaotises **sätted & toimingud** valige **Tühista tellimus**.
 
-- Kui teil on rohkem kui 25 määratud litsentsid, saate eemaldada kasutajaid enne, kui teil on vähem kui 25, või kasutage "Olgem helistada" võimalus rääkida tugiteenuse insener.
+- Kui teil on rohkem kui 25 määratud litsentsi, saate eemaldada kasutajaid enne, kui teil on vähem kui 25.
   
 **Tagasimakse: kõik Esri väljastab proportsionaalse krediidi tagastatakse teile järgmise arveldustsükli jooksul.** 
 
