@@ -13,10 +13,10 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058748"
 ---
 # <a name="change-app-license-quantity"></a>Rakenduselitsentsi koguse muutmine
@@ -25,7 +25,7 @@ Saate vaadata või muuta litsentside arvu ja määrata need kasutajatele Microso
 
 ## <a name="to-change-license-quantity"></a>Litsentsi koguse muutmine
 
-1. lehele toodete **Arveldamine** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel valige vahekaart **rakendused** .
+1. lehele toodete **Arveldamine**ja  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** seejärel valige vahekaart **rakendused** .
 
 2. Leidke ja valige rakendus, mida soovite hallata.  
 
@@ -35,7 +35,7 @@ Saate vaadata või muuta litsentside arvu ja määrata need kasutajatele Microso
 
 ## <a name="to-assign-app-licenses"></a>Rakenduselitsentside määramine
 
-1. lehele toodete **Arveldamine** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel valige vahekaart **rakendused** .
+1. lehele toodete **Arveldamine**ja  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** seejärel valige vahekaart **rakendused** .
 
 2. Leidke ja valige rakendus, mida soovite hallata.  
 

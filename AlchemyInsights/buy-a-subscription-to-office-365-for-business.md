@@ -13,10 +13,10 @@ ms.custom:
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061739"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Osta tellimus Microsoft 365 oma tasuta prooviversiooni
@@ -25,7 +25,7 @@ Olete proovinud Microsoft 365 ja nüüd olete valmis ostma. Teil on kaks võimal
   
  **Osta sama plaan oma kohtuprotsessi**
   
-1. administreerimiskeskuses lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Arveldamine** \> .
+1. administreerimiskeskuses **Billing** \> lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
 
 2. Leidke tellimus, mida soovite osta. Valige jaotises **litsentsid** **Ostutellimus**ja järgige juhiseid.
 

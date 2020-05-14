@@ -14,10 +14,10 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062028"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Microsofti Hulgilitsentsitellimuse aktiveerimine
@@ -30,6 +30,6 @@ ms.locfileid: "44062028"
 
 4. Aktiveerimismeilisõnum annab teile kaks võimalust: **Registreeruge**või **logige**sisse. Kui olete varem prooviversiooni loonud, valige **Logi**sisse. Kui teil pole veel Microsoft 365 rentniku, valige **registreeru**.
 
-5. Logige sisse Microsoft 365 halduskeskus ([https://admin.microsoft.com](https://admin.microsoft.com)) olemasoleva administraatori mandaadi abil. Kui olete edukalt sisse logida, saate teise e-kirja, mis kinnitab ostu.
+5. Logige sisse Microsoft 365 halduskeskus ( [https://admin.microsoft.com](https://admin.microsoft.com) ) olemasoleva administraatori mandaadi abil. Kui olete edukalt sisse logida, saate teise e-kirja, mis kinnitab ostu.
 
-6. Kui olete sisse logitud, võite minna lehele [toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) **Arveldamine** \> , et veenduda, kas teie ostetud tellimused on teie rentniku sees aktiveeritud. (Saate valida ka VLSC vahekaart **tellimus** üksikasju kontrollida, et teie tellimus on hoiule.)
+6. Kui olete sisse logitud, võite minna lehele toodete **Arveldamine** , et veenduda, kas teie \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) ostetud tellimused on teie rentniku sees aktiveeritud. (Saate valida ka VLSC vahekaart **tellimus** üksikasju kontrollida, et teie tellimus on hoiule.)

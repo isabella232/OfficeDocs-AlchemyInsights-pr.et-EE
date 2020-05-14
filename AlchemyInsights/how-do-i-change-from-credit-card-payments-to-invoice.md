@@ -13,24 +13,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44062424"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225192"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kuidas muuta krediitkaardimaksetest arve?
 
 > [!NOTE]
 > Arve alusel maksmise võimalus on saadaval ainult juhul, kui teie tellimuse kulud on teatud summas (mis oleneb teenuse asukohast). Suuremate arvemaksete puhul võib osutuda vajalikuks krediidi kontrollimine. Lisateabe saamiseks vaadake [oma tellimuse eest tasu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
-  
-1. administreerimiskeskuses lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Arveldamine** \> .
 
-2. Valige tellimus, mida soovite muuta. Valige jaotises **Arveldamine** oma praeguse makseviisi **redigeerimissuvand** .
+1. administreerimiskeskuses **Billing**  >  lehele[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.
 
-3. Valige väljal **Muuda selle kordustellimuse eest maksmise viisi valik** **Muuda**, valige või lisage mõni muu makseviis ja valige siis **Salvesta**.
+2. Leidke tellimus, mida soovite muuta. Valige jaotises **Arveldamine**makseviisi kõrval käsk **Redigeeri**.
 
-   > [!NOTE]
-   > Kui seda suvandit ei kuvata, tähendab see, et krediitkaardi või pangakonto üleminek arveldamiseks ei ole kordustellimuse puhul saadaval, kuna tellimus ei vasta arve alusel arveldamiseks minimaalsetele kulukuludele. Arve alusel arveldamisel nõutav minimaalne kulusumma erineb geograafilise asukoha järgi.
-  
+3. Tehke olemasoleva makseviisi kõrval valik **Muuda**.
+
+4. Valige rippmenüüs **arve või pangaülekanne**.
+
+5. Sisestage oma nimi, aadress ja telefoninumber. Samuti saate arve kuvamiseks lisada OSTUTELLIMUSE numbri.
+
+6. Kui olete lõpetanud, valige **Salvesta**.
+
+7. Veenduge, et valitud makseviis on õige, ja seejärel valige **Salvesta**.
+
+Lisateabe saamiseks vaadake [Makseviisi muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).

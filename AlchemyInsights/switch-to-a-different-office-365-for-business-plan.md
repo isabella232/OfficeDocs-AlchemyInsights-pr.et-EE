@@ -13,17 +13,17 @@ ms.custom:
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064353"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Teise Microsoft 365 Business tellimuse aktiveerimine
 
 Kui teie ettevõte muutub või teil on vaja rohkem funktsioone, saate uue plaani uuendada.
   
-1. administreerimiskeskuses lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Arveldamine** \> .
+1. administreerimiskeskuses **Billing** \> lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
 
 2. Valige tellimus, mida soovite uuendada.
 

@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062857"
 ---
 # <a name="your-products"></a>Teie tooted
 
-Teie asutuse omanduses olevad tellimused leiate lehel**[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Arveldamine** > . Siin on mõned selle lehe Tipphetked koos linkide kohta lisateabe saamiseks iga funktsiooni kohta:
+Teie asutuse omanduses olevad tellimused leiate **Billing**  >  lehel**[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine. Siin on mõned selle lehe Tipphetked koos linkide kohta lisateabe saamiseks iga funktsiooni kohta:
 
 1. Saate hallata iga kordustellimuse jaoks ostetud litsentside arvu koos sellega, kui palju on kasutusel.  **Märkus**: litsentsid, mis ei ole kasutusel (ei ole määratud kasutajale) on endiselt laetud.  Kasutamata litsentside eest tasu ei maksta, vähendage ostetud litsentside arvu. Lisateavet selle kohta, kuidas litsentse tellimusest lisada või eemaldada, vaadake, [Kuidas litsentse lisada või vähendada](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ Teie asutuse omanduses olevad tellimused leiate lehel**[toodete](https://go.micr
 
 6. [Tühistage tellimus](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Saate osta täiendavaid tellimusi lehelt **arvelduse** > [**Ostuteenused**](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+Saate osta täiendavaid tellimusi lehelt **arvelduse**  >  [**Ostuteenused**](https://go.microsoft.com/fwlink/p/?linkid=868433) .
