@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
+ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712634"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44232325"
 ---
 # <a name="banned-sending-ip"></a>Keelatud saatmise IP
 
-Kui saadate e-posti Microsoft 365, saatja võib ilmneda see tõrge. Saatja peab külastama https://sender.office.com ja järgima juhiseid.  Kui nad ei saa kontrolli e-posti portaali, lasta neil kontrollida rämpsposti kausta ja/või proovige teise e-posti aadress.
+Office 365 adressaadile saatmisel võib saatja kogeda seda tõrget. Saatja peab külastama [Office 365 anti-rämpsposti IP Delist portaal](https://sender.office.com/) ja esitage oma e-posti aadress ja IP-aadress, mis tuleb vastu võtta. Kui nad ei saa kontrolli e-posti portaali, lasta neil kontrollida rämpsposti kausta ja/või proovige teise e-posti aadress. 
+
+- Üksikasjalike juhiste saamiseks vaadake, kuidas [kasutada delist-portaali, et end blokeeritud saatjate loendist eemaldada](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
