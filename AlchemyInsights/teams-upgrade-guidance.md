@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908773"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254745"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teamsi täiendamine
 
-**NB**!: me saame aidata seda parandada, kasutades tugiteenuse diagnostika, kuid tundub, et te ei kasuta uut administreerimiskeskust. Uue administreerimiskeskuse kasutamiseks libistage lüliti ülaosas paremal, mis ütleb **uue administraatori Center** paremale. Uue administreerimiskeskuse abil klõpsake **vaja abi?** vidina, tippige "meeskonnad Upgrade", seejärel järgige juhiseid diagnostika käivitamiseks.
+**NB**!: kui olete täiendanud Skype ' i Business Online Microsoft Teams meeskonnad ainult režiimis, kuid leida sa ei ole veel valmis, saame aidata seda parandada, kasutades tugiteenuse diagnostika. Veenduge, et kasutate uut administreerimiskeskust libistades lüliti ülaosas paremal, mis ütleb **uue administraatori Center**paremale. Uue administreerimiskeskuse abil klõpsake **vaja abi?** vidina, tippige "**meeskonnad Upgrade**", seejärel järgige juhiseid, et käivitada diagnostika.
 
 Kas olete just alustanud meeskonnad, juba kasutades meeskonnad koos Skype ' i äri, või valmis uuendada, me tahame tagada, et teil on kõik, mida vaja navigeerida edukas teekond meeskonnad. Lisateavet leiate alltoodud linkidest.
 
