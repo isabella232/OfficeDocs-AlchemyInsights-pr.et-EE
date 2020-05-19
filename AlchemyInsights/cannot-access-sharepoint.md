@@ -12,16 +12,14 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711375"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278816"
 ---
 # <a name="cannot-access-sharepoint"></a>SharePointile puudub ligipääs
-
-**Tähtis**! Nende enneolematude aegade jooksul võtame kasutusele meetmed, et säilitada SharePoint Online’i ja OneDrive’i teenuste hea kättesadavus. Lisateabe saamiseks vaadake teemat [SharePoint Online’i ajutised funktsioonide muudatused](https://aka.ms/ODSPAdjustments).
 
 Microsofti SharePointi või Microsoft OneDrive’i ligipääsmatuks muutumisel võib olla mitu põhjust. Kui te ei pääse SharePoint Online’ile ligi, kasutage selle probleemi tõrkeotsinguks järgmist juhendit.
 
