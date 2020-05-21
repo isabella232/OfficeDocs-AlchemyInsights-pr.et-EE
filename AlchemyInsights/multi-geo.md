@@ -11,19 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: cb9fef505e35e9d5888ab995d5cd3a43392b682f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 410c96c3d18baae096ecf52bba275b0eb2cfec20
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713534"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331406"
 ---
-# <a name="microsoft-365-multi-geo"></a><span data-ttu-id="da454-102">Microsoft 365 multi-Geo</span><span class="sxs-lookup"><span data-stu-id="da454-102">Microsoft 365 Multi-Geo</span></span>
+# <a name="microsoft-365-multi-geo"></a><span data-ttu-id="0974b-102">Microsoft 365 multi-Geo</span><span class="sxs-lookup"><span data-stu-id="0974b-102">Microsoft 365 Multi-Geo</span></span>
 
-<span data-ttu-id="da454-103">Microsoft 365 multi-Geo, teie organisatsioon saab laiendada oma Microsoft 365 kohalolek mitme geograafilise piirkonna ja/või riikide olemasoleva rentniku.</span><span class="sxs-lookup"><span data-stu-id="da454-103">With Microsoft 365 Multi-Geo, your organization can expand its Microsoft 365 presence to multiple geographic regions and/or countries within your existing tenant.</span></span> <span data-ttu-id="da454-104">Lisateabe saamiseks vaadake allolevaid linke.</span><span class="sxs-lookup"><span data-stu-id="da454-104">See the links below for more information.</span></span>
+<span data-ttu-id="0974b-103">Microsoft 365 multi-Geo, teie organisatsioon saab laiendada oma Microsoft 365 kohalolek mitme geograafilise piirkonna ja/või riikide olemasoleva rentniku.</span><span class="sxs-lookup"><span data-stu-id="0974b-103">With Microsoft 365 Multi-Geo, your organization can expand its Microsoft 365 presence to multiple geographic regions and/or countries within your existing tenant.</span></span> <span data-ttu-id="0974b-104">Lisateabe saamiseks vaadake allolevaid linke.</span><span class="sxs-lookup"><span data-stu-id="0974b-104">See the links below for more information.</span></span>
 
-- [<span data-ttu-id="da454-105">Microsoft 365 multi-Geo</span><span class="sxs-lookup"><span data-stu-id="da454-105">Microsoft 365 Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [<span data-ttu-id="da454-106">Multi-Geo võimalusi OneDrive ja SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="da454-106">Multi-Geo Capabilities in OneDrive and SharePoint Online</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
-- [<span data-ttu-id="da454-107">Multi-Geo võimalused Exchange Online</span><span class="sxs-lookup"><span data-stu-id="da454-107">Multi-Geo Capabilities in Exchange Online</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
-- [<span data-ttu-id="da454-108">Kava Microsoft 365 multi-Geo</span><span class="sxs-lookup"><span data-stu-id="da454-108">Plan for Microsoft 365 Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [<span data-ttu-id="da454-109">Konfigureerige multi-Geo</span><span class="sxs-lookup"><span data-stu-id="da454-109">Configure Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- <span data-ttu-id="0974b-105">[Microsoft 365 multi](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo) -Geo multi-Geo-võimalused-Exchange Online ' i)</span><span class="sxs-lookup"><span data-stu-id="0974b-105">[Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo) multi-geo-capabilities-in-exchange-online)</span></span>
+- [<span data-ttu-id="0974b-106">Kava Microsoft 365 multi-Geo</span><span class="sxs-lookup"><span data-stu-id="0974b-106">Plan for Microsoft 365 Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [<span data-ttu-id="0974b-107">Konfigureerige multi-Geo</span><span class="sxs-lookup"><span data-stu-id="0974b-107">Configure Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
