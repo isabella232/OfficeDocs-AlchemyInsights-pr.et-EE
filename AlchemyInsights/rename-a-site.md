@@ -10,20 +10,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: e72d1b0f4c9f45ee214747efa9502b2341bde8e7
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: 71e5388df7a36652e3da9163d82dbb2be86823e3
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891709"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343118"
 ---
 # <a name="rename-a-sharepoint-site"></a>SharePointi saidi ümbernimetamine
 
-Järgige [selles artiklis](https://docs.microsoft.com/sharepoint/change-site-address) muuta saidi nimi--näiteks, alates https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2.
+Saidi URL-i muutmise/ümbernimetamise juhised on dokumenteeritud [saidi aadressi muutmine](https://docs.microsoft.com/sharepoint/change-site-address); Näiteks, https://contoso.sharepoint.com/sites/sample1 et muuta https://contoso.sharepoint.com/sites/sample2 .
 
-**Märkus:** SharePoint Online ' i URL-is ei saa muuta domeeninime (Ülaltoodud näites contoso osa URL-i). 
+Tuntud tõrked ümbernimetamise ajal vaadake [tõrked SharePointi saidi aadressi ümbernimetamisel](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
 
-Lisateavet vaadake teemast
+Teadaolevatele mõjudele pärast ümbernimetamist vaadake [saidi aadressi muutmise mõju](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+
+**Märkus:** Te ei saa muuta domeeni nimi (Ülaltoodud näites "contoso" osa URL) SharePoint Online ' i URL-i. 
+
+Lisateavet leiate järgmisest teemast.
 
 - [SharePointi domeeninime muutmine](https://go.microsoft.com/fwlink/?Linkid=2018696)
 - [Tõrked SharePointi saidi aadressi ümbernimetamisel](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

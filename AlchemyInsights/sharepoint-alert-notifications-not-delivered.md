@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742043"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343102"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePointi teatiste teatisi pole tarnitud
 
@@ -33,15 +33,6 @@ KKK hoiatuste kohta:
 
 - Ei ole võimalik saata teateid levirühm, toetatakse ainult turvalisuse ja O365 rühmad.
 - Teatiste meilimalle ei saa kohandada; nende saavutamiseks peate kasutama Microsoft FLOW või SharePoint Designeri töövoogu.
-
-Lisateave:
-
-- **Teatise häälestus**: teatiste seadistamise kohta lisateabe saamiseks vaadake teemat [teatise loomine, et saada teada, kas fail või kaust muutub SharePointis](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Teatiste tõrkeotsing**: teatiste tõrkeotsingu kohta lisateabe saamiseks vaadake [kasutajad ei saa SharePoint Online ' i teatiste teatised](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Täpsem O365 vastavuse Alert poliitika**: Lisateavet nende teatiste seadistamise kohta leiate teemast [vastavuse hoiatuste poliitikad](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePointi ja OneDrive ' i auditilogi**: nende sündmuste toomise kohta lisateabe saamiseks vaadake [Otsi auditilogist](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Täiustatud ohutõrje saadetud teatised**: vt [ATP SharePointi ja OneDrive ' i jaoks](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Andmete kadu vältimine poliitika saadetud teatised**: vaadake [e-posti teated DLP poliitikad](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Seostuvad Teemad
 
