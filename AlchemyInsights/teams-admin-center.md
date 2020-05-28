@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021636"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354084"
 ---
 # <a name="teams-admin-center"></a>Teamsi halduskeskus
 
@@ -30,4 +30,6 @@ Kui te ei pääse Teamsi halduskeskusele ligi, kontrollige järgnevat.
 Kui kasutajad ei ilmu Teamsi halduskeskuses, kontrollige järgnevat.
 
 - Kas olete kasutajad loonud või määranud itsentsid viimase 24 tunni jooksul? Veenduge, et ootaksite vähemalt 24 tundi enne tugiteenusetaotluse avamist.
-- Veenduge, kas olete määranud sobivad litsentsid. 
+- Veenduge, kas olete määranud sobivad litsentsid.
+- Kui teil on-premise Active Directory, veenduge, et [msRTCSIP PrimaryUserAddress või SIP-aadress väljale ProxyAddresses kohaliku Active Directory on unikaalne ja vorming vastab](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP: kasutaja [Microsoft 365 administreerimiskeskuse](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**kasutajanimi** .
+- Kui kavatsete hoida Skype ' i Business Serveri juurutamine ja on kasutajad homed asutusesisese ja online: järgige **"Seadista hübriid meeskonnad ja Skype Business Online"** Skype ' i Business Server juhtpaneeli ja teisaldage Kasutajad online.

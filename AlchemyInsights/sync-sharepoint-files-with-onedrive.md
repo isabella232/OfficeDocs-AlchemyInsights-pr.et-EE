@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767029"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343157"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Käsu Ava Exploreris probleemide tõrkeotsing SharePoint Online’is
 
@@ -28,9 +28,6 @@ Käsu Ava Exploreris probleemide tõrkeotsinguks järgige järgmistes artiklites
 - [Käsu Ava Exploreris abil teegifailide kopeerimine või teisaldamine](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Märkus.**
+>- Ava Exploreris on toetatud ainult versioonides Internet Explorer 10 või 11. Käsk Ava Exploreris ei tööta Windowsis Microsoft Edge’i, Google Chrome’i, Mozilla Firefoxi ega Maci platvormiga. Seepärast võib suvand Exploreri vaade olla kuvatud tuhmina.
 >
 >- Uues teegi versioonis nuppu Ava Exploreris pole. Klõpsake üleval paremal rippmenüüd **Vaade** (rippmenüü nimi muutub olenevalt teie praegusest vaatest) ja seejärel valige **Vaade File Exploreris**.
->
->- Ava Exploreris on toetatud ainult versioonides Internet Explorer 10 või 11. Käsk Ava Exploreris ei tööta Windowsis Microsoft Edge’i, Google Chrome’i, Mozilla Firefoxi ega Maci platvormiga. Seepärast võib suvand Exploreri vaade olla kuvatud tuhmina.
-
-

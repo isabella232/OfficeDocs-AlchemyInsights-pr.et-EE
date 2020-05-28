@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953832"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343043"
 ---
 # <a name="list-view-threshold"></a>Loendivaate lävi
 
-SharePointi loendid ja teegid võivad sisaldada kuni 30 miljonit üksust, kuid üle 5000 üksuse sisaldavate loendite ja teekidega töötada üritades kuvatakse teile loendivaate läve tõrge. Läve eesmärk on säilitada teenuse jõudlus. Seda ei saa muuta. Võite saada selle tõrketeate, kui proovite kausta pärandit ühiskasutusse anda või seda katkestada.
+Teenuse jõudluse säilitamiseks on kehtestatud loendivaate piirmäär. Piirmäära ei saa muuta SharePoint Online. Et vältida selle piirmäära tabab, vaadake [hallata suuri loendeid ja teegid SharePointi](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Selle lävendini jõudmise vältimiseks vaadake järgmisi teemasid.
-
-- [SharePointis mahukate loendite ja teekide haldamine](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Pärandi ühiskasutuse/peatamise viga](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Võite saada selle tõrketeate, kui proovite kausta pärandit ühiskasutusse anda või seda katkestada. Vaadake [viga aktsia/Break pärand](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).

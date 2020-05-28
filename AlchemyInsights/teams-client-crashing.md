@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030587"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354048"
 ---
 # <a name="teams-client-crashing"></a>Kas Teamsi klient jookseb kokku?
 
@@ -24,32 +24,26 @@ Kui teie Teamsi klient jookseb kokku, proovige järgmist.
 
 - Kui kasutate Teamsi töölauarakendust, [veenduge, et rakendus oleks täielikult värskendatud](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Veenduge, et kõik [Office 365 URL-id ja aadresside vahemikud](https://docs.microsoft.com/microsoftteams/connectivity-issues) oleksid juurdepääsetavad.
+- Veenduge, et kõik [Microsoft 365 URL-id ja aadressivahemikud](https://docs.microsoft.com/microsoftteams/connectivity-issues) on juurdepääsetavad.
 
-- Logige oma administraatori kontoga sisse ja kontrollige oma [teenuse seisundi andmelauda](https://docs.microsoft.com/office365/enterprise/view-service-health), et teha kindlaks, kas ei esine katkestust ega teenuse jõudluse vähenemist.
+- Logige sisse oma rentniku administraatori kontoga ja kontrollige oma [teenuse tervise armatuurlauale](https://docs.microsoft.com/office365/enterprise/view-service-health) veendumaks, et katkestust või teenuse halvenemine on olemas.
 
- - Viimase toiminguna võite proovida tühjendada Teamsi kliendi vahemälu.
+- Desinstallige ja installige meeskonnad rakendus (link)
+    - Sirvige arvutis kausta%appdata%\Microsoft\teams\ ja kustutage kõik selle kausta failid.
+    - [Laadige alla ja installige meeskonnad app](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), ja võimaluse korral installige meeskonnad administraatorina (paremklõps meeskonnad Installer ja valige "Käivita administraatorina" Kui saadaval).
 
-    1.  Väljuge täielikult Microsoft Teamsi töölauakliendist. Saate paremklõpsata ikoonide alal **Teamsi** ja klõpsata suvandit **Sulge** või käivitada tegumihalduri ja protsessi täielikult sulgeda.
+Kui teie meeskonnad klient ikka krahhi, saate probleemi taasesitada? Kui jah, siis:
 
-    2.  Minge File Explorerisse ja sisestage %appdata%\Microsoft\teams.
+1. Juhiste Salvesti abil saate oma sammud jäädvustada.
+    - Sulgege kõik mittevajalikud või konfidentsiaalsed rakendused.
+    - Käivitage toimingute salvesti ja paljundada probleem mõjutatud kasutajakonto sisse logitud.
+    - [Koguda meeskonnad logid, mis jäädvustada salvestatud reprodutseerida sammud](https://docs.microsoft.com/microsoftteams/log-files). **Märkus**: Veenduge, et jäädvustada mõjutatud kasutaja sisselogimise aadress.
+    - Koguge mälutõmmise ja/või rikke kopp info (Windows). Käivitage Windows PowerShelli arvutis, kus crash esineb ja käivitage järgmised käsud:
 
-    3.  Kataloogis kuvatakse üks järgmistest kaustadest.
-
-         - Asukohas **Application Cache** (Rakenduse vahemälu) avage suvand Vahemälu ja kustutage kõik failid vahemälu asukohas: %appdata%\Microsoft\teams\application cache\cache.
-
-        - Kustutage asukohas **Blob_storage** (Bloobimälu) kõik failid: %appdata%\Microsoft\teams\blob_storage.
-
-        - Kustutage asukohas **Cache** (Vahemälu) kõik failid: %appdata%\Microsoft\teams\Cache.
-
-        - Kustutage asukohas **databases** (Andmebaasid) kõik failid: %appdata%\Microsoft\teams\databases.
-
-        - Kustutage asukohas **GPUCache** (GPU vahemälu) kõik failid: %appdata%\Microsoft\teams\GPUcache.
-
-        - Kustutage asukohas **IndexedDB** (Indekseeritud DB) DB-fail: %appdata%\Microsoft\teams\IndexedDB.
-
-        - Kustutage asukohas **Local Storage** (Kohalik mälu) kõik failid: %appdata%\Microsoft\teams\Local Storage.
-
-        - Viimasena kustutage asukohas **tmp** kõik failid: %appdata%\Microsoft\teams\tmp.
-
-    4. Taaskäivitage oma Teamsi klient.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Kinnitage fail oma tugiteenuse teenindusjuhtumile.
