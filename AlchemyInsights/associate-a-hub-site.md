@@ -11,23 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 32e49b8afc6ba63463faac3f258c96266db04941
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712526"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407274"
 ---
-# <a name="associate-a-hub-site"></a>Jaoturi saidi seostamine
+# <a name="associate-existing-site-with-a-hub-site"></a>Olemasoleva saidi seostamine jaoturi saidiga
 
 Olemasoleva saidi seostamiseks jaoturi saidiga tehke järgmist.
   
 1. Valige oma saidil **sätted** (käik ikoon ülemises paremas nurgas) ja seejärel valige **saidi teave**.
 
-2. Valige saidi **teabekaneeli saiditeabe redigeerimise** menüüs **jaoturi saidi seos** , mida soovite seostada, ja seejärel valige **Salvesta**. Ilme saidile muutub sobitada, et jaoturi saidi ja jaoturi saidi navigeerimisribal ilmub ülaosas.
+2. Valige **Redigeeri saidi teabe** paanil **jaoturi saidi seos** menüüs jaoturi sait, mida soovite oma saidiga seostada ja seejärel klõpsake nuppu **Salvesta**. Ilme saidile muutub sobitada, et jaoturi saidi ja jaoturi saidi navigeerimisribal ilmub ülaosas.
 
- > [!Note]
+>**Märkus**
+>
 >Kui jaoturi saidi seos suvand pole olemas või saite on loetletud seal, jaoturi saidid ei pruugi olla lubatud või teil pole õigust seostada saite jaoturi saidiga. Lisateabe saamiseks pöörduge oma administraatori poole.
 >
->Saitide arv, mida saab seostada jaoturi saidiga pole piirang.
+>Jaoturi saidiga seostatud saitide arvu pole võimalik piirata.
   
