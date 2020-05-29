@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765265"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418068"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Millal on minu krediitkaart laetud?
 
@@ -26,4 +26,4 @@ Esialgse ostu korral võib kulu tekkida kuni kaks päeva.
   
 Korduvad tasud toimuvad ühe päeva jooksul pärast arve loomist.
   
-Kui tasu ei õnnestu, püüab süsteem järgmise paari nädala jooksul tasakaalu tasakaalustada. Saate teha oma makseteabe värskendusi igal ajal, et kindlustada järgmise tasukatse edukas tegemine. Lisateabe saamiseks vaadake [Lisa, värskendage või eemaldage krediitkaardi või pangakonto Microsoft 365 äri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Kui tasu ei õnnestu, püüab süsteem järgmise paari nädala jooksul tasakaalu tasakaalustada. Saate teha oma makseteabe värskendusi igal ajal, et kindlustada järgmise tasukatse edukas tegemine. Lisateavet leiate teemast [makseviiside haldamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
