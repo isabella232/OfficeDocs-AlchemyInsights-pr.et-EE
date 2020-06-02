@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912182"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495623"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="827d5-102">SharePoint Online ' i välise ühiskasutuse lubamine</span><span class="sxs-lookup"><span data-stu-id="827d5-102">Enable external sharing in SharePoint Online</span></span>
+# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="9fee9-102">SharePoint Online ' i välise ühiskasutuse lubamine</span><span class="sxs-lookup"><span data-stu-id="9fee9-102">Enable external sharing in SharePoint Online</span></span>
 
-<span data-ttu-id="827d5-103">Kui teie organisatsioon teeb tööd, mis hõlmab dokumentide ühiskasutust või otse hankijate, klientide või klientidega koostööd, saate kasutada SharePoint Online ' i [väliste ühiskasutuse funktsioone](https://docs.microsoft.com/sharepoint/external-sharing-overview) , et jagada sisu inimestega väljaspool teie organisatsiooni.</span><span class="sxs-lookup"><span data-stu-id="827d5-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
+<span data-ttu-id="9fee9-103">Kui teie organisatsioon teeb tööd, mis hõlmab dokumentide ühiskasutust või otse hankijate, klientide või klientidega koostööd, saate kasutada SharePoint Online ' i [väliste ühiskasutuse funktsioone](https://docs.microsoft.com/sharepoint/external-sharing-overview) , et jagada sisu inimestega väljaspool teie organisatsiooni.</span><span class="sxs-lookup"><span data-stu-id="9fee9-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
 
-<span data-ttu-id="827d5-104">Lisateavet väliste ühiskasutuse kohta (Külalised) leiate alltoodud linkidest.</span><span class="sxs-lookup"><span data-stu-id="827d5-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
+<span data-ttu-id="9fee9-104">Lisateavet väliste ühiskasutuse kohta (Külalised) leiate alltoodud linkidest.</span><span class="sxs-lookup"><span data-stu-id="9fee9-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
 
-- [<span data-ttu-id="827d5-105">Mis on väline kasutaja?</span><span class="sxs-lookup"><span data-stu-id="827d5-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [<span data-ttu-id="9fee9-105">Mis on väline kasutaja?</span><span class="sxs-lookup"><span data-stu-id="9fee9-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [<span data-ttu-id="827d5-106">Mis juhtub, kui ma jagan saiti või dokumenti?</span><span class="sxs-lookup"><span data-stu-id="827d5-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [<span data-ttu-id="9fee9-106">Mis juhtub, kui ma jagan saiti või dokumenti?</span><span class="sxs-lookup"><span data-stu-id="9fee9-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [<span data-ttu-id="827d5-107">SharePoint Online’is välise ühiskasutuse sisse- või väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="827d5-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [<span data-ttu-id="9fee9-107">SharePoint Online’is välise ühiskasutuse sisse- või väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="9fee9-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [<span data-ttu-id="827d5-108">Saidi jaoks välise ühiskasutuse sisse-või väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="827d5-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [<span data-ttu-id="9fee9-108">Saidi jaoks välise ühiskasutuse sisse-või väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="9fee9-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [<span data-ttu-id="827d5-109">Halda külalispääsu Microsoft 365 groups</span><span class="sxs-lookup"><span data-stu-id="827d5-109">Manage guest access in Microsoft 365 Groups</span></span>](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [<span data-ttu-id="9fee9-109">Halda külalispääsu Microsoft 365 groups</span><span class="sxs-lookup"><span data-stu-id="9fee9-109">Manage guest access in Microsoft 365 Groups</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
 
-- [<span data-ttu-id="827d5-110">SharePoint Online ' i kasutamine ettevõtte ja ettevõtte (B2B) Suhtevõrgu lahendusena</span><span class="sxs-lookup"><span data-stu-id="827d5-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [<span data-ttu-id="9fee9-110">SharePoint Online ' i kasutamine ettevõtte ja ettevõtte (B2B) Suhtevõrgu lahendusena</span><span class="sxs-lookup"><span data-stu-id="9fee9-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [<span data-ttu-id="827d5-111">SharePointi failide või kaustade ühiskasutus</span><span class="sxs-lookup"><span data-stu-id="827d5-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [<span data-ttu-id="9fee9-111">SharePointi failide või kaustade ühiskasutus</span><span class="sxs-lookup"><span data-stu-id="9fee9-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [<span data-ttu-id="827d5-112">OneDrive ' i või SharePointi failide või kaustade ühiskasutuse peatamine või õiguste muutmine</span><span class="sxs-lookup"><span data-stu-id="827d5-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [<span data-ttu-id="9fee9-112">OneDrive ' i või SharePointi failide või kaustade ühiskasutuse peatamine või õiguste muutmine</span><span class="sxs-lookup"><span data-stu-id="9fee9-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [<span data-ttu-id="827d5-113">Välise kasutaja kustutamine</span><span class="sxs-lookup"><span data-stu-id="827d5-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [<span data-ttu-id="9fee9-113">Välise kasutaja kustutamine</span><span class="sxs-lookup"><span data-stu-id="9fee9-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-<span data-ttu-id="827d5-114">**Välise kasutajaga (külastaja) tõrke vastuvõtmine?**</span><span class="sxs-lookup"><span data-stu-id="827d5-114">**Receiving an error with an external user (guest)?**</span></span>
+<span data-ttu-id="9fee9-114">**Välise kasutajaga (külastaja) tõrke vastuvõtmine?**</span><span class="sxs-lookup"><span data-stu-id="9fee9-114">**Receiving an error with an external user (guest)?**</span></span>
 
-<span data-ttu-id="827d5-115">Kontrollige allolevaid linke.</span><span class="sxs-lookup"><span data-stu-id="827d5-115">Check the links below.</span></span> 
+<span data-ttu-id="9fee9-115">Kontrollige allolevaid linke.</span><span class="sxs-lookup"><span data-stu-id="9fee9-115">Check the links below.</span></span> 
 
-- [<span data-ttu-id="827d5-116">OSE ühiskasutuse tõrked SharePointis või OneDrive ' is</span><span class="sxs-lookup"><span data-stu-id="827d5-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="9fee9-116">OSE ühiskasutuse tõrked SharePointis või OneDrive ' is</span><span class="sxs-lookup"><span data-stu-id="9fee9-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [<span data-ttu-id="827d5-117">Tõrketeade, kui väline kasutaja aktsepteerib SharePoint Online ' i kutse, kasutades teise kontoga</span><span class="sxs-lookup"><span data-stu-id="827d5-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="9fee9-117">Tõrketeade, kui väline kasutaja aktsepteerib SharePoint Online ' i kutse, kasutades teise kontoga</span><span class="sxs-lookup"><span data-stu-id="9fee9-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [<span data-ttu-id="827d5-118">Juurdepääs on keelatud ühiskasutusse antud kaustale</span><span class="sxs-lookup"><span data-stu-id="827d5-118">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+- [<span data-ttu-id="9fee9-118">Juurdepääs on keelatud ühiskasutusse antud kaustale</span><span class="sxs-lookup"><span data-stu-id="9fee9-118">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
