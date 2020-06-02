@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765985"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508660"
 ---
 # <a name="install-visio"></a>Installi Visio
 
@@ -25,7 +25,7 @@ Visio müüakse eraldiseisva rakendusena, nii et kui teil seda veel pole, [ostke
 
 **Märkus**: Visio Online ' i leping 1 ei sisalda Visio töölauaversiooni, nii et install pole võimalik.
 
-Kui teil on tellimus Visio Online ' i leping 2, peate [määrama kasutajale litsentsi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) või neil ei ole võimalust installida Visio minu **installid** [minu kontoportaalis](https://portal.office.com/account#installs). 
+Kui teil on tellimus Visio Online ' i leping 2, peate [määrama kasutajale litsentsi](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) või neil ei ole võimalust installida Visio minu **installid** [minu kontoportaalis](https://portal.office.com/account#installs). 
 
 Visio Standard või Visio Professional mitte-Volume litsentsi versioonid on seotud Microsofti kontod ja ei saa hallata administreerimiskeskuses. Nende versioonide installimiseks peavad kasutajad logima sisse [account.microsoft.com](https://account.microsoft.com) selle Visio versiooniga seostatud Microsofti kontoga.
 

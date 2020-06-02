@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716456"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508948"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Tuvastada, kui väline e-posti suunamine on konfigureeritud postkastid
 
@@ -25,7 +25,7 @@ Kui Microsoft 365 kasutaja konfigureerib välise e-posti suunamine postkasti, te
 
 1. Logige sisse [Microsoft 365 Security & vastavuse Center](https://protection.office.com/).
 
-2. **otsingulehele otsingu** > **auditilogi** .
+2. **otsingulehele otsingu**  >  **auditilogi** .
 
 3. Saate **valida kuupäevavahemiku alguskuupäeva ja** **lõppkuupäeva** väljadel. Kasutajanime ei ole vaja määrata. Veenduge, et välja **Tegevused** väärtuseks kuvatakse **kõigi tegevuste tulemused**.
 
@@ -39,4 +39,4 @@ Tulemuste, klõpsake **filtri tulemused** ja tippige **määratud postkast** teg
 
 - **Userid**: kasutaja, kes on konfigureeritud e-posti suunamine postkasti **ObjectId** välja.
 
-Lisateabe saamiseks vaadake määrates, [kes seadistada e-posti suunamine postkasti](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Lisateabe saamiseks vaadake määrates, [kes seadistada e-posti suunamine postkasti](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

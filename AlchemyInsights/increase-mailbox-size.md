@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064225"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508732"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Postkasti mahu suurendamise tellimuste vahetamine
 
@@ -35,6 +35,6 @@ Kui postkasti maht on 50 GB, saate suurendada selle 100 GB, lülitades [office 3
 
 5. Sisestage soovitud litsentside arv, valige, kas maksate iga kuu või terve aasta eest, seejärel valige käsk **Kassa**.
 
-Lisateavet leiate jaotisest [täiendamine mõnele muule plaanile](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Lisateavet leiate jaotisest [täiendamine mõnele muule plaanile](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Kui teil on [tellimus, mis toetab kohapealset arhiivi](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), saate ka täiendavaid e-posti salvestusruumi, võimaldades arhiivi postkasti. Arhiivi postkasti annab teile täiendavat salvestusruumi ja võimaldab teil teisaldada, kopeerida ja otsida sõnumeid nii põhi-kui ka arhiivi postkasti. Arhiivi postkasti lubamise juhiste saamiseks vaadake [arhiivi postkasti lubamine](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Kui teil on [tellimus, mis toetab kohapealset arhiivi](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), saate ka täiendavaid e-posti salvestusruumi, võimaldades arhiivi postkasti. Arhiivi postkasti annab teile täiendavat salvestusruumi ja võimaldab teil teisaldada, kopeerida ja otsida sõnumeid nii põhi-kui ka arhiivi postkasti. Arhiivi postkasti lubamise juhiste saamiseks vaadake [arhiivi postkasti lubamine](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).

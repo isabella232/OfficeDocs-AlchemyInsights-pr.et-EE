@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767785"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509344"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentialsi tellimuse seadistamine
 
@@ -23,11 +23,11 @@ Microsoft 365 kontode loomine ja domeeni lisamine
     
 - [Microsoft 365 halduskeskus](https://login.partner.microsoftonline.cn/).
     
-- Viisardi käivitamiseks valige käsk **Mine seadistusele**. Lisateabe saamiseks vaadake [domeeni lisamine Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Viisardi käivitamiseks valige käsk **Mine seadistusele**. Lisateabe saamiseks vaadake [domeeni lisamine Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Impordi e-post
   
-- Teisaldage oma olemasolev meil ja kontaktid teistest e-posti süsteemidest oma Microsoft 365 postkasti, et saaksite seda kõike ühes kohas näha. Migreerimise suvandite [migreerimine e-posti ja kontaktid Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Teisaldage oma olemasolev meil ja kontaktid teistest e-posti süsteemidest oma Microsoft 365 postkasti, et saaksite seda kõike ühes kohas näha. Migreerimise suvandite [migreerimine e-posti ja kontaktid Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - E-posti kontode ühendamine
     
@@ -41,6 +41,6 @@ Talleta failid veebis
   
 - Et teada saada, millised talletuskohad on teie ettevõtte jaoks parimad, vaadake, [kus saate talletada faile Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Igaüks saab **OneDrive ' i** pilve ladustamise asukoht automaatselt, kui loote Microsoft 365 kontod. OneDrive ' iga pääsete failidele ligi oma arvutite, telefonide ja tahvelarvutite vahel. 
     
-Üksikasjalikke juhiseid seadistamise kohta leiate [käesolevast artiklist](https://docs.microsoft.com/office365/admin/setup/setup).
+Üksikasjalikke juhiseid seadistamise kohta leiate [käesolevast artiklist](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

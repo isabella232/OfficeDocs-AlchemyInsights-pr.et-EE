@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493030"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508372"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automaatne klassifikatsioon ei käitudes AIP kliendiga ootuspäraselt
 
 Automaatne klassifikatsioon ei käitudes ootuspäraselt, kasutage järgmisi soovituslikke juhiseid:
 
-1. Kui teil on probleeme automaatse märgistamise, vaadake, [Kuidas konfigureerida tingimused automaatne ja soovitatav klassifikatsioon Azure ' i teabekaitse](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) ja [mida tundliku teabe tüübid otsida](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+1. Kui teil on probleeme automaatse märgistamise, vaadake, [Kuidas konfigureerida tingimused automaatne ja soovitatav klassifikatsioon Azure ' i teabekaitse](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) ja [mida tundliku teabe tüübid otsida](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 2. Kontrollige, kas kasutate hõlmavaid poliitikaid, mis pole õigesti konfigureeritud: [Kuidas konfigureerida Azure ' i teabe kaitse poliitika teatud kasutajatele, kasutades ulatatud poliitikad](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Kui automaatne märgistamine ei tööta Outlooki sildistatud dokumendi ühendamisel, veenduge, et `DRMEncryptProperty` pole määratletud siin kirjeldatud: [IRM registrisätted turvalisuse](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Kui kasutasite oma Azure ' i teabekaitse poliitika [sisseehitatud teabetüüpe](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) , veenduge, et teie sisu vastaks eeldatava vorminguga.

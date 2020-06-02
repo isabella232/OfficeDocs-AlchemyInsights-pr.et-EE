@@ -12,12 +12,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716384"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508912"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-aadressi ja kliendi tuvastamine auditiloogides
 
@@ -25,7 +25,7 @@ Auditilogi kuvatakse IP-aadress, mis vastab tegevusele Microsoft 365 kasutaja v�
 
 1. Logige sisse [Microsoft 365 Security & vastavuse Center](https://protection.office.com/).
 
-2. **otsingulehele otsingu** > **auditilogi** .
+2. **otsingulehele otsingu**  >  **auditilogi** .
 
    Kui olete huvitatud konkreetsest tegevusest, valige see **tegevuste** loendist. Kui ei, siis tagastatakse k천ik tegevused valitud kasutajale (vaikes채te).
 
@@ -35,4 +35,4 @@ Auditilogi kuvatakse IP-aadress, mis vastab tegevusele Microsoft 365 kasutaja v�
 
 Tulemustes n채ete tulemuste paanil selle tegevuse IP-aadressi. Valige auditiloend 체ksikasjaliku teabe kuvamiseks **체ksikasjade** h체pik (nt. Klient, kasutaja, kes tegi toimingu vms).
 
-Lisateabe saamiseks vaadake [kahjustatud kontole juurdep채채suks kasutatava arvuti IP-aadressi leidmist](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Lisateabe saamiseks vaadake [kahjustatud kontole juurdep채채suks kasutatava arvuti IP-aadressi leidmist](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

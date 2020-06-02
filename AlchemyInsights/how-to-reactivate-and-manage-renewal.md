@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064081"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509092"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Korduva arveldamise uuesti aktiveerimine ja haldamine
 
@@ -32,7 +32,7 @@ Tundub, et teil on tellimus, mis on aegunud. Kui soovite selle uuesti aktiveerid
 
 3. Kinnitage maksete üksikasjad. Siin saate värskendada olemasolevat makseteavet. Kui olete makseviisiks sisestamise lõpetanud, valige käsk **Aktiveeri uuesti**.
 
-Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
 
 Igakuise või iga-aastase arveldamise haldamiseks saate **korduva arveldamise** sisse või välja lülitada.
   
@@ -46,4 +46,4 @@ Igakuise või iga-aastase arveldamise haldamiseks saate **korduva arveldamise** 
 
 5. Valige **Edasta muudatus**.
 
-Lisateavet leiate artiklist [Korduva arveldamise sisse- või väljalülitamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Lisateavet leiate artiklist [Korduva arveldamise sisse- või väljalülitamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

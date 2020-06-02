@@ -13,12 +13,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742751"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509452"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Tagasivõtmine või asendamine e-kirja rakenduses Microsoft 365
 
@@ -30,7 +30,7 @@ ms.locfileid: "43742751"
 
 1. Valige Outlooki aknast vasakul asuva kaustapaanil kaust saadetud.
 2. Avage sõnum, mida soovite meelde tuletada. Sõnumi avamiseks peate topeltklõpsama. Sõnumi valimine lugemispaanil ei võimalda teil sõnumit meenutada.
-3. Valige vahekaardil sõnum suvand **Tegevused** > **Meenuta seda sõnumit**.
+3. Valige vahekaardil sõnum suvand **Tegevused**  >  **Meenuta seda sõnumit**.
 4. Valige **kustutage selle sõnumi lugemata koopiad** või **kustutage lugemata koopiad ja asendage see uue sõnumiga**, seejärel valige **OK**.
 5. Kui saadate asendussõnumi, koostage sõnum ja valige **saada**.
 6. Sõnumi tagasikutsumise õnnestumine või nurjumine sõltub adressaatide sätetest Outlookis.
@@ -39,7 +39,7 @@ Lisateabe saamiseks, sealhulgas kuidas kontrollida tagasivõtmine, vaadake [taga
 
 ***E-kirjade otsimine ja kustutamine teie organisatsioonis*** Teie organisatsioonis meilisõnumite otsimiseks ja kustutamiseks on see lihtsaim, kui olete globaalne administraator. Kui te pole globaalne administraator, tuleb teie konto lisada eDiscovery halduri rollirühma või vastavuse otsingu haldamise rollile. Sõnumite kustutamiseks peate liituma organisatsiooni juhtimise rolligrupiga või otsingu ja Purge juhtimise rolliga. Nende rollide õigused on määratud [turvalisuse & vastavuse keskus](https://protection.office.com/).
 
-1. [Saate luua sisuotsingu](https://docs.microsoft.com/office365/securitycompliance/content-search) , et leida kustutatav sõnum.
+1. [Saate luua sisuotsingu](https://docs.microsoft.com/microsoft-365/compliance/content-search) , et leida kustutatav sõnum.
 2. [Ühendage Security & vastavuse keskus PowerShelli](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
 Kui kasutate MFA, vaadake [ühendust Microsoft 365 security & vastavuse Center PowerShelli mitme teguriga autentimine abil](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

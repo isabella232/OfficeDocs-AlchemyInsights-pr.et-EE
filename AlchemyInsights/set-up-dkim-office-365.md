@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645668"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509380"
 ---
 # <a name="setup-dkim"></a>Setup DKIM
 
-Täielikud juhised konfigureerimine DKIM kohandatud domeenide Microsoft 365 on [siin](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Täielikud juhised konfigureerimine DKIM kohandatud domeenide Microsoft 365 on [siin](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
 1. **Iga** kohandatud domeeni, peate looma **kaks** DKIM CNAME kirjeid oma domeeni DNS-i hosting teenus (tavaliselt, domeeni kohtusekretäri). Näiteks contoso.com ja fourthcoffee.com nõuavad nelja DKIM CNAME kirjeid: kaks contoso.com ja kaks fourthcoffee.com.
 
@@ -36,7 +36,7 @@ Täielikud juhised konfigureerimine DKIM kohandatud domeenide Microsoft 365 on [
 
      **TTL**: 3600
 
-   \<DomainGUID\> on kohandatud domeeni kohandatud MX-kirjes vasakul `.mail.protection.outlook.com` olev tekst (nt domeeni contoso.com `contoso-com` puhul). \<InitialDomain\> on domeen, mida kasutasite, kui registreerite Microsoft 365 (nt contoso.onmicrosoft.com).
+   \<DomainGUID\>on `.mail.protection.outlook.com` kohandatud domeeni kohandatud MX-kirjes vasakul olev tekst (nt `contoso-com` domeeni contoso.com). \<InitialDomain\>on domeen, mida kasutasite, kui registreerite Microsoft 365 (nt contoso.onmicrosoft.com).
 
 2. Pärast seda, kui olete loonud oma kohandatud domeenide CNAME-kirjed, täitke järgmised juhised:
 
@@ -46,6 +46,6 @@ Täielikud juhised konfigureerimine DKIM kohandatud domeenide Microsoft 365 on [
 
    C. Alumises vasakus navigeerimise, laiendage **admin** ja valige **Exchange**.
 
-   D. Mine **kaitse** > **DKIM**.
+   D. Mine **kaitse**  >  **DKIM**.
 
    E. Valige domeen ja seejärel valige **Luba** **Logi sõnumid selle domeeni DKIM allkirjad**. Korrake seda toimingut iga kohandatud domeeni puhul.

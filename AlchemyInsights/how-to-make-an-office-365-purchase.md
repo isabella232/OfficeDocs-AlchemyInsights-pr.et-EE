@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063541"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509200"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Kuidas teha Microsoft 365 ostu
 
@@ -27,7 +27,7 @@ Ostud Microsoft 365 saab teha administreerimiskeskuses.
 
 - Täiendavate litsentside ostmiseks **Billing** \> lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine. Valige tellimus, millele soovite litsentse lisada, ja valige siis **Lisa/eemalda litsentsid**.
   
-Lisateabe saamiseks vaadake [osta litsentsid Microsoft 365 Business tellimus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Lisateabe saamiseks vaadake [osta litsentsid Microsoft 365 Business tellimus](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Tõrkeotsing**
 
@@ -35,6 +35,6 @@ Kui lehe laadimisega on probleeme, proovige avada veebileht mõne teise brauseri
 
 **Lisaressursid**
   
-- [Litsentside määramine kasutajatele Microsoft 365 Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Litsentside määramine kasutajatele Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Tühista Microsoft 365 Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Tühista Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
