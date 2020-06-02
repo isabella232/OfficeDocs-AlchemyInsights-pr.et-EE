@@ -11,12 +11,12 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049801"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507654"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Ühiskasutusega postkasti loomine ja kasutamine
 
@@ -24,5 +24,5 @@ ms.locfileid: "40049801"
   
 - Microsoft 365 halduskeskus alustamiseks toimige [järgmiselt](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) . 
 
-Samuti saate lugeda [luua ühiskasutusse antud postkasti](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) artikkel, mis ütleb teile kõik, mida peate teadma ühiskasutusega postkastid, sealhulgas kuidas neid kasutada.
+Samuti saate lugeda [luua ühiskasutusse antud postkasti](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) artikkel, mis ütleb teile kõik, mida peate teadma ühiskasutusega postkastid, sealhulgas kuidas neid kasutada.
   

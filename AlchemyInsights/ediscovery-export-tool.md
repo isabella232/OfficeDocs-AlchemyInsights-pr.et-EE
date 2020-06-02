@@ -14,12 +14,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714766"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507166"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>EDiscovery Export tööriista ei saa installida või käivitada?
 
@@ -41,9 +41,9 @@ Kui te ei saa installida või käivitada eDiscovery Export tööriista otsingutu
 
     Muid brausereid (nt Google Chrome ja Mozilla Firefox) ei toetata.
 
-- Teie organisatsioon saab luua ühendust Azure ' i lõpp-punktiga, mis on ** \*. blob.Core.Windows.net** (metakaart tähistab teie eksporditöö ainulaadset identifikaatorit).
+- Teie organisatsioon saab luua ühendust Azure ' i lõpp-punktiga, mis on ** \* . blob.Core.Windows.net** (metakaart tähistab teie eksporditöö ainulaadset identifikaatorit).
 
-- Teil on määratud ekspordi rolli Microsoft 365 Security &amp; vastavuse Center. Vaikimisi on see roll määratud ainult eDiscovery Manageri rollirühma. Vt teemat [eDiscovery õiguste määramine](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Teil on määratud ekspordi rolli Microsoft 365 Security &amp; vastavuse Center. Vaikimisi on see roll määratud ainult eDiscovery Manageri rollirühma. Vt teemat [eDiscovery õiguste määramine](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Lisateavet leiate jaotisest [sisu otsingu tulemuste eksportimine](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Lisateavet leiate jaotisest [sisu otsingu tulemuste eksportimine](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   

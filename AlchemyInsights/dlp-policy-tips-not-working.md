@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704373"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507438"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP poliitika Näpunäide probleemid
 
@@ -29,11 +29,11 @@ ms.locfileid: "43704373"
   
 Poliitika näpunäited oma DLP poliitika turvalisuse ja vastavuse keskus täieliku jõustamise režiimis konfigureerimiseks toimige järgmiselt.
   
-- Veenduge, et poliitikaspikrid on **lubatud** DLP reegel, kasutades juhiseid [siin](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Veenduge, et poliitikaspikrid on **lubatud** DLP reegel, kasutades juhiseid [siin](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Veenduge, et teie **sisu vastaks** [selles artiklis kirjeldatud](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)reegli käivitamiseks **nõutavale** .
+- Veenduge, et teie **sisu vastaks** [selles artiklis kirjeldatud](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)reegli käivitamiseks **nõutavale** .
 
-- Poliitikaspikrid kuvada nii OWA ja Outlook. Siiski, kui kasutate **Outlook 2013 või uuem**, poliitikaspikrid kuvatakse ainult teatud tingimustel. Need tingimused on loetletud siin: [toetatud tingimused Outlook 2013 või uuem poliitika näpunäited kuvamiseks](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Poliitikaspikrid kuvada nii OWA ja Outlook. Siiski, kui kasutate **Outlook 2013 või uuem**, poliitikaspikrid kuvatakse ainult teatud tingimustel. Need tingimused on loetletud siin: [toetatud tingimused Outlook 2013 või uuem poliitika näpunäited kuvamiseks](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-DLP poliitika näpunäited kohta lisateabe saamiseks vaadake: [Kuva poliitikaspikrid DLP poliitika](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+DLP poliitika näpunäited kohta lisateabe saamiseks vaadake: [Kuva poliitikaspikrid DLP poliitika](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

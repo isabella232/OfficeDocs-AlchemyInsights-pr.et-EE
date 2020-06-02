@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 7926ff9ebbd54969fb5b3ae5d909baffe96a4292
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493022"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506554"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: poliitikad ei käitudes ootuspäraselt
 
 Azure ' i teabekaitse: poliitikad ei käitudes ootuspäraselt, vt soovitatud juhised erinevate poliitikafunte:
 
 1. Kui teil on visuaalsete märgistuste probleemid, vaadake üle [visuaalsete märgiste kohaldamise](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)korral.
-2. Kui teil on probleeme automaatse märgistamise, vaadake üle, [Kuidas konfigureerida tingimused automaatse ja soovitatud klassifitseerimise Azure ' i teabekaitse](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) ja [mida tundliku teabe tüübid otsida](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+2. Kui teil on probleeme automaatse märgistamise, vaadake üle, [Kuidas konfigureerida tingimused automaatse ja soovitatud klassifitseerimise Azure ' i teabekaitse](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) ja [mida tundliku teabe tüübid otsida](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 3. Kui teil on probleeme Native/Pfile kaitse, vaadake [faili API konfiguratsiooni](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
 4. Kontrollige, kas kasutate hõlmavaid poliitikaid, mis pole õigesti konfigureeritud: [Kuidas konfigureerida Azure ' i teabe kaitse poliitika teatud kasutajatele, kasutades ulatatud poliitikad](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 5. Kui automaatne märgistamine ei tööta Outlooki sildistatud dokumendi ühendamisel, veenduge, et DRMEncryptProperty pole määratletud siin kirjeldatud: [IRM registrisätted turvalisuse](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).

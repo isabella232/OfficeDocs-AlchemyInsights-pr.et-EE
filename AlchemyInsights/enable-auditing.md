@@ -12,24 +12,24 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908412"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506986"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Auditilogi lubamine ja otsimine
 
 **Microsoft 365**
 
-Microsoft 365 auditilogi otsimiseks toimige [järgmiselt](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Microsoft 365 auditilogi otsimiseks toimige [järgmiselt](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Vahetada**
 
 - Exchange ' i administraatori tegevust auditeeritakse vaikimisi.
 
-- Postkasti auditeerimine on lubatud vaikimisi Microsoft 365. Lisateabe saamiseks lugege [käesoleva artikli](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Postkasti auditeerimine on lubatud vaikimisi Microsoft 365. Lisateabe saamiseks lugege [käesoleva artikli](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
 - Microsoft 365 rühma postkastid ja ühiskausta postkastid Exchange Online ' i ei toeta auditilogi.
 
@@ -44,6 +44,6 @@ Microsoft 365 auditilogi otsimiseks toimige [järgmiselt](https://docs.microsoft
     - Saidihalduse tegevused
     - Failide sünkroonimise toimingud
 
-- Teavet muude teenuste auditeeritud tegevuste kohta leiate [käesoleva artikli tabelist](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Teavet muude teenuste auditeeritud tegevuste kohta leiate [käesoleva artikli tabelist](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Siin on korduma kippuvate küsimuste loend [korduma kippuvad küsimused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) auditilogi otsimise kohta.
+- Siin on korduma kippuvate küsimuste loend [korduma kippuvad küsimused](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) auditilogi otsimise kohta.
