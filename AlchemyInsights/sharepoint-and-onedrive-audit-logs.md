@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741961"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509596"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePointi ja OneDrive ' i auditilogi
 
@@ -28,7 +28,7 @@ SPO pärand auditeerimine migreeritakse Unified audit log (UAL). Kõik SPO pära
 Peamised muudatused:
 
 * Korrastamine ei ole võimetena saadaval.
-* Konkreetsete sündmuste valimine auditiga pole saadaval. Vaadake [seda dokumenti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) vaikimisi saadaolevate auditeeritud sündmuste täieliku loendi kohta.
+* Konkreetsete sündmuste valimine auditiga pole saadaval. Vaadake [seda dokumenti](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) vaikimisi saadaolevate auditeeritud sündmuste täieliku loendi kohta.
 * **Kohandatud aruannete** all **asukoht** suvand pole saadaval.
 * **Dokumentide avamine või allalaadimine** suvand sündmused pole saadaval.
 
@@ -36,16 +36,16 @@ Peamised muudatused:
 
 ## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePointi ja OneDrive kaasaegne ühendatud audit logib vastavuse
 
-* [Lülita sisse/välja ühendatud auditilogi logimine](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+* [Lülita sisse/välja ühendatud auditilogi logimine](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
 SharePoint või OneDrive ei vaja täiendavat konfiguratsiooni.
 
 Auditilogi otsingu abil saate kontrollida faili (de), kausta (de), kasutaja (te), õigusi:
 
-* [Faili-ja lehetegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [Kausta tegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Jagamise ja juurdepääsu taotluse tegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Sünkroonimise tegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Saidihalduse tegevused](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Faili-ja lehetegevused](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Kausta tegevused](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Jagamise ja juurdepääsu taotluse tegevused](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Sünkroonimise tegevused](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Saidihalduse tegevused](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Lisateavet nende sündmuste kohta leiate teemast [auditilogi otsing](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Lisateavet nende sündmuste kohta leiate teemast [auditilogi otsing](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

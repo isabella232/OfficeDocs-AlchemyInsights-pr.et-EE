@@ -1,5 +1,5 @@
 ---
-title: Teie postkasti on loomisel
+title: Teie kasutaja postkast on loodud
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e8bf2a8462c599c8c78963e7a53ad88a1755697
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665648"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510064"
 ---
 # <a name="user-mailbox-creation-is-taking-a-long-time"></a>Kasutaja postkasti loomine võtab kaua aega
 
-Võib kuluda kuni 24 tundi enne, kui Uus postkast on kasutamiseks valmis.
+See võib võtta kuni 24 tundi enne uue postkasti on valmis kasutama.
   
-Kui kasutaja postkasti "ette valmistanud" rohkem kui tund, proovige eemaldada Exchange litsentsi kasutaja ja uue lisamise tagasi, või [võtta ühendust tugiteenusega](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).
+Kui kasutaja postkast on "ettevalmistamine" rohkem kui tund, proovige eemaldada kasutaja Exchange ' i litsentsi ja uuesti lisada uuesti või [võtke ühendust tugiteenust](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).

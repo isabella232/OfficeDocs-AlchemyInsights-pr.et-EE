@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063973"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510460"
 ---
 # <a name="too-many-licenses"></a>Liiga palju litsentse?
 
@@ -32,4 +32,4 @@ Kui arvate, et teile esitatakse liiga palju litsentse, on see tavaliselt tingitu
 
 3. Sisestage väljale **kokku litsentsid** selle kordustellimuse jaoks vajate litsentside koguarv ja seejärel valige **Edasta muudatus**. Näiteks kui teil on 110 litsentsid ja soovite eemaldada 5 neist, sisestage 105.
 
-Lisateabe saamiseks vaadake [eemaldada litsentsid oma Microsoft 365 Business tellimus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Lisateabe saamiseks vaadake [eemaldada litsentsid oma Microsoft 365 Business tellimus](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

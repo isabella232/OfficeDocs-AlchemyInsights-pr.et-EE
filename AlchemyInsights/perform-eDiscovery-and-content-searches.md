@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911827"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510172"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kuidas sooritada sisu otsingud ja eDiscovery otsingud
 
@@ -32,6 +32,6 @@ Sisu otsingu tööriista abil Security & vastavuse keskus kiiresti leida e-posti
 4. Sisestage nõutavad otsingutingimused, sealhulgas märksõnad ja sisu asukohad.  
 5. Klõpsake nuppu **salvesta & käivitage** Otsingu nimi, käivitage see ja seejärel eelvaate tulemused.
 
-Üksikasjalike juhiste saamiseks sisu otsimise, tulemuste eksportimise ja eDiscovery juhtumite kohta andmete edastamiseks vaadake teemat [sisu otsing](https://docs.microsoft.com/office365/securitycompliance/content-search) ja [eDiscovery teenindusjuhtumid](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Üksikasjalike juhiste saamiseks sisu otsimise, tulemuste eksportimise ja eDiscovery juhtumite kohta andmete edastamiseks vaadake teemat [sisu otsing](https://docs.microsoft.com/microsoft-365/compliance/content-search) ja [eDiscovery teenindusjuhtumid](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Sisuotsingu kohta saate aru, vaadates läbi [nõuded ja piirangud](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) ning [uurides osaliselt indekseeritud üksusi](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ja muid tulemusi, millest teadlikud olla.
+Sisuotsingu kohta saate aru, vaadates läbi [nõuded ja piirangud](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) ning [uurides osaliselt indekseeritud üksusi](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) ja muid tulemusi, millest teadlikud olla.
