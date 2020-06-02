@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: 0e5b5c698e588dad4e1759422ab7b9b1f24737ad
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010310"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504439"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>Office ' i aktiveerimine seadmepõhise litsentsimise abil
 
@@ -29,6 +29,6 @@ Office ' i aktiveerimiseks seadmepõhise litsentsimise abil peab teil olema Micr
 Üksikasjalikku teavet seadistamise kohta leiate teemast:
 
 - [Juhised seadmepõhise litsentsimise konfigureerimiseks Microsoft 365 apps Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Seadmete litsentside haldamine](https://docs.microsoft.com/Office365/Admin/misc/manage-licenses-for-devices)
+- [Seadmete litsentside haldamine](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
 Tõrkeotsingu juhiste saamiseks vaadake [tõrkeotsing seadmepõhise litsentsimise Microsoft 365 apps Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).

@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6b87c5b44ab275e69b58752c1fdfa8b416755c6f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 8b77871b7ae2706ca2d493f4a53f27d151d8bf77
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784147"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44501343"
 ---
 # <a name="set-passwords-to-never-expire"></a>Paroolide seadmine kunagi aeguma 
 
-Kõik paroolid kunagi aeguma seada Microsoft 365 halduskeskus, **sätete** > [turvalisuse &amp; Privaatsus](https://portal.office.com/adminportal/home#/settings/security) lehele. Valige **paroolipoliitika**kõrval käsk **Redigeeri** ja lülitage liugur **sisse**.
+Kõik paroolid kunagi aeguda, Microsoft 365 halduskeskus, **sätted**  >  [turvalisuse &amp; Privaatsus](https://portal.office.com/adminportal/home#/settings/security) lehele. Valige **paroolipoliitika**kõrval käsk **Redigeeri** ja lülitage liugur **sisse**.
   
-Üksikasjalikuma teabe saamiseks vaadake: [Seadke oma organisatsiooni parooli aegumise poliitika.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+Üksikasjalikuma teabe saamiseks vaadake: [Seadke oma organisatsiooni parooli aegumise poliitika.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-[Määra parool ei aegu teatud kasutajatele](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+[Määra parool ei aegu teatud kasutajatele](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
   

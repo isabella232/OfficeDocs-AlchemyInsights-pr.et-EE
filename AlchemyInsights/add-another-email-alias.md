@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2ed387ad8506cfa33f63690d8034ff3df855a07d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708515"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502999"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Kasutaja e-posti pseudonüümi loomine või lisamine
 
@@ -34,6 +34,6 @@ Kas soovite luua kasutaja e-posti pseudonüümi või lisada täiendava e-posti a
     
     Uue pseudonüümi jõustumiseks kulub tavaliselt umbes 30 minutit.
     
-    **Lisateabe saamiseks vaadake seda artiklit:** [Lisage teise e-posti alias kasutaja](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **Lisateabe saamiseks vaadake seda artiklit:** [Lisage teise e-posti alias kasutaja](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 

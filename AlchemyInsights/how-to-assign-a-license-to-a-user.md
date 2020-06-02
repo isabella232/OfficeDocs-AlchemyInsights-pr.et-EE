@@ -13,12 +13,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957866"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495983"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Kasutajatele litsentside määramine või nende määramata määramine
 
@@ -34,4 +34,4 @@ Kasutaja vajab litsentsi juurdepääsuks teenustele. Siin on juhised kasutaja li
 
 4. Klõpsake paani allosas käsul **Salvesta muudatused**.
 
-Lisateavet vt teemast [kasutajate litsentside määramine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ja [kasutajate litsentside eemaldamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Lisateavet vt teemast [kasutajate litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)ja [kasutajate litsentside eemaldamine](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
