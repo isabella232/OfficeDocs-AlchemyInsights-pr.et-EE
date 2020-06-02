@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051709"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511540"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>SharePoint Designeri ühenduse probleemid 
 
@@ -37,7 +37,7 @@ Kui SharePoint Designeri esineb SharePointi saitidele ühenduse probleemid, proo
 
 3. Avage SharePoint Designer 2013 ja sisestage konto uuesti, et näha, kas see töötab.
 
-3. samm: [lubage kaasaegne autentimine Office 2013 Windows Devices](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+3. samm: [lubage kaasaegne autentimine Office 2013 Windows Devices](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
 
 Samm 4: Administraatorid peavad **lubama kohandatud skripti** SharePointi administreerimiskeskuse sätetes SharePoint Designeri ühenduse lubamiseks. Lisateavet leiate teemast [kohandatud skripti lubamine või vältimine](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
 
