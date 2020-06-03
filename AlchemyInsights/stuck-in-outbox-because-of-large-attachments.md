@@ -13,18 +13,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: b7f480f6e64534f461bec32d64125319b90683f2
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: et-EE
 ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534842"
+ms.locfileid: "44542004"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Sõnumite parandamine, mis on väljundkaustas kinni
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Fix sõnumeid, mis on jäänud väljundkasti SaRA
 
-Soovitame alustada, käivitades stsenaariumi ["Mul on probleeme saatmine, vastuvõtmine või leidmine"](https://aka.ms/SaRA-OutlookSendReceive) [Microsofti toe ja taastamise abimees](https://diagnostics.office.com/#/) tööriista.
-
-Kui sõnum jääb teie väljundkaustas kinni, on kõige tõenäolisem põhjus suur manus või suvand "saada kohe, kui see on ühendatud" pole lubatud.
-Täielikud üksikasjad leiate teemast:
-- [Video: saata või kustutada ummikus e-posti](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-posti jääb kausta saatmiseks kuni te käsitsi algatada saatmise/vastuvõtu toiming Outlookis](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Soovitame alustada, käivitades stsenaariumi ["Mul on probleeme saatmine, vastuvõtmine, või leida e-kirju"](https://aka.ms/SaRA-OutlookSendReceive) tehtud masina [Microsoft support ja taastamise abimees (SaRa)](https://diagnostics.office.com/#/) tööriista.
