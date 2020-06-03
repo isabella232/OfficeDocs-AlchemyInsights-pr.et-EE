@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 3754bc626264cf8eefe116bccaa0fac60384f55d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 10a38f9234d969e8729211b56cd7d3a90bf05de3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763501"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509128"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Tellimuse uuesti aktiveerimine
 
 Kui teie tellimus on aegunud või Microsofti poolt tühistatud või keelatud, saate selle Microsoft 365 halduskeskuses uuesti aktiveerida.
   
-1. Minge halduskeskuses lehele **Arveldamine** \> [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. administreerimiskeskuses **Billing** \> lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
 
 2. Leidke tellimus, mille soovite uuesti aktiveerida. Valige jaotises **Arveldamine** suvand **Aktiveeri uuesti**.
 
@@ -32,4 +32,4 @@ Kui teie tellimus on aegunud või Microsofti poolt tühistatud või keelatud, sa
 
 3. Kinnitage maksete üksikasjad. Siin saate värskendada olemasolevat makseteavet. Kui olete makseviisi sisestamise lõpetanud, valige suvand **Aktiveeri uuesti**.
 
-Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

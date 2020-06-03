@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: f41fc3e02ee3fca4d49c8fac5a3b3872662a7884
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43943975"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511792"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3 tellimuse ja litsentsi haldamise KKK
 
@@ -25,7 +25,7 @@ ms.locfileid: "43943975"
 - **Tellimuste vahetamiseks** vaadake teemat [Microsoft 365 ettevõtteversiooni lepingute käsitsi vahetamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Kasutajatele E3 litsentside **määramiseks** avage **Arveldus > [Litsentsid](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lisateavet leiate artiklist [Litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - E3 litsentside **lisamiseks/eemaldamiseks** avage **Arveldus > [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja klõpsake suvandit **Litsentside lisamine/eemaldamine**. Lisateavet leiate artiklist [Litsentside lisamine/eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- E3 litsentside **tühistamiseks** avage **Arveldus > [Toote ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**, klõpsake suvandit **Sätted ja toimingud** ning klõpsake suvandit **Tühista tellimus**. Lisateavet vaadake artiklist [Tellimuse tühistamine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- E3 litsentside **tühistamiseks** avage **Arveldus > [Toote ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**, klõpsake suvandit **Sätted ja toimingud** ning klõpsake suvandit **Tühista tellimus**. Lisateavet vaadake artiklist [Tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - E3 tellimuse **aktiveerimiseks** vaadake teemat [Oma tellimuse aktiveerimine](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - E3 tellimuse **uuesti aktiveerimiseks** vaadake teemat [Oma tellimuse uuesti aktiveerimine](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - E3 prooviversiooni **pikendamiseks** vaadake teemat [Prooviversiooni pikendamine](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).

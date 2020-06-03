@@ -1,5 +1,5 @@
 ---
-title: Saatja on blokeeritud rämpsposti saatmise tõttu
+title: Saatja piiras liiga palju rämpsposti saatmist
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 23d09bd34ad13bdfce3259afcafb14222920f95f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709151"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511900"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Konto on blokeeritud rämpsposti saatmise tõttu
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Konto on piiratud saatmiseks liiga palju rämpsposti
 
 Administraatorina saate juhul, kui ühele teie kasutajatest on meilisõnumite saatmine keelatud, [konto blokeeringu ise eemaldada](https://protection.office.com/?hash=/restrictedusers) **ilma tugiteenusejuhtumit avamata**. Kasutaja saab meilisõnumeid jälle saata hiljemalt tund pärast piirangu eemaldamist.
 
-Teenus ei luba kasutajal saata meilisõnumeid, kui on tuvastatud andmeid konto sattumisest ründe ohvriks ja/või väljaminevast rämpspostist. Ettevaatusabinõuna täitke kasutaja jaoks artiklis [Turberikkega meilikontole reageerimine](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) toodud juhised.
+Teenus ei luba kasutajal saata meilisõnumeid, kui on tuvastatud andmeid konto sattumisest ründe ohvriks ja/või väljaminevast rämpspostist. Ettevaatusabinõuna täitke kasutaja jaoks artiklis [Turberikkega meilikontole reageerimine](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) toodud juhised.
