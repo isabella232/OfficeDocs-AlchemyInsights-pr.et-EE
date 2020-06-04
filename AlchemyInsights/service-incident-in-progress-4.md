@@ -13,10 +13,10 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666296"
 ---
 # <a name="service-incident-in-progress"></a>Pooleliolev teenindusjuhtum
@@ -25,6 +25,6 @@ Teid võidakse mõjutada teenindusjuhtum või nõustamine, mida praegu uuritakse
   
 Teie mugavuse huvides võite leida kokkuvõtte sellest juhtumist allpool:
   
-> **Juhtumi number:** [{Incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Juhtumi number:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Mõju kirjeldus: {Impactkirjeldus}

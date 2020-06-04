@@ -10,18 +10,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Sihtida üle 500 sõna artikkel.
+description: Eesmärgi mitte rohkem kui 500 sõnad artikkel.
 ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666188"
 ---
 # <a name="setting-up-project"></a>Projekti seadistamine
 
- Microsoft Project seadistamiseks järgige [selles artiklis](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
+ Microsoft Projecti seadistamiseks järgige [selles artiklis](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)toodud juhiseid.
 
-**Kasutajatele teade:** Projekti toode pole praegu saadaval MacOS. 
+**Teade Maci kasutajatele:** Projekti toode ei ole MacOS-i hetkel saadaval. 
   
-Kui teil on vead sisse [paigaldada projekti abil toetust ja taastamise abimees](https://aka.ms/SaRA-ProjectSetupScenario)seadistamisel.
+Kui teil on seadistamise ajal tõrkeid, [installige projekt toe-ja Taasteabimehe abil](https://aka.ms/SaRA-ProjectSetupScenario).

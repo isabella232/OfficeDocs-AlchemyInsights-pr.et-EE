@@ -1,5 +1,5 @@
 ---
-title: PowerApps või Microsoft Flow tugiteenuse taotlusi
+title: Edasta PowerApps või Microsoft Flow tugiteenuse taotlusi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559477"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>PowerApps või Microsoft Flow tugiteenuse taotlusi
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Edasta PowerApps või Microsoft Flow tugiteenuse taotlusi
 
-Kui olete **PowerApps** või **Microsoft voolu** kliendi palume esitada pilet uue [võimu platvormi administreerimiskeskuse](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)kaudu. Uus portaal pakub tugiteenuseid, PowerApps ja muude Power platvormi optimeeritud otsesem tee.
+Kui olete **Powerapps** või **Microsoft Flow** klient Palun esitage pilet läbi uue [Power platvormi admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Uus portaal pakub otsesam tee toetatud toetust, mis on optimeeritud PowerApps ja muud Power platvormi tooteid.
 
-[Microsoft Flow toetust taotleda](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Edasta Microsoft Flow tugiteenuse taotlus](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

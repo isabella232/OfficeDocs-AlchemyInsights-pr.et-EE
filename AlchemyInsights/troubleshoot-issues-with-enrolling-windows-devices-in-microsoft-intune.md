@@ -1,5 +1,5 @@
 ---
-title: Tõrkeotsingu kasutamine Windowsi seadmetes Microsoft Intune
+title: Microsofti Intune ' i Windowsi seadmetega seotud probleemide tõrkeotsing
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,34 +12,34 @@ ms.custom:
 - "784"
 - "6200002"
 ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665828"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Tõrkeotsingu kasutamine Windowsi seadmetes Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Microsofti Intune ' i Windowsi seadmetega seotud probleemide tõrkeotsing
 
-Läbi nende lahendamiseks nüüd allpool loetletud ressurssidele.
+Vaadake allpool loetletud ressursid probleemi lahendamiseks kohe.
   
-Mõned levinud tõrketeated ja lahendus:
+Mõned levinud tõrketeated ja eraldusvõime sammud:
   
- **Ei saa installida tarkvara, 0x80cf4017:** Teie konto sert on aegunud. Uuesti laadida PC kliendi tarkvara paketi Intune konsoolis. Läbi selle dokumentatsioonist.
+ **Tarkvara ei saa installida, 0x80cf4017:** Teie kontosert on aegunud. Uuesti alla laadida arvuti kliendi tarkvarapakett Intune konsoolis. Lisateabe saamiseks vaadake seda dokumentatsiooni.
   
  **Tõrkekood 0x801c0003:** Tõrge võib ilmneda järgmistel juhtudel:
   
--  Kasutajal on rohkem kui seadme seadmete. Läbi nende dokumentide [seade eemaldada](https://docs.microsoft.com/intune/devices-wipe) või [muuta seadme piirang](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Kasutajal on rohkem seadmeid, mis on registreeritud kui seadme piirang. Vaadake neid dokumente [seadme eemaldamiseks](https://docs.microsoft.com/intune/devices-wipe) või [seadme piirangu muutmiseks](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
 
--  "Kasutajad võivad ühendada seadmeid Azure AD" on seatud "ei ole." Määrata kõigile või kasutajad. Vaadake lisateabe saamiseks [selle dokumentatsiooni](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) .
+-  "Kasutajad võivad liituda seadmete Azure AD" on seatud "none." Seadke see kõigile või valige kasutajad. Lisateabe saamiseks vaadake [seda dokumentatsiooni](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) .
 
--  Mõni teine kasutaja on juba registreeritud seadme. Kui see juhtub, Eemalda seadme Azure Intune konsooli või käsitsi unenroll seade enne uuesti proovimist.
+-  Seade on juba teise kasutaja poolt registreeritud. Kui see on nii, eemaldage seade Azure Intune konsooli või enne uuesti proovimist seadme käsitsi lahti.
 
--  Seade on Windows 10 Home. Ainult Windows 10 Pro, hariduse ja ettevõtluse SKUs saab liituda Azure Active Directory.
+-  Seade on Windows 10 Home. Azure Active Directoryga saab liituda ainult Windows 10 Pro, haridus ja Enterprise SKUs.
 
-Lisaressursse, mis probleemi lahendada:
+Täiendavad ressursid probleemi lahendamiseks:
   
--  Diagnoosimiseks ja lahendamiseks ühise registreerimise rikete [Intune tõrkeotsingu portaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) abil. Läbi [selle dokumendi](https://docs.microsoft.com/intune/help-desk-operators) lisateabe saamiseks.
+-  Levinud registreerimise tõrgete diagnoosimiseks ja lahendamiseks kasutage [tõrkeotsingu portaali Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Vaadake [seda dokumenti](https://docs.microsoft.com/intune/help-desk-operators) rohkem üksikasju.
 
--  Läbi nende dokumentide nimekiri kõige sagedasemad vead, mis takistavad registreerimine ja lahendused igale: [tõrkeotsing juhend](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ja [tõrkeotsing doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Vaadake need dokumendid läbi levinud tõrgete loendi, mis takistavad registreerimise ja resolutsioonide iga: [tõrkeotsingu juhend](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ja [tõrkeotsingu doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
 
-[Kuidas registreeruda Windowsi seadmetes Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Vaadake, kuidas Windowsi seadmeid Microsoft Intune ' is registreeruda](https://docs.microsoft.com/intune/windows-enroll).
