@@ -1,5 +1,5 @@
 ---
-title: Office ' i rakenduste kinnitamine Office ' i litsentside seostatud sõnumit ei leitud
+title: Microsoft 365 rakenduste parandamine ei leidnud Office ' i litsentsid seotud sõnum
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505863"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580437"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Office ' i rakenduste kinnitamine "ei leidnud Office ' i litsentsid seotud" sõnum
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Microsoft 365 rakenduste kinnitamine "ei leidnud Office ' i litsentsid seotud" sõnum
 
 Kui kuvatakse see teade, proovige järgmist.
 
-1. Kontrollige oma tulemüüri, viirusetõrje tarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Office ' i rakendustele Interneti-ühendust. Vt [microsofti 365 URL-id ja IP-aadresside vahemikud](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kontrollige oma tulemüüri, viirusetõrje tarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Interneti-juurdepääsu Microsoft 365 rakendustele. Vt [microsofti 365 URL-id ja IP-aadresside vahemikud](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Eemaldage ja [määrata mõjutatud kasutaja Office ' i litsents](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) . 
 3. Avage Office ' i rakendus ja [logige välja](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) kõigist olemasolevatest kasutajakontodest.
 4. Avage Windowsi sätted > **kontod**  >  **e-posti & kontod**ja eemaldage kõik töökontod, välja arvatud mõjutatud konto.

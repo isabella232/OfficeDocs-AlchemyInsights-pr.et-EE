@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710907"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580847"
 ---
-# <a name="deploy-office-apps"></a>Office ' i rakenduste juurutamine
+# <a name="deploy-microsoft-365-apps"></a>Microsoft 365 rakenduste juurutamine
 
-Office ' i rakenduste juurutamisel mitmele lõppkasutajatele Office ' i Juurutustööriista kaudu, Microsoft Endpoint Configuration Manageri operatsioonisüsteemi ketta pildi osana või ühiskasutusega arvuti stsenaariumis, kasutades Windows serverit kaugtöölaua teenuste (RDS) või terminaliteenuste kaudu, kaaluge samm-sammult juhendi kasutamist **microsoft 365 rakendustes ettevõtte juurutamise nõustaja jaoks**.
+Microsoft 365 rakenduste juurutamiseks mitmele lõppkasutajatele Office ' i Juurutustööriista kaudu, Microsoft Endpoint Configuration Manageri operatsioonisüsteemi ketta pildi osana või ühiskasutusega arvuti stsenaariumis, kasutades Windows Serveri kaugtöölaua teenuste (RDS) või terminaliteenuste kaudu, kaaluge samm-sammult juhendi kasutamist **microsoft 365 rakendustes ettevõtte juurutamise nõustaja jaoks**.
   
-Alustamiseks veenduge, et olete sisse logitud rentniku admin või globaalne admin ja klõpsake siin: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
+Alustamiseks veenduge, et olete sisse logitud rentniku admin või globaalne admin ja klõpsake siin: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   

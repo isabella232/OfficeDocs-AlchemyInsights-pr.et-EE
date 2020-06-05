@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 172b1a144b892a35a915502b08cea2834eb85c94
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ab241752d969acab237779c514d89b2a0c30c222
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505971"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580581"
 ---
 # <a name="viewing-chat-history-in-microsoft-teams"></a>Vestlusajaloo vaatamine Microsoft Teamsi puhul
 
-Meeskondade vestluse ajaloo vaatamiseks võite kasutada [sisu otsing](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [turvalisuse & vastavuse keskus](https://sip.protection.office.com/insightdashboard), kus saate otsida postkasti, mis on seotud Microsoft 365 rühma või Microsoft Team. 
+Meeskondade vestluse ajaloo vaatamiseks võite kasutada [sisu otsing](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [turvalisuse & vastavuse keskusest](https://sip.protection.office.com/insightdashboard), kus saate otsida postkasti, mis on seotud Microsoft 365 rühma või Microsoft Team. 
 
 Vaadake teemat [Microsoft teamsi ja microsofti 365 rühmade otsimine](https://docs.microsoft.com/microsoft-365/compliance/content-search) turbe-ja vastavuskeskusest otsingu võimaluste kohta. 
 
