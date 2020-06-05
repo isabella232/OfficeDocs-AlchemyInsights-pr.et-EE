@@ -1,5 +1,5 @@
 ---
-title: Office apps sisselogimisega probleeme
+title: Probleemid sisselogimisel Microsoft 365 rakendused
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938189"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579933"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Millega määratakse kindlaks Office apps "Kahjuks ei õnnestunud teise konto organisatsioonist kirjutatakse juba" sõnum
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Microsoft 365 rakenduste parandamine "Vabandust, teine konto teie organisatsioonis on juba allkirjastatud" sõnum
 
-Probleemi lahendamiseks proovige järgmist:
+Probleemi lahendamiseks proovige järgmist.
 
-- Eemaldage kõik töö omanikud, välja arvatud mõjutatud konto, kasutades Windowsi sätted > **juurdepääsu tööl või koolis**.
-- [Selge Office mandaati](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) kasutades Windows Mandaadihaldur.<br/>
-    **Märkus:** Registri teed Office 2016 on muutunud 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Avage mõni Office'i rakendus, valige **faili** > **konto** > **Logi välja**. Seejärel sisse kasutajakontoga, kellel on kehtiv juhiluba. Üksikasjalikuma teabe saamiseks vt [kontode ametisse](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Mac, vaadake [Office 2016 for Mac app ei saa sisse logida](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Eemaldage kõik töökontod, välja arvatud mõjutatud konto, kasutades Windowsi sätteid > **juurdepääsu töö või kooli**.
+- [Tühjendage Office ' i mandaat](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) , kasutades Windowsi mandaat Manager.<br/>
+    **Märkus:** Office 2016 registri teed on muutunud 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Avage Office ' i rakendus, valige **faili**  >  **konto**  >  **Logi välja**. Seejärel logige sisse, kasutades kehtivat litsentsi kasutajakontoga. Lisateavet vt teemast [Office’i kontod](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Maci kasutajad võiksid lugeda artiklit [Office 2016 for Maci rakendusse ei saa sisse logida](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-Lisateabe saamiseks vaadake ["Kahjuks ei õnnestunud teise konto organisatsioonist kirjutatakse juba selles arvutis" asukoht](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Lisateabe saamiseks vaadake ["Vabandust, teine konto teie organisatsioonis on juba sisse logitud selles arvutis" Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).

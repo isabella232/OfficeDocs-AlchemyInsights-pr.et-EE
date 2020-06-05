@@ -1,5 +1,5 @@
 ---
-title: Office apps sisselogimisega probleeme
+title: Probleemid sisselogimisel Microsoft 365 rakendused
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938191"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579897"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Tühi sisselogimiskuva Office'i rakendustes
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Tühi sisselogimiskuva rakenduses Microsoft 365 rakendused
 
-Selle probleemi lahendamiseks proovige järgmist:
-- Installige uusimad värskendused [Windowsile](https://support.microsoft.com/help/4027667/windows-10-update) ja [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- Lähtesta Internet Explorer valikud: valige **Tööriistad** > **Interneti-suvandid** > **Täpsemalt** > **Internet Exploreri sätete lähtestamine** (Pange tähele, et te kaotate kohandatud sätted) ning proovige uuesti sisse logida Office.
-- Keelake Windows Defender taotluse valvur (WDAG) või muud sarnast tulemüür või viirusetõrje programmi.
-    1. Juhtpaneelil, minge **programmid**ja valige **Windowsi funktsioonide sisse- või väljalülitamine**.
-    2. Kui Windows Defender taotluse Guard on lubatud, keelake see.<br/>
-    **Märkus:** Peate arvuti taaskäivitama.
-- Tagada, et Microsoft.AAD.BrokerPlugin [AAD WAM plug-in](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) ei taotluse või tulemüüri/anti-Anti-Virus programm poolt blokeeritud.
-- [Selge Office mandaati](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) kasutades Windows Mandaadihaldur.<br/>
-    **Märkus:** Registri teed Office 2016 on muutunud 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+Selle probleemi lahendamiseks proovige järgmist.
+- Installige uusimad värskendused [Windowsi](https://support.microsoft.com/help/4027667/windows-10-update) ja [Office ' i](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)jaoks.
+- Lähtesta Internet Exploreri suvandid: **tööriistadele**  >  **Interneti-suvandid**  >  **Täpsemad**  >  **Lähtesta Internet Exploreri sätted** (Pange tähele, et kaotate kohandatud sätted) ja seejärel proovige uuesti Office ' i sisse logida.
+- Keelake Windows Defenderi Rakendusevalvur (WDAG) või muu sarnane tulemüür või viirusetõrje programm:
+    1. Juhtpaneel, avage **programmid**ja seejärel valige **Lülita Windowsi funktsioonid sisse või välja**.
+    2. Kui Windows Defenderi Rakendusevalvur on lubatud, proovige seda keelata.<br/>
+    **Märkus:** Võimalik, et peate arvuti taaskäivitama.
+- Veenduge, et Microsoft. AAD. vahendajate plugin [AAD WAM plug-in](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) ei ole blokeeritud ühtegi rakendust või tulemüüri/viirusetõrje programm.
+- [Tühjendage Office ' i mandaat](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) , kasutades Windowsi mandaat Manager.<br/>
+    **Märkus:** Office 2016 registri teed on muutunud 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
 
-Vaadake lisateavet jaotisest [ühenduse küsimusi sisselogimine pärast update Office 2016 ehitada 16.0.7967 Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Lisateabe saamiseks vaadake [ühenduse probleemid sisse logida pärast värskenduse Office 2016 ehitada 16.0.7967 Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

@@ -1,5 +1,5 @@
 ---
-title: "Office ' i rakenduste tõrge: rakendus on käitanud viga, mis takistab selle õigesti töötamist"
+title: 'Microsoft 365 apps tõrge: rakendus on käitanud viga, mis takistab selle õigesti töötamist'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886479"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576808"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Office ' i rakenduste tõrge: rakendus on käitanud viga, mis takistab selle õigesti töötamist
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 rakenduste tõrge: rakendus on käitanud viga, mis takistab selle õigesti töötamist
 
 Selle tõrke lahendamiseks proovige järgmisi suvandeid.
 
@@ -29,8 +29,8 @@ Selle tõrke lahendamiseks proovige järgmisi suvandeid.
 
 **Märkus:** Kui probleem ilmneb teatud dokumentidega, võivad need dokumendid olla rikutud. Vaadake [, kuidas kahjustatud dokumente tõrkeotsing](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 
-Lisateavet vaadake teemast 
+Lisateavet leiate järgmisest teemast. 
 
-- [Tõrge Microsoft Office ' i rakenduste avamisel](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Tõrge Microsoft Microsoft 365 rakenduste avamisel](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Ma saan "peatatud töötamise" tõrge, kui ma hakkan Office ' i rakendused minu ARVUTIS](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Office ' i rakenduste käivitamisel või kasutamisel ilmneda võivate probleemide tõrkeotsing](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Tõrkeotsing probleemidele, mis ilmnevad Microsoft 365 rakenduste käivitamisel või kasutamisel](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
