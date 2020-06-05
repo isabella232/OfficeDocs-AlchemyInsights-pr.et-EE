@@ -1,5 +1,5 @@
 ---
-title: Office ' i rakenduste parandamine Vabandust, meil on ajutised server Probleemid sõnum
+title: Microsoft 365 rakenduste parandamine Vabandust, meil on ajutised server Probleemid sõnum
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764113"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582699"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Office ' i rakenduste parandamine "Vabandust, meil on ajutised serveriprobleemid" sõnum
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Microsoft 365 rakenduste parandamine "Vabandust, meil on ajutised serveri probleemid" sõnum
 
 Kui kuvatakse see teade, proovige järgmist.
 
-1. Kontrollige oma tulemüüri, viirusetõrje tarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Office ' i rakendustele Interneti-ühendust. Vaadake [URL-e ja IP-aadresside vahemikku](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kontrollige oma tulemüüri, viirusetõrje tarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Interneti-juurdepääsu Microsoft 365 rakendustele. Vaadake [URL-e ja IP-aadresside vahemikku](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. **Start** > **Run**ja seejärel tippige **Services. msc**. Veenduge, et järgmised teenused on kõik töötavad:
+2. **Start**  >  **Run**ja seejärel tippige **Services. msc**. Veenduge, et järgmised teenused on kõik töötavad:
     - Võrgu ühendatud seadmed auto-setup
     - Võrguloendi teenus
     - Võrgukoha teadlikkus

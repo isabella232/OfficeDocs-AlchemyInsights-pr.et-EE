@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512008"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582735"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Soovitused "litsentseerimata toote" tõrgete lahendamiseks
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512008"
 - Veenduge, et teil on tellimus, mis võimaldab kliendi litsentsid, näiteks Microsoft 365 apps äri-või Business Premiumi ja veenduge, [et kasutajal on määratud litsents](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Veenduge, et kasutaja on sisse logida Office ' i sama kontoga, millel on määratud litsents.
 - Kontrollige [teenuse tervise lehte](https://docs.microsoft.com/office365/enterprise/view-service-health) , et näha, kas teenusega on seotud teadaolevaid probleeme.
-- Kontrollige oma tulemüüri, viirusetõrje tarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Office ' i rakenduste juurdepääsu Internetile. Vaadake [URL-e ja IP-aadresside vahemikku](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Kontrollige oma tulemüüri, viirusetõrje tarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Microsoft 365 apps juurdepääsu Internetile. Vaadake [URL-e ja IP-aadresside vahemikku](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Võite proovida ka järgmisi tõrkeotsingu toiminguid: 
 
