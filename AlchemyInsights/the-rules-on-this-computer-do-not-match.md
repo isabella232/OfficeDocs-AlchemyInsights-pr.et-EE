@@ -10,15 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: b56a676181ec551bc7943d5eea0c49cd279d9e37
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855738"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617964"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Tõrge: selle arvuti reeglid ei ühti
 
-See on teadaolev probleem Outlook Desktop. Outlooki meeskond rakendas esialgse paranduse versioonis 12228,20332, mis anti välja 12/3/2019. See parandus ei ole käsitlenud kõiki saadud aruandeid.
-
 Teadaolev probleem värskendatud oleku nägemiseks vaadake [selle arvuti reeglid ei vasta Microsoft Exchange ' i reeglid](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+
+Outlooki meeskond on rakendanud Fix Build 12928,10000. Parandus on juba siseringi Fast ja läheb igakuine kanali lõpus juuni 2020. Kui teil on fikseeritud ehitada võite saada viip "milliseid reegleid soovite säilitada" viimast korda. Valige server, kui küsitakse ja seejärel tagasi Outlookis ja lubage kõik reeglid, mis olid keelatud.
+
+Kuni parandus on saadaval palun kasutage järgmist lahendust:
+
+**Lahendus**: viimastel aruannetes probleem ilmnes need, mis on loodud ainult kliendi reeglid Outlooki töölaual. Kui jätkate probleemi, kaaluge reeglite kustutamist ja seejärel luua ja muuta reeglid ainult OWA (Outlook Web Appi) kuni probleem on lahendatud.
+
+Kui te ei saa reegleid käsitsi kustutada, saate käivitada Outlooki käsu Outlooki käivitamisel, käivitades Outlook. exe/Cleanrules. See kustutab kliendi ja serveri reeglid. See kustutab kõik Outlooki profiilis olevate kontode reeglid. See käsk on veel dokumenteeritud käsurea lüliteid artikkel.

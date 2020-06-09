@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 5ec5277a758fc5171c846266787c2fbcf751f21c
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010214"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617891"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Meeskondade juurutamine autonoomseks või uute või olemasolevate Office ' i installide puhul
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Meeskondade juurutamine autonoomsevõi uute või olemasolevate Office'i installide abil
 
 Microsoft Teams on nüüd kaasatud ***uue installi*** Microsoft 365 apps Enterprise, Microsoft 365 rakendused äri ja Office for Mac. Lisateabe saamiseks vaadake, [Millal Microsoft Teams hakkavad sisalduma Office ' i uute installide puhul?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Lisaks alates versioon 1906 igakuine kanal, meeskonnad ***lisatakse olemasolevatele installid*** Microsoft 365 apps Enterprise (ja Microsoft 365 apps ettevõtetele) seadmetes, kus töötab Windows, kui värskendate olemasoleva installi uusim versioon. Lisateabe saamiseks vaadake, [mis on Office ' i olemasolevate installide kohta?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Lisaks alates versioon 1906 praegune kanal, meeskonnad ***lisatakse olemasolevatele installid*** Microsoft 365 apps Enterprise (ja Microsoft 365 apps ettevõtetele) seadmetes, kus töötab Windows, kui värskendate olemasoleva installi uusim versioon. Lisateabe saamiseks vaadake, [mis on Office ' i olemasolevate installide kohta?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> Kui te ei soovi selle rollout ajakava oodata, saate juurutada meeskonnad autonoomseks oma kasutajatele, [järgides neid juhiseid](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) või saate lasta oma kasutajatel installida meeskonnad ise [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
+> Kui te ei soovi selle rollout ajakava oodata, saate juurutada meeskonnad oma kasutajatele standalone, [järgides neid juhiseid](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)   või saate lasta oma kasutajatel installida meeskonnad ise  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) .
 
 Kui teie organisatsioon pole meeskondi juurutamiseks valmis, on meil sammud, mida saate võtta, et ***välistada meeskonnad*** [uutest](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) või [olemasolevatest](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) installid. Kui soovite meeskondi installida, kuid ei soovi, et meeskonnad käivituma kasutaja jaoks automaatselt pärast selle installimist, vaadake teemat [Microsofti meeskondade automaatse installimise vältimine](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
