@@ -1,5 +1,5 @@
 ---
-title: Meeskonnad Outlooki lisandmoodul
+title: Teams Outlooki lisandmoodul
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021494"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702202"
 ---
-# <a name="teams-outlook-add-in"></a>Meeskonnad Outlooki lisandmoodul
+# <a name="teams-outlook-add-in"></a>Teams Outlooki lisandmoodul
 
-On mitu tegurit, mis võivad põhjustada teie meeskondade lisandmooduli ei ilmu ja need kõik on [siin](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)loetletud.
+Puuduva Teams Outlooki lisandmooduli tõrkeotsinguks käivitage esmalt teenusediagnostika siin haldusportaalis.  Kui teenuse diagnostika ei viita probleemidele, jätkake ja käivitage [Microsofti tugi- ja taasteabimees](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlooki lisandmooduli stsenaariumi** mõjutatud kasutaja arvutite diagnoosida ja lahendada kliendi probleemid.
 
-**Soovitame esmalt kontrollida, et lisandmoodul ei ole keelatud:**
-
-- Outlookis klõpsake **fail** ja seejärel **Suvandid**.
-- Valige dialoogiboksi **Outlooki suvandid** vahekaart **lisandmoodulid** .
-- Kinnitage, et Microsoft **Teamsi Koosolekulisandmoodul Microsoft Office '** is on loetletud **aktiivsete rakenduste lisandmoodulite** loendis.
-- Kui meeskonnad koosoleku lisandmoodul on loetletud **keelatud rakenduste lisandmoodulid** loendis, valige **com Add-ins** **haldamine** ja seejärel klõpsake nuppu **Mine...**
-- Seadke märkeruut Microsoft **Teamsi koosoleku lisandmooduli kõrval Microsoft Office ' i jaoks**.
-- Klõpsake **OK** kõik dialoogiboksid ja taaskäivitage Outlook.
+Probleemi käsitsi tõrkeotsinguks vaadake üle võimalike tegurite loend, mis võivad põhjustada teie Teamsi lisandmooduli mittekuvamise [siin](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
