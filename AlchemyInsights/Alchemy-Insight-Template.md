@@ -11,30 +11,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676529"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750966"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Nõutav Alchemy päis H1, H2's ei tööta.
-Alchemy loome parimad tavad ja suunised:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Nõutav Alchemy Header H1, H2'd ei tööta."
+Parimad tavad ja juhised Alchemy authoring:
 
-1. **Ära pesa Alchemy ülevaated kaustades**-See murrab URL-i struktuuri. Me otsime seda.
-1. Kaustas **Alchemyinvaatamisväärsuste** failid peaksid olema väiketäide failinimed sidekriipsu ruumid ex. ***Kuidas lubada-kohtuvaidluste ootel***.
-    1. Lisage MS. Custom väljal [Alchemy partneri portaalist](https://alchemyportal.azurewebsites.net) reegli ID või jääkfailihulga ID. Ex. ***MS Custom: 100021***
-1. Kasutage oma mallina selle faili ülaosas olevaid ülejäänud metaandmeid.
-1. Liikuge [Alchemy Partneriportaalis](https://alchemyportal.azurewebsites.net)alla jaotisse **Kliendi ülevaate tiitel:** ja kasutage seda, et lähtepunktiks oma H1 pealkiri ülevaate saamiseks. 
+1. **Ära pesasta Alchemy Insightsi kaustades**- see murrab URL-i struktuuri. Me uurime selle parandamist.
+1. **Kaustas AlchemyInsights** olevatel failidel peaksid olema väikefailinimed sidekriipsudega tühikute ex jaoks. ***kohtuvaidluste lubamist***.
+    1. Kaasake reegli ID või ämber ID [Alchemy partneri portaali](https://alchemyportal.azurewebsites.net) ms.custom väljale. Ex. ***ms.custom: 100021***
+1. Kasutage mallina selle faili ülaosas olevad ülejäänud metaandmed.
+1. Liikuge [portaalis Alchemy Partner](https://alchemyportal.azurewebsites.net)jaotiseni **Kliendiülevaate tiitel:** ja kasutage seda ülevaate saamiseks oma H1-tiitli lähtepunktina. 
     > [!NOTE]
-    > Alchemy Insights peab olema ainult üks H1 ülaosas või nad murravad tootmises. H2s ei muuda nii **bold** kui ka muude konventsioonide kasutamist eraldi sektsioonideks.
-1. Järgmisena täitke kehatekst, kasutades materjali mustandit Alchemy reegli lehe jaotises Kliendiülevaated
-    1. Täpp loendid on korras
-    1. Nummerdatud loendid on liiga
-    1. **Paks** ja *kursiiv* on-OK
-    1. Lingid peaksid alati olema kas **"lingid veebi"/välised** või **Deep-lingid UI elemendid**, mitte sisemine lingid.
-    1. Pilte ei toetata praegu ametlikult, kuid see on teekaardi peal.
+    > Alchemy Insights peab olema ainult ühe H1 ülaosas või nad murda tootmises. H2-d ei renderdata nii, et kasutage eraldi jaotiste tähistamiseks **paksu** või muid konventsioone.
+1. Järgmisena täitke kehatekst, kasutades lehe Alchemy Rule (Kliendiülevaated) jaotises Kliendiülevaated olevat mustandit.
+    1. Täpploendid on korras
+    1. Nummerdatud loendid ka
+    1. **Bold** ja *kursiiv* on a-ok
+    1. Lingid peaksid alati olema kas **"lingid veebile"/ välised** või **sügavad lingid kasutajaliidese elementidele,** mitte sisemised lingid.
+    1. Pilte ei toetata praegu ametlikult, kuid see on teekaardil.
 
-Ja see on juba natuke liiga pikk. Parim tava on umbes 400 tähemärki---------------------------------
+Ja see on tõesti juba natuke liiga pikk. Parim tava on umbes 400 tähemärki ---------------------------------
 
-Kui teie sisu on valmis, tõmmake see Live haru. Seejärel [Alchemy partneri portaali](https://alchemyportal.azurewebsites.net) ja sisestage failinimi URL-i väljale. 
+Kui teie sisu on valmis, tõmmake see live filiaal. Seejärel [Alchemy partner portaali](https://alchemyportal.azurewebsites.net) ja sisestage failinimi url-i väljale. 
