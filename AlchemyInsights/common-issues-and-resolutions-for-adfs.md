@@ -11,21 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706197"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797967"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Sagedasemad ADFS-i probleemid ja lahendused
 
 Liitdomeeni konfiguratsiooni saab värskendada järgmistes Microsofti teabebaasi artiklites kirjeldatud viisil.
 
-- [2713898](https://support.microsoft.com/help/2713898)  Tõrge „Saidi juurdepääsul tekkis probleem“ AD FS-ilt, kui väliskasutaja logib rakenduse Office 365, Azure või Intune sisse.
+- [ADFS Föderatsiooni serdi aegumine](adfs-federation-certificate-expiring.md)
 
-- [2535191](https://support.microsoft.com/help/2535191) Tõrge „Kahjuks on meil probleeme teie sisselogimisega“ ja 80048163, kui väliskasutaja proovib rakendusse Office 365, Azure või Intune sisse logida.
+- [2713898](https://support.microsoft.com/help/2713898) "Ilmnes probleem juurdepääsul saidile" tõrge AD FS kui välise kasutaja logib Sisse Microsoft 365, Azure või Intune.
 
-- [2647020](https://support.microsoft.com/help/2647020) Tõrge „Kahjuks on meil probleeme teie sisselogimisega“ ja 80041317 või 80043431, kui väliskasutaja proovib rakendusse Office 365, Azure või Intune sisse logida.
+- [2535191](https://support.microsoft.com/help/2535191) "Kahjuks, kuid meil on probleeme sisselogimisel" ja "80048163" tõrge, kui välise kasutaja proovib sisse logida Microsoft 365, Azure või Intune.
 
-Lisateavet leiate teemast [Office 365, Azure’i või Intune’i liitdomeeni sätete värskendamine või parandamine](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+- [2647020](https://support.microsoft.com/help/2647020) "Vabandust, kuid meil on probleeme sisselogimisel" ja "80041317" või "80043431" tõrge, kui väline kasutaja proovib sisse logida Microsoft 365, Azure või Intune.
+
+Lisateabe saamiseks vaadake [teemat Välise domeeni sätete värskendamine või parandamine rakenduses Microsoft 365, Azure või Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
