@@ -1,5 +1,5 @@
 ---
-title: Tingimuslik juurdepääs Intune ' iga
+title: Tingimuslik juurdepääs Intune'iga
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,27 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706017"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931426"
 ---
-# <a name="conditional-access-with-intune"></a><span data-ttu-id="22c21-102">Tingimuslik juurdepääs Intune ' iga</span><span class="sxs-lookup"><span data-stu-id="22c21-102">Conditional Access with Intune</span></span>
+# <a name="conditional-access-with-intune"></a><span data-ttu-id="01b6e-102">Tingimuslik juurdepääs Intune'iga</span><span class="sxs-lookup"><span data-stu-id="01b6e-102">Conditional Access with Intune</span></span>
 
-<span data-ttu-id="22c21-103">**Tingimusliku juurdepääsu** kasutamine Intune ' iga nõuab 3 etappi:</span><span class="sxs-lookup"><span data-stu-id="22c21-103">Using **Conditional Access** with Intune requires 3 steps:</span></span> 
-  
-- <span data-ttu-id="22c21-104">Looge **tingimuslik juurdepääsupoliitika** , mis määratleb, milliseid ressursse kaitstakse, ja millised tingimused peavad neile ressurssidele juurdepääsuks vastama.</span><span class="sxs-lookup"><span data-stu-id="22c21-104">Create a **Conditional Access Policy** that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span> <span data-ttu-id="22c21-105">Näiteks seade peab olema ühilduv enne juurdepääsu ettevõtte e-posti.</span><span class="sxs-lookup"><span data-stu-id="22c21-105">For example, a device must be compliant before accessing corporate email.</span></span> 
-    
-- <span data-ttu-id="22c21-106">Looge **Vastavuspoliitika** , et määratleda sätted, mis peavad olema täidetud enne seadme ühildumist.</span><span class="sxs-lookup"><span data-stu-id="22c21-106">Create a **Compliance Policy** to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="22c21-107">Näiteks peab seadmel olema vähemalt 6-kohaline PIN-kood, enne kui seda peetakse vastavaks.</span><span class="sxs-lookup"><span data-stu-id="22c21-107">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span> 
-    
-- <span data-ttu-id="22c21-108">**Nõuetele vastavuse poliitika** ja **tingimuslike juurdepääsupoliitikate** tagamine on suunatud soovitud kasutajate rühmadele.</span><span class="sxs-lookup"><span data-stu-id="22c21-108">Ensuring both **Compliance Policies** and **Conditional Access Policies** are targeted to the desired groups of users.</span></span> <span data-ttu-id="22c21-109">See võib nõuda teatud kasutajate rühmade loomine Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="22c21-109">This may require creating specific groups of users in Azure Active Directory.</span></span> 
-    
-<span data-ttu-id="22c21-110">Loe lähemalt:</span><span class="sxs-lookup"><span data-stu-id="22c21-110">Read more:</span></span>
-  
-- [<span data-ttu-id="22c21-111">Tingimuslike juurdepääsu parimad tavad</span><span class="sxs-lookup"><span data-stu-id="22c21-111">Conditional Access best practices</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
-    
-- [<span data-ttu-id="22c21-112">Tingimusliku juurdepääsuga alustamine</span><span class="sxs-lookup"><span data-stu-id="22c21-112">Getting started with Conditional Access </span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
-    
+<span data-ttu-id="01b6e-103">**Tingimusjuurdepääsu** kasutamine Intune'iga nõuab kolme etappi.</span><span class="sxs-lookup"><span data-stu-id="01b6e-103">Using  **Conditional Access**  with Intune requires 3 steps:</span></span>
 
+- <span data-ttu-id="01b6e-104">Looge **vastavuspoliitika** [(Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)), et määratleda sätted, mis peavad olema täidetud enne seadme nõuetele vastavust.</span><span class="sxs-lookup"><span data-stu-id="01b6e-104">Create a  **Compliance Policy**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="01b6e-105">Näiteks peab seadmel olema vähemalt 6-kohaline viik, enne kui seda loetakse nõuetele vastavaks.</span><span class="sxs-lookup"><span data-stu-id="01b6e-105">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span>
+- <span data-ttu-id="01b6e-106">Looge **tingimusjuurdepääsu poliitika,** mis määratleb, milliseid ressursse kaitstakse ja millised tingimused peavad nendele ressurssidele juurdepääsuks olema täidetud.</span><span class="sxs-lookup"><span data-stu-id="01b6e-106">Create a **Conditional Access Policy**  that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span>  <span data-ttu-id="01b6e-107">[Näiteks](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) seade peab olema ühilduv enne juurdepääsu ettevõtte e-posti.</span><span class="sxs-lookup"><span data-stu-id="01b6e-107">[For example,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  a device must be compliant before accessing corporate email.</span></span>
+- <span data-ttu-id="01b6e-108">Veenduge, et nii **vastavuspoliitika** kui ka **tingimusjuurdepääsu poliitika** on suunatud soovitud kasutajarühmadele.</span><span class="sxs-lookup"><span data-stu-id="01b6e-108">Ensure both **Compliance Policies**  and  **Conditional Access Policies**  are targeted to the desired groups of users.</span></span> <span data-ttu-id="01b6e-109">See võib nõuda teatud kasutajate rühmade loomine Azure Active Directorys.</span><span class="sxs-lookup"><span data-stu-id="01b6e-109">This may require creating specific groups of users in Azure Active Directory.</span></span>
+
+<span data-ttu-id="01b6e-110">**Kasulikud lingid:**</span><span class="sxs-lookup"><span data-stu-id="01b6e-110">**Helpful links:**</span></span>
+
+[<span data-ttu-id="01b6e-111">Seadme vastavuse ülevaade</span><span class="sxs-lookup"><span data-stu-id="01b6e-111">Device compliance overview</span></span>](https://docs.microsoft.com/intune/device-compliance-get-started)
+
+[<span data-ttu-id="01b6e-112">Ca tõrkeotsing</span><span class="sxs-lookup"><span data-stu-id="01b6e-112">Troubleshooting CA</span></span>](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+
+[<span data-ttu-id="01b6e-113">Tõrkeotsingu poliitika</span><span class="sxs-lookup"><span data-stu-id="01b6e-113">Troubleshooting policy</span></span>](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+
+<span data-ttu-id="01b6e-114">Meili (Exchange Online'i) kaitsmiseks mitteühilduvate seadmete juurdepääsu eest tuleb järgida mõlemat dokumenti.</span><span class="sxs-lookup"><span data-stu-id="01b6e-114">To protect Email (Exchange online) from access by noncompliant devices, both documents must be followed:</span></span>
+
+1. [<span data-ttu-id="01b6e-115">EAS-i abil e-posti juurdepääsu kaitsmine seadmete eest</span><span class="sxs-lookup"><span data-stu-id="01b6e-115">Protect email access from devices using EAS</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [<span data-ttu-id="01b6e-116">Kaitske e-posti juurdepääsu seadmetest, mis kasutavad kaasaegseid autentimiskliente nagu Outlook</span><span class="sxs-lookup"><span data-stu-id="01b6e-116">Protect email access from devices using modern authentication clients like Outlook</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
