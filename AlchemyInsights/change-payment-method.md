@@ -2,7 +2,7 @@
 title: Makseviisi muutmine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,27 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
+ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44221941"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154514"
 ---
 # <a name="change-payment-method"></a>Makseviisi muutmine
 
 Makseviisi saate muuta **Microsoft 365 halduskeskusest**.
   
-1. administreerimiskeskuses **Billing**  >  lehele**arveldusarved & maksete**  >  [makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
-2. Valige asendamise makseviisi rida. Parempoolsel paanil loetletakse kõik arveldusprofiilid ja individuaalsed tellimused, mis kasutavad valitud makseviisi.
-3. Parempoolsel paanil valige **Asenda makseviis kõigi kaupade puhul**.
-4. Olemasoleva makseviisi kasutamiseks valige üks ripploendist ja seejärel valige **Asenda**.
+1. Avage halduskeskuses leht **Billing**  >  **Arveldusarved & maksed**  >  [Makseviisid.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+2. Valige asendatava makseviisi rida. Parempoolsel paanil on loetletud kõik arveldusreeglid ja üksikud tellimused, mis kasutavad valitud makseviisi.
+3. Valige parempoolsel paanil **kõigi kaupade makseviis .**
+4. Olemasoleva makseviisi kasutamiseks valige ripploendist üks ja seejärel valige **Asenda**.
     > [!NOTE]
-    > Kui teil on arveldusprofiiliga seostatud kordustellimused, saate nende eest tasumiseks kasutada ainult krediit-või deebetkaarti. Kui teil on lehel **makseviisid** loetletud pangakontod, ei ole need ripploendis valimiseks saadaval.
+    > Kui teil on arveldusprofiiliga seotud tellimused, saate nende eest tasumiseks kasutada ainult krediit- või deebetkaarti. Kui teil on lehel **Makseviisid** loetletud pangakontod, pole need ripploendis valimiseks saadaval.
 5. Uue makseviisi lisamiseks valige **Lisa makseviis**.
-6. Sisestage paanil **makseviisi lisamine** kontoteave ja valige siis **Salvesta**. Peate kasutama makseviisi samast riigist kui teie rentnik.
-7. Uus makseviis on juba ripploendis valitud. Valige **Asenda**.
+6. Sisestage paanil **Makseviisi lisamine** kontoteave ja seejärel valige **Salvesta**. Peate kasutama rentnikuga samas tislis samas t pärinevat makseviisi.
+7. Uus makseviis on ripploendis juba valitud. Valige **Asenda**.
 
-Lisateavet leiate teemast [makseviiside haldamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Lisateavet leiate teemast [Makseviiside haldamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+
+Lisateavet krediitkaardiga maksmisest arvemakseteks muutmise kohta leiate teemast [Krediitkaardilt või pangakontolt arvele üleminek](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
