@@ -1,5 +1,5 @@
 ---
-title: 973 rände StalledDueTo * reegel
+title: 973 Migreerimise seiskunudDueTo* reegel
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 4b44e2401f044a6373f545aa9ed418b3ec537c66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8ee0bc2230f013f4bf38ad29bbcde217165ba71e
+ms.sourcegitcommit: 5eb4fad2edc1d15b961ec1e46ef78b39175dffed
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762179"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45167701"
 ---
-# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="2c342-102">StalledDueTo tõrked rände ajal</span><span class="sxs-lookup"><span data-stu-id="2c342-102">StalledDueTo errors during migration</span></span>
+# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="cc6b5-102">StalledDueTo tõrked migreerimise ajal</span><span class="sxs-lookup"><span data-stu-id="cc6b5-102">StalledDueTo errors during migration</span></span>
 
-<span data-ttu-id="2c342-103">Võite näha mitmesuguseid tõrkeid, mis algavad "StalledDueTo..." Exchange Online ' i migreerimise ajal.</span><span class="sxs-lookup"><span data-stu-id="2c342-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="2c342-104">Paljud neist vigadest on täiesti normaalne.</span><span class="sxs-lookup"><span data-stu-id="2c342-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="2c342-105">Lisateabe saamiseks vaadake [Ressursipõhine ahendamine ja prioriseerimine Exchange Online ' i migreerimist](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span><span class="sxs-lookup"><span data-stu-id="2c342-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span></span>
+<span data-ttu-id="cc6b5-103">Võite näha erinevaid vigu, mis algavad sõnadega "StalledDueTo..." exchange Online'i migreerimise ajal.</span><span class="sxs-lookup"><span data-stu-id="cc6b5-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="cc6b5-104">Paljud neist vigadest on täiesti normaalne.</span><span class="sxs-lookup"><span data-stu-id="cc6b5-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="cc6b5-105">Lisateavet vt teemast [Resource Based ahendamine ja prioritiseerimine Exchange Online'i migreerimistes](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).</span><span class="sxs-lookup"><span data-stu-id="cc6b5-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).</span></span>
