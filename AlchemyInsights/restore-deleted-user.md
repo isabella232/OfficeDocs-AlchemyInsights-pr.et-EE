@@ -1,5 +1,5 @@
 ---
-title: Taasta kustutatud kasutaja
+title: Kustutatud kasutaja taastamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: cabb1463fd27cc26f2482210d50eb38823e8a60a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b6596aedf360cb9e3199a759960dc03e76338cac
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511252"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431249"
 ---
-# <a name="restore-a-user"></a>Kasutaja taastamine
+# <a name="restore-a-deleted-user"></a>Kustutatud kasutaja taastamine
 
-Taasta kasutaja neid samme kasutades:
+Taastage kasutaja, kasutades järgmisi juhiseid.
   
-1. [kasutajate \> Kustutatud kasutajad](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Avage kasutajate [ \> Kustutatud kasutajad](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Valige kasutaja ja seejärel käsk **Taasta**.
+2. Valige kasutaja ja seejärel valige **Taasta**.
 
-3. Järgige parooli seadmiseks viipasid.
+3. Parooli määramiseks järgige viipasid.
 
-4. Klõpsake nuppu **Saada e-posti ja sulgege**ja olete valmis!
+4. Klõpsake nuppu **Saada meilisõnum ja Sule**ning olete valmis!
 
-Kas polnud nii lihtne? Rohkem üksikasju ja juhiseid ekraanipilt, vaadake seda artiklit: [Taasta kasutaja](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Kui te mõistate, et teil on vaja taastada kasutaja postkast, vaadake: [kustutage või taastada kasutaja postkastid Exchange Online '](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)i.
+Kas see polnud lihtne? Lisateavet ja juhiseid ekraanipiltide kohta vaadake artiklist: [kasutaja taastamine](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Kui mõistate, et peate kasutaja postkasti taastama, lugege teemat [kasutajate postkastide kustutamine või taastamine Exchange Online ' is](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
