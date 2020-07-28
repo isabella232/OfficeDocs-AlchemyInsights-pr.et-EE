@@ -1,9 +1,9 @@
 ---
-title: Millal arvearuanne luuakse?
+title: Millal on kontoväljavõte loodud?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510388"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431213"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="e08a7-102">Millal on arveldusväljavõte loodud</span><span class="sxs-lookup"><span data-stu-id="e08a7-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="5cffd-102">Millal on koostatud arvelduse aruanne?</span><span class="sxs-lookup"><span data-stu-id="5cffd-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="e08a7-103">Iga kuu saate e-kirja, mis ütleb teile, et teie uus arveldusaruanne on saadaval Microsoft 365 halduskeskuses.</span><span class="sxs-lookup"><span data-stu-id="e08a7-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="e08a7-104">Teie arve sisaldab kahte lehekülge.</span><span class="sxs-lookup"><span data-stu-id="e08a7-104">Your invoice contains two pages.</span></span> <span data-ttu-id="e08a7-105">Lehekülg 1 on arve kokkuvõte ja sisaldab üldist teavet arve, tellimuse, tasumisele kuuluva summa, makse maksmise ja tugiteenuste kohta.</span><span class="sxs-lookup"><span data-stu-id="e08a7-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="e08a7-106">Lehekülg 2 sisaldab iga kordustellimuse arveldustegevuse üksikasju.</span><span class="sxs-lookup"><span data-stu-id="e08a7-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="5cffd-103">Teie väljavõtte kuupäev on seatud kuupäevale, mis on määratud teie konto loomisele järgneva kuu jooksul.</span><span class="sxs-lookup"><span data-stu-id="5cffd-103">Your statement date is set to the day of month after your account was created.</span></span> <span data-ttu-id="5cffd-104">Kui lõite oma konto näiteks 20. jaanuaril, määratakse teie väljavõtte kuupäev iga järgneva kuu kohta 21.</span><span class="sxs-lookup"><span data-stu-id="5cffd-104">For example, if you created your account on the 20th of January, your statement date is set to the 21st for each subsequent month.</span></span>
+
+<span data-ttu-id="5cffd-105">Aktiivse arvelduse tsükli jooksul tekkivad lisatasud kaasatakse järgmise kuu arvele.</span><span class="sxs-lookup"><span data-stu-id="5cffd-105">Additional charges that occur during an active billing cycle are included in the invoice for the following month.</span></span> <span data-ttu-id="5cffd-106">Arveldamise tsükli algus-ja lõpukuupäevad iga arve kohta on loetletud arve **arvelduse kokkuvõttes** .</span><span class="sxs-lookup"><span data-stu-id="5cffd-106">The billing cycle start and end dates for each invoice are listed in the **Billing Summary** of the invoice.</span></span>
+
+<span data-ttu-id="5cffd-107">Krediitkaart ja/või pangakonto (kui on kohaldatav) maksed arveldatakse **arve kuupäevale**järgneval päeval.</span><span class="sxs-lookup"><span data-stu-id="5cffd-107">Credit card and/or bank account (where applicable) payments are settled the day after the **Invoice Date**.</span></span>
   
-<span data-ttu-id="e08a7-107">Lisateavet arveldusmõistete kohta leiate jaotisest [arve mõistmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="e08a7-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="5cffd-108">Lisateavet leiate teemast [arve mõistmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="5cffd-108">To learn more, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
