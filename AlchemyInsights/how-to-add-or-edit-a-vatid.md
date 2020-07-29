@@ -1,5 +1,5 @@
 ---
-title: Kuidas lisada või muuta VatID
+title: VatID lisamine või redigeerimine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,31 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 855f2ae66fe8a882dbc69e1bc1b546fe6eabb712
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 814420999d926e79bef7cfd956b0d949e6a82da0
+ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495947"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46505145"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Kuidas lisada või muuta VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>VatID lisamine või redigeerimine
 
-**Märkus**: kui olete riigis, mis kasutab väärtustatud käibemaksu (km), näiteks Ühendkuningriik, arvutab Microsoft arveldamine teie eest käibemaksu ja rakendab summa teie arvetele. Lisateavet leiate Euroopa komisjoni avaldatud [VIES-vastutusest](https://go.microsoft.com/fwlink/p/?LinkID=841741) .
+**Märkus**: kui olete riigis, kus kasutatakse hinnatud käibemaksu (VAT) (nt Ühendkuningriik), arvutab Microsoft arveldus teie eest käibemaksu ja rakendab summa teie arvetele. Lisateavet leiate teemast Euroopa komisjoni avaldatud [VIES-lahtiütlus](https://go.microsoft.com/fwlink/p/?LinkID=841741) .
 
 **VatID lisamine või redigeerimine**
 
-1. Avage Microsoft 365 halduskeskus **Billing** \> lehel [toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.
+1. Avage Microsoft 365 halduskeskus leht **Arveldamine** \> [oma toodetega](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Leidke tellimuse kaart, mida soovite uuendada.
+2. Leidke tellimuse kaart selle tellimuse jaoks, mida soovite värskendada.
 
-3. Valige jaotises **sätted & toimingud** **Redigeeri teenuse kasutusaadressi**.
+3. Valige jaotises **sätted & toimingud** nupp **Redigeeri teenuse kasutuse aadressi**.
 
-4. Lehel **Redigeeri oma teenuse kasutuse aadress** sisestage oma km ID väljale **km number** ja valige **Salvesta**.
+4. Sisestage lehel **teenuse kasutamise aadressi redigeerimine** oma km-ID väljale **km number** ja seejärel valige **Salvesta**.
 
-    Kui see on lõpetatud, ei tasu käibemaksu teie järgmise arve alusel.
+    Kui olete lõpetanud, ei võeta käibemaksu teie järgmise arve alusel.
 
-Lisateabe saamiseks vaadake [millist maksu tuleb tasuda Microsoft 365?]https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)
+Lisateavet leiate teemast [millist maksu ma peaksin tasuma Microsoft 365 eest?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
 
 **Täiendavad ressursid**
 
-[Lisage oma käibemaksukohustuslase ID](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Lisage oma km-ID](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only).
