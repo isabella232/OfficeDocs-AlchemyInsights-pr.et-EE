@@ -1,5 +1,5 @@
 ---
-title: Teisalda e-kirjad arhiivi postkasti
+title: Meilisõnumite ümberpaigutamine arhiivi postkasti
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,26 +12,28 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511036"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522767"
 ---
-# <a name="move-email-to-the-archive-mailbox"></a>Teisalda e-posti arhiivi postkasti
+# <a name="move-email-to-the-archive-mailbox"></a>Meilisõnumite saatmine arhiivi postkasti
 
-1. Veenduge, et **arhiivi postkast** on lubatud. Kui ei, kasutage [selle artikli](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) juhiseid arhiivi postkasti lubamiseks.
+Kui soovite, et me käivitaks allpool nimetatud sätete automatiseeritud kontrollimised, valige nupp tagasi <--selle lehe ülaosas ja seejärel sisestage selle kasutaja meiliaadress, kellel on probleeme meilisõnumite teisaldamisega arhiivi postkasti.
 
-2. Sõnumite automaatseks arhiivimiseks arhiivi postkasti, tuleb seada säilitamise silt koos **Teisalda arhiivi** toiming **automaatselt rakendada kogu postkasti (vaikimisi) silt**. Sildi loomiseks kasutage siin olevaid juhiseid: [Arhiiv vaikimisi silt](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+1. Veenduge, et **arhiivi postkast** oleks lubatud. Kui seda ei ole, kasutage arhiivi postkasti lubamiseks [selles artiklis](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) toodud juhiseid.
 
-3. Järgmisena lisage oma säilituspoliitikale **arhiivi** silt. Exchange ' i halduskeskus, valige **säilituspoliitikad** > lisa **Arhiiv arhiivi sildi** poliitika > **salvestada**.
+2. Kui soovite arhiivi postkasti automaatselt arhiivida, **peab toimingu arhiivimiseks käsuga arhiivimine** olema seatud **automaatselt rakendama kogu postkasti (vaike) sildile**. Selle toimingu abil saate luua sildi: [arhiivi vaikevormingu](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-4. Nüüd [määrata säilituspoliitika](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) konkreetse kasutaja postkasti. Sama poliitika rakendatakse nii **põhi** -kui ka **arhiivi** postkasti.
+3. Järgmisena lisage **arhiivi** silt oma säilituspoliitika. Valige Exchange ' i halduskeskus > **säilituspoliitika** , et lisada poliitikasse > **salvestatav nupp Salvesta** **arhiivi** .
 
-Võib osutuda vajalikuks sundida hallatav kaustade abimees (MFA) käivitada ja rakendada uusi sätteid kasutaja postkasti. Käivitage järgmine käsk [ühendatud EXO PowerShelli](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) käivitada hallatav kaust Assistant konkreetse postkasti:
+4. Nüüd [Määra säilituspoliitika](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) konkreetse kasutaja postkasti. Sama poliitika rakendub nii **alg** -kui ka **arhiivi** postkastile.
+
+Võimalik, et hallatava kausta assistent (MFA) peab käivitama ja rakendama kasutaja postkastile uusi sätteid. Kindla postkasti hallatava kausta abilise käivitamiseks käivitage järgmine käsk, [ühendades selle ekso PowerShelliga](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) .
   
-Start-ManagedFolderAssistant-identiteet<name of the mailbox>
+Start-ManagedFolderAssistant – identiteet<name of the mailbox>
 
-Lisateavet arhiivipoliitika seadistamise kohta leiate jaotisest [arhiivi-ja kustutuspoliitika häälestamine postkastide jaoks](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Lisateavet arhiivimise poliitika häälestamise kohta leiate teemast [postkastide arhiivimise ja kustutamise poliitika häälestamine](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

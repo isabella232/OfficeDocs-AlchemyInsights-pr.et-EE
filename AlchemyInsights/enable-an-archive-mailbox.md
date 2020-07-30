@@ -10,47 +10,49 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507022"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522731"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arhiivi postkasti lubamine
 
-Arhiiv postkastid Microsoft 365 (nimetatakse ka *Online Arhiiv* või *in-Place Archives*) pakkuda kasutajatele täiendavaid e-posti salvestusruumi. Kasutajad saavad teisaldada või kopeerida üksusi oma arhiivi postkasti ja administraatorid saavad luua arhiivi poliitika, mis teisaldab automaatselt üksuste arhiivi postkastid.
-  
-Arhiivi postkasti loomiseks toimige järgmiselt.
-  
-1. Mine sinna [https://protection.office.com](https://protection.office.com) .
+Kui soovite, et meil oleks võimalik konfigureerida automatiseeritud kontrolle, et tagada arhiivi postkasti häälestamine, valige nupp tagasi <--selle lehe ülaosas ja seejärel sisestage konto meiliaadress.
 
-2. Logige sisse Microsoft 365 kasutades oma administraatori kontoga.
+Postkastide arhiivimine rakenduses Microsoft 365 (mida nimetatakse ka *Veebiarhiiviks* või *kohapealseks arhiivimiseks*) pakuvad kasutajatele täiendavaid salvestusruumi. Kasutajad saavad üksusi arhiivi postkasti teisaldamiseks või kopeerimiseks ja administraatorid saavad luua arhiivimise poliitika, mis teisaldab üksused automaatselt postkastide arhiivi.
+  
+Arhiivi postkasti loomiseks tehke järgmist.
+  
+1. Avage [https://protection.office.com](https://protection.office.com) .
 
-3. Valige turvalisuse vastavuskeskuse vasakpoolsel paanil &amp; **teabjuhtimise** \> **Arhiiv**.
+2. Logige oma administraatori kontoga sisse rakendusse Microsoft 365.
+
+3. &amp;Valige turbe nõuetele vastavuse keskuse vasakul paanil **teave halduse** \> **arhiivimine**.
 
 4. Valige kasutaja, kelle arhiivi postkasti soovite lubada.
 
-5. Paremal üksikasjade paanil nuppu **Luba** ja seejärel klõpsake nuppu **Jah** hoiatusteates arhiivi postkasti lubamiseks.
+5. Klõpsake paremal paanil üksikasjade paanil nuppu **Luba** ja seejärel nuppu **Jah** hoiatusteates, et lubada arhiivi postkast.
 
-Saate ka hulgi lubada arhiivi postkastid valides mitu kasutajat (kasutades **tõstuklahvi (SHIFT** ) või **Ctrl** võtmed) ja seejärel klõpsake nuppu **Luba** üksikasjade paanil.
+Samuti saate hulgi-lubada arhiivi postkastid, valides mitu kasutajat (kasutades **klahvikombinatsiooni SHIFT** või **Ctrl** ) ja klõpsates üksikasjade paanil nuppu **Luba** .
   
-### <a name="shared-mailboxes"></a>Ühiskasutusega postkastid
+### <a name="shared-mailboxes"></a>Ühiskasutatavad postkastid
 
-Ühiskasutusse antud postkasti arhiivi lubamiseks Exchange Online ' i leping 2 litsentsi või Exchange Online ' i leping 1 litsentsi Exchange Online arhiveerimise litsents on vajalik.  
+Ühiskasutuses postkasti arhiivi lubamiseks on vaja Exchange Online ' i lepingu 2 litsentsi või Exchange Online ' i paketti, millel on Exchange Online ' i arhiivimiseks vajalik litsents.  
 
-Ühiskasutuses postkasti arhiivi lubamiseks toimige järgmiselt.
+Ühiskasutuses postkasti arhiivi lubamiseks tehke järgmist.
 
-1. [Exchange ' i halduskeskus](https://outlook.office365.com/ecp) ja logige sisse oma administraatori konto abil.
+1. Avage [Exchange ' i halduskeskus](https://outlook.office365.com/ecp) ja logige sisse oma administraatorikonto abil.
 
-2. **Recipients**  >  **ühiskasutusse antud**adressaatidele.
+2. Valige **Recipients**  >  **ühiskasutusse antud**adressaadid.
 
-3. Valige ühiskasutusse antud postkasti.
+3. Valige Ühiskasutuses postkast.
 
-4. Paremal üksikasjade paanil all **in-Place Arhiiv**, klõpsake nuppu **Luba**ja klõpsake **Jah** arhiivi postkasti lubamiseks.
+4. Klõpsake paremal paanil üksikasjade paani jaotises **kohapealne Arhiiv**nuppu **Luba**ja seejärel arhiivi postkasti lubamiseks nuppu **Jah** .
 
 Lisateavet leiate järgmisest teemast.
   
 - [Luba arhiivi postkastid](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
-- [Arhiivi-ja kustutuspoliitika seadistamine](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Arhiivimise ja kustutamise poliitika häälestamine](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
