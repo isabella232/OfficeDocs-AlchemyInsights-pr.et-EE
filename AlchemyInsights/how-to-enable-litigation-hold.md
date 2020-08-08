@@ -1,5 +1,5 @@
 ---
-title: 976-Kuidas lubada-kohtuvaidluse-ootel
+title: 976-kuidas-to-enable-kohtuvaidlus-Hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495804"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596743"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Asetage postkast juriidilisele
+# <a name="place-a-mailbox-on-legal-hold"></a>Postkasti paigutamine juriidilisele ootele
 
-- Panna postkasti kohtuvaidlused hoidke või in-Place hoidke Exchange Online ' i leping 2 litsentsi [Exchange Online leping 2 litsents](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) on nõutav. Kui postkast on määratud leping 1 litsentsi, saate määrata eraldi Exchange Online ' i arhiveerimise lisandmooduli litsentsi [Exchange Online arhiveerimise lisandmooduli litsents](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Postkasti paigutamiseks ootele või kohapealsesse ootele tuleb teha Exchange Online ' i leping 2 litsents [Exchange Online ' i leping 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Kui postkastile on määratud leping 1 litsents, saate määrata eraldi Exchange Online ' i arhiivimise lisandmooduli litsentsi [Exchange Online ' i lisandmooduli arhiivimiseks](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Ühe kasutaja kohtuvaidluste ootel lubamiseks toimige [järgmiselt](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Kui kohtuvaidluste ootel on lubatud, säilitatakse kogu postkasti sisu.
+- Kui soovite lubada ühe kasutaja pooleliolevate toimingute ootelepaneku, [tehke](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)järgmist. Kui kohtuvaidlus on lubatud, säilitatakse kogu postkasti sisu.
 
-- Kõigi postkastide sisu säilitamiseks organisatsioonis saate kasutada [organisatsiooni hõlmavat säilituspoliitikat](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Pange tähele, et organisatsiooni hõlmava säilituspoliitika puhul määratakse uutele kasutajatele automaatselt poliitika.
+- Kui soovite säilitada sisu kõigis oma asutuse postkastides või luua muid säilituse tüüpe, kasutage säilituspoliitika või-silte. Pange tähele, et organisatsiooni hõlmava säilituspoliitika jaoks määratakse uued kasutajad automaatselt poliitikale. Lisateavet leiate teemast teave [säilituspoliitika ja säilituse siltide kohta](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
