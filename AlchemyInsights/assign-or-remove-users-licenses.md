@@ -1,5 +1,5 @@
 ---
-title: Kasutajate litsentside määramine või eemaldamine
+title: Kasutaja litsentside määramine või eemaldamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506367"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603406"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="ce5d1-102">Kasutajate litsentside määramine või eemaldamine</span><span class="sxs-lookup"><span data-stu-id="ce5d1-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-user-licenses"></a><span data-ttu-id="0369c-102">Kasutaja litsentside määramine või eemaldamine</span><span class="sxs-lookup"><span data-stu-id="0369c-102">Assign or remove user licenses</span></span>
 
-<span data-ttu-id="ce5d1-103">Administraatorina saate kohandada oma kasutajate litsentse vastavalt vajadusele.</span><span class="sxs-lookup"><span data-stu-id="ce5d1-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="ce5d1-104">Allpool toodud artiklites näidatakse, kuidas hallata oma kasutajate litsentse, sealhulgas:</span><span class="sxs-lookup"><span data-stu-id="ce5d1-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="0369c-103">Administraatorina saate kasutajate litsentse vastavalt vajadusele kohandada.</span><span class="sxs-lookup"><span data-stu-id="0369c-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="0369c-104">Nendes artiklites näidatakse, kuidas hallata oma kasutajate litsentse.</span><span class="sxs-lookup"><span data-stu-id="0369c-104">These articles show you how to manage your user licenses:</span></span>
   
-- [<span data-ttu-id="ce5d1-105">Litsentside määramine kasutajatele Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="ce5d1-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="0369c-105">Litsentside määramine kasutajatele Microsoft 365 ettevõtetele</span><span class="sxs-lookup"><span data-stu-id="0369c-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [<span data-ttu-id="ce5d1-106">Tühista litsentsid kasutajatelt Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="ce5d1-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [<span data-ttu-id="0369c-106">Microsoft 365 ettevõtetele litsentside määramise tühistamine</span><span class="sxs-lookup"><span data-stu-id="0369c-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-<span data-ttu-id="ce5d1-107">Ei vastanud su küsimusele?</span><span class="sxs-lookup"><span data-stu-id="ce5d1-107">Didn't answer your question?</span></span> <span data-ttu-id="ce5d1-108">Pole probleemi!</span><span class="sxs-lookup"><span data-stu-id="ce5d1-108">No problem!</span></span> <span data-ttu-id="ce5d1-109">Kasutage nuppu "Vajan abi", et rääkida tugiinseneriga.</span><span class="sxs-lookup"><span data-stu-id="ce5d1-109">Use the "Need help" button to talk to a support engineer.</span></span>
+<span data-ttu-id="0369c-107">Kas sa ei vastanud oma küsimusele?</span><span class="sxs-lookup"><span data-stu-id="0369c-107">Didn't answer your question?</span></span> <span data-ttu-id="0369c-108">Pole probleemi!</span><span class="sxs-lookup"><span data-stu-id="0369c-108">No problem!</span></span> <span data-ttu-id="0369c-109">Toe tehnikuga suhtlemiseks kasutage nuppu "Vajad abi".</span><span class="sxs-lookup"><span data-stu-id="0369c-109">Use the "Need help" button to talk to a support engineer.</span></span>
