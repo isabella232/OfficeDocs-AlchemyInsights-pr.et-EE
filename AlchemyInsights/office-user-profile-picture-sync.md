@@ -1,5 +1,5 @@
 ---
-title: Kasutaja profiilipildi sünkroonimine
+title: Kasutaja profiili pildi sünkroonimine
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,28 +7,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 8f79e1c319fcb6c776e5a2ab8db9cb3a76265f87
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 22703dba5865cdac6c9df3e8c7ab2eeec44968cb
+ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761522"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616822"
 ---
-# <a name="sync-a-users-profile-picture"></a>Kasutaja profiilipildi sünkroonimine
+# <a name="sync-a-users-profile-picture"></a>Kasutaja profiili pildi sünkroonimine
 
-Saate lisada või muuta oma profiilifotot Microsoft 365 alates Office.com, või kasutades Microsofti rakendusi oma arvutis või brauseris telefoni. Teie foto ilmub kõikjal on profiili foto ringi Microsoft 365.
+Saate rakenduses Microsoft 365 lisada või muuta oma profiili fotot Office.com või kasutada Microsofti rakendusi arvutis või telefoni brauseris. Teie foto kuvatakse kõikjal, kus Microsoft 365 on profiili fotoga ring.
 
-Profiili foto lisamiseks Microsoft 365 äritegevusele
+Profiili foto lisamiseks Microsoft 365 ettevõtetele tehke järgmist.
 
-- Leidke foto, mida soovite kasutada, ja salvestage see oma arvutis, OneDrive ' is või muus asukohas, kuhu saate minna.
+1. Otsige üles foto, mida soovite kasutada, ja salvestage see oma arvutisse, OneDrive ' i või muusse asukohta, mille juurde pääsete.
 
-- Logige sisse Microsoft 365 oma töö või kooli kontoga aadressil [Office.com](https://www.office.com).
+2. Logige sisse rakendusse Microsoft 365 oma töökoha või kooli kontoga aadressil [Office.com](https://www.office.com).
 
-- Valige lehe ülemises parempoolses nurgas olev ring, mis näitab teie initsiaale või isiku ikooni.
+3. Valige lehe paremas ülanurgas olev ring, kus on kuvatud teie initsiaalid või isiku ikoon.
 
-Valige paanil minu kontod ring, mis näitab teie initsiaale või inimese ikooni. Muutke oma fotot kuvatavas hüpikaknas.
+4. Valige paanil My Accounts (minu kontod) ring, kus on kuvatud teie initsiaalid või isiku ikoon. Muutke oma fotot kuvatavas hüpikaknas.
 
-Märkused: kui olete juba üles laadinud pildi, võite proovida SharePointi või OneDrive ' i paani, et see pilt uuesti sünkroonida.
+**Märkus** Kui olete pildi juba üles laadinud, võite proovida selle pildi uuesti sünkroonimiseks valida SharePointi või OneDrive ' i paani.
 
-Lisateabe saamiseks külastage [teavet profiilipildi sünkroonimise kohta Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
+Kui kasutajate profiili pilt on SharePointis erinev võrreldes muude Microsofti rakendustega, on kasutajal järgmised toimingud täidetud.
+
+1. Avage privaatne (InPrivate-/inkognito) brauseri seanss.
+2. Avage [https://www.office.com](https://www.office.com/) .
+3. Valige SharePointi ikoon.
+4. Liikuge sirvides saidile või lehele, kus fotot ei värskendata, või leht, kus kasutaja on kaasatud inimeste veebiossa.
+
+Lisateavet leiate teemast [teave profiili pildi sünkroonimise kohta rakenduses Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
 
