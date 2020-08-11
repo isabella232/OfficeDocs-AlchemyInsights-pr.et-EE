@@ -1,5 +1,5 @@
 ---
-title: 'Kuidas kontrollida oma domeeni '
+title: 'Domeeni kinnitamine '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509020"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634302"
 ---
-# <a name="how-to-verify-your-domain"></a>Kuidas kontrollida oma domeeni
+# <a name="how-to-verify-your-domain"></a>Domeeni kinnitamine
 
-Kontrollige oma domeeni, peate lisama TXT kirje domeeni kohtusekretäri veendumaks, et teie domeeni. Esmalt järgige [domeeni lisamise viisardi](https://portal.office.com/adminportal/home#/Domains/Wizard) klõpsates **setup** \> **Domains** **domeenija seejärel lisage domeen**.
-  
-Järgige DNS-i [hosting pakkuja DNS-kirjete loomine](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , et lisada TXT kirje, et kontrollida oma domeeni juhiseid.
+Domeeni kinnitamiseks järgige domeeni lisamise [viisardit](https://portal.office.com/adminportal/home#/Domains/Wizard)või avage **käsitsi domeeni**  >  **Domains**  >  **lisamine domeeni lisamine**.
 
-Muude domeenide probleemid proovige [DOMEENIDE KKK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Lisateavet selle kohta, kuidas lisada TXT-kirje domeeni kinnitamiseks, leiate teemast [DNS-i kirjete lisamine domeeni ühendamiseks](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Muude domeenide küsimuste kohta leiate teavet teemast [domeenide KKK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
