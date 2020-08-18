@@ -1,7 +1,7 @@
 ---
-title: Töötamine SharePointi õiguste tasemetel
-ms.author: v-todmc
-author: todmccoy
+title: SharePointi õiguste tasemetega töötamine
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e0a3270af310e25cd7b8b37faccbd29214ea4b47
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705477"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786381"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>Töötamine SharePointi õiguste tasemetel
+# <a name="working-with-sharepoint-permission-levels"></a>SharePointi õiguste tasemetega töötamine
 
-SharePointis on olemas vaikimisi õigusetasemed, mida saate kasutada (nt **panusta** ja **Kuva ainult**). Kuid kui üks neist ei vasta teie vajadustele, saate luua uue õigusetaseme. Pidage meeles, et õiguste tasemete jälgimine on lihtsam, kui te vaikesätteid ei muuda.
+SharePoint sisaldab vaikimisi kasutatavaid õiguste tasemeid (nt ainult **kaastöö** ja **Kuva**). Kui üks neist ei vasta teie vajadustele, saate luua uue õigusetaseme. Pidage meeles, et õiguste tasemete jälgimine on lihtsam, kui te ei muuda vaikesätteid.
 
-[Õigusetasemete loomine ja redigeerimine](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+[Õiguste tasemete loomine ja redigeerimine](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

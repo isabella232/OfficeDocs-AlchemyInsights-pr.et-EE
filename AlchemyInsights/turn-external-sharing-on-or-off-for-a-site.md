@@ -1,5 +1,5 @@
 ---
-title: Saidi jaoks välise ühiskasutuse sisse-või väljalülitamine
+title: Välise ühiskasutuse sisselülitamine SharePointi saidil
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 733f470e606bb6bf4b4efbfa863b1258699fc311
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 501f41d458a863dc542520ccfbb7322913d4fdfc
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912926"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785733"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>SharePointi saidi välise ühiskasutuse sisse-või väljalülitamine
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Välise ühiskasutuse sisselülitamine SharePointi saidil
 
-Saidi jaoks:
+Saidi kohta tehke järgmist.
   
-1. Klõpsake uue SharePointi administreerimiskeskus vasakpoolsel paanil **saidid**.
+1. Klõpsake uues SharePointi administreerimiskeskuses vasakpoolsel paanil nuppu **saidid**.
     
-2. Valige sait või saidid ja klõpsake lindil valikul **ühiskasutus**.
+2. Valige sait või saidid ja klõpsake lindil nuppu **ühiskasutus**.
     
-Vaikimisi uued saidid, mille kasutajad loovad (nii meeskonnatöö saidid, mis kuuluvad Microsoft 365 rühmad ja suhtlussaidid) on sama ühiskasutuse säte kui organisatsiooni hõlmav säte, kui organisatsiooni hõlmav säte võimaldab failide ühiskasutust, kasutades linke, mis ei nõua sisselogimist. Sel juhul saidid võimaldavad ühiskasutus uute ja olemasolevate väliste kasutajatega, kes sisse logida. Kindlate saitide sätte muutmiseks kasutage uut SharePointi administreerimiskeskust.
+Vaikimisi on kasutajate loodavad uued saidid (nii Microsoft 365 rühmadele kui ka sidevõrkudele kuuluvad meeskonnatöö saidid) sama ühiskasutuse säte kui teie asutuse kogu säte, välja arvatud juhul, kui kogu asutuse säte võimaldab faile ühiskasutusse anda linkide kaudu, mis ei nõua sisselogimist. Sel juhul võimaldavad saidid ühiskasutusse anda uute ja olemasolevate väliste kasutajatega, kes sisse logivad. Kindlate saitide sätete muutmiseks kasutage uut SharePointi halduskeskus.
   
 > [!NOTE]
-> Väline ühiskasutuse säte iga saidi jaoks võib olla kitsendavam kui teie organisatsiooni hõlmav säte, kuid mitte rohkem kui organisatsiooni hõlmav säte. 
+> Mis tahes saidi väline ühiskasutuse säte võib olla rohkem piiravam kui teie asutuse hõlmav säte, kuid mitte suurem kui organisatsiooni hõlmavas säte. 
   
 

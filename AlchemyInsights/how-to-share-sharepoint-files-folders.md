@@ -1,7 +1,7 @@
 ---
-title: Kuidas jagada SharePointi faile või kaustu
-ms.author: v-todmc
-author: todmccoy
+title: SharePointi failide või kaustade ühiskasutusse andmine
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 6673307c9c8e8af5d6730dee60ed9445a225478a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d8db0cb146db02ab235ae453b43e088a53a3a5aa
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763321"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787245"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Kuidas jagada SharePointi faile või kaustu
+# <a name="how-to-share-sharepoint-files-or-folders"></a>SharePointi failide või kaustade ühiskasutusse andmine
 
-SharePointi saidil talleolevad failid on tavaliselt saadaval kõigile, kellel on saidi õigused, kuid soovi korral võite jagada kindlaid faile või kaustu inimestega, kellel pole muidu juurdepääsu saidile. Kui jagate faile ja kaustu, saate otsustada, kas lasta inimestel neid redigeerida või lihtsalt vaadata.
+SharePointi saidil talletatud failid on tavaliselt saadaval kõigile, kellel on saidi juurdepääsuõigused, kuid soovi korral saate teatud failid või kaustad ühiskasutusse anda inimestega, kellel ei ole muidu saidile juurdepääsu. Failide ja kaustade ühiskasutusse andmisel saate otsustada, kas lubada inimestel redigeerida või lihtsalt neid vaadata.
 
 [SharePointi failide või kaustade ühiskasutus](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)

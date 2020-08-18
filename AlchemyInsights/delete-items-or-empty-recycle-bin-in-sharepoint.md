@@ -1,7 +1,7 @@
 ---
 title: Üksuste kustutamine või SharePointi saidi prügikasti tühjendamine
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: f035104d3a9c2a3d5c82d9753497fa5f4c9e6319
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3f0202e2ccab6dda22b451c6633ed59ea61df3ed
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704865"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786021"
 ---
 # <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Üksuste kustutamine või SharePointi saidi prügikasti tühjendamine 
 
-Kui kustutate üksuse SharePointi dokumenditeegis või loendis, ei eemaldata kohe SharePointist. Kustutatud üksused lähevad saidi prügikasti ajaperioodiks. Selle aja jooksul saate kustutatud üksused oma algsesse asukohta taastada või eemaldada salvestusruumi vabastamiseks.
+Kui kustutate mõne üksuse SharePointi dokumenditeegis või loendist, ei eemaldata seda kohe SharePointist. Kustutatud üksused lähevad saidi prügikasti mõneks ajaks. Selle aja jooksul saate taastada nende algsesse asukohta kustutatud üksused või eemaldada need salvestusruumi vabastamiseks.
 
 [Üksuste kustutamine või SharePointi saidi prügikasti tühjendamine](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)

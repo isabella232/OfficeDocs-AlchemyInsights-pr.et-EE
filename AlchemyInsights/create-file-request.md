@@ -1,7 +1,7 @@
 ---
-title: Kuidas luua faili taotlus
-ms.author: v-todmc
-author: todmccoy
+title: Faili taotluse loomine
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 933681a19d8128c49ed1ddf4494b64d46c12a5f9
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235257"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785985"
 ---
-# <a name="how-to-create-a-file-request"></a>Kuidas luua faili taotlus
+# <a name="how-to-create-a-file-request"></a>Faili taotluse loomine
 
-OneDrive ' i faili taotluse funktsioon võimaldab teil valida kausta, kus teised saavad faile üles laadida, kasutades linki, mida saadate. Kasutajad, kes te taotlete faile ei näe, mis on kaustas--nad saavad faile ainult üles laadida.
+OneDrive ' i funktsiooni "faili taotlus" abil saate valida kausta, kus teised saavad faile üles laadida, kasutades linki, mille te saadate. Kasutajad, kellelt te faile taotlete, ei näe kaustas olevaid faile, vaid saavad sinna faile üles laadida.
 
-**Märkus**: administraator peab lubama [kõik lingid](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) OneDrive faili taotlusi töötada.
+**Märkus**: administraator peab lubama kõigil OneDrive ' i [linkidel](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) , mida soovite teha.
 
-- Lisateavet leiate teemast [failipäringu loomine](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
+- Lisateavet leiate teemast [faili taotluse loomine](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
