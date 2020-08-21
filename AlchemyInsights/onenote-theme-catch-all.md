@@ -1,5 +1,5 @@
 ---
-title: OneNote ' i kujunduse saagi kõik
+title: OneNote ' i kujundus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: ee621d55537347d3bae836e2cf074b1ac0b8237a
+ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563578"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852884"
 ---
-# <a name="common-issues-and-resolutions-with-onenote"></a><span data-ttu-id="e8da7-102">OneNote ' iga levinud probleemid ja lahendused</span><span class="sxs-lookup"><span data-stu-id="e8da7-102">Common issues and resolutions with OneNote</span></span>
+# <a name="common-issues-and-resolutions-with-onenote"></a><span data-ttu-id="93266-102">OneNote ' i levinumad probleemid ja lahendused</span><span class="sxs-lookup"><span data-stu-id="93266-102">Common issues and resolutions with OneNote</span></span>
 
-<span data-ttu-id="e8da7-103">Siin on mõned korduma kippuvad OneNote ' i Teemad:</span><span class="sxs-lookup"><span data-stu-id="e8da7-103">Here are some frequently requested OneNote topics:</span></span>
+<span data-ttu-id="93266-103">Siin on mõned sageli nõutavad OneNote ' i teemad.</span><span class="sxs-lookup"><span data-stu-id="93266-103">Here are some frequently requested OneNote topics:</span></span>
 
-- <span data-ttu-id="e8da7-104">[Sünkroonimise probleemide lahendamine](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) -lahendada kõige levinumad OneNote ' i sünkroonimise probleemid, palun kasutage juhiseid [lahendada probleeme, kui te ei saa sünkroonida OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span><span class="sxs-lookup"><span data-stu-id="e8da7-104">[Fix sync issues](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - to address most common issues related to OneNote sync, please use the steps in [Fix issues when you can't sync OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
+- <span data-ttu-id="93266-104">[Sünkroonimise probleemide lahendamine](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – OneNote ' i sünkroonimisega seotud levinumate probleemide lahendamiseks kasutage [lahendusviisardi probleeme, kui te ei saa OneNote ' i sünkroonida](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span><span class="sxs-lookup"><span data-stu-id="93266-104">[Fix sync issues](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - to address most common issues related to OneNote sync, please use the steps in [Fix issues when you can't sync OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
 
-- <span data-ttu-id="e8da7-105">Kasuta [OneNote ' i meeskondi](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Märkus**: praegu on OneNote ' i meeskonnad kirjutuskaitstud äri-ja haridusüürnike jaoks.</span><span class="sxs-lookup"><span data-stu-id="e8da7-105">Use [OneNote in Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Note**: Currently, OneNote in Teams is read-only for commercial and education tenants.</span></span> <span data-ttu-id="e8da7-106">Redigeerimiseks kasutage OneNote’i veebirakendust või OneNote’i töölauarakendust.</span><span class="sxs-lookup"><span data-stu-id="e8da7-106">To edit, please use OneNote for the web or the OneNote desktop app.</span></span>
+- <span data-ttu-id="93266-105">[OneNote ' i kasutamine meeskonnatöös](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span><span class="sxs-lookup"><span data-stu-id="93266-105">Use [OneNote in Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span></span> 
 
-- <span data-ttu-id="e8da7-107">[OneNote ' i Klassimärkmiku kasutamine meeskonnad](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) vastused küsimustele klassimärkmiku seadistamise kohta meeskondades.</span><span class="sxs-lookup"><span data-stu-id="e8da7-107">[Use OneNote Class Notebook in Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) answers questions about setting up a Class Notebook in Teams.</span></span>
+- <span data-ttu-id="93266-106">[OneNote ' i klassi märkmiku kasutamine meeskonnas](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) vastab küsimustele klassi märkmiku häälestamise kohta meeskondades.</span><span class="sxs-lookup"><span data-stu-id="93266-106">[Use OneNote Class Notebook in Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) answers questions about setting up a Class Notebook in Teams.</span></span>
 
-- <span data-ttu-id="e8da7-108">[Teisaldage märkmik pilve](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span><span class="sxs-lookup"><span data-stu-id="e8da7-108">[Move notebook to the cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span></span>
+- <span data-ttu-id="93266-107">[Märkmiku saate pilve](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a)viia.</span><span class="sxs-lookup"><span data-stu-id="93266-107">[Move notebook to the cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span></span>
 
-- <span data-ttu-id="e8da7-109">[Tõrkeotsing liigub sülearvutid pilve](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span><span class="sxs-lookup"><span data-stu-id="e8da7-109">[Troubleshoot moving notebooks to the cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span></span>
+- <span data-ttu-id="93266-108">[Märkmiku teisaldamise tõrkeotsing pilve](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span><span class="sxs-lookup"><span data-stu-id="93266-108">[Troubleshoot moving notebooks to the cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span></span>
 
-- <span data-ttu-id="e8da7-110">[Installige onenote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -alates märtsi 2020, kui installite Office 365 või Office 2019, installitakse OneNote ' i töölauarakendus kõrvuti Wordi, PowerPointi ja Exceli töölauarakendustega.</span><span class="sxs-lookup"><span data-stu-id="e8da7-110">[Install OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -  Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
+- <span data-ttu-id="93266-109">[Onenote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) ' i installimine – alates märtsist 2020, kui installite Office 365 või Office 2019, installitakse OneNote ' i töölauarakendus kõrvuti Wordi, PowerPointi ja Exceli töölaua rakendustega.</span><span class="sxs-lookup"><span data-stu-id="93266-109">[Install OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -  Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
 
-- <span data-ttu-id="e8da7-111">[Eksportida ja importida OneNote ' i märkmikke](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span><span class="sxs-lookup"><span data-stu-id="e8da7-111">[Export and import OneNote notebooks](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span></span>
+- <span data-ttu-id="93266-110">[OneNote ' i märkmike eksportimine ja importimine](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span><span class="sxs-lookup"><span data-stu-id="93266-110">[Export and import OneNote notebooks](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span></span>
