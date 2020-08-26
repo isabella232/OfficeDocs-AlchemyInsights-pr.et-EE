@@ -1,5 +1,5 @@
 ---
-title: Pärand eDiscovery tööriistade pensionile jäämine
+title: Legacy-e-juurdluse tööriistade kasutuselt kõrvaldamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650564"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902616"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Pärand eDiscovery tööriistade pensionile jäämine
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Legacy-e-juurdluse tööriistade kasutuselt kõrvaldamine
 
-Uue ja täiustatud eDiscovery funktsiooni Microsoft 365 vastavuse Center tulemusena on järgmised pärand eDiscovery tööriistad ja commandlette lähikuudel pensionile:
+Microsoft 365 nõuetele vastavuse keskuses uute ja täiustatud e-juurdluse funktsioonide tulemusena aeguvad järgnevatel kuudel järgmised pärand e-juurdluse e-juurdluse tööriistad ja Commandlets.
 
-- Kohapealse [eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) ja kohapealse [hoiab](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) Exchange ' i halduskeskus.
+- Kohapealne e [-juurdlus](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) [ja kohapeal on Exchange](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) ' i halduskeskus.
 
-- Exchange Online PowerShelli cmdlet-käsud, mis toetavad kohapealse eDiscovery ja kohapealse hoiab. (Need cmdlet-käsud on ühiselt määratletud kui *-MailboxSearch cmdlet-käsud.) See hõlmab järgmisi cmdlet-käske:
+- Exchange Online ' i PowerShelli cmdlet-käsud, mis toetavad kohapealset e-juurdlust ja kohapealset olemasolu. (Need cmdlet-käsud määratakse ühiselt *-MailboxSearch cmdlet-käskudeks.) See hõlmab järgmisi cmdlet-käske.
 
-    - [Uus MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Alusta-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stopp-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Uus-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start – MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
     - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- [Otsing postkasti cmdlet-](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) käsu Exchange Online PowerShelli.
-- Järgmised toimingud Exchange ' i veebiteenuste API-s:
-    - [Getsearchablepostkastid](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [Setholdonpostkastid](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [Getholdonpostkastid](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- Exchange Online ' i PowerShelli cmdlet [-käsk Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) .
+- Järgmised toimingud Exchange Web Services API-s:
+    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Täpsem eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Täiustatud e-juurdlus v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Pensionile jäämise ajakava**:
-- 1. aprill 2020: te ei saa luua uusi otsinguid ja hoiab, kuid saate endiselt käivitada, redigeerida ja kustutada olemasolevaid otsinguid omal vastutusel. Microsoft support ei toeta enam kohapealse eDiscovery & hoiab EAC.
+- **1. juuli 2020** Uusi otsinguid ja ootelepaneku ei saa enam luua, kuid saate olemasolevaid otsinguid käivitada, redigeerida ja kustutada omal riisikol. Microsoft support ei toeta enam kohapealset e-juurdlust & kuulub EAC-sse.
+    
+- **1. oktoober 2020** Veebipõhine e-juurdlus & omab EAC-s funktsioone, mis kuvatakse kirjutuskaitstud režiimis, et saaksite eemaldada ainult olemasolevad otsingud ja ootelepanekud.
 
-- 1. juuli 2020: kohapealse eDiscovery & hoiab funktsiooni EAC paigutatakse kirjutuskaitstud režiimis. See tähendab, et teil on võimalik eemaldada ainult olemasolevad otsingud ja hoidmised.
+**Lisateavet leiate järgmistest teemadest**.
 
-**Lisateabe saamiseks vaadake**:
-
- - [Migreerimine pärand eDiscovery otsingud ja hoiab Microsoft 365 vastavuse keskus](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Pärand eDiscovery tööriistade pensionile jäämine](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [KKK kohapealse eDiscovery ja kohapealse valda kohta](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Pärandist e-juurdluse otsingute migreerimine ja Microsoft 365 nõuetele vastavuse keskus](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Legacy-e-juurdluse tööriistade kasutuselt kõrvaldamine](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [KKK-kohapealne e-juurdlus ja kohapealne tööpõhimõte](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
