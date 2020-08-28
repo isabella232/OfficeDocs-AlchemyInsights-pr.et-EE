@@ -1,5 +1,5 @@
 ---
-title: Meeskondade vahetused
+title: Töörühmade vahetused
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -10,18 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1686"
+- "6251"
 - "9000161"
-ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0ea563c152f3241e3ce81bad038bd49775ad1d13
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737448"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47289979"
 ---
-# <a name="using-teams-shifts"></a>Meeskondade vahetuste kasutamine
+# <a name="using-teams-shifts"></a>Teamsi vahetuste kasutamine
 
-Lisateavet meeskondade vahetuste kohta (sh Microsofti Personalijaoturilt siirduda) leiate jaotisest [meeskondade vahetused](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
+Lisateavet vahetuste rakenduse haldamise kohta, sh selle kohta, kuidas häälestada vahetustega, lubada kasutajate vahetusi ja hallata rakendust Shifts, leiate järgmistest teemadest.
+ 
+- [Microsoft teamsi jaoks saate hallata oma asutuse vahetuste rakendust](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Organisatsiooni teatud kasutajate jaoks vahetustega lubamine või keelamine](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
 
-31. detsembril 2019 on Microsoft Staffhub [pensionil](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) . 
+Lisateavet meeskondade vahetuste kohta (sh vahetustega ajakava haldamine) leiate teemast [töörühmade vahetused](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+
+**Tõhus juuni 30, 2020**, Microsoft staffhubi on aegunud. Lisateavet leiate teemast [Microsofti staffhubi on aegunud](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
 

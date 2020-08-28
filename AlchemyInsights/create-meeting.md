@@ -1,5 +1,5 @@
 ---
-title: Loo koosolek
+title: Koosoleku plaanimine töörühmades
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 185024e40391b8a03d3cde5540eb1c18a950163c
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105343"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290051"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Koosolekute ajastamine meeskondi
+# <a name="schedule-a-meeting-in-teams"></a>Koosoleku plaanimine töörühmades
 
-**NB**!: kui teil on probleeme luua koosoleku või ei leia koosoleku suvand meeskonnad, veenduge, et mõjutatud kasutaja (s) [on litsentsitud Exchange Online ' i postkasti ja postkasti on lubatud](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
+**Oluline** Kui teil on probleeme koosoleku loomisel või kui te ei leia rühmast koosoleku võimalust, veenduge, et mõjutatud kasutaja (d) on Exchange ' i postkast Microsoft Teamsi toetatud versioonis. Kui Exchange Online ' i on soovitatav, toetatakse kohapealsete postkastide Exchange Server 2016 CU3 või uuemat versiooni, mille OAuthi on veebipõhise ja kohapealse võrgu vahel edukalt konfigureeritud. Lisateavet leiate teemast [kasutajate postkastide loomine Exchange Online ' is](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) ja [asutusesiseselt hallatavatele postkastidele esitatavad nõuded](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
-Koosoleku saate ajastada kahel viisil: 
+1. Koosoleku plaanimiseks saate valida:
 
-- Valige **ajakava koosoleku** ikoon vestlus (see on allpool koostamise kasti) broneerida kohtumine inimestega vestlus.
-- Valige rakenduse vasakus servas **Kalender** ikoon ja valige **Uus koosolek** paremas ülanurgas või valige kalendrisse aeg, et avada planeerimisvorm.
+    - Koosoleku ikooni **kavandamine** vestluses olevate inimestega koosoleku broneerimiseks all olevas vestluses.
 
-Sarnaselt Outlooki koosoleku plaanimisele annate koosoleku pealkirja, kutsute inimesi ja lisate koosolekute üksikasjad.
+    - **Kalendri** ikoon rakenduse vasakus servas. Valige paremas ülanurgas **Uus koosolek** või valige ajakava vormi avamiseks kalendris ajavahemik.
 
-Planeerimisvormi paremal poolel saate lisada kanali või üksikud inimesed või jätta mõlemad tühjaks, et ajastada privaatkohtumise.
+2. Sarnaselt Outlookis koosoleku ajastamisele saate anda koosolekule tiitli, kutsuda inimesi ja lisada koosolekute üksikasju.
 
-- Lisateavet koosolekute loomise ja planeerimise kohta leiate teemast [teamsi koosolek](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+3. Ajastamise vormi paremas servas saate lisada kanali või üksikuid inimesi või jätta nii tühjaks, kui soovite ajastada privaatse kohtumise.
 
-- Koosolekute piirangute ja spetsifikatsioonide kohta vt [Microsoft Teamsi piiranguid ja spetsifikatsioone](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Microsoft Teamsi koosolekute loomise ja ajastamise kohta leiate lisateavet teemast [koosoleku plaanimine töörühmades](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+Lisateavet koosolekute piirangute ja kirjelduste kohta leiate teemast [Microsoft teamsi piirangud ja SPETSIFIKATSIOONID](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+
+Meeskonnatöö ja Exchange ' i suhtluste tõrkeotsing, eriti delegaadi ajastamise probleemide korral, leiate teemast [Microsoft teamsi ja Exchange Serveri suhtluse probleemide tõrkeotsing](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
