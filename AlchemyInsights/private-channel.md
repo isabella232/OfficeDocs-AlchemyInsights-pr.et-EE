@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005434"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316195"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Privaatkanalid Microsoft Teamsi
+# <a name="private-channels-in-microsoft-teams"></a>Microsoft Teamsi privaatsed kanalid
 
-Privaatkanalid on Microsoft Teamsi uus funktsioon. Pange tähele, et privaatseid kanaleid ei saa teisendada standardkanalites ega vastupidi.
+Microsoft Teamsi privaatsed kanalid loovad teie meeskonnas koostööks keskendatud ruumid. Kanalile pääsevad juurde ainult töörühma need kasutajad, kes on erakanali omanikud või liikmed. Erakanali liikmete hulka saab lisada kõiki kasutajaid, sealhulgas külalisi, ehkki nad peavad selleks olema töörühma liikmed.
 
-Privaatkanalite (nt teave [privaatkanalite loomise ja liikmesuse](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ning [privaatkanali SharePointi saitide](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)kohta) üksikasjade kohta vaadake [Microsoft teamsi privaatseid kanaleid](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
+Lisateavet leiate teemast [privaatsed kanalid Microsoft teamsi](https://docs.microsoft.com/MicrosoftTeams/private-channels). See sisaldab teavet (nt [Privaatne kanali loomine ja liikmelisus](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ning [Privaatne kanali SharePointi saidid](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)).
 
-**Märkus:** Kuna privaatkanali sõnumite säilitamise konfiguratsioon ei ole veel toetatud, rentnike Säilituspoliitikad lubatud ei ole privaatne kanalid vaikimisi lubatud. Privaatseid kanaleid saab lubada meeskondade halduskeskuses. Samuti pidage meeles, et kuigi privaatkanalite sõnumite säilitamist ei toetata, toetatakse privaatkanalite ühiskasutusse antud failide säilitamist.
+**Kas vajate uue meeskonna omanikku?**
 
-**Vajad uut meeskonna omanikku?**
+Kui teie era-kanali omanik lahkub teie ettevõttest või eemaldatakse rühmast, edutatakse erasektori kanali omanik automaatselt.
 
-Kui teie privaatkanali omanik lahkub, saate lisada uue meeskonna omaniku meeskondade PowerShelli kaudu.
-
-
-- [siia](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) , et installida meeskonnad PowerShelli.
-
-Siin on cmdlet teil on vaja:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Lisateavet meeskondade PowerShelli kohta leiate jaotisest [Teamsi PowerShelli ülevaade](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+Administraatorid saavad vaadata ka [Microsoft teamsi privaatsete kanalite elutsüklit](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) , et saada lisateavet selle kohta, kes saab luua privaatseid kanaleid ning kuidas aidata luua e-juurdluse või juriidilise isiku jaoks päringuid.
