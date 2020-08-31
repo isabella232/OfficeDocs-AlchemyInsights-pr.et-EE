@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005434"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316195"
 ---
-# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="cfbe8-102">Privaatkanalid Microsoft Teamsi</span><span class="sxs-lookup"><span data-stu-id="cfbe8-102">Private channels in Microsoft Teams</span></span>
+# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="e2bb0-102">Microsoft Teamsi privaatsed kanalid</span><span class="sxs-lookup"><span data-stu-id="e2bb0-102">Private channels in Microsoft Teams</span></span>
 
-<span data-ttu-id="cfbe8-103">Privaatkanalid on Microsoft Teamsi uus funktsioon.</span><span class="sxs-lookup"><span data-stu-id="cfbe8-103">Private channels is a new feature in Microsoft Teams.</span></span> <span data-ttu-id="cfbe8-104">Pange tähele, et privaatseid kanaleid ei saa teisendada standardkanalites ega vastupidi.</span><span class="sxs-lookup"><span data-stu-id="cfbe8-104">Note that private channels cannot be converted from standard channels or vice versa.</span></span>
+<span data-ttu-id="e2bb0-103">Microsoft Teamsi privaatsed kanalid loovad teie meeskonnas koostööks keskendatud ruumid.</span><span class="sxs-lookup"><span data-stu-id="e2bb0-103">Private channels in Microsoft Teams create focused spaces for collaboration within your teams.</span></span> <span data-ttu-id="e2bb0-104">Kanalile pääsevad juurde ainult töörühma need kasutajad, kes on erakanali omanikud või liikmed.</span><span class="sxs-lookup"><span data-stu-id="e2bb0-104">Only the users on the team who are owners or members of the private channel can access the channel.</span></span> <span data-ttu-id="e2bb0-105">Erakanali liikmete hulka saab lisada kõiki kasutajaid, sealhulgas külalisi, ehkki nad peavad selleks olema töörühma liikmed.</span><span class="sxs-lookup"><span data-stu-id="e2bb0-105">Anyone, including guests, can be added as a member of a private channel as long as they are already members of the team.</span></span>
 
-<span data-ttu-id="cfbe8-105">Privaatkanalite (nt teave [privaatkanalite loomise ja liikmesuse](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ning [privaatkanali SharePointi saitide](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)kohta) üksikasjade kohta vaadake [Microsoft teamsi privaatseid kanaleid](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span><span class="sxs-lookup"><span data-stu-id="cfbe8-105">For details about private channels, such as information on [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), see [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> 
+<span data-ttu-id="e2bb0-106">Lisateavet leiate teemast [privaatsed kanalid Microsoft teamsi](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span><span class="sxs-lookup"><span data-stu-id="e2bb0-106">To learn more, start with [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> <span data-ttu-id="e2bb0-107">See sisaldab teavet (nt [Privaatne kanali loomine ja liikmelisus](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ning [Privaatne kanali SharePointi saidid](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)).</span><span class="sxs-lookup"><span data-stu-id="e2bb0-107">This includes information such as [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span></span>
 
-<span data-ttu-id="cfbe8-106">**Märkus:** Kuna privaatkanali sõnumite säilitamise konfiguratsioon ei ole veel toetatud, rentnike Säilituspoliitikad lubatud ei ole privaatne kanalid vaikimisi lubatud.</span><span class="sxs-lookup"><span data-stu-id="cfbe8-106">**Note:** Because configuration for retention of private channel messages is not yet supported, tenants with retention policies enabled will not have private channels enabled by default.</span></span> <span data-ttu-id="cfbe8-107">Privaatseid kanaleid saab lubada meeskondade halduskeskuses.</span><span class="sxs-lookup"><span data-stu-id="cfbe8-107">Private channels can be enabled in the Teams admin center.</span></span> <span data-ttu-id="cfbe8-108">Samuti pidage meeles, et kuigi privaatkanalite sõnumite säilitamist ei toetata, toetatakse privaatkanalite ühiskasutusse antud failide säilitamist.</span><span class="sxs-lookup"><span data-stu-id="cfbe8-108">Also, note that while retention of private channel messages is not supported, retention of files shared in private channels is supported.</span></span>
+<span data-ttu-id="e2bb0-108">**Kas vajate uue meeskonna omanikku?**</span><span class="sxs-lookup"><span data-stu-id="e2bb0-108">**Need a new team owner?**</span></span>
 
-<span data-ttu-id="cfbe8-109">**Vajad uut meeskonna omanikku?**</span><span class="sxs-lookup"><span data-stu-id="cfbe8-109">**Need a new team owner?**</span></span>
+<span data-ttu-id="e2bb0-109">Kui teie era-kanali omanik lahkub teie ettevõttest või eemaldatakse rühmast, edutatakse erasektori kanali omanik automaatselt.</span><span class="sxs-lookup"><span data-stu-id="e2bb0-109">If your private channel owner leaves your organization or is removed from the group, a member of the private channel is automatically promoted to be the private channel owner.</span></span>
 
-<span data-ttu-id="cfbe8-110">Kui teie privaatkanali omanik lahkub, saate lisada uue meeskonna omaniku meeskondade PowerShelli kaudu.</span><span class="sxs-lookup"><span data-stu-id="cfbe8-110">If your private channel owner leaves, you can add a new team owner via Teams Powershell.</span></span>
-
-
-- <span data-ttu-id="cfbe8-111">[siia](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) , et installida meeskonnad PowerShelli.</span><span class="sxs-lookup"><span data-stu-id="cfbe8-111">Go [here](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) to install Teams Powershell.</span></span>
-
-<span data-ttu-id="cfbe8-112">Siin on cmdlet teil on vaja:</span><span class="sxs-lookup"><span data-stu-id="cfbe8-112">Here is the cmdlet you will need:</span></span>
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-<span data-ttu-id="cfbe8-113">Lisateavet meeskondade PowerShelli kohta leiate jaotisest [Teamsi PowerShelli ülevaade](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).</span><span class="sxs-lookup"><span data-stu-id="cfbe8-113">For more information on Teams Powershell, see [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).</span></span>
+<span data-ttu-id="e2bb0-110">Administraatorid saavad vaadata ka [Microsoft teamsi privaatsete kanalite elutsüklit](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) , et saada lisateavet selle kohta, kes saab luua privaatseid kanaleid ning kuidas aidata luua e-juurdluse või juriidilise isiku jaoks päringuid.</span><span class="sxs-lookup"><span data-stu-id="e2bb0-110">Admins can also see [Manage the life cycle of private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) to learn more about policies to manage who can create private channels, as well as ways to help build queries for eDiscovery or legal holds.</span></span>
