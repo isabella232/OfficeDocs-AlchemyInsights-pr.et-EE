@@ -1,5 +1,5 @@
 ---
-title: Ühiskaustadele ei pääse juurde
+title: Ühiskaustu ei saa avada
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891745"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341399"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ei saa ühiskaustadega ühendust luua
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ei saa avalike kaustadega ühendust luua
 
-Kui ühiskausta juurdepääs ei tööta mõned kasutajad, proovige järgmist.
+Kui avalike kaustade juurdepääs mõne kasutaja jaoks ei tööta, proovige teha järgmist.
 
-Ühendage EXO PowerShelli ja konfigureerige DefaultPublicFolderMailbox parameeter probleemi kasutajakonto sobitada parameeter töö kasutajakonto.
+Loo ühendus EKSO PowerShelliga ja konfigureerige probleemsel kasutajakontol parameeter DefaultPublicFolderMailbox, et see vastaks toimiva kasutajakonto parameetritele.
 
-Näide:
+Nt
 
-Get-postkasti WorkingUser | FT DefaultPublicFolderMailbox, Efektivepublicfoldermailbox
+Get-postkast WorkingUser | FT DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
 
-Set-postkasti ProblemUser-DefaultPublicFolderMailbox \<väärtus eelmise käsu>
+Set-postkast ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
 Muudatuse jõustumiseks oodake vähemalt üks tund.
 
-Kui probleem ei ole, Palun järgige [seda toimingut](https://aka.ms/pfcte) ühiskausta juurdepääsu probleemide tõrkeotsinguks Outlooki abil.
+Kui probleem ei lahene, siis järgige [selle toimingu](https://aka.ms/pfcte) abil avalike kaustade Accessi probleemide tõrkeotsingut Outlooki abil.
+ 
+**Outlooki kaudu avalike kaustade juurde pääsemiseks kasutatavate kasutajate kontrollimiseks**tehke järgmist.
+
+1.  Kasuta Set-CASMailbox <mailboxname> -PublicFolderClientAccess $TRUE või $FALSE  
+      
+    $true: Outlookis avalike kaustade juurdepääsu lubamine kasutajatele  
+      
+    $false: Outlookis kasutajate juurdepääsu takistamine avalikesse kaustadesse See on vaikeväärtus.  
+        
+2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+      
+**Märkus** Selle toiminguga saab ühendusi reguleerida ainult Outlooki töölaua Windowsi klientrakendustes. Kasutaja saab jätkata avalike kaustade juurdepääsu OWA või Outlook for Maci kaudu.
+ 
+Lisateavet leiate teemast [Outlookis avalike kaustadesse toetatud ühenduste toe väljakuulutamine](https://aka.ms/controlpf).
