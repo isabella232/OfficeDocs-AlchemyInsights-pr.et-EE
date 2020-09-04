@@ -1,8 +1,8 @@
 ---
-title: Muutke, kui tihti maksate
+title: Tasu maksmise sageduse muutmine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939651"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364583"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="ab511-102">Muutke, kui tihti maksate</span><span class="sxs-lookup"><span data-stu-id="ab511-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="e265b-102">Tasu maksmise sageduse muutmine</span><span class="sxs-lookup"><span data-stu-id="e265b-102">Change how often you pay</span></span>
 
-<span data-ttu-id="ab511-103">Et muuta, kui sageli olete arve ja maksma tellimuse, täitke järgmised sammud Microsoft 365 halduskeskus.</span><span class="sxs-lookup"><span data-stu-id="ab511-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
-1. <span data-ttu-id="ab511-104">Avage **Arveldamine > [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="ab511-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-2. <span data-ttu-id="ab511-105">Leidke tellimus, mida soovite muuta.</span><span class="sxs-lookup"><span data-stu-id="ab511-105">Find the subscription you want to change.</span></span> <span data-ttu-id="ab511-106">Klõpsake jaotises **Arveldamine** , mis on **iga** - **aastaselt**arveldatud või arveldatud, nuppu **Redigeeri**.</span><span class="sxs-lookup"><span data-stu-id="ab511-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
-3. <span data-ttu-id="ab511-107">Valige suvand, kui tihti soovite arve esitada, seejärel klõpsake nuppu **Muuda**.</span><span class="sxs-lookup"><span data-stu-id="ab511-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+<span data-ttu-id="e265b-103">Selleks, et muuta, kui sageli te olete arvestatud ja tasunud tellimuse eest, täitke Microsoft 365 halduskeskus järgmised juhised.</span><span class="sxs-lookup"><span data-stu-id="e265b-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="ab511-108">**Märkus**: igakuine või iga-aastane arveldamine on ainsad valikud.</span><span class="sxs-lookup"><span data-stu-id="ab511-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+1. <span data-ttu-id="e265b-104">Avage **Billing**  >  leht[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.</span><span class="sxs-lookup"><span data-stu-id="e265b-104">Go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="e265b-105">Valige vahekaardil **tooted** tellimus, mida soovite muuta.</span><span class="sxs-lookup"><span data-stu-id="e265b-105">On the **Products** tab, select the subscription that you want to change.</span></span> 
+3. <span data-ttu-id="e265b-106">Valige lehe Tellimuse üksikasjad jaotises **tellimuse ja makse sätted** käsk **Redigeeri arveldamise sagedust**.</span><span class="sxs-lookup"><span data-stu-id="e265b-106">On the subscription details page, in the **Subscription and payment settings** section, select **Edit billing frequency**.</span></span>
+4. <span data-ttu-id="e265b-107">Valige paanil **arvelduse sageduse muutmine** shoose suvand, kui sageli soovite arveldada, ja seejärel valige **Muuda**.</span><span class="sxs-lookup"><span data-stu-id="e265b-107">In the **Edit billing frequency** pane, shoose the option for how often you want to be billed, then select **Change**.</span></span>
 
-<span data-ttu-id="ab511-109">Lisateavet leiate teemast [maksesageduse muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="ab511-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>
+<span data-ttu-id="e265b-108">**Märkus**: iga kuu või iga-aastane arveldamine on ainuke võimalus.</span><span class="sxs-lookup"><span data-stu-id="e265b-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="e265b-109">Lisateavet vaadake teemast [Arveldussageduse muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span><span class="sxs-lookup"><span data-stu-id="e265b-109">For more info, see [Change your billing frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span></span>
