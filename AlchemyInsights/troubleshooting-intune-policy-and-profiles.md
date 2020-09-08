@@ -1,5 +1,5 @@
 ---
-title: Intune ' i poliitika ja profiilide tõrkeotsing
+title: Intune ' i poliitikate ja profiilide tõrkeotsing
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766669"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406286"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Intune ' i poliitika ja profiilide tõrkeotsing
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Intune poliitika ja profiilide tõrkeotsing
 
-Olemasolevate poliitikate vaatamiseks, konfliktide tõrkeotsinguks, logiandmete läbivaatamiseks ja levinud küsimuste ja probleemide vaatamiseks võivad abiks olla järgmised juhendid.
+Olemasolevate poliitikate vaatamiseks, konfliktide tõrkeotsinguks, Logi andmete vaatamiseks ja levinud küsimuste ja probleemide lahendamiseks võib abi olla järgmistest juhistest.
 
-- [Intune ' i poliitikate ja profiilide tõrkeotsing](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Poliitikate ja profiilide tõrkeotsing Intune ' is](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Levinud küsimused, probleemid ja lahendused seadmepoliitikate ja profiilidega Intune ' is](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Levinumad küsimused, probleemid ja resolutsioonid seadme poliitikate ja profiilidega Intune ' is](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Monitor seadme Konfiguratsiooniprofiilid ja vaadata konflikte Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Seadme konfigureerimise profiilide jälgimine ja vastuolude kuvamine Intune-is](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Seadme vastavuse ja tingimusjuurdepääsu tõrkeotsing Intune ' is](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Seadme nõuetele vastavuse ja tingimusliku juurdepääsu tõrkeotsing Intune ' is](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Jälgida vastavuspoliitikat ja vaadata konflikte Intune ' is](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Kontrolli nõuetele vastavuse põhimõtteid ja Kuva konflikte intunes](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Saada Intune Logi andmeid Azure Storage, sündmuste jaoturid või logi analüüs](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Saada Intune ' i Logi andmed Azure Storage, Event jaoturid või log Analytics](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Vaadake ülevaadet [seadmete konfigureerimiseks](https://docs.microsoft.com/intune/device-profiles) või [Kasutage vastavuspoliitikaid](https://docs.microsoft.com/intune/device-compliance-get-started).
+Vaadake ülevaadet [seadmete konfigureerimiseks](https://docs.microsoft.com/intune/device-profiles) või [nõuetele vastavuse poliitikate kasutamiseks](https://docs.microsoft.com/intune/device-compliance-get-started).
