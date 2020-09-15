@@ -1,11 +1,12 @@
 ---
-title: Kuidas kontrollida oma Outlook.com konto
+title: Outlook.com konto kinnitamine
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743413"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694235"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Kuidas kontrollida oma Outlook.com konto
+# <a name="how-to-verify-your-outlookcom-account"></a>Outlook.com konto kinnitamine
 
-Kaheastmeline kontrollimine aitab teid kaitsta, muutes kellegi teisega Microsofti kontole sisselogimiseks raskemaks. See kasutab kaht erinevat tüüpi identiteeti: teie parool ja kontaktimeetod (tuntud ka kui turbeteave).
+Kaheastmeline kontrollimine aitab teid kaitsta, muutes kellegi teise oma Microsofti kontole sisselogimiseks keerulisemaks. See kasutab kaht eri tüüpi identiteeti: teie parool ja kontaktteave (tuntud ka kui turbeteave).
   
-Kaheastmelise kontrollimise sisse-või väljalülitamine:
+Kaheastmelise kinnitamise sisselülitamiseks tehke järgmist.
   
-1. [lehele turvalisuse põhitõed](https://go.microsoft.com/fwlink/?linkid=842325) ja logige sisse oma Microsofti kontoga.
-2. Valige **rohkem turvasuvandid**.
-3. Tehke jaotises **kaheastmeline kontrollimine**valik **Seadista kaheastmeline kontroll** ja järgige juhiseid.
+1. Avage [leht turvalisuse põhitõed](https://go.microsoft.com/fwlink/?linkid=842325) ja logige sisse oma Microsofti kontoga.
+2. Valige **veel turvameetmeid**.
+3. Märkige jaotises **kaheastmeline kinnitamine**ruut **Häälesta kaheastmeline kinnitamine** ja täitke kuvatavad juhised.
 
-Kui lülitate sisse kaheastmelise kontrolli, on teil alati vaja kaht identifitseerimisvormi. Kui kaotate oma kontaktimeetodi, ei saa teie parool üksi teie kontole tagasi ja see võib teile juurdepääsu taastamiseks kuluda 30 päeva.
+Kui lülitate kaheastmelise kontrollimise ette, vajate alati kahte tüüpi isikut. Kui kaotate oma kontaktteabe, ei saa teie parool üksi teie kontole tagasi minna – ja see võib võtta 30 päeva jooksul juurdepääsu.
   
-Lisateave [kaheastmelise kontrollimise](https://go.microsoft.com/fwlink/?linkid=872270)kohta.
+Lugege lisateavet [kaheastmelise kontrollimise](https://go.microsoft.com/fwlink/?linkid=872270)kohta.
   
