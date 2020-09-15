@@ -1,27 +1,28 @@
 ---
-title: Microsofti voo väline ühiskasutus
+title: Microsoft Streami väline ühiskasutus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2d6831cfc8a35b8c7dc698ff57909fc024aa2691
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600524"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675221"
 ---
-# <a name="microsoft-stream-external-sharing"></a>Microsofti voo väline ühiskasutus
+# <a name="microsoft-stream-external-sharing"></a>Microsoft Streami väline ühiskasutus
 
-Microsoft Stream ei toeta veel väliseid ühiskasutuse stsenaariume külaliste või inimeste jaoks väljaspool teie organisatsiooni. Me teame, et need funktsioonid on väga vajalik, ja me töötame plaanid, kuidas ehitada neid funktsioone.
+Microsoft Stream ei toeta veel väliste ühiskasutuse stsenaariume külaliste või inimeste jaoks, kes pole teie ettevõttest väljas. Teame, et need funktsioonid on väga vajalikud ja me töötame nende funktsioonide loomise lepingute kallal.
 
-- [Väline ühiskasutus voos](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
+- [Väline ühiskasutus Streamis](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Videote jagamine Microsoft Stream-is](https://docs.microsoft.com/stream/portal-share-video)
+- [Videote ühiskasutusse andmine Microsoft Streamis](https://docs.microsoft.com/stream/portal-share-video)

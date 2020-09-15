@@ -1,27 +1,28 @@
 ---
-title: Microsoft Teamsi ettevalmistav kogemus
+title: Microsoft Teamsi uurimusliku kogemus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612343"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674934"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teamsi ettevalmistav kogemus
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teamsi uurimusliku kogemus
 
-Microsoft Teamsi ettevalmistav kogemus võimaldab kasutajatel oma organisatsiooni, kellel on Azure Active Directory (AAD) ja ei ole litsentseeritud meeskonnad algatada uurimuslik kogemus meeskonnad. Administraatorid saavad selle funktsiooni oma organisatsioonis kasutajatele sisse või välja lülitada. (Varasem Microsoft Commercial Cloud prooviversiooni nimetatakse nüüd meeskonnad ettevalmistav kogemus.)
+Microsoft Teamsi ettevalmistav kogemus võimaldab teie ettevõtte kasutajatel, kellel on Azure Active Directory (AAD) ja kellel pole litsentsi Teamsi jaoks, algatada töörühma ettevalmistavat kogemust. Administraatorid saavad selle funktsiooni oma asutuses kasutajate jaoks sisse või välja lülitada. (Varasem Microsoft Commercial Cloud Trial on nüüd nimeks Teamsi ettevalmistav kogemus.)
 
-Microsoft Teamsi ettevalmistav kogemus on saadaval ilma lisakuluta kuni järgmise ettevõtte lepingu aastapäevani või uuendamisel jaanuaris 2021. Sel ajal on Microsoft ettevalmistava kogemuse litsentsiga lõppkasutajatele vaja liikuda tasulise litsentsiga, mis sisaldab meeskondi.
+Microsoft Teamsi uurimusliku kogemus on saadaval ilma lisakuludeta kuni järgmise ettevõtte lepingu aastapäeva või pikendamiseni jaanuaris 2021. Sel ajal peavad Microsoft uurimusliku kasutuskogemuse litsentsi lõppkasutajad minema töörühmale kaasa makstud litsentsile.
 
-Lisateabe saamiseks vaadake teemat [Microsoft Teams ettevalmistava litsentsi haldamine](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+Lisateavet leiate teemast [Microsoft teamsi uurimusliku litsentsi haldamine](https://docs.microsoft.com/microsoftteams/teams-exploratory/).

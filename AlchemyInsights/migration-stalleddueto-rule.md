@@ -1,24 +1,25 @@
 ---
-title: 973 Migreerimise seiskunudDueTo* reegel
+title: 973 migreerimise StalledDueTo * reegel
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 8ee0bc2230f013f4bf38ad29bbcde217165ba71e
-ms.sourcegitcommit: 5eb4fad2edc1d15b961ec1e46ef78b39175dffed
+ms.openlocfilehash: 5c1127878dfe2c4a2c79712eceaa9181e95c794a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45167701"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674142"
 ---
-# <a name="stalleddueto-errors-during-migration"></a>StalledDueTo tõrked migreerimise ajal
+# <a name="stalleddueto-errors-during-migration"></a>StalledDueTo migreerimise ajal
 
-Võite näha erinevaid vigu, mis algavad sõnadega "StalledDueTo..." exchange Online'i migreerimise ajal. Paljud neist vigadest on täiesti normaalne. Lisateavet vt teemast [Resource Based ahendamine ja prioritiseerimine Exchange Online'i migreerimistes](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).
+Võidakse kuvada mitmesugused tõrked, mis algavad sõnadega "StalledDueTo..." migreerimise ajal Exchange Online ' i. Paljud neist vigadest on täiesti normaalsed. Lisateavet leiate teemast [ressurssidele põhinev ahendamine ja prioriteetide määramine Exchange Online ' i migreerimisel](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).

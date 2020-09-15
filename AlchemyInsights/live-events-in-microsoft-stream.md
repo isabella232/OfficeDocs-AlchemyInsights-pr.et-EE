@@ -1,27 +1,28 @@
 ---
-title: Live sündmused Microsoft Stream
+title: Microsoft Streami reaalajas sündmused
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: 41bbec42eeaba3545937700eee23573879133644
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: ee67c5ccd7c8745785ef8a04bab535cbb6416995
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44015721"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675510"
 ---
-# <a name="live-events-in-microsoft-stream"></a>Live sündmused Microsoft Stream
+# <a name="live-events-in-microsoft-stream"></a>Microsoft Streami reaalajas sündmused
 
-Saate luua Live sündmusi, kasutades Microsoft Stream kogu organisatsioonis. Saate planeerida, toota ja pakkuda live sündmused erinevaid stsenaariume, nagu kogu ettevõtte sündmused, juhtide uuendused, ja palju muud.
+Microsoft Streami abil saate luua reaalajas sündmusi kogu ettevõttes. Reaalajas sündmusi saate kavandada, koostada ja edastada mitmesuguste stsenaariumide jaoks (nt kogu ettevõttele mõeldud sündmused, Leadership updateid jne).
 
-- [Microsoft Stream Live sündmuse loomine](https://docs.microsoft.com/stream/live-create-event)
-- [Microsoft Teamsi reaalajas sündmuste alustamine](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
-- [Microsoft Stream live streaming kodeerijad konfigureerimine](https://docs.microsoft.com/stream/live-encoder-setup)
+- [Microsoft Streamis Live ' i sündmuse loomine](https://docs.microsoft.com/stream/live-create-event)
+- [Microsoft Teamsi reaalajas sündmuste kasutamise alustamine](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+- [Microsoft Streamis reaalajas voogesituse jaoks kodeerijate konfigureerimine](https://docs.microsoft.com/stream/live-encoder-setup)
