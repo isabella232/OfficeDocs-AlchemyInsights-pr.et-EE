@@ -1,31 +1,32 @@
 ---
 title: Profiili sünkroonimine
-ms.author: arnek
-author: arnek
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: dc6e0280961d14aa3e6bd466afbe0cbe89418d17
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768109"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801765"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a><span data-ttu-id="87937-102">Millal muudab profiil SharePointi kasutajaprofiili rakenduse sünkroonimist?</span><span class="sxs-lookup"><span data-stu-id="87937-102">When do my profile changes sync to the SharePoint User Profile Application?</span></span>
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a><span data-ttu-id="cd7a5-102">Millal muutub profiili sünkroonimine SharePointi kasutajaprofiili rakendusega?</span><span class="sxs-lookup"><span data-stu-id="cd7a5-102">When do my profile changes sync to the SharePoint User Profile Application?</span></span>
 
-<span data-ttu-id="87937-103">SharePoint Online kasutab Active Directory importimine ajastitöö (AD import) kasutajate ja rühmade importimiseks kasutajaprofiili rakendusse.</span><span class="sxs-lookup"><span data-stu-id="87937-103">SharePoint Online uses the Active Directory Import timer job (AD Import) to import users and groups into the User Profile Application.</span></span> 
+<span data-ttu-id="cd7a5-103">SharePoint Online kasutab kasutajate ja rühmade importimiseks kasutajaprofiili rakendusse Active Directory importimise ajastitöö (AD import).</span><span class="sxs-lookup"><span data-stu-id="cd7a5-103">SharePoint Online uses the Active Directory Import timer job (AD Import) to import users and groups into the User Profile Application.</span></span> 
   
-1. <span data-ttu-id="87937-104">AD impordi sünkroonib muudatused SharePoint Online ' i Kataloogipoest kasutajaprofiili rakendus.</span><span class="sxs-lookup"><span data-stu-id="87937-104">AD Import syncs changes from the SharePoint Online Directory Store to the User Profile Application.</span></span> <span data-ttu-id="87937-105">Neid muudatusi töödeldakse partiidena.</span><span class="sxs-lookup"><span data-stu-id="87937-105">These changes are processed in batches.</span></span>
+1. <span data-ttu-id="cd7a5-104">AD import sünkroonib SharePoint Online ' i kataloogiteenuse muudatused kasutajaprofiili rakendusse.</span><span class="sxs-lookup"><span data-stu-id="cd7a5-104">AD Import syncs changes from the SharePoint Online Directory Store to the User Profile Application.</span></span> <span data-ttu-id="cd7a5-105">Neid muudatusi töödeldakse partiidena.</span><span class="sxs-lookup"><span data-stu-id="cd7a5-105">These changes are processed in batches.</span></span>
     
-2. <span data-ttu-id="87937-106">Ajastitöö töötab seni, kuni muudatused sünkroonitakse.</span><span class="sxs-lookup"><span data-stu-id="87937-106">The timer job runs until the changes are synced.</span></span>
+2. <span data-ttu-id="cd7a5-106">Ajastitöö töötab kuni muudatuste sünkroonimiseni.</span><span class="sxs-lookup"><span data-stu-id="cd7a5-106">The timer job runs until the changes are synced.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="87937-107">Töö käivitamiseks kuluv aeg sõltub protsessi muutuste arvust.</span><span class="sxs-lookup"><span data-stu-id="87937-107">The time it takes the job to run depends on the number of changes to process.</span></span> <span data-ttu-id="87937-108">Suur hulk muudatusi võtab kauem aega.</span><span class="sxs-lookup"><span data-stu-id="87937-108">A large number of changes takes longer.</span></span> <span data-ttu-id="87937-109">Teenusetaseme leping (SLA) teatab, et kasutaja SharePoint Online ' i kataloogi muutmine kajastub kasutajaprofiili rakenduse 24 tunni jooksul.</span><span class="sxs-lookup"><span data-stu-id="87937-109">The Service Level Agreement (SLA) states that a change to a user in the SharePoint Online Directory will be reflected in the User Profile Application in 24 hours.</span></span> 
+> <span data-ttu-id="cd7a5-107">Töö käivitamise aeg sõltub protsessi muudatuste arvust.</span><span class="sxs-lookup"><span data-stu-id="cd7a5-107">The time it takes the job to run depends on the number of changes to process.</span></span> <span data-ttu-id="cd7a5-108">Suur hulk muudatusi võtab kauem aega.</span><span class="sxs-lookup"><span data-stu-id="cd7a5-108">A large number of changes takes longer.</span></span> <span data-ttu-id="cd7a5-109">Teenuse taseme leping (SLA) täpsustab, et SharePoint Online ' i kataloogis oleva kasutaja muudatus kajastub kasutajaprofiili rakenduses 24 tunni jooksul.</span><span class="sxs-lookup"><span data-stu-id="cd7a5-109">The Service Level Agreement (SLA) states that a change to a user in the SharePoint Online Directory will be reflected in the User Profile Application in 24 hours.</span></span> 
   
-[<span data-ttu-id="87937-110">Rohkem infot Kasutajaprofiili sünkroonimise kohta SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="87937-110">More info about user profile sync in SharePoint Online</span></span>](https://go.microsoft.com/fwlink/?linkid=875671)
+[<span data-ttu-id="cd7a5-110">Lisateavet Kasutajaprofiili sünkroonimise kohta SharePoint Online ' is</span><span class="sxs-lookup"><span data-stu-id="cd7a5-110">More info about user profile sync in SharePoint Online</span></span>](https://go.microsoft.com/fwlink/?linkid=875671)
   
 
