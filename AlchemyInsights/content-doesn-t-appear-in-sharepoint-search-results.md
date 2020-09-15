@@ -1,36 +1,37 @@
 ---
-title: Sisu ei kuvata SharePointi otsingutulemustes
+title: SharePointi otsingutulemustes ei esine sisu
 ms.author: tlarsen
 author: tklarsen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: a21e0047b41390f740f9e13d31cba32b13990151
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a57711434d653f5d5667776916c9251bba2370e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705657"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713126"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Sisu ei kuvata SharePointi otsingutulemustes
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>SharePointi otsingutulemustes ei esine sisu
 
-Järgige neid tõrkeotsingujuhiseid, kui oodatud sisu ei kuvata otsingutulemustes:
+Järgige neid tõrkeotsingujuhiseid, kui oodatud sisu ei kuvata otsingutulemites.
   
-1. Veenduge, et **sait** , mis sisaldab eeldatav sisu on seatud lubama sisu ilmuma otsingutulemustes. Järgige juhiseid [Kuva sisu saidi otsingutulemustes](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Veenduge, et oodatud sisu sisaldav **sait** oleks seatud lubama sisu otsingutulemites. Järgige kuvatavaid juhiseid [saidi sisu kuvamiseks otsingutulemites](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
 
-2. Veenduge, et **loendi** või **teegi** , mis sisaldab eeldatav sisu on seatud lubama sisu ilmuma otsingutulemustes. Järgige [otsingutulemustes olevate loendite või teekide sisu kuvamine](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. Kontrollige, kas **loend** või **Teek** , mis sisaldab oodatud sisu, on seatud lubama sisu otsingutulemites kuvada. Järgige juhiseid jaotises [otsingutulemite loenditest või teekidest sisu kuvamine](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
 
-3. Veenduge, et leht, dokument või kohandatud küljendus on avaldatud **peamise versioonina.** Järgige samm 3 [otsing ei tagasta kõik tulemused SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
+3. Veenduge, et leht, dokument või kohandatud leheküljend oleks avaldatud **põhiversiooni.** Jälgige, et [otsingus toodud juhised ei tagastaks SharePoint Online ' is kõiki tulemeid](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Veenduge, et kasutajal on **õigused** sisu vaatamiseks. Järgige juhiseid [SharePointi õiguste tasemete mõistmine](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. Veenduge, et kasutajal on sisu vaatamise **õigus** . Järgige [SharePointi õiguste tasemete mõistmise](https://docs.microsoft.com/sharepoint/understanding-permission-levels)juhiseid.
     
-5. Kui otsinguskeemi on muudetud, lisades uue hallatava atribuudi, redigeerides Hallatava atribuudi või eemaldades Hallatava atribuudi, nõutakse analüüsi ja uuesti indekseerimise taotlemist. **Uuesti indekseerida** sisu, järgides juhiseid [käsitsi taotluse analüüsimine ja uuesti indekseerimine saidi, teegi või loendi](https://docs.microsoft.com/sharepoint/crawl-site-content). See võib aega võtta, oodake 24 tundi enne tulemuste kontrollimist.
+5. Kui otsingu skeemi on muudetud, kui lisate uue hallatava atribuudi, redigeerides hallatavat atribuuti või eemaldades Hallatava atribuudi, nõutakse siis analüüsi ja uuesti indekseerimise taotlemist. **Indekseerige sisu uuesti** , järgides juhiseid, mis on esitatud [käsitsi, kui taotlete selle saidi, teegi või loendi indekseerimist ja uuesti indekseerimist](https://docs.microsoft.com/sharepoint/crawl-site-content). See võib aega võtta, oodake enne tulemuste kontrollimist 24 tundi.
 
-Lisateabe saamiseks vaadake [Luba saidi sisu on otsitav](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+Lisateavet leiate teemast [saidil oleva sisu otsimine](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   

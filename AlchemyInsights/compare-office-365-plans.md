@@ -1,11 +1,12 @@
 ---
-title: Võrdle Microsofti tellimusi
+title: Microsofti tellimuste võrdlus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 060d72e059188f0bda094eeb174b5f7071a9f9c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44058423"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713703"
 ---
-# <a name="compare-upgrade-or-purchase-subscriptions"></a>Kordustellimuste võrdlemine, uuendamine või ostmine
+# <a name="compare-upgrade-or-purchase-subscriptions"></a>Tellimuste võrdlemine, täiustamine või ostmine
   
-Tellimused on saadaval [ettevõtte](https://products.office.com/compare-all-microsoft-office-products?tab=2)ja [ettevõtte tasandil ettevõtetele](https://products.office.com/business/compare-more-office-365-for-business-plans). Lisaks on Microsoft 365 kättesaadav [akadeemilistele institutsioonidele](https://products.office.com/academic/compare-office-365-education-plans), [valitsusorganisatsioonidele](https://products.office.com/government/compare-office-365-government-plans)ja [mittetulundusühinguile](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
+Paketid on [saadaval ettevõtetele ja](https://products.office.com/compare-all-microsoft-office-products?tab=2) [Enterprise Level ettevõtetele](https://products.office.com/business/compare-more-office-365-for-business-plans). Lisaks on Microsoft 365 saadaval [akadeemiliste institutsioonide](https://products.office.com/academic/compare-office-365-education-plans), [valitsusasutuste](https://products.office.com/government/compare-office-365-government-plans)ja [mittetulundusühingute](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)jaoks.
   
-Kui teie organisatsioon on huvitatud kõigi plaanide ja hinnakujundust võrdlemisest, vaadake üle [Kõik kordustellimused](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Kui teie ettevõte on huvitatud kõigi lepingute ja hindade võrdlusest, lugege läbi [kõigi tellimuste võrdlus](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Kui teie organisatsioon on juba ostnud tellimusi ja on huvitatud muutumisest teise plaani saate seda teha Microsoft 365 halduskeskus. lehele toodete **Arveldamine** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) , valige tellimus, mida soovite muuta, seejärel valige **uuendamise** vahekaart, et vaadata saadaolevate uute plaanide loendit.
+Kui teie ettevõte on juba ostnud pakette ja on huvitatud mõne muu plaani muutmisest, mida saate teha Microsoft 365 halduskeskus. Avage leht **Arveldamine** \> [oma tooted](https://go.microsoft.com/fwlink/p/?linkid=842054) , valige tellimus, mida soovite muuta, ja valige siis vahekaart **uuendus** , et vaadata saadaolevate uute lepingute loendit.
   
-Samuti saab teie organisatsioon kombineerida ja sobitada tellimusi, et rahuldada kasutajate vajadusi ja funktsioonivajadusi. administreerimiskeskusest lehele **arveldamise** \> [Ostuteenused](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+Teie asutus saab ka kombineerida ja sobitada tellimusi kasutajate vajaduste ja funktsioonide nõuetele vastamiseks. Avage administreerimiskeskuses leht **arvelduse** \> [ostmise teenused](https://go.microsoft.com/fwlink/p/?linkid=868433) .

@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715110"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712324"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Dokumenditeegist väljamöllimise hülgamine
+# <a name="discard-a-check-out-from-a-document-library"></a>Väljamöllimise hülgamine dokumenditeegis
 
-1. Paremklõpsake faili, mille väljamöllimise soovite hüljata.
+1. Paremklõpsake pilti, mille väljamöllimist soovite hüljata.
     
-2. Klõpsake nuppu **veel**ja seejärel klõpsake nuppu **Hülga**väljamöllimise. 
+2. Klõpsake nuppu **rohkem**ja seejärel käsku **Hülga väljamöllimine**. 
     
-3. Klõpsake dialoogiboksist **Loobu** väljamöllimise tühjendamiseks. 
+3. Väljamöllimise tühistamiseks klõpsake dialoogiboksis nuppu **Hülga väljamöllimine** . 
     
-Lisateabe saamiseks sisse-ja väljaregistreemiküsimuste kohta vaadake teemat [Top küsimused väljaregistreerimine, sisse-ja versioonid](https://go.microsoft.com/fwlink/?linkid=2018786).
+Lisateavet sisse-ja väljamöllimise kohta leiate teemast [peamised küsimused väljamöllimise, sissemöllimise ja versioonide kohta](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

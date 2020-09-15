@@ -6,38 +6,38 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 1ec8959a479f1a8f7bfcffb55f440e8c4ab435fb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507510"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712180"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP võib vajada kohandatud tüüpi
 
 **Tähtis**! Nende enneolematude aegade jooksul võtame kasutusele meetmed, et säilitada SharePoint Online’i ja OneDrive’i teenuste hea kättesadavus. Lisateabe saamiseks vaadake teemat [SharePoint Online’i ajutised funktsioonide muudatused](https://aka.ms/ODSPAdjustments).
 
-**DLP võib nõuda kohandatud teabe tüüp**
+**DLP võib nõuda kohandatud teabe tüüpi**
 
-Andmete kadu vältimine (DLP) poliitika, saate tuvastada ja kaitsta tundliku loomuga andmeid oma organisatsioonis. Mõnel juhul peate võib-olla looma oma **kohandatud** tundliku teabe tüübi, et kaitsta oma organisatsiooni andmeid.
+Andmete kaotsimineku vältimise (DLP) poliitika abil saate oma ettevõttes tuvastada ja kaitsta tundlikke andmeid. Mõne stsenaariumi korral peate oma asutuse andmete kaitsmiseks võib-olla looma **kohandatud** tundliku teabe tüübi.
 
-Näiteks võib teie organisatsioonil olla vaja tuvastada ja kaitsta töötaja ID-sid või muid andmeid mõnes teie organisatsioonile eriomas vormingus. Kui jah, lugege lisateabe saamiseks järgmisi artikleid.
+Näiteks võib teie asutusel olla vaja tuvastada ja kaitsta töötajate ID-sid või muid andmeid mõnes teie organisatsioonis olevas vormingus. Kui jah, leiate lisateavet järgmistest artiklitest.
   
- **Sisseehitatud tundliku teabe tüübi kohandamine**
+ **Sisemise tundliku teabe tüübi kohandamine**
   
-Kui sisseehitatud tundlik teabetüüp rahuldaks teie vajadused vaid mõne tweaks, saate [kohandada sisseehitatud tundliku teabe tüüpi](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Näiteks saate märksõnu lisada või eemaldada või lisada või eemaldada täiendavaid tõendeid (nt kuupäev või aadress).
+Kui sisseehitatud tundliku teabe tüüp vastab teie vajadustele vaid mõne tweaks, saate [kohandada sisseehitatud tundliku teabe tüüpi](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Näiteks saate märksõnu lisada või eemaldada või lisada või eemaldada tõendusmaterjale (nt kuupäev või aadress).
   
  **Kohandatud tundliku teabe tüübi loomine**
   
-Kuid kui teil on vaja tuvastada ja kaitsta erinevat tüüpi tundlikku teavet, saate [luua kohandatud tundliku teabe tüübi](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) Security & vastavuse keskus UI.
+Kui teil on vaja tuvastada ja kaitsta erinevat tüüpi tundlikku teavet, saate luua turbe & nõuetele vastavuse keskuse KASUTAJALIIDESes [kohandatud tundliku teabe tüübi](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) .
   
-**Luua kohandatud tundliku teabe tüüp Security & vastavuse keskus PowerShelli**
+**Kohandatud tundliku teabe tüübi loomine turbe & nõuetele vastavuse keskuses PowerShell**
 
-Lõpuks, kui UI ei paku kõik vajalikud suvandid, saate [luua kohandatud tundliku teabe tüüp Security & vastavuse keskus PowerShelli](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Alustades XML-failist, saate kasutada igat saadaolevat suvandit.
+Kui kasutajaliides ei paku kõiki vajalikke suvandeid, saate [turvalisuse & täitmise keskuses PowerShell luua kohandatud tundliku teabe tüübi](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Alustades XML-failiga, saate kasutada kõiki saadaolevaid võimalusi.

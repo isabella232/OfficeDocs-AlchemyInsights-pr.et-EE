@@ -1,9 +1,10 @@
 ---
-title: Ühiskasutusega postkasti loomine ja kasutamine
+title: Ühiskasutuses postkasti loomine ja kasutamine
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
@@ -11,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507654"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712657"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Ühiskasutusega postkasti loomine ja kasutamine
+# <a name="create-and-use-a-shared-mailbox"></a>Ühiskasutuses postkasti loomine ja kasutamine
 
-Ühiskasutusse antud postkasti võimaldab rohkem kui ühe isiku saata ja vastu võtta e-posti alias, nagu sales@contoso.com, ilma teise litsentsi määramist.
+Ühiskasutuses postkastis saab pseudonüümi (nt sales@contoso.com) jaoks saata ja vastu võtta rohkem kui üks inimene, kes ei määra muud litsentsi.
   
-- Microsoft 365 halduskeskus alustamiseks toimige [järgmiselt](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) . 
+- Alustamiseks [järgige neid juhiseid](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) Microsoft 365 halduskeskus. 
 
-Samuti saate lugeda [luua ühiskasutusse antud postkasti](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) artikkel, mis ütleb teile kõik, mida peate teadma ühiskasutusega postkastid, sealhulgas kuidas neid kasutada.
+Samuti saate lugeda [ühiskasutuses oleva postkasti loomise](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) artiklit, mis ütleb teile kõik, mida soovite ühiskasutuses postkastide kohta teada anda, ja kuidas neid kasutada.
   
