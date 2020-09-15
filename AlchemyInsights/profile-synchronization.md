@@ -1,31 +1,32 @@
 ---
 title: Profiili sünkroonimine
-ms.author: arnek
-author: arnek
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: dc6e0280961d14aa3e6bd466afbe0cbe89418d17
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768109"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801765"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Millal muudab profiil SharePointi kasutajaprofiili rakenduse sünkroonimist?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Millal muutub profiili sünkroonimine SharePointi kasutajaprofiili rakendusega?
 
-SharePoint Online kasutab Active Directory importimine ajastitöö (AD import) kasutajate ja rühmade importimiseks kasutajaprofiili rakendusse. 
+SharePoint Online kasutab kasutajate ja rühmade importimiseks kasutajaprofiili rakendusse Active Directory importimise ajastitöö (AD import). 
   
-1. AD impordi sünkroonib muudatused SharePoint Online ' i Kataloogipoest kasutajaprofiili rakendus. Neid muudatusi töödeldakse partiidena.
+1. AD import sünkroonib SharePoint Online ' i kataloogiteenuse muudatused kasutajaprofiili rakendusse. Neid muudatusi töödeldakse partiidena.
     
-2. Ajastitöö töötab seni, kuni muudatused sünkroonitakse.
+2. Ajastitöö töötab kuni muudatuste sünkroonimiseni.
     
 > [!NOTE]
-> Töö käivitamiseks kuluv aeg sõltub protsessi muutuste arvust. Suur hulk muudatusi võtab kauem aega. Teenusetaseme leping (SLA) teatab, et kasutaja SharePoint Online ' i kataloogi muutmine kajastub kasutajaprofiili rakenduse 24 tunni jooksul. 
+> Töö käivitamise aeg sõltub protsessi muudatuste arvust. Suur hulk muudatusi võtab kauem aega. Teenuse taseme leping (SLA) täpsustab, et SharePoint Online ' i kataloogis oleva kasutaja muudatus kajastub kasutajaprofiili rakenduses 24 tunni jooksul. 
   
-[Rohkem infot Kasutajaprofiili sünkroonimise kohta SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Lisateavet Kasutajaprofiili sünkroonimise kohta SharePoint Online ' is](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

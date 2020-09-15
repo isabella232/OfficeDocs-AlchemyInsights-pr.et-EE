@@ -1,30 +1,31 @@
 ---
-title: Prindispuuleri probleem on lahendatud
+title: Prindispuuleri probleemi lahendamine
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 53b1c9a8efa3cc978af8b602c8ed90430042186a
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088335"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801837"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Prindispuuleri probleem on lahendatud
+# <a name="print-spooler-issue-is-resolved"></a>Prindispuuleri probleemi lahendamine
 
-Kui teie seadet värskendati operatsioonisüsteemiga Windows 10 **OS Build 19041.329,** võib olla täheldatud probleemi, mille puhul teatud printerid ei saa printida. Prindispuuleri võib visata tõrge või sulgeda ootamatult printimise katsel ja väljund pärineb mõjutatud printer. See probleem on lahendatud operatsioonisüsteemi järk **19041.331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Kui teie seadmesse on uuendatud Windows 10  **OS järk 19041,329**, on võimalik, et olete täheldanud probleemi, mille korral teatud printerid ei prindi. Prindispuuler võib printimise katsel tõrke või ootamatult sulguda, kuid see ei pärine enam mõjutatud printerist. See probleem on lahendatud opsüsteemis OS järk  **19041,331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
 
 **Käimasolev uurimine**
 
-Local Security Authority subsystem service (LSASS) faili** (Isass.exe**) võib nurjuda mõned seadmed tõrketeatega "Kriitiline süsteemiprotsess, C:\WINDOWS\system32\Isass.exe, nurjus olekukood c0000008. Masin tuleb nüüd taaskäivitada".  **Microsoft töötab lahendusega ja pakub värskendust tulevases väljaandes.**
+Kohaliku julgeolekuasutuse alamsüsteemi teenuse (LSASS) fail (**Isass.exe**) võib teatud seadmetes nurjuda, kuna tõrketeade "kriitiline süsteem, C:\WINDOWS\system32\Isass.exe, nurjus olekukood c0000008. Arvuti tuleb nüüd taaskäivitada ".  **Microsoft töötab eraldusvõimega ja annab eelseisval väljalaskel värskenduse.**
 
-Lisateabe saamiseks vaadake [Windows 10 versiooni 2004 teadaolevad probleemid](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).
+Lisateavet leiate teemast  [Windows 10 versiooni 2004 teadaolevad probleemid](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).

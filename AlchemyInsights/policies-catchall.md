@@ -1,34 +1,35 @@
 ---
-title: Poliitika katchall
+title: Poliitikate catchall
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e5d08462e8662fa1651ad81235d0efd5fc4bac58
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765529"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721290"
 ---
-# <a name="teams-policies"></a>Meeskondade poliitikad
+# <a name="teams-policies"></a>Teamsi poliitikad
 
-Microsoft Teamsi sätteid reguleerib poliitikad. Muudatuse tegemiseks peate konfigureerima sobiva poliitika ja seejärel rakendama seda kasutajatele. Kiireim viis seda teha kõigi kasutajate jaoks on muuta vaikimisi poliitika nimega Global. 
+Microsoft Teamsi sätteid kontrollitakse poliitikate järgi. Muudatuse tegemiseks peate konfigureerima vastava poliitika ja seejärel rakendama selle kasutajatele. Kiireim viis seda teha kõigi kasutajate jaoks on muuta vaikepoliitika nimega Global. 
 
-**Märkus** Poliitika muudatused võtta ***vähemalt 4 kuni 48 tundi***jõustumiseks. Kui loote kohandatud poliitika, peate ootama vähemalt 4 tundi, enne kui saate sellele täiendavaid muudatusi teha. Seejärel saate seda poliitikat kasutajatele rakendada. See tähendab, et kohandatud poliitikad võivad võtta kuni 48 tundi jõustumiseks. Globaalne poliitika on seatud vaikimisi kõigile kasutajatele ja globaalse poliitika muudatused võivad võtta kuni 24 tundi jõustumiseks. Kui olete loonud kohandatud poliitika, rakendanud seda kasutajatele ja see ei ole ikka veel jõustunud pärast 48 tundi või olete muutnud globaalse poliitika ja oodanud vähemalt 24 tundi, Palun avage tugiteenuse juhtum.
+**Märkus** Poliitika muudatused võtavad kasutusele ***vähemalt 4 kuni 48 tundi***. Kui loote kohandatud poliitika, peate ootama vähemalt 4 tundi, enne kui saate sellele täiendavaid muudatusi teha. Seejärel saate rakendada selle poliitika kasutajatele. See tähendab, et kohandatud poliitika võib võtta aega kuni 48 tundi. Globaalsed poliitikad on vaikimisi seatud kõigi kasutajate jaoks ja globaalse poliitika muudatused võivad jõustamiseks kuluda kuni 24 tundi. Kui olete loonud kohandatud poliitika, rakendanud selle kasutajatele ja see ei ole endiselt jõustunud pärast 48 tundi või olete globaalset poliitikat muutnud ja oodanud vähemalt 24 tundi, avage tugiteenuse juhtum.
 
-Meeskondade poliitikad jagunevad järgmistesse valdkondadesse:
+Teamsi poliitikad on jaotatud järgmisteks aladeks.
 
-- [Meeskonnad poliitika](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kontrollida kasutajate tuvastamine privaatmeeskonnad otsing ja loomine privaatseid kanaleid.  
-- [Koosolekupoliitikad](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrollivad, mida kasutajad saavad teha meeskondade koosolekutega, sealhulgas fuajee juhtimiseks. Abi saamiseks fuajee probleemid, nagu konfigureerimine meeskonnad tunnistada igaüks, vaadake [kontrolli fuajeeseadeid ja osalemise taset](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
-- [Sõnumside poliitika](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontrolli, mida kasutajad saavad teha Chat ja sõnumeid, sealhulgas keerata chat sisse või välja, kustutada vestlused, nõudes lugemisteatised, kasutades giphys ja kleebised, ja rohkem.
-- [Rakenduse seadistuspoliitikad](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontrollivad, millised rakendused on kasutajatele kättesaadavad, sh kohandatud ja kolmanda osapoole rakendused, ning nende kuvamise järjestus.  
-- Andmete [säilitamise poliitika](https://docs.microsoft.com/microsoftteams/retention-policies) meeskonnad leiate Microsoft 365 turvalisuse ja vastavuse keskus.
-- Meeskonnad aadressiraamat poliitikad on seatud läbi [ulatus Directory otsing](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
+- [Teamsi poliitika](https://docs.microsoft.com/MicrosoftTeams/teams-policies) reguleerib kasutajate tuvastamist isiklike kanalite otsimisel ja loomisel.  
+- [Koosoleku poliitikate](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) abil saate määrata, mida kasutajad saavad teha meeskondade koosolekutel, sealhulgas fuajee juhtimisel. Lisateavet fuajees olevate probleemide kohta (nt meeskonna konfigureerimine kõigi jaoks) leiate teemast [lobby sätete ja osalemise tasemete reguleerimine](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
+- [Sõnumside poliitikate](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) abil saate määrata, mida kasutajad saavad vestluse ja sõnumitega teha, sh vestluse sisse või välja lülitamine, vestluste kustutamine, lugemisteatise taotlemine, giphy ja kleebiste kasutamine ning muu.
+- Rakenduste [häälestamise poliitikate](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) juhtelement, mis on kasutajate jaoks saadaval, sh kohandatud ja muu tootja rakendused, ning nende kuvamise järjekord.  
+- Töörühma andmete [säilitamise poliitikad](https://docs.microsoft.com/microsoftteams/retention-policies) leiate Microsoft 365 turbe-ja vastavuskontrolli keskusest.
+- Teamsi aadressiraamatu poliitikad on seatud [ulatusega registri otsingu](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)kaudu.

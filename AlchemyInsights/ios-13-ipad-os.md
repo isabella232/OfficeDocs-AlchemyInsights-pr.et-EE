@@ -1,25 +1,26 @@
 ---
-title: iOS 13-iPadOS
+title: iOS 13 – iPadOS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: df1b3dfc471c6b7644e90d27b8079fc95e034375
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910252"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695933"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPadOS värskendusi tingimusliku juurdepääsu poliitika
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPadOS värskendused tingimusjuurdepääsu poliitika jaoks
 
-Kui teil on probleeme, mis on seotud tingimusliku juurdepääsu iPads, mis on täiendatud iPadOS (iOS 13 või uuem), vaadake järgmist artiklit AAD meeskond muudatusi, mida peate tegema, et tagada tingimuslik juurdepääs jätkab funktsiooni Soovitud:
+Kui teil esineb tingimustega, mis on seotud iPadOS (iOS 13 või uuem versioon) versioonile, mis on seotud tingimustega, lugege artiklit AAD töörühma järgmine artikkel, mis puudutab muudatusi, mida peate tegema, et tagada, et tingimusjuurdepääsu funktsioon toimiks vastavalt soovile.
 
-[Nõutav toiming: hinnake ja värskendage tingimusjuurdepääsu poliitikaid ettevalmistamisel Ipadose Väljalaske jaoks](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Nõutav toiming: iPadOS Väljalaske ettevalmistamisel tingimusjuurdepääsu poliitikate hindamine ja värskendamine](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
