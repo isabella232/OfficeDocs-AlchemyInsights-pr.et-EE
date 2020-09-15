@@ -1,29 +1,30 @@
 ---
-title: Töötamine iOS VPP rakendused reegel ID 1018
+title: IOS-i VPP rakendustega töötamine eeskirja ID 1018
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719953"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688942"
 ---
-# <a name="working-with-ios-vpp-applications"></a>Töötamine iOS VPP rakendused
+# <a name="working-with-ios-vpp-applications"></a>IOS-i VPP rakendustega töötamine
 
-Lugege, [Kuidas hallata iOS-i rakendusi, mis on ostetud Microsoft Intune ' i hulgitost-programmi kaudu](https://docs.microsoft.com/intune/vpp-apps-ios) , et saada teavet funktsioonide, piirangute ja toimingute kohta, et kasutada Apple ' i helitugevuse ostuprogrammi ja seda Microsofti Intune-i toe kaudu.
+Siit saate teada, [Kuidas hallata Microsoft Intune ' i abil ostetud iOS](https://docs.microsoft.com/intune/vpp-apps-ios) -i rakendusi, mille abil saate teada, millised on funktsioonid, kitsendused ja juhised, kuidas kasutada Apple ' i draivi ostu programmi ja selle tuge Microsoft Intune ' is.
   
- **Levinud probleemid:** "Ma määratud iOS VPP rakendus minu kasutajatele, kuid paigaldamine nurjus."
+ **Levinud probleemid.** "Ma määrasin oma kasutajatele iOS-I VPP rakenduse, kuid installimine ebaõnnestus."
   
-- See võib juhtuda, kui ühe VPP luba kasutatakse mitme mobiilsideseadme haldusteenuse pakkujad. Apple ' i VPP märke võib kasutada ainult koos ühe pakkujaga. Kui kasutasite VPP luba mitme pakkujad, peate uuesti üles laadida luba Intune.
+- See võib juhtuda siis, kui ühte VPP luba kasutatakse mitme mobiilsideseadme halduse pakkuja kaudu. Apple ' i VPP märke saab kasutada ainult ühe pakkujaga. Kui kasutasite mitme pakkujaga VPP, peate tõendi uuesti üles laadima.
 
-- Installimine võib nurjuda ka siis, kui seadmete koguarv ületab litsentside arvu. Litsentside kasutusaruande vaatamiseks jaotisse **Intune Mobile ' i rakenduste** \> **rakenduse litsentsid** leht. Lisateavet kasutuslitsentside kasutamise kohta leiate [käesolevast artiklist.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- Installimine võib nurjuda ka juhul, kui käitiste koguarv ületab litsentside arvu. Litsentside kasutuse kohta leiate teavet teemast Intune ' i **mobiilirakenduste** \> **Rakenduse litsentside** leht. Lisateavet litsentside kasutamise kohta leiate [sellest artiklist.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

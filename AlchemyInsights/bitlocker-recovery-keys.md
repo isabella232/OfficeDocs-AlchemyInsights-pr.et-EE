@@ -1,32 +1,33 @@
 ---
-title: BitLockeri taasteklahvid
+title: BitLockeri taastevõti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908811"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685882"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Juurdepääs BitLockeri taastevõtmetele
+# <a name="accessing-bitlocker-recovery-keys"></a>Juurdepääs BitLockeri taastevõti
 
-BitLockeri sätete Intune lõpp-punkti kaitse poliitika konfigureerimisel on võimalik määratleda, kas BitLockeri taasteteavet tuleks talletada Azure Active Directorys.
+Kui konfigureerite BitLockeri sätteid Intune Endpoint Protection Policy, on võimalik määratleda, kas BitLockeri taasteparool tuleks talletada Azure Active Directorys.
 
-Kui see säte on konfigureeritud, salvestatud Taasteandmed peaks olema nähtav Intune admin osana seadme kirje andmed Intune Devices tera kahel viisil:
+Kui see säte on konfigureeritud, peaks talletatud andmete taastamise andmed olema nähtavad Intune ' i administraatorile osana seadme kirje andmeid Intune Devices Blade kahel viisil:
 
-Seadmed-Azure AD seadmed-> "seade" või seadmed-> kõik seadmed-> "seade"-> taastevõtmed
+Seadmed – Azure AD seadmed – > "seade" või seadmed – > kõik seadmed – > "Device"-> taastevõtme
 
-Teise võimalusena, kui on administraatori juurdepääs seadme ise, taastevõti (Password) saab näha, käivitades laiendatud käsuviibalt järgmise käsu:
+Kui seadmele on installitud ka administratiivne juurdepääs, kuvatakse taastevõti (parool) kõrgenenud käsuviiba kaudu järgmine käsk:
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Kui seade krüptiti enne Intune ' i registreerimist, võib taastevõti olla seostatud "Microsofti kontoga" (MSA), mida kasutatakse OOBE-protsessi ajal seadmesse sisselogimiseks. Kui see oli nii, juurdepääsu https://onedrive.live.com/recoverykey ja sisselogimine, et MSA peaks näitama seadmeid, mille Taastevõtmete salvestati.
+Kui seade krüptiti enne sisselogimist Intune ' is, võis taastevõti olla seostatud "Microsofti kontoga" (MK), mida kasutati OOBE-protsessi ajal seadmesse sisse logimiseks. Kui see oli nii,  https://onedrive.live.com/recoverykey tuleks selle MSA-ga sisse logida ja sisse logida, et kuvada seadmed, mille taastevõti on talletatud.
  
-Kui seade on krüptitud konfiguratsiooni tulemusena domeeni põhinev rühmapoliitika kaudu, võib taasteteavet talletada on-premise Active Directory.
+Kui seade oli krüptitud rühmapoliitika kaudu konfigureerimise tulemusena krüptitud, võib süsteemitaaste teavet talletada kohapealses Active Directorys.
  
 

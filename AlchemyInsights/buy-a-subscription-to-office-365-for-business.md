@@ -1,10 +1,11 @@
 ---
-title: Osta tellimus Microsoft 365 äri oma tasuta prooviversiooni
+title: Microsoft 365 tellimuse ostmine tasuta prooviversiooni kaudu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,30 +13,30 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 40a09fdaa3b2218fc2dfacb10216f27d6440bd67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f5954693866b18698807c34c77b6265701dbb4e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506259"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684982"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Osta tellimus Microsoft 365 oma tasuta prooviversiooni
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Microsoft 365 tellimuse ostmine tasuta prooviversiooni kaudu
 
-Olete proovinud Microsoft 365 ja nüüd olete valmis ostma. Teil on kaks võimalust, kui ostate Microsoft 365 prooviversiooni versioon:
+Olete proovinud Microsoft 365 ja nüüd olete valmis ostma. Microsoft 365 ostmisel prooviversiooni kasutamisel on kaks võimalust.
   
- **Osta sama plaan oma kohtuprotsessi**
+ **Prooviversiooniga sama plaani ostmine**
   
-1. administreerimiskeskuses **Billing** \> lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
+1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Leidke tellimus, mida soovite osta. Valige jaotises **litsentsid** **Ostutellimus**ja järgige juhiseid.
+2. Otsige üles tellimus, mille soovite osta. Valige jaotises **litsentsid** valik **ostu pakett**ja järgige juhiseid, mida soovite välja möllida.
 
-**Osta teine tellimus**
+**Osta teine pakett**
   
-1. administreerimiskeskuses lehele **arveldamise** \> [Ostuteenused](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. Avage administreerimiskeskuses leht **arvelduse** \> [ostmise teenused](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-3. Leidke tellimus, mida soovite osta, valige **osta**ja järgige juhiseid.
+3. Otsige üles tellimus, mille soovite osta, valige **osta**ja järgige juhiseid, mida soovite välja möllida.
 
-Lisateabe saamiseks vaadake [osta tellimus Microsoft 365 äri oma tasuta prooviversiooni](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
+Lisateavet leiate teemast [Microsoft 365 tellimuse ostmine tasuta prooviversiooni kaudu](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
 
 **Tõrkeotsing**
 
