@@ -1,23 +1,24 @@
 ---
-title: Outlook Web konto häkitud
+title: Outlooki veebikontol häkitud
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a988656beee1da0cc763b36de001777b18842956
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b411f48ef56f32f22babbe16f13865a2d6f7cc17
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510244"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671332"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Outlook Web konto häkitud
+# <a name="outlook-on-the-web-account-hacked"></a>Outlooki veebikontol häkitud
 
-Kui teie konto on häkitud, järgige juhiseid, [Kuidas kindlustada ja taastada e-posti funktsiooni kahtlustatava kahjustatud Microsoft 365 konto ja postkasti](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
+Kui teie konto on häkitud, järgige juhiseid selle kohta, [Kuidas funktsiooni e-posti turvamine ja taastamine kahtlustatavale Microsoft 365 kontole ja postkasti](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
 
-Lisateabe saamiseks täiendavate sammude kohta, mida saate võtta, et vältida oma konto ohtu, vaadake [Microsoft 365 kahjustatud e-posti konto reageerimise](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
+Lisateabe saamiseks lisatoimingute kohta, mida saate teha, et vältida teie konto turvalisust, lugege teemat [microsofti 365 ohustatud meilikontole vastamine](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).

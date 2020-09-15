@@ -1,35 +1,36 @@
 ---
-title: 9000238 Outlook.com lisada alias
+title: 9000238 Outlook.com pseudonüümi lisamine
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: 48645126925cd5e40fae435c55847501ec1c17d8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 178917a3d7aa5110fdaab9fb5210b3585180c37b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760948"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672844"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Lisage e-posti alias Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>E-posti pseudonüümi lisamine rakenduses Outlook.com
 
-Pseudonüüm on täiendav e-posti aadress, mis kasutab sama sisendkausta, kontaktiloendit ja konto sätteid peamise meiliaadressiga. E-posti aadressi saate valida, kust meilisõnumeid saata, ja saate oma Outlook.com kontole sisse logida mis tahes pseudonüümide abil – nad kõik kasutavad sama parooli.
+Pseudonüüm on täiendav meiliaadress, mis kasutab teie peamise meiliaadressina sama sisendkausta, kontaktide loendit ja konto sätteid. Saate valida, millise meiliaadressi kaudu meilisõnumeid saata, ning saate oma Outlook.com kontole sisse logida mis tahes pseudonüümiga – kõik kasutavad sama parooli.
 
-E-posti aadressi lisamiseks toimige järgmiselt.
+Meiliaadressi lisamiseks tehke järgmist.
 
-1. Avage [pseudonüümi lisamine](https://go.microsoft.com/fwlink/p/?linkid=864833). Kui küsitakse, logige sisse oma Microsofti kontole.
-2. **Lisage pseudonüüm**kas:
-    1. Looge uus Outlook.com e-posti aadress ja lisage see alias.
-    2. Lisage olemasolev meiliaadress pseudonüümina.
+1. Valige [pseudonüümi lisamine](https://go.microsoft.com/fwlink/p/?linkid=864833). Kui teilt küsitakse, logige sisse oma Microsofti kontole.
+2. Klõpsake jaotises **pseudonüümi lisamine**ühte järgmistest.
+    1. Looge uus Outlook.com meiliaadress ja lisage see pseudonüümi.
+    2. Olemasoleva meiliaadressi lisamine pseudonüümiga.
 3. Valige **Lisa pseudonüüm**.
 
-Lisateavet selle kohta, kuidas [lisada või eemaldada e-posti alias Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
+Lisateavet leiate teemast [meilikonto pseudonüümi lisamine või eemaldamine Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Lugege, [Kuidas ühendada teise e-posti konto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) oma Outlook.com konto.
+Lugege, [Kuidas ühendada mõni muu meilikonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) oma Outlook.com kontoga.

@@ -1,10 +1,11 @@
 ---
-title: Kirjutuskaitstud hoolduse sõnumi katsel kasutada SharePointi või OneDrive
+title: Kirjutuskaitstud, kui proovite kasutada SharePointi või OneDrive ' i
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051277"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670828"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Kirjutuskaitstud hoolduse sõnumi katsel kasutada SharePointi või OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Kirjutuskaitstud, kui proovite kasutada SharePointi või OneDrive ' i
 
-Kasutajad võivad saada **kirjutuskaitstud hoolduse** sõnumi katsel kasutada SharePointi või OneDrive üks järgmistest tingimustest. 
+Kui proovite SharePointi või OneDrive ' i kasutada mõnda järgmistest olukordadest, võivad kasutajad **lugeda** kirjutuskaitstud. 
 
--   Planeeritud või aktiivne hooldustegevus.  Kontrollige neid, liikudes [sõnumikeskuse](https://portal.office.com/adminportal/home#/messagecenter)juurde.
--   Kõrge prioriteediga aktiivne teenindusjuhtum, mis võib tekkida. Kontrollige kõik nõud/intsidendid navigeerides [teenuse tervis](https://portal.office.com/adminportal/home#/servicehealth).
--   Väike auto-tervendav taastamise stsenaarium, mis võib juhtuda ootamatu sündmuste serverid, mis võivad kesta vähem kui 30 min või nii. 
+-   Plaanitud või aktiivne hooldustööd.  Nende otsimiseks liikuge [sõnumikeskuse](https://portal.office.com/adminportal/home#/messagecenter)kaudu.
+-   Kõrge prioriteediga aktiivne teenuse juhtum, mis võib toimuda. Saate otsida mis tahes nõuandjaid/intsidente, kui navigeerite [teenuse tervist](https://portal.office.com/adminportal/home#/servicehealth).
+-   Väike automaatse tervendamise stsenaarium, mis võib toimuda ootamatute sündmuste tõttu serverites, mis võivad kesta vähem kui 30 min või nii. 
     
-    Nende väiksemate tagasimaksete jaoks pole sõnumikeskust ega teenuse Health postitusi, kuid peaksite varsti tagasi normaalseks.
+    Neid väiksemaid tagasinõudmised pole sõnumikeskuse või teenuse tervislikke ametikohti, kuid sa peaksid olema väga kiiresti tagasi normaalne.
 
-Väga vähe kordi me täheldas, et üks eespool loetletud kolmest stsenaariumit on põhjus ja teenus on taastatud, kuid kasutajate brauseri vahemälu ei ole lahendatud.
+Väga vähestel juhtudel oleme täheldanud, et mõni eespool loetletud kolmest stsenaariumist on põhjus ja teenus on taastatud, kuid kasutajate brauseri vahemälu pole lahendatud.
 
-Palun proovige tühjendada brauseri vahemälu enne navigeerimist saidile.
+Enne saidile navigeerimist proovige brauseri vahemälu tühjendada.
 
-1. Valige oma Microsoft Edge ' i brauseris **sätted**ja seejärel **Privaatsus ja turve**.
-2. Valige jaotises **Tühjenda sirvimine**käsk **Vali, mida tühjendada**.
-3. Valige **küpsised ja salvestatud veebisaidi andmed**ning valige **Tühjenda**.
-
->[!Note] 
-> Need sammud võivad erineda, kui kasutate muid brausereid nagu Mozilla Firefox või Google Chrome.
+1. Valige Microsoft Edge ' i brauseris **sätted**ja seejärel valige **Privaatsus ja turve**.
+2. Valige jaotises **Tühjenda sirvimine**käsk **Vali, mida soovite kustutada**.
+3. Valige **küpsised ja salvestatud veebisaitide andmed**ning valige **Kustuta**.
 
 >[!Note] 
-> Teine võimalus oleks avada SharePointi saidi või OneDrive uues InPrivate-aknas.
+> Need toimingud võivad muude brauserite (nt Mozilla Firefoxi või Google Chrome ' i) kasutamisel erineda.
+
+>[!Note] 
+> Teine võimalus on avada SharePointi sait või OneDrive uues InPrivate-aknas.

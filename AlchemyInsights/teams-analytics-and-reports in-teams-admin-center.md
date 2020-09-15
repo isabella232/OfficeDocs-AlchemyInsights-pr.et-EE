@@ -1,28 +1,29 @@
 ---
-title: Meeskonnad Analytics ja aruanded meeskonnad halduskeskus
+title: Teamsi analüütik ja aruanded meeskonnatöö halduskeskus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 938e8f8020090510529738f7f2308923c6f67a11
-ms.sourcegitcommit: 9f594bef6725e846f343ba8eb4fe5620727971e5
+ms.openlocfilehash: 1e5f2529e0f7206ebac3b5ca2b5d9ff746f98916
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/22/2020
-ms.locfileid: "42564279"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670144"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Meeskonnad Analytics ja aruanded meeskonnad halduskeskus
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teamsi analüütik ja aruanded meeskonnatöö halduskeskus
 
-Meeskondade halduskeskuses on saadaval mitu **kasutus-ja tegevusaruannet** (sh kasutaja tegevus, seadme kasutus ja reaalajas sündmuse kasutus). Üksikasju vaadake teemast [Microsoft teamsi analüüs ja aruandlus](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
+Meeskonnatöö administreerimiskeskuses on saadaval mitmeid **kasutus-ja ärianalüüse** , sh kasutajate tegevust, seadme kasutust ja reaalajas sündmuse kasutust. Lisateavet leiate teemast [Microsoft teamsi analüüs ja aruandlus](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
 
-**Pange tähele:** On täiendavaid meeskondi kasutus-ja tegevusaruanded saadaval Microsoft 365 halduskeskus. Vaadake, [Kuidas vaadata meeskondade aruandeid aruannete armatuurlaual](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
+Pange **tähele:** Microsoft 365 halduskeskus on saadaval ka meeskonnatöö kasutuse ja tegevusaruannete jaoks. Siit [saate teada, kuidas kuvada aruannete armatuurlaual töörühma aruandeid](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
 
-Kui otsite aruandeid või analüüse, mis on seotud **kõnede** või **kõnede kvaliteediga**, vaadake seotud dokumentatsiooni saamiseks [Microsoft teamsi QOS-i ja kuvari helistamiskvaliteedi rakendamist](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) .
+Kui otsite **kõnede** või kõnede **kvaliteediga**seotud aruandlust või analüüsi, lugege teemat [Microsoft teamsi seotud dokumentide jaoks QOS-i rakendamine ja kõnede kvaliteedi jälgimine](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) .
 
