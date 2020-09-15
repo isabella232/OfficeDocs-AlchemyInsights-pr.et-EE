@@ -1,11 +1,12 @@
 ---
-title: Ettemakstud uuendamine
+title: Ettemakstud pikendamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,26 +14,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: bafaee929a668b918fef6858c24c308602e10307
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fe0c8066e203e1b7395d69211f31916afc137c18
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509920"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693983"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>Ettemakstud Microsoft 365 uuendamine
+# <a name="prepaid-microsoft-365-renewal"></a>Ettemakstud Microsoft 365 pikendamine
 
-1. administreerimiskeskuses **Billing** \> lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
+1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Leidke tellimus, mida soovite laiendada. Valige jaotises **Arveldamine** suvand **Laienda lõppkuupäev**.
+2. Otsige üles tellimus, mida soovite pikendada. Valige jaotises **Arveldamine** nupp **pikenda lõppkuupäeva**.
 
-3. **Laiendage kordustellimuste** paanil valik **Kasuta uut ja kasutamata tootenuppu ja**seejärel valige **edasi**.
+3. Valige paanil **pikenda tellimus** raadionuppu **Kasuta uut ja kasutamata tootevõtit**ning seejärel valige **edasi**.
 
-4. Sisestage tootenumber ja seejärel valige **edasi**.
+4. Sisestage tootevõti ja valige **edasi**.
 
 > [!NOTE]
-> Kui teil on rohkem kui üks tootenumber, saate nende sisestamiseks valida **mõne muu tootenumbri lisamise** .
+> Kui teil on mitu tootevõtit, saate nende sisestamiseks valida käsu **Lisa teine tootevõti** .
 
-5. Vaadake Tellimuse üksikasjad üle ja valige siis **lunastamine**.
+5. Vaadake oma orderi üksikasjad üle ja valige **Lunasta**.
 
-Lisateavet leiate jaotisest [litsentside lisamine tootenumbri abil tasutud Kordustellimusele või selle laiendamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
+Lisateavet leiate teemast [litsentside lisamine või selle laiendamine tellimuse eest, mida makstakse tootevõtme kasutamise eest](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).

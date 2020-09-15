@@ -5,46 +5,47 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: d90baddd01bdf8508bd6289509c8399b8241887a
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738565"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690707"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>Olemasoleva kuvari tõrkeotsing
 
-Proovige neid lahendusi kuvari tõrkeotsinguks. 
+Proovige järgmisi lahendusi kuvari tõrkeotsinguks. 
 
-**Värskenda kuvari Kuva:**
+**Kuvari kuvari värskendamine.**
 
-Vajutage samal ajal järgmisi klahve: Windowsi klahv + CTRL + SHIFT + B. See värskendab suhtlust teie graafikadraiveriga. Teie monitorid vilgub hetkega ja tulevad mõne sekundi pärast tagasi.
+Vajutage samal ajal järgmisi klahve: Windowsi klahv + CTRL + SHIFT + B. See värskendab suhtlemist teie graafika draiveriga. Teie kuvarid vilgub hetkega ja need tulevad mõne sekundi pärast tagasi.
 
-**Kuvari riistvara tõrkeotsing:**
+**Kuvari riistvara tõrkeotsing.**
 
-1. Eemaldage kaabel, ühendades arvuti kuvariga, ja ühendage see uuesti.
-2. Eemaldage ARVUTIST kõik mittevajalikud seadmed (nt adapterid või dokid).
+1. Lahutage kaabel, ühendades arvuti kuvariga, ja ühendage see uuesti.
+2. Lahutage ARVUTIST kõik ebaolulised seadmed (nt adapterid või dokid).
 
-**Kui olete hiljuti installinud värskenduse arvutisse, saate pöörata tagasi ekraani draiver:**
+**Kui installisite hiljuti oma ARVUTISSE värskenduse, saate oma kuvari draiveri tagasi pöörata.**
 
-1. Valige **Start**, tippige **Seadmehaldur**ja valige tulemite hulgast **Seadmehaldur** .
-2. Laiendage **Kuva adapterid** jaotis, paremklõpsake oma kuvaadapteri, ANDS valige **Atribuudid**.
-3. Navigeerige vahekaardil **draiver** ja valige **draiveri tagasipööramise**nupp. <br>
-Märkused: kui see ei ole saadaval või on tuhmunud, valige **ei** alates alltoodud suvanditest järgmisele sammuks liikumiseks.
-4. Enne muudatuste jõustumist peate võib-olla arvuti taaskäivitama.
+1. Valige **Start**, tippige **Seadmehaldur**ja valige tulemitest **Seadmehaldur** .
+2. Laiendage jaotist **kuvari adapterid** , paremklõpsake oma kuvari adapterit, valige ANDS **Atribuudid**.
+3. Liikuge menüüsse **draiver** ja valige **draiveri tagasipööramine**. <br>
+Märkus: kui see pole saadaval või on tuhm **, valige järgmise** juhise juurde liikumiseks allpool olevatest valikutest.
+4. Enne nende muudatuste jõustumist peate võib-olla arvuti taaskäivitama.
 
-**Desinstallige ja installige Kuva draiver uuesti:**
+**Draiveri desinstallimine ja uuesti installimine.**
 
-1. Valige **Start**, tippige **Seadmehaldur**ja valige tulemite hulgast **Seadmehaldur** .
-2. Laiendage **Kuva adapterid** jaotis, paremklõpsake oma kuvaadapteri, ANDS valige **Uninstall seade**. 
-3. Valige **selle seadme draiveritarkvara kustutamise** kõrval olev ruut ja valige **Uninstall**.<br>
-Märkus: teil võidakse paluda oma arvuti selles etapis taaskäivitada. Enne taaskäivitumist Kirjutage kindlasti ülejäänud juhised üles.
-4. Avage Seadmehaldur uuesti.
-5. Laiendage jaotist **Kuva adapterid** , paremklõpsake kuvaadapteri ja valige **Värskenda draiverit**.
-6. Valige **draiveritarkvara värskendamiseks Automaatne otsing** ja järgige installijuhiseid.
+1. Valige **Start**, tippige **Seadmehaldur**ja valige tulemitest **Seadmehaldur** .
+2. Laiendage jaotist **kuvari adapterid** , paremklõpsake kuvari adapterit, ANDS valige **Uninstall Device (Desinstalli seade**). 
+3. Valige **selle seadme draiveri tarkvara kustutamise** kõrval olev väli ja valige **Uninstall (Desinstalli**).<br>
+Märkus: teil võidakse paluda arvuti taaskäivitada selles etapis. Enne taaskäivitamist veenduge, et enne uuesti kirjutamist kuvataks ülejäänud juhised.
+4. Avage Device Manager uuesti.
+5. Laiendage jaotist **kuvari adapterid** , paremklõpsake oma kuvari adapterit ja valige **draiveri värskendamine**.
+6. **Draiveri tarkvara värskendamiseks valige Otsi automaatselt** ja järgige installijuhiseid.
