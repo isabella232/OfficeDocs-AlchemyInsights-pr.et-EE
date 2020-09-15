@@ -1,10 +1,11 @@
 ---
-title: Eemaldage suur manus
+title: Suure manuse eemaldamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569043"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701675"
 ---
-# <a name="remove-the-large-attachment"></a>Eemaldage suur manus
+# <a name="remove-the-large-attachment"></a>Suure manuse eemaldamine
 
-1. Valige Outlookis suvand **Saada/võta vastu**  >  **Tööta ühenduseta**. 
-2. Valige navigeerimispaanil suvand **Väljundboks**. Siit saate: 
+1. Valige Outlookis nupp **Saada/võta vastu**  >  **töö ühenduseta režiimis**. 
+2. Valige navigeerimispaanil **kaust**välja. Siit saate teha järgmist. 
     - Kustutage sõnum (valige see ja seejärel valige **Kustuta**).
-    - Lohistage sõnum mustandite kausta, topeltklõpsake selle avamiseks ja manuse eemaldamiseks valige see ja seejärel valige **Kustuta**).
-3. Kui kuvatakse tõrketeade, mis ütleb, et Outlook proovib sõnumit edastada, sulgege Outlook. Väljumiseks võib kuluda mõni hetk. Kui Outlook ei sulge, vajutage klahvikombinatsiooni CTRL + ALT + DELETE ja valige **Käivita Tegumihaldur**. Valige Tegumihalduris vahekaart **protsessid** , kerige allapoole Outlook. exe ja valige **Lõpeta protsess**.
-4. Pärast Outlooki sulgemist taaskäivitage see ja korrake juhiseid 2 ja 3. 
-5. Pärast manuse eemaldamist klõpsake nuppu **Saada/võta vastu**  >  **Tööta ühenduseta** , et jätkata töötamist veebis. 
+    - Lohistage sõnum mustandite kausta, topeltklõpsake selle avamiseks ja eemaldage manus, valige see ja seejärel valige **Kustuta**).
+3. Kui teile kuvatakse tõrketeade, mis ütleb, et Outlook proovib sõnumit edastada, sulgege Outlook. Väljumiseks võib kuluda mõni hetk. Kui Outlook ei sulgu, vajutage klahvikombinatsiooni CTRL + ALT + DELETE ja valige käsk **Käivita Tegumihaldur**. Valige Tegumihalduris vahekaart **protsessid** , liikuge kerides suvandile outlook.exe ja valige **Lõpeta protsess**.
+4. Kui Outlook sulgub, taaskäivitage see ja korrake juhiseid 2 ja 3. 
+5. Pärast manuse eemaldamist klõpsake käsku **Saada/võta vastu**  >  **tööd võrguühenduseta** töötamise jätkamiseks. 
 
-Sõnumid jäävad ka väljundkasti, kui klõpsate nuppu **saada**, kuid te ei ole ühendatud. Klõpsake nuppu **Saada/võta vastu** ja vaadake **ühenduseta töö** nuppu. Kui see on sinine, siis sa oled lahutatud. Klõpsake seda ühendamiseks (nupp muutub valgeks) ja klõpsake **saada kõik**.
+Kui klõpsate nuppu **saada**, jäävad sõnumid ka kinni, kuid te pole ühendatud. Klõpsake nuppu **Saada/võta vastu** ja vaadake nuppu **Tööta ühenduseta** . Kui see on sinine, on ühendus katkenud. Klõpsake seda ühenduse loomiseks (nupp muutub valgeks) ja klõpsake nuppu **saada kõik**.
  
- Täielikud üksikasjad leiate teemast:
-- [Video: saata või kustutada ummikus e-posti](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+ Üksikasjaliku teabe leiate järgmistest teemadest:
+- [Video: ummikus meilisõnumi saatmine või kustutamine](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
