@@ -1,10 +1,11 @@
 ---
-title: 713 lisamine täiendav e-posti aadress leviloendi
+title: 713 täiendava meiliaadressi lisamine leviloendisse
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 57adf32faba3399fbbf08c9cfed267a2fc75b05a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766203"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697409"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a><span data-ttu-id="569f7-102">Lisage levirühma e-posti aadress</span><span class="sxs-lookup"><span data-stu-id="569f7-102">Add an email address for a distribution group</span></span>
+# <a name="add-an-email-address-for-a-distribution-group"></a><span data-ttu-id="da60f-102">Levirühma meiliaadressi lisamine</span><span class="sxs-lookup"><span data-stu-id="da60f-102">Add an email address for a distribution group</span></span>
 
-<span data-ttu-id="569f7-103">Olemasoleva levirühma e-posti aadresside lisamiseks toimige järgmiselt.</span><span class="sxs-lookup"><span data-stu-id="569f7-103">To add email addresses for an existing distribution group, follow these steps:</span></span>
+<span data-ttu-id="da60f-103">Olemasoleva levirühma meiliaadresside lisamiseks tehke järgmist.</span><span class="sxs-lookup"><span data-stu-id="da60f-103">To add email addresses for an existing distribution group, follow these steps:</span></span>
 
-1. <span data-ttu-id="569f7-104">Avage [Exchange ' i halduskeskus](https://outlook.office365.com/ecp/) **adressaatide** \> **rühmad**.</span><span class="sxs-lookup"><span data-stu-id="569f7-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
+1. <span data-ttu-id="da60f-104">Avage [Exchange ' i halduskeskus](https://outlook.office365.com/ecp/)jaotises **adressaatide** \> **rühmad**.</span><span class="sxs-lookup"><span data-stu-id="da60f-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
 
-2. <span data-ttu-id="569f7-105">Valige muudetav levirühm ja klõpsake siis nuppu **Redigeeri**.</span><span class="sxs-lookup"><span data-stu-id="569f7-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
+2. <span data-ttu-id="da60f-105">Valige levirühma, mida soovite muuta, ja seejärel klõpsake nuppu **Redigeeri**.</span><span class="sxs-lookup"><span data-stu-id="da60f-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
 
-3. <span data-ttu-id="569f7-106">Minge rühma atribuutide e-posti aadresside lisamiseks vahekaardi **Meilisuvandid** .</span><span class="sxs-lookup"><span data-stu-id="569f7-106">In the properties of the group, go to the **Email options** tab to add email addresses.</span></span> 
+3. <span data-ttu-id="da60f-106">Valige rühma atribuutides meiliaadresside lisamiseks vahekaart **Meilisuvandid** .</span><span class="sxs-lookup"><span data-stu-id="da60f-106">In the properties of the group, go to the **Email options** tab to add email addresses.</span></span> 
 
-<span data-ttu-id="569f7-107">Lisateabe saamiseks vaadake [e-posti Valikud](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span><span class="sxs-lookup"><span data-stu-id="569f7-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span></span>
+<span data-ttu-id="da60f-107">Lisateavet leiate teemast [e-posti suvandid](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span><span class="sxs-lookup"><span data-stu-id="da60f-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span></span>
