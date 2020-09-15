@@ -1,43 +1,44 @@
 ---
-title: Tootenumbri otsimine ja aktiveerimine
+title: Tootevõtme otsimine ja aktiveerimine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062460"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708571"
 ---
-# <a name="find-and-activate-my-product-key"></a>Tootenumbri otsimine ja aktiveerimine
+# <a name="find-and-activate-my-product-key"></a>Tootevõtme otsimine ja aktiveerimine
 
-Kui ostsite Microsoft 365 ettevõtte [Microsoft Open License programmi](https://go.microsoft.com/fwlink/p/?LinkID=613298)kaudu, leiate oma tootenumbri ja aktiveerite selle.
+Kui ostsite Microsoft 365 ettevõtetele [Microsoft Open License](https://go.microsoft.com/fwlink/p/?LinkID=613298)' i programmi kaudu, leiate siit juhised tootevõtme leidmiseks ja aktiveerimiseks.
 
-1. Pärast seda, kui ostate võtme Microsoft 365 partner, kontrollige oma sisendkausta e-posti Microsoft, mis sisaldab aktiveerimislinki.  **Märkus**: e-kiri saadetakse isikule, kes on loetletud võrguadministraatorina hulgilitsentsilepingu puhul.  Kui te pole kindel, kes on määratud võrguadministraatorina, küsige oma Microsoft 365 partnerilt.
+1. Pärast Microsoft 365 partnerilt võtme ostmist kontrollige, kas Microsoft Exchange ' i meilikonto on teie sisendkaustas, mis sisaldab aktiveerimise linki.  **Märkus**: meilisõnum saadetakse isikule, kes on loetletud hulgilitsentsimise lepingus, mis on loetletud veebihaldurina.  Kui te pole kindel, kes on määratud veebihalduriks, küsige oma Microsoft 365 partnerit.
 
-2. Järgige e-kirjas olevat linki oma töö või kooli kontoga sisselogimiseks, nõustuge avatud litsentsilepinguga ja uuendage tellimust.  Samm-sammult kõnniteel alla laadida PDF Guide, [aktiveerida Online Services: Microsoft 365 tellimus](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+2. Oma töö-või kooli kontoga sisselogimiseks järgige meilisõnumis olevat linki, aktsepteerige avatud litsentsileping ja pikendage paketti.  Üksikasjalikud juhised leiate teemast PDF-i juhendi allalaadimine, [veebiteenuste aktiveerimine: Microsoft 365 tellimus](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
 
-**Märkus**: hulgilitsentsimise kliendid saavad valida ka tellimuste aktiveerimiseks [hulgilitsentsimise teeninduskeskuses](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Lisateabe saamiseks laadige alla PDF-i juhend, [Active Online Services hulgilitsentsimise teeninduskeskuses](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+**Märkus**: hulgilitsentsimise kliendid saavad samuti valida, kas soovite aktiveerida tellimuste hulgilitsentsimise [teeninduskeskuse](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Lisateavet leiate teemast PDF-i juhend, [aktiivsed võrguteenused hulgilitsentsimise teeninduskeskus](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Kui ostsite Microsoft 365 Business Premiumi standardi jaepoest, kasutage aegumiskuupäeva laiendamiseks või olemasolevale tellimusele litsentsi lisamiseks järgmisi juhiseid.
+Kui ostsite jaemüügi poest Microsoft 365 Business Premiumi standardi, järgige aegumiskuupäeva pikendamiseks või olemasolevale tellimusele litsentsi lisamiseks järgmisi juhiseid.
 
-**Märkus**: tootenumbri abil saate pikendada aegumiskuupäeva või lisada litsentsi olemasoleva Microsoft 365 Business Premium Standard tellimus, peate uue ja kasutamata võti sama Microsoft 365 tellimus.  Algse Microsoft 365 tootenumbri sisestamine ei toimi, kuna juba lunastatud võtit ei saa uuesti kasutada.
+**Märkus**: tootevõtme pikendamiseks või olemasolevale Microsoft 365 Business Premiumi standardile tellimusele litsentsi lisamiseks peate kasutama uut ja kasutamata võtit samale Microsoft 365 tellimusele.  Algse Microsoft 365 tootevõtme sisestamine ei toimi, sest juba lunastatud võtit ei saa uuesti kasutada.
 
-1. administreerimiskeskuses **Billing**  >  lehele**[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
+1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Leidke tellimus, millele soovite aegumiskuupäeva pikendada või litsentse lisada.  Klõpsake nuppu [Laienda lõppkuupäev](https://go.microsoft.com/fwlink/p/?linkid=842054) või [Lisage veel litsentse](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Otsige üles tellimus, millele soovite aegumiskuupäeva pikendada, või lisage litsentsid.  Klõpsake nuppu [pikenda lõppkuupäeva](https://go.microsoft.com/fwlink/p/?linkid=842054) või [Lisa veel litsentse](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-3. Klikkige valikul **Kasuta uut ja kasutamata tootenuppu** ning seejärel nuppu **edasi**.
+3. Klõpsake nuppu **Kasuta uut, kasutamata tootevõtit** ja seejärel nuppu **edasi**.
 
-4. Sisestage tootenumber ja klõpsake nuppu **edasi**.
+4. Sisestage tootevõti ja klõpsake nuppu **edasi**.
 
-5. Vaadake oma tellimuse üksikasjad üle.  Kui kõik tundub õige, klikkige käsul **Lunasta**.
+5. Vaadake üle oma orderi üksikasjad.  Kui kõik tundub õige, klõpsake käsku **Lunasta**.
