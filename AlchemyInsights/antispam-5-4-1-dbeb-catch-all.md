@@ -1,30 +1,31 @@
 ---
-title: Rämpspostitõrje 5.4.1 DBEB saagi-kõik
+title: AntiSpam 5.4.1 DBEB Catch-all
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707907"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717357"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Fix kohaletoimetamise probleemid tõrkekood 550 5.4.1 relee juurdepääs keelatud
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Kohaletoimetamisega seotud probleemide lahendamine tõrkekood 550 5.4.1 relee juurdepääs on keelatud
 
-See probleem ilmneb siis [, kui kontrollida, kas e-posti aadress on kehtiv vältida bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) sisestamisel Microsoft Network. Proovige järgmist:
+See probleem ilmneb siis [, kui kontrollitakse, kas e-posti aadress kehtib bouncebacks takistamiseks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) Microsofti võrku sisenemisel. Proovige teha järgmist.
 
-1. Tehke kindlaks, kas probleem on seotud kogu domeeni või ühe e-posti aadress:
-    - Kogu Domeen: mõnikord peab Domeen olema sünkroonitud; Proovige [domeeni sisemine ja seejärel tagasi autoriteetne](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Üks e-posti aadress: mõnikord tuleb aadress sünkroonida; SMTP puhverserveri aadressi muutmine ja seejärel uuesti muutmine aitab.
-2. Tehke kindlaks, kas probleem on seotud rühma või ühiskausta. Mõne objektitüübi puhul võib osutuda vajalikuks objektide käsitsi loomine Azure Active Directorys.
+1. Määratlege, kas probleem on seotud kogu domeeni või ühe meiliaadressiga.
+    - Kogu Domeen: mõnikord peab domeeni sünkroonima; Proovige [määrata Domeen asutusesiseseks ja seejärel tagasi autoriteetseks](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Üks meiliaadress: mõnikord tuleb aadress sünkroonida; SMTP-puhverserveri aadressi muutmine ja selle uuesti muutmine võib aidata.
+2. Määratlege, kas probleem on seotud mõne rühma või Ühiskaustaga. Mõne objekti tüübi korral võib olla vaja, et Azure Active Directorys on objektid käsitsi loodud.
 
-Kui vajate täiendavat abi, siis avage tugiteenuse pilet ja määrake probleemi ulatus (sh teie poolt saatva objekti tüüp), et saaksime teid paremini aidata.
+Kui vajate täiendavat abi, avage klienditoe pilet ja määrake probleemi ulatus (sh objekti tüüp), et saaksime teid paremini aidata.

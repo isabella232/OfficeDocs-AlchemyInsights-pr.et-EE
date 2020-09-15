@@ -5,32 +5,33 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708051"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717717"
 ---
 # <a name="anonymous-sharing"></a>Anonüümne ühiskasutus
 
- **Luba Anonüümne juurdepääs**
+ **Anonüümse juurdepääsu lubamine**
   
-Klõpsake uue SharePointi administreerimiskeskuses vasakpoolsel paanil **ühiskasutus** . 
+Klõpsake uues SharePointi administreerimiskeskuses vasakpoolsel paanil nuppu **ühiskasutus** . 
   
-- Valige järgmine: **lubage ühiskasutus autenditud välistele kasutajatele ja kasutage anonüümset juurdepääsu.**
+- Valige järgmine: **lubage ühiskasutus autenditud väliskasutajatele ja kasutage anonüümset juurdepääsu.**
   
-(Soovi korral saate seada lingid aeguma kindla arvu päevade jooksul ja valida, kuidas adressaadid linke kasutada saavad.)
+(Soovi korral saate määrata, et lingid aeguvad kindlal arvul päevadel, ja valige, kuidas adressaadid linke kasutada saavad.)
     
- **Faili või kausta jagamine anonüümselt**
+ **Faili või kausta ühiskasutusse andmine anonüümselt**
   
-- Valige fail või kaust, mida soovite ühiskasutusse anda, ja seejärel klõpsake käsku **Jaga**. 
+- Valige faili või kaust, mille soovite ühiskasutusse anda, ja seejärel klõpsake nuppu **Anna ühiskasutusse**. 
     
-- Kellele meeldiks see link tööle? Klõpsake **kedagi.**
+- Kellele soovite selle lingi tööd teha? Klõpsake nuppu **kõik.**
   
- **Märkus**: **igaüks** loob lingi, mida igaüks saab kasutada dokumendile või kaustale juurdepääsuks, isegi kui nad pole sisse logitud Microsoft 365 või OneDrive. Kasutage seda jagada kellegagi, sees või väljaspool ettevõtet. Seda linki saab edastada ka kellelegi teisele. 
+ **Märkus**: **igaüks** loob lingi, mida igaüks saab dokumendile või kaustale juurde pääsemiseks kasutada isegi siis, kui nad pole sisse logitud Microsoft 365 või OneDrive ' i. Selle abil saate teistega jagada oma ettevõtte sees või väljaspool seda. Seda linki saab saata ka kellelegi teisele. 
     
 
