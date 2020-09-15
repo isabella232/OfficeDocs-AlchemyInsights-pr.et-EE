@@ -1,10 +1,11 @@
 ---
-title: Kordustellimuse aktiveerimine või taasaktiveerimine
+title: Tellimuse aktiveerimine või uuesti aktiveerimine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,30 +13,30 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 1f2bd2d602ac499358940a3ee5c788d725a8db5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418032"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698345"
 ---
-# <a name="activate-or-reactivate-a-subscription"></a>Kordustellimuse aktiveerimine või taasaktiveerimine
+# <a name="activate-or-reactivate-a-subscription"></a>Tellimuse aktiveerimine või uuesti aktiveerimine
 
 **Tellimuse aktiveerimine**
 
 - Kasutajatele teenusele juurdepääsu andmiseks määrake neile litsents. Litsentside määramise kohta leiate juhised artiklist [Kasutajatele litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-- Kui teile on juba litsents määratud, leiate allalaaditavad rakendused lehelt [Minu konto](https://portal.office.com/account/#installs). See leht pakub loendit rakendustest, mis on teie jaoks määratud litsentside alusel allalaadimiseks saadaval.
+- Kui teile on juba litsents määratud, leiate allalaaditavad rakendused lehelt [Minu konto](https://portal.office.com/account/#installs). Sellelt lehelt leiate loendi rakendustest, mis on teile määratud litsentside põhjal allalaadimiseks saadaval.
 
-- Kui olete Office ' i rakendused juba alla laadinud, peate võib-olla oma töö-või koolikontoga sisse logima. Seda saate teha mis tahes Office’i rakenduses (Word, Excel jne), klõpsates käske **Fail > Konto** (allosas). Klõpsake kasutajateabe jaotises linki **Vaheta kontot**. Lisateabe saamiseks lugege [installida Office ' i rakendused](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Kui olete Office ' i rakendused juba alla laadinud, võib juhtuda, et peate rakendustesse sisse logima oma töö-või kooli kontoga. Seda saate teha mis tahes Office’i rakenduses (Word, Excel jne), klõpsates käske **Fail > Konto** (allosas). Klõpsake kasutajateabe jaotises linki **Vaheta kontot**. Lisateavet leiate teemast [Office ' i rakenduste installimine](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Tellimuse uuesti aktiveerimine**
 
-Kui teie tellimus aegub, blokeeriti Microsoft või tühistate selle tellimuse tähtaja keskel, saate selle administreerimiskeskuses uuesti aktiveerida.
+Kui teie tellimus aegub, kas Microsoft on selle keelanud või tühistanud selle tellimuse kehtivusaja keskel, saate selle uuesti administreerimiskeskuses aktiveerida.
   
-1. Avage Microsoft 365 halduskeskus **Billing**  >  lehel[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.
+1. Avage Microsoft 365 halduskeskus leht **Arveldamine**  >  [oma toodetega](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Valige kordusaktiveerimine, mida soovite uuesti aktiveerida, ja tehke valik **Aktiveeri**uuesti. Kui käsku **Aktiveeri uuesti** ei kuvata saadaolevana, [helistage](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) tellimuse uuesti aktiveerimiseks tugiteenuse töötajale.
+2. Valige tellimus, mille soovite uuesti aktiveerida, ja seejärel valige **Aktiveeri uuesti**. Kui käsku **Aktiveeri uuesti** ei kuvata saadaolevana, [helistage](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) tellimuse uuesti aktiveerimiseks tugiteenuse töötajale.
 
 3. Sisestage makseteave. Siin saate ka [värskendada olemasolevat makseteavet](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
