@@ -6,21 +6,22 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724910"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693227"
 ---
 # <a name="recent-data-exposure"></a>Hiljutine andmete ekspositsioon
 
-Microsoft on saanud teada kolmanda osapoole teadlane, et andmebaasi hosting redigeeritud Microsofti tugiteenuste andmed olid kättesaadavad ilma autentimist. 31. detsembril 2019, Microsoft turvas andmebaasi.
+Microsoft sai teada kolmanda osapoole teadlane, et Microsofti tugiteenuste andmebaasist väljamöllimist võimaldav andmebaas on juurdepääsetav autentimata. 31. detsembril 2019, Microsoft turvas andmebaasi.
 
-Oleme pühendunud meie klientide privaatsusele ja turvalisusest ning võtame meetmeid selle probleemi edaspidiste sündmuste vältimiseks. Oleme alustanud teateid klientidele, kelle andmed on olemas selles redigeeritud andmebaasis. Lisateabe saamiseks palun [Kliendi teadlikkuse teabele, mis on seotud hiljutise teabe kokkupuutega](https://aka.ms/privacyinfo).
+Oleme pühendunud oma klientide privaatsuse ja turvalisuse tagamisele ning võtame meetmeid selle probleemi tulevaste sündmuste ärahoidmiseks. Oleme alustanud teatisi klientidele, kelle andmed on selles redigeeritud andmebaasis olemas. Lisateavet leiate teemast [Kliendi teadlikkusega seotud teave hiljutise teabega kokkupuute](https://aka.ms/privacyinfo)kohta.

@@ -1,26 +1,27 @@
 ---
-title: Kontrollige oma domeeni 1&1 IONOS
+title: Domeeni kinnitamine 1&1 IONOS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 02809440344fc9cd9329d56b1c67dd0b47947c82
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5edd62e7de77cba6d05da9272521e82d3ff81dce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726136"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664706"
 ---
-# <a name="verify-your-domain-with-11-ionos"></a>Kontrollige oma domeeni 1&1 IONOS
+# <a name="verify-your-domain-with-11-ionos"></a>Domeeni kinnitamine 1&1 IONOS
 
-Kontrollige oma domeeni, peate lisama TXT kirje domeeni kohtusekretäri veendumaks, et teie domeeni. 
+Domeeni kinnitamiseks peate lisama oma domeeni registripidajale TXT-kirje, et veenduda, et teie domeen on teie oma. 
 
-Esmalt järgige [domeeni lisamise viisardit](https://portal.office.com/adminportal/home#/Domains) , valides **sätted** \> **Domeenid**ja seejärel **Lisage Domeen**.
+Esmalt järgige domeeni [lisamise viisardit](https://portal.office.com/adminportal/home#/Domains) , valides **sätted** \> **Domeenid**ja seejärel **domeeni lisamine**.
   
-Vaadake [luua DNS-kirjete 1&1 IONOS Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) samm-sammult juhiseid.
+Lisateavet leiate teemast [DNS-i kirjete loomine 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) üksikasjalikud juhised.

@@ -1,29 +1,30 @@
 ---
-title: Office 365 täiustatud ohutõrje (ATP) seadistamine
+title: Office 365 täiustatud ohu kaitse (ATP) häälestamine
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: d7d983e1a39034345283c5b084e84e5147c17645
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6905238c8ee209dc443bf82022108401e0370ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502747"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662717"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 täiustatud ohutõrje (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP)
 
-Office 365 ATP sisaldab [turvaliste manuste](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [turvaliste linkide](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [täiustatud anti-phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)ja rohkem. 
+Office 365 ATP sisaldab [turvaliste manuste](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [turvaliste linkide](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [täiustatud andmepüügi](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)ja muu kohta. 
 
-ATP on kaasatud tellimused, nagu Office 365 Enterprise E5, Office 365 Education a5 ja Microsoft 365 Business Premium. Kui teie tellimus ei sisalda ATP-ga, saate potentsiaalselt osta ATP lisandmoodulitena. Lisateabe saamiseks vaadake [Office 365 ATP teenuse kirjeldus](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP kaasatakse pakette (nt Office 365 Enterprise E5, Office 365 Education a5 ja Microsoft 365 Premium). Kui teie pakett ei sisalda ATP-i, saate te potentsiaalselt osta ATP lisandmoodulina. Lisateavet leiate teemast [Office 365 ATP teenuse kirjeldus](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
-## <a name="set-up-office-365-atp"></a>Office 365 ATP seadistamine
+## <a name="set-up-office-365-atp"></a>Office 365 ATP häälestamine
 
-ATP kaitse jõustumiseks peate konfigureerima poliitikad. Vaadake [Kiirkäivitusjuhendit: Office 365 täiustatud ohutõrje seadistamine](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+ATP-kaitse rakendamiseks peate poliitika konfigureerima. Lugege artiklit [Lühijuhend: Office 365 täiustatud ohtude kaitse häälestamine](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

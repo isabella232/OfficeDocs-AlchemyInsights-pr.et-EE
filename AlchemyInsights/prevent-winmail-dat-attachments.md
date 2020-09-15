@@ -1,32 +1,33 @@
 ---
-title: 2589 aidata vältida Winmail. dat manuseid e-kirju oma organisatsiooni
+title: 2589 spikker teie asutuse meilisõnumite Winmail. dat manuste vältimine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f67c4146af419a590651c8e0673fd59fabd7eae7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666737"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693731"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Aidata vältida Winmail. dat manuseid e-kirju oma organisatsiooni
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Teie asutuse meilisõnumite Winmail. dat manuste vältimine
 
-Admin, proovige neid samme:
+Administraatorina proovige järgmisi toiminguid.
 
 1. Avage [Exchange ' i halduskeskus](https://outlook.office365.com/ecp/).
 
-2. Avage **meilivoog** > **Kaugtöölaua domeenid**.
+2. Avage **meilivoo**  >  **serveri domeenid**.
 
-3. Valige vaikimisi serveri **domeeni vaikimisi ja**seejärel klõpsake nuppu **Redigeeri**.
+3. Valige vaike-domeeni vaike- **nimi ja**klõpsake nuppu **Redigeeri**.
 
 4. Valige jaotises **Kasuta RTF-vormingut** **mitte kunagi**.
 
-Lisateavet leiate jaotisest [kaugdomeenide sõnumivormingu määramine](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Lisateavet leiate teemast [serveri domeenide jaoks sõnumi vormingu määramine](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).

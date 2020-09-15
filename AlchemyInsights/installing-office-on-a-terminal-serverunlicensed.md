@@ -1,56 +1,57 @@
 ---
-title: Office ' i installimine terminaliserverisse-litsentsimata
+title: Office ' i installimine terminaliserveri – litsentsimata
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1d862f60e7a8a4c90c83f4538e57972b0c0547da
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508624"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663113"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Office ' i installimine terminaliserverisse
+# <a name="installing-office-on-a-terminal-server"></a>Office ' i installimine terminaliserveri
 
-Juurutamiseks Microsoft 365 apps Enterprise Windows Server kaugtöölaua teenuste (RDS), varem nimega Terminal Services kasutamisel:
+Rakenduse Microsoft 365 for Enterprise for Enterprise Windowsi serverile juurutamiseks kaugtöölaua teenuste (RDS), varem nimega terminaliteenuste kaudu.
   
-- Teil peab olema Microsoft 365 tellimus, mis sisaldab Microsoft 365 apps Enterprise, nt Office 365 Enterprise E3 või Enterprise E5. Microsoft 365 apps äri ja Microsoft 365 apps Business Premium plaanid ei sisalda Microsoft 365 apps Enterprise.
+- Teil peab olema Microsoft 365 tellimus, mis sisaldab Enterprise ' i jaoks mõeldud Microsoft 365 rakendusi (nt Office 365 Enterprise E3 või Enterprise E5). Microsoft 365 rakendused ettevõtetele ja Microsoft 365 for Premiumi lepingud ei sisalda Microsoft 365 Enterprise ' i jaoks mõeldud rakendusi.
 
-- Peate lubama [ühiskasutusega arvuti aktiveerimise](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
+- Peate lubama [ühiskasutatava arvuti aktiveerimise](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
-Kui soovite installida Microsoft 365 apps Enterprise RDS Microsoft 365 halduskeskus, ***mis kasutab vaikimisi installi sätted***, kasutage järgmisi samme.
+Kui soovite installida Microsoft 365 rakendusi RDS-ile Microsoft 365 halduskeskus, ***mis kasutab vaikimisi installi sätteid***, kasutage järgmisi juhiseid.
 
 > [!TIP]
-> Samuti saate alla laadida ja käivitada [Microsofti toe ja taastamise abimees](https://aka.ms/SaRA_OfficeSCA_M365Portal) installida Microsoft 365 apps Enterprise ühiskasutatava arvuti aktiveerimise režiimis.
+> Samuti saate alla laadida ja käivitada [Microsofti tugiteenuste ja taastekonsooli abilise](https://aka.ms/SaRA_OfficeSCA_M365Portal) , et installida Office ' i ühiskasutusega arvuti aktiveerimise režiimis Microsoft 365 rakendused.
   
-1. Kontrollige, mida Microsoft 365 tellimus teil on. [Vaadake, kuidas](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
+1. Vaadake, milline Microsoft 365 tellimus teil on. [Uurige, kuidas](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Vajadusel aktiveerige mõni muu Microsoft 365 tellimus. [Vaadake, kuidas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+2. Vajadusel aktiveerige mõni muu Microsoft 365 tellimus. [Uurige, kuidas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Kui Office on juba installitud RDS server, kasutades muid Microsoft 365 tellimused, desinstallige see. Näiteks, minnes juhtpaneeli \> desinstallida programmi. Kui teil on probleeme, desinstallige [Microsofti toe-ja Taasteabimehe](https://aka.ms/SARA-OfficeUninstall-Alchemy) abil.
+3. Kui Office on juba RDS-serverisse installitud mis tahes muu Microsoft 365 tellimuse abil, desinstallige see. Näiteks juhtpaneeli käsuga \> Desinstalli programm. Kui teil on probleeme, desinstallige [Microsoft support ja Recovery Assistanti](https://aka.ms/SARA-OfficeUninstall-Alchemy) abil.
 
-4. RDS server, logige sisse Microsoft 365 halduskeskus administraatori kontoga ja [installige microsoft 365 apps Enterprise](https://portal.office.com/OLS/MySoftware.aspx).
+4. Rakenduses RDS logige sisse oma administraatori kontoga Microsoft 365 halduskeskus ja [installige Enterprise ' i jaoks microsoft 365](https://portal.office.com/OLS/MySoftware.aspx)' i rakendused.
 
-5. Pärast Office ' i installimist ***Ärge avage ega logige sisse*** ühelegi Office ' i rakendustele.
+5. Kui Office on installitud, ***Ärge avage ega logige sisse*** ühtegi Office ' i rakendusse.
 
-6. RDS server, lubage ühiskasutusse antud arvuti aktiveerimine registri redigeerimisel toimige järgmiselt:
+6. RDS-serveris lubage ühiskasutusega arvuti aktiveerimine, redigeerides registrit, järgides järgmisi juhiseid.
 
-1. Paremklõpsake ekraani alumises vasakus nurgas asuvat Windowsi nuppu ja valige käsk Käivita. Väljale Ava tippige **käsk regedit**ja seejärel valige OK.
+1. Paremklõpsake ekraani vasakus allnurgas olevat nuppu Windows ja valige Käivita. Tippige väljale Ava **käsk regedit**ja seejärel klõpsake nuppu OK.
 
-2. Kui küsitakse, kas Registriredaktor lubab teie seadmes muudatusi teha, valige Jah.
+2. Kui teilt küsitakse, kas soovite, et registriredaktori saaks teie seadmes muudatusi teha, valige Jah.
 
-3. Registriredaktoris lisada stringi väärtus **Sharedcomputerlicensing** sätte 1 alla HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. Lisage registriredaktori **SharedComputerLicensing** stringi väärtus, mille sätteks on HKEY_LOCAL_MACHINE \software\microsoft \Office\ClickToRun\Configuration.
 
-7. RDS server, logige sisse ***lõppkasutaja*** ja [veenduge, et jagatud arvuti aktiveerimine on lubatud Microsoft 365 apps Enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+7. RDS-serveris ***logige sisse lõppkasutajana*** ja veenduge, [et ühiskasutusega arvuti aktiveerimine oleks lubatud Microsoft 365 rakenduste jaoks Enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)' i jaoks.
 
-Eeltingimused, setup juhiseid ja juhiseid kohandatud installi Office ' i juurutamise tööriista abil kohta lisateabe saamiseks lugege [juurutada Microsoft 365 apps Enterprise kaugtöölaua teenuste abil](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
+Lisateavet Office ' i juurutamise tööriista funktsioonide, häälestamise juhiste ja kohandatud installide juhiste kohta leiate teemast Office ' i juurutamise tööriista kasutamine rakenduses [Microsoft 365 Apps for Enterprise kaugtöölaua teenuste abil](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
   
-Ühiskasutatava arvuti aktiveerimisega seotud tõrgete lahendamiseks vaadake teemat [microsofti 365 rakenduste jaoks ühiskasutatava arvuti aktiveerimise tõrkeotsing](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
+Ühiskasutusega arvuti aktiveerimisega seotud tõrgete lahendamiseks lugege teemat [ühiskasutusega arvuti aktiveerimisega seotud probleemide tõrkeotsing Enterprise ' i jaoks mõeldud Microsoft 365 rakenduste jaoks](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   

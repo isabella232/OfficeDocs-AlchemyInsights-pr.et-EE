@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148033"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662429"
 ---
 # <a name="restore-a-deleted-form"></a>Kustutatud vormi taastamine
 
-Kui kustutasite vormi Microsoft Formsis kogemata, saate selle taastada. Logige kustutatud vormi omanikuna sisse Microsoft Formsi. Valige **prügikast**, seejärel valige taastatav vorm ja valige **Taasta**. Pärast taastamist valige **lehenool Tagasi minu vormidesse.**
+Kui kustutasite vormi Microsoft Formsi kogemata, saate selle taastada. Logige sisse rakendusse "Microsoft Forms" kustutatud vormi omanikuna. Valige **Prügikast**, seejärel valige vorm, mille soovite taastada, ja klõpsake nuppu **Taasta**. Kui olete taastatud, valige **tagasi minu vormide lehe** nool.
 
-Ainult vormi omanik saab selle taastada. Kui vormi omaniku konto on keelatud või rentnikult eemaldatud, saab vormi taastada ainult üldadministraator. Taastamise sooritamiseks peab üldadministraatoril olema vormide litsents. Taastada saab ainult vorme, mis on loodud 30 päeva jooksul pärast seda, kui kasutajakonto on keelatud või rentnikust eemaldatud.
+Selle saab taastada ainult vormi omanik. Kui vormi omaniku konto on rentniku jaoks keelatud või eemaldatud, saab vormi taastada ainult globaalne administraator. Globaalsel administraatoril peab olema vormi litsents, mille abil saab taastada. Taastada saab ainult neid vorme, mis on loodud 30 päeva jooksul pärast seda, kui kasutajakonto on rentniku jaoks keelatud või eemaldatud.
 
-Kui olete rentniku üldadministraator ja soovite taastada vormi kustutatud või keelatud kontolt, asendage [meiliaadress] kustutatud või keelatud kasutaja meiliaadressiga järgmisel URL-il: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [meiliaadress]** Näiteks kui teie meiliaadress on johndoe@contoso.com, oleks URL järgmine: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
+Kui olete rentniku üldadministraator ja soovite taastada vormi kustutatud või keelatud kontolt, asendage [meiliaadress] kustutatud või keelatud kasutaja meiliaadressiga järgmises URL-is: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [meiliaadress]** näiteks kui teie meiliaadress on JOHNDOE@CONTOSO.COM, oleks URL: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Kui teil on juurdepääs kasutaja kustutatud vormidele, valige teisaldatav vorm ja seejärel valige **Veel vormitoiminguid**  >  **Teisalda**.
+Kui teil on juurdepääs kasutaja kustutatud vormidele, valige vorm, mille soovite üle viia, ja valige siis käsk **veel vormi toiminguid**  >  **Move**.
 
-Kui soovite taastada vormi, kus see kustutati ja kasutaja organisatsioonist eemaldati, saab globaaladministraator valida kasutaja taastamise, selle kasutaja parooli lähtestamise ja seejärel selle kasutajana sisse logimise ajal juurdepääsu vormile, et teisaldada see teisele aktiivsele kasutajale. 
+Kui soovite taastada vormi, kus see kustutati ja kasutaja on organisatsioonist eemaldatud, saab üldadministraator valida kasutaja taastamise, lähtestada selle kasutaja parooli ja seejärel sisse logida kasutajana, pääseda vormile juurde, et viia see teise aktiivse kasutajani. 
