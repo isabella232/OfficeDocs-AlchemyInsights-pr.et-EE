@@ -1,31 +1,32 @@
 ---
-title: Desinstallida või välistada meeskonnad Office ' i installid
+title: Teamsi Office ' i installide desinstallimine või välistamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 22d69db749671afdfe7a809d1bc598e2ad1891d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010294"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658217"
 ---
-# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Desinstalli või välista meeskonnad uutest või olemasolevatest Office ' i installid
+# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Uutest või olemasolevatest Office ' i installist meeskondade desinstallimine või välistamine
 
-Microsoft Teams on kaasatud Microsoft 365 apps ettevõtte, Microsoft 365 apps äri ja Office for Mac.
+Microsoft Teams on kaasatud Microsoft 365 rakendustesse Enterprise, Microsoft 365 Apps for Office ja Office for Mac.
 
-- [Office ' i juurutamise tööriista](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) abil saate välistada meeskonnad Office ' i uutest installid.
-- Meeskondade *desinstallimiseks* seadmest, milles töötab Windows, vaadake teemat [Microsoft teamsi desinstallimine](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Microsoft Teamsi puhastamiseks mitmest sihtmasinast või kasutajalt vaadake teemat [Microsoft teamsi juurutamine puhastada](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
-- [Ennetava Teamsinstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
-) suvandi abil saate takistada Microsoft Teamsi Office ' i automaatselt installida.
-- Kasutage [Ennefirstlaunchafterinstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) suvandi, *enne kui meeskonnad on installitud*, et takistada Microsoft teamsi käivitumist automaatselt pärast paigaldamist.
+- Office ' i [juurutamise tööriista](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) abil saate meeskonnad uutest Office ' i installist eemaldada.
+- Töörühmade *desinstallimiseks* seadmes, kus töötab Windows, lugege teemat [Microsoft teamsi desinstallimine](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Microsoft Teamsi puhastamiseks mitmest targetist või kasutajast leiate teavet teemast [Microsoft teamsi juurutuse puhastamine](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+- Kasutage funktsiooni [PreventTeamsInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
+) , et takistada Microsoft teamsi automaatset installimist Office ' iga.
+- Kasutage funktsiooni [PreventFirstLaunchAfterInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) , *enne kui meeskonnad on installitud*, et takistada Microsoft teamsi automaatset käivitumist pärast installimist.
 
-Kui kasutate Office for Mac, vaadake [Microsoft teamsi installi Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Kui kasutate teenusekomplekti Office for Mac, lugege teemat [Microsoft teamsi installid Mac-arvutis](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
