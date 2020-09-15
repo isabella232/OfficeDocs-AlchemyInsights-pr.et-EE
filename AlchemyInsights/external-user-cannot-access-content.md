@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,17 +12,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 1702dcbf833b5f320620f9f6cc2f84aa3ab4c1d3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 70ae38749bde631000d373a981de2bd1be50084b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788626"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708607"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a><span data-ttu-id="c23c9-102">Väline kasutaja ei pääse SharePointi või OneDrive sisu</span><span class="sxs-lookup"><span data-stu-id="c23c9-102">External user cannot access SharePoint or OneDrive content</span></span>
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a><span data-ttu-id="03e99-102">Väline kasutaja ei pääse SharePointi või OneDrive ' i sisule juurde</span><span class="sxs-lookup"><span data-stu-id="03e99-102">External user cannot access SharePoint or OneDrive content</span></span>
 
-<span data-ttu-id="c23c9-103">Kui väline kasutaja on kutsutud ja ei pääse sisule juurde, proovige alltoodud linke külastada:</span><span class="sxs-lookup"><span data-stu-id="c23c9-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
+<span data-ttu-id="03e99-103">Kui väline kasutaja on kutsutud ja ta ei pääse sisule juurde, proovige külastada järgmisi linke.</span><span class="sxs-lookup"><span data-stu-id="03e99-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
 
-- [<span data-ttu-id="c23c9-104">Väliste kasutajate saada õiguste tõrked saidile juurdepääsul</span><span class="sxs-lookup"><span data-stu-id="c23c9-104">External users receive permission errors when accessing a site</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="c23c9-105">"Teie organisatsiooni poliitika ei võimalda teil jagada nende kasutajatega" tõrge, kui üksuse või saidi ühiskasutus SharePoint Online ' i või OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="c23c9-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="c23c9-106">Ühiskasutuse suvandid on hallid, kui ühiskasutus SharePoint Online ' i või OneDrive</span><span class="sxs-lookup"><span data-stu-id="c23c9-106">Sharing options are grayed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="03e99-104">Välised kasutajad saavad saidi avamisel õiguse tõrkeid</span><span class="sxs-lookup"><span data-stu-id="03e99-104">External users receive permission errors when accessing a site</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="03e99-105">SharePoint Online ' is või OneDrive for Businessis üksuse või saidi ühiskasutusse andmisel kuvatakse tõrketeade "teie asutuse poliitika ei võimalda neid kasutajaid ühiskasutusse anda"</span><span class="sxs-lookup"><span data-stu-id="03e99-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="03e99-106">Ühiskasutuse suvandid on SharePoint Online ' i või OneDrive ' i ühiskasutuse korral hallid</span><span class="sxs-lookup"><span data-stu-id="03e99-106">Sharing options are grayed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
