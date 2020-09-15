@@ -1,29 +1,30 @@
 ---
-title: Töötamine iOS VPP rakendused reegel ID 1018
+title: IOS-i VPP rakendustega töötamine eeskirja ID 1018
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719953"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688942"
 ---
-# <a name="working-with-ios-vpp-applications"></a><span data-ttu-id="0ea4f-102">Töötamine iOS VPP rakendused</span><span class="sxs-lookup"><span data-stu-id="0ea4f-102">Working with iOS VPP Applications</span></span>
+# <a name="working-with-ios-vpp-applications"></a><span data-ttu-id="672da-102">IOS-i VPP rakendustega töötamine</span><span class="sxs-lookup"><span data-stu-id="672da-102">Working with iOS VPP Applications</span></span>
 
-<span data-ttu-id="0ea4f-103">Lugege, [Kuidas hallata iOS-i rakendusi, mis on ostetud Microsoft Intune ' i hulgitost-programmi kaudu](https://docs.microsoft.com/intune/vpp-apps-ios) , et saada teavet funktsioonide, piirangute ja toimingute kohta, et kasutada Apple ' i helitugevuse ostuprogrammi ja seda Microsofti Intune-i toe kaudu.</span><span class="sxs-lookup"><span data-stu-id="0ea4f-103">Read [How to manage iOS apps purchased through a volume-purchase program with Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) to learn about features, constraints, and steps to make use of the Apple Volume Purchase Program and the support for it in Microsoft Intune.</span></span>
+<span data-ttu-id="672da-103">Siit saate teada, [Kuidas hallata Microsoft Intune ' i abil ostetud iOS](https://docs.microsoft.com/intune/vpp-apps-ios) -i rakendusi, mille abil saate teada, millised on funktsioonid, kitsendused ja juhised, kuidas kasutada Apple ' i draivi ostu programmi ja selle tuge Microsoft Intune ' is.</span><span class="sxs-lookup"><span data-stu-id="672da-103">Read [How to manage iOS apps purchased through a volume-purchase program with Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) to learn about features, constraints, and steps to make use of the Apple Volume Purchase Program and the support for it in Microsoft Intune.</span></span>
   
- <span data-ttu-id="0ea4f-104">**Levinud probleemid:** "Ma määratud iOS VPP rakendus minu kasutajatele, kuid paigaldamine nurjus."</span><span class="sxs-lookup"><span data-stu-id="0ea4f-104">**Common Issues:** "I assigned an iOS VPP app to my users, but the installation failed."</span></span>
+ <span data-ttu-id="672da-104">**Levinud probleemid.** "Ma määrasin oma kasutajatele iOS-I VPP rakenduse, kuid installimine ebaõnnestus."</span><span class="sxs-lookup"><span data-stu-id="672da-104">**Common Issues:** "I assigned an iOS VPP app to my users, but the installation failed."</span></span>
   
-- <span data-ttu-id="0ea4f-105">See võib juhtuda, kui ühe VPP luba kasutatakse mitme mobiilsideseadme haldusteenuse pakkujad.</span><span class="sxs-lookup"><span data-stu-id="0ea4f-105">This can happen if a single VPP token is used across multiple mobile device management providers.</span></span> <span data-ttu-id="0ea4f-106">Apple ' i VPP märke võib kasutada ainult koos ühe pakkujaga.</span><span class="sxs-lookup"><span data-stu-id="0ea4f-106">VPP tokens from Apple may only be used with one provider.</span></span> <span data-ttu-id="0ea4f-107">Kui kasutasite VPP luba mitme pakkujad, peate uuesti üles laadida luba Intune.</span><span class="sxs-lookup"><span data-stu-id="0ea4f-107">If you used a VPP token with multiple providers, you must re-upload the token to Intune.</span></span>
+- <span data-ttu-id="672da-105">See võib juhtuda siis, kui ühte VPP luba kasutatakse mitme mobiilsideseadme halduse pakkuja kaudu.</span><span class="sxs-lookup"><span data-stu-id="672da-105">This can happen if a single VPP token is used across multiple mobile device management providers.</span></span> <span data-ttu-id="672da-106">Apple ' i VPP märke saab kasutada ainult ühe pakkujaga.</span><span class="sxs-lookup"><span data-stu-id="672da-106">VPP tokens from Apple may only be used with one provider.</span></span> <span data-ttu-id="672da-107">Kui kasutasite mitme pakkujaga VPP, peate tõendi uuesti üles laadima.</span><span class="sxs-lookup"><span data-stu-id="672da-107">If you used a VPP token with multiple providers, you must re-upload the token to Intune.</span></span>
 
-- <span data-ttu-id="0ea4f-108">Installimine võib nurjuda ka siis, kui seadmete koguarv ületab litsentside arvu.</span><span class="sxs-lookup"><span data-stu-id="0ea4f-108">The installation can also fail if the total number of installations exceed the number of licenses.</span></span> <span data-ttu-id="0ea4f-109">Litsentside kasutusaruande vaatamiseks jaotisse **Intune Mobile ' i rakenduste** \> **rakenduse litsentsid** leht.</span><span class="sxs-lookup"><span data-stu-id="0ea4f-109">To view a usage report for your licenses, go to the **Intune Mobile apps** \> **App licenses** page.</span></span> <span data-ttu-id="0ea4f-110">Lisateavet kasutuslitsentside kasutamise kohta leiate [käesolevast artiklist.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)</span><span class="sxs-lookup"><span data-stu-id="0ea4f-110">To learn how to reclaim licenses in use, see [this article.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)</span></span>
+- <span data-ttu-id="672da-108">Installimine võib nurjuda ka juhul, kui käitiste koguarv ületab litsentside arvu.</span><span class="sxs-lookup"><span data-stu-id="672da-108">The installation can also fail if the total number of installations exceed the number of licenses.</span></span> <span data-ttu-id="672da-109">Litsentside kasutuse kohta leiate teavet teemast Intune ' i **mobiilirakenduste** \> **Rakenduse litsentside** leht.</span><span class="sxs-lookup"><span data-stu-id="672da-109">To view a usage report for your licenses, go to the **Intune Mobile apps** \> **App licenses** page.</span></span> <span data-ttu-id="672da-110">Lisateavet litsentside kasutamise kohta leiate [sellest artiklist.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)</span><span class="sxs-lookup"><span data-stu-id="672da-110">To learn how to reclaim licenses in use, see [this article.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)</span></span>
