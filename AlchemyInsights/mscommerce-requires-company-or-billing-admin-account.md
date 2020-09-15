@@ -1,31 +1,32 @@
 ---
-title: Ühenda MSCommerce-i mooduliga
+title: Ühenduse loomine MSCommerce mooduliga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 10ef2e8fa7c564d53177a52136eb48cd709e5c55
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158495"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702611"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce nõuab ettevõtte või arveldusadministraatori kontot
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce vajab ettevõtte või arvelduse administraatori kontot
 
-MSCommerce moodul nõuab ettevõtte või arveldusadministraatori õigustega kontot. Kui saate järgmise tõrke, peate teise kontoga uuesti ühendama.
+MSCommerce moodul vajab kontot ettevõtte või arvelduse administraatori õigustega. Kui kuvatakse järgmine tõrketeade, peate teise kontoga uuesti ühenduse looma.
 
-*ErrorMessage-Kaugserver tagastas tõrke: (403) keelatud. ErrorDetails-kell C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char: 5*<br>
+*Sündmustelogist – Remote Server tagastas tõrke: (403) keelatud. ErrorDetails-kell C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char: 5*<br>
 *+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-ErrorContext $ _-CustomErrorMessage "nurjus retri...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: Notmääramata: (:) [Kirjutage-Error], WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. käsud. WriteErrorException, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. Commands. WriteErrorException, HandleError*
 
-Kui teie kontol pole ettevõtte või arveldusadministraatori õigusi, pöörduge oma IT-administraatori poole.
+Kui teie kontol pole ettevõtte või arvelduse administraatori õigusi, pöörduge oma IT-administraatori poole.

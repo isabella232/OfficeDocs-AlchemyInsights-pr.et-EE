@@ -1,11 +1,12 @@
 ---
-title: Üksuste teisaldamine SharePointi dokumenditeegis
+title: Üksuste ümberpaigutamine SharePointi dokumenditeegis
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,31 +14,31 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 1f8ebd035511775dc355a5efd548b331fc6797c0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a5b194aac4d1cd2aba699f0190d766205de073a8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713570"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702863"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a>Üksuste teisaldamine SharePointi dokumenditeegis
+# <a name="move-items-in-a-sharepoint-document-library"></a>Üksuste ümberpaigutamine SharePointi dokumenditeegis
 
-Üksusi saab dokumenditeegis erinevatesse asukohtadesse teisaldada.
+Saate üksuseid dokumenditeegi eri asukohtadesse üle viia.
   
-1. Sirvige veebibrauseris faile, kaustu või linke, mida soovite teisaldada, ja seejärel klõpsake nuppu **Teisalda**.
+1. Sirvige veebibrauseris failide, kaustade või linkideni, mida soovite edasi liikuda, ja seejärel klõpsake käsku **liigu**.
 
     > [!NOTE]
-    > **Teisaldamine** pole saadaval, kui kasutate SharePoint Online ' i klassikalise kogemuse.
+    > Kui kasutate SharePoint Online **'** i klassikalist kogemust, pole see saadaval.
   
-2. Valige jaotises **sihtkoha**valimine asukoht, kuhu soovite üksusi teisaldada. Kui teisaldate teise saidi või alamsaidi ja ei näe seda loendis, klõpsake nuppu **Sirvi** saite, et näha loendit saitidele, kuhu saate liikuda.
+2. Valige jaotises **valige sihtkoht**asukoht, kuhu soovite üksused teisaldada. Kui liigute mõnele muule saidile või alamsaidile ja te ei näe seda loendis, klõpsake nuppu **Sirvi saite** , et näha nende saitide täielikku loendit, kuhu saate liikuda.
 
-    Failide teisaldamiseks uue kausta loomiseks valige kausta hierarhias asukoht, klõpsake nuppu **Uus kaust**, sisestage kausta nimi ja märkige nime salvestamiseks märge.
+    Failide teisaldamiseks uue kausta loomiseks valige soovitud asukoht kausta hierarhias, klõpsake käsku **Uus kaust**, sisestage kausta nimi ja klõpsake nime salvestamiseks märget.
 
-3. Klõpsake nuppu **Teisalda siia**.
+3. Klõpsake käsku **VII siia**.
 
- Kui fail liigub, kuvatakse see endiselt lähtekataloogis, kuni see on täielikult sihtkohta teisaldatud, ja siis see kustutatakse. Fail jääb lähtesaitide prügikasti pärast seda, kui liikumine on lõpule viidud ja selle suhtes kehtib tavaline prügikasti ajakava, kui kasutaja ei saa seda prügikasti.
+ Kui fail on teisaldatud, kuvatakse see endiselt allika kataloogis, kuni selle sihtkohani teisaldatakse, ja siis see kustutatakse. Pärast teisaldamist jääb fail pärast teisaldamist prügikasti ja selle suhtes kehtib tavaline Recycle Schedule, kui kasutaja seda prügikastist ei Taasta.
 
-Lisateavet leiate teemadest
+Lisateavet leiate järgmisest teemast.
 
- - [Teisaldage või kopeerige failid SharePointis](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office ' i tugiteenuste artikkel)
- - [Teisaldage failid igast kaustast microsoft 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech kogukonna ajaveebi artikkel) 
+ - [Failide paigutamine või kopeerimine SharePointis](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office ' i tugiteenuste artikkel)
+ - [Failide ühest kaustast teise paigutamine rakenduses microsoft 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog article) 

@@ -1,23 +1,24 @@
 ---
-title: 'RBA-kuidas luua ja konfigureerida ruumipostkast '
+title: 'RBA – ruumi postkasti loomine ja konfigureerimine '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3417"
 - "3800012"
-ms.openlocfilehash: ddd25b16958c9b5d6c3b624d2f2f8bca07b14f25
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: d4cdadfe395e29c9ae129dc430f4ed322cb075ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627390"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701747"
 ---
-# <a name="create-or-configure-a-room-mailbox"></a>Ruumipostkasti loomine või konfigureerimine
+# <a name="create-or-configure-a-room-mailbox"></a>Ruumi postkasti loomine või konfigureerimine
 
-Lisateavet ruumipostkastide loomise ja konfigureerimise kohta leiate jaotisest [ruumipostkasti loomine](https://docs.microsoft.com/exchange/recipients/room-mailboxes?view=exchserver-2019#create-a-room-mailbox).
+Lisateavet ruumi postkastide loomise ja konfigureerimise kohta leiate teemast [ruumi postkasti loomine](https://docs.microsoft.com/exchange/recipients/room-mailboxes?view=exchserver-2019#create-a-room-mailbox).

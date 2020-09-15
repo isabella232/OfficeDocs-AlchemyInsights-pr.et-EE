@@ -1,34 +1,35 @@
 ---
-title: Välisrühmade keelamine
+title: Väliste rühmade keelamine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 2159feb4aa3999072de57d76790a2959c7355976
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720764"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704124"
 ---
-# <a name="how-to-disable-external-groups"></a>Välisrühmade keelamine
+# <a name="how-to-disable-external-groups"></a>Väliste rühmade keelamine
 
-Yammeri väline sõnumside rakendab Exchange transport reeglid (ETRs), ennetava juhtelementide kogum ettevõtte teabe ühiskasutamise vältimiseks. Selleks, et piirata kasutajatel luua väliseid rühmi, peate konfigureerima Exchange transport reegel (ETR) ja seejärel konfigureerige Yammeri kasutada Exchange transporti reegli blokeerida välise sõnumside.
+Yammeri väline sõnumside rakendab Exchange ' i transpordi reegleid (ETR), ennetavaid juhtelemente, et takistada ettevõtte andmete ühiskasutust. Kui soovite, et kasutajad ei saaks väliseid rühmi luua, peate konfigureerima Exchange ' i transpordi reegli (ETR) ja seejärel konfigureerima Yammeri kasutama Exchange ' i transpordi reeglit väliste sõnumite blokeerimiseks.
   
-Kui olete loonud reegli Exchange Online ' i halduskeskus, toimige järgmiselt seada ETR rakendada Yammeri:
+Kui olete loonud reegli Exchange Online ' i administreerimiskeskuses, tehke Yammeri rakendamiseks ETR määramiseks järgmist.
   
-- Yammeri sisse logida kontrollitud admin ja **Yammeri administreerimiskeskus**, C **sisu ja turvalisuse \> turvasätted.**
+- Logige Yammerisse sisse kinnitatud administraatorina ja **Yammeri halduskeskus**, avage C- **sisu ja turbe turvasätted \> .**
 
-- Jaotises **välise sõnumside**valige **jõustada Exchange Online ' i Exchange transport reeglid (Etrs) Yammeri.**
+- Valige jaotises **väline sõnumside** **Yammeri kaudu oma Exchange Online ' i Exchange ' i transpordi reeglid (ETR).**
 
-- Valige käsk **Salvesta**.
+- Valige **Salvesta**.
 
-Lisateabe saamiseks vaadake [Keela väline sõnumside Yammeri võrgus](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+Lisateavet leiate teemast [väliste sõnumite keelamine Yammeri võrgus](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   
