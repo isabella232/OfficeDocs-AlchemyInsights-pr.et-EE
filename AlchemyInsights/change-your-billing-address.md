@@ -1,10 +1,11 @@
 ---
-title: Arveldusaadressi muutmine
+title: Arvelduse aadressi muutmine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43943939"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714432"
 ---
-# <a name="change-your-billing-address"></a>Arveldusaadressi muutmine
+# <a name="change-your-billing-address"></a>Arvelduse aadressi muutmine
 
 Teie arve või arve sisaldab kolme aadressi.
 
-**Makseviisi arveldusaadressi muutmine**
+**Makseviisi arvelduse aadressi muutmine**
 
-1. Avage administreerimiskeskuses **arveldamine > [makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+1. Avage halduskeskus **arvelduse > [makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 2. Valige krediitkaart või pangakonto, mida soovite muuta.
 3. Klõpsake lehel **makseviisi üksikasjad** nuppu **Redigeeri**.
-4. Värskendage oma arveldusaadressi ja klõpsake siis nuppu **salvesta > valmis**.
+4. Värskendage oma arvelduse aadressi ja klõpsake nuppu **salvesta > valmis**.
 
-Aadressi ja teatise muudatuste kohta leiate lisateavet teemast [Microsoft 365 ettevõtte arveldusaadresside muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Lisateavet aadresside ja teatiste muudatuste kohta leiate teemast [microsofti 365 ärirakenduse arvelduse aadresside muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-**Arvelduskonto teabe muutmine**
+**Arvelduse konto teabe muutmine**
 
-1. Avage administreerimiskeskuses **arveldamine > [arvelduskontod](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
-2. Valige **Muuda arvelduskonto teavet**.
-3. Värskendage arvelduskontoteavet ja klõpsake siis nuppu **salvesta > valmis**.
+1. Valige halduskeskus > arvelduse ** [kontod](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Valige käsk **Redigeeri arvelduse kontoteavet**.
+3. Uuendage arvelduse kontoteavet ja klõpsake nuppu **salvesta > valmis**.
 
-**Märkus**: riik/regioon ei saa muuta. Kui seda välja on vaja muuta, peate ostma uue rentniku.
+**Märkus**: riiki/piirkonda ei saa muuta. Kui seda välja on vaja muuta, peate ostma uue rentniku.
