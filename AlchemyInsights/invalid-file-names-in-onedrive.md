@@ -1,29 +1,30 @@
 ---
-title: OneDrive ' is ei sobi failinimed
+title: Sobimatud failinimed OneDrive ' is
 ms.author: matteva
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 2dfeec263c562cc3941257edf6b924bfed6d3887
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 90c2df4eb6fe97925a6d6eb6e7afd357e2349850
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763033"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696221"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Sobimatu failide ja kaustade nimed OneDrive ' is ja SharePointis
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>OneDrive ' is ja SharePointis ei sobi failid ja kaustad
 
-Need märgid ei ole lubatud faili ja kausta nimed " \* : \< \> ? / \ | 
+Need märgid pole failis ja kausta nimedes lubatud " \* : \< \> ? / \ | 
   
-Mõnedel organisatsioonidel pole veel tuge # ja% sisse lülitatud. Et teada saada, kuidas lubada oma organisatsioonis neid märke, vaadake teemat [lubamine # ja% support](https://go.microsoft.com/fwlink/?linkid=862611). 
+Mõnes asutuses pole veel tuge # ja% sisse lülitatud. Lisateavet selle kohta, kuidas oma ettevõttes need märgid lubada, leiate teemast [# ja% toe](https://go.microsoft.com/fwlink/?linkid=862611)lubamine. 
   
-[Rohkem teavet faili ja kausta nime piirangute kohta](https://go.microsoft.com/fwlink/?linkid=866430)
+[Lisateave kaustade ja kaustade nime piirangute kohta](https://go.microsoft.com/fwlink/?linkid=866430)
   
 
