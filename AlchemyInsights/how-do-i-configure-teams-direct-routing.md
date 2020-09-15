@@ -1,10 +1,11 @@
 ---
-title: Kuidas konfigureerida meeskonnad otse marsruudi
+title: Meeskonnatöö vahetu marsruutimise konfigureerimine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,19 +13,19 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 1f7b829aff4beb8f727d23e143b5f8607d1da5a8
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344269"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704890"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Microsofti meeskondade Otsemarsruutimine telefonisüsteemi kaudu
+# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Microsoft Teamsi jaoks mõeldud telefoni süsteem
 
-Vaadake järgmisi artikleid, et saada lisateavet [telefonisüsteemi Otsemarsruudi kohta Microsoft teamsi jaoks](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page): 
+Lugege järgmisi artikleid, et saada lisateavet [Microsoft teamsi jaoks mõeldud telefonisüsteemi](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page)kohta. 
 
-- [Plaani otsene marsruut](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
-- [Otsemarsruudi konfigureerimine](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
+- [Kavandage otsest marsruutimist](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
+- [Otsese marsruudi konfigureerimine](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
 - [Otsese marsruudi jälgimine ja tõrkeotsing](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
-**Märkus:** Võite vaadata ka [meeskonnad Akadeemia Direct marsruudi](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) YouTube video.
+**Märkus:** Saate vaadata ka [teamsi Akadeemia otsest marsruutimist](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) YouTube ' i video.
