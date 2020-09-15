@@ -1,25 +1,26 @@
 ---
-title: SharePointi õiguste tõrked
+title: SharePointi õiguse tõrked
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 598c2262da908d8b836662ccc1e4d05e6d2a2a88
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182483"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653392"
 ---
-# <a name="sharepoint-permissions-errors"></a>SharePointi õiguste tõrked
+# <a name="sharepoint-permissions-errors"></a>SharePointi õiguse tõrked
 
-On palju stsenaariume, mis võivad paluda ühe neist sõnumitest. Kõige sagedamini on kasutaja või administraatori õigused konfigureeritud valesti või pole üldse konfigureeritud. 
+On mitu stsenaariumi, mis võivad paluda ühe nendest sõnumitest. Kõige sagedamini on kasutaja või administraatori õigused konfigureeritud valesti või pole üldse konfigureeritud. 
 
-Lisateabe saamiseks lugege "[juurdepääs keelatud", "teil on vaja luba juurdepääsuks sellele saidile" või "kasutaja ei leitud kataloogi" tõrked SharePoint Online ' i ja OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+Lisateavet leiate teemast "[juurdepääs on keelatud", "teil on vaja õigusi sellele saidile juurdepääsuks" või "kasutaja ei leia SharePoint Online ' i ja OneDrive for Businessi tõrked](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)".

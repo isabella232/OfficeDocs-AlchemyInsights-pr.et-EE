@@ -1,10 +1,11 @@
 ---
-title: Edasta PowerApps või Microsoft Flow tugiteenuse taotlusi
+title: Powerappsi või Microsoft Flow toe taotluste esitamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36559477"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653437"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Edasta PowerApps või Microsoft Flow tugiteenuse taotlusi
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Powerappsi või Microsoft Flow toe taotluste esitamine
 
-Kui olete **Powerapps** või **Microsoft Flow** klient Palun esitage pilet läbi uue [Power platvormi admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Uus portaal pakub otsesam tee toetatud toetust, mis on optimeeritud PowerApps ja muud Power platvormi tooteid.
+Kui olete **powerappsi** või **Microsoft Flow** klient, esitage pilet uuele [Power Platformi administreerimiskeskusele](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Uus portaal pakub Powerappsi ja muude Power Platformi toodete jaoks optimeeritud tugiteenuste toetamiseks rohkem otsest teed.
 
-[Edasta Microsoft Flow tugiteenuse taotlus](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Microsoft Flow toe taotluse edastamine](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

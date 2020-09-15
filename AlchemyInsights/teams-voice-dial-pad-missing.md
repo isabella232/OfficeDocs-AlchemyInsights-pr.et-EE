@@ -1,27 +1,28 @@
 ---
-title: Meeskonnad hääl dial pad puudu
+title: Teamsi otsevalimisega pad puudub
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 8abbacf3c7807001ff1b63bd70a5a385d1d3a188
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 8ad3480c20ac29ef4d9394d3c84b310ef26a9535
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628274"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653473"
 ---
-# <a name="dial-pad-is-missing-in-microsoft-teams"></a>Dial pad puudub Microsoft Teams 
+# <a name="dial-pad-is-missing-in-microsoft-teams"></a>Microsoft Teamsi puudub dial pad 
 
-Kui teie dial pad on puudu Microsoft Teams, Palun kontrollige järgmist:
+Kui Microsoft Teamsi on teie dial-pad puudu, kontrollige järgmist.
 
-- Veenduge, et kasutajale on määratud [meeskondade litsents](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-- Veenduge, et kasutajal on määratud [Kõneplaan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-- Lubage kasutajatel [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+- Veenduge, et kasutajale oleks määratud [Teamsi litsents](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+- Veenduge, et kasutajale oleks määratud [kõnepakett](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).
+- Lülitage kasutajate jaoks sisse [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
