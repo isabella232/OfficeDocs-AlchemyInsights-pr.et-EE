@@ -1,25 +1,26 @@
 ---
-title: Vahemälu tühjendamine või rakenduse kohalikult lähtestamine
+title: Vahemälu tühjendamine või rakenduse kohalik lähtestamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: ac04f1397417c43cfca893009c3cdc91e819d434
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265148"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681220"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a>Vahemälu tühjendamine või rakenduse kohalikult lähtestamine
+# <a name="clear-the-cache-or-locally-reset-the-app"></a>Vahemälu tühjendamine või rakenduse kohalik lähtestamine
 
-Kui näete ebatäielikke või ebaõigeid andmeid, sulgege rakendus ja avage see uuesti.  Kui see ei lahenda probleemi, lähtestage seadmes olev konto: 
+Kui näete mittetäielikke või ebaõigeid andmeid, sulgege rakendus ja avage see siis uuesti.  Kui see probleemi ei lahenda, lähtestage konto seadmes. 
 
-**Avage meie rakendus > seaded > valige e-posti konto > Lähtesta konto**
+**Avage meie rakenduse > sätted > valige meilikonto > Lähtesta konto**
