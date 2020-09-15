@@ -1,5 +1,5 @@
 ---
-title: Kuidas kontrollida parooli sünkroonimise olekut
+title: Parooli sünkroonimise oleku kontrollimine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765589"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665642"
 ---
-# <a name="enable-password-sync"></a>Luba parooli sünkroonimine
+# <a name="enable-password-sync"></a>Parooli sünkroonimise lubamine
 
-1.  Valige **Dirsync olek** Microsoft 365 administreerimiskeskuse avalehel. 
+1.  Valige Microsoft 365 halduskeskus avalehel **Dirsynci olek** . 
     
-     *Vaheldumisi, võite minna **kasutajate** \> **aktiivsed kasutajad**ja valige lehel aktiivsed kasutajad **rohkem** \> **kataloogi sünkroonimine.*** 
+     *Vaheldumisi saate minna **kasutajate** \> **aktiivsetele**kasutajatele ja lehel aktiivsed kasutajad valida **veel** \> **kataloogi sünkroonimise.*** 
     
-2. Kataloogi sünkroonimise paanil valige **Mine DirSync haldus**. 
+2. Klõpsake paanil kataloogi sünkroonimine nuppu **Ava dirsynci haldus**. 
     
-3. Nüüd näete oma olekut ja teete muudatusi.
+3. Nüüd kuvatakse teie olek ja tehke muudatused.
     
-    **Parooli sünkroonimine on lubatud:** (TRUE või FALSE). Määrab, kas teil on parooli sünkroonimise lubatud asutusesisese ja rentniku vahel. 
+    **Parooli sünkroonimine on lubatud:** (TRUE või FALSE). Määrab, kas teil on kohapealse ja rentniku vahel lubatud parooli sünkroonimine. 
     
-    **Viimane parooli sünkroonimine:** (Viimane kord parooli sünkroonimine jooksis). See kuvab hoiatuse ja tõrkeotsingu tööriista lingi, kui Viimane sünkroonimine oli pikem kui kolm päeva tagasi. 
+    **Viimase parooli sünkroonimine:** (viimatiste paroolide sünkroonimine kestis). See kuvab hoiatuse ja tõrkeotsingu tööriista lingi, kui Viimane sünkroonimine oli rohkem kui kolm päeva tagasi. 
     
 

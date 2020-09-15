@@ -1,25 +1,26 @@
 ---
-title: Teie Apple MDM tõukesert on aegunud
+title: Sinu Apple MDM push ' i sert on aegunud
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 6d0b262e877487ed827496ca2a6e9e58a20a8422
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45141427"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668811"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Teie Apple MDM tõukesert on aegunud
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Sinu Apple MDM push ' i sert on aegunud
 
-Apple’i mitmikautentimisega tõukesert kehtib üks aasta ja seda tuleb iOS- ja macOS-seadmete haldamiseks iga aasta uuendada. Kui teie sert aegub, ei saa registreeritud Apple'i seadmetega ühendust võtta ja uusi seadmeid ei saa registreerida.
+Apple’i mitmikautentimisega tõukesert kehtib üks aasta ja seda tuleb iOS- ja macOS-seadmete haldamiseks iga aasta uuendada. Kui teie sert aegub, ei saa ühendust võtta Apple ' i seadmetega ning uusi seadmeid ei saa registreerida.
 
-Apple MDM Pushi sertifikaadi pikendamise juhised leiate teemast [Apple MDM-tõukeserdi uuendamine](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Lisateavet Apple MDM push Certificate ' i uuendamise kohta leiate teemast [Apple MDM Pushi serdi pikendamine](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).

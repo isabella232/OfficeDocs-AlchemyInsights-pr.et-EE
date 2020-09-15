@@ -1,33 +1,34 @@
 ---
-title: Juurdepääs failidele meeskondi
+title: Juurdepääs meeskonnas olevatele failidele
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: 8731cad13ad5bacb7f69b70c91d50524ce38d558
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: a00a39954737287b4888b833b66d98e9b5e711b2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910253"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668523"
 ---
-# <a name="accessing-files-in-microsoft-teams"></a>Juurdepääs failidele Microsoft Teamsi
+# <a name="accessing-files-in-microsoft-teams"></a>Microsoft Teamsi failidele juurdepääsemine
 
-Kui kasutajatel on raskusi Microsoft Teamsi failile juurdepääsemisega, tehke esmalt kindlaks, kas fail on manustatud privaatvestluse või kanali vestlusele. Meeskonnatöö kanalid on kohad, kus kõik meeskond saavad avalikult vestelda. Privaatne vestlused on nähtav ainult need inimesed chat (ja faile, mida jagate chat salvestatakse OneDrive for Business).
+Kui kasutajatel on Microsoft Teamsi failidele juurdepääsuks probleeme, tehke esmalt kindlaks, kas see on manustatud privaatse vestluse või kanali vestluse kaudu. Meeskonnatöö kanalid on kohad, kus kõigil meeskonnal on võimalik vestlusi alustada. Privaatsed vestlused on nähtavad ainult vestluses olevatele inimestele (ja vestluses ühiskasutatavatele failidele salvestatakse teenuses OneDrive for Business).
 
-Kui kasutajad jagavad faile privaatseid vestlusi, talletatakse fail ühiskasutuse kasutaja OneDrive for Business. Kui kasutaja lisati olemasoleva privaatvestluse, nad ei pääse faile, kui algne omanik uuesti jagab faili.    
+Kui kasutajad ühiskasutavad faile Privaatsetes vestlustes, talletatakse fail ühiskasutuse kasutaja OneDrive for Businessis. Kui kasutaja lisati olemasolevale privaatsele vestlusele, ei pääse nad failidele juurde, kui algne omanik pole faili uuesti ühiskasutusse saanud.    
 
-**Kanali vestlused:**
+**Kanali vestluste korral tehke järgmist.**
 
-- [Failide ühiskasutus Microsoft teamsi](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) põhineb SharePointis või OneDrive ' is konfigureeritud sätetes. 
-- Vaadake üle [oma meeskonnaga failide koostöö](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) , et saada lisateavet selle kohta, kuidas meeskonnad lubavad teie organisatsioonil faile ühiskasutusse anda ja nendega koostööd teha. 
-- Kui uue meeskonna liikmed kogevad viivitus juurdepääsu faile, oodake vähemalt **4 tundi** enne avamist tugiteenuse pilet lubamiseks replikatsiooni lõpule viia. 
+- [Microsoft teamsi failide ühiskasutus](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) põhineb SharePointis või OneDrive ' is konfigureeritud sätetel. 
+- Kui soovite, kuidas meeskonnad saavad teie ettevõttel faile ühiskasutusse anda ja nendega koostööd teha, vaadake [töörühma kaudu koostöös olevaid faile](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) . 
+- Kui uutel meeskonnaliikmetel on juurdepääs failidele juurdepääsuks, oodake vähemalt **4 tundi** enne, kui avate toe pileti, et tiražeerimine oleks võimalik. 
 
-Kui kasutajad ei pääse varem faile vahekaardi failid kaudu meeskond kanal ja saate "need failid pole enam saadaval" tõrge, kontrollige, kas SharePointi sait või dokumenditeek on ümber nimetatud. Meeskondade SharePointi saitide ja dokumenditeekide ümbernimetamine pole veel toetatud. Selle probleemi lahendamiseks avage meeskonnatöö sait, mida kasutatakse selle meeskonna ja nimetage teek tagasi "ühiskasutuses dokumendid".
+Kui kasutajad saavad varem avada faile menüü failid kaudu meeskonna kanalis ja te saate tõrketeate "need failid pole enam saadaval", siis kontrollige, kas SharePointi sait või dokumenditeek on ümber nimetatud. SharePointi saitide ja dokumenditeekide ümbernimetamine pole veel toetatud. Selle probleemi lahendamiseks avage meeskonnatöö sait, mida soovite selle meeskonna jaoks kasutada, ja muutke teegi nimi uuesti "Ühiskasutatavad dokumendid".
