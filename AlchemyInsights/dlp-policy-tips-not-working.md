@@ -1,39 +1,40 @@
 ---
-title: DLP poliitika nõuanded ei tööta
+title: DLP poliitika näpunäited ei tööta
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507438"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679581"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP poliitika Näpunäide probleemid
+# <a name="dlp-policy-tip-issues"></a>DLP poliitika näpunäidete probleemid
 
 **Tähtis**! Nende enneolematude aegade jooksul võtame kasutusele meetmed, et säilitada SharePoint Online’i ja OneDrive’i teenuste hea kättesadavus. Lisateabe saamiseks vaadake teemat [SharePoint Online’i ajutised funktsioonide muudatused](https://aka.ms/ODSPAdjustments).
 
-**DLP poliitika nõuanded**
+**DLP poliitika näpunäited**
 
-**DLP poliitika**kasutamisel saavad kasutajad teavitada poliitika rikkumise **poliitika nõuanded**. Administraatorid saate konfigureerida poliitikaspikrid testides oma DLP poliitika või kui poliitika on täielik jõustamine režiimis.
+**DLP poliitikate**kasutamisel saab kasutajaid teavitada poliitikast, kus on **poliitilised näpunäited**. Administraatorid saavad konfigureerida poliitika näpunäiteid kuvama, kui nad katsetavad oma DLP poliitikat või kui poliitika on täies ulatuses jõustamise režiimis.
   
-Poliitika näpunäited oma DLP poliitika turvalisuse ja vastavuse keskus täieliku jõustamise režiimis konfigureerimiseks toimige järgmiselt.
+Poliitika näpunäidete konfigureerimiseks turbe-ja DLP poliitikas tehke järgmist.
   
-- Veenduge, et poliitikaspikrid on **lubatud** DLP reegel, kasutades juhiseid [siin](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Veenduge, et DLP reeglil oleks poliitika näpunäited **lubatud** [.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Veenduge, et teie **sisu vastaks** [selles artiklis kirjeldatud](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)reegli käivitamiseks **nõutavale** .
+- Veenduge, et teie **sisu vastab** sellele, mida on **vaja** [käesolevas artiklis kirjeldatud](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)reegli käivitamiseks.
 
-- Poliitikaspikrid kuvada nii OWA ja Outlook. Siiski, kui kasutate **Outlook 2013 või uuem**, poliitikaspikrid kuvatakse ainult teatud tingimustel. Need tingimused on loetletud siin: [toetatud tingimused Outlook 2013 või uuem poliitika näpunäited kuvamiseks](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- Poliitika näpunäited kuvatakse nii OWAs kui ka Outlookis. Kui aga kasutate **rakendust Outlook 2013 või uuemat versiooni**, kuvatakse poliitika näpunäited ainult teatud tingimustel. Need tingimused on loetletud siin: [Outlook 2013 või uuemates versioonides toetatud tingimused poliitika näpunäidete kuvamiseks](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-DLP poliitika näpunäited kohta lisateabe saamiseks vaadake: [Kuva poliitikaspikrid DLP poliitika](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Lisateavet DLP poliitika näpunäidete kohta leiate teemast [poliitika näpunäidete kuvamine DLP poliitikate jaoks](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips) .
   

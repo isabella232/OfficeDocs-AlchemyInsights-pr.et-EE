@@ -1,5 +1,5 @@
 ---
-title: Luba Mitmefaktoriga autentimine
+title: Autentimise lubamine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703458"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678032"
 ---
-# <a name="enable-multi-factor-authentication"></a>Luba mitme teguriga autentimine
+# <a name="enable-multi-factor-authentication"></a>Mitme teguri autentimise lubamine
 
-Mitme teguriga autentimise lubamiseks Microsoft 365 halduskeskus:
+Mitme teguri autentimise lubamiseks Microsoft 365 halduskeskus tehke järgmist.
 
-1. lehele **kasutajate** \> **aktiivsed kasutajad** .
+1. Avage leht **Kasutajad** \> **aktiivsed kasutajad** .
     
-2. Valige lehe ülaosas **mitme teguriga autentimine**. 
+2. Valige lehe ülaosas **mitme teguri autentimine**. 
     
-3. Leidke kasutaja või kasutajad, kelle soovite lubada mitme teguriga autentimine. Kõigi kasutajate nägemiseks peate võib-olla muutma **mitme teguriga authi olekufiltri** ülaosas.
+3. Otsige üles kasutaja või kasutajad, kellele soovite mitme teguri autentimise lubada. Kõigi kasutajate kuvamiseks peate võib-olla muutma ülal asuvat **mitme teguri autentimise** filtrit.
     
-4. Märkige ruut nende kasutajate kõrval, keda soovite lubada.
+4. Märkige ruudud nende kasutajate kõrval, kelle soovite lubada.
     
-5.  Valige paremas kasutaja teabepaanil jaotises **kiirtoimingud**suvand **Luba**. 
+5.  Valige paanil õige Kasutajateave jaotises **kiirtoimingud**käsk **Luba**. 
     
-6. Valige avanevas dialoogiboksis suvand **Luba mitme teguriga autentimine**. 
+6. Valige avanevas dialoogiboksis **Luba mitme teguri autentimine**. 
     
 

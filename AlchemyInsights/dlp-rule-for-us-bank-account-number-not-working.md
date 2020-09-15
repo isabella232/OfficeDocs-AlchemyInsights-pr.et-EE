@@ -1,49 +1,50 @@
 ---
-title: DLP reegel USA pangakonto number ei tööta
+title: DLP reegel US Bank Account number ei tööta
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: b032a7c80e8b387114aeda95c4f6af7e57225517
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507330"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679292"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP probleemid USA pangakonto numbrid
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP probleemid US Banki konto numbritega
 
 **Tähtis**! Nende enneolematude aegade jooksul võtame kasutusele meetmed, et säilitada SharePoint Online’i ja OneDrive’i teenuste hea kättesadavus. Lisateabe saamiseks vaadake teemat [SharePoint Online’i ajutised funktsioonide muudatused](https://aka.ms/ODSPAdjustments).
 
-**DLP probleemid USA pangakonto numbrid**
+**DLP probleemid US Banki konto numbritega**
 
-Kas teil on probleeme **andmete kadu vältimine (DLP)** ei tööta sisu, mis sisaldab **USA pangakonto number** , kui kasutate DLP tundliku teabe tüüp O365? Kui jah, veenduge, et teie sisu sisaldab vajalikku teavet selle kohta, mida DLP poliitika otsib, kui seda hinnatakse.
+Kas teil on probleeme **andmete kaotsimineku vältimisega (DLP)** , mis ei tööta **USA** kontonumbrit sisaldava sisuga, kui kasutate O365 DLP tundliku teabe tüüpi? Kui jah, siis veenduge, et teie sisu sisaldaks vajalikku teavet selle kohta, mida DLP poliitika selle hindamisel otsib.
   
-Näiteks **USA pangakonto number** poliitika konfigureeritud usalduse tase 85%, hinnatakse järgmist ja tuleb tuvastada reegli käivitamiseks:
+Näiteks kui **US Bank Account number** on konfigureeritud 85% usaldusväärsusega, hinnatakse ja tuleb reegli käivitamise korral tuvastada järgmist.
   
-- **[Formaat:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 numbrit
+- **[Vorming:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 numbrit
 
-- **[Muster:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 järjestikust numbrit.
+- **[Muster:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 järjestikused numbrid.
 
-- **[Kontrollsumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ei, kontrollsumma puudub
+- **[Kontrollsumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ei, pole kontrollsummat
 
-- **[Määratlus:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** DLP poliitika on 75% kindel, et see on avastatud seda tüüpi tundlik teave, kui lähedus 300 tähemärki:
+- **[Definitsioon:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** DLP poliitika on 75% kindel, et see on tuvastanud seda tüüpi tundliku teabe, kui 300 märkide lähedusse jääb:
 
-  - Regulaarne avaldis Regex_usa_bank_account_number otsib sisu, mis vastab muster
+  - Tavaline avaldis Regex_usa_bank_account_number otsib mustriga kattuvat sisu.
 
-  - Leitakse märksõna Keyword_usa_Bank_Account.
+  - Leitakse Keyword_usa_Bank_Account märksõna.
 
-    Näiteks järgmine näidis käivitab **USA pangakonto number** poliitika: konto 78344011 kontrollimine
+    Näiteks käivitab Järgmine näidis **USA pangakonto numbripoliitika** : konto 78344011
 
-Lisateabe saamiseks selle kohta, mida on vaja **USA pangakonto number** tuvastatav teie sisu, lugege järgmist jaotist selles artiklis: [mida tundliku teabe tüübid otsida USA pangakonto number](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+Lisateavet selle kohta, mis on vajalik selle kohta, mis on vajalik teie sisu tuvastamiseks **USA pangakonto numbri** kohta, leiate selle artikli jaotisest [Kuidas tundlikud teabe liigid meie pangakonto numbrit näevad](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number) ?
   
-Kasutades muu sisseehitatud tundliku teabe tüüp, lugege järgmist artiklit teavet, mida on vaja muud tüüpi: [mida tundliku teabe tüübid otsida](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Mõne muu sisseehitatud tundliku teabe tüübi abil leiate lisateavet selle kohta, mida on vaja muude tüüpide jaoks: [millist tüüpi tundlikud teabe tüübid otsivad](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

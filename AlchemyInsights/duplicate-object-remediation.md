@@ -1,30 +1,31 @@
 ---
-title: 1314 dubleeritud objekti tervendamine
+title: 1314 Dubleeri objekti tervendamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c071e1a161cd2885b10d082f3c78eb5ac65b0b2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703963"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678572"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Dubleeritud objekti sünkroonimise tõrked
+# <a name="duplicate-object-synchronization-errors"></a>Objekti sünkroonimise tõrgete dubleerimine
 
-Kui sünkroonimise ajal kuvatakse üks järgmistest tõrketeadetest:
+Kui sünkroonimisel kuvatakse üks järgmistest tõrketeadetest, tehke järgmist.
 
-- Sama puhveraadressiga sünkroonitud objekt on teie Microsoft Online Services kataloogis juba olemas.
+- Teie Microsoft Online Services kataloogis on sama puhverserveri aadressiga sünkroonitud objekt juba olemas.
 
 - Sarnane sõnum UserPrincipalName.
 
-Kasutage uue AADConnect tervise diagnostika dubleeritud objekti tõrgete lahendamiseks. Lisateabe saamiseks vaadake [diagnoosimiseks ja tervendada dubleeritud atribuut sünkroonimise tõrked](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Uue Aadconnecti abil saate lahendada vigade dubleerimise. Lisateavet leiate teemast [dubleeritud atribuudi sünkroonimise tõrgete diagnoosimine ja vahendamine](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).

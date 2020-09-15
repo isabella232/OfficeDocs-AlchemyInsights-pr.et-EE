@@ -1,34 +1,35 @@
 ---
-title: Faili limiidid
+title: Failimahu piirangud
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: dc77375a46c3a0973193e2d055fd7ab5ce125500
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d27c95b5cfae5f73aeb9027f4440b7ad1ea7f3f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702806"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677960"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>Faili üleslaadimine piirangud SharePoint Online
+# <a name="file-upload-limits-in-sharepoint-online"></a>Faili üleslaadimise piirangud SharePoint Online ' is
 
-- Teek võib olla kuni 30 000 000 faile ja kaustu.
+- Teegis võib olla kuni 30 000 000 faili ja kausta.
     
-- URL-i kogupikkus (sh faili nimi) ei tohi ületada 400 märki.
+- URL-i (sh failinime) kogupikkus ei tohi ületada 400 märki.
     
-- Iga fail on väiksem kui 15 GB. Loendiüksustega manustatud failid võivad olla kuni 250 MB suuruse.
+- Iga toimik on vähem kui 15 GB. Loendi üksustele manustatud failid võivad olla kuni 250 MB suurused.
     
-- Optimaalse jõudluse sünkroonimise uue OneDrive ' i sünkroonimise klient, soovitame salvestada mitte rohkem kui 100 000 faile teegis. 
+- Optimaalse jõudluse sünkroonimiseks uue OneDrive ' i sünkroonimise kliendiga soovitame teegis talletada kuni 100 000 faili. 
     
-[Märgid, mida ei saa failinimesid kasutada](https://go.microsoft.com/fwlink/?linkid=866430)
+[Märgid, mida ei saa failinimedes kasutada](https://go.microsoft.com/fwlink/?linkid=866430)
   
-[Tüüpi faile, mida ei saa lisada loendisse või teeki](https://go.microsoft.com/fwlink/?linkid=273757)
+[Failitüübid, mida ei saa lisada loendisse ega teeki](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[Rohkem teavet SharePoint Online ' i piirangud](https://go.microsoft.com/fwlink/?linkid=271273)
+[Lisateavet SharePoint Online ' i piirangute kohta](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

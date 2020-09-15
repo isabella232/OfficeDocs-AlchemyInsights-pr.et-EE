@@ -1,27 +1,28 @@
 ---
-title: Võtke meiega ühendust, klõpsates kõrvaklappide nuppu
+title: Võta meiega ühendust, klõpsates nuppu kõrvaklappide
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 49365a139a97ebde1b1c0c3db710b5b03cfb8738
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584722"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680896"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>Võtke meiega ühendust, klõpsates kõrvaklappide nuppu
+# <a name="contact-us-by-clicking-the-headphone-button"></a>Võta meiega ühendust, klõpsates nuppu kõrvaklappide
 
-Kui soovite võtta ühendust Microsofti tugiteenusega, klõpsake palun **võtke meiega ühendust** alumises vasakus nurgas selle rakenduse. Sisse Fly-out aken, siis juhindub õige tugiteenuse kanal pärast valides oma toote ja emissiooni kategooria.
+Kui soovite pöörduda Microsofti kasutajatoe poole, siis klõpsake selle rakenduse vasakus allnurgas nuppu **Võta meiega ühendust** . Aknas lendamise aken, suunatakse teid õigele toe kanalile, valides oma toote ja probleemi kategooria.
 
-![Võtke meiega ühendust, klõpsates kõrvaklappide ikoonil.](media/contact-us-headphone-icon.png)
+![Võta meiega ühendust, klõpsates kõrvaklappide ikooni.](media/contact-us-headphone-icon.png)
 
-Saate hoida suheldes ülejäänud app isegi pärast seda, kui olete algatanud kontakt meie seansi. Kontakt paneel saab ajutiselt minimeeritud klõpsates kusagil mujal rakenduse sees. Samale seansile naasmiseks klõpsake lihtsalt **meiega ühendust** .
+Saate jätkata teiste rakendustega suhtlemist ka pärast seda, kui olete meiega seansi algatanud. Kontaktide paani saab ajutiselt minimeerida, kui klõpsate rakenduse sees suvalist kohta. Samale seansile naasmiseks klõpsa lihtsalt nuppu **Võta meiega ühendust** .
