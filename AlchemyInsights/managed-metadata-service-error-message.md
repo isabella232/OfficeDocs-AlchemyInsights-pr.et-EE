@@ -5,22 +5,23 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 5bdea7c1c0e74ca622fc4c5d5595cc5dada3c5e0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762493"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662861"
 ---
-# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="079dd-102">Hallatavate metaandmete teenuse tõrketeade</span><span class="sxs-lookup"><span data-stu-id="079dd-102">Managed Metadata Service error message</span></span>
+# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="97653-102">Hallatavate metaandmete teenuse tõrketeade</span><span class="sxs-lookup"><span data-stu-id="97653-102">Managed Metadata Service error message</span></span>
 
-<span data-ttu-id="079dd-103">Terminikaupoe avamisel võidakse kuvada tõrketeade: "hallatud metaandmete teenus või ühendus pole praegu saadaval.</span><span class="sxs-lookup"><span data-stu-id="079dd-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="079dd-104">Rakendusekausta või hallatavate metaandmete veebiteenuse ei pruugi olla käivitatud.</span><span class="sxs-lookup"><span data-stu-id="079dd-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="079dd-105">Palun pöörduge oma administraatori poole. "</span><span class="sxs-lookup"><span data-stu-id="079dd-105">Please Contact your Administrator."</span></span>
+<span data-ttu-id="97653-103">Terminite salve avamisel võidakse kuvada tõrketeade: "hallatavate metaandmete teenus või ühendust pole praegu saadaval.</span><span class="sxs-lookup"><span data-stu-id="97653-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="97653-104">Võimalik, et rakendusekausta või hallatavate metaandmete veebiteenust pole alustatud.</span><span class="sxs-lookup"><span data-stu-id="97653-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="97653-105">Palun pöörduge oma administraatori poole. "</span><span class="sxs-lookup"><span data-stu-id="97653-105">Please Contact your Administrator."</span></span>
   
-<span data-ttu-id="079dd-106">Kui on möödunud rohkem kui 24 tundi pärast seda, kui te esimest korda seda probleemi, Palun logige tugiteenuse juhtumi.</span><span class="sxs-lookup"><span data-stu-id="079dd-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="079dd-107">Me mõistame, et 24 tundi võib tunduda pikk aeg.</span><span class="sxs-lookup"><span data-stu-id="079dd-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="079dd-108">Paljudel juhtudel töötame juba lahenduse kallal, nii et palun andke meile vähemalt 24 tundi.</span><span class="sxs-lookup"><span data-stu-id="079dd-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
+<span data-ttu-id="97653-106">Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenuse juhtumi korral.</span><span class="sxs-lookup"><span data-stu-id="97653-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="97653-107">Mõistame, et 24 tundi võib tunduda pikk aeg.</span><span class="sxs-lookup"><span data-stu-id="97653-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="97653-108">Paljudel juhtudel töötame juba lahenduse kallal, nii et palun anna meile vähemalt 24 tundi.</span><span class="sxs-lookup"><span data-stu-id="97653-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
   
