@@ -1,11 +1,12 @@
 ---
-title: 610 Lisateavet Microsoft 365 rühmad
+title: 610 teave Microsoft 365 rühmade kohta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 0d4b1b12389a7da47180d4a8b8ab4e181d4380cd
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 7ada16406b79317882831c54bdee117153723dd9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912471"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676770"
 ---
-# <a name="learn-about-microsoft-365-groups"></a><span data-ttu-id="baa18-102">Teave Microsoft 365 rühmade kohta</span><span class="sxs-lookup"><span data-stu-id="baa18-102">Learn about Microsoft 365 Groups</span></span>
+# <a name="learn-about-microsoft-365-groups"></a><span data-ttu-id="4fa85-102">Teave Microsoft 365 rühmade kohta</span><span class="sxs-lookup"><span data-stu-id="4fa85-102">Learn about Microsoft 365 Groups</span></span>
 
-<span data-ttu-id="baa18-103">Microsoft 365 rühmad on teenus, mis töötab Office 365 tööriistadega, mida kasutate juba, nii et saate teha oma meeskonnakaaslastega koostööd dokumentide kirjutamisel, arvutustabelite loomisel, projektiplaanide koostamisel, koosolekute planeerimisel või meili saates.</span><span class="sxs-lookup"><span data-stu-id="baa18-103">Microsoft 365 Groups is a service that works with the Office 365 tools you use already, so you can collaborate with your teammates when writing documents, creating spreadsheets, working on project plans, scheduling meetings, or sending email.</span></span> <span data-ttu-id="baa18-104">Lisateabe saamiseks vaadake [Lisateavet Microsoft 365 rühmad](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="baa18-104">For more information, see [Learn about Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+<span data-ttu-id="4fa85-103">Microsoft 365 rühmad on teenus, mis töötab Office 365 tööriistade abil, mida te juba kasutate, nii et saate teha koostööd oma töökaaslastega, et dokumente kirjutada, tabeleid luua, projekte kavandada, koosolekuid kavandada või meilisõnumeid saata.</span><span class="sxs-lookup"><span data-stu-id="4fa85-103">Microsoft 365 Groups is a service that works with the Office 365 tools you use already, so you can collaborate with your teammates when writing documents, creating spreadsheets, working on project plans, scheduling meetings, or sending email.</span></span> <span data-ttu-id="4fa85-104">Lisateavet leiate teemast teave [Microsoft 365 rühmade kohta](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="4fa85-104">For more information, see [Learn about Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
