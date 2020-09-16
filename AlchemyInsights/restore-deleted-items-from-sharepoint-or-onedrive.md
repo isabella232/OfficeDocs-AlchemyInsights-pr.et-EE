@@ -1,39 +1,40 @@
 ---
 title: Kustutatud üksuste taastamine SharePointist või OneDrive ' ist
-ms.author: stevhord
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 37788c31f4068792956cfff9b89d48c3e9c2f253
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582519"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728175"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Kustutatud üksuste taastamine SharePointist või OneDrive ' ist
 
-1. oma OneDrive ' i või SharePointi saidile.
+1. Avage OneDrive ' i või SharePointi sait.
     
-2. Klõpsake vasakpoolsel paanil **prügikasti** . 
+2. Klõpsake vasakpoolsel paanil ikooni **Prügikast** . 
     
-3. Klõpsake üksuste või failide vasakul, mida soovite taastada.
+3. Klõpsake üksustest või failidest vasakul, mida soovite taastada.
     
 4. Klõpsake nuppu **Taasta**. 
     
-Kui failid, kaustad, teegid, loendid ja loendiüksused kustutatakse SharePointi saidilt, lähevad nad prügikasti, kus neid säilitatakse 93 päeva, kui keegi ei saa neid sellest prügikastist kustutada. Kui need kustutatakse sellest prügikastist (nimetatakse saidi prügikasti), lähevad nad ülejäänud aja kohta saidikogumi prügikasti ja seejärel kustutatakse jäädavalt. Kustutatud saidid ja saidikogumid minna otse saidikogumi Recycle Bin 93 päeva.
+Kui failid, kaustad, teegid, loendid ja loendiüksused kustutatakse SharePointi saidilt, lähevad need prügikasti, kus neid säilitatakse 93 päeva jooksul, välja arvatud juhul, kui keegi kustutab need sellelt prügikastist. Kui nad kustutatakse sellest prügikastist (mida nimetatakse saidi prügikasti), lähevad nad järelejäänud aja jooksul saidikogumi prügikasti ja kustutatakse jäädavalt. Kustutatud saidid ja saidikogumite lähevad 93 päeva jooksul otse saidikogumi prügikasti.
   
-[Üksuste taastamine saidikogumi prügikastis](https://go.microsoft.com/fwlink/?linkid=867800) (saidikogumi administraatorid) 
+Saidikogumi [prügikastis olevate üksuste taastamine](https://go.microsoft.com/fwlink/?linkid=867800) (saidikogumi administraatorid) 
   
-[Taasta kustutatud saidikogumid](https://go.microsoft.com/fwlink/?linkid=867660) (globaalne või SharePointi administraatoritel Microsoft 365) 
+[Kustutatud saidikogumite](https://go.microsoft.com/fwlink/?linkid=867660) (Global või SharePointi administraatorid Microsoft 365) taastamine 
   
-Saidid, mis kuuluvad Microsoft 365 rühma, peate taastada rühma saidi taastamiseks. Vaadake [taastada kustutatud Microsoft 365 rühma](https://go.microsoft.com/fwlink/?linkid=867802) (globaalne admin) 
+Microsoft 365 rühma kuuluvate saitide jaoks peate saidi taastamiseks rühma taastama. Vaadake teemat [Kustutatud Microsoft 365 rühma taastamine](https://go.microsoft.com/fwlink/?linkid=867802) (globaalne administraator) 
   
 

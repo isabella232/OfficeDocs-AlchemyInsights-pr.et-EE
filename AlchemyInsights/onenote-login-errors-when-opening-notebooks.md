@@ -1,33 +1,34 @@
 ---
-title: OneNote - Logi sisse vead kui märkmike avamine
+title: OneNote – märkmike avamisel vigade sisselogimine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.collection: Adm_O365
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: 960d5d5b4349490f774c4e280dac3445bb2b8c48
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643889"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729291"
 ---
-# <a name="issues-signing-in-to-onenote-notebooks"></a>OneNote'i märkmikke sisselogimisega probleeme
+# <a name="issues-signing-in-to-onenote-notebooks"></a>OneNote ' i märkmike sisselogimisega seotud probleemid
 
-Kui saate sisselogimise või parooli tõrked, kui proovin avada oma sülearvuti, proovige järgmist:
+Kui teie märkmikku avades kuvatakse sisselogimise või parooli tõrked, proovige teha järgmist.
 
-- Kui märkmikku, et ei ava on salvestatud OneDrive või SharePoint Online, proovige avada märkmiku OneNote Web (at www.onenote.com). Kui sülearvuti ei ole loendis, ei pruugi olla juurdepääsu õigust. Kui on ühismärkmiku, Paluge omanikul seda jagada ja tagada, et te kasutate õigele kontole sisse logida.
+- Kui OneDrive ' is või SharePoint Online ' is talletatud märkmikku ei salvestata, proovige märkmik veebirakenduses OneNote ' i avada (aadressil www.onenote.com). Kui märkmikku pole loendis, ei pruugi teil olla selle jaoks õigust. Kui tegemist on ühiskasutatava märkmikuga, Paluge omanikul see ühiskasutusse anda ja veenduge, et kasutate sisselogimiseks õiget kontot.
 
-- Kui märkmik avaneb OneNote Web, veenduge, et te logite OneNote'i praeguse mandaadid. 
+- Kui märkmik avatakse OneNote ' i veebirakenduses, veenduge, et logite sisse OneNote ' i praeguste mandaadiga. 
 
-- Selge [Office mandaati](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) kasutades [Windows Mandaadihaldur](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
+- Tühjendage [Office ' i mandaat](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) [Windows mandaadi halduri](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager)abil.
 
-- OneNote 2016, valige **faili** > **konto** ja **Logi välja** kõikide kontode. Logige uuesti kasutajakontoga, kellel on kehtiv juhiluba. Üksikasjalikuma teabe saamiseks vt [kontode ametisse](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Rakenduses OneNote **2016 valige**  >  **konto** ja **logige välja** kõigist kontodest. Logige uuesti sisse, kasutades kehtiva litsentsiga kasutajakontot. Lisateavet vt teemast [Office’i kontod](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- OneNote for Windows valige kolmikpunkt (****...) peal **ostueesõiguse ekraani seaded** > **kontode**ja et töö või kool tarbeks on nimekirja.
+- Valige rakenduses OneNote for Windows kolmikpunkt (**...**), klõpsake Kuva paremas ülanurgas nuppu **sätted**  >  **Accounts**ja veenduge, et loendis oleks kuvatud töö või kooli konto.
