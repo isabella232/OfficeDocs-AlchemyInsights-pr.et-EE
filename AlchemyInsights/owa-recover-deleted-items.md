@@ -1,31 +1,32 @@
 ---
-title: Taasta kustutatud e-posti Outlook veebis
+title: Kustutatud meilisõnumite taastamine Outlooki veebirakenduses
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 0db8d9d523721a9e890f530a8bdc12890d98d333
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 532791077b30c3cc306ab15f87f9e1fc1fc4ffa1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765661"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721870"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Taasta kustutatud e-posti Outlook veebis
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Kustutatud meilisõnumite taastamine Outlooki veebirakenduses
 
-1. Vasakpoolsel paanil valige kustutatud üksuste kausta või rämpsposti kausta.
+1. Valige vasakpoolsel paanil kaust Kustutatud üksused või kaust Rämpspost.
 
-2. Tehke ühte järgmistest:
+2. Tehke ühte järgmistest.
 
-    - Kustutatud üksuste kaust: valige sõnum, mida soovite taastada, ja valige **Taasta**. Kui sõnumit pole kaustas Kustutatud, valige sõnumiloendi ülaosas **sellest kaustast Kustutatud üksuste taastamine** , valige sõnum, mida soovite taastada, ja valige **Taasta**.
+    - Kaust Kustutatud: valige sõnum, mille soovite taastada, ja klõpsake nuppu **Taasta**. Kui sõnum pole kaustas Kustutatud, valige sõnumiloendis **sellelt kaustalt kustutatud üksuste taastamine** , valige sõnum, mille soovite taastada, ja klõpsake nuppu **Taasta**.
 
-    - Rämpsposti kaust: valige sõnum, mida soovite taastada, ja valige **mitte Rämpspost**.
+    - Kaust Rämpspost: valige sõnum, mille soovite taastada, ja valige **pole rämpspost**.
 
-Lisateabe saamiseks vaadake [Taasta kustutatud meilisõnumid Outlookis veebis](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+Lisateavet leiate teemast [Kustutatud meilisõnumite taastamine Outlooki veebirakenduses](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).

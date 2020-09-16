@@ -1,38 +1,39 @@
 ---
-title: SharePoint Online ' i levinud probleemid ja lahendused
+title: SharePoint Online ' i levinumad probleemid ja lahendused
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771175"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720309"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online ' i levinud probleemid ja lahendused
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online ' i levinumad probleemid ja lahendused
 
-Siin on mõned korduma kippuvad teemad SharePoint Online ' i probleemid:
+Siin on mõned sageli nõutavad teemad SharePoint Online ' i probleemide korral.
 
-- **Alustamine: kasutage** [SharePointi ilme raamat](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) ehitada ilus, võimas sisevõrgu, mis ühendab töökoha. Vaadake [näiteid](https://lookbook.microsoft.com/) ja Hankige [kujundusjuhised](https://spdesign.azurewebsites.net/). Vaadake [Intro SharePoint Online '](https://docs.microsoft.com/sharepoint/introduction) i üldine sissejuhatus SharePoint Online.
+- **Alustamine**: kasutage [SharePointi ilmet](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) , et luua kaunis ja võimas sisevõrk, mis ühendab töökohta. Vaadake [näiteid](https://lookbook.microsoft.com/) ja Hankige [kujunduse juhised](https://spdesign.azurewebsites.net/). SharePoint Online ' i üldise tutvustuse kohta leiate teavet teemast [SharePoint Online '](https://docs.microsoft.com/sharepoint/introduction) i tutvustus.
 
-- **Õigused**: [luua õiguste strateegia](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ja [mõista õiguse taset](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **Õigused**: [õiguste strateegia koostamine](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ja õiguste [tasemete mõistmine](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-- **Jagamine**: [jagamine teistega](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) teie organisatsioonis või [teistega väljaspool teie organisatsiooni](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **Ühiskasutus**: [ühiskasutusse](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) andmine teie asutuses või [väljaspool teie asutust asuvate teistega](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 
-- **Dokumentide failidega töötamine**: Vaadake lisateavet failide [üleslaadimise](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb), faili [allalaadimise](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05), [failimuudatuste](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)ja praeguste [failipiirangute](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) kohta
+- **Dokumentidega töötamine**: Lugege lisateavet faili [üleslaadimise](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb), failide [allalaadimise](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05), failide [redigeerimise](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)ja praeguste [failide piirangute](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) kohta.
 
-- **Salvestusruum**: Vaadake, kuidas hallata oma kasutajaid OneDrive</a>' i salvestusruumi, näiteks tellimuse [saidi salvestusruumi haldamiseks](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) ja [kõigi limiitide mõistmiseks](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **Salvestusruum**: saate teada, kuidas hallata kasutajate OneDrive ' i salvestusruumi </a> (nt oma tellimuse [saidi salvestusruumi haldamine](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) ja [kõigi limiitide mõistmine](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)).
 
-- **Rentniku ümbernimetamine**: vaadake [muuta oma SharePointi domeeninime](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) lisateabe saamiseks.
+- **Rentniku**nimi: Lugege lisateavet teemast [SharePointi domeeninime muutmine](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) .
 
-- **Modernize SharePoint**: vaadake üle [juhend kaasaegne kogemus SharePointi](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) ja [Modernize oma klassikalise SharePointi saidid](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) alustada liikuda.
+- **Moderniseerige SharePoint**: vaadake üle [SharePointi moodsad](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) võimalused ja [kaasajastage oma klassikalised SharePointi saidid](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , et alustada liikumist.
 
-**Märkus:** Mõne kindla vastuse saamiseks SharePointi probleemi kohta saate küsimuse lühidalt ümber sõnastada ja lisada kõik tõrked, mida näete või milliseid funktsioone kasutate.
+**Märkus:** Täpsema vastuse saamiseks SharePointi probleemi kohta sõnastage oma küsimus lühidalt ümber ja lisage kõik kuvatavad vead või funktsioonid, mida kasutate.

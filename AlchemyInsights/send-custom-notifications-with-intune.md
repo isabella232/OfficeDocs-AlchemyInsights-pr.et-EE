@@ -1,35 +1,36 @@
 ---
-title: Kohandatud teatiste saatmine Intune ' iga
+title: Kohandatud teatiste saatmine Intune ' i abil
 ms.author: brenduns
 author: brenduns
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 969649084a2ac536ee1b41f225c3be5415a27c4b
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886853"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720642"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Kuidas saata kohandatud teated hallatud iOS-i ja Androidi seadmete kasutajatele
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Kohandatud teatiste saatmine hallatud iOS-i ja Androidi seadmete kasutajatele
 
-Intune ' i kohandatud teatisi töötleb ettevõtte portaali rakendus kasutaja seadmes. Rakendus loob seejärel push teate selle seadme.
+Intune ' i jaoks kohandatud teatisi töötleb kasutaja seadmes ettevõtte portaali rakendus. Seejärel loob rakendus selle seadme push-teatise.
 
-Järgmised on seadme eeltingimused kohandatud teatiste vastuvõtmise toetamiseks ja rakenduse loomiseks tõukemärguannet:
+Järgnevalt on toodud seadme eeltingimused kohandatud teatiste vastuvõtmise toetamiseks ja rakenduse loomiseks seejärel push Notification.
 
-- Seadmel peab olema installitud ettevõtteportaali rakendus.  
+- Seadmes peab olema installitud ettevõtte portaali rakendus.  
 
-- Seade peab lubama ettevõtte portaali rakendusel tõukemärguandeid saata. Kui rakendus on installitud või värskendatud, küsib kasutaja luba märguandeid.
+- Seade peab lubama ettevõtte portaali rakendusel saata push Notifications. Kui rakendus on installitud või värskendatud, palutakse kasutajal teatised lubada.
 
-- Androidi seadmetel peab olema installitud Google Play teenused.
+- Androidi seadmetes peab olema installitud Google Play teenused.
 
-- Seade tuleb registreerida Intune ' iga.
+- Seade peab olema varustatud Intune ' iga.
 
 Lisateavet selle kohta, kuidas sõnumit saata, leiate [funktsiooni dokumentatsioonist](https://docs.microsoft.com/intune/custom-notifications).

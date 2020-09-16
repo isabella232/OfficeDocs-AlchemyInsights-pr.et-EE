@@ -1,47 +1,48 @@
 ---
-title: Sisselogimine Windows 10 parooli kasutamata
+title: Windows 10 sisselogimine parooliga kasutamata
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1f325eb7afb1e88457296e8187f8ba6dff2ebfe0
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588277"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719949"
 ---
-# <a name="sign-in-to-windows-10-without-using-a-password"></a>Sisselogimine Windows 10 parooli kasutamata
+# <a name="sign-in-to-windows-10-without-using-a-password"></a>Windows 10 sisselogimine parooliga kasutamata
 
-Et vältida parooli sisestamist Windowsi käivitamisel, soovitame kasutada ühte Windows Hello turvalise sisselogimise suvanditest, nagu PIN-kood, näotuvastus või sõrmejälg, kui see on saadaval. Kui soovite kindlasti turvalise sisselogimise keelata, lugege allolevaid juhiseid jaotisest "automaatselt sisse logida Windows 10".
+Et vältida parooli tippimist Windowsi käivitamisel, soovitame kasutada ühte Windows Hello turvalist sisselogimise suvandit (nt PIN-koodi, näo tuvastust või sõrmejälge), kui see on saadaval. Kui soovite kindlasti turvalise sisselogimise keelata, lugege allpool olevat jaotist "Automaatne sisselogimine opsüsteemi Windows 10".
 
-**Secure Windows Hello alternatiivid konto parool**
+**Turvaliste Windows Hello alternatiivid konto parooli**
 
-Avage **sätted > kontod > Sisselogimissuvandid** (või klõpsake [siin](ms-settings:signinoptions?activationSource=GetHelp)). Saadaolevad Sisselogimissuvandid loetletakse. Näiteks.
+Valige **sätted, > kontode > sisselogimise suvandid** (või klõpsake [siin](ms-settings:signinoptions?activationSource=GetHelp)). Saadaolevad sisselogimise suvandid on loetletud. Näiteks.
 
-![Sisselogimissuvandid.](media/sign-in-options.png)
+![Sisselogimise suvandid.](media/sign-in-options.png)
 
-Klõpsake või koputage selle konfigureerimiseks ühte suvandit. Järgmisel korral, kui käivitate või avate Windowsi, saate kasutada parooli asemel uut suvandit. 
+Selle konfigureerimiseks klõpsake või puudutage mõnda suvandit. Järgmine kord, kui käivitate või avate Windowsi, saate parooli asemel kasutada uut suvandit. 
 
-**Sisselogimine automaatselt Windows 10-sse**
+**Windows 10 automaatne sisselogimine**
 
-**Märkus**: Automaatne sisselogimine on mugav, kuid tutvustab turberiski, eriti kui teie arvutil on juurdepääs mitmele inimesele. 
+**Märkus**: Automaatne sisselogimine on otstarbekas, kuid see tutvustab turvariski, eriti juhul, kui teie arvuti on juurdepääsetav mitmele inimesele. 
 
-1. Klõpsake või koputage tegumiribal nuppu **Start** .
+1. Klõpsake või puudutage tegumiribal nuppu **Start** .
 
-2. Tippige **netplwiz** ja vajuta sisenema võti kasutajakontode akna avamiseks.
+2. Tippige **netplwiz** ja vajutage akna Kasutajakontod avamiseks sisestusklahvi (ENTER).
 
-3. Klõpsake **kasutajakontode**kontol, kuhu soovite Windowsi käivitumisel automaatselt sisse logida.
+3. Klõpsake jaotises **kasutajakontod**kontot, millele soovite Windowsi käivitumisel automaatselt sisse logida.
 
-4. Tühjendage märkeruut "kasutajad peavad sisestama kasutajanime ja parooli selle arvuti kasutamiseks".
+4. Tühjendage ruut "kasutajad peavad selle arvuti kasutamiseks sisestama kasutajanime ja parooli".
 
-    ![Kasutajad peavad sisestama kasutajanime ja parooli suvandi.](media/users-must-enter-username.png)
+    ![Kasutajad peavad sisestama suvandi kasutajanimi ja parool.](media/users-must-enter-username.png)
 
-5. Klõpsake nuppu **OK**. Teil palutakse sisestada ja kinnitada valitud konto parool. Lõpetamiseks klõpsake nuppu **OK** . Järgmine kord, kui Windows 10 käivitub, läheb see automaatselt teie valitud kontole sisse.
+5. Klõpsake nuppu **OK**. Teil palutakse valitud konto parool sisestada ja kinnitada. Lõpuleviimiseks klõpsake nuppu **OK** . Järgmine kord, kui Windows 10 käivitub, logib see automaatselt sisse teie valitud kontole.
