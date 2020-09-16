@@ -1,32 +1,33 @@
 ---
-title: Juurdepääs projektile online
+title: Accessi Project Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 09c241bc0d529377b5aa22d145afec9c07fe68b5
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 94fd156311aafffa2a41552d811916e82f4462ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44493079"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668569"
 ---
-# <a name="access-project-online"></a>Juurdepääs projektile online
+# <a name="access-project-online"></a>Accessi Project Online
 
-- Project Online ' i juurdepääsuks peate esmalt [tellima Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) , lisades selle Office 365, siis veenduge, et [teile on määratud litsents](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in).
-- Järgige [neid samme](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) , et lisada kasutajaid projekti online ja [Jaga Project Online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) nendega.
+- Project Online ' i avamiseks peate esmalt [tellima Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) ' i, lisades selle Office 365, ja veenduge, et [teile on määratud litsents](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in).
+- Kasutajate lisamiseks Project Online ' i ja [Project Online ' i ühiskasutusse](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) andmiseks tehke [järgmist](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) .
 
-Anda kasutajatele juurdepääsu Project Web Appi saidi SharePointi õiguste režiimi abil:
+Kasutajatele juurdepääsu andmine Project Web Appi saidile SharePointi õiguse režiimi abil:
 
-1. Logige sisse Project Online admin.
-2. Project Web App Avaleht, klõpsake **osa** ülemises paremas nurgas.
-3. Tippige dialoogiboksi **Share Project Web App** isiku kasutajanimi, kellele soovite juurdepääsu anda, **kutsudes inimesi** kasti.
-4. Klõpsake nuppu **Kuva suvandid**ja valige **õigusetaseme** menüüs valik **Projektihaldurid Project Web Appi jaoks**.
-5. Klõpsake valikul **ühiskasutus**.
+1. Logige Project Online ' i administraatorina sisse.
+2. Klõpsake Project Web Appi avalehel ülemises parempoolses nurgas nuppu **Anna ühiskasutusse** .
+3. Tippige dialoogiboksis **Project Web Appi ühiskasutusse** andmiseks selle isiku kasutajanimi, kellele soovite anda juurdepääsu väljale **Kutsu inimesi** .
+4. Klõpsake nuppu **Kuva suvandid**ja valige menüüs **Valige õigusetaseme valimine** **Project Web Appi**projektijuhid.
+5. Klõpsake nuppu **Anna ühiskasutusse**.

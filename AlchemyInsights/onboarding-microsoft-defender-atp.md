@@ -1,32 +1,33 @@
 ---
-title: Microsoft Defenderi ATP-st pardaleminek
+title: Microsoft Defenderi ATP-s
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 3b07ef940b225b9c8d382292f3ac1aba0c1ebb22
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141476"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673421"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Microsoft Defenderi ATP-st pardaleminek
+# <a name="onboarding-microsoft-defender-atp"></a>Microsoft Defenderi ATP-s
 
-Ressursse Microsoft Defender ATP windows 10, Windowsi serverite ja Mac i ja Linuxi arvutite pardal leiate järgmistest: 
+Windows 10, Windowsi serverite ja Mac-arvutite jaoks mõeldud Microsoft Defenderi ATP-ga seotud ressursside kohta leiate lisateavet järgmistest teemadest. 
 
-- **Windows 10 masinad** Sõltuvalt teie ettevõtte vajadustest saate valida suvandite seast, kust saate windows 10-ga töötava arvuti pardale minna. Lisateavet leiate teemast [Windows 10 seadmete onboarding-tööriistad ja -meetodid](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
+- **Windows 10 masinad** Olenevalt teie ärinõuetest saate valida, kas teil on Windows 10-ga töötava arvuti pardal olevad suvandid. Lisateavet leiate teemast [Windows 10 seadmetes tööriistade ja meetodite](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints)kasutuselevõtt. 
 
-- **Windowsi serverid** Windows Serveri versiooni jaoks Microsoft Defenderi ATP-le minekust leiate teemast [Pardaserverid teenusesse Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Windowsi serverid** Microsoft Defenderi ATP teie Windows Serveri versiooni kohta leiate teavet teemast [Microsoft DEFENDERI ATP-teenuse serverite pardal](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)olevad serverid.
 
-- **Windowsi-välised lõpp-punktid**  Enne pardal mitte-Windowsi süsteemi, peate vastama süsteemi nõuetele [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) või [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
+- **Mitte-Windowsi lõpp-punktid**  Enne kui te ei ole Windowsi arvuti pardal, peate täitma [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) -või [Linuxi](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)süsteeminõuded.
 
-    Pärast süsteeminõuete kinnitamist vaadake teemat [Windowsi-väliste windowsi-väliste seadmete pardal .](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)
+    Kui olete oma süsteeminõuded kinnitanud, lugege teemat [mitte-Windowsi seadmete pardal](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).

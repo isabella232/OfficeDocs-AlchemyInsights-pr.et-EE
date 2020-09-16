@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354084"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670360"
 ---
 # <a name="teams-admin-center"></a>Teamsi halduskeskus
 
@@ -31,5 +32,5 @@ Kui kasutajad ei ilmu Teamsi halduskeskuses, kontrollige järgnevat.
 
 - Kas olete kasutajad loonud või määranud itsentsid viimase 24 tunni jooksul? Veenduge, et ootaksite vähemalt 24 tundi enne tugiteenusetaotluse avamist.
 - Veenduge, kas olete määranud sobivad litsentsid.
-- Kui teil on-premise Active Directory, veenduge, et [msRTCSIP PrimaryUserAddress või SIP-aadress väljale ProxyAddresses kohaliku Active Directory on unikaalne ja vorming vastab](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP: kasutaja [Microsoft 365 administreerimiskeskuse](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**kasutajanimi** .
-- Kui kavatsete hoida Skype ' i Business Serveri juurutamine ja on kasutajad homed asutusesisese ja online: järgige **"Seadista hübriid meeskonnad ja Skype Business Online"** Skype ' i Business Server juhtpaneeli ja teisaldage Kasutajad online.
+- Kui teil on kohapealne Active Directory, veenduge, et [teie kohaliku Active Directory msRTCSIP-PrimaryUserAddress või SIP-aadress oleks unikaalne ning vorming ühtib](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP: kasutaja**kasutajanimi** [Microsoft 365 halduskeskus](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Kui kavatsete säilitada Skype ' i ärirakenduse serveri juurutuse ja lasta kasutajatel kodustatud kohapeal ja internetis: järgige oma Skype ' i ärirakenduse serveri juhtpaneelil linki **"Häälesta hübriid meeskonna ja Skype ' i ärirakenduse veebiväljaandega"** .

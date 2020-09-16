@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 4a66a419535de7c91c166ece94d62cce507f39e2
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 02fb52dbfa8fa47d04a317601fc7a7b1402836bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439104"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669171"
 ---
 # <a name="unable-to-download-files"></a>Faile ei saa alla laadida
 
@@ -25,7 +26,7 @@ ms.locfileid: "45439104"
     
 - OneNote ' i märkmikke ei saa alla laadida. Kui laadite alla OneNote ' i märkmikku sisaldava kausta, sisaldab ZIP-faili tõrketeade txt-faili kujul.  
     
-- Te ei saa faile otse **ühiskasutatavast** vaatest alla laadida. Avage faili ja salvestage koopia oma valitud asukohta.  
+- Te ei saa faile otse **ühiskasutatavast**  vaatest alla laadida. Avage faili ja salvestage koopia oma valitud asukohta.  
     
 - OneDrive for Businessis ei saa te Internet Explorerit kasutada kaustade või mitme faili allalaadimiseks. Kasutage kaustade või mitme faili allalaadimiseks Microsoft Edge ' i või Google Chrome ' i.  
     
