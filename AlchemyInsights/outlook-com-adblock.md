@@ -6,21 +6,22 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: a2755867c118f4ced86add738e8de11c7364d25a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 864e08c3dd9e424b7c59772274321249f2bad9f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761056"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768999"
 ---
-# <a name="adblock"></a>Adblock
+# <a name="adblock"></a>AdBlock
 
-Mõned kasutajad on praegu probleeme lugemisel või koostamisel e-posti kasutamisel Google Chrome AdBlock laiend. Selle probleemi lahendamiseks toimige järgmiselt.
+Mõnedel kasutajatel on praegu probleeme meilisõnumite lugemisel või koostamisel, kui kasutate AdBlock laiendiga Google Chrome ' i. Selle probleemi lahendamiseks tehke järgmist.
 
-1. Kasutage [Microsoft Edge ' i](https://www.microsoft.com/windows/microsoft-edge) või mõnda muud veebibrauserit.
-1. Välista Outlook.com AdBlock sätetest.Google Chrome paremas ülanurgas valige **AdBlock** ja seejärel valige **Ärge käivitage sellel domeenis lehekülgedel**.Värskendage oma brauser laadida Outlook.com uuesti.
+1. Kasutage [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge)' i   või mõnda muud brauserit.
+1. Välistage Outlook.com AdBlock sätetest.Valige Google Chrome ' i paremas ülanurgas **AdBlock**   ja seejärel klõpsake käsku **ära Käivita selle domeeni lehtedel**.Outlook.com uuesti laadimiseks värskendage brauserit.
