@@ -1,26 +1,27 @@
 ---
-title: 8000037 ei saa e-posti Outlook.com
+title: 8000037 ei saanud meilisõnumit rakenduses Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: 4d2fd6d68c88407740729aecd9e4d63f5b0d712b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761738"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772474"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="e1a3a-102">E-posti ei saa Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e1a3a-102">Not receiving mail in Outlook.com</span></span>
+# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="33822-102">Outlook.com ei saa meilisõnumeid vastu võtta</span><span class="sxs-lookup"><span data-stu-id="33822-102">Not receiving mail in Outlook.com</span></span>
 
-<span data-ttu-id="e1a3a-103">Kui te ei saa konkreetse saatja meilisõnumeid (nt pangaväljavõtted või paroolilähtestussõnumid), peate pöörduma saatjaga ja laskma neil teada, et te ei saa oma Outlook.com kontol e-posti.</span><span class="sxs-lookup"><span data-stu-id="e1a3a-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="e1a3a-104">Palun viidake saatjale [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), kust nad leiavad teavet parimate tavade kohta, soovitada veaotsingut ja linki, et võtta ühendust meie saatja klienditoega.</span><span class="sxs-lookup"><span data-stu-id="e1a3a-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
+<span data-ttu-id="33822-103">Kui te ei saa teatud saatjalt meilisõnumeid (nt oma panga väljavõtteid või paroolilähtestusketast), peate ühendust võtma saatjaga ning andma neile teada, et te ei saa oma Outlook.com-kontol meilisõnumeid vastu võtta.</span><span class="sxs-lookup"><span data-stu-id="33822-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="33822-104">Palun viidake saatjale [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , kus nad saavad leida teavet heade tavade kohta, soovitada tõrkeotsingut ja linki, et võtta ühendust meie saatja klienditoega.</span><span class="sxs-lookup"><span data-stu-id="33822-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
   
-<span data-ttu-id="e1a3a-105">Kui teie Outlook.com konto ei saa e-posti üldse, vaadake [Fix Outlook.com e-posti sünkroonimise probleemid](https://go.microsoft.com/fwlink/p/?linkid=874363).</span><span class="sxs-lookup"><span data-stu-id="e1a3a-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
+<span data-ttu-id="33822-105">Kui teie Outlook.com konto pole üldse meilisõnumeid saanud, lugege teemat [Outlook.com lahendamine](https://go.microsoft.com/fwlink/p/?linkid=874363).</span><span class="sxs-lookup"><span data-stu-id="33822-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
   
 
