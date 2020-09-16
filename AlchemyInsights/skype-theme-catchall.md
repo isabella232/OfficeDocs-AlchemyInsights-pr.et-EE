@@ -1,37 +1,38 @@
 ---
-title: Skype ' i kujunduse katchall
+title: Skype ' i kujunduse catchall
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 96f5a34707d469e3651d3868058a156182ff4021
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627318"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726915"
 ---
-# <a name="skype-for-business-common-issues-and-resolutions"></a>Skype ettevõtetele levinud probleemid ja lahendused 
+# <a name="skype-for-business-common-issues-and-resolutions"></a>Skype ' i ärirakenduse ühised probleemid ja lahendused 
 
-Konkreetsete küsimuste kohta Skype ' i ärirakenduse kohta, Kirjeldage lühidalt oma küsimust, et kirjeldada oma probleemi, sh tõrkeid, funktsioone, mida kasutate jne. 
+Skype ' i ärirakenduse kohta konkreetsete küsimuste korral sõnastage oma küsimus lühidalt ümber, Kirjeldage oma probleemi, sh tõrkeid, kasutatavaid funktsioone jne. 
 
-Siin on mõned korduma kippuvad Teemad:
+Siin on mõned sageli nõutavad teemad.
 
-**Skype Business sisselogimise tõrkeotsing:** Esmalt veenduge, et [Skype ' i äriteenus](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) on terve. Kui see on, vaadake [tõrkeotsingu Skype Business Online sisselogimise tõrked](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) kõrvaldada levinumad põhjused sisselogimisraskused.
+**Skype ' i ärirakenduse sisselogimise tõrkeotsing.** Esmalt veenduge, et [Skype ' i ärirakendus](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) oleks terve. Kui see on nii, vaadake uuesti sisse [Skype ' i ärirakenduse veebipõhise sisselogimise tõrked](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) , et kõrvaldada sisselogimiste probleemide levinud põhjused.
  
-**Tõrkeotsing audio ja video Skype ettevõtetele:** Vaadake [lahendusi levinud audio ja video probleemid Skype ettevõtetele](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc). 
+**Skype ' i ärirakenduse heli ja video tõrkeotsing:** Vaadake üle [Skype ' i ärirakenduses levinud heli ja video probleemide lahendused](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc). 
 
-**Skype ettevõtetele ühenduse probleemide tõrkeotsing:** Vaadake [lahendusi levinud ühenduse probleemid Skype ettevõtetele](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771).
+**Ühenduse probleemide tõrkeotsing Skype ' i ärirakenduses:** Vaadake üle [Skype ' i ärirakenduse levinumate ühenduse probleemide lahendused](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771).
 
-**Suhelda välise Skype ' i Ärikontaktide (Föderatsioon):** [Skype ' i luua ühendust välise Skype Business kasutajatele](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+**Suhtlemine väliste Skype ' i ärirakenduse kontaktidega (Föderatsioon):** [Skype '](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)i ärirakenduse häälestamine Skype ' i ärirakenduse kasutajatele
 
-**Suhelda Skype ' i kontaktidega:** andke Skype ' i [ärikasutajatele Skype ' i kontaktide lisamine](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
+**Suhtle Skype ' i kontaktidega:** [Luba Skype ' i ärirakenduse kasutajatel Skype ' i kontakte lisada](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
 
-**Täiendage Skype ' i Microsofti Teams:** Vaadake üle [oma Microsoft teamsi uuendamise alustamine](https://docs.microsoft.com/microsoftteams/upgrade-start-here) ja Lisateave Microsoft teamsi [kooseksisteerimise](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) kohta, kui võtate vastu oma organisatsioonis meeskonnad. 
+**Skype ' i ärirakenduse Microsoft teamsi uuendamine.** Vaadake üle [oma Microsoft teamsi uuenduste kasutamise alustamine](https://docs.microsoft.com/microsoftteams/upgrade-start-here) ja lugege lisateavet Microsoft teamsi [kooseksisteerimise](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) kohta, kui olete oma asutuse töörühma vastu võtnud. 
