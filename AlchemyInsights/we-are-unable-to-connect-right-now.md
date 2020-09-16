@@ -1,39 +1,40 @@
 ---
-title: Aktiveerimisprobleem – me ei saa praegu ühendust luua
+title: Aktiveerimise probleem – me ei saa kohe ühendust luua
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 24fe9910d1715b4f5f7d8d06b1d1344d4b8675bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581871"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725979"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Microsoft 365 rakenduste parandamine "me ei saa ühendust kohe" sõnum
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Microsoft 365 rakenduste parandamine "me ei saa praegu ühendust luua".
 
-Kui kuvatakse see teade, proovige järgmist.
+Kui teile kuvatakse see teade, proovige teha järgmist.
 
-1. Kontrollige oma tulemüüri, viirusetõrje tarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Interneti-juurdepääsu Microsoft 365 rakendustele. Vaadake [Microsofti URL-e ja IP-aadresside vahemikku](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kontrollige oma tulemüüri, viirusetõrjetarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Interneti-juurdepääsu Microsoft 365 rakendustele. Lugege teemat [Microsofti URL-ide ja IP-aadresside vahemikud](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. **Start**  >  **Run**ja seejärel tippige **Services. msc**. Veenduge, et järgmised teenused on kõik töötavad:
-    - Võrgu ühendatud seadmed auto-setup
-    - Võrguloendi teenus
-    - Võrgukoha teadlikkus
-    - Windowsi sündmuselogi
+2. Avage **Start**  >  **Run**ja tippige tekst **Services. msc**. Veenduge, et kõik töötavad järgmised teenused.
+    - Võrguga ühendatud seadmete automaatne häälestamine
+    - Võrgu loendi teenus
+    - Võrgu asukoha teadlikkus
+    - Windowsi sündmuste logi
 
-Kui üks neist teenustest ei tööta, proovige käivitada. Kui teil on probleem teenuse käivitamine, käivitage järgmine käsk, avades käsuviiba laiendatud õigustega:
+Kui mõni neist teenustest ei tööta, proovige seda käivitada. Kui teil on teenuse käivitamise probleem, käivitage järgmine käsk, avades käsuviiba, kus on kõrgendatud õigused.
 
 **SFC/scannow**
 
 Pärast selle käsu lõpulejõudmist taaskäivitage arvuti.
 
-Üksikasjalikku teavet leiate jaotisest ["Kahjuks ei saa me teie kontoga ühendust luua. Palun proovige hiljem uuesti "tõrge, kui aktiveerite Office ' i Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Üksikasjalikku teavet leiate teemast ["Kahjuks ei saa me teie kontoga ühendust luua. Kui aktiveerite Office ' i Microsoft 365 kaudu, proovige hiljem uuesti](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
