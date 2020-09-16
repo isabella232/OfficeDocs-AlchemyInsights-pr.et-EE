@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: cc5ca216f3e27a424f26bf5faa95b4df9c26b653
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767857"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802233"
 ---
-# <a name="skype-icon-missing"></a><span data-ttu-id="e28ce-102">Skype ' i ikoon puudub</span><span class="sxs-lookup"><span data-stu-id="e28ce-102">Skype icon missing</span></span>
+# <a name="skype-icon-missing"></a><span data-ttu-id="e32b5-102">Skype ' i ikoon puudub</span><span class="sxs-lookup"><span data-stu-id="e32b5-102">Skype icon missing</span></span>
 
-<span data-ttu-id="e28ce-103">Me oleme ajutiselt eemaldatud Skype ' i ikoon Outlook.com osana disaini värskendamine ja funktsioon uuendus me oleme põnevil, et tuleb välja. Me hindame teie kannatlikkust, kui valmistame ette uue ja parema kogemuse.</span><span class="sxs-lookup"><span data-stu-id="e28ce-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we're excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
+<span data-ttu-id="e32b5-103">Oleme ajutiselt eemaldanud Skype ' i ikooni alates Outlook.com osana kujunduse värskendamisest ja funktsiooni uuendusest oleme põnevil, et oleme välja veerenud. Hindame teie kannatlikkust, kui valmistame teile ette uue ja täiustatud kogemuse.</span><span class="sxs-lookup"><span data-stu-id="e32b5-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we're excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
 
-<span data-ttu-id="e28ce-104">Skype ' i saab endiselt kasutada brauseri kaudu aadressil [Web.skype.com](https://web.skype.com).</span><span class="sxs-lookup"><span data-stu-id="e28ce-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com).</span></span>
+<span data-ttu-id="e32b5-104">Skype ' i abil saad endiselt kasutada brauserit aadressil [Web.skype.com](https://web.skype.com).</span><span class="sxs-lookup"><span data-stu-id="e32b5-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com).</span></span>
