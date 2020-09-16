@@ -1,33 +1,34 @@
 ---
-title: Kustuta kontopilt
+title: Konto pildi kustutamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 5226da86643db58b39687735b67118796e9c40ad
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796069"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730947"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Konto pildi kustutamine Windows 10-s
+# <a name="delete-an-account-picture-in-windows-10"></a>Konto pildi kustutamine opsüsteemis Windows 10
 
-Windows on loodud selleks, et lasta teil vahetada kolme kõige värskema pildi vahel. Kui peate kustutama ühe oma kontopiltidest:
+Windowsi eesmärk on lasta teil oma kolme viimatise pildi vaheldumisi aktiveerida. Kui peate mõne konto pildid kustutama, tehke järgmist.
 
-1. Avage tegumiribalt File Explorer. Kui te ei näe tegumiribal faili Explorer (kausta ikoon), valige **Start** ja tippige **File Explorer**.
+1. Avage tegumiribal Explorer Explorer. Kui te ei näe tegumiribal faili Explorerit (kausta ikoon), valige **Start** ja tippige tekst **Explorer**.
 
-2. Minge c:\users\\oma*nime*\appdata\roaming\microsoft\windows\accountpictures. 
-    - Asendage oma *nimi* oma konto nimega.
-    - Kui te ei leia File Exploreris Kausta AppData, võib see olla peidetud. Valige **vaatesäte** ja märkige ruut **peidetud üksused** , et kuvada kõik kaustas olevad üksused.
+2. Avage C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+    - Asendage *yourname* oma konto nimega.
+    - Kui te ei leia AppData kaustast Explorer, võib see olla peidetud. Valige **Kuva** säte ja märkige ruut **peidetud üksused** , et kuvada kõik kaustas olevad üksused.
 
-3. Kustutage konto pilt, mida te enam kasutada ei soovi.
+3. Kustutage konto pilt, mida te enam ei soovi kasutada.
  
  

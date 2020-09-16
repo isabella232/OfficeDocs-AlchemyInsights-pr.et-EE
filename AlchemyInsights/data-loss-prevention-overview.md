@@ -1,27 +1,28 @@
 ---
-title: Andmete kadu vältimine (DLP) ülevaade
+title: Andmete kaotsimineku vältimise (DLP) ülevaade
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: b6073cd4043efcebd6e447dee9ba85f31e541ec8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505755"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731307"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Andmete kadu vältimine (DLP) ülevaade
+# <a name="data-loss-prevention-dlp-overview"></a>Andmete kaotsimineku vältimise (DLP) ülevaade
 
-DLP poliitikaga saate:
+DLP poliitika abil saate teha järgmist.
 
-- Tuvastage tundlik teave paljudes kohtades, näiteks Exchange Online ' i, SharePoint Online ' i ja OneDrive for Business.
+- Saate tuvastada tundliku teabe paljudes kohtades (nt Exchange Online ' i, SharePoint Online ' i ja OneDrive for Businessi jaoks).
 
 
-Näiteks saate tuvastada mis tahes dokumendi, mis sisaldab krediitkaardi number, mis on salvestatud OneDrive for Business saidi või saate jälgida ainult OneDrive saidid teatud inimesed.
+Näiteks saate tuvastada kõik dokumendid, mis sisaldavad mis tahes OneDrive ' i ärirakenduse saidil talletatud krediitkaardi numbrit, või saate jälgida vaid kindlate inimeste OneDrive ' i saite.
 
 - Vältida tundliku teabe juhuslikku jagamist.
 

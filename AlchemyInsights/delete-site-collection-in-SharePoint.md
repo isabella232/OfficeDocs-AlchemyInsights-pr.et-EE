@@ -5,27 +5,28 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 978df2785967eac4b951fa3facdac0b8c2833d1a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704773"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731029"
 ---
 # <a name="delete-a-site"></a>Saidi kustutamine
 
-Kui kustutate saidi, see on teisaldatud kustutatud saidid ja säilitatakse 93 päeva. Saidi kustutamiseks jaotisse [aktiivsed saidid](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Saidi kustutamisel teisaldatakse see kustutatud saitidesse ja seda säilitatakse 93 päeva jooksul. Saidi kustutamiseks valige [aktiivsed saidid](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Kui kustutate saidi, kustutatakse kõik selle sees, sealhulgas:
+Saidi kustutamisel kustutatakse kõik selle sees (sh:
 
-- Dokumenditeegid ja-failid.
+- Dokumenditeegid ja failid.
 - Loendid ja loendi andmed.
 - Saidi sätted ja ajalugu.
-- Kõik alamsaidid ja nende sisu.
+- Kõik alamsaitided ja nende sisu.
 
-Peaksite teavitama saidi administraatoritel ja kõik sub saidi omanikud enne saidi kustutamist, et nad saaksid teisaldada oma andmeid teise asukohta ja ka kasutajatele, kui saidid kustutatakse.
+Enne saidi kustutamist peate saidi administraatoritele ja mis tahes alamsaitidele teatama, et nad saaksid oma andmeid teise asukohta üle viia, ning teavitada kasutajaid ka siis, kui saidid kustutatakse.
 
-Lisateabe saamiseks vaadake [saidi kustutamine](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Lisateavet leiate teemast [saidi kustutamine](https://docs.microsoft.com/sharepoint/delete-site-collection).
