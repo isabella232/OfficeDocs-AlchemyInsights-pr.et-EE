@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719336"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722487"
 ---
 # <a name="outlookcom-updates"></a>Outlook.com värskendused
 
-**Viimased uuendused**
+**Uusimad värskendused**
 
-- Saada rohkem oma e-posti uue Outlook.com. Me ühtlustasime otsingut, et teha lihtsam kui kunagi varem leida, mida otsite. Uued funktsioonid, nagu fotod ja manuste eelvaateid, näevad teie pilte ja faile ilma sisendkausta lahkumata. Ja nüüd saate lisada emotikone ja GIF-ID oma sõnumitele.  [Lisateave uue Outlook.com kohta.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Saada rohkem meilisõnumeid uue Outlook.com abil. Oleme lihtsustanud otsinguid, et oleks lihtsam kui kunagi varem, et leida, mida otsite. Uued funktsioonid (nt fotod ja manuste eelvaated) võimaldavad piltide ja failide nägemist sisendkaustast lahkumata. Nüüd saate oma sõnumitele lisada emodžid ja GIF-sõnumeid.  [Lugege lisateavet uue Outlook.com kohta.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**E-posti uuendused**
+**Meili uuendused**
 
-- Kui teie Outlook.com postkasti ei värskendata, vaadake [Fix Outlook.com e-posti sünkroonimise probleemid](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Kui teie Outlook.com postkast pole värskendatav, lugege teemat [Outlook.com lahendamine](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

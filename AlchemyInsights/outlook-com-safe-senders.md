@@ -1,30 +1,31 @@
 ---
-title: 8000089 Outlook.com Turvalised saatjad
+title: 8000089 Outlook.com turvaliste saatjate jaoks
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 3196105d10f57b6448497938367d0506957127d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 473259594605dfb88885e2176086cd6df1c5ea03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743629"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722883"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Sõnumite peatamine rämpsposti kausta
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Meilisõnumite kausta Rämpspost sisseminemise peatamine
 
-On aegu, kui te ei soovi, et teatud isiku või domeeni sõnumid lõpeks rämpsposti kaustas Outlook.com. Turvaliste saatjate loendi aadressidest või domeenidest pärit sõnumeid ei teisaldata kausta Rämpspost.
+On aegu, kui te ei soovi, et teatud isiku või domeeni sõnumid Outlook.com kausta Rämpspost lõpetaks. Turvaliste saatjate loendis olevate aadresside või domeenide sõnumeid ei teisaldata teie rämpsposti kausta.
 
-1. Avage oma [turvaliste saatjate sätted](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. Sisestage jaotises **Turvalised saatjad ja domeenid**e-posti aadress või domeen, mida soovite lisada, ja valige **Lisa**.
-3. Turvaliste saatjate meililoendi lisamiseks sisestage meililoend **turvaliste postitusloendite** alla ja valige käsk **Lisa**.
+1. Avage [turvaliste saatjate sätted](https://go.microsoft.com/fwlink/?linkid=2035804).
+2. Sisestage jaotises **Turvalised saatjad ja domeenid**soovitud meiliaadress või domeen ja klõpsake nuppu **Lisa**.
+3. Turvaliste saatjate jaoks meililisti lisamiseks sisestage loend loendisse **Turvalised postitused** ja valige **Lisa**.
 4. Valige **Salvesta**.
 
-Loe edasi [Block või blokeeringu saatjate Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate teemast [saatjate blokeerimine või blokeeringu tühistamine rakenduses Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
