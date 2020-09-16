@@ -1,45 +1,46 @@
 ---
-title: Intune ' i poliitikate ja profiilide loomine
+title: Intune poliitikate ja profiilide loomine
 ms.author: mandia
 author: mandia
 manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715392"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746755"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Intune ' i poliitika ja profiilide loomine
+# <a name="creating-intune-policy-and-profiles"></a>Intune poliitika ja profiilide loomine
 
-Intune ' is saate luua poliitikaid ja profiile, mis erinevad asjad.
+Intune ' is saate luua erinevaid asju sisaldavaid poliitikaid ja profiile.
 
-- **Registreerimine profiilid**: preconfigure oma seadmete platvormi, lubage kasutaja afiinsust, kasutada mitme teguriga autentimine, ja rohkem.
+- **Registreerimise profiilid**: seadmete konfigureerimine platvormi järgi, kasutajate afiinsuse lubamine, mitme teguri autentimine ja palju muud.
 
-  [Mis on seadme registreerimine](https://docs.microsoft.com/intune/device-enrollment)ja luua registreerimise profiilid [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)ja [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) on head ressursid.
+  [See, mis on seadme registreerimine](https://docs.microsoft.com/intune/device-enrollment), ja luua rakendustes [Androidi](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll)-i, [macOS](https://docs.microsoft.com/intune/macos-enroll)-i ja [Windowsiga](https://docs.microsoft.com/intune/windows-enrollment-methods) liitumise profiilid on head ressursid.
 
-- **Vastavuspoliitikad**: Määratlege reeglid ja sätted, mida seadmed peavad järgima, et need ühilduvaks oleksid. Samuti saate seadmete jälgimiseks kasutada vastavuspoliitikaid ja teavitada kasutajaid nõuete mittejärgimisest.
+- **Nõuetele vastavuse poliitika**: Määratlege reeglid ja sätted, mida seadmed peavad järgima, et need vastaksid nõuetele. Samuti saate kasutada seadmete jälgimiseks vastavuskontrolli põhimõtteid ning teavitada kasutajaid mittevastavusest.
 
-  Alustage [seadme vastavuspoliitikaga](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Tingimusjuurdepääsu poliitikad**: aidake kindlustada organisatsiooni ressursse, sõltuvalt sisestatud tingimustest. Näiteks seadmete puhul, mis ei vasta nõuetele, kasutage juurdepääsu piiramiseks meiliga ja SharePointiga tingimuslikku juurdepääsu.
+  [Seadme nõuetele vastavuse poliitikate](https://docs.microsoft.com/intune/device-compliance-get-started)kasutamise alustamine.
+- **Tingimusliku juurdepääsu poliitikad**: aitavad tagada organisatsiooni ressursside, olenevalt teie sisestatud tingimustest. Kui teil on näiteks seadmed, mis pole ühilduvad, kasutage juurdepääsu piiramiseks meilile ja SharePointi juurdepääsule tingimusjuurdepääsu.
 
-  [Mis on tingimuslik juurdepääs](https://docs.microsoft.com/intune/conditional-access) ja [levinumad võimalused tingimusjuurdepääsu kasutamiseks](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) on head ressursid alustamiseks.
+  [Mis on tingimusjuurdepääsu](https://docs.microsoft.com/intune/conditional-access) ja [levinud moodused tingimusjuurdepääsu kasutamiseks](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) , on alustamiseks head ressursid.
 
-- **Konfiguratsiooniprofiilid**: funktsioonide ja seadete haldamine seadmetes, sealhulgas e-posti seaded, lisada WiFi võrgu, kasutada sisseehitatud malle, kontrolli iOS ja macOS seadme funktsioone, ja rohkem.
+- **Konfiguratsiooni profiilid**: funktsioonide ja sätete haldamine seadmetes (sh meilisätted), WiFi-võrgu lisamine, sisseehitatud mallide kasutamine, iOS-i ja macOS-i seadme funktsioonide haldamine ning palju muud.
 
-  Alustage [seadme konfiguratsiooniprofiilidest](https://docs.microsoft.com/intune/device-profiles).
+  [Seadme konfigureerimise profiilidega](https://docs.microsoft.com/intune/device-profiles)alustamine.
 
 Kasulikud lingid:
 
-- [Levinud küsimused, probleemid ja lahendused seadmepoliitikate ja profiilidega Intune ' is](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Levinumad küsimused, probleemid ja resolutsioonid seadme poliitikate ja profiilidega Intune ' is](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Intune ' i poliitikate ja profiilide tõrkeotsing](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Poliitikate ja profiilide tõrkeotsing Intune ' is](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
