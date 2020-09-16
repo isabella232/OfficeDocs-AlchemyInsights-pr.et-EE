@@ -1,30 +1,31 @@
 ---
-title: 9000198 Outlook.com kalender Beta
+title: 9000198 Outlook.com kalendri beetaversioon
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 9355093f45b34d7da5d0920c6afca1438adbc940
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710871"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753363"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Uus kalender kogemusi tulevad Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Outlook.com uued kalendrite kogemused
 
-Uus ilme toob parima kujunduse ja õpib e-posti kogemus kalender.
+Uues ilmes tuuakse kalendrisse parim kujundus ja õppijate kogemus.
 
-Saate nautida kaasaegne disain, mis vähendab visuaalse segaduse ja annab teile kiiremini navigeerida kalendrit. Samuti on lihtsam leida huvitavaid kalendreid oma lemmiktegevusteks – telesaateid spordimeeskondadele ja üritustele.
+Naudite kaasaegset kujundust, mis vähendab visuaalseid segadusi ja annab teile kiiremaid võimalusi kalendris navigeerimiseks. Samuti on hõlpsam leida huvitavaid kalendreid oma lemmikute tegevuste jaoks – alates TELESAADETEst kuni spordiklubide ja üritusteni.
 
-Me laiendasime oma sündmuste ikoonide kogumist ja ajakohasime olemasolevate välimuse ja tunnetega – ja nüüd lisame automaatselt teie sündmustele asjakohased ikoonid, nii et saate hõlpsalt näha, mis toimub lühidalt.
+Oleme laiendanud sündmuste ikoonide kogumist ja värskendanud olemasolevate ilmet ja olemasolevaid ning nüüd lisame teie sündmustele automaatselt asjakohaseid ikoone, et saaksite hõlpsalt vaadata, mis toimub pilguga.
 
-Saate anda tagasisidet uute funktsioonide kaudu [Outlook.com Calendar UserVoice kanal](https://go.microsoft.com/fwlink/?linkid=2103075).
+Saate anda tagasisidet uute funktsioonide kohta [Outlook.com Calendar UserVoice kanali](https://go.microsoft.com/fwlink/?linkid=2103075)kaudu.
