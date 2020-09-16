@@ -1,39 +1,40 @@
 ---
-title: Ei saa seada või vaadata AllowSelfServicePurchase poliitika
+title: AllowSelfServicePurchase poliitikat ei saa seada ega vaadata
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158557"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735195"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Ei saa seada või vaadata AllowSelfServicePurchase poliitika
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>AllowSelfServicePurchase poliitikat ei saa seada ega vaadata
 
-Kui proovite seada või vaadata AllowSelfServicePurchase poliitika, kuvatakse järgmine tõrketeade:
+Kui proovite määrata või vaadata AllowSelfServicePurchase poliitikat, kuvatakse järgmine tõrketeade:
 
-*HandleError: tootepoliitika hankimine poliitika ID ' AllowSelfServicePurchase ', ErrorMessage-aluseks olev ühendus suleti: saatmisel ilmnes ootamatu tõrge.*
+*HandleError: PolicyId ' AllowSelfServicePurchase ', sündmustelogist-ga tootepoliitika toomine nurjus: saatmisel ilmnes ootamatu tõrge.*
 
-See võib olla tingitud vanem versioon transpordikihi turbe (TLS). MSCommerce teenuse ühendamiseks peate kasutama TLS 1,2 või uuem.  
+See võib olla tingitud transpordikihi turbe (TLS) varasemast versioonist. MSCommerce teenusega ühenduse loomiseks peate kasutama TLS 1,2 või uuemat versiooni.  
 
-Proovige/seadke TLS-i protokoll 1,2, kontrollige ja proovige järgmisi samme.
- 1. PowerShelli Käsuviip (PS C:\) sisestage järgmine käsk, et määrata TLS-i protokolli versioon 1,2:
+Toimige järgmiselt, et lubada/seadistada TLS-protokoll 1,2, kinnitada ja uuesti proovida.
+ 1. PowerShelli käsureal (PS C: \) Sisestage järgmine KÄSK TLS-protokolli versioonile 1,2 määramiseks tehke järgmist.
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Veenduge, et TLS-protokoll (ID) kasutusel, järgmine käsk:
+2. Kontrollige, kas TLS-protokoll (ID) on kasutusel, ja kasutage järgmist käsku.
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Proovige vajadusel käsku Võta või uuenda.
+3. Proovige käske Too või Värskenda uuesti vastavalt vajadusele.
 

@@ -1,39 +1,40 @@
 ---
-title: Sünkrooni minu Outlooki kontaktid minu aadressiraamatuga
+title: Outlooki kontaktide sünkroonimine aadressiraamatuga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767065"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737373"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Sünkrooni minu Outlooki kontaktid minu aadressiraamatuga
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlooki kontaktide sünkroonimine aadressiraamatuga
 
-Outlook võimaldab teil oma kontaktid eksportida vaikimisi kontaktirakendus Androidis. See võimaldab teil näha kontakti nime, kui te saate kõne või tekstsõnumi, ja vaadata kõiki nende kontaktandmeid otse vaikimisi rakenduses Kontaktid.
+Outlook võimaldab teil eksportida kontaktid Androidi vaike-kontaktide rakendusse. See võimaldab teil vaadata kontakti nime, kui teile saabub kõne või tekstsõnum, ja vaadata kogu nende kontaktteavet otse kontaktide rakenduses.
  
-**Selle funktsiooni lubamiseks**:
+**Selle funktsiooni lubamiseks**tehke järgmist.
  
-1. Avage seadmes **sätted**.
+1. Avage oma seadmes **Settings (sätted**).
 
-2. Koputage jaotises **kontod**kontot, millega soovite kontakte sünkroonida.
+2. Puudutage jaotises **kontod**kontot, mille kontakte soovite sünkroonida.
 
-3. Lülitage sisse **Sünkroonimiskontaktide** liugurit.
+3. Lülitage liugur **Sünkrooni kontaktid** sisse.
  
-Kahesuunaline kontakt eksport on toetatud Microsoft 365, Outlook.com ja hübriid kaasaegne autentimine asutusesisese postkastid. Kahesuunaline tugi tagab, et uusi kontakte, mida lisate, või olemasolevaid kontakte, mida redigeerite, sünkroonitakse teie seadme ja Outlooki kontode vahel.
+Kahepoolsed kontaktide eksportimine on toetatud Microsoft 365-i, Outlook.com ja kohapealsete postkastide jaoks kaasaegse autentimise jaoks. Kahesuunaline tugi tagab, et kõik uued kontaktid või olemasolevad kontaktid, mida redigeerite, sünkroonitakse teie seadme ja Outlooki kontode vahel.
  
-Pärand Exchange ' i kontod, saate eksportida oma kontaktid salvestatakse seadmesse. Kui **sünkroonimise kontaktid** on lubatud, salvestatakse äsja lisatud kontaktid ja Outlooki kontaktidesse tehtud muudatused teie seadmes kontaktide rakendusse. Kuid muudatusi, mis on tehtud otse teie seadme Kontaktirakenduses, ei salvestata Outlooki. Pange tähele, et me ei toeta lisamine/redigeerimine Kontaktid Outlook for Android asutusesisese Exchange ' i kontod, nii et teil on vaja hallata oma kontakte teise Outlooki klient.
+Legacy Exchange ' i kontode puhul saate eksportida oma kontaktid seadmesse. Kui **kontaktide sünkroonimine** on lubatud, salvestatakse teie Outlooki kontaktidele äsja lisatud kontaktid ja tehtud muudatused teie seadmes olevasse kontaktide rakendusse. Kuid otse teie seadme kontaktide rakenduses tehtud muudatused ei salvestata Outlooki. Pange tähele, et me ei toeta kontaktide lisamist/redigeerimist rakendusest Outlook for Android kohapealsete Exchange ' i kontode jaoks, nii et peate oma kontakte haldama mõne muu Outlooki klientrakenduse kaudu.
  
-Praegu kontaktide sünkroonimine GMAIL ja iCloud ei toetata.
+Praegu pole GMAILI ja iCloudi sünkroonimiseks abi toetatud.
  
-Kui soovite need sünkroonitud kontaktid eemaldada, saate **sünkroonimiskontakte** igal ajal sisse lülitada ja need eemaldatakse teie aadressiraamatust.
+Kui soovite need sünkroonitud kontaktid eemaldada, saate **sünkroonimise kontakte** igal ajal sisse lülitada ja need eemaldatakse teie aadressiraamatust.

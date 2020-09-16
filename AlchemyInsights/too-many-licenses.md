@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,23 +14,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510460"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736023"
 ---
 # <a name="too-many-licenses"></a>Liiga palju litsentse?
 
-Kui arvate, et teile esitatakse liiga palju litsentse, on see tavaliselt tingitud sellest, et olete ostnud rohkem litsentse, mida vajate.
+Kui arvate, et teile on arvestatud liiga paljude litsentside eest, on see tavaliselt tingitud vajadusel ostetud litsentsidest.
   
 **Ostetud litsentside arvu vähendamine**
   
-1. administreerimiskeskuses **Billing** \> lehele **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
+1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Leidke tellimus, millest soovite litsentse eemaldada, ja valige siis **Lisa/eemalda litsentsid**.
+2. Otsige üles tellimus, millelt soovite litsentse eemaldada, ja seejärel valige **Lisa/eemalda litsentse**.
 
-3. Sisestage väljale **kokku litsentsid** selle kordustellimuse jaoks vajate litsentside koguarv ja seejärel valige **Edasta muudatus**. Näiteks kui teil on 110 litsentsid ja soovite eemaldada 5 neist, sisestage 105.
+3. Sisestage väljale **litsentside** koguarv selle tellimuse jaoks vajalike litsentside koguarv ja seejärel valige **Edasta muudatus**. Kui teil on näiteks 110 litsentsid ja soovite neist 5 eemaldada, sisestage 105.
 
-Lisateabe saamiseks vaadake [eemaldada litsentsid oma Microsoft 365 Business tellimus](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lisateavet leiate teemast [litsentside eemaldamine Microsoft 365 for Businessi tellimusest](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

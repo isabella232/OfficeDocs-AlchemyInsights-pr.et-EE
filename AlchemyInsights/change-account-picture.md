@@ -1,34 +1,35 @@
 ---
-title: Muuda kontopilti
+title: Konto pildi muutmine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
-ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
+ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42574367"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734043"
 ---
-# <a name="change-account-picture"></a>Muuda kontopilti
+# <a name="change-account-picture"></a>Konto pildi muutmine
 
-Kui kasutate Windows 10-sse sisselogimiseks kasutajanime ja parooli, kasutate kohalikku kontot. **Kohaliku kontopildi muutmiseks**toimige järgmiselt.
+Kui kasutate Windows 10 sisselogimiseks kasutajanime ja parooli, kasutate kohalikku kontot. **Kohaliku konto pildi muutmiseks tehke**järgmist.
 
-1. Mine **Start** > **Settings** > **** kontod > **oma teavet**.
-2. Klõpsake jaotises **Pildi loomine**nuppu **Sirvi üks**. Või kui teie seadmel on kaamera, klõpsake **kaamera** ja võtke selfie. 
-    **Märkus**: Windows mäletab kolme viimast pilti, mida olete kasutanud. Selle aktiveerimiseks klõpsake lehel teie teave olevat pilti.
+1. Avage menüü **Start**  >  **sätted**  >  **kontoga**seotud  >  **teave**.
+2. Klõpsake jaotises **Loo pilt**nuppu **Sirvi ühe jaoks**. Kui teie seadmes on kaamera, klõpsake nuppu **kaamera** ja tehke SELFi. 
+    **Märkus**: Windows jätab meelde viimased kolm viimast pilti, mida kasutasite. Klõpsake selle lehe aktiveerimiseks oma teabe lehel olevat pilti.
 
-Kui kasutate sisselogimiseks e-posti aadressi ja parooli, kasutate Microsofti kontot. Microsofti kontopildi muutmiseks toimige järgmiselt.
+Kui kasutate sisselogimiseks meiliaadressi ja parooli, kasutate Microsofti kontot. Microsofti konto pildi muutmiseks tehke järgmist.
 
-1. Logige oma Microsofti kontoga **oma teabepehele** sisse.
-2. Klõpsake nuppu **Lisa pilt** või **muutke pilti**ja seejärel järgige juhiseid.
+1. Logige oma **teabe** lehele sisse oma Microsofti kontoga.
+2. Klõpsake nuppu **Lisa pilt** või **Muuda pilti**ja seejärel järgige juhiseid.
 
-[Saate rohkem abi Microsofti konto häälestamisel ja haldamisel](https://support.microsoft.com/products/microsoft-account?category=manage-account).
+[Lugege lisateavet Microsofti konto häälestamise ja haldamise](https://support.microsoft.com/products/microsoft-account?category=manage-account)kohta.
