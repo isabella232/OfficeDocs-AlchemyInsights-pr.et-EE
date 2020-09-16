@@ -6,36 +6,37 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: e9550e1b70b00307101f9fa5feb0899c4c77541f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742327"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739029"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Failide ühiskasutus OneDrive ' is inimestega väljaspool teie organisatsiooni
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Failide ühiskasutusse andmine OneDrive ' is väljaspool teie asutust asuvate inimestega
 
-1. Rakenduse käivitaja abil saate minna OneDrive ' i veebibrauseris. 
+1. Rakenduse käivitaja abil saate oma veebibrauseris OneDrive ' i minna. 
     
-2. Valige fail või kaust, mida soovite ühiskasutusse anda, ja seejärel valige **ühiskasutus**. 
+2. Valige faili või kaust, mille soovite ühiskasutusse anda, ja seejärel valige **Anna ühiskasutusse**. 
     
-3. Kui lingi tüübiks on seatud "inimesed \<teie organisatsioonis\>", klõpsake allanoolt ja valige üks järgmistest: 
+3. Kui lingi tüübiks on määratud "inimesed sees \<your organization\> ", klõpsake allanoolt ja valige mõni järgmistest valikutest. 
     
-  - **Igaüks** annab juurdepääsu kõigile, kes saab selle lingi, kas nad saavad seda otse teie käest või edastatakse keegi teine. See võib hõlmata inimesi väljaspool teie organisatsiooni. 
+  - **Igaüks** annab juurdepääsu kõigile, kes saavad selle lingi, olenemata sellest, kas nad saavad selle otse teilt või kellegi teise kaudu edasi saata. See võib hõlmata inimesi väljaspool teie asutust. 
     
-  - **Teatud inimesed** annavad juurdepääsu ainult teie määratud inimestele, kuigi teistel inimestel võib juba olla juurdepääs. Kui inimesed edastavad ühiskasutuse kutse, saavad lingi kasutada ainult inimesed, kellel on juba juurdepääs üksusele. 
+  - **Konkreetsetel inimestel** on juurdepääs ainult teie määratud inimestele, kuigi teistel inimestel võib juba olla juurdepääs. Kui inimesed edastavad ühiskasutuse kutse, saavad seda linki kasutada ainult inimesed, kellel on juba üksusele juurdepääs. 
     
     > [!NOTE]
-    > Kui üks neist suvanditest pole saadaval või kui soovite, et vaikimisi kuvataks mõni muu lingi tüüp, saate muuta oma organisatsiooni hõlmavaid sätteid, minnes OneDrive ' i administreerimiskeskusesse ja klõpsates vasakpoolsel paanil valikut **ühiskasutus** . [Lisateave](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Kui mõni järgmistest suvanditest pole saadaval või soovite vaikimisi kuvada mõne muu lingi tüübi, saate muuta oma organisatsiooni hõlmavaid sätteid, minnes OneDrive ' i administreerimiskeskusesse ja klõpsates vasakpoolsel paanil nuppu **ühiskasutus** . [Lisateave](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. **Luba redigeerimine** on vaikimisi sisse lülitatud. Kui soovite, et inimesed ainult teie faile vaadata, tühjendage märkeruut. 
+4. Vaikimisi on **Luba redigeerimine** sisse lülitatud. Kui soovite, et inimesed näeksid ainult teie faile, tühjendage ruut. 
     
-5. Sisestage nende inimeste nimed, kellega soovite ühiselt jagada, ja sõnumiga, kui soovite.
+5. Sisestage nende inimeste nimed, kellega soovite ühiskasutusse anda, ja soovitud sõnum.
     
 6. Kui olete lingi saatmiseks valmis, klõpsake nuppu **saada**. 
     
