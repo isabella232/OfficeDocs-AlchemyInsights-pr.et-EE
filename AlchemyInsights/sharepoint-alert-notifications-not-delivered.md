@@ -1,11 +1,12 @@
 ---
-title: SharePointi teatiste teatisi pole tarnitud
+title: SharePointi teatiste teatised pole kohale toimetatud
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
@@ -13,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343102"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751239"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a><span data-ttu-id="a3432-102">SharePointi teatiste teatisi pole tarnitud</span><span class="sxs-lookup"><span data-stu-id="a3432-102">SharePoint alert notifications not delivered</span></span>
+# <a name="sharepoint-alert-notifications-not-delivered"></a><span data-ttu-id="a0e8c-102">SharePointi teatiste teatised pole kohale toimetatud</span><span class="sxs-lookup"><span data-stu-id="a0e8c-102">SharePoint alert notifications not delivered</span></span>
 
-<span data-ttu-id="a3432-103">Palun kontrollige rämpsposti kausta oma e-posti, kui mõnikord teateid võib minna sinna.</span><span class="sxs-lookup"><span data-stu-id="a3432-103">Please check the JUNK folder in your email, as sometimes alerts might go there.</span></span>
+<span data-ttu-id="a0e8c-103">Palun kontrolli oma e-posti kausta RÄMPSPOST, sest mõnikord võivad teatised sinna tulla.</span><span class="sxs-lookup"><span data-stu-id="a0e8c-103">Please check the JUNK folder in your email, as sometimes alerts might go there.</span></span>
 
-<span data-ttu-id="a3432-104">Tehke kindlaks, kas **teatisi ei toimetata kohale** või kui konkreetset faili või teeki ei toimetata **eraldi teatist** .</span><span class="sxs-lookup"><span data-stu-id="a3432-104">Determine if **all alerts are not delivered** or if **an individual alert** from a specific file or library is not delivered.</span></span>
+<span data-ttu-id="a0e8c-104">Määratlege **, kas kõiki teatisi ei toimetata kohale** või kui teatud faili või teegi konkreetset **teatist** ei toimetata kohale.</span><span class="sxs-lookup"><span data-stu-id="a0e8c-104">Determine if **all alerts are not delivered** or if **an individual alert** from a specific file or library is not delivered.</span></span>
 
-- <span data-ttu-id="a3432-105">**Üksikuid teatisi ei toimetata**: kui konkreetse faili või teegi konkreetset teatist ei toimetata kohale, võite proovida seda kustutada ja uuesti luua.</span><span class="sxs-lookup"><span data-stu-id="a3432-105">**Individual alerts are not delivered**: If an individual alert from a specific file or library is not delivered, you can attempt to delete and recreate it.</span></span> <span data-ttu-id="a3432-106">Teatise uuestilaadamiseks vaadake teemat [SharePointi teatiste haldamine, vaatamine või kustutamine](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .</span><span class="sxs-lookup"><span data-stu-id="a3432-106">See [Manage, view, or delete SharePoint alerts](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) to recreate the alert.</span></span>
-- <span data-ttu-id="a3432-107">**Kõik teatised on tarnitud**: kui kõik teatised mitme faili või teegid ei toimetata, külastage [teenuse tervise armatuurlauale](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et kontrollida mis tahes nõusid/intsidente, mis võivad esineda SharePointi või Exchange ' iga.</span><span class="sxs-lookup"><span data-stu-id="a3432-107">**All alerts are not delivered**: If all alerts from multiple files or libraries are not delivered, visit the [Service Health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to check for any advisories/incidents that may be occurring with SharePoint or Exchange.</span></span> <span data-ttu-id="a3432-108">See probleem võib olla SharePointi hoiatuse võimalus või viivitused e-kirjade kaudu Exchange.</span><span class="sxs-lookup"><span data-stu-id="a3432-108">The issue could be with the SharePoint alert capability or delays in emails through Exchange.</span></span> <span data-ttu-id="a3432-109">Samuti on oluline märkida, kas muud e-posti toimetatakse ja kui mitte, probleem on tõenäoline, et Exchange viivitused.</span><span class="sxs-lookup"><span data-stu-id="a3432-109">It will also be important to note whether other email is being delivered, and if not, the issue is likely with Exchange delays.</span></span>
+- <span data-ttu-id="a0e8c-105">**Üksikuid teatisi ei toimetata kohale**: kui kindla faili või teegi konkreetset teatist ei edastata, saate proovida seda kustutada ja uuesti luua.</span><span class="sxs-lookup"><span data-stu-id="a0e8c-105">**Individual alerts are not delivered**: If an individual alert from a specific file or library is not delivered, you can attempt to delete and recreate it.</span></span> <span data-ttu-id="a0e8c-106">Teatise uuesti loomise kohta leiate teavet teemast [SharePointi teatiste haldamine, kuvamine ja kustutamine](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .</span><span class="sxs-lookup"><span data-stu-id="a0e8c-106">See [Manage, view, or delete SharePoint alerts](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) to recreate the alert.</span></span>
+- <span data-ttu-id="a0e8c-107">**Kõiki teatisi ei edastata**: kui kõiki mitmest failist või teegist pärit teatisi ei edastata, leiate [teenuse tervise armatuurlaualt](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et kontrollida, kas SharePointis või Exchange ' is võivad tekkida kõik nõunikud/intsidendid.</span><span class="sxs-lookup"><span data-stu-id="a0e8c-107">**All alerts are not delivered**: If all alerts from multiple files or libraries are not delivered, visit the [Service Health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to check for any advisories/incidents that may be occurring with SharePoint or Exchange.</span></span> <span data-ttu-id="a0e8c-108">Probleem võib olla SharePointi teatiste võimalustega või meilisõnumite kaudu Exchange ' iga viivitatud.</span><span class="sxs-lookup"><span data-stu-id="a0e8c-108">The issue could be with the SharePoint alert capability or delays in emails through Exchange.</span></span> <span data-ttu-id="a0e8c-109">Oluline on ka märkida, kas muu meilisõnum tarnitakse ja kui ei, siis on probleem tõenäoliselt ka Exchange ' i viivitusega.</span><span class="sxs-lookup"><span data-stu-id="a0e8c-109">It will also be important to note whether other email is being delivered, and if not, the issue is likely with Exchange delays.</span></span>
 
-<span data-ttu-id="a3432-110">KKK hoiatuste kohta:</span><span class="sxs-lookup"><span data-stu-id="a3432-110">FAQ on alerts:</span></span>
+<span data-ttu-id="a0e8c-110">KKK teatiste kohta:</span><span class="sxs-lookup"><span data-stu-id="a0e8c-110">FAQ on alerts:</span></span>
 
-- <span data-ttu-id="a3432-111">Ei ole võimalik saata teateid levirühm, toetatakse ainult turvalisuse ja O365 rühmad.</span><span class="sxs-lookup"><span data-stu-id="a3432-111">It is not possible to send alerts to Distribution Group, only Security and O365 groups are supported.</span></span>
-- <span data-ttu-id="a3432-112">Teatiste meilimalle ei saa kohandada; nende saavutamiseks peate kasutama Microsoft FLOW või SharePoint Designeri töövoogu.</span><span class="sxs-lookup"><span data-stu-id="a3432-112">You cannot customize alert email templates; you need to use Microsoft FLOW or SharePoint Designer Workflow to achieve those.</span></span>
+- <span data-ttu-id="a0e8c-111">Teatisi leviloendile ei saa saata, toetatakse ainult turbe-ja O365 rühmi.</span><span class="sxs-lookup"><span data-stu-id="a0e8c-111">It is not possible to send alerts to Distribution Group, only Security and O365 groups are supported.</span></span>
+- <span data-ttu-id="a0e8c-112">Teatise e-posti malle ei saa kohandada; nende saavutamiseks peate kasutama Microsoft FLOW või SharePoint Designeri töövoogu.</span><span class="sxs-lookup"><span data-stu-id="a0e8c-112">You cannot customize alert email templates; you need to use Microsoft FLOW or SharePoint Designer Workflow to achieve those.</span></span>
 
-## <a name="related-topics"></a><span data-ttu-id="a3432-113">Seostuvad Teemad</span><span class="sxs-lookup"><span data-stu-id="a3432-113">Related Topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="a0e8c-113">Seotud teemad</span><span class="sxs-lookup"><span data-stu-id="a0e8c-113">Related Topics</span></span>
 
-<span data-ttu-id="a3432-114">Soovite proovida Microsoft Flow SharePoint Online?</span><span class="sxs-lookup"><span data-stu-id="a3432-114">Want to try Microsoft Flow in SharePoint Online?</span></span>
+<span data-ttu-id="a0e8c-114">Kas soovite proovida Microsoft Flow SharePoint Online ' is?</span><span class="sxs-lookup"><span data-stu-id="a0e8c-114">Want to try Microsoft Flow in SharePoint Online?</span></span>
 
-- [<span data-ttu-id="a3432-115">Voo loomine</span><span class="sxs-lookup"><span data-stu-id="a3432-115">Create Flow</span></span>](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [<span data-ttu-id="a0e8c-115">Voo loomine</span><span class="sxs-lookup"><span data-stu-id="a0e8c-115">Create Flow</span></span>](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [<span data-ttu-id="a3432-116">SharePointi ja voog</span><span class="sxs-lookup"><span data-stu-id="a3432-116">SharePoint and Flow</span></span>](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [<span data-ttu-id="a0e8c-116">SharePoint ja voog</span><span class="sxs-lookup"><span data-stu-id="a0e8c-116">SharePoint and Flow</span></span>](https://flow.microsoft.com//blog/sharepoint-and-flow/)
