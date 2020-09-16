@@ -1,36 +1,37 @@
 ---
-title: Android-seadmete registreerimine Intune ' iks
+title: Androidi seadmete registreerimine Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: fdab7958e0dfea34fd1e113be09fff4cd3019401
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654389"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784303"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Android-seadmete registreerimine Intune ' iks
+# <a name="enrolling-android-devices-into-intune"></a>Androidi seadmete registreerimine Intune
 
-Intune toetab järgmiste Androidi seadmete kaasamist:
-- Samsung Knox ja Zebra
-- Android Enterprise tööprofiil
+Intune toetab järgmiste Androidi seadmete registreerimist.
+- Samsung Knox ja sebra
+- Android Enterprise Work Profile
 - Android Enterprise pühendatud
-- Android Enterprise täielikult hallatud
+- Android Enterprise on täielikult hallatud
 
-Enne Android-seadmete registreerimise seadistamist [vaadake eelrekvisiidid] (https://docs.microsoft.com/intune/enrollment/android-enroll.
+Enne Androidi seadmete jaoks liitumise häälestamist [vaadake eeltingimused üle] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
 
-Teavet seadme registreerimine üldiselt ja mõned Android registreerimise tõrked kohta teabe saamiseks vaadake [Microsofti Intune seadme registreerimise tõrkeotsing](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Lisateavet seadmete registreerimise kohta üldiselt ja mõne Androidi registreerimise tõrgete kohta leiate teemast [seadme liitumise tõrkeotsing Microsoft Intune ' is](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-Saate kasutada ka [sisu tõrkeotsingu tera kirjeldavaid sisuteid](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , et aidata tuvastada, milliseid registreerimise probleeme teie kasutajatel esineb.
+Saate kasutada ka [Intune tõrkeotsingujuhiseid kirjeldavat sisu](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , mis aitab tuvastada kasutajate probleeme.
 
 
 
