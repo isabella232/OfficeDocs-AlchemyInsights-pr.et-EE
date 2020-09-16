@@ -1,41 +1,42 @@
 ---
-title: 2681 rünnak simulaator Microsoft 365
+title: 2681 Attack Simulator Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506734"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759215"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Rünnak simulaator Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Rünnaku simulaator Microsoft 365
 
-- Kas teil puudub rünnak simulaator? Rünnak simulaator nõuab **office 365 täiustatud ohutõrje kava 2 (ATP plaan 2)** või **Office 365 Enterprise E5**. Rünnak simulaator **ei** sisaldu Office 365 täiustatud ohutõrje kava 1 (ATP leping 1), Office 365 Enterprise E3 või mis tahes Microsoft 365 apps Business tellimused.
+- Kas teil on puudu rünnaku simulaator? Attack Simulator nõuab **office 365 täpsema ohu kaitse leping 2 (ATP leping 2)** või **Office 365 Enterprise E5**. Rünnaku simulaator pole **kaasatud office** 365 Advanced ohtu kaitse leping 1 (ATP leping 1), Office 365 Enterprise E3 või mis tahes Microsoft 365 rakendused ettevõtetele mõeldud pakettide jaoks.
 
-- Modelleeritud rünnakute käivitamiseks kasutatav konto nõuab globaalset administraatori või turbeülema õigusi ja mitme teguriga autentimist (MFA). Rünnaku simulaatori nõuete kohta lisateabe saamiseks vaadake [seda teemat](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Simuleeritud rünnakute käivitamiseks kasutatav konto peab olema üldadministraator või administraatori õigused ja mitme teguriga autentimine (MFA). Lisateavet rünnaku simulaatori nõuete kohta leiate [sellest teemast](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
-- Olulised asjad teada **Brute Force parooli** rünnaku simulatsioone:
+- Tähtsamaid asju teada **Brute Force Password** Attack simulatsioonid:
 
-  - Kui sihtkontol on MFA lubatud ja parool on õigesti arvatud, ei kuvata kontot ohustena (teine autentimistegur on puudulik).
+  - Kui TARGETi kontol on MFA lubatud ja parool on õigesti kajastatud, ei kuvata kontot ohustatud kujul (teine autentimine on puudulik).
 
-  - Paroolifail ei tohi olla suurem kui 10 MB. Kasutage üks parool rea kohta ja lisage tühi rida (veo tagastamine) pärast viimast parooli loendis.
+  - Parool ei tohi olla suurem kui 10 MB. Kasutage ühte parooli rea kohta ja lisage loendi viimasele paroolile tühi rida (veo tagastus).
 
-- Olulised asjad, mida teada **Spear phishing** lisada simulatsioone:
+- Olulised asjad, mida saab teada **oda andmepüügiga** seotud simulatsioonide kohta.
 
-  - Ette nähtud, ei saa anda kohandatud väärtus **phishing logimisserveri URL-i**.
+  - Kujunduse järgi ei saa te **andmepüügi sisselogimise serveri URL-i**jaoks kohandatud väärtust anda.
 
-  - Kui adressaat kasutab sõnumi andmepüügi lubamiseks aruande sõnumi [lisandmoodul](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) , te ei pruugi saada teatisi sõnumi (kuna see on simuleeritud rünnak).
+  - Kui adressaat kasutab teate saatmiseks [lisandmoodulit luba](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) sõnum andmepüügiks, siis ei pruugi te saada sõnumile teatisi (kuna tegemist on simuleeritud rünnakuga).
 
-- Aruanded: pärast simuleeritud rünnak on lõpule jõudnud, võite klõpsata **rünnak üksikasjad** aruande vaatamiseks.
+- Aruanded: pärast simuleeritud rünnaku lõpulejõudmist võite aruande kuvamiseks klõpsata nuppu **rünnaku üksikasjad** .
 
-- Üksikasjalikke juhiseid ja uusi funktsioone Attack Simulator, vt [rünnak simulaator Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Üksikasjalikud juhised ja uued funktsioonid rakenduses Attack Simulator leiate teemast [rünnaku simulaator Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

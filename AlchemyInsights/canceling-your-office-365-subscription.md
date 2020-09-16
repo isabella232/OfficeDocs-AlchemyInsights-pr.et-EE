@@ -1,10 +1,11 @@
 ---
-title: Kas tühistate tellimuse?
+title: Tellimuse tühistamine?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 429dfe3d66fb37a62e2355084cd30c5e4fe16e71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508156"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757332"
 ---
-# <a name="canceling-your-subscription"></a>Kas tühistate tellimuse?
+# <a name="canceling-your-subscription"></a>Tellimuse tühistamine?
 
-Meil on kahju näha teid minna, kuid kui soovite tühistada oma tellimus, siin on teie valikud:
+Meil on kahju, et sa lähed, aga kui soovid oma tellimuse tühistada, siis siin on Sinu valikud.
   
-- Kui olete prooviversiooni klient, pole midagi tühistada. Prooviversiooni tellimused aeguvad automaatselt, kui te ei esita maksemeetodit.
+- Kui olete prooviversiooni klient, pole midagi tühistada. Prooviversiooni tellimused aeguvad automaatselt, kui te ei sisesta makseviisi.
 
-- Kui teil on vähem kui 25 määratud litsentsi, saate tellimuse veebis tühistada. lehele toodete **Arveldamine** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Jaotises **sätted & toimingud** valige **Tühista tellimus**.
+- Kui teil on vähem kui 25 määratud litsentsi, saate tellimuse veebis tühistada. Avage **Billing** \> leht **[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine. Klõpsake jaotises **sätted & toimingud** nuppu **Tühista tellimus**.
 
-- Kui teil on rohkem kui 25 määratud litsentsi, saate eemaldada kasutajaid enne, kui teil on vähem kui 25.
+- Kui teil on rohkem kui 25 määratud litsentsi, saate kasutajad eemaldada, kuni teil on vähem kui 25.
   
-**Tagasimakse: kõik Esri väljastab proportsionaalse krediidi tagastatakse teile järgmise arveldustsükli jooksul.** 
+**Tagasimakse: iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.** 
 
-**Märkus**: kui te ei näe võimalust loobuda, klõpsake tellimuse üksikasjade vaatamiseks ja peaksite nägema **Tühista tellimus** valik **seaded & toimingud**. 
+**Märkus**: kui te ei näe tühistamiseks suvandit, klõpsake üksikasjade kuvamiseks tellimust ja peaksite nägema jaotises **sätted & toimingud**nuppu **Tühista tellimus** . 
 
-Lisateavet leiate jaotisest [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Lisateavet leiate teemast [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
