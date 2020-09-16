@@ -1,29 +1,30 @@
 ---
-title: Lükka meeskondade versiooniuuendus edasi
+title: Teamsi ülemineku edasilükkamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: fcf724e335bd6a7cb4801d9b2789447befc06ff7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912507"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741767"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kuidas edasi lükata Microsofti juhitud meeskonnad täiendamine
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Microsoft orienteeritud Teamsi versiooni edasi lükkamine
 
-**NB**!: me saame aidata seda parandada, kasutades tugiteenuse diagnostika, kuid tundub, et te ei kasuta uut administreerimiskeskust. Uue administreerimiskeskuse kasutamiseks libistage lüliti ülaosas paremal, mis ütleb **uue administraatori Center** paremale. Uue administreerimiskeskuse abil klõpsake **vaja abi?** vidina, tippige "lükka meeskonnad Upgrade", seejärel järgige juhiseid diagnostika käivitamiseks.
+**Oluline**: selle probleemi lahendamiseks saate kasutada tugiteenuste diagnostikat, kuid tundub, et te ei kasuta uut administreerimiskeskuset. Uue administreerimiskeskuse kasutamiseks libistage paremas ülanurgas olevale ülemisele paremale, mis ütleb, et **Uus halduskeskus** asub paremal. Kui kasutate uut Administreerimiskeskuset, klõpsake nuppu **Vajad abi?** vidinat, tippige käsk "töörühma uuendamine edasi" ja seejärel järgige diagnostika käivitamiseks viipasid.
 
-Kui olete saanud teatise Microsofti juhitud automaatse versiooniuuenduse kohta Skype ' i ärirakenduse Microsoft Teamsi jaoks ja soovite automaatset täiendamist hiljem edasi lükata, saate globaalse administraatori [portaali meeskonnad](https://admin.teams.microsoft.com/dashboard) sisse logida ja pärast nupu **Värskenda olekut** valimist jaotises Microsoft Teams täiendamine valida nupu **Lükka edasi** . Oma rentniku automaatse versiooniuuenduse Microsoft Teamsi uue kuupäeva nägemiseks värskendage lehe meeskonnad admin portaali.
+Kui saite teate Microsofti juhitud automatiseeritud ülemineku kohta Skype ' i ärirakendusest Microsoft Teamsi ja te soovite automaatse ülemineku hilisemale kuupäevale edasi lükata, saab üldadministraator sisse logida [teamsi administraatori portaali](https://admin.teams.microsoft.com/dashboard) ja pärast nupu **Värskenda olekut** klõpsamist jaotises Microsoft teamsi täiendus valida nupp **Lükka edasi** . Kui soovite vaadata oma rentniku automaatse ülemineku uut kuupäeva Microsoft Teamsi, värskendage Teamsi administraatori portaali lehte.
 
-**Märkus:** Nupp **Lükka edasi** on saadaval ainult juhul, kui olete saanud sõnumikeskuse teatise automaatse täiendamise kohta. 
+**Märkus:** Nupp **Lükka edasi** on saadaval ainult juhul, kui olete saanud sõnumikeskuse teatise automatiseeritud versiooni kohta. 
 
-Globaalne administraatoritel saab käivitada ka [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) rohkem teada oma praeguse versiooniuuenduse olek.
+Globaalsed administraatorid saavad kasutada ka [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) , et saada lisateavet nende praeguse täienduse oleku kohta.

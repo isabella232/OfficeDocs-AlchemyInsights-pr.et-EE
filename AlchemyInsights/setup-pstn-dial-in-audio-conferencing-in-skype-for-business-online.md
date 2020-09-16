@@ -1,10 +1,11 @@
 ---
-title: Üldkasutatava Kommuteeritava dial-in audio conferencing Skype Business Online
+title: PSTN-kõnede häälestamine Skype ' i ärirakenduse veebiväljaandes
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 2df72ee353fe0ac53d98d64942beca4ea5f83659
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288205"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739533"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Üldkasutatava Kommuteeritava dial-in audio conferencing Skype Business Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>PSTN-kõnede häälestamine Skype ' i ärirakenduse veebiväljaandes
 
-Kui soovite häälestada Skype Business Online ' i jaoks audio conferencing, peate tegema mõned asjad. 
+Kui soovite häälestada Skype ' i ärirakenduse veebiväljaande jaoks videokonverentsi, peate tegema mõned toimingud. 
 
-- Uurige, kas teie riigis/regioonis on saadaval audio-konverentsid.
+- Siit leiate teavet selle kohta, kas teie riigis/regioonis on saadaval ka heli konverentsid.
 
 - Hankige ja määrake kasutajatele litsentsid.
 
-- Hankige ja määrake hooldusnumbrid.
+- Hankige ja Määrake teenuse numbrid.
 
-- Täitke kontroll-loend [Skype ' i jaoks audio-konverentsi seadistamine](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Tehke kontroll-loend [Skype ' i ärirakenduse jaoks mõeldud videokonverentsi häälestamiseks](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
