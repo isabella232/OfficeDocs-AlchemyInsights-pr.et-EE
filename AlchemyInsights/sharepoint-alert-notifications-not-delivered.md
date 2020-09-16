@@ -1,11 +1,12 @@
 ---
-title: SharePointi teatiste teatisi pole tarnitud
+title: SharePointi teatiste teatised pole kohale toimetatud
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
@@ -13,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343102"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751239"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePointi teatiste teatisi pole tarnitud
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePointi teatiste teatised pole kohale toimetatud
 
-Palun kontrollige rämpsposti kausta oma e-posti, kui mõnikord teateid võib minna sinna.
+Palun kontrolli oma e-posti kausta RÄMPSPOST, sest mõnikord võivad teatised sinna tulla.
 
-Tehke kindlaks, kas **teatisi ei toimetata kohale** või kui konkreetset faili või teeki ei toimetata **eraldi teatist** .
+Määratlege **, kas kõiki teatisi ei toimetata kohale** või kui teatud faili või teegi konkreetset **teatist** ei toimetata kohale.
 
-- **Üksikuid teatisi ei toimetata**: kui konkreetse faili või teegi konkreetset teatist ei toimetata kohale, võite proovida seda kustutada ja uuesti luua. Teatise uuestilaadamiseks vaadake teemat [SharePointi teatiste haldamine, vaatamine või kustutamine](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
-- **Kõik teatised on tarnitud**: kui kõik teatised mitme faili või teegid ei toimetata, külastage [teenuse tervise armatuurlauale](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et kontrollida mis tahes nõusid/intsidente, mis võivad esineda SharePointi või Exchange ' iga. See probleem võib olla SharePointi hoiatuse võimalus või viivitused e-kirjade kaudu Exchange. Samuti on oluline märkida, kas muud e-posti toimetatakse ja kui mitte, probleem on tõenäoline, et Exchange viivitused.
+- **Üksikuid teatisi ei toimetata kohale**: kui kindla faili või teegi konkreetset teatist ei edastata, saate proovida seda kustutada ja uuesti luua. Teatise uuesti loomise kohta leiate teavet teemast [SharePointi teatiste haldamine, kuvamine ja kustutamine](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
+- **Kõiki teatisi ei edastata**: kui kõiki mitmest failist või teegist pärit teatisi ei edastata, leiate [teenuse tervise armatuurlaualt](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et kontrollida, kas SharePointis või Exchange ' is võivad tekkida kõik nõunikud/intsidendid. Probleem võib olla SharePointi teatiste võimalustega või meilisõnumite kaudu Exchange ' iga viivitatud. Oluline on ka märkida, kas muu meilisõnum tarnitakse ja kui ei, siis on probleem tõenäoliselt ka Exchange ' i viivitusega.
 
-KKK hoiatuste kohta:
+KKK teatiste kohta:
 
-- Ei ole võimalik saata teateid levirühm, toetatakse ainult turvalisuse ja O365 rühmad.
-- Teatiste meilimalle ei saa kohandada; nende saavutamiseks peate kasutama Microsoft FLOW või SharePoint Designeri töövoogu.
+- Teatisi leviloendile ei saa saata, toetatakse ainult turbe-ja O365 rühmi.
+- Teatise e-posti malle ei saa kohandada; nende saavutamiseks peate kasutama Microsoft FLOW või SharePoint Designeri töövoogu.
 
-## <a name="related-topics"></a>Seostuvad Teemad
+## <a name="related-topics"></a>Seotud teemad
 
-Soovite proovida Microsoft Flow SharePoint Online?
+Kas soovite proovida Microsoft Flow SharePoint Online ' is?
 
 - [Voo loomine](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePointi ja voog](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint ja voog](https://flow.microsoft.com//blog/sharepoint-and-flow/)

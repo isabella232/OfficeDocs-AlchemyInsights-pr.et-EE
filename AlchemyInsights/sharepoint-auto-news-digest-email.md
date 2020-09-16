@@ -1,30 +1,31 @@
 ---
-title: SharePoint Auto Digest e-posti
+title: SharePointi automaatse seedimise meilisõnum
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: fbca2ef975b46451c833bcc2691e008a9d82c28f
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44846943"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751167"
 ---
-# <a name="sharepoint-auto-digest-email"></a>SharePoint Auto Digest e-posti
+# <a name="sharepoint-auto-digest-email"></a>SharePointi automaatse seedimise meilisõnum
 
-SharePoint Auto-News Digest saadab teie ettevõtte kasutajatele automaatsemeili uusimate uudistepostituste kohta, mida nad pole veel lugenud, mis on nende jaoks asjakohased.
+SharePointi automaatsete uudiste Digest saadab teie ettevõtte kasutajatele automatiseeritud meilisõnumid uusimate uudiste postituste kohta, mida nad ei ole veel lugenud.
 
-Lisateabe saamiseks külastage[https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Lisateavet leiad [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- Microsoft 365 teekaardi ID: [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Ajastus: Sihipärane release klientidele **juuli keskel (varem juunis** ja täielik kõigile klientidele **augusti keskpaigaks (varem augusti alguses)**.
-- Kasutuselevõtt: kasutaja tasandi kasutuselevõtt
-- Control Type: Kasutaja kontrolli , ** Admin kontrolli kaudu PowerShell (varsti)
+- Microsoft 365 juhised ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Ajastus: Targeted Release kliendid  **juulis juulis (varem juunis**  ja valmis kõigi klientide jaoks  **augusti keskel (varem augusti alguses)**.
+- Väljalogimine: kasutaja taseme väljaroll
+- Control Type: User Control, * * admin Control PowerShelli kaudu (varsti)
