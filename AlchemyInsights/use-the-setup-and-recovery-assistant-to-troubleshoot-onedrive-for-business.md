@@ -1,29 +1,30 @@
 ---
-title: Setup ja Recovery Assistant abil saate tõrkeotsing OneDrive for Business
+title: Häälestamise ja taastamise abimehe kasutamine OneDrive for Businessi tõrkeotsinguks
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 84711d6ae14e7ff845a50143a4378ef65d9587ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c687718de8ca78e1e1b896adc08368248fe4e0df
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710619"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749330"
 ---
 # <a name="fix-onedrive-sync-problems"></a>OneDrive ' i sünkroonimise probleemide lahendamine
 
-Rakenduse tugi ja taastamise abimees aitab teil tuvastada ja lahendada levinud probleeme OneDrive ' i failide sünkroonimisega. 
+Tugiteenuste ja abimehe rakendus aitab teil OneDrive ' i failide sünkroonimisel levinud probleeme tuvastada ja lahendada. 
   
-[Laadige alla toe ja taastamise abimees](https://aka.ms/sara), logige sisse oma töö või kooli kontoga ja järgige rakenduse OneDrive for Business tõrkeotsingu juhiseid. 
+[Laadige alla tugi-ja Süsteemitaaste assistent](https://aka.ms/sara), logige sisse oma töökoha või kooli kontoga ja järgige rakenduse juhiseid OneDrive for Businessi tõrkeotsinguks. 
   
-[Rohkem veaotsingu toiminguid](https://go.microsoft.com/fwlink/?linkid=872097)
+[Veel veaotsingu toiminguid](https://go.microsoft.com/fwlink/?linkid=872097)
   
 

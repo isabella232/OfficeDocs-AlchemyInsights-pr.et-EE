@@ -1,52 +1,53 @@
 ---
-title: SharePoint Online ' i Terminikauplus puuduvad terminid
+title: SharePoint Online ' i Termini salvest puuduvad terminid
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766849"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750447"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>BitLockeri krüptimise lubamine Intune ' iga
+# <a name="enabling-bitlocker-encryption-with-intune"></a>BitLockeri krüptimise lubamine Intune ' i abil
 
-Intune lõpp-punkti kaitse poliitika saab konfigureerida Boitlocker krüpteerimise sätted Windowsi seadmete nagu kirjeldatud: Windows10 (ja uuem) sätteid, et kaitsta seadmeid, kasutades Intune
+Intune Endpoint Protection Policy saab kasutada Windowsi seadmete Boitlocker konfigureerimiseks, nagu on kirjeldatud jaotises: Windows10 (ja uuemad) sätted, et kaitsta seadmeid Intune ' i abil
 
-Peaksite teadma, et paljud uuemad seadmed, mis töötavad Windows 10 toetavad automaatset BitLockeri krüptimist, mis käivitatakse ilma MDM-poliitika rakendamist. See võib mõjutada poliitika rakendamist, kui vaikimisi sätted on konfigureeritud. Üksikasjalikumat infot leiate KKK-st.
-
-
-KKK  Q: millised Windowsi tugiteenuste seadme krüptimine lõpp-punkti kaitse poliitika abil?
- A. Intune lõpp-punkti kaitse poliitika sätted rakendatakse BitLockeri CSP abil.Kõik väljaanded ega järkude Windows ei toeta BitLockeri CSP. 
-      Sel ajal Windowsi väljaanded: Enterprise; Haridus, mobiil, mobiilne ettevõtlus ja professionaalne (alates järk 1809) toetatakse.
+Peaksite teadma, et paljud uuemad seadmed, kus töötab Windows 10, toetavad automaatset BitLockeri krüptimist, mis käivitatakse MDM-poliitikat rakendamata. See võib mõjutada poliitika rakendamist, kui vaikesätted pole konfigureeritud. Üksikasjalikumat teavet leiate teemast KKK.
 
 
-
-
-Q: kui seade on juba krüpteeritud BitLocker kasutades OPERATSIOONISÜSTEEMI vaikesätteid krüptimismeetod ja šifri tugevus (XTS-AES-128) kohaldab poliitika erinevate sätetega automaatselt käivitab uuesti krüpteerimine draivi uute sätetega?
-
-A: ei. Uue šifri sätete rakendamiseks tuleb draiv esmalt dekrüptida.
-
-Märkus seadmete registreerunud autopiloot automaatne krüptimine, mis ilmneb OOBE ajal ei käivitata enne Intune poliitika hinnatakse, mis võimaldab poliitika põhinev sätted kasutatakse asemel OS vaikesätted
+KKK   k: millised Windowsis olevad väljaanded toetavad seadme krüptimist lõpp-punkti kaitse poliitika abil?
+ V: Intune ' i lõpp-punkti kaitsepoliitika sätted rakendatakse BitLockeri CSP-i kaudu.BitLockeri CSP ei toeta kõiki väljaandeid ega Windowsi väljaandeid. 
+      Praegu on Windowsi versioonid: Enterprise; Toetatakse haridust, mobiili, mobiilset ettevõtlust ja Professionalit (alates järgust 1809).
 
 
 
 
-Q kui seade on krüptitud tõttu rakenduse Intune poliitika on dekrüptida, kui see poliitika eemaldatakse?
+K. Kui seade on BitLocker-iga juba krüptitud, kasutades krüptimise meetodi ja šifri tugevuse (XTS-AES-128) sätteid, mis käivitab automaatselt draivi uuesti krüpteerimise uute sätetega.
 
-A. krüptimisega seotud poliitika eemaldamine ei põhjusta konfigureeritud draivide dekrüptimine.
+Vastus. Ei. Uute šifri sätete rakendamiseks peab draiv esmalt dekrüptima.
+
+Märkus seadmete registreerimisel autopiloot on automaatne krüptimine, mis ilmneb OOBE ajal ei käivitu kuni Intune poliitika hinnatakse, mis võimaldab poliitikal põhinevad sätted, mida kasutatakse OS-i vaikesätete asemel
 
 
 
 
-Q: Miks Intune vastavuse poliitika näitab, et minu seade ei ole "BitLocker lubatud", kuid see on?
+K kui seade krüptitakse Intune ' i poliitika rakendamise tõttu, dekrüptitakse see poliitika eemaldamise korral?
 
-A: "BitLockeri lubatud" säte Intune vastavuse poliitika kasutab Windows seadme tervise kinnitus (DHA) klient. See klient mõõdab ainult seadme oleku boot ajal. Nii et kui seadet pole taaskäivitatud, kuna BitLockeri krüptimine on lõpule viidud, ei teata DHA klienditeenus BitLockeri aktiivsest seadmest.
+A: krüptimise seotud poliitika eemaldamine ei põhjusta konfigureeritud draivide dekrüptimist.
+
+
+
+
+K: Miks Intune ' i nõuetele vastavuse poliitika näitab, et minu seadmel pole "BitLocker enabled", kuid see on?
+
+V: "BitLockeri lubatud" säte Intune ' i nõuetele vastavuse poliitikas kasutab Windowsi seadme terviseohutuse kinnitust (DHA) klienti. See klient mõõdab ainult seadme olekut alglaadimise ajal. Nii et kui seadet pole uuesti käivitatud, kuna BitLockeri krüptimine on lõpule viidud, ei teata DHA klienditeeninduse teenusest BitLocker aktiivsena.

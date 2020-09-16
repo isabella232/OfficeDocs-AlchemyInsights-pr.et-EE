@@ -5,33 +5,34 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2dba7bf8e6d8293e7447840941a063b343774a53
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36559405"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749798"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>OneNote ' i sünkroonimise probleemide tõrkeotsing
 
-* OneNote ' i sünkroonimise seotud levinumad probleemid, palun kasutage juhiseid [lahendada probleeme, kui te ei saa sünkroonida OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+* OneNote ' i sünkroonimisega seotud levinumate probleemide lahendamiseks kasutage [lahendusviisardi probleeme, kui te ei saa OneNote ' i sünkroonida](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-Kui märkmiku, mida ei sünkroonita, talletatakse OneDrive või uuemad versioonid SharePoint, proovige avada märkmiku OneNote Web (kell www.onenote.com). See aitab kindlaks teha, kas probleem on põhjustatud server või OneNote.
+Kui märkmikku, mida ei sünkroonita, talletatakse OneDrive ' is või SharePointi uuemates versioonides, proovige märkmik avada veebis OneNote ' is (aadressil www.onenote.com). See võib aidata kindlaks teha, kas probleem on põhjustatud serveri või OneNote ' i kaudu.
 
-1. OneNote ' is klõpsake **failiteave**  >  **Info**.
+1. Klõpsake OneNote ' is nuppu **failiteave**  >  **Info**.
 
-2. Paremklõpsake mõjutatud märkmiku nime all kuvatud URL-i ja klõpsake käsku **Kopeeri**.
+2. Paremklõpsake probleemse märkmiku nime all kuvatavat URL-i ja seejärel klõpsake käsku **Kopeeri**.
 
-3. Klõpsake veebibrauseris Aadressiboksi ja seejärel vajutage kopeeritud URL-i kleepimiseks **klahvikombinatsiooni CTRL + V** .
+3. Klõpsake veebibrauseris välja aadress ja vajutage kopeeritud URL-i kleepimiseks **klahvikombinatsiooni CTRL + V** .
 
-4. Seejärel vajutage sisestusklahvi ( **Enter** ), et laadida sülearvuti OneNote ' is veebi.
+4. Vajutage sisestusklahvi ( **Enter)** , et laadida seejärel märkmik veebirakenduses OneNote ' i.
 
-Kui te ei saa märkmiku avamisel rakenduses OneNote veebi ja muutused ilmuvad, võib probleemi põhjuseks OneNote ' i töölauaversioon. Märkmiku sulgemine ja uuesti avamine tavaliselt tühjendab ja lähtestab ühenduse.
+Kui te ei saa avada märkmikku veebirakenduses OneNote ' is ja muudatusi kuvatakse, võib probleemi põhjustada OneNote ' i töölauarakendus. Märkmiku sulgemine ja uuesti avamine tavaliselt tühjendab ja lähtestab ühendust edukalt.
 
-* Soovitame teil installida [Office ' i värskenduste installimise](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) sammud, et installida teie arvutisse uusimad OneNote värskendused. Kui olete Mac, järgige juhiseid, [kontrollige Office for Mac värskendusi automaatselt](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
+* Soovitame [Office ' i värskenduste installimise](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) juhiste järgimiseks installida uusimad OneNote ' i värskendused oma arvutisse. Kui olete Mac-arvutis, järgige juhiseid jaotises [Office for Maci värskenduste automaatne](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)otsimine.
