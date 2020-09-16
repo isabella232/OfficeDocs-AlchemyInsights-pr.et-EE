@@ -1,33 +1,34 @@
 ---
-title: Gmaili kontodest ei saa meilisõnumeid vastu võtta
+title: Gmaili kontolt ei saa meilisõnumeid vastu võtta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: dd3ebda3f835edd9f15fee096476273ad4249baf
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558932"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735447"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a><span data-ttu-id="35121-102">Gmaili kontodest ei saa meilisõnumeid vastu võtta</span><span class="sxs-lookup"><span data-stu-id="35121-102">Unable to receive email from Gmail accounts</span></span>
+# <a name="unable-to-receive-email-from-gmail-accounts"></a><span data-ttu-id="32e95-102">Gmaili kontolt ei saa meilisõnumeid vastu võtta</span><span class="sxs-lookup"><span data-stu-id="32e95-102">Unable to receive email from Gmail accounts</span></span>
 
-<span data-ttu-id="35121-103">**Küsimus**</span><span class="sxs-lookup"><span data-stu-id="35121-103">**ISSUE**</span></span>
+<span data-ttu-id="32e95-103">**PROBLEEM**</span><span class="sxs-lookup"><span data-stu-id="32e95-103">**ISSUE**</span></span>
 
-<span data-ttu-id="35121-104">Oleme teadlikud, et mõned kasutajad ei pruugi saada e-posti Gmaili kontod.</span><span class="sxs-lookup"><span data-stu-id="35121-104">We are aware that some users may not be able to receive email from Gmail accounts.</span></span> <span data-ttu-id="35121-105">Me uurime võimalikku probleemi.</span><span class="sxs-lookup"><span data-stu-id="35121-105">We are investigating a possible problem.</span></span>
+<span data-ttu-id="32e95-104">Oleme teadlikud, et mõnel kasutajal ei pruugi olla võimalik saada Gmaili kontolt meilisõnumeid.</span><span class="sxs-lookup"><span data-stu-id="32e95-104">We are aware that some users may not be able to receive email from Gmail accounts.</span></span> <span data-ttu-id="32e95-105">Uurime võimalikku probleemi.</span><span class="sxs-lookup"><span data-stu-id="32e95-105">We are investigating a possible problem.</span></span>
 
-<span data-ttu-id="35121-106">**Lahendus**</span><span class="sxs-lookup"><span data-stu-id="35121-106">**WORKAROUND**</span></span>
+<span data-ttu-id="32e95-106">**AJUTINE lahendus**</span><span class="sxs-lookup"><span data-stu-id="32e95-106">**WORKAROUND**</span></span>
 
-<span data-ttu-id="35121-107">Veenduge, et te pole kogemata Gmaili domeeni blokeerinud ühe Gmaili kasutaja.</span><span class="sxs-lookup"><span data-stu-id="35121-107">Check that you have not accidentally blocked the Gmail domain when blocking one Gmail user.</span></span>
+<span data-ttu-id="32e95-107">Veenduge, et te pole Gmaili domeeni blokeerides kogemata Gmaili domeeni blokeerinud.</span><span class="sxs-lookup"><span data-stu-id="32e95-107">Check that you have not accidentally blocked the Gmail domain when blocking one Gmail user.</span></span>
 
-1. <span data-ttu-id="35121-108">Avage [blokeeritud saatjate loend](https://go.microsoft.com/fwlink/?linkid=2121010).</span><span class="sxs-lookup"><span data-stu-id="35121-108">Open your [Blocked Senders list](https://go.microsoft.com/fwlink/?linkid=2121010).</span></span>
+1. <span data-ttu-id="32e95-108">Avage [blokeeritud saatjate loend](https://go.microsoft.com/fwlink/?linkid=2121010).</span><span class="sxs-lookup"><span data-stu-id="32e95-108">Open your [Blocked Senders list](https://go.microsoft.com/fwlink/?linkid=2121010).</span></span>
 
-2. <span data-ttu-id="35121-109">Kui Gmail.com on loendis, klõpsake kirje kõrval olevat prügikasti ikooni ja vajutage nuppu **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="35121-109">If Gmail.com is in the list, click the trash icon next to the entry and press **Save**.</span></span>
+2. <span data-ttu-id="32e95-109">Kui loendis on Gmail.com, klõpsake kirje kõrval olevat ikooni Prügikast ja vajutage nuppu **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="32e95-109">If Gmail.com is in the list, click the trash icon next to the entry and press **Save**.</span></span>
