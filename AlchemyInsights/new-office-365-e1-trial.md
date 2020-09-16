@@ -5,31 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: ad4af2c0cb1a4e2186df89bcfc35d0ea0de3bbb3
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558921"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769503"
 ---
 # <a name="new-office-365-e1-trial"></a>Uus Office 365 E1 prooviversioon
 
-Uus märts 2020, tasuta 6-kuulise [Office 365 E1 prooviversiooni](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), sealhulgas Microsoft Teams on nüüd saadaval. Et teada saada, mis on saadaval E1 litsentsi, lugege [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
+2020. märtsil on nüüd saadaval tasuta 6-kuune [Office 365 E1 prooviversioon](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license)(sh Microsoft Teams). Lisateabe saamiseks selle kohta, mis on saadaval E1-litsentsiga, lugege teemat [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
 
-**Kes on sobilik?**
+**Kellel on õigus?**
 
-See pakkumine on mõeldud klientidele, keda haldab Microsofti kontoesindaja. See on organisatsioonidele, kes ei ole aktiveerinud muud Office 365 E1 katsed minevikus. Pärast seda, kui olete kasutanud oma E1 Trial promo koodi, ei saa seda uuesti kasutada, samuti ei saa aktiveerida teise E1 prooviversiooni. Sel juhul võite lasta oma töötajatel aktiveerida [meeskonnad uurimusliku litsentsi](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
+See pakkumine on mõeldud Microsofti konto esindaja hallatavatele klientidele. See on mõeldud organisatsioonidele, kes pole varem ühtegi Office 365 E1 prooviversiooni aktiveerinud. Kui olete oma E1 prooviversiooni promo koodi kasutanud, ei saa te seda enam kasutada, samuti ei saa te teise E1 prooviversiooni aktiveerida. Sellistel juhtudel saate lasta töötajatel aktiveerida [teamsi uurimusliku litsentsi](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
 
-**Kes ei ole abikõlblikud?**
+**Kes pole abikõlblikud?**
 
-- See pakkumine ei ole saadaval GCC, GCC kõrge, DoD, või EDU klientidele. Me töötame GCC versiooni E1 Trial-see on varsti saadaval.
+- See pakkumine pole saadaval GCC, GCC High, DoD või EDU klientidele. Töötame välja E1 prooviversiooni – see on peagi saadaval.
 
- - EDU kliendid peaksid kasutama tasuta Office 365 a1 litsentsi.
+ - EDU klientidele tuleks kasutada tasuta Office 365 a1 litsentsi.
 
-Ära jäta kõiki meie juhiseid, et [toetada kaugtöötajaid meeskondadega](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Ära jäta kõiki meie juhiseid, mis on mõeldud [Kaug-töötajate toetamiseks võistkondadega](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
