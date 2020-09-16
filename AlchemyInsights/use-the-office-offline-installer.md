@@ -5,23 +5,23 @@ author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726316"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770187"
 ---
-# <a name="use-the-office-offline-installer"></a><span data-ttu-id="66fa9-102">Office ' i võrguühenduseta Installeri kasutamine</span><span class="sxs-lookup"><span data-stu-id="66fa9-102">Use the Office offline installer</span></span>
+# <a name="use-the-office-offline-installer"></a><span data-ttu-id="b1219-102">Office ' i võrguühenduseta Installeri kasutamine</span><span class="sxs-lookup"><span data-stu-id="b1219-102">Use the Office offline installer</span></span>
 
-<span data-ttu-id="66fa9-103">Te peate olema ühendatud Internetti Installeri failide allalaadimiseks, kuid kui see on tehtud, saate installida Office ' i võrguühenduseta ARVUTIS teie mugavuse Office ' i juurutamise tööriista (ODT) abil</span><span class="sxs-lookup"><span data-stu-id="66fa9-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
+<span data-ttu-id="b1219-103">Installeri failide allalaadimiseks peab teil olema Interneti-ühendus, kuid kui see on tehtud, saate Office ' i juurutamise tööriista (ODT) abil installida Office ' i võrguühenduseta arvuti.</span><span class="sxs-lookup"><span data-stu-id="b1219-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="66fa9-104">ODT on mõeldud ettevõtte keskkondades ja jookseb käsurealt, nii et sammud on keerulisem--kuid nad ikka töötavad paigaldamiseks ühes seadmes.</span><span class="sxs-lookup"><span data-stu-id="66fa9-104">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device.</span></span> <span data-ttu-id="66fa9-105">Vaadake [Office ' i võrguühenduseta Installeri kasutamist](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="66fa9-105">See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="b1219-104">ODT on mõeldud kasutamiseks Enterprise ' i keskkondades ja töötab käsureal, nii et toimingud on keerulisem – kuid nad töötavad endiselt ühes seadmes.</span><span class="sxs-lookup"><span data-stu-id="b1219-104">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device.</span></span> <span data-ttu-id="b1219-105">Lugege artiklit [Office ' i võrguühenduseta Installeri kasutamine](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="b1219-105">See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
