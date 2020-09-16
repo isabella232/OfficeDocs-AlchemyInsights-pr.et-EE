@@ -6,41 +6,42 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: 6868d7cdbbcc7d73e7e65fa0b0c954b4cba619ff
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197877"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664346"
 ---
 # <a name="yammer-web-parts-in-sharepoint"></a>Yammeri veebiosad SharePointis
 
-Yammeri vestlused ja Yammeri esiletõstud veebiosad suurendavad koostööd kaasaegsetel ja klassikalistel SharePointi lehtedel. Lisateavet leiate teemast [Yammeri vestlused](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) ja [Yammeri esiletõstud](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights).    
+Yammeri vestlused ja Yammeri esiletõstetud veebiosad suurendavad koostööd kaasaegsete ja klassikaliste SharePointi lehtedega. Lisateavet leiate teemast [Yammeri vestlused](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)  ja  [Yammeri Tähtsündmused](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights).    
 
-Kaasaegne Yammeri vestlused veebiosa värskendatakse uue Yammeri kasutuskeskkonnas ja on saadaval suunatud release rentnike jaoks. GA kasutuselevõtt on alanud. Uued funktsioonid hõlmavad võimalust alustada vestlust mis tahes postitusega (küsimused, küsitlused, kiitus) ja märkida parimad vastused otse SharePointist. Lisateavet leiate teemast [Uue Yammeri klienditingimused ja KKK](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
+Kaasaegseid Yammeri vestluste veebiosa värskendatakse uue Yammeri kogemuse juures ja see on saadaval sihitud Väljalaske rentnike jaoks. GA levikuga on alanud. Uued funktsioonid hõlmavad võimalust alustada vestlust mis tahes postitusega (küsimused, küsitlused, kiitused) ja märkida parimad vastused otse SharePointi kaudu. Lisateavet leiate teemast [uute Yammeri klientide tingimused ja KKK](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
 
- Et mõista, milline veebiosa ja konfiguratsioon on teie jaoks õige, vaadake teemat [Yammeri veebiosa kasutamine SharePoint Online'is](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).  
+ Kui soovite teada, milline veebiosa ja konfiguratsioon on teie jaoks õige, lugege artiklit [Yammeri veebiosa kasutamine SharePoint Online ' is](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).  
 
-**Veebiosade kasutamine SharePoint Serveriga**  
+**Veebiosade kasutamine SharePoint serveriga**  
 
-Veebiosi saab kasutada kaasaegsetel ja klassikalistel lehekülgedel asutusesiseses keskkonnas.
+Veebiosi saab kasutada kohapealsetes keskkondades kaasaegsetes ja klassikalistes lehtedel.
 
-- Lisateavet kaasaegsete lehtede kohta leiate teemast [Yammeri kanali lisamine sharepoint Server 2019 kaasaegsele lehele.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019) 
-- Lisateavet klassikaliste lehtede kohta leiate teemast [Yammeri kanali lisamine sharepointi serverites 2013, 2016 ja 2019 klassikalisele lehele.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)
+- Lisateavet moodsate lehtede kohta leiate teemast [Yammeri kanali lisamine modernsele lehele rakenduses SharePoint Server 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
+- Klassikalise lehe kohta leiate lisateavet teemast [SharePoint serverites 2013, 2016 ja 2019 Yammeri kanali lisamine klassikalisele lehele](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019).
 
 **Yammeri manustamine**  
 
-Manusta konfigureerimise tööriista abil saate testida manustamiskasutuse. Tulevane värskendus põmgatavõimaldab uue Yammeri kasutuskogemuse. Lisateavet leiate [Yammeri manustamiskonfiguratsiooni tööriistast](https://aka.ms/YammerEmbedConfigureTool). Yammeri manustamiskomponendi paremaks mõistmiseks vaadake teemat [Kanali manustamine](https://aka.ms/YammerDevDocs).
+Manustamise tööriista abil saate testida funktsiooni Manusta kasutust. Manustamise tulevase värskenduse abil saate uue Yammeri kogemuse lubada. Lisateavet leiate teemast [Yammeri manustamise tööriist](https://aka.ms/YammerEmbedConfigureTool). Yammeri manustamise komponendi paremaks mõistmiseks vt teemat [kanali manustamine](https://aka.ms/YammerDevDocs).
 
 **Teadaolevad probleemid ja piirangud**
 
-- Rühma ID-d pole saadaval uutest Yammeri URL-idest, mis on muutunud. Aktiveerige uuesti klassikaline režiim, et hankida URL-idelt rühma ID-d või muud ID-d.
-- Kohandatud (edevus)domeene ei toetata.
-- Yammeri manustamine pole mobiilijaoks optimeeritud. Kasutage yammeri vestluste veebiosaga kaasaegseid lehti, et olla parim kogemus.
+- Rühma ID-d pole saadaval uute Yammeri URL-ide korral, mis on muutunud. Kui soovite hankida URL-id või muud ID-d, siis aktiveerige klassikaline režiim.
+- Kohandatud (edevus) domeenid pole toetatud.
+- Yammeri manustamine pole mobiilsete jaoks optimeeritud. Parima kasutuskogemuse jaoks saate kasutada tänapäevaseid lehti Yammeri vestluste veebiosas.
 - Kohandatud kujundused võivad mõjutada Yammeri vestluste veebiosa ilmet ja kasutatavust. Probleemidest teatamiseks avage tugiteenuse juhtum.

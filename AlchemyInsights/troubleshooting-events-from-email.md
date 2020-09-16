@@ -1,47 +1,48 @@
 ---
-title: Sündmuste tõrkeotsing e-posti teel
+title: Meilisõnumite tõrkeotsing
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569005"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658730"
 ---
-# <a name="troubleshooting-events-from-email"></a>Sündmuste tõrkeotsing e-posti teel
+# <a name="troubleshooting-events-from-email"></a>Meilisõnumite tõrkeotsing
 
-1. Veenduge, et funktsioon on lubatud postkasti: **Get-EventsFromEmailConfiguration-identiteedi <mailbox> **
+1. Veenduge, et funktsioon on postkasti jaoks lubatud: **Get-EventsFromEmailConfiguration-Identity <mailbox> **
 
-2. Siis vaadake "sündmused e-posti" logid **eksport-MailboxDiagnosticLogs <mailbox> -komponendi timeprofile**
+2. Seejärel Vaata "sündmusi e-posti" logid **ekspordi-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. Leidke "sündmused e-posti" logisid InternetMessageId, mis vastab üksuse postkasti.  
+3. Otsige jaotisest "e-posti logid" välja InternetMessageId, mis vastab postkastis olevale üksusele.  
 
-4. TrustScore määratleb, kas üksus on lisatud või mitte. Sündmusi saab lisada ainult siis, kui TrustScore = "usaldusväärne".
+4. TrustScore määratleb, kas üksus on lisatud või mitte. Sündmusi lisatakse ainult juhul, kui TrustScore = "usaldusväärne".
 
-TrustScore on määratud SPF, DKIM või Dmarc atribuudid, mis on sõnumi päises.
+TrustScore on määratud SPF-, DKIM-või Dmarc atribuudid, mis asuvad sõnumi päises.
 
-Nende atribuutide vaatamiseks toimige järgmiselt.
+Nende atribuutide kuvamiseks tehke järgmist.
 
 **Töölaua Outlook**
 
-- Ava üksus
-- Fail-> atribuudid-> Interneti-päised
+- Üksuse avamine
+- Failid > atribuudid – > Interneti-päised
 
-Või
+või
 
 **MFCMapi**
 
-- Liikuge sisendkausta üksusele
+- Sisendkausta üksusele liikumine
 - Otsi PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Need omadused määratakse kindlaks ja registreeritakse transpordi ja marsruudi ajal. Edasise tõrkeotsingu puhul peate võib-olla jälgima transpordi Tugiteenusi SPF-i, DKIM-i ja DMARC-i tõrgete kohta.
+Need atribuudid määratakse ja salvestatakse veo ja marsruutimise ajal. Edasiseks tõrkeotsinguks võib juhtuda, et peate jälgima transpordi tuge SPF-, DKIM-ja DMARC tõrgete kohta.

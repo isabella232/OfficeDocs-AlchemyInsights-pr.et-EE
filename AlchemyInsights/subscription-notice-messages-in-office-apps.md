@@ -1,24 +1,25 @@
 ---
-title: Tellimusega seotud teated Office’i rakendustes
+title: Tellimuse teadete sõnumid Microsoft 365 rakendustes
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789190"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659234"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Tellimusega seotud teated Office’i rakendustes
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Tellimuse teadete sõnumid Microsoft 365 rakendustes
 
 - Kui Office oli teie uude seadmesse eelinstallitud, lugege Office’i uues seadmes aktiveerimise kohta lisateabe saamiseks artiklit [Office’i aktiveerimine](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e).
 
@@ -32,7 +33,7 @@ ms.locfileid: "43789190"
 
 - Käivitage [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy) ja taaskäivitage arvuti.
 
-- Mõjutatud masinas [määrake uuesti Office’i aktiveerimisolek](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Mõjutatud masinas [määrake uuesti Office’i aktiveerimisolek](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Üksikasjalikud juhised leiate siit: 
 

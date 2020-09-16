@@ -1,38 +1,39 @@
 ---
-title: 'AIP: portaali jälgimine ja tühistamine'
+title: 'AIP: portaali jälitamine ja tühistamine'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: 32cd346c9af145f733b0a62746a0ee1b632fa5ab
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357631"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663149"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AIP: portaali jälgimine ja tühistamine
+# <a name="aip-track-and-revoke-portal"></a>AIP: portaali jälitamine ja tühistamine
 
-Azure ' i teabekaitse kasutamisel dokumentide jälgimiseks ja tühistamiseks kasutage Azure Portal **dokumendi jälgimissaiti** . Office ' i rakendusi (Word, Excel ja PowerPoint) ja File Explorerit saab kasutada ka dokumentide jälgimiseks ja tühistamiseks.
+Azure ' i portaalis dokumentide **jälgimise saidi** abil saate dokumente jälitada ja tühistada, kui kasutate Azure ' i teabe kaitset. Office ' i rakendusi (Word, Excel ja PowerPoint) ning rakendust Explorer saab kasutada ka dokumentide jälgimiseks ja tühistamiseks.
 
-1. Klõpsake dokumendi jälgimissaidil käsku **Tühista juurdepääs**. Dokumendi tühistamine eemaldab volitatud kasutajatelt juurdepääsu; dokumenti ei kustutata.
-2. Office ' i rakenduse:
-    - Avage kaitstud dokument, mida soovite jälgida või tühistada.
-    - Klõpsake vahekaardi **Avaleht** **kaitse** rühmas nuppu **kaitse > Jälita ja Tühista**.
+1. Klõpsake dokumendi jälgimise saidil käsku **Tühista juurdepääs**. Dokumendi tühistamine eemaldab juurdepääsu autoriseeritud kasutajatest; dokumenti ei kustutata.
+2. Office ' i rakenduses tehke järgmist.
+    - Avage kaitstud dokument, mida soovite jälitada või tühistada.
+    - Klõpsake menüü **Avaleht** jaotises **kaitse** nuppu **kaitse > jälgi ja Tühista**.
 
-- Lisateavet dokumendi jälgimise ja tühistamise kohta leiate teemast [Track ja Tühista](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- Lisateavet dokumendi jälgimise ja tühistamise kohta leiate teemast [jälitamine ja](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)tühistamine.
 
-Lisateabe saamiseks PowerShelli abil hallata dokumendi jälgimise saidi logimisteavet, vaadake järgmist:
-- [Kasutusjuhend: teie dokumentide jälgimine ja tühistamine Azure ' i teabekaitse kasutamisel](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Admin Guide: konfigureerimine ja kasutades Azure ' i teabekaitse dokumendijälgimine](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Õiguste halduse kasutamise litsents](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Vaadake üle Azure ' i teabekaitse tellimused ja funktsioonid](https://azure.microsoft.com/pricing/details/information-protection)
-- [Azure ' i teabekaitse nõuded](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Quick Start juhendaja Azure ' i teabekaitse](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+Teavet PowerShelli kasutamise kohta dokumendi jälgimise saidi haldamiseks leiate järgmistest teemadest.
+- [Kasutusjuhend: dokumentide jälitamine ja tühistamine Azure ' i teabe kaitse kasutamisel](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Administraatori juhend: Azure ' i teabe kaitse dokumendi jälgimise konfigureerimine ja kasutamine](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Õiguste halduse kasutuse litsents](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Azure ' i teabe kaitse tellimuste ja funktsioonide läbivaatus](https://azure.microsoft.com/pricing/details/information-protection)
+- [Azure ' i teabe kaitse nõuded](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Azure ' i teabe kaitse Lühijuhend](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

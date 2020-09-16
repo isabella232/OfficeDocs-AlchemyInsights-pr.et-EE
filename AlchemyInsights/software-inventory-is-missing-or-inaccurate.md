@@ -1,32 +1,33 @@
 ---
-title: Tarkvara varud puuduvad või on ebatäpsed
+title: Tarkvara laovaru on puudu või ebatäpne
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 0edafc8fab84ccdabecdc4853fde998ae79a8184
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197871"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665282"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Tarkvara varud puuduvad või on ebatäpsed
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Tarkvara laovaru on puudu või ebatäpne
 
-Tarkvara varude Microsoft Defender ATP teenus pakub toote nimi või tarnija, selle uusim versioon number, ja avastatud nõrkused ja nõrkused. Lisateavet leiate teemast [Tarkvara varud – ohu- ja haavatavuse haldus](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Tarkvara inventuur Microsoft Defenderi ATP teenuses annab toote nime või tarnija, selle uusima versiooni numbri ning tuvastas nõrkused ja nõrgad kohad. Lisateavet leiate teemast [tarkvara laoseis – oht ja haavatavuse haldus](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Ebamäärasest või mittetäielikust teabest, ebatäpsest versiooninumbrist või parandatud tarkvara varude teabest saate teatada järgmiselt.  
+Nende juhiste järgi saate teatada ebamäärasest või mittetäielikust teabest, ebatäpsetest versiooninumber või vahendatud tarkvara inventuuri teabest.  
 
-1. Avage tarkvara hüpik ja valige rakendus lehel Tarkvara varud.
-2. Valige **Teata ebatäpsusest**ja valige hüpikpaanil rippmenüüst kategooria.
-3. Sisestage oma e-posti aadress ja ebatäpsuse üksikasjad.
+1. Avage tarkvara hüpik ja valige rakendusest tarkvara inventuur leht.
+2. Valige **Teata ebatäpsusest**ja valige hüpik paanilt soovitud kategooria.
+3. Täitke oma meiliaadress ja üksikasjad ebatäpsuse kohta.
 4. Valige **Edasta**.</br>
-    Teie tagasiside saadetakse kohe ohu& haavatavuse halduse ekspertidele.
+    Teie tagasiside saadetakse kohe ohustatud & haavatavuse halduse asjatundjatele.
