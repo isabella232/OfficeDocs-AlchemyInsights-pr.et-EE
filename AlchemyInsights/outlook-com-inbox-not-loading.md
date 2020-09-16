@@ -1,36 +1,37 @@
 ---
-title: Outlook.com sisendkausta ei laadis
+title: Outlook.com sisendkaust ei laadita
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: e53353949a37518b21b85a4786e443577cb88bda
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 16e349fa06350264f34802aefa9176d742d7a188
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36822338"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723819"
 ---
-# <a name="empty-inbox"></a><span data-ttu-id="4345f-102">Tühi postkast</span><span class="sxs-lookup"><span data-stu-id="4345f-102">Empty inbox</span></span>
+# <a name="empty-inbox"></a><span data-ttu-id="26d30-102">Tühjenda sisendkaust</span><span class="sxs-lookup"><span data-stu-id="26d30-102">Empty inbox</span></span>
 
-<span data-ttu-id="4345f-103">**Minu Outlook.com postkast on tühi**</span><span class="sxs-lookup"><span data-stu-id="4345f-103">**My Outlook.com inbox is empty**</span></span>
+<span data-ttu-id="26d30-103">**Minu Outlook.com sisendkaust on tühi**</span><span class="sxs-lookup"><span data-stu-id="26d30-103">**My Outlook.com inbox is empty**</span></span>
 
-- <span data-ttu-id="4345f-104">Teatud lisandmoodulid Firefoxi brauseris võivad takistada teie sisendkausta laadimist.</span><span class="sxs-lookup"><span data-stu-id="4345f-104">Certain add-ons in the Firefox browser might prevent your inbox from loading.</span></span> <span data-ttu-id="4345f-105">Külasta Firefox toetust, et õppida, kuidas [keelata või eemaldada add-ons](https://aka.ms/mozilla-add-ons).</span><span class="sxs-lookup"><span data-stu-id="4345f-105">Visit Firefox support to learn how to [disable or remove Add-ons](https://aka.ms/mozilla-add-ons).</span></span>
+- <span data-ttu-id="26d30-104">Teatud lisandmoodulid Firefoxi brauseris võivad takistada sisendkausta laadimist.</span><span class="sxs-lookup"><span data-stu-id="26d30-104">Certain add-ons in the Firefox browser might prevent your inbox from loading.</span></span> <span data-ttu-id="26d30-105">Lisateavet [lisandmoodulite keelamise ja eemaldamise](https://aka.ms/mozilla-add-ons)kohta leiate teemast Firefoxi tugi.</span><span class="sxs-lookup"><span data-stu-id="26d30-105">Visit Firefox support to learn how to [disable or remove Add-ons](https://aka.ms/mozilla-add-ons).</span></span>
 
-<span data-ttu-id="4345f-106">**Ma tahan tühjendada oma postkasti**</span><span class="sxs-lookup"><span data-stu-id="4345f-106">**I want to empty my inbox**</span></span>
+<span data-ttu-id="26d30-106">**Soovin postkasti tühjendada**</span><span class="sxs-lookup"><span data-stu-id="26d30-106">**I want to empty my inbox**</span></span>
 
-<span data-ttu-id="4345f-107">Kui soovite tühjendada oma sisendkausta ja kustutada kõik oma e-posti:</span><span class="sxs-lookup"><span data-stu-id="4345f-107">If you want to empty your inbox and delete all your email:</span></span>
+<span data-ttu-id="26d30-107">Kui soovite sisendkausta tühjendada ja kustutada kõik meilisõnumid, tehke järgmist.</span><span class="sxs-lookup"><span data-stu-id="26d30-107">If you want to empty your inbox and delete all your email:</span></span>
 
-1. <span data-ttu-id="4345f-108">Valige ring</span><span class="sxs-lookup"><span data-stu-id="4345f-108">Select the circle</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' /> <span data-ttu-id="4345f-109">sõnumiloendi ülaosas [sisendkausta](https://outlook.live.com/mail/inbox) kõrval, et valida kõik oma sõnumid.</span><span class="sxs-lookup"><span data-stu-id="4345f-109">next to [Inbox](https://outlook.live.com/mail/inbox) at the top of your message list to select all your messages.</span></span>
-1. <span data-ttu-id="4345f-110">Lehe ülaosas valige **tühi kaust** (või **tühi keskendunud**  /  **tühi muu** kui suunatud sisendkausta on sisse lülitatud).</span><span class="sxs-lookup"><span data-stu-id="4345f-110">At the top of the page, select **Empty folder** (or **Empty Focused** / **Empty Other** if Focused Inbox is turned on).</span></span>
-1. <span data-ttu-id="4345f-111">Valige **Kustuta kõik**.</span><span class="sxs-lookup"><span data-stu-id="4345f-111">Select **Delete all**.</span></span>
-1. <span data-ttu-id="4345f-112">Kustutatud sõnumite tühjendamiseks Avage [kaust Kustutatud](https://outlook.live.com/mail/deleteditems) ja valige **Tühjenda kaust**  >  **Kustuta kõik**, seejärel valige lehe ülaosas **selle kausta Kustutatud üksuste taastamine** ja valige **tühi kaust** uuesti.</span><span class="sxs-lookup"><span data-stu-id="4345f-112">To purge all your deleted messages, open your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder** > **Delete all**, then select **Recover items deleted from this folder** at the top of the page and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="26d30-108">Valige ring</span><span class="sxs-lookup"><span data-stu-id="26d30-108">Select the circle</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' /> <span data-ttu-id="26d30-109">kõigi sõnumite valimiseks klõpsake sõnumiloendis ülaosas nuppu [sisendkaust](https://outlook.live.com/mail/inbox) .</span><span class="sxs-lookup"><span data-stu-id="26d30-109">next to [Inbox](https://outlook.live.com/mail/inbox) at the top of your message list to select all your messages.</span></span>
+1. <span data-ttu-id="26d30-110">Valige lehe ülaosas **tühi kaust** **(või**  /  **Empty Other** kui fookuses olev sisendkaust on sisse lülitatud).</span><span class="sxs-lookup"><span data-stu-id="26d30-110">At the top of the page, select **Empty folder** (or **Empty Focused** / **Empty Other** if Focused Inbox is turned on).</span></span>
+1. <span data-ttu-id="26d30-111">Valige **Kustuta kõik**.</span><span class="sxs-lookup"><span data-stu-id="26d30-111">Select **Delete all**.</span></span>
+1. <span data-ttu-id="26d30-112">Kõigi kustutatud sõnumite likvideerimiseks Avage [kaust Kustutatud üksused](https://outlook.live.com/mail/deleteditems) ja valige käsk **Tühjenda kaust**  >  **Kustuta kõik**ja seejärel valige lehe ülaservas **Kustuta üksused, mis on sellelt kaustalt kustutatud** , ja valige uuesti käsk **Tühjenda kaust** .</span><span class="sxs-lookup"><span data-stu-id="26d30-112">To purge all your deleted messages, open your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder** > **Delete all**, then select **Recover items deleted from this folder** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="4345f-113">Lisateabe saamiseks vaadake [e-posti Outlook.com kustutamine](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="4345f-113">For more information, see [Delete email in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
+<span data-ttu-id="26d30-113">Lisateavet leiate teemast [meilisõnumite kustutamine rakenduses Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="26d30-113">For more information, see [Delete email in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>

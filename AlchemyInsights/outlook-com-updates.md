@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719336"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722487"
 ---
-# <a name="outlookcom-updates"></a><span data-ttu-id="1acb7-102">Outlook.com värskendused</span><span class="sxs-lookup"><span data-stu-id="1acb7-102">Outlook.com updates</span></span>
+# <a name="outlookcom-updates"></a><span data-ttu-id="c935f-102">Outlook.com värskendused</span><span class="sxs-lookup"><span data-stu-id="c935f-102">Outlook.com updates</span></span>
 
-<span data-ttu-id="1acb7-103">**Viimased uuendused**</span><span class="sxs-lookup"><span data-stu-id="1acb7-103">**Latest updates**</span></span>
+<span data-ttu-id="c935f-103">**Uusimad värskendused**</span><span class="sxs-lookup"><span data-stu-id="c935f-103">**Latest updates**</span></span>
 
-- <span data-ttu-id="1acb7-104">Saada rohkem oma e-posti uue Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="1acb7-104">Get more out of your email with the new Outlook.com.</span></span> <span data-ttu-id="1acb7-105">Me ühtlustasime otsingut, et teha lihtsam kui kunagi varem leida, mida otsite.</span><span class="sxs-lookup"><span data-stu-id="1acb7-105">We've streamlined search to make it easier than ever to find what you're looking for.</span></span> <span data-ttu-id="1acb7-106">Uued funktsioonid, nagu fotod ja manuste eelvaateid, näevad teie pilte ja faile ilma sisendkausta lahkumata.</span><span class="sxs-lookup"><span data-stu-id="1acb7-106">New features like Photos and attachment previews let you see your pictures and files without leaving your inbox.</span></span> <span data-ttu-id="1acb7-107">Ja nüüd saate lisada emotikone ja GIF-ID oma sõnumitele.  [Lisateave uue Outlook.com kohta.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="1acb7-107">And now you can add emojis and GIFs to your messages. [Learn more about the new Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
+- <span data-ttu-id="c935f-104">Saada rohkem meilisõnumeid uue Outlook.com abil.</span><span class="sxs-lookup"><span data-stu-id="c935f-104">Get more out of your email with the new Outlook.com.</span></span> <span data-ttu-id="c935f-105">Oleme lihtsustanud otsinguid, et oleks lihtsam kui kunagi varem, et leida, mida otsite.</span><span class="sxs-lookup"><span data-stu-id="c935f-105">We've streamlined search to make it easier than ever to find what you're looking for.</span></span> <span data-ttu-id="c935f-106">Uued funktsioonid (nt fotod ja manuste eelvaated) võimaldavad piltide ja failide nägemist sisendkaustast lahkumata.</span><span class="sxs-lookup"><span data-stu-id="c935f-106">New features like Photos and attachment previews let you see your pictures and files without leaving your inbox.</span></span> <span data-ttu-id="c935f-107">Nüüd saate oma sõnumitele lisada emodžid ja GIF-sõnumeid.  [Lugege lisateavet uue Outlook.com kohta.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="c935f-107">And now you can add emojis and GIFs to your messages. [Learn more about the new Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
 
-<span data-ttu-id="1acb7-108">**E-posti uuendused**</span><span class="sxs-lookup"><span data-stu-id="1acb7-108">**Email updates**</span></span>
+<span data-ttu-id="c935f-108">**Meili uuendused**</span><span class="sxs-lookup"><span data-stu-id="c935f-108">**Email updates**</span></span>
 
-- <span data-ttu-id="1acb7-109">Kui teie Outlook.com postkasti ei värskendata, vaadake [Fix Outlook.com e-posti sünkroonimise probleemid](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1acb7-109">If your Outlook.com mailbox is not updating, see [Fix Outlook.com email sync issues](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+- <span data-ttu-id="c935f-109">Kui teie Outlook.com postkast pole värskendatav, lugege teemat [Outlook.com lahendamine](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="c935f-109">If your Outlook.com mailbox is not updating, see [Fix Outlook.com email sync issues](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
