@@ -1,31 +1,32 @@
 ---
-title: Vaikimisi uuendamise subskriptsioon
+title: Uuendamise subsscription
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062244"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745855"
 ---
-# <a name="renewing-your-subscription"></a>Tellimuse uuendamine
+# <a name="renewing-your-subscription"></a>Tellimuse pikendamine
 
-Kui maksate krediitkaardiga või pangakontoga, lülitatakse korduv arveldamine vaikimisi sisse. Kui korduv arveldamine on sisse, siis teie tellimust arveldatakse igal aastal teie tellitud päeval. Kui teie tellimus on aktiivne, saate selle administreerimiskeskuses uuesti sisse või tagasi sisse lülitada.
+Kui maksate krediitkaardi või pangakontoga, on korduv arveldamine vaikimisi sisse lülitatud. Kui korduv arveldamine on sisselülitatud, võetakse teie tellimusele järgneval päeval arve igal aastal. Kui teie tellimus on aktiivne, saate seda administreerimiskeskuses uuesti välja või uuesti sisse lülitada.
 
-Kui olete tellimuse tootenumbri eest ettemakstud, aegub teie tellimus tellimuse kehtivusaja lõpus. Saate sisse lülitada korduva arveldamise ja esitada krediitkaardi või pangakonto teabe, et teie tellimust arveldatakse igal aastal teie tellitud päeval.
+Kui olete tellimuse oma tellimuse eest maksnud, aegub pakett tellimuse kehtivusaja lõpus. Saate korduva arveldamise ja anda krediitkaardi või pangakonto andmeid, et teie tellimust arveldatakse igal aastal teie tellitud päeval.
 
-Korduva arveldamise sisselülitamine: 
+Korduva arveldamise sisselülitamiseks tehke järgmist. 
 
-1. **Billing**  >  **[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamiseks.
-2. Valige tellimus, mille jaoks soovite korduvat arveldamist hallata.
-3. Tehke jaotises **Arveldamine**valik **Redigeeri** ja tehke muudatused aknas **korduva arveldamise sätted** . 
+1. Valige **Billing**  >  **[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
+2. Valige tellimus, mille jaoks soovite korduvat arveldust hallata.
+3. Valige jaotises **Arveldamine**nupp **Redigeeri** ja tehke muudatused aknas **korduvate arvelduste sätted** . 

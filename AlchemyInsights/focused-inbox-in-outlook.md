@@ -1,32 +1,33 @@
 ---
-title: 1800019 suunatud sisendkausta Outlookis
+title: 1800019 fookuses sisendkaust Outlookis
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 8eb4f8c9eca75b68fdc5c32235f31b5c2c8bf2ef
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719917"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744469"
 ---
-# <a name="focused-inbox-in-outlook"></a>Outlooki suunatud sisendkausta
+# <a name="focused-inbox-in-outlook"></a>Fookuses sisendkaust Outlookis
 
-Suunatud sisendkausta eraldab teie sisendkausta kaks vahekaarti — keskendunud ja muud. Teie kõige olulisemad sõnumid on suunatud vahekaardil, samas kui ülejäänud on hõlpsasti juurdepääsetavad – kuid mitte teel – vahekaardil muu.
+Fookuses sisendkaust eraldab teie sisendkausta kahele vahekaardile — fookuses ja muu. Teie kõige olulisemad sõnumid asuvad vahekaardil keskendunud, samal ajal kui ülejäänud jäävad hõlpsalt juurdepääsetavaks, kuid teelt eemale – teisel vahekaardil.
   
-[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook Web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlooki veebirakendus](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Windows 10 jaoks mõeldud meilisõnum](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
 Lisateave:
   
-- [Vt suunatud sisendkausta tegevus](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Vaadake teemat fookuses olev sisendkaust](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Konfigureerige suunatud sisendkausta kõigile oma organisatsioonis PowerShelli](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Kõigi oma asutuse jaoks mõeldud postkastile suunatud postkasti konfigureerimine PowerShelli abil](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

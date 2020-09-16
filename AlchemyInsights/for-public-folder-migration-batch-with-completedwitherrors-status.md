@@ -1,31 +1,32 @@
 ---
-title: Ühiskausta migreerimise partii CompletedWithErrors olek
+title: CompletedWithErrors olekuga ühiskausta migreerimise pakett
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158599"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744109"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Ühiskausta migreerimise partii CompletedWithErrors olek
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>CompletedWithErrors olekuga ühiskausta migreerimise pakett
 
-Pakktöötluse lõpuleviimiseks, suurte/halbade üksuste vahelejätmine toimige järgmiselt. 
-1. Kinnitage vahelejäetud üksused migreerimispaketi puhul:
+Tehke paketti viimiseks järgmised toimingud, jättes vahele suured/halvad üksused. 
+1. Siirdamispartii vahele jäetud üksuste kinnitamiseks tehke järgmist.
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Järgmise käsu abil saate kinnitada vahelejäetud üksused migratsiooni taotlusi, mis on "sünkroonitud", kuid ei ole lõpule viidud:
+2. Kasutage järgmist käsku, et kinnitada migreerimise päringute vahele jäetud üksused, mis on sünkroonitud, kuid pole lõpule viidud.
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Migreerimispaketi ja taotlused peaks uuesti ja lõpule mõne minuti.
+3. Migreerimise pakett ja taotlused tuleks mõne minuti pärast uuesti alustada ja täita.
 

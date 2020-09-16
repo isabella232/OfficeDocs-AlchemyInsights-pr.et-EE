@@ -1,26 +1,27 @@
 ---
-title: Kuidas eemaldada SFB
+title: SFB desinstallimine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000741"
 - "2669"
-ms.openlocfilehash: ece06e05fa95f871386c0454a9391e347b40ab1f
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 4988c224ad03ef8c52390108ae8d16a13c266627
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316755"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744217"
 ---
-# <a name="uninstall-skype-for-business"></a>Desinstalli Skype ' i ärirakendus
+# <a name="uninstall-skype-for-business"></a>Skype ' i ärirakenduse desinstallimine
 
-Skype ' i ärirakenduse desinstallimise kohta teabe saamiseks lugege järgmisi artikleid:
+Lisateavet Skype ' i ärirakenduse desinstallimise kohta leiate järgmistest artiklitest:
 
-- [Desinstalli Skype ' i ärirakendus](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)
-- [Skype ' i mobiilseadmes desinstallimine](https://support.office.com/article/uninstall-skype-for-business-on-a-mobile-device-9c9e6270-f88e-404c-b757-3ffb6ffb897a)
+- [Skype ' i ärirakenduse desinstallimine](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)
+- [Skype ' i ärirakenduse desinstallimine mobiilsideseadmes](https://support.office.com/article/uninstall-skype-for-business-on-a-mobile-device-9c9e6270-f88e-404c-b757-3ffb6ffb897a)
