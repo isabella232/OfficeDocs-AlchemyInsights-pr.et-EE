@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: ded0f399f1688108803fbb04aaca6a88397e1f1a
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796070"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754557"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Juurutamine Office 2019 ühiskasutuses kasutamiseks RDS, Terminal Server või VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Office 2019 juurutamine rakenduses RDS, terminaliserveri või VDI ühiskasutusse antud kasutamiseks
 
-Kui Office on juba installitud RDS server, kasutades muid Office ' i plaane, desinstallige see. Näiteks **minge** > juhtpaneeli**desinstallida programmi**. Kui teil on probleeme, desinstallige [Microsoft support ja taastamise abimees](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Kui Office on juba RDS-serverisse installitud muude Office ' i lepingute abil, desinstallige see. Näiteks avage **Juhtpaneel**,  >  **desinstallige programm**. Kui teil on probleeme, desinstallige [Microsofti tugiteenuste ja taastekonsooli](https://aka.ms/SARA-OfficeUninstall-Alchemy)kaudu. 
 
-Office ' i juurutamise tööriista (ODT) abil installida. Üksikasjalikud juhised leiate teemast [Office 2019 juurutamine](https://docs.microsoft.com/deployoffice/office2019/deploy).
+Office ' i juurutamise tööriista (ODT) abil saate Office ' i installida. Üksikasjalikud juhised leiate teemast [Office 2019 juurutamine](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
-Aktiveerimiseks vaadake [ülevaadet Office ' i helitugevuse aktiveerimisest](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+Aktiveerimise kohta leiate teavet artiklist [Office ' i Hulgiaktiveerimise ülevaade](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).

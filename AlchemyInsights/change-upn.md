@@ -1,43 +1,44 @@
 ---
-title: Muuda UPN-i
+title: UPN-i muutmine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 63831912c9781c73135790f0f855c71ee6ee6621
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506007"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756459"
 ---
-# <a name="change-a-users-email-address"></a>Kasutaja e-posti aadressi muutmine
+# <a name="change-a-users-email-address"></a>Kasutaja meiliaadressi muutmine
 
-Kellegi e-posti aadressi vahetamine on lihtne! Lihtsalt järgige neid samme:
+Kellegi meiliaadressi muutmine on lihtne! Lihtsalt järgige neid juhiseid.
   
-1. Microsoft 365 halduskeskus, lehele [Kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) või valige **kasutajate** \> **aktiivsed kasutajad**.
+1. Avage Microsoft 365 halduskeskus lehel [Kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) või valige **Kasutajad** \> **aktiivsed kasutajad**.
     
 2. Valige kasutaja.
     
-3. Paremal, **kasutajanimi/e-posti pseudonüümide** rida, valige **Edit**.
+3. Valige parempoolsel real **username/post Aliases** ( **Redigeeri**).
     
-4. Tippige väljale **pseudonüüm** uus meiliaadress ja seejärel valige **Lisa**.
+4. Tippige väljale **pseudonüüm** Uus meilisõnum ja seejärel valige **Lisa**.
     
-    **NB**!: kui kuvatakse tõrketeade " **parameetrit ei leita, mis vastab parameetri nimi" EmailAddresses**"See tähendab, et see võtab veidi kauem aega lõpuleviimiseks oma rentniku või oma kohandatud domeeni, kui olete hiljuti lisanud ühe. Installiprotsessi lõpuleviimiseks võib kuluda kuni 4 tundi. Oodake, kuni seadistusprotsessil on aega lõpuleviimiseks ja proovige siis uuesti. Kui probleem ei lahene, helistage tuge ja nad teevad teile täieliku sünkroonimise.
+    **Oluline**: kui kuvatakse tõrketeade "parameetrit, **mis vastab parameetri nimele" EmailAddresses**", tähendab see seda, et Microsoft peab teie rentniku häälestamiseks või kohandatud domeeni häälestamiseks, kui olete hiljuti ühe lisanud, veel veidi kauem. Installiprotsessi lõpuleviimiseks võib kuluda kuni 4 tundi. Oodake veidi, nii et häälestamise käigus on aeg lõpetada, ja proovige siis uuesti. Kui probleem ei lahene, helistage kasutajatoele ja nad teevad teie eest täieliku sünkroonimise.
     
-    Kui kuvatakse tõrketeade " **meil on kahju, kasutajat ei saa redigeerida. Vaadake Kasutajateave üle ja proovige uuesti**"See tähendab, et te pole globaalne administraator ja teil pole õigust muuta kasutaja nime.
+    Kui kuvatakse tõrketeade " **meil on kahju, ei saanud kasutajat redigeerida. Vaadake Kasutajateave üle ja proovige uuesti**"See tähendab, et te pole üldadministraator ja teil pole õigust kasutaja nime muuta.
     
-5. Valige **määrata esmane** e-posti aadress, mida soovite seada peamine e-posti aadress selle isiku. Kui ostsite oma tellimuse GoDaddy-lt, peate esmase meiliaadressi seadmiseks oma halduskonsoolile sisse logima. 
+5. Valige **Määra esmaseks** meiliaadressiks, mille soovite määrata selle isiku peamiseks meiliaadressiks. Kui ostsite oma tellimuse GoDaddy kaudu, peate esmase meiliaadressi määramiseks oma halduskonsooli sisse logima. 
     
-6. Valige **Salvesta**, siis **Sule**ja sa oled valmis!
+6. Valige **Salvesta**ja seejärel **Sule**ning ongi valmis!
     
-Kas polnud nii lihtne? Rohkem üksikasju ja samme ekraanipilte, vaadake seda artiklit: [kasutajanime ja e-posti aadressi muutmine](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+Kas see polnud lihtne? Lisateavet ja juhiseid ekraanipiltide kohta leiate sellest artiklist: [kasutajanime ja meiliaadressi muutmine](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

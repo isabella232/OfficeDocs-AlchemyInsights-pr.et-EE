@@ -1,39 +1,40 @@
 ---
-title: Power BI serveri installida
+title: Power BI aruannete serveri installimine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 38ef162bd5c26328ee70af37df07adfbf2bfd93b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752372"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755091"
 ---
-# <a name="install-power-bi-report-server"></a>Power BI serveri installida
+# <a name="install-power-bi-report-server"></a>Power BI aruannete serveri installimine
 
-1. PowerBIReportServer.exe asukoht ja käivitada paigaldaja.
+1. Leidke PowerBIReportServer.exe asukoht ja käivitage Installer.
 
-2. Valige **Power BI serveri installida**.
+2. Valige **Installi Power BI Report server**.
 
-3. Valige väljaanne installida ja seejärel valige **edasi**.
+3. Valige installitav väljaanne ja seejärel valige **edasi**.
 
-4. Tulu hindamise või Developer edition saate alla.  Muidu sisestatava tootenumbri server, et omandasite Power BI teenus või Köide litsentsi teeninduskeskus. Lisateabe saamiseks kuidas saada toote võti, vt enne alustamist jagu. Lugege ja Nõustuge litsentsitingimustega ja tingimustega ja valige siis **järgmise**.
+4. Saate ripploendist valida kas hindamis-või tarkvaraarendaja väljaande.  Vastasel juhul saate sisestada tootevõtme teenuse Power BI teenus või hulgilitsentsimise teeninduskeskus kaudu ostetud serverile. Tootevõtme hankimise kohta leiate lisateavet teemast enne jaotise alustamist. Lugege ja Nõustuge litsentsilepingu tingimustega ning seejärel valige **edasi**.
 
-5. Sa pead olema andmebaasi mootor saadaval säilitada aruannet serveri andmebaasist. Valige **järgmise** serveri ainult paigaldada.
+5. Peate omama andmebaasi mootorit, et talletada serveri andmebaas. Klõpsake nuppu **edasi** , et installida ainult Report server.
 
-6. Install serveri asukoha määramiseks. Valige **Installi** jätkamiseks.
+6. Määrake serveri installimise asukoht. Jätkamiseks valige **Installi** .
 
-7. Pärast edukat installi, valige **Konfigureeri serveri** käivitada Reporting Services Configuration Manager.
+7. Pärast edukat häälestamist valige aruandlusteenuste konfigureerimise halduri käivitamiseks **Konfigureerige aruande server** .
 
-Sa ei pea SQL serveri andmebaasi mootor server installi ajal saadaval. Vajate ühte aruandlusteenuste konfigureerimiseks pärast paigaldamist.
+Installi ajal pole vaja SQL serveri andmebaasi mootorit. Aruandlusteenuste konfigureerimiseks pärast installimist on vaja ühte.
 
-Lisateave:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Lisateavet leiate järgmistest teemadest. https://docs.microsoft.com/power-bi/report-server/install-report-server

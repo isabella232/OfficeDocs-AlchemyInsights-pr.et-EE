@@ -1,11 +1,12 @@
 ---
-title: Migreerige postkastid kahe erineva üürnike vahel
+title: Postkastide migreerimine kahe eri rentniku vahel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 2bfce9766552fd55159fb87433ae4ff791c2e814
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8ff68c61e23325a56c4a43d6a346268865c88287
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762277"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754659"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Migreerige postkastid kahe erineva üürnike vahel
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Postkastide migreerimine kahe eri rentniku vahel
 
-Võimalik, et peate migreerima postkastid kahe erineva üürnike vahel, näiteks kui on olemas organisatsiooni ühinemised. Need migreerimist tuleks hoolikalt kavandada. Palun vaadake järgmisi juhiseid:
+Võimalik, et peate postkastide migreerima kahe eri rentniku vahel (nt ettevõtte ühinemise korral). Need migreerimine tuleks hoolikalt kavandada. Lugege järgmisi juhiseid.
   
-[Kuidas migreerida postkastid ühest rentniku teise](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[Postkastide migreerimine ühelt rentnikult teisele](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

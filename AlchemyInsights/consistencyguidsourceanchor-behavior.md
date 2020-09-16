@@ -6,28 +6,29 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: 8527e7c2404742a999041f85ed12d78c48cc0d8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: adac469328485696d1ee1532aa3d6828af0642eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705729"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756279"
 ---
 # <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid/sourceAnchor käitumine
 
-Azure AD ühenduse (versioon 1.1.524.0 ja pärast) nüüd hõlbustab msDS-ConsistencyGuid kasutamine sourceAnchor atribuut. Selle funktsiooni kasutamisel konfigureerib Azure AD Connect automaatselt sünkroonimisreeglid:
+Azure AD Connect (versioon 1.1.524.0 ja After) hõlbustab nüüd luu-ja lihaskonna vaevuste-ConsistencyGuid kasutamist kui sourceAnchor atribuuti. Selle funktsiooni kasutamisel konfigureerib Azure AD Connect automaatselt sünkroonimise reeglid.
   
-- Kasutage msDS-ConsistencyGuid kui sourceAnchor atribuut kasutaja objektid. ObjectGUID-i kasutatakse muude objektitüüpide puhul.
+- Kasutage luu-ja lihaskonna vaevusi – ConsistencyGuid sourceAnchor atribuuti. ObjectGUID kasutatakse muud tüüpi objektide puhul.
     
-- Iga asutusesisese AD kasutaja objekti, mille msDS-ConsistencyGuid atribuut ei ole asustatud, Azure AD ühenduse kirjutab oma objectGUID väärtus tagasi on asutusesisese Active Directory atribuudi msDS-ConsistencyGuid. Pärast msDS-ConsistencyGuid atribuut on asustatud Azure AD ühenduse seejärel eksportida objekti Azure AD.
+- Kui kohapealne AD kasutaja objekt, mille luu-ja lihaskonna vaevuse-ConsistencyGuid atribuut pole asustatud, kirjutab Azure AD Connect selle objectGUID väärtuseks tagasi kohapealses Active Directorys asuvasse luu-ja lihaskonna vaevuste-ConsistencyGuid atribuuti. Pärast seda, kui luu-ja lihaskonna vaevusi-ConsistencyGuid atribuut on asustatud, eksporditakse Azure AD ja seejärel eksporditakse objekt Azure AD
     
- **Märkus:** Kui asutusesisese AD objekti imporditakse Azure AD ühenduse (st imporditud AD connector Space ja prognoositud Metaverse), ei saa muuta selle sourceAnchor väärtus enam. Konkreetse asutusesisese AD objekti sourceAnchor väärtuse määramiseks Konfigureerige selle msDS-ConsistencyGuid atribuut enne importimist Azure AD ühenduse. 
+ **Märkus:** Kui kohapealne AD objekt imporditakse Azure AD Connect (see tähendab, et see on imporditud AD Connectori ruumi ja kavandatakse metaversumi), ei saa te selle sourceAnchor enam muuta. Antud kohapealse reklaami objekti sourceAnchor määramiseks Konfigureerige selle luu-ja lihaskonna vaevuste-ConsistencyGuid atribuut, enne kui see imporditakse Azure AD Connecti. 
   
-SourceAnchor ja ConsistencyGuid kohta lisateabe saamiseks vaadake järgmist: [AZURE AD ühenduse: kujunduse mõisted](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Lisateavet SourceAnchor ja ConsistencyGuid kohta leiate järgmistest teemadest: [AZURE ad Connect: kujunduse kontseptsioonid](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 
