@@ -1,10 +1,11 @@
 ---
-title: Värskendage DNS-kirjete hoida oma kodulehel praeguse hosting pakkuja
+title: Värskendage DNS-i kirjeid, et hoida oma veebisait praeguse majutusteenuse pakkujaga.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,37 +14,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665756"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815781"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Värskendage DNS-kirjete hoida oma kodulehel praeguse hosting pakkuja
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Värskendage DNS-i kirjeid, et hoida oma veebisait praeguse majutusteenuse pakkujaga.
 
-1. Microsoft 365 halduskeskus, lehele **setup**  >  [Domeenid](https://portal.office.com/adminportal/home#/Domains) ja domeenide loendis Valige domeen, mida kasutate oma veebilehel.
+1. Avage Microsoft 365 halduskeskus leht **Häälesta**  >  [Domeenid](https://admin.microsoft.com/Adminportal#/Domains) ja valige domeenide loendist domeen, mida kasutate oma veebisaidi jaoks.
 
-2. Valige **+ Uus kohandatud kirje** ja sisestage järgmine:
+2. Valige **+ Uus kohandatud kirje** ja sisestage järgmine tekst.
 
-  - Sisestage **DNS-i tüüp** : **a (aadress)**
+  - **DNS-i tüübi** sisestamiseks sisestage: **a (aadress)**
 
-  - **Hosti nime või pseudonüümi**, tippige järgmine:**@**
+  - Tippige väljale **hosti nimi või pseudonüüm**järgmine tekst. **@**
 
-  - **IP-aadressi**puhul tippige oma veebisaidi staatiline IP-aadress, kus see praegu majutatud (nt 172.16.140.1).
+  - **IP-aadressi**korral tippige veebisaidi staatiline IP-aadress, kus see on praegu majutatud (nt 172.16.140.1).
 
-    See peab olema *staatiline* IP-aadress veebilehel, mitte *dünaamiline* IP-aadress. Kontrollige saiti, kus teie veebisait on majutatud veendumaks, et saate oma avaliku veebisaidi jaoks staatilise IP-aadressi.
+    See peab olema veebisaidi  *staatiline*  IP-aadress, mitte  *dünaamiline*  IP-aadress. Kontrolli saidil, kus teie veebisait on majutatud, et saaksite oma avaliku veebisaidi jaoks staatilise IP-aadressi.
 
 3. Valige **Salvesta**.
 
-Lisaks saate luua CNAME-kirje, et aidata klientidel teie veebisaiti leida.
+Lisaks saate luua CNAME-kirje, mis aitab klientidel teie veebisaiti leida.
   
-1. Valige **+ Uus kohandatud kirje** ja sisestage järgmine:
+1. Valige **+ Uus kohandatud kirje** ja sisestage järgmine tekst.
 
-  - Sisestage **DNS-i tüüp** : **CNAME (alias)**
+  - **DNS-i tüübi** sisestamiseks sisestage: **CNAME (pseudonüüm)**
 
-  - **Hosti nime või pseudonüümi**, tippige järgmine: **www**
+  - Tippige väljale **hosti nimi või pseudonüüm**järgmine tekst: **www**
 
-  - **Aadressi punktide käsitlemiseks**tippige oma veebisaidile täielik DOMEENINIMI (FQDN) (nt contoso.com).
+  - **Punktide**saamiseks tippige oma veebisaidi täielik DOMEENINIMI (FQDN) (nt contoso.com).
 
 2. Valige **Salvesta**.

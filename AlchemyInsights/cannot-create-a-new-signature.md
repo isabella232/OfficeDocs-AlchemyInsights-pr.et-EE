@@ -1,11 +1,12 @@
 ---
-title: Uut allkirja ei saa luua
+title: Uut signatuuri ei saa luua
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: b5b7f44b8a629f4781c4d953cc24ccb21c99c333
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711339"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812507"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Outlookis ei saa uut allkirja lisada ega luua
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Outlookis ei saa uut signatuuri lisada ega luua
 
-See on teadaolev probleem. Me töötame, et seda parandada ja olekut värskendatakse [Outlookis hangub klõpsates allkiri nuppu](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+See on teadaolev probleem. Töötame selle lahendamiseks ja oleku värskendamisel [Outlookis külmutatakse nupu signatuur klõpsamisel](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
 
-Selle probleemi lahendamiseks [proovige](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) esmalt desinstallida eelinstallitud Microsoft Office ' i töölauarakendused. 
+Selle probleemi lahendamiseks [proovige](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) esmalt desinstallida eelnevalt installitud Microsoft Office ' i töölauarakendus. 
 
-Kui see ei tööta mõjutatud masin, proovige [registri põhinev lahendus](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Kui see ei tööta probleemses arvutis, proovige teha [registri-põhiset lahendust](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
