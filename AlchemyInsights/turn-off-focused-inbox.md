@@ -1,11 +1,12 @@
 ---
-title: 8000001 Lülita suunatud sisendkausta
+title: 8000001 fookuses oleva sisendkausta väljalülitamine
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: 86c30e6b61b7246c5230604e7e16e1893a9195a7
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582267"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797076"
 ---
-# <a name="turn-off-focused-inbox"></a>Lülita suunatud sisendkausta välja
+# <a name="turn-off-focused-inbox"></a>Fookuses oleva sisendkausta väljalülitamine
 
-1. Valige **sätted** \> **suunatud sisendkausta**.  
+1. Valige **sätted** \> **fookuses sisendkaust**.  
 
-2. Valige jaotises **meili saamisel**valik **ära sordi sõnumeid**.
+2. Valige jaotises **meilisõnumi vastuvõtmisel**käsk **ära sordi sõnumeid**.
 
 3. Valige **OK**.
 
-Lisateabe saamiseks vaadake [Outlooki jaoks suunatud sisendkausta](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate teemast [fookuses olev sisendkaust Outlooki jaoks](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).

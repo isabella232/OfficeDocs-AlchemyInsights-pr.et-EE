@@ -1,9 +1,10 @@
 ---
-title: Dynamics Serveripoolse sünkroonimise Soovitatavad lahendused
+title: Rakenduse Dynamics Serveripoolse sünkroonimise Soovitatavad lahendused
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3356ba938978573274b9d41e3e73f91807baf384
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36745465"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797904"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics Serveripoolse sünkroonimise Soovitatavad lahendused
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Rakenduse Dynamics Serveripoolse sünkroonimise Soovitatavad lahendused
 
-* [Kuidas vaadata üksikasjalikku serveritõrge kuvatakse minu portaalis](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Minu portaalis kuvatava üksikasjaliku serveri tõrke kuvamine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Kuidas lähtestada portaal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Portaali lähtestamine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [Kuidas kustutada serveripoolne vahemälu portaal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Portaali serveripoolse vahemälu tühjendamine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Kuidas muuta publiku ja tüüpi Dynamics 365 portaal](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Kuidas muuta Dynamics 365 portaali sihtrühma ja tüüpi](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Portaali põhiline URL-i muutmine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Portaali baasi URL-i muutmine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Kuidas konfigureerida välise identiteedi pakkuja portaal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Välise identiteedi pakkuja konfigureerimine portaali abil](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Korduma kippuvad küsimused](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Alustamine minu Dynamics 365 Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Dynamics 365 portaali kasutamise alustamine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 5b859967d9336306b4b0a4879a7ffd5bee24f7a5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744879"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798192"
 ---
 # <a name="change-your-pin"></a>PIN-koodi muutmine
 
-Outlook.com ei kasuta PIN-koodi, kuid võite oma ARVUTISSE sisse logida PIN-koodi või Windows Hello-ga. PIN-koodi muutmine Windows 10-s:
+Outlook.com ei kasuta PIN-koodi, kuid te võite oma ARVUTISSE sisse logida PIN-koodi või Windows Hello abil. PIN-koodi muutmiseks opsüsteemis Windows 10 tehke järgmist.
 
-1. Valige nupp Start või vajutage klaviatuuril Windowsi klahvi ja seejärel valige **sätted** > **kontod** > **Sisselogimissuvandid**.
-2. Valige nupul **Muuda** nuppu **Kinnita**.
+1. Valige nupp Start või vajutage klaviatuuril klahvikombinatsiooni Windowsi klahv ja seejärel valige **sätted**  >  **kontode**  >  **sisselogimise suvandid**.
+2. Klõpsake jaotises **PIN**nuppu **Muuda** .
 3. Sisestage oma praegune PIN-kood, seejärel sisestage ja kinnitage oma uus PIN-kood.
 
 [Lugege lisateavet Windows Hello kohta.](https://support.microsoft.com/help/17215/)
