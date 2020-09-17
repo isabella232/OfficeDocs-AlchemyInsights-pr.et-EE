@@ -1,32 +1,33 @@
 ---
-title: Kuidas suurendada ladustamise OneDrive for Business
+title: OneDrive for Businessi salvestusruumi suurendamine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 53eabf6c87dead3b7309c7da1f8a590940127169
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063037"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780091"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kuidas suurendada ladustamise OneDrive for Business
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>OneDrive for Businessi salvestusruumi suurendamine
 
-Uute ja olemasolevate OneDrive ' i kasutajate vaikemäluruumi muutmiseks toimige järgmiselt.
+Uute ja olemasolevate OneDrive ' i kasutajate jaoks vaikimisi salvestusruumi muutmiseks tehke järgmist.
   
-- [OneDrive ' i halduskeskus Storage lehele](https://admin.onedrive.com/?v=StorageSettings)ja sisestage uus summa GB.
+- Avage [OneDrive ' i administreerimiskeskuse leht salvestusruum](https://admin.onedrive.com/?v=StorageSettings)ja sisestage uus summa väljale GB.
 
-See mäluruumi säte kehtib kõigile kasutajatele, kellele te pole kindlaid salvestuspiiranguid seadnud. Teatud kasutajate talletusruumi muutmiseks peate kasutama Microsoft PowerShelli. Lisateavet selle kohta, kuidas seda teha, vaadake [muuta oma kasutajate OneDrive ' i salvestusruumi PowerShelli abil](https://go.microsoft.com/fwlink/?linkid=866402).
+See salvestusruumi säte rakendub kõigile kasutajatele, kelle jaoks te pole määranud kindlad salvestusruumi limiidid. Kindlate kasutajate salvestusruumi muutmiseks peate kasutama rakendust Microsoft PowerShell. Lisateavet selle kohta leiate teemast [kasutajate OneDrive ' i salvestusruumi muutmine PowerShelli abil](https://go.microsoft.com/fwlink/?linkid=866402).
 
-**Märkus**: tundub, nagu teil ei ole plaani, mis sisaldab piiramatu ladustamise. Teavet iga plaaniga kaasas oleva salvestusruumi kohta leiate teemast [OneDrive for Business Service kirjeldus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+**Märkus**: tundub, et teil pole paketti, mis sisaldab piiramatut salvestusruumi. Lisateavet iga kavaga kaasas oleva salvestusruumi kohta leiate teemast [OneDrive for Businessi teenuse kirjeldus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-OneDrive for Business ladustamise suurendamiseks valige tellimus, mis sisaldab kas **OneDrive for Business Plan 2** või **Office 365 Enterprise E3**. 
+OneDrive for Businessi salvestusruumi suurendamiseks valige tellimus, mis sisaldab kas **OneDrive for Businessi lepingut 2** või **Office 365 Enterprise E3**. 
   
-Plaanide muutmiseks avage Microsoft 365 halduskeskus **Billing** \> lehel **[toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine, valige muutmiseks tellimus ja seejärel valige vahekaart **täiendamine** .
+Kui soovite lepinguid muuta, avage Microsoft 365 halduskeskus lehe **Arveldamine** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehel, valige Muuda tellimust ja seejärel valige vahekaart **täiendus** .
   
-Lisateavet plaanide ja OneDrive for Business ladustamise kohta lisateabe saamiseks vaadake [aktiveerige muu Microsoft 365 äriplaan](https://go.microsoft.com/fwlink/?LinkId=2031117) ja [OneDrive for Business Service kirjeldus](https://go.microsoft.com/fwlink/p/?LinkId-2031122).
+Lisateavet lepingute ja OneDrive for Businessi salvestusruumi vahetamise kohta leiate teemast [üleminek mõnele muule Microsoft 365 ärirakendusele](https://go.microsoft.com/fwlink/?LinkId=2031117) ja [OneDrive for Businessi teenuse kirjeldusele](https://go.microsoft.com/fwlink/p/?LinkId-2031122).
