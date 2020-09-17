@@ -1,9 +1,10 @@
 ---
-title: SharePointi saitide modereerimine
+title: SharePointi saitide moderniseerimine
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c508f18f-7e74-43ac-bc93-22c71642d454
@@ -11,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 802cd3a2492141ebe4fcf7318abb6756c88753b5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582123"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800568"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>SharePointi saitide modereerimine
+# <a name="modernize-your-sharepoint-sites"></a>SharePointi saitide moderniseerimine
 
-Samm-sammult ülevaade modereerimine oma klassikalise SharePointi saidid kaasaegne kogemus, vaadake [Modernize oma klassikalise SharePointi saidid](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Üksikasjaliku ülevaate oma klassikalise SharePointi saitide ajakohase versiooni kaasajastamise kohta leiate teemast [klassikalise SharePointi saitide moderniseerimine](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
 
-* Saidi lehtede ja loendi ja teegi lehtede kaasaegse kasutajaliidese kasutamise maksimeerimiseks vaadake [kasutajaliidese modereerimine](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Kuidas blokeeringu oma loendid ja teegid kaasaegne kasutajaliides kasutamisel lisateabe saamiseks vaadake [maksimeerida kasutamine kaasaegne loendid ja teegid](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Microsoft 365 rühmaga ühenduse loomise ja grupiga ühendamise kohta lisateabe saamiseks vaadake [ühendust microsoft 365 rühmaga](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Saidi lehtede ja loendi ja teegi lehtede moodsa kasutajaliidese kasutamise maksimeerimiseks lugege artiklit [kasutajaliidese moderniseerimine](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
+* Lisateavet loendite ja teekide blokeeringust kaasaegse kasutajaliidese kasutamise kohta leiate teemast [moodsate loendite ja teekide kasutamise maksimeerimine](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+* Lisateavet Microsoft 365 rühmaga ühenduse loomise ja rühmaga liitumise kohta leiate teemast [ühenduse loomine microsoft 365 rühmaga](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
 
-**NB**!: kui tunnete, et teie lehekülg peaks juba olema kuvatud kaasaegses vaates ja seda ei ole, palun sirvige sellele leheküljele, kopeerige URL ja esitage URL osana oma tugiteenuse pileti üksikasjadest.
+**Tähtis**: kui tunnete, et teie leht peaks olema kuvatud juba moodsas vaates ja seda ei ole, siis sirvige vastava leheni, kopeerige URL ja sisestage URL osana oma toe pileti üksikasjadest.
