@@ -1,11 +1,12 @@
 ---
-title: Tellimuse teade Office ' i kliendi
+title: Tellimuse teade Office ' i klientrakenduses
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f51d1fe248be9f8b71dc682851622ae6ed171f71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741859"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773663"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Tellimuse teade teie Office ' i kliendi?
+# <a name="subscription-notice-in-your-office-client"></a>Tellimuse teade oma Office ' i klientrakenduses?
 
-Tundub, nagu näete teadet oma Office ' i kliendi tellimuse olekuga seotud. Leiate teavet selle kohta, kuidas probleemi lahendada selles artiklis: [tellimuse teade kuvatakse Microsoft 365 rakenduse avamisel](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Näib, et näete oma Office ' i klientrakenduses oma tellimuse olekuga seotud teatist. Probleemi lahendamise kohta leiate teavet artiklist: [tellimuse teade kuvatakse Microsoft 365 rakenduse avamisel](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Kui teie tellimus on ajakohane, võite olla tabanud ajutist probleemi, mis põhjustas Office ' i aktiveerimise nurjumise. Nende sõnumite vältimiseks on lihtsad sammud, näiteks arvuti aja kontrollimine, Office ' i administraatorina käitamine ja aktiveerimiseks sisselogimine. Leiate üksikasjalikke juhiseid nende probleemide lahendamiseks selles artiklis: [litsentseerimata toote-ja aktiveerimistõrked](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Kui teie tellimus on ajakohane, on võimalik, et olete tabanud ajutist probleemi, mis põhjustas teie Office ' i aktiveerimise nurjumise. Nende sõnumite vältimiseks saate teha lihtsaid toiminguid (nt arvuti kellaaja kontrollimine, Office ' i käivitamine administraatorina) ja aktiveerimiseks sisselogimine. Selles artiklis kirjeldatud probleemide lahendamiseks leiate üksikasjalikud juhised: [litsentsimata toote ja aktiveerimise tõrked](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
   
-Kui need ei toimi teie jaoks, võtke meiega ühendust allolevaid linke ja meil on hea meel aidata.
+Kui need ei toimi teie eest, võtke meiega ühendust ja me aitame Teid meeleldi.

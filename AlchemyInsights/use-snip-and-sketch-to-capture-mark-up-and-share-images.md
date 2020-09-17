@@ -1,39 +1,40 @@
 ---
-title: Piltide hõivamiseks, märkimiseks ja ühiskasutusse andmiseks kasutage Lõikesilpi & visandit
+title: Piltide hõivamiseks, märgistamiseks ja jagamiseks kasutage lõiget & eskiis
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584473"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773195"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Piltide hõivamiseks, märkimiseks ja ühiskasutusse andmiseks kasutage Lõikesilpi & visandit
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Piltide hõivamiseks, märgistamiseks ja jagamiseks kasutage lõiget & eskiis
 
-Ekraani visand nimetatakse nüüd **SNiP & Sketch**. **Et kiiresti võtta lõige**:
+Ekraani visandit nimetatakse nüüd **lõikeks & visand**. **Lõike kiireks tegemiseks tehke**järgmist.
 
-1. Vajutage klahvikombinatsiooni **Windowsi logoga klahv + SHIFT + S**. Näete ekraani tumedamaks ja kursor kuvatakse risti. 
+1. Vajutage klahvikombinatsiooni **Windowsi logoga klahv + SHIFT + S**. Näete ekraani tumedam ja kursor kuvatakse ristina. 
 
-2. Valige selle ala servas olev punkt, mida soovite kopeerida, ja klõpsake kursorit. 
+2. Valige selle ala servas, mida soovite kopeerida, ja klõpsake kursori vasakus servas. 
 
-3. Liigutage kursorit, et tõsta esile ala, mida soovite jäädvustada. Teie jäädvustada olev ala kuvatakse ekraanile.
+3. Liigutage kursorit, et tõsta esile ala, mida soovite hõivata. Teie jäädvustatud ala kuvatakse ekraanil.
 
    ![esiletõstetud valiku pilt](media/snipone.png)
 
-Teie kärbitud pilt salvestatakse teie lõikelauale, valmis e-posti või dokumenti kleepimiseks. 
+Lõikeandmete pilt salvestatakse lõikelauale, valmis kleepimiseks meilisõnumisse või dokumenti. 
 
-**Kui soovite pilti redigeerida või vaadata**: 
+**Kui soovite pilti redigeerida või vaadata,** tehke järgmist. 
 
-- Klõpsake tegumiriba paremas servas olevat teatiste ikooni; seejärel klõpsake pildil, mille olete äsja jäädvustatud. Teie lõige avaneb lõige & Sketch app.
+- Klõpsake tegumiriba paremas servas ikooni teatised. seejärel klõpsake äsja pildistatud pilti. Lõige avaneb rakenduses lõige & eskiis.
 
-   ![pilt pildist, mis kuvatakse lõikamise rakenduses](media/sniptwo.png)
+   ![pilt pildist, mis kuvatakse Lõiketööriista kaudu](media/sniptwo.png)
