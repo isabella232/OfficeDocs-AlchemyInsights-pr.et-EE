@@ -6,28 +6,29 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 62c21ba16892102c5597d8cee1f22cd5cf2b2753
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3a9dd0c1ec89c6df65e92f46740b646bd73ed9e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766453"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805819"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="0e809-102">Kausta või failide üleslaadimine SharePointi dokumenditeeki</span><span class="sxs-lookup"><span data-stu-id="0e809-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="51182-102">Kausta või failide üleslaadimine SharePointi dokumenditeeki</span><span class="sxs-lookup"><span data-stu-id="51182-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="0e809-103">Kausta üleslaadimiseks peate kasutama Microsoft Edge ' i, Google Chrome ' i või Mozilla Firefoxi.</span><span class="sxs-lookup"><span data-stu-id="0e809-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="0e809-104">Te ei saa laadida kaustu klassikaline Raamatukogu kogemus, või kasutades Internet Explorer 10 või 11.</span><span class="sxs-lookup"><span data-stu-id="0e809-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="51182-103">Kausta üleslaadimiseks peate kasutama Microsoft Edge ' i, Google Chrome ' i või Mozilla Firefoxi.</span><span class="sxs-lookup"><span data-stu-id="51182-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="51182-104">Klassikalises teegis ei saa kaustu üles laadida või kasutada rakendust Internet Explorer 10 või 11.</span><span class="sxs-lookup"><span data-stu-id="51182-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="0e809-105">Avage dokumenditeek, kuhu soovite kausta või faile üles laadida.</span><span class="sxs-lookup"><span data-stu-id="0e809-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="51182-105">Avage dokumenditeek, kuhu soovite kausta või failid üles laadida.</span><span class="sxs-lookup"><span data-stu-id="51182-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="0e809-106">Avage arvutis File Explorer ja sirvige kausta või faile, mida soovite üles laadida.</span><span class="sxs-lookup"><span data-stu-id="0e809-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="51182-106">Avage arvutis fail Explorer ja liikuge kausta või failideni, mille soovite üles laadida.</span><span class="sxs-lookup"><span data-stu-id="51182-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="0e809-107">Lohistage kaust või failid dokumenditeeki.</span><span class="sxs-lookup"><span data-stu-id="0e809-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="0e809-108">Kui te ei näe teegis kuvatavaid üksusi, värskendage lehte.</span><span class="sxs-lookup"><span data-stu-id="0e809-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="51182-107">Lohistage kaust või failid dokumenditeeki.</span><span class="sxs-lookup"><span data-stu-id="51182-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="51182-108">Kui teie üleslaaditud üksusi ei kuvata teegis, värskendage lehte.</span><span class="sxs-lookup"><span data-stu-id="51182-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="0e809-109">Kui te ei soovi laadida üksusi akende vahel lohistades, võite kasutada ka dokumenditeegi nuppu **üleslaadimine** , et valida kaust või failid, mida soovite üles laadida.</span><span class="sxs-lookup"><span data-stu-id="0e809-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="51182-109">Kui te ei soovi Windowsis üksusi lohistades üles laadida, saate selle kausta või failid, mille soovite üles laadida, valida ka dokumenditeegi nupu " **Laadi üles** " kaudu.</span><span class="sxs-lookup"><span data-stu-id="51182-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 

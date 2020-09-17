@@ -1,24 +1,25 @@
 ---
-title: OneDrive ei reageeri
+title: OneDrive ei vasta
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: 275b9eb7f548b301d3e4bed1e2946faa3a1c2d09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e186ed1394f88c63930f6bcc3eae62ebf3f08e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713174"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802521"
 ---
-# <a name="onedrive-not-responding"></a><span data-ttu-id="9cb57-102">OneDrive ei reageeri</span><span class="sxs-lookup"><span data-stu-id="9cb57-102">OneDrive not responding</span></span>
+# <a name="onedrive-not-responding"></a><span data-ttu-id="cdf5e-102">OneDrive ei vasta</span><span class="sxs-lookup"><span data-stu-id="cdf5e-102">OneDrive not responding</span></span>
 
-<span data-ttu-id="9cb57-103">Vastloodud kontod, kasutajad peavad logige sisse Microsoft 365 halduskeskus oma konto ja klõpsake OneDrive ' i käsitsi käivitamiseks OneDrive saidi.</span><span class="sxs-lookup"><span data-stu-id="9cb57-103">For newly created accounts, users need to sign in to the Microsoft 365 admin center with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
+<span data-ttu-id="cdf5e-103">Vastloodud kontode puhul peavad kasutajad oma kontoga sisse logima Microsoft 365 halduskeskus ja klõpsama OneDrive ' i saidi sätte käsitsi käivitamiseks nuppu OneDrive.</span><span class="sxs-lookup"><span data-stu-id="cdf5e-103">For newly created accounts, users need to sign in to the Microsoft 365 admin center with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
   
-<span data-ttu-id="9cb57-104">Kuid kui kasutaja on juba klõpsanud OneDrive ja nende isiklik sait on ettevalmistatud 24 tunni jooksul, Palun logige tugiteenuse pilet edasiseks abiks.</span><span class="sxs-lookup"><span data-stu-id="9cb57-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
+<span data-ttu-id="cdf5e-104">Kui aga kasutaja on juba klõpsanud OneDrive ' i ja nende isiklikku saiti pole 24 tunni jooksul ette valmistatud, logige täiendava abi saamiseks sisse toe piletiga.</span><span class="sxs-lookup"><span data-stu-id="cdf5e-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
   
 
