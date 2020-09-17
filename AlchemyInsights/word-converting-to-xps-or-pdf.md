@@ -1,43 +1,44 @@
 ---
-title: Word – XPS-või PDF-vormingusse teisendamine
+title: Word – teisendamine XPS-või PDF-iks
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 202d68f3bd1f9b9e5b145a8c4ad8346fa1254d68
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026925"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794835"
 ---
-# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Wordi dokumendi teisendamine XPS-i või PDF-i teisendamisega seotud probleemide lahendamine
+# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Wordi dokumendi XPS-või PDF-vormingusse teisendamise probleemide lahendamine
 
 Siin on mõned lahendused levinud probleemidele. 
 
-**Wordi dokumendi eksportimine või salvestamine PDF-iks või XPS-ina:**
+**Wordi dokumendi eksportimiseks või salvestamiseks PDF-või XPS-ina tehke järgmist.**
 
-1. Valige oma Wordi dokumendis **faili** > **eksportimine** > **Loo PDF/XPS-dokument** > **Loo PDF/XPS**.
+1. Valige Wordi dokumendis **fail**  >  **Export**  >  **Create PDF/XPS-dokument**  >  **PDF/XPS-faili loomine**.
 
-2. Sirvige **PDF-i või XPS-i aknas publitseerige** faili asukohta, muutke faili nime, kui soovite, ja seejärel valige **Avalda**.
+2. Sirvige aknas **PDF-i või XPS-ina avaldamine** faili asukohani, muutke faili nime, kui soovite, ja seejärel valige **Avalda**.
 
-**Wordi loodud PDF-failis pildikvaliteedi parandamiseks toimige järgmiselt.**
+**Pildi kvaliteedi parandamiseks Wordis loodud PDF-failis tehke järgmist.**
 
-1. Valige oma Wordi dokumendis **faili** > **eksportimine** > **Loo PDF/XPS-dokument** > **Loo PDF/XPS**.
+1. Valige Wordi dokumendis **fail**  >  **Export**  >  **Create PDF/XPS-dokument**  >  **PDF/XPS-faili loomine**.
 
-2. Valige **PDF-või XPS-vormingus publitseerimisaknas** **Valikud** > **Optimeeri pildikvaliteedi jaoks**. Seadke soovitud suvandid ja valige **OK**. 
+2. Valige aknas **PDF-i või XPS-** ina avaldamine **suvand**  >  **Optimeeri pildi kvaliteedi jaoks**. Seadke muud soovitud suvandid ja klõpsake **nuppu OK**. 
 
-**Wordi loodud PDF-failile hõlbustussiltide lisamiseks toimige järgmiselt.**
+**Wordis loodud PDF-failile hõlbustusfunktsioonide siltide lisamiseks tehke järgmist.**
  
-1. Valige oma Wordi dokumendis **faili** > **eksportimine** > **Loo PDF/XPS-dokument** > **Loo PDF/XPS**.
+1. Valige Wordi dokumendis **fail**  >  **Export**  >  **Create PDF/XPS-dokument**  >  **PDF/XPS-faili loomine**.
 
-2. Valige **PDF-või XPS-vormingus publitseerimisel** **Suvandid** > **dokumendi struktuurisildid hõlbustusfunktsioonide jaoks**. Seadke soovitud suvandid ja valige **OK**.
+2. Klõpsake aknas **PDF-i või XPS-ina avaldamine** nuppu **Suvandid**  >  **dokumendi struktuuri sildid hõlbustusfunktsioonide jaoks**. Seadke muud soovitud suvandid ja klõpsake **nuppu OK**.
 
-Office ' i failide XPS-või PDF-iks teisendamise suvandite kohta lisateabe saamiseks vaadake teemat [Salvesta või Teisenda PDF-iks või XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)-ks.
+Office ' i failide XPS-või PDF-iks teisendamise suvandite kohta leiate lisateavet teemast [PDF-i või XPS-i salvestamine või teisendamine](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)

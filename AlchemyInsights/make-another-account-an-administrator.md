@@ -1,29 +1,30 @@
 ---
-title: Teise konto administraator
+title: Teise konto administraatoriks tegemine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 060492f0792caa34de872ccd97b27006ff172ba0
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738425"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794690"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Tavakasutaja konto muutmine administraatorile Windows 10-s
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Standardse kasutajakonto muutmine administraatoriks opsüsteemis Windows 10
 
-Kui soovite muuta standardset kasutajakontot Windows 10 administraatorile, toimige järgmiselt.
+Opsüsteemi Windows 10 administraatorile standardse kasutajakonto vahetamiseks tehke järgmist.
 
-1.  > Avage**seadete** > **** **** > konto**pere & teised inimesed** (või **teised inimesed**, kui kasutate Windows 10 Enterprise).
-2. Valige konto, mida soovite muuta administraatoriks, ja valige **Muuda kontot**.
-3. Valige jaotises **Konto tüüp** **administraatorja**seejärel klõpsake **nuppu OK**.
+1. **Start**  >  **Settings**  >  **Account**  >  Kui kasutate Windows 10 Enterprise ' i, avage menüü Start sätete konto**pere & teised** inimesed (või **muud inimesed**).
+2. Valige konto, mille soovite administraatoriks muuta, ja valige **Muuda kontot**.
+3. Valige jaotises **Konto tüüp**käsk **administraator**ja seejärel klõpsake **nuppu OK**.
 
-**Märkus:** Kontosid saate muuta ainult olemasoleva administraatorikonto administraatorile.
+**Märkus:** Saate muuta kontosid ainult haldurile olemasoleva administraatori konto kaudu.
