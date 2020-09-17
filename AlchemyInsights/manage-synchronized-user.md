@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: 53c188f6c6ab93bcc6f87d95717dc0d24d492bb7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407346"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777673"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Ei saa seada esmane meiliaadress, muuta kasutaja atribuute või eemaldada/kustutada sünkroonitud kasutaja
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Ei saa määrata esmast meiliaadressi, muuta kasutajate atribuute või eemaldada/kustutada sünkroonitud kasutajat
 
-Kui kataloogi sünkroonimine on lubatud teie keskkonnas, mõned kasutaja või objekti atribuute ei saa muuta, kasutades Microsoft 365 halduskeskus.
+Kui teie keskkonna jaoks on lubatud kataloogi sünkroonimine, siis ei saa mõnda kasutaja või objekti atribuuti Microsoft 365 halduskeskus kasutades muuta.
 
-Sünkroonitud kasutajate ja kõigi nende atribuutide täielikuks haldamiseks kasutage kohalikku Active Directory kasutajate ja rühmade halduskonsooli (ADSIEdit. msc).  
+Sünkroonitud kasutajate ja kõigi atribuutide täielikuks haldamiseks saate kasutada kohalikku Active Directory kasutajate ja rühmade halduskonsooli (ADSIEdit. msc).  
 
-Teise võimalusena saate muuta üksikuid kasutajaid või atribuute sünkroonitud kasutajatele PowerShelli abil, nagu on näidatud nende levinud näidetes: 
+Teise võimalusena saate muuta üksikute kasutajate või atribuutide sünkroonitud kasutajatele PowerShelli abil, nagu on näidatud järgmistes levinud näidetes. 
 - `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 
 - `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
