@@ -1,31 +1,32 @@
 ---
-title: Kuidas salvestada Outlooki kontakte oma iOS-I kontaktidele?
+title: Kuidas saan Outlooki kontaktid oma iOS-i kontaktide rakendusse salvestada?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 822045496ad5efcc7610fd8a316b8bcd7b38a79f
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627770"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781783"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kuidas salvestada Outlooki kontakte oma iOS-I kontaktidele?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kuidas saan Outlooki kontaktid oma iOS-i kontaktide rakendusse salvestada?
 
-Outlooki kontaktide salvestamiseks oma Native aadressiraamatusse toimige järgmiselt.
+Outlooki kontaktide salvestamiseks oma kohalikule aadressiraamatule tehke järgmist.
  
-1. Avage **seadme sätted** > **Kontaktid** ja veenduge, et **vaikimisi konto** on seatud **iCloud**. Pange tähele, et see säte on saadaval ainult juhul, kui teie seadmesse on lisatud rohkem kui üks konto. Kui seadmega pole ühendatud kontot, salvestatakse teie Outlooki kontaktid kohalikult, kuid neid ei sünkroonita teiste seadmetega.
+1. Avage **seadme sätete**  >  **Kontaktid** ja veenduge, et **vaikekonto** oleks seatud **iCloudis**. Pange tähele, et see säte on saadaval ainult juhul, kui teie seadmesse on lisatud rohkem kui ühe konto. Kui seadmega pole kontot ühendatud, salvestatakse teie Outlooki kontaktid kohalikult, kuid neid ei sünkroonita muude seadmetega.
  
-2. Avage Outlook iOS-i ja vasakpoolses navigeerimisribal valige seadete käik, valige **Vali oma konto**ja lülitage **Salvesta kontaktid** sisse.
+2. Avage Outlook iOS-i jaoks ja valige Vasakpoolsel navigeerimispaanil sätted Gear, valige **Vali konto**ja lülitage sisse nupp **Salvesta kontaktid** .
  
-Salvestatud Kontaktid lisatakse kontaktide all iCloud konto. Need kontaktid sünkroonitakse kõik seadmed, mis on sisse logitud sama iCloud konto. Pange tähele, et saate kontakte eksportida ainult ühest seadmest korraga.
+Salvestatud Kontaktid lisatakse teie iCloudi konto kontaktide hulka. Need kontaktid sünkroonitakse kõigi seadmetega, mis on sisse logitud sama iCloudi kontoga. Pange tähele, et saate kontakte eksportida korraga ainult ühest seadmest.
  
-Kui kasutajal on kontakt-eksport sisse lülitatud, tuleb konfliktide vältimiseks nii oma iPad kui ka iPhone üks keelata. Duplikaadid võivad kokku võtta 24 tundi, et neid ühitatud.
+Kui kasutajal on sisse lülitatud kontakt – eksport on sisse lülitatud, peab konfliktide vältimiseks olema nii iPad kui ka iPhone ' i jaoks keelatud. Duplikaadid võivad reconciliated kuluda kuni 24 tundi.
