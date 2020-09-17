@@ -1,23 +1,24 @@
 ---
-title: Avaneb tühi Exceli fail
+title: Excel avab tühja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 32546a6fcab15e7712f8008b372fe51250e85853
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391231"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783439"
 ---
-# <a name="excel-opens-blank"></a>Avaneb tühi Exceli fail
+# <a name="excel-opens-blank"></a>Excel avab tühja
 
-Kui Excel hakkab kuid kuvatakse tühi ekraan, kuhu eeldatavasti kuvada faili, vaadake [tõrkeotsing Exceli avamisel tühja faili ikooni või failinime topeltklõpsamisel](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
+Kui Excel käivitub, kuid kuvab tühja ekraani, kus soovite faili kuvada, lugege teemat [faili ikooni või failinime topeltklõpsamisel Exceli avamise tõrkeotsing](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).

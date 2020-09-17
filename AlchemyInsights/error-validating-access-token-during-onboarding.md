@@ -1,25 +1,26 @@
 ---
-title: Ilmnes tõrge juurdepääsuloa tõrke valideerimisel töölaua analüüs-pardalemineku ajal
+title: Tõrke kinnitamisel ilmnes tõrge Accessi turbelubade käivitamisel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 7472af5c4e19e5697b5fb4802ed1cbb2c74f1d19
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741160"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783547"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>"Ilmnes tõrge valideerimisel juurdepääsu luba" tõrge töölaua analüüs kasutuselevõtt
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Tõrge "ilmnes tõrge Accessi loa kinnitamisel" töölaua analüüsimisel
 
-See tõrge täheldatakse tavaliselt autentimise luba aegub. Tavaliselt värskendab lehe värskendamine luba. Kuid see probleem võib püsida, kui on olemas tingimuslik juurdepääsupoliitika rakendatud konto on kasutusel pardal Desktop Analytics. Saate vaadata Azure AD Logi sisse logid Azure ' i portaalis, et näha, kas on mis tahes sisselogimise tõrked konto kasutatakse töölaua analüüs kasutuselevõtt.
+See tõrge ilmneb tavaliselt autentimise tõendi aegumisel. Tavaliselt värskendab lehe värskendamine selle tõendi. See probleem võib siiski püsida, kui kontole on rakendatud tingimusjuurdepääsu poliitika, mida kasutatakse rongisisese töölaua analüüsiks. Azure AD Signi logides saate Azure ' i portaalis sisse logida, et näha, kas arvutis kasutatakse töölaua analüüsimiseks sisselogimise tõrkeid.
 
-Tingimusliku juurdepääsu kohta lisateabe saamiseks külastage [oma tingimusjuurdepääsu juurutamine](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Tingimusliku juurdepääsu kohta leiate lisateavet teemast [tingimusjuurdepääsu juurutamise kavandamine](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).

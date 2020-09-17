@@ -1,37 +1,37 @@
 ---
-title: Office ' i installimisel tõrkekood 30125-4 või 30125-1011
+title: Office ' i installimisel kuvatav tõrkekood 30125-4 või 30125-1011
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 4853344968d0516e975cb71c5a92d070bdc454cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 26e4ba40a5517212fbd82308668e5a57e8d5be51
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703058"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784087"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Office ' i installimisel tõrkekood 30125-4 või 30125-1011
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Office ' i installimisel kuvatav tõrkekood 30125-4 või 30125-1011
 
-See tõrge võidakse kuvada juhul, kui teie viirusetõrje tarkvara, tulemüür, puhverserveri sätted või ühendus takistab Office ' i installimist. Siin on mõned asjad, mida võite proovida probleemi lahendamiseks.
+See tõrge võib ilmneda juhul, kui teie viirusetõrjetarkvara, tulemüür, puhverserveri sätted või ühendused takistavad teil Office ' i installimist. Probleemi lahendamiseks võite proovida järgmisi toiminguid.
   
-- Taaskäivitage arvuti ja installige Office uuesti
+- Arvuti taaskäivitamine ja Office ' i uuesti installimine
 
-- Office ' [i ühenduseta Installeri](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) abil installimine
+- Office ' i installimine [Office ' i võrguühenduseta Installeri](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) kaudu
 
-- Puhverserveri sätete ajutiselt väljalülitamine
+- Puhverserveri sätete ajutine väljalülitamine
 
-- Viirusetõrje tarkvara ajutiselt väljalülitamine
+- Viirusetõrjetarkvara ajutine väljalülitamine
 
-- Tulemüüri ajutiselt väljalülitamine
+- Tulemüüri ajutine väljalülitamine
 
-Lisateabe saamiseks vaadake [Office ' i installimisel tõrkekoodi 30125-4 või 30125-1011](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+Lisateavet leiate artiklist [tõrkekood 30125-4 või 30125-1011 Office ' i installimisel](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   

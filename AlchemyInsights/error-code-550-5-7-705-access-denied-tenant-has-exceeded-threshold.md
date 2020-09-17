@@ -1,10 +1,11 @@
 ---
-title: Tõrkekood 550 5.7.705 juurdepääs keelatud, rentniku on ületanud piirmäära
+title: Tõrkekood 550 5.7.705 juurdepääs on keelatud, Rentnik on ületanud künnise
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
@@ -12,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702986"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784015"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 juurdepääs keelatud, rentniku on ületanud piirmäära
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 juurdepääs on keelatud, Rentnik on ületanud künnise
 
-See teade ilmneb siis, kui teie organisatsioon on saatnud liiga palju rämpsposti või Hulgimeili ja me Asetame Väljamineva meili blokeeringu.
-Levinud põhjused on rikutud asutusesisese serverid või rikutud admin kontod, mida on kasutatud konnektorid. Kumbki tingimus võib lubada rämpsposti läbi teie organisatsiooni.
+See teade ilmneb siis, kui teie asutus on saatnud liiga palju rämpsposti või lahtise meili ja paneme ploki väljaminevatele meilisõnumitele.
+Levinud põhjused on ohustatud kohapealsed serverid või ohustatud administraatori kontod, mida on kasutatud konnektorite loomiseks. Mõlema tingimuse abil saab rämpsposti teie ettevõtte kaudu edasi anda.
 
-Selle ploki eemaldamiseks peate mõistma ja selgitama tugiteenuse agendi põhjust ning parandama ka põhiprobleemi.
-Kui olete valmis, klikkige allpool valikul **Võta meiega ühendust** .
+Selle ploki eemaldamiseks peate mõistma ja selgitama põhjust tugiteenuse agendile ning parandama põhiprobleemi.
+Kui olete valmis, klõpsake nuppu **Võta meiega ühendust** .
