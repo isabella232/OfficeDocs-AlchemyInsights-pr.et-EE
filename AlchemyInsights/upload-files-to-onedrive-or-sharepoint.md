@@ -1,34 +1,35 @@
 ---
-title: Failide üleslaadimine OneDrive ' i või SharePointile
+title: Failide üleslaadimine OneDrive ' i või SharePointi
 ms.author: matteva
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: abe05ec2b0529d36114542d828403bf08df0afb2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 03e2962a12fca12850441d03b43d6cfde9e60bad
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766417"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805927"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Failide üleslaadimine OneDrive ' i või SharePointile
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Failide üleslaadimine OneDrive ' i või SharePointi
 
-1. oma veebibrauseris asukohta, kuhu soovite faile üles laadida.
+1. Liikuge oma veebibrauseris kohta, kuhu soovite failid üles laadida.
     
-2. Avage File Explorer ja sirvige failidega, mida soovite üles laadida.
+2. Avage fail Explorer ja liikuge sirvides failideni, mille soovite üles laadida.
     
-3. Valige failid ja lohistage need OneDrive ' i või SharePointi asukohta. Märkus: kui kasutate Microsoft Edge, Mozilla FireFox või Google Chrome, saate laadida ka kausta ja kõik failid selles.
+3. Valige failid ja lohistage need OneDrive ' is või SharePointis asukohta. Märkus: kui kasutate Microsoft Edge ' i, Mozilla FireFox ' i või Google Chrome ' i, saate ka kausta ja kõik selle failid üles laadida.
     
-**Märkmed:**
-- Faile saab üles laadida kuni 15 GB suuruses. 
-- Faili täielik tee (sh faili nimi) ei saa olla pikem kui 400 märki. 
-- Kui teil on vaja laadida üle 100 faile, [Kasutage OneDrive ' i sünkroonimise klient](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Märkmete**
+- Saate üles laadida kuni 15 GB suuruseid faile. 
+- Faili täistee (sh faili nimi) ei tohi olla pikem kui 400 märki. 
+- Kui teil on vaja üles laadida rohkem kui 100 faili, [Kasutage OneDrive ' i sünkroonimise klientrakendust](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 
