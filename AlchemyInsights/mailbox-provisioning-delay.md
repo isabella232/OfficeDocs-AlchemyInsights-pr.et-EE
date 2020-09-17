@@ -1,25 +1,26 @@
 ---
-title: Postkasti ettevalmistamise viivitus
+title: Postkasti ettevalmistamine viivitus
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762673"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794402"
 ---
-# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="f9a0f-102">Teie kasutaja postkast on loodud</span><span class="sxs-lookup"><span data-stu-id="f9a0f-102">Your user's mailbox is being created</span></span>
+# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="91a7f-102">Teie kasutaja postkast luuakse</span><span class="sxs-lookup"><span data-stu-id="91a7f-102">Your user's mailbox is being created</span></span>
 
-<span data-ttu-id="f9a0f-103">See võib kuluda kuni tund enne, kui Uus postkast on kasutamiseks valmis.</span><span class="sxs-lookup"><span data-stu-id="f9a0f-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
+<span data-ttu-id="91a7f-103">Kui Uus postkast on kasutamiseks valmis, võib kuluda kuni tund.</span><span class="sxs-lookup"><span data-stu-id="91a7f-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
   
-<span data-ttu-id="f9a0f-104">Kui kasutaja postkast on "ettevalmistamine" rohkem kui tund, võite proovida kustutada ja seejärel uuesti luua kasutaja või kasutada "Olgem helistada" võimalus rääkida tugiteenuse insener.</span><span class="sxs-lookup"><span data-stu-id="f9a0f-104">If a user's mailbox has been "preparing" for more than an hour, you can try deleting and then re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="91a7f-104">Kui kasutaja postkast on "ettevalmistamisel" rohkem kui tunni jooksul, võite proovida kasutaja kustutada ja seejärel uuesti luua või kasutada "Las me helistame sulle" võimalusega rääkida tugiteenuste inseneriga.</span><span class="sxs-lookup"><span data-stu-id="91a7f-104">If a user's mailbox has been "preparing" for more than an hour, you can try deleting and then re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
   
 
