@@ -1,35 +1,36 @@
 ---
-title: Kasutajaprofiilide haldamine Delve ' is
+title: Kasutajaprofiilide haldamine Delveis
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720535"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811807"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Kasutajaprofiilide haldamine Delve ' is
+# <a name="manage-user-profiles-in-delve"></a>Kasutajaprofiilide haldamine Delveis
 
-Office Delve võimaldab kasutajatel hallata oma kasutajaprofiili. Kasutajad saavad:
+Office Delve võimaldab kasutajatel oma kasutajaprofiili hallata. Kasutajad saavad teha järgmist.
   
-- Vaadake ja värskendage nende teavet
+- Teabe kuvamine ja värskendamine
     
-- Hoidke teavet privaatsel
+- Teabe privaatne säilitamine
     
-- Muutke nende profiili või kattepilti
+- Profiili või kaane pildi muutmine
     
-- Delve ' i keele-ja kellaajavormingu muutmine
+- Delve ' i keele ja kellaaja vormingu muutmine
     
 > [!NOTE]
-> Kui kasutaja uuendas oma profiilipilti ja muudatust ei kuvata SharePointis või OneDrive ' is, paluge neil avada veebibrauser, [veebisaidile Office.com](https://www.office.com), logige sisse oma töö või kooli kontoga ja klõpsake siis OneDrive ' i või SharePointi paani. See küsib profiilipildi sünkroonimiseks. Kasutaja võib osutuda vajalikuks proovida neid samme oma brauseri Privaatversiooni. 
+> Kui kasutaja värskendas oma profiili pilti ja muudatust ei kuvata rakenduses SharePoint või OneDrive, paluge neil avada veebibrauser, minge veebisaidile [Office.com](https://www.office.com), logige sisse oma töö-või kooli kontoga ja klõpsake siis OneDrive ' i või SharePointi paani. See viipab profiili pildi sünkroonimiseks. Võimalik, et kasutaja peab proovima nende juhiste täitmist oma brauseri privaatse versiooniga. 
   
-[Lisateave profiilide värskendamise kohta Delve ' is](https://go.microsoft.com/fwlink/?linkid=735070)
+[Lisateave Delve ' is profiilide värskendamise kohta](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
