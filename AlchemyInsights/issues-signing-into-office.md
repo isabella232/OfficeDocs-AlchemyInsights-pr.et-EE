@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676986"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236121"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 rakendustesse sisselogimisega seotud probleemid
 
@@ -25,6 +25,8 @@ Microsoft 365 rakendustega sisselogimise probleemide lahendamiseks proovige prob
 
 - Windowsi jaoks vaadake [soovitusi levinud sisselogimise probleemide lahendamiseks](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) .
 - Maci jaoks  [ei saa Office 2016 for Maci rakendusse sisse logida](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Näpunäide** Windowsi arvutites saame diagnoosida ja lahendada automaatselt mitmeid levinud Office ' i sisselogimise probleeme. Laadige alla ja käivitage  **[Microsoft support ja Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** meie automatiseeritud tööriista kasutamiseks.
 
 **Märkus:** Sisselogimise või aktiveerimise probleemide lahendamiseks  **pole soovitatav**keelata kaasaegset autentimist (ADAL) või veebikonto haldust (WAM). Kui Office 2013 abil Microsoft 365 ühenduse loomisel ilmneb tõrkeid, veenduge, et lubate Office ' i klientrakenduse jaoks [moodsa autentimise](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  .
 
