@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685450"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219851"
 ---
-# <a name="block-email-forwarding"></a>Meilisõnumite edasisaatmise blokeerimine
+# <a name="blocking-or-unblocking-email-forwarding"></a>Meilisõnumite edasisaatmise blokeerimine või blokeeringu tühistamine
 
-Kindla postkasti meilisõnumite edasisaatmise keelamiseks vaadake teemat [meilisõnumite edasisaatmise konfigureerimine](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Mõne kindla postkasti meilisõnumite edasisaatmise lubamiseks või keelamiseks vaadake teemat [meilisõnumite edasisaatmise konfigureerimine](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Kui soovite blokeerida meilisõnumite edasisaatmise kogu ettevõtte jaoks, [on mitu võimalust Exchange Online ' is meilisõnumite automaatse edasisaatmise blokeerimiseks](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+Rentniku tasandil kontrollitakse välise edasisaatmise kontrolli väljamineva rämpsposti poliitika abil. Kui see on välja lülitatud või automaatne, võib see blokeerida meilisõnumite edasisaatmise "550 5.7.520 juurdepääs keelatud, teie ettevõte ei luba välist edasisaatmist". Seejärel, kui edasisaatmine oli seatud blokeerima, on see viga, mida kasutajad näevad.
+
+Kui edasisaatmine on blokeeritud, veenduge, et poliitika oleks konfigureeritud väliste Autoforward lubamiseks. Väljamineva rämpsmeili filtri poliitika saate kontrollida turbe-ja vastavuskontrolli keskusest või käivitades käsu Get-HostedOutboundSpamFilterPolicy | välgu nimi, AutoForwardingMode. Kui soovite häälestada Autoforward blokeerimist, siis ütleb sama käsk teile kohe poliitika oleku.
+
+Märkus: soovitatav on jätta välist Autoforward teie väljamineva rämpsmeili filtri poliitikas keelatud ja lubada seda ainult nende kasutajate jaoks, kes vajavad välisedasisaatmist, luues kohandatud poliitika nende kasutajate jaoks. Lisateavet leiate teemast [väliste meilisõnumite edasisaatmise konfigureerimine rakenduses Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
