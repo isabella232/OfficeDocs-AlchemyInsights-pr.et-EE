@@ -14,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658946"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277820"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Sisu otsimise tõrgete tõrkeotsing
 
@@ -36,3 +36,5 @@ Kas olete näiteks saanud otsingute käitamisel järgmisi?
 Või kui otsite või ekspordite tulemid suurest arvust postkastidest (üle 100 000 postkasti), saate te eksportida tõrkeid?
 
 Seda tüüpi tõrgete korral proovi uuesti otsida sisulisi asukohti, mis on nurjunud. Lisateavet leiate  [sellest artiklist](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+
+Kui ekspordite rohkem kui 100K postkaste, peate eksportimise tulemite allalaadimiseks kasutama järgmist PowerShelli, et eksportida  [tulemid enam kui 100k postkastist](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
