@@ -2,7 +2,7 @@
 title: Tellimuse tühistamine?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,24 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 429dfe3d66fb37a62e2355084cd30c5e4fe16e71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f019c60dca18a5b241bf445252463035e9841d64
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757332"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286450"
 ---
 # <a name="canceling-your-subscription"></a>Tellimuse tühistamine?
 
 Meil on kahju, et sa lähed, aga kui soovid oma tellimuse tühistada, siis siin on Sinu valikud.
   
 - Kui olete prooviversiooni klient, pole midagi tühistada. Prooviversiooni tellimused aeguvad automaatselt, kui te ei sisesta makseviisi.
-
-- Kui teil on vähem kui 25 määratud litsentsi, saate tellimuse veebis tühistada. Avage **Billing** \> leht **[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine. Klõpsake jaotises **sätted & toimingud** nuppu **Tühista tellimus**.
-
+- Kui teil on vähem kui 25 määratud litsentsi, saate tellimuse veebis tühistada. Avage leht **Arveldamine** \> [oma tooted](https://go.microsoft.com/fwlink/p/?linkid=842054) ja otsige üles tellimus, mille soovite tühistada. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **Tühista tellimus**.
 - Kui teil on rohkem kui 25 määratud litsentsi, saate kasutajad eemaldada, kuni teil on vähem kui 25.
   
-**Tagasimakse: iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.** 
+**Tagasimakse: iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.**
 
-**Märkus**: kui te ei näe tühistamiseks suvandit, klõpsake üksikasjade kuvamiseks tellimust ja peaksite nägema jaotises **sätted & toimingud**nuppu **Tühista tellimus** . 
+> [!NOTE]
+> Kui te ei näe tühistamiseks suvandit, valige lehe üksikasjade kuvamiseks tellimus. Valige jaotises **tellimuse ja makse sätted** käsk **Tühista tellimus**.
 
 Lisateavet leiate teemast [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

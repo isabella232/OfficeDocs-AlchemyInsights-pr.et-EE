@@ -2,7 +2,7 @@
 title: Küsimus litsentside kohta
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ff02e0beb7a15053961e860bfa1bf5a66d9eeaaf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812615"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287062"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Küsimused Microsoft 365 litsentsi kohta
 
-Kui soovite teada, mitu litsentsi olete ostnud või mitu litsentsi on tellimusest määratud, tehke järgmist.
+Nende juhiste abil saate teada, kui palju ostetud litsentse või mitu litsentsi on tellimusest määratud.
   
-1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Avage halduskeskus lehel "toodete **Arveldamine** " \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Otsige vahekaardil **tooted** üles tellimus, mille kohta soovite lisateavet. Saate vaadata nende litsentside arvu, mille eest maksate, ja kui palju neid praegu määratakse.
 
-2. Otsige üles tellimus, mille kohta soovite rohkem teada saada. Saate vaadata nende litsentside arvu, mille eest maksate, ja kui palju on saadaval.
-
-Kui soovite lisada rohkem litsentse või kui teil on liiga palju, valige ostetud summa kohandamiseks **Lisa/eemalda litsentse** .
+Kui soovite lisada rohkem litsentse või kui teil on liiga palju, valige tellimus. Tellimuse jaoks litsentside koguarvu reguleerimiseks valige lehel tellimuse andmed käsk **osta litsentse** või **Eemalda litsentsid** .
