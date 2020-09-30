@@ -1,8 +1,8 @@
 ---
 title: Power BI litsentsihaldus
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4969"
-ms.openlocfilehash: 7fb9191390f48059bf7417d92443ec45f4521a6a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0bfb1a174f0ebe03bab53f13d26ac7af240fe7ce
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801981"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307096"
 ---
 # <a name="power-bi-license-management"></a>Power BI litsentsihaldus
 
-Power BI litsentside haldust saab täita **Microsoft 365 halduskeskus**.
+Power BI litsentside haldust saab täita Microsoft 365 halduskeskus.
 
-- Power BI **ostmiseks** avage **Arveldus** \> **[Teenuste ostmine](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Kasutahe otsinguvälja Power BI otsimiseks, valige leping ja kasutajate arv. Lisateavet leiate artiklist [Tellimuse ostmine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan). 
-
-- Power BI litsentside **määramiseks** avage **Arveldus > [Litsentsid](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lisateavet leiate artiklist [Litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-
-- Power BI litsentside **lisamiseks või eemaldamiseks** Avage ** [oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)arveldus >**, leidke tellimus, millele soovite litsentse lisada või eemaldada, ja valige **Lisa/eemalda litsentse**.
-
-Lisateavet leiate teemast [litsentside lisamine või eemaldamine äritellimusest](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
+- **Power BI**ostmiseks Avage **arvelduse** \> [ostmise teenused](https://go.microsoft.com/fwlink/p/?linkid=868433). Kasutage funktsiooni "Power BI" otsimiseks Otsinguvälja, valige nende kasutajate plaan ja arv, keda soovite osta. Lisateavet leiate teemast [mõne muu tellimuse ostmine](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365\#buy-a-different-subscription).
+- **Power BI litsentside määramiseks**Avage **arvelduse**  >  [litsentsid](https://go.microsoft.com/fwlink/p/?linkid=842264). Lisateavet leiate artiklist [Litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- **Power BI litsentside lisamiseks või eemaldamiseks**Avage **Billing**  >  [oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)arveldamine, leidke tellimus, mida soovite muuta, valige **rohkem suvandeid** (kolm punkti) ja seejärel valige **osta litsentse**. Litsentside eemaldamiseks klõpsake paani **litsentside ostmine** ülaosas nuppu **Eemalda litsentsid**. Lisateavet leiate teemast [litsentside lisamine või eemaldamine äritellimusest](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).

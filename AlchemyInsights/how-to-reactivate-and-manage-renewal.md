@@ -2,8 +2,8 @@
 title: Uuendamise taasaktiveerimine ja haldamine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,37 +14,30 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: ef035f1e75756342cce48de7d00adfee7c74caf0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779551"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307050"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Korduva arveldamise uuesti aktiveerimine ja haldamine
+# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Tellimuse uuesti aktiveerimine ja korduva arveldamise haldamine
 
 Näib, et teil on aegunud tellimus. Kui soovite selle uuesti aktiveerida, tehke järgmist.
   
-1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Otsige vahekaardil **tooted** üles tellimus, mille soovite uuesti aktiveerida. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **selle tellimuse uuesti aktiveerimine**.
+3. Valige paanil **selle tellimuse uuesti aktiveerimine** ripploendist sobiv makseviis või valige **Lisa makseviis**.
+4. Valige **Salvesta**.
 
-2. Leidke tellimus, mille soovite uuesti aktiveerida. Valige jaotises **Arveldamine** nupp  **Aktiveeri uuesti**.
+Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).
 
-    Kui te ei näe võimalust **uuesti aktiveerida** , kasutage nuppu "vaja abi", et rääkida kasutajatoe tehnikuga, et saaksite oma tellimuse uuesti aktiveerida.
-
-3. Kinnitage maksete üksikasjad. Siin saate värskendada olemasolevat makseteavet. Kui olete makseviisi sisestamise lõpetanud, valige **Aktiveeri uuesti**.
-
-Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
-
-Iga kuu või iga-aastase arvelduse haldamiseks saate **korduva arveldamise** sisse või välja lülitada.
+Kuu- või aastapõhise arveldamise haldamiseks saate **korduva arveldamise** sisse või välja lülitada.
   
-1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Valige tellimus, mille korduvat arveldamist soovite hallata.
-
-3. Valige jaotises **Arveldamine**jaotises **Tagasiuudised** või **aegumine**nupp **Redigeeri**.
-
-4. Valige paanil **uuendatavate arvelduse sätted** nupp **Lülita välja.** Kui korduv arveldamine on juba välja lülitatud, valige selle sisselülitamiseks **kuu** või **üks kord** .
-
-5. Valige **Edasta muudatus**.
+1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Valige vahekaardil **tooted** tellimus, mida soovite muuta.
+3. Valige lehe Tellimuse üksikasjad jaotises **tellimuse ja makse sätted**käsk **Redigeeri korduvat arveldust**.
+4. Valige paanil **korduvate arvelduse sätete redigeerimine** **sees**, **sees, kuid pikendage ühe korra**või **Lülitage välja**.
+5. Valige **Salvesta**.
 
 Lisateavet leiate artiklist [Korduva arveldamise sisse- või väljalülitamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

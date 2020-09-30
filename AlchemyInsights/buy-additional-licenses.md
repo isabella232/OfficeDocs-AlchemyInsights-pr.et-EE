@@ -2,7 +2,7 @@
 title: Täiendavate litsentside ostmine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,28 +13,23 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725547"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307133"
 ---
 # <a name="buy-additional-licenses"></a>Täiendavate litsentside ostmine
 
-1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Otsige vahekaardil **tooted** üles tellimus, mille jaoks soovite litsentse osta või eemaldada. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **osta litsentse**.
+3. Kui soovite litsentside arvu vähendada, klõpsake paani **litsentside ostmine** ülaosas nuppu **Eemalda litsentsid**.
+4. Litsentside ostmiseks või eemaldamiseks märkige jaotises **Uus kogus** väljal **litsentside** koguarv selle tellimuse jaoks soovitud litsentside koguarv. Kui teil on näiteks 100 litsentsid ja soovite lisada veel 25, sisestage 125. Kui soovite eemaldada 25 litsentsi, sisestage 75.
+5. Valige **Salvesta**.
 
-2. Otsige üles tellimus, millele soovite litsentse lisada, ja seejärel valige **Lisa/eemalda litsentse**.
-
-    [Mida teha, kui linki Lisa/eemalda ei kuvata?](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-3. Sisestage väljale **litsentside** koguarv selle tellimuse jaoks vajalike litsentside koguarv ja valige käsk **Edasta muudatus**. Kui teil on näiteks 100 litsentsid ja peate lisama veel 5, sisestage 105.
-
-    > [!NOTE]
-    > Kui maksate oma tellimuse krediitkaardi või pangakontoga, on kõik teie ostetavad litsentsid saadaval kohe pärast tellimuse kinnituse saamist. Kui maksate arve alusel, peate võib-olla ootama krediiti, enne kui uued litsentsid on saadaval.
-
-Lisateavet leiate teemast [litsentside ostmine Microsoft 365 for Businessi tellimuse](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)jaoks.  
+Lisateavet leiate teemast [litsentside ostmine Microsoft 365 for Businessi tellimuse](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)jaoks.
 
 **Lisaressursid**
 
-- [Litsentside määramine kasutajatele Microsoft 365 ettevõtetele](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Litsentside määramine kasutajatele Microsoft 365 ettevõtetele](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

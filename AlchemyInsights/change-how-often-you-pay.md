@@ -15,22 +15,23 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733617"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307338"
 ---
 # <a name="change-how-often-you-pay"></a>Tasu maksmise sageduse muutmine
 
 Selleks, et muuta, kui sageli te olete arvestatud ja tasunud tellimuse eest, täitke Microsoft 365 halduskeskus järgmised juhised.
 
 1. Avage **Billing**  >  leht[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.
-2. Valige vahekaardil **tooted** tellimus, mida soovite muuta. 
+2. Valige vahekaardil **tooted** tellimus, mida soovite muuta.
 3. Valige lehe Tellimuse üksikasjad jaotises **tellimuse ja makse sätted** käsk **Redigeeri arveldamise sagedust**.
-4. Valige paanil **arvelduse sageduse muutmine** shoose suvand, kui sageli soovite arveldada, ja seejärel valige **Muuda**.
+4. Valige paanil **arvelduse sageduse muutmine** see suvand, kui sageli soovite arveldada, ja seejärel valige **Muuda**.
 
-**Märkus**: iga kuu või iga-aastane arveldamine on ainuke võimalus.
+> [!NOTE]
+> Iga kuu või iga-aastane arveldamine on ainuke võimalus.
 
 Lisateavet vaadake teemast [Arveldussageduse muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

@@ -2,7 +2,7 @@
 title: Tellimuse jaoks litsentside lisamine või eemaldamine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,35 +13,27 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: d07403226345a4e90aa4f7a5aa7a4ef5e0e9ea19
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781206"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307266"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Tellimuse jaoks litsentside lisamine või eemaldamine
 
 Litsentside lisamiseks või eemaldamiseks tehke järgmist.
   
-1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Valige tellimus, mille jaoks soovite litsentse lisada/eemaldada.
-
-3. Klõpsake nuppu **Lisa/eemalda litsentse**.
-
-4. Sisestage vajaliku kasutajate koguarv. Näiteks kui teil on praegu 25 litsentsi ja soovite eemaldada 5, sisestage sellele väljale 20.
-
-5. Klõpsake suvandit **Edasta muudatus**.
-
-**Märkus**: iga uus tasu (litsentsi suurendamine) või Kreedit (litsentsi vähendamine) kuvatakse järgmisel arvel.
+1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Otsige vahekaardil **tooted** üles tellimus, mille jaoks soovite litsentse osta või eemaldada. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **osta litsentse**.
+3. Kui soovite litsentside arvu vähendada, klõpsake paani **litsentside ostmine** ülaosas nuppu **Eemalda litsentsid**.
+4. Litsentside ostmiseks või eemaldamiseks märkige jaotises **Uus kogus** väljal **litsentside** koguarv selle tellimuse jaoks soovitud litsentside koguarv. Kui teil on näiteks 100 litsentsid ja soovite lisada veel 25, sisestage 125. Kui soovite eemaldada 25 litsentsi, sisestage 75.
+5. Valige **Salvesta**.
 
 Lisateavet litsentside määramise kohta leiate teemast [kasutajatele litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 **Ressursside**
   
-- [Tellimuse litsentside haldamine – ost või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-- [Microsoft 365 ärirakenduse tühistamine](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
-
-- [Osta teine Microsoft 365 for Businessi tellimus](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Tellimuse litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Microsoft 365 ärirakenduse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Proovige või ostke Microsoft 365 for Businessi tellimus](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

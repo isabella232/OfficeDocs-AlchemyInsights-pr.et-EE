@@ -2,7 +2,7 @@
 title: Liiga palju litsentse?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736023"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307230"
 ---
 # <a name="too-many-licenses"></a>Liiga palju litsentse?
 
@@ -28,9 +28,9 @@ Kui arvate, et teile on arvestatud liiga paljude litsentside eest, on see tavali
 **Ostetud litsentside arvu vähendamine**
   
 1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+2. Valige vahekaardil **tooted** tellimus, mida soovite muuta.
+3. Valige lehel Tellimuse üksikasjad käsk **Eemalda litsentsid**.
+4. Sisestage paanil **litsentside eemaldamine** jaotises **Uus kogus** väljal **litsentside** koguarv selle tellimuse jaoks soovitud litsentside koguarv. Kui teil on näiteks 100 litsentsid ja soovite need 25 eemaldada, sisestage 75.
+5. Valige **Salvesta**.
 
-2. Otsige üles tellimus, millelt soovite litsentse eemaldada, ja seejärel valige **Lisa/eemalda litsentse**.
-
-3. Sisestage väljale **litsentside** koguarv selle tellimuse jaoks vajalike litsentside koguarv ja seejärel valige **Edasta muudatus**. Kui teil on näiteks 110 litsentsid ja soovite neist 5 eemaldada, sisestage 105.
-
-Lisateavet leiate teemast [litsentside eemaldamine Microsoft 365 for Businessi tellimusest](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lisateavet leiate teemast [tellimuse litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
