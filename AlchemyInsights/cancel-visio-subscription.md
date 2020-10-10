@@ -2,36 +2,32 @@
 title: Visio tellimuse tühistamine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: af41ef0469d475b1964d721ab52f175bf8812ffc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683290"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416391"
 ---
-# <a name="cancel-visio-subscription"></a><span data-ttu-id="4af25-102">Visio tellimuse tühistamine</span><span class="sxs-lookup"><span data-stu-id="4af25-102">Cancel Visio subscription</span></span>
+# <a name="cancel-visio-subscription"></a><span data-ttu-id="b929f-102">Visio tellimuse tühistamine</span><span class="sxs-lookup"><span data-stu-id="b929f-102">Cancel Visio subscription</span></span>
 
-<span data-ttu-id="4af25-103">Administraatorid saavad oma asutuse Visio tellimuse tühistada **Microsoft 365 halduskeskus**.</span><span class="sxs-lookup"><span data-stu-id="4af25-103">Admins can cancel the Visio subscription for their organization from the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="b929f-103">Administraatorid saavad Microsoft 365 halduskeskus tühistada oma organisatsiooni Visio tellimuse.</span><span class="sxs-lookup"><span data-stu-id="b929f-103">Admins can cancel the Visio subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="4af25-104">Avage leht \*\* [teie toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldus >\*\* .</span><span class="sxs-lookup"><span data-stu-id="4af25-104">Go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="b929f-104">Avage **Billing** \> leht [oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.</span><span class="sxs-lookup"><span data-stu-id="b929f-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="b929f-105">Otsige vahekaardil **tooted** üles Visio tellimus, mille soovite tühistada.</span><span class="sxs-lookup"><span data-stu-id="b929f-105">On the **Products** tab, find the Visio subscription that you want to cancel.</span></span> <span data-ttu-id="b929f-106">Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **Tühista tellimus**.</span><span class="sxs-lookup"><span data-stu-id="b929f-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="b929f-107">Valige paanil **tellimuse tühistamine** põhjus, miks te tühistate.</span><span class="sxs-lookup"><span data-stu-id="b929f-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="b929f-108">Soovi korral saate anda tagasisidet.</span><span class="sxs-lookup"><span data-stu-id="b929f-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="b929f-109">Valige **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="b929f-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="4af25-105">Valige tühistamiseks Visio leping.</span><span class="sxs-lookup"><span data-stu-id="4af25-105">Locate the Visio Plan to cancel.</span></span>
+<span data-ttu-id="b929f-110">**Tagasimakse:** Iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.</span><span class="sxs-lookup"><span data-stu-id="b929f-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-3. <span data-ttu-id="4af25-106">Klõpsake nuppu **Tühista tellimus**.</span><span class="sxs-lookup"><span data-stu-id="4af25-106">Click **Cancel subscription**.</span></span>
-
-<span data-ttu-id="4af25-107">**Tagasimakse: iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.**</span><span class="sxs-lookup"><span data-stu-id="4af25-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
-
-<span data-ttu-id="4af25-108">**Märkus**: kui te ei näe tühistamiseks suvandit, klõpsake üksikasjade kuvamiseks tellimust ja peaksite nägema jaotises **sätted & toimingud**nuppu **Tühista tellimus** .</span><span class="sxs-lookup"><span data-stu-id="4af25-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
-
-<span data-ttu-id="4af25-109">Lisateavet leiate teemast [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="4af25-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="b929f-111">Lisateavet leiate teemast [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="b929f-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>

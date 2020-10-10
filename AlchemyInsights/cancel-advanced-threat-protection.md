@@ -1,8 +1,8 @@
 ---
 title: Täpsema ohu kaitse tühistamine
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683686"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416270"
 ---
-# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="a4a5d-102">Täpsema ohu kaitse tühistamine</span><span class="sxs-lookup"><span data-stu-id="a4a5d-102">Cancel Advanced Threat Protection</span></span>
+# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="277ef-102">Täpsema ohu kaitse tühistamine</span><span class="sxs-lookup"><span data-stu-id="277ef-102">Cancel Advanced Threat Protection</span></span>
 
-<span data-ttu-id="a4a5d-103">Täiustatud ohu kaitse saab tühistada **Microsoft 365 halduskeskus**.</span><span class="sxs-lookup"><span data-stu-id="a4a5d-103">Advanced Threat Protection can be canceled in the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="277ef-103">Administraatorid saavad Microsoft 365 halduskeskus tühistada oma organisatsiooni täpsema ohu kaitse tellimuse.</span><span class="sxs-lookup"><span data-stu-id="277ef-103">Admins can cancel the Advanced Threat Protection subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="a4a5d-104">Avage **Billing**  >  leht[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.</span><span class="sxs-lookup"><span data-stu-id="a4a5d-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="a4a5d-105">Otsige üles täpsema ohu kaitse kava, mille soovite tühistada.</span><span class="sxs-lookup"><span data-stu-id="a4a5d-105">Locate the Advanced Threat Protection Plan to cancel.</span></span>
-3. <span data-ttu-id="a4a5d-106">Klõpsake nuppu **Tühista tellimus**.</span><span class="sxs-lookup"><span data-stu-id="a4a5d-106">Click **Cancel subscription**.</span></span>
+1. <span data-ttu-id="277ef-104">Avage **Billing**  >  leht[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.</span><span class="sxs-lookup"><span data-stu-id="277ef-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="277ef-105">Otsige vahekaardil **tooted** üles täpsema ohu kaitse leping, mille soovite tühistada.</span><span class="sxs-lookup"><span data-stu-id="277ef-105">On the **Products** tab, find the Advanced Threat Protection plan that you want to cancel.</span></span> <span data-ttu-id="277ef-106">Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **Tühista tellimus**.</span><span class="sxs-lookup"><span data-stu-id="277ef-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="277ef-107">Valige paanil **tellimuse tühistamine** põhjus, miks te tühistate.</span><span class="sxs-lookup"><span data-stu-id="277ef-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="277ef-108">Soovi korral saate anda tagasisidet.</span><span class="sxs-lookup"><span data-stu-id="277ef-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="277ef-109">Valige **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="277ef-109">Select **Save**.</span></span>
 
-<span data-ttu-id="a4a5d-107">Tagasimakse: iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.</span><span class="sxs-lookup"><span data-stu-id="a4a5d-107">Refund: Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="277ef-110">**Tagasimakse:** Iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.</span><span class="sxs-lookup"><span data-stu-id="277ef-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="a4a5d-108">**Märkus**: kui te ei näe tühistamiseks suvandit, klõpsake üksikasjade kuvamiseks tellimust ja peaksite nägema jaotises **sätted & toimingud**nuppu **Tühista tellimus** .</span><span class="sxs-lookup"><span data-stu-id="a4a5d-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
-
-<span data-ttu-id="a4a5d-109">Lisateavet leiate teemast [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="a4a5d-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="277ef-111">Lisateavet leiate teemast [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="277ef-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>

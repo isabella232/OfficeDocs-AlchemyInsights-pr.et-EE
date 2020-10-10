@@ -1,8 +1,8 @@
 ---
 title: Uuendamise subsscription
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745855"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416624"
 ---
-# <a name="renewing-your-subscription"></a><span data-ttu-id="6e230-102">Tellimuse pikendamine</span><span class="sxs-lookup"><span data-stu-id="6e230-102">Renewing your subscription</span></span>
+# <a name="renewing-your-subscription"></a><span data-ttu-id="d9f49-102">Tellimuse pikendamine</span><span class="sxs-lookup"><span data-stu-id="d9f49-102">Renewing your subscription</span></span>
 
-<span data-ttu-id="6e230-103">Kui maksate krediitkaardi või pangakontoga, on korduv arveldamine vaikimisi sisse lülitatud.</span><span class="sxs-lookup"><span data-stu-id="6e230-103">If you pay by credit card or bank account, recurring billing is turned on by default.</span></span> <span data-ttu-id="6e230-104">Kui korduv arveldamine on sisselülitatud, võetakse teie tellimusele järgneval päeval arve igal aastal.</span><span class="sxs-lookup"><span data-stu-id="6e230-104">When recurring billing is on, your subscription will continue to be billed each year on the day you subscribed.</span></span> <span data-ttu-id="6e230-105">Kui teie tellimus on aktiivne, saate seda administreerimiskeskuses uuesti välja või uuesti sisse lülitada.</span><span class="sxs-lookup"><span data-stu-id="6e230-105">You can turn it off or back on again in the admin center if your subscription is active.</span></span>
+<span data-ttu-id="d9f49-103">Kui maksate krediitkaardi või pangakontoga, on korduv arveldamine vaikimisi sisse lülitatud.</span><span class="sxs-lookup"><span data-stu-id="d9f49-103">If you pay by credit card or bank account, recurring billing is turned on by default.</span></span> <span data-ttu-id="d9f49-104">Kui korduv arveldamine on sisselülitatud, võetakse teie tellimusele järgneval päeval arve igal aastal.</span><span class="sxs-lookup"><span data-stu-id="d9f49-104">When recurring billing is on, your subscription will continue to be billed each year on the day you subscribed.</span></span> <span data-ttu-id="d9f49-105">Kui teie tellimus on aktiivne, saate seda administreerimiskeskuses uuesti välja või uuesti sisse lülitada.</span><span class="sxs-lookup"><span data-stu-id="d9f49-105">You can turn it off or back on again in the admin center if your subscription is active.</span></span>
 
-<span data-ttu-id="6e230-106">Kui olete tellimuse oma tellimuse eest maksnud, aegub pakett tellimuse kehtivusaja lõpus.</span><span class="sxs-lookup"><span data-stu-id="6e230-106">If you prepaid your subscription with a product key, your subscription will expire at the end of subscription term.</span></span> <span data-ttu-id="6e230-107">Saate korduva arveldamise ja anda krediitkaardi või pangakonto andmeid, et teie tellimust arveldatakse igal aastal teie tellitud päeval.</span><span class="sxs-lookup"><span data-stu-id="6e230-107">You can turn on recurring billing and provide credit card or bank account information so that your subscription will continue to be billed every year on the day you subscribed.</span></span>
+<span data-ttu-id="d9f49-106">Kui olete tellimuse oma tellimuse eest maksnud, aegub pakett tellimuse kehtivusaja lõpus.</span><span class="sxs-lookup"><span data-stu-id="d9f49-106">If you prepaid your subscription with a product key, your subscription will expire at the end of subscription term.</span></span> <span data-ttu-id="d9f49-107">Saate korduva arveldamise ja anda krediitkaardi või pangakonto andmeid, et teie tellimust arveldatakse igal aastal teie tellitud päeval.</span><span class="sxs-lookup"><span data-stu-id="d9f49-107">You can turn on recurring billing and provide credit card or bank account information so that your subscription will continue to be billed every year on the day you subscribed.</span></span>
 
-<span data-ttu-id="6e230-108">Korduva arveldamise sisselülitamiseks tehke järgmist.</span><span class="sxs-lookup"><span data-stu-id="6e230-108">To turn recurring billing on:</span></span> 
+<span data-ttu-id="d9f49-108">Korduva arveldamise sisselülitamiseks tehke järgmist.</span><span class="sxs-lookup"><span data-stu-id="d9f49-108">To turn recurring billing on:</span></span>
 
-1. <span data-ttu-id="6e230-109">Valige **Billing**  >  **[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.</span><span class="sxs-lookup"><span data-stu-id="6e230-109">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-2. <span data-ttu-id="6e230-110">Valige tellimus, mille jaoks soovite korduvat arveldust hallata.</span><span class="sxs-lookup"><span data-stu-id="6e230-110">Choose the subscription you want to manage recurring billing for.</span></span>
-3. <span data-ttu-id="6e230-111">Valige jaotises **Arveldamine**nupp **Redigeeri** ja tehke muudatused aknas **korduvate arvelduste sätted** .</span><span class="sxs-lookup"><span data-stu-id="6e230-111">Under **Billing**, select **Edit** and make your changes in the **Recurring billing settings** window.</span></span> 
+1. <span data-ttu-id="d9f49-109">Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="d9f49-109">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="d9f49-110">Valige vahekaardil **tooted** tellimus, mida soovite muuta.</span><span class="sxs-lookup"><span data-stu-id="d9f49-110">On the **Products** tab, select the subscription that you want to change.</span></span>
+3. <span data-ttu-id="d9f49-111">Valige lehe Tellimuse üksikasjad jaotises **tellimuse ja makse sätted**käsk **Redigeeri korduvat arveldust**.</span><span class="sxs-lookup"><span data-stu-id="d9f49-111">On the subscription details page, under **Subscription and payment settings**, select **Edit recurring billing**.</span></span>
+4. <span data-ttu-id="d9f49-112">Valige paanil **korduvate arvelduse sätete redigeerimine** **sees**, **sees, kuid pikendage ühe korra**või **Lülitage välja**.</span><span class="sxs-lookup"><span data-stu-id="d9f49-112">In the **Edit recurring billing settings** pane, select **On**, **On, but renew once**, or **Turn off**.</span></span>
+5. <span data-ttu-id="d9f49-113">Valige **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="d9f49-113">Select **Save**.</span></span> 
