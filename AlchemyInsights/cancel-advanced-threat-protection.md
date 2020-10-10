@@ -1,8 +1,8 @@
 ---
 title: Täpsema ohu kaitse tühistamine
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683686"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416270"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Täpsema ohu kaitse tühistamine
 
-Täiustatud ohu kaitse saab tühistada **Microsoft 365 halduskeskus**.
+Administraatorid saavad Microsoft 365 halduskeskus tühistada oma organisatsiooni täpsema ohu kaitse tellimuse.
 
 1. Avage **Billing**  >  leht[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.
-2. Otsige üles täpsema ohu kaitse kava, mille soovite tühistada.
-3. Klõpsake nuppu **Tühista tellimus**.
+2. Otsige vahekaardil **tooted** üles täpsema ohu kaitse leping, mille soovite tühistada. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **Tühista tellimus**.
+3. Valige paanil **tellimuse tühistamine** põhjus, miks te tühistate. Soovi korral saate anda tagasisidet.
+4. Valige **Salvesta**.
 
-Tagasimakse: iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.
-
-**Märkus**: kui te ei näe tühistamiseks suvandit, klõpsake üksikasjade kuvamiseks tellimust ja peaksite nägema jaotises **sätted & toimingud**nuppu **Tühista tellimus** .
+**Tagasimakse:** Iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.
 
 Lisateavet leiate teemast [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

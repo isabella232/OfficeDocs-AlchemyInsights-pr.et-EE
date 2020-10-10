@@ -1,8 +1,8 @@
 ---
 title: Uuendamise subsscription
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745855"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416624"
 ---
 # <a name="renewing-your-subscription"></a>Tellimuse pikendamine
 
@@ -25,8 +25,10 @@ Kui maksate krediitkaardi või pangakontoga, on korduv arveldamine vaikimisi sis
 
 Kui olete tellimuse oma tellimuse eest maksnud, aegub pakett tellimuse kehtivusaja lõpus. Saate korduva arveldamise ja anda krediitkaardi või pangakonto andmeid, et teie tellimust arveldatakse igal aastal teie tellitud päeval.
 
-Korduva arveldamise sisselülitamiseks tehke järgmist. 
+Korduva arveldamise sisselülitamiseks tehke järgmist.
 
-1. Valige **Billing**  >  **[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
-2. Valige tellimus, mille jaoks soovite korduvat arveldust hallata.
-3. Valige jaotises **Arveldamine**nupp **Redigeeri** ja tehke muudatused aknas **korduvate arvelduste sätted** . 
+1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Valige vahekaardil **tooted** tellimus, mida soovite muuta.
+3. Valige lehe Tellimuse üksikasjad jaotises **tellimuse ja makse sätted**käsk **Redigeeri korduvat arveldust**.
+4. Valige paanil **korduvate arvelduse sätete redigeerimine** **sees**, **sees, kuid pikendage ühe korra**või **Lülitage välja**.
+5. Valige **Salvesta**. 
