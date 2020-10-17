@@ -1,8 +1,8 @@
 ---
 title: Ei pääse oma kontole ligi
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 0a240bb0acea178a58fa5bc9a2d95808676ad272
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800028"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489165"
 ---
 # <a name="unable-to-access-my-account"></a>Ei pääse oma kontole ligi
 
@@ -25,14 +25,9 @@ Kui teie tellimus on aegunud või Microsoft on selle keelanud või kui te tühis
 
 **Tellimuse uuesti aktiveerimine**
 
-1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Otsige vahekaardil **tooted** üles tellimus, mille soovite uuesti aktiveerida. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **selle tellimuse uuesti aktiveerimine**.
+3. Valige paanil **selle tellimuse uuesti aktiveerimine** ripploendist sobiv makseviis või valige **Lisa makseviis**.
+4. Valige **Salvesta**.
 
-2. Leidke tellimus, mille soovite uuesti aktiveerida.
-
-3. Jaotises **Arveldamine** klõpsake suvandit **Aktiveeri kohe**. Kui olete vaates **kaardid** , klõpsake **nime** ja **saadaoleva koguse** vahelist kolmikpunkt ning valige menüüst käsk **Aktiveeri uuesti** .
-
-**Märkus**: kui te otsitavat tellimust ei näe, peate muutma filtri **Tellimuse olek** lehe ülaosas valikule **Kõik**.
-
-4. Kinnitage maksete üksikasjad, et värskendada olemasolev makseteave. Kui olete makseviisi sisestamise lõpetanud, klõpsake suvandit **Aktiveeri uuesti**.
-
-Lisateavet leiate artiklist [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -2,8 +2,8 @@
 title: Kuidas osta litsentse oma Microsoft 365 rakenduste jaoks Businessi tellimuse jaoks
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,20 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 4339c735097ea1f4b277572b65baa112cc35a087
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b9f659c97cea3c2eaa01b5a6b8facd5b255f8f
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781099"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488877"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kuidas osta litsentse oma Microsoft 365 rakenduste jaoks Businessi tellimuse jaoks
 
-Kasutajatele litsentside määramisel võib juhtuda, et teil on vaja osta täiendavaid litsentse. Selleks tehke järgmist.
+Kasutajatele litsentside määramisel võib juhtuda, et peate ostma täiendavaid litsentse. Kasutage järgmisi juhiseid.
   
-1. Avage halduskeskus lehel "toodete **Arveldamine** " \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Otsige vahekaardil **tooted** üles tellimus, mida soovite värskendada. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **osta litsentse**.
+3. Sisestage paanil **litsentside ostmine** jaotises **Uus kogus** väljal **litsentside** koguarv selle tellimuse jaoks soovitud litsentside koguarv. Kui teil on näiteks 100 litsentsid ja soovite lisada veel 25, sisestage 125.
+4. Valige **Salvesta**.
 
-2. Otsige üles tellimus, millele soovite litsentse lisada, ja seejärel valige **Lisa/eemalda litsentse**.
-
-3. Sisestage väljale **litsentside** koguarv selle tellimuse jaoks vajalike litsentside koguarv ja seejärel valige käsk **Edasta muudatus**. Kui teil on näiteks 100 litsentsid ja peate lisama veel 5, sisestage 105.
-
-Lisateavet leiate teemast [litsentside ostmine Microsoft 365 rakenduste jaoks Businessi tellimuse jaoks](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lisateavet leiate teemast [litsentside ostmine Microsoft 365 for Businessi tellimuse](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)jaoks.

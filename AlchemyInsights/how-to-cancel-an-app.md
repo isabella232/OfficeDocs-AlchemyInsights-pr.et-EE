@@ -2,8 +2,8 @@
 title: Rakenduse tühistamine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780991"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488841"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Tarkvara-AS-a-teenuse rakenduste tühistamine 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Tarkvara-AS-a-teenuse rakenduste tühistamine
 
-1. Valige Microsoft 365 halduskeskus lehel toodete **Arveldamine**ja  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** seejärel valige vahekaart **rakendused** .
-
-2. Otsige üles ja valige rakendus, mida soovite hallata.
-
-3. Valige jaotises **sätted & toimingud**käsk **Tühista tellimus**.
+1. Klõpsake administreerimiskeskuses **Billing**  >  lehel[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.
+2. Liikuge lehel **tooted** kerides jaotisse **rakendused** ja otsige üles tellimus, mille soovite tühistada. 
+3. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **Tühista tellimus**.
+4. Valige paanil **tellimuse tühistamine** põhjus, miks te tühistate. Soovi korral saate anda tagasisidet.
+5. Valige **Salvesta**.
