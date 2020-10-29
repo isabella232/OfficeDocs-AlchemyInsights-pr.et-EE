@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759215"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801547"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Rünnaku simulaator Microsoft 365
 
-- Kas teil on puudu rünnaku simulaator? Attack Simulator nõuab **office 365 täpsema ohu kaitse leping 2 (ATP leping 2)** või **Office 365 Enterprise E5**. Rünnaku simulaator pole **kaasatud office** 365 Advanced ohtu kaitse leping 1 (ATP leping 1), Office 365 Enterprise E3 või mis tahes Microsoft 365 rakendused ettevõtetele mõeldud pakettide jaoks.
+- Kas teil on puudu rünnaku simulaator? Attack Simulator nõuab **Microsoft Defender office 365 leping 2 (ATP leping 2)** või **Office 365 Enterprise E5** . Rakenduses Microsoft Defender for Office 365 leping 1 (ATP leping 1), Office 365 Enterprise E3 või Microsoft 365 ettevõtetele mõeldud Office ' i pakettide jaoks **ei ole** rünnaku simulaatorit kaasatud.
 
 - Simuleeritud rünnakute käivitamiseks kasutatav konto peab olema üldadministraator või administraatori õigused ja mitme teguriga autentimine (MFA). Lisateavet rünnaku simulaatori nõuete kohta leiate [sellest teemast](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759215"
 
 - Olulised asjad, mida saab teada **oda andmepüügiga** seotud simulatsioonide kohta.
 
-  - Kujunduse järgi ei saa te **andmepüügi sisselogimise serveri URL-i**jaoks kohandatud väärtust anda.
+  - Kujunduse järgi ei saa te **andmepüügi sisselogimise serveri URL-i** jaoks kohandatud väärtust anda.
 
   - Kui adressaat kasutab teate saatmiseks [lisandmoodulit luba](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) sõnum andmepüügiks, siis ei pruugi te saada sõnumile teatisi (kuna tegemist on simuleeritud rünnakuga).
 

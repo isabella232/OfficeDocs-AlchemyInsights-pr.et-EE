@@ -1,5 +1,5 @@
 ---
-title: Office 365 täiustatud ohtude kaitse
+title: Microsoft Defenderi kasutamine Office 365 jaoks
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696617"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801223"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 täiustatud ohtude kaitse
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defenderi kasutamine Office 365 jaoks
 
-- Turvalised manused, turvalised lingid ja andmepüügid on osa Office 365 täpsemast ohtude kaitsest (ATP). Enterprise E5, Education a5 ja Microsoft 365 ettevõtte Premium sisaldab ATP. Kõik muud lepingud nõuavad lisandmooduli ATP paketti.
+- Turvalised manused, turvalised lingid ja andmepüügid on osa Microsoft Defenderist Office 365 (ATP). Enterprise E5, Education a5 ja Microsoft 365 ettevõtte Premium sisaldab ATP. Kõik muud lepingud nõuavad lisandmooduli ATP paketti.
 
 - Peate määrama vastavad litsentsid, et kaitsta oma kasutajaid Office 365 ATP alusel. Siit leiate juhised [selle](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) kohta, kuidas oma kasutajatele litsentse hulgi rakendada.
 
-- Globaalsed administraatorid või turbe administraatorid pääsevad Office 365 ATP funktsioonidele juurde turbe & nõuetele vastavuse **Managmeent** \> **poliitikas**.
+- Globaalsed administraatorid või turbe administraatorid pääsevad Office 365 ATP funktsioonidele juurde turbe & nõuetele vastavuse **Managmeent** \> **poliitikas** .
 
 - Turvaliste manuste ja turvaliste link-poliitikate abil saab teie kogu asutuse, teatud domeenide või väiksemate kasutajate rühmadega ulatust laiendada.
 

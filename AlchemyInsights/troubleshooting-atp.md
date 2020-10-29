@@ -1,5 +1,5 @@
 ---
-title: Office 365 täiustatud ohtude kaitse tõrkeotsing
+title: Microsoft Defenderi tõrkeotsing Office 365 jaoks
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658910"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801439"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Office 365 täiustatud ohtude kaitse tõrkeotsing
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defenderi tõrkeotsing Office 365 jaoks
 
 - Kas teate kohaletoimetamisega viivitatakse? Kasutage oma ATP turvaliste manuste poliitikas [dünaamilist kohaletoimetamise](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) võimalust. See aitab vältida sõnumite viivitusi, kaitstes samal ajal adressaate pahatahtlike failide eest.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658910"
 
   1. Avage [https://protection.office.com](https://protection.office.com) ja logige sisse üldise administraatori või administraatori kontoga.
 
-  2. Valige vasakpoolsel navigeerimispaanil jaotises **ohu haldamine**valik **poliitika** \> **Turvalised lingid**.
+  2. Valige vasakpoolsel navigeerimispaanil jaotises **ohu haldamine** valik **poliitika** \> **Turvalised lingid** .
 
-  3. Valige jaotises **kogu organisatsioon rakendatav** poliitika ja klõpsake nuppu **Redigeeri**.
+  3. Valige jaotises **kogu organisatsioon rakendatav** poliitika ja klõpsake nuppu **Redigeeri** .
 
-  4. Jaotises **sätted**lubage **organisatsioonis saadetavate sõnumite turvaliste linkide rakendamine**.
+  4. Jaotises **sätted** lubage **organisatsioonis saadetavate sõnumite turvaliste linkide rakendamine** .
