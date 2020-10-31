@@ -10,16 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: c08a344e198c2b1c6c7ea47d598f1b92b681d027
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
+ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801583"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815934"
 ---
 # <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft peab tegema üle rentniku ühiskasutuse
 
-Microsoft peab toetama loendi ühiskasutust isiklike ja Töökontode vahel alates 25. septembrist, 2020. See võimaldab teie asutuse kasutajatel liituda, vaadata, muuta ja lisada andmeid isiklike Microsofti kontodele kuuluvate loenditesse.
+Microsoft peab toetama loendi ühiskasutust isiklike ja Töökontode vahel. See võimaldab teie asutuses kasutajaid
+
+saate liituda, vaadata, muuta ja lisada andmeid isiklike Microsofti kontodele kuuluvatele loenditele.
 
 Administraatorite jaoks on saadaval uus administraatori säte, mis keelab selle funktsiooni, kontrollides võimalust.
-Administraator saab selle sätte otsida administraatori portaalist jaotises **sätted** , mille sätted on  >  **Org Settings**  >  **Services**  >  **Microsofti jaoks ette** nähtud.
+
+Administraator saab selle sätte otsida administraatori portaalist jaotises **sätted** , mille sätted on  >  **Org Settings**  >  **Services**  >  **Microsofti jaoks ette** nähtud.  
+
+[Miks ma ei saa ühinenud loendiga liituda?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
