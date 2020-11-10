@@ -9,20 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000207
-ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9000207"
+- "1911"
+ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800352"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949813"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Sisu redaktor või skripti redaktori veebiosad on puudu
 
-Kui teil puudub veebiosa, mida soovite vaadata, näiteks **sisunõustaja või skripti redaktori veebiosa**, on võimalik, et proovite [moodsale lehele lisada klassikalist veebiosa](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Oluline on märkida, et moodsad leheküljed saavad kasutada ainult tänapäevaseid veebiosi ja klassikalised lehed saavad kasutada ainult klassikalisi veebiosi. Paljud moodsad veebiosad täidavad sama otstarvet kui klassikalised veebiosad, kuid näete erinevusi välimuses ja funktsionaalsuses.
+Kaks veebiosa, mis pole rakenduses SharePoint for Microsoft 365 moodsad lehed saadaval, on **skripti redaktori veebiosa** ja **sisu redaktori veebiosa**. Siiski on olemas [moodsad välised veebiosad](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) , mis saavad täita mõnda sama otstarvet. Samuti saate luua [kohandatud veebiosi või migreerida oma olemasolevad skripti redaktori veebiosad](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) SharePointi raamistikku.  
 
-On palju veebiosi, mida ei kuvata [kohandatud skripti sätete](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)tõttu, mis on vaikimisi keelatud tänapäevastel saitidel. 
-
-Saadaolevate veebiosade loendi leiate teemast [kohandatud skripti blokeerimisel mõjutatud funktsioonid](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
-
-Lisateavet kohandatud skripti turbe mõjude kohta leiate teemast [kohandatud skripti lubamise turbega seotud kaalutlused](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+Lisateavet leiate teemast [kus on SharePointis sisu redaktor ja skripti redaktori veebiosad?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
