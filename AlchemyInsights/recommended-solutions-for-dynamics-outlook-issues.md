@@ -14,12 +14,12 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: c1abfd5a5f52e1a4ec77f319375dfe2cf53f76a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f8d318c6c1f07342241bf71aab8fd8148e3a9d4
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801468"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086116"
 ---
 # <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Soovitatavad lahendused rakenduse Dynamics 365 salvestusruumiga seotud probleemidele
 
@@ -39,6 +39,6 @@ ms.locfileid: "47801468"
 
 * [Rakendus: Outlooki rakenduse D365 tõrkeotsing](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [Rakendus: juurutamine](https://go.microsoft.com/fwlink/p/?linkid=857071)
+* [Rakendus: juurutamine](https://go.microsoft.com/fwlink/p/?linkid=85)
 
 * [Rakendus: kasutusjuhend](https://go.microsoft.com/fwlink/p/?linkid=857091)

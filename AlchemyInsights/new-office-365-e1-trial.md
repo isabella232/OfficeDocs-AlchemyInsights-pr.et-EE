@@ -12,25 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769503"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086080"
 ---
 # <a name="new-office-365-e1-trial"></a>Uus Office 365 E1 prooviversioon
 
-2020. märtsil on nüüd saadaval tasuta 6-kuune [Office 365 E1 prooviversioon](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license)(sh Microsoft Teams). Lisateabe saamiseks selle kohta, mis on saadaval E1-litsentsiga, lugege teemat [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
-
-**Kellel on õigus?**
-
-See pakkumine on mõeldud Microsofti konto esindaja hallatavatele klientidele. See on mõeldud organisatsioonidele, kes pole varem ühtegi Office 365 E1 prooviversiooni aktiveerinud. Kui olete oma E1 prooviversiooni promo koodi kasutanud, ei saa te seda enam kasutada, samuti ei saa te teise E1 prooviversiooni aktiveerida. Sellistel juhtudel saate lasta töötajatel aktiveerida [teamsi uurimusliku litsentsi](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
-
-**Kes pole abikõlblikud?**
-
-- See pakkumine pole saadaval GCC, GCC High, DoD või EDU klientidele. Töötame välja E1 prooviversiooni – see on peagi saadaval.
-
- - EDU klientidele tuleks kasutada tasuta Office 365 a1 litsentsi.
-
-Ära jäta kõiki meie juhiseid, mis on mõeldud [Kaug-töötajate toetamiseks võistkondadega](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Alates 1. juulist 2020 pole Office 365 E1 prooviversiooni litsents enam saadaval. Kui teil on vaja litsentsida Microsoft Teamsi kasutajaid, lugege teemat Teamsi sisaldavate tasuliste tellimuste loendi [Microsoft teamsi teenuse kirjeldus](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) . Alternatiivina võivad abikõlblikud organisatsioonid kasutada [võistkondade tasuta versiooni](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)või töötajad saavad aktiveerida [meeskonnatöö uurimusliku](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) kogemuse.
