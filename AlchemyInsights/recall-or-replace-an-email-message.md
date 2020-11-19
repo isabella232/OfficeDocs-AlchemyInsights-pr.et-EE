@@ -14,18 +14,19 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799200"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353502"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Meilisõnumi tagasikutsumine või asendamine rakenduses Microsoft 365
 
-- Saate tagasi **kutsuda ainult teie asutuse inimestele saadetud sõnumeid**. Kui sõnum saadeti näiteks Gmaili aadressile, ei saa seda enam meelde tuletada.
-- Saate tagasi **kutsuda ainult Outlook 2016 arvutist saadetud sõnumeid**. Kui kasutaja saadab Outlook for Maci või Outlooki veebirakenduse kaudu sõnumi, ei saa seda enam meelde tuletada.
-- Kui olete administraator, saate **PowerShelli abil sõnumeid kasutajate nimel tagasi kutsuda**. Administreerimiskeskuse sõnumeid ei saa tagasi kutsuda. Lisateavet leiate jaotisest "oma asutuse meilisõnumite otsimine ja kustutamine".
+- Saate tagasi **kutsuda ainult teie asutuse inimestele saadetud sõnumeid**. Näiteks kui sõnum saadeti Gmaili aadressile, ei saa te seda meelde tuletada.
+- Saate tagasi **kutsuda ainult Outlooki arvutist saadetud sõnumeid**. Kui kasutaja saadab Outlook for Maci või Outlooki veebirakenduse kaudu sõnumi, ei saa seda enam meelde tuletada.
+- Rentniku administraatorina saate **kasutajate nimel sõnumeid tagasi kutsuda PowerShelli abil** (Lisateavet leiate teemast meilisõnumite [otsimine ja kustutamine](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)).
+- Administreerimiskeskuse sõnumeid ei saa tagasi kutsuda. Lisateavet leiate jaotisest "oma asutuse meilisõnumite otsimine ja kustutamine".
 
 **Saadetud meilisõnumi tagasivõtmine või asendamine**
 
@@ -38,9 +39,9 @@ ms.locfileid: "47799200"
 
 Lisateavet (sh tagasivõtmine) leiate teemast saadetud meilisõnumi [tagasikutsumine või asendamine](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Oma asutuse meilisõnumite otsimine ja kustutamine*** Oma asutuses meilisõnumite otsimiseks ja kustutamiseks on see lihtsaim viis, kui olete globaalne administraator. Kui te pole üldadministraator, peab teie konto olema lisatud e-juurdluse halduri rollirühma või vastavuse otsingu juhtimise rollile. Sõnumite kustutamiseks peate liituma organisatsiooni juhtimise rollirühma või otsingu ja likvideerimise rolliga. Nende rollide kasutusõigused määratakse [turbe & täitmise keskuses](https://protection.office.com/).
+**_Oma asutuses meilisõnumite otsimiseks ja kustutamiseks_** on see lihtsaim viis, kui olete globaalne administraator. Kui te pole üldadministraator, peab teie konto olema lisatud e-juurdluse halduri rollirühma või vastavuse otsingu juhtimise rollile. Sõnumite kustutamiseks peate liituma organisatsiooni juhtimise rollirühma või otsingu ja likvideerimise rolliga. Nende rollide kasutusõigused määratakse [turbe & täitmise keskuses](https://protection.office.com/).
 
 1. [Saate luua sisu otsimise](https://docs.microsoft.com/microsoft-365/compliance/content-search) , et leida sõnum, mille soovite kustutada.
-2. [Looge ühendus turbe & vastavuse keskusega PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+2. [Looge ühendus turbe & vastavuse keskusega PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell).
 
-Kui kasutate MFA, lugege teemat [ühenduse loomine Microsoft 365 turbe & nõuetele vastavuse keskus PowerShelli abil mitme teguriga autentimine](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Kui kasutate MFA-d (mitme teguriga autentimine), lugege teemat [ühenduse loomine Microsoft 365 turbe & nõuetele vastavuse keskus PowerShelli abil mitme teguriga autentimine](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).
