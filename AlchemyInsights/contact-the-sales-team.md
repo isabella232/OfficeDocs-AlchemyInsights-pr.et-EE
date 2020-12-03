@@ -5,24 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932059"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529014"
 ---
-# <a name="contact-the-sales-team"></a><span data-ttu-id="6c511-102">Võtke ühendust müügimeeskonnaga</span><span class="sxs-lookup"><span data-stu-id="6c511-102">Contact the Sales Team</span></span>
+# <a name="contact-the-sales-team"></a><span data-ttu-id="16dfa-102">Võtke ühendust müügimeeskonnaga</span><span class="sxs-lookup"><span data-stu-id="16dfa-102">Contact the Sales Team</span></span>
 
-<span data-ttu-id="6c511-103">Microsoft Graphi konnektoritega saab teie organisatsioon indekseerida muude tootjate andmeid, et need kuvataks Microsoft Searchi tulemites.</span><span class="sxs-lookup"><span data-stu-id="6c511-103">With Microsoft Graph connectors, your organization can index third-party data to appear in Microsoft Search results.</span></span>
+<span data-ttu-id="16dfa-103">Microsoft 365 müügimeeskonna poole pöördumiseks on mitu võimalust.</span><span class="sxs-lookup"><span data-stu-id="16dfa-103">There are a number of ways to contact the Microsoft 365 Sales Team.</span></span>
 
-- [<span data-ttu-id="6c511-104">Microsofti konnektorid</span><span class="sxs-lookup"><span data-stu-id="6c511-104">Connectors by Microsoft</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [<span data-ttu-id="6c511-105">Meie partnerite konnektorid</span><span class="sxs-lookup"><span data-stu-id="6c511-105">Connectors by our Partners</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-<span data-ttu-id="6c511-106">Lisateavet leiate teemast [Microsoft Graphi konnektorite ülevaade](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span><span class="sxs-lookup"><span data-stu-id="6c511-106">For more info, see [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span></span>
+- <span data-ttu-id="16dfa-104">Kasutage vormi [Kontaktteave](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) ja laske Microsoft 365 müügiasjatundjal endaga ühendust võtta.</span><span class="sxs-lookup"><span data-stu-id="16dfa-104">Use the  [Contact Us](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  form to have a Microsoft 365 sales expert contact you.</span></span>
+- <span data-ttu-id="16dfa-105">Enterprise Agreementi hulgilitsentsimise asjatundja poole pöördumiseks minge [hulgilitsentsimise teeninduskeskuse](https://go.microsoft.com/fwlink/p/?LinkId=329762) portaali.</span><span class="sxs-lookup"><span data-stu-id="16dfa-105">To contact an Enterprise Agreement Volume Licensing expert, start with the  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) portal.</span></span>
