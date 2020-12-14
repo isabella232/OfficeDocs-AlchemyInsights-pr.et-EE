@@ -14,25 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721442"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668510"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sisu otsingute ja e-juurdluse otsingute tegemine
 
-Exchange ' i postkastide, SharePointi saitide ja OneDrive ' i konto dokumentide ning Skype ' i ärirakenduse kiirsõnumside vestluste kiireks leidmiseks saate kasutada turbe & täitmise keskuses olevat sisu otsimise tööriista. Saate kasutada ka sisu otsimise tööriista, et otsida Microsoft 365 Collaboration Tools (nt Microsoft Teams ja Microsoft 365 groups) meilisõnumite, dokumentide ja kiirsõnumside vestluste otsimiseks.
-
-**Sisu otsingu sooritamine**
+**Sisu otsingu sooritamiseks tehke** järgmist.
 
 1. Avage [turbe & täitmise keskus](https://protection.office.com) ja logige sisse.
 2. Klõpsake nuppu **otsi > sisu otsing**.
 3. Uue otsingu loomiseks klõpsake nuppu **Uus otsing** .
-4. Sisestage nõutavad otsingukriteeriumid (sh märksõnad ja sisu asukohad).  
+4. Sisestage nõutavad otsingukriteeriumid (sh märksõnad ja sisu asukohad).
 5. Otsingule nime panemiseks klõpsake nuppu **salvesta & Käivita** , käivitage see ja seejärel vaadake tulemid üle.
+
+> [!NOTE]
+> Valige **M365 vastavuse keskuses** jaotises **lahendused** valik Laienda e- **juurdlust** ja valige soovitud e-juurdluse tööriist.
 
 Üksikasjalikke juhiseid sisu otsimise, tulemuste eksportimise ja e-juurdluse kohta andmete hoidmiseks leiate teemast [sisu otsimine](https://docs.microsoft.com/microsoft-365/compliance/content-search) ja e- [juurdluse juhtumid](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Lisateavet sisu otsimise kohta leiate teemast [nõuded ja limiidid](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) ning  [osaliselt indekseeritud üksuste](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) ja muude tulemuste uurimine.
+**Lisateave**:
+
+- Microsoft 365 e-juurdluse tööriistade kohta leiate lisateavet teemast e- [juurdlus](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Siit leiate teavet selle kohta, millised on vajalikud permissions, nõuded ja limiidid [e-](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)juurdluse teostamiseks e [-juurdluse](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) otsingutes,
+- Kui teil on probleeme e-juurdlusega, lugege teemat e [-juurdluse tõrkeotsing levinud probleemidele](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) ja [osaliselt indekseeritud üksuste uurimine](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
