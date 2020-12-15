@@ -1,0 +1,27 @@
+---
+title: Välised kasutajad saavad saidi avamisel õiguse tõrkeid
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 12/08/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9000191"
+- "7521"
+ms.openlocfilehash: f6211b4bb295e87cbdf0441491d87cf0081d6342
+ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.translationtype: MT
+ms.contentlocale: et-EE
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49677279"
+---
+# <a name="external-users-receive-permission-errors-when-accessing-a-site"></a><span data-ttu-id="09a9f-102">Välised kasutajad saavad saidi avamisel õiguse tõrkeid</span><span class="sxs-lookup"><span data-stu-id="09a9f-102">External users receive permission errors when accessing a site</span></span>
+
+<span data-ttu-id="09a9f-103">Ühiskasutuse ajal saab tõrketeateid kuvada mitmel korral.</span><span class="sxs-lookup"><span data-stu-id="09a9f-103">There are many scenarios which can prompt error messages while sharing.</span></span> 
+
+<span data-ttu-id="09a9f-104">Lisateavet leiate artiklist [SharePoint Online ' i või OneDrive ' i avamisel õiguste tõrked](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span><span class="sxs-lookup"><span data-stu-id="09a9f-104">For more information, see [Permission errors while accessing SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
