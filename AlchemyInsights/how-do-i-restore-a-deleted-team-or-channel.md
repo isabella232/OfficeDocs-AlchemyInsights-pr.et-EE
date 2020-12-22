@@ -1,5 +1,5 @@
 ---
-title: Kustutatud eeam või-kanali taastamine
+title: Kustutatud töörühma või kanali taastamine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705007"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726411"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Kustutatud töörühma või kanali taastamine
-
-Lisateavet leiate teemast [Kustutatud töörühma taastamine Microsoft teamsi](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
 
 Meeskonna kustutatud kanaleid saab taastada kuni 21 päeva jooksul pärast kanali kustutamist.
 
 Kustutatud kanali taastamiseks saab meeskonna omanik teha järgmist.
 
 1. Avage töörühma sätted, valides meeskonna nimest paremal 3 punkti.
-2. Valige käsk **Halda meeskonnatöö**  >  **kanaleid**  >  **Deleted**ja seejärel valige paremal nupp **Taasta** .
+2. Valige käsk **Halda meeskonnatöö**  >  **kanaleid**  >  ja seejärel valige paremal nupp **Taasta** .
 
-Lisateavet leiate teemast [Kustutatud töörühma taastamine Microsoft teamsi](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Lisateavet meeskonna taastamise kohta leiate teemast [töörühma arhiivimine või kustutamine Microsoft teamsi-Microsoft Teams | Microsoft docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
