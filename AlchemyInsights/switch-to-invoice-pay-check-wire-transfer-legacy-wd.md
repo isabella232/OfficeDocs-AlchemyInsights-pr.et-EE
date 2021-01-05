@@ -1,5 +1,5 @@
 ---
-title: Arve Pay (tšekk/pangaülekanne) aktiveerimine – pärand WD
+title: Makse vahetamine arve alusel (tšekk/pangaülekanne)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726099"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755399"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Arve Pay (tšekk/pangaülekanne) aktiveerimine – pärand WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Makse vahetamine arve alusel (tšekk/pangaülekanne)
+
+Teie probleemi kirjelduse põhjal oleme leidnud teile lahenduse. Enamik kliente suutsid oma probleemi lahendada pärast meie dokumentide järgimist.
 
 Kui vahetate arve alusel tasu, tähendab see, et maksate arve 30 päeva jooksul alates arve kuupäevast. Kui soovite oma Azure ' i tellimuse eest arve alusel tasuda, esitage Azure ' i toe taotlus. Kui teie taotlus on heaks kiidetud, saate [Azure ' i portaalis](https://portal.azure.com/)vahetada arve tasu maksmise paketti.
 
@@ -39,7 +41,7 @@ Selleks tehke järgmist.
 2. Valige tellimus, mille soovite arveldamise eest vahetada. Valige **makseviisid**.
 3. Klõpsake käsuriba nuppu **maksa arve alusel** .
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
 - [Küsi/Laadi alla/Vaata oma Azure ' i arvelduse arve ja kasutusandmed](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Azure ' i arvete saatmine otse sisendkausta](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)

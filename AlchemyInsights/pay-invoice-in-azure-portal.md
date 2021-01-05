@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714761"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755615"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Arve maksmine Azure ' i portaalis – Soovitatavad juhised
+
+Teie probleemi kirjelduse põhjal oleme leidnud teile lahenduse. Enamik kliente suutsid oma probleemi lahendada pärast meie dokumentide järgimist.
 
 Azure ' i portaalis arvete maksmiseks peate olema arvelduse konto administraator. Arvelduse konto administraator on kasutaja, kes algselt registreerus Microsofti kliendi lepingu konto jaoks. 
 
 Arve maksmiseks Azure ' i portaalis tehke järgmist. 
 
 1. Logige sisse [Azure ' i portaali](https://portal.azure.com/).
-1. Otsige **kulude haldus + arveldus**.
+1. Otsige üksusest **Kuluhaldus ja arveldus**.
 1. Klõpsake vasakpoolsel paanil jaotises **Arveldamine** nuppu **arved**.
 1. Kui mõni teie arvetest on maksetähtaeg või tähtaeg, kuvatakse selle arve jaoks sinine **tasu kohe** . Klõpsake nuppu **maksa kohe**.
 1. Uues Blade ' is klõpsake olemasoleva krediitkaardi valimiseks nuppu **Vali makseviis** või Lisa uus.

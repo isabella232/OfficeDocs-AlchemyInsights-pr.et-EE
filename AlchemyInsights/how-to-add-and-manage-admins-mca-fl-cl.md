@@ -1,5 +1,5 @@
 ---
-title: Kuidas lisada ja hallata administraatoritele – MCA FL/CL
+title: Administraatorite lisamine ja haldamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692113"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755435"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Kuidas lisada ja hallata administraatoritele – MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Administraatorite lisamine ja haldamine
+
+Teie probleemi kirjelduse põhjal oleme leidnud teile lahenduse. Enamik kliente suutsid oma probleemi lahendada pärast meie dokumentide järgimist.
 
 Microsofti kliendi lepingu (MCA) arvelduse konto haldamiseks saate kasutada soovitud Accessi tasemega erinevaid rolle. Need rollid on lisaks sisseehitatud Azure ' i teenuste rollidele, mis aitavad teil oma ressursse juhtida.
 
@@ -32,7 +34,7 @@ Microsofti kliendi lepingu (MCA) arvelduse konto haldamiseks saate kasutada soov
 5. Kasutajale juurdepääsu andmiseks valige lehe ülaservas nupp **Lisa** . Valige ripploendis *roll* soovitud roll. Sisestage selle kasutaja meiliaadress, kellele soovite juurdepääsu anda. Rolli määramiseks valige **Salvesta** .
 6. Kasutaja juurdepääsu eemaldamiseks valige selle rollimäärangu kasutaja, mille soovite eemaldada. Valige **Eemalda**.
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
 - [Arvelduse rollide määratlused](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
 - [Arvelduse konto rollid ja ülesanded](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)

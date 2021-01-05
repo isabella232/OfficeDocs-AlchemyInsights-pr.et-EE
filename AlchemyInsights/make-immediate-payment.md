@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714734"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755795"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>Kohese makse tegemine soovitatavate toimingute tegemiseks
+
+Teie probleemi kirjelduse põhjal oleme leidnud teile lahenduse. Enamik kliente suutsid oma probleemi lahendada pärast meie dokumentide järgimist.
 
 Koheseks makseks veenduge, et see lahendaks möödunud tähtajaga saldod. Kui teie makset ei ole laekunud või kui me ei saa teie makset töödelda, võite saada meili või vaadata möödunud saldo teatiste teatist konto keskuses või Azure ' i portaalis. 
 

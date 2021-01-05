@@ -1,5 +1,5 @@
 ---
-title: Arve Pay (tšekk/pangaülekanne) aktiveerimine – kaasaegne CL
+title: Makse vahetamine arve alusel (check/Wire ülekanne)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706581"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755453"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Arve Pay (tšekk/pangaülekanne) aktiveerimine – kaasaegne CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Makse vahetamine arve alusel (check/Wire ülekanne)
+
+Teie probleemi kirjelduse põhjal oleme leidnud teile lahenduse. Enamik kliente suutsid oma probleemi lahendada pärast meie dokumentide järgimist.
 
 Kui vahetate arve alusel tasu, tähendab see, et maksate arve 30 päeva jooksul alates arve kuupäevast. Kui soovite oma Azure ' i tellimuse eest arve alusel tasuda, esitage Azure ' i toe taotlus. Kui teie taotlus on heaks kiidetud, saate Azure ' i portaalis vahetada arve tasu maksmise paketti.
 
@@ -40,7 +42,7 @@ Selleks tehke järgmist.
 4. Valige menüüs *arvelduse profiil* **makseviisid**.
 5. Valige bänner, mis ütleb, et teil on õigus maksta tšeki/pangaülekandega.
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
 - [Küsi/Laadi alla/Vaata oma Azure ' i arvelduse arve ja kasutusandmed](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Azure ' i arvete saatmine otse sisendkausta](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
