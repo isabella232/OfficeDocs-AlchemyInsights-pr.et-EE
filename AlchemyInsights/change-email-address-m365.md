@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 rühma meiliaadressi muutmine
+title: Microsoft 365 rühma või Microsoft Teamsi meiliaadressi muutmine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: f54ca5df09d0604f6d58c6c8a41dc907485e1f04
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
-ms.translationtype: MT
+ms.openlocfilehash: ff7abaf3d8e0ed977eba5712bdd19185738fa75c
+ms.sourcegitcommit: 8be59778b7d39213a27a471802eae7fc006eb1ff
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48461831"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49756553"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>Microsoft 365 rühma meiliaadressi muutmine
+# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>Microsoft 365 rühma või Microsoft Teamsi meiliaadressi muutmine
 
-Microsoft 365 rühma meiliaadressi saate muuta administreerimiskeskuse kaudu. Valige lihtsalt rühm ja valige @edit meiliaadress.
+Microsoft 365 rühma või Microsoft Teamsi meiliaadressi muutmiseks saate kasutada [Microsoft 365 halduskeskust](https://admin.microsoft.com/). Selleks valige rühm ja seejärel @redigeeri meiliaadressi.
 
-Microsoft 365 rühma esmase SMTP-aadressi muutmiseks saate kasutada ka järgmisi käske EKSO PowerShell.
+Microsoft 365 rühma või Teamsi peamise SMTP-aadressi muutmiseks saate kasutada ka järgmist EXO PowerShelli käsku:
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-Nt
+Näide:
 
-`et-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
+`Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
