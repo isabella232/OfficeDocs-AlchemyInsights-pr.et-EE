@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731235"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768813"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>BitLockeri krüptimise lubamine Intune ' i abil
 
@@ -30,10 +30,12 @@ Lisateavet BitLockeri probleemide tõrkeotsingu kohta leiate teemast [BitLockeri
  
 **KKK**
 
- K: millised Windows ' i versioonid toetavad seadme krüptimist lõpp-punkti kaitse poliitika abil?<br>
- V: Intune ' i lõpp-punkti kaitsepoliitika sätted rakendatakse [BITLOCKERI CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)-i kaudu. BitLockeri CSP ei toeta kõiki Windowsi väljaandeid ega väljaandeid. <br><br>
-      Praegu toetatakse järgmisi Windowsi väljaandeid: Enterprise, Education, Mobile, Mobile Enterprise ja Professional (järk 1809 ja uuem versioon).
- 
+K: millised Windows ' i versioonid toetavad seadme krüptimist lõpp-punkti kaitse poliitika abil?<br>
+V: Intune ' i lõpp-punkti kaitsepoliitika sätted rakendatakse [BITLOCKERI CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)-i kaudu. BitLockeri CSP ei toeta kõiki Windowsi väljaandeid ega väljaandeid. <br><br>
+
+K: Kuidas saab BitLockeri lubada seadmetes, nõudmata lõppkasutaja suhtlust?<br>
+V: seni, kuni vajalikud eeltingimused on täidetud, on võimalik, et BitLocker "Silent Encryption" saab Intune ' i kaudu lubada. Lugege seadme nõuete ja näitepoliitika sätete üksikasju, et lubada vaikiva krüptimise lubamine järgmises dokumendis. [lubage BitLockeri krüptimine vaikselt](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 K. Kui seade on BitLocker-iga juba krüptitud, kasutades krüptimise meetodi ja šifri tugevuse (XTS-AES-128) jaoks mõeldud OS-i vaikesätteid, siis käivitab uue sättega automaatselt draivi uuesti krüptimine.<br>
 Vastus. Ei. Uue šifri sätete rakendamiseks peab draiv esmalt dekrüptima.<br><br>
 **Märkus:** Kui seadmeid registreeritakse autopiloodiga, siis OOBE ajal ilmnev automaatne krüptimine ei käivitu enne, kui poliitika on hinnanud, mis võimaldab OPERATSIOONISÜSTEEMI vaikesätete asemel kasutada poliitikal põhinevaid sätteid.
