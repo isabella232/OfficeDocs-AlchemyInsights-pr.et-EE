@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713847"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875120"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Suhtluse vastavus Microsoft 365
 
@@ -42,3 +42,6 @@ Litsentsi nõuded: kasutajad, kellega suhtlemine on tagatud, peavad olema ühte 
 - Office 365 Enterprise E5 tellimus
 
 Kui teil pole ühtegi eespool sätestatust ja soovite proovida suhtluse vastavust, **[Registreeruge Office 365 Enterprise E5 prooviversiooni](https://go.microsoft.com/fwlink/p/?LinkID=698279)** kasutajaks.
+
+> [!NOTE]
+> Meilisõnumite täielikuks töötlemiseks poliitikas võib kuluda kuni 24 tundi. Microsoft Teamsi, Yammeri ja kolmanda osapoole platvormidel olevad teatised võivad poliitikas täielikuks töötlemiseks võtta kuni 48 tundi.
