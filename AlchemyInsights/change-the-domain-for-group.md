@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748240"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911763"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Microsoft 365 rühma domeeni muutmine
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Microsoft 365 rühma domeeni muutmine
 
 Kui soovite loomise ajal Microsoft 365 rühma domeeni muuta, järgige juhiseid [microsoft 365 rühmade loomisel kasutatava domeeni valimiseks](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
 
-Pärast seda, kui Microsoft 365 rühm on juba loodud, pole praegu enam võimalik domeeni muuta. Ainus võimalus on luua uus Microsoft 365 rühm ja kustutada vana vajadusel (täiendavaid meiliaadresse saab lisada [Exchange ' i administreerimiskeskuse](https://outlook.office365.com/ecp)kaudu.
+Olemasoleva Microsoft 365 rühma domeeni muutmiseks administraatorina saate liikuda Microsoft 365 halduskeskus https://admin.microsoft.com ja teha järgmisi toiminguid.
+
+- Vasakpoolses menüüs **rühmade** valimine
+- Otsige üles M365 rühm, mida soovite muuta, ja valige see ja seejärel klõpsake vahekaardil **üldist** nuppu **Redigeeri** jaotises **meiliaadressid** .
+- Nüüd saate muuta selle peamise meiliaadressi domeeni ja samuti saate lisada e-posti pseudonüüme.
+
+> [!IMPORTANT]
+> Regulaarne levirühmade ja meililoaga turberühma abil saate hallata vähem sätteid M365 halduskeskus, jaotis **rühmad** . Kui soovite hallata rohkem nende üksikasju, klõpsake menüü **sätted** , kui redigeerite ühte neist M365 administreerimiskeskuses, ja valige suvand **Halda rohkem sätteid Exchange ' i administreerimiskeskuses** .
