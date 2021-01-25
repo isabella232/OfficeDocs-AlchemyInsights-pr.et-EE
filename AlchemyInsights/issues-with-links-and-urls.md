@@ -1,0 +1,57 @@
+---
+title: Linkide ja URL-ide probleemid
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 01/15/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "7720"
+- "9004329"
+ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
+ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.translationtype: MT
+ms.contentlocale: et-EE
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49974303"
+---
+# <a name="issues-with-links-and-urls"></a><span data-ttu-id="db589-102">Linkide ja URL-ide probleemid</span><span class="sxs-lookup"><span data-stu-id="db589-102">Issues with links and URLs</span></span>
+
+<span data-ttu-id="db589-103">Suuna URI/vasta URL-id (mõlemad avaldised on omavahel asendatavad) on URL-id, mida kasutab Microsoft Identity Platform, et tagastada rakenduse taotletud märgid.</span><span class="sxs-lookup"><span data-stu-id="db589-103">Redirect URI/reply URLs (both expressions are interchangeable) are the URLs used by the Microsoft identity platform to return app-requested tokens.</span></span> <span data-ttu-id="db589-104">Lisateavet nende URL-ide kohta leiate järgmistest artiklitest.</span><span class="sxs-lookup"><span data-stu-id="db589-104">For information on these URLs, see the following articles:</span></span>
+
+- <span data-ttu-id="db589-105">[Autentimise vood ja rakenduse stsenaariumid](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – teave ümbersuunamise URI kohta **rakenduse registreerimise** lehel iga stsenaariumi korral.</span><span class="sxs-lookup"><span data-stu-id="db589-105">[Authentication flows and application scenarios](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) - Information about the redirect URIs in the **App registration** page for each scenario.</span></span>
+- [<span data-ttu-id="db589-106">URI/vasta URL-ide ja piirangute ümbersuunamine</span><span class="sxs-lookup"><span data-stu-id="db589-106">Redirect URI/reply URL restrictions and limitations</span></span>](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
+
+<span data-ttu-id="db589-107">**Ma ei tea, kuidas registreerida õige ümbersuunamise URI/vastuse URL minu rakenduse jaoks**</span><span class="sxs-lookup"><span data-stu-id="db589-107">**I don't know how to register the right redirect URI / reply URL for my app**</span></span>
+
+<span data-ttu-id="db589-108">Kui logite sisse rakendusega, mida arendate, kui sisselogimise dialoogiboks kuvab **AADSTS50011: taotluses määratud vastuse URL ei vasta rakenduse <your app ID> jaoks konfigureeritud vastamise** URL-idele, peate lisama oma rakenduse registrisse, ümbersuunamise URI, mida kasutati Microsofti identiteedi platvormile sümboolne taotlus.</span><span class="sxs-lookup"><span data-stu-id="db589-108">When you sign in with the application you are developing, if the sign-in dialog displays **AADSTS50011: The reply url specified in the request does not match the reply urls configured for the application <your app ID>**, you'll need to add to your application registration, the redirect URI that your code used in the token request to the Microsoft identity platform.</span></span>
+
+<span data-ttu-id="db589-109">Vastuse URL-i lisamiseks avage Azure ' i portaalis **rakenduse registreerimise** lehe vahekaart **autentimine** ja lisage kirje jaotise **ümbersuunamine URI** .</span><span class="sxs-lookup"><span data-stu-id="db589-109">To add a reply URL, go to the **Authentication** tab in your **application registration** page in the Azure portal and add an entry in the **Redirect URIs** section.</span></span> <span data-ttu-id="db589-110">URI ümbersuunamine on tipitud (veeb või mobiil/töölaud).</span><span class="sxs-lookup"><span data-stu-id="db589-110">Redirect URIs are typed (Web or mobile/desktop).</span></span> <span data-ttu-id="db589-111">Sisestatav väärtus sõltub sellest, millist tüüpi rakendust te ehitate, nagu on kirjeldatud allpool.</span><span class="sxs-lookup"><span data-stu-id="db589-111">The value you need to enter depends on the type of application you're building, as described below:</span></span>
+
+- <span data-ttu-id="db589-112">Ühe lehe rakenduste ja veebirakenduste jaoks on vastuse URL teie rakenduse URL.</span><span class="sxs-lookup"><span data-stu-id="db589-112">For single-page applications and web apps, the reply URL is a URL in your application.</span></span> <span data-ttu-id="db589-113">Lisateavet leiate teemast [ühe lehekülje registreerimine](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) või [veebirakenduse rakenduse registreerimine Azure ' i portaali kaudu](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)</span><span class="sxs-lookup"><span data-stu-id="db589-113">See [Single-page application registration](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) or [Register a web app app using Azure portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)</span></span>
+- <span data-ttu-id="db589-114">Töölaua rakenduste jaoks sõltub väärtus, mida peate valima.</span><span class="sxs-lookup"><span data-stu-id="db589-114">For desktop apps, the value that you need to choose depends on:</span></span>
+    - <span data-ttu-id="db589-115">platvorm (MacOS erineb Windowsi või Linuxi hulgast)</span><span class="sxs-lookup"><span data-stu-id="db589-115">the platform (MacOS is different from Windows or Linux)</span></span>
+    - <span data-ttu-id="db589-116">viis, kuidas te omandate tõendi (interaktiivselt, koos seadme koodi voo, Windowsi integreeritud autentimisega [IWA] või kasutajanime/parooliga).</span><span class="sxs-lookup"><span data-stu-id="db589-116">the way you acquire the token (interactively, with device code flow, with Integrated Windows Authentication [IWA] or with username/password).</span></span>
+    <span data-ttu-id="db589-117">Lisateavet leiate teemast [töölaua rakendused – rakenduse registreerimine – ümbersuunamise URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)</span><span class="sxs-lookup"><span data-stu-id="db589-117">For details, see [Desktop apps - App registration - Redirect URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)</span></span>
+- <span data-ttu-id="db589-118">Mobiilsete rakenduste korral sõltub ümbersuunamise URI järgmistest teemadest:</span><span class="sxs-lookup"><span data-stu-id="db589-118">For mobile applications, the redirect URI depends on:</span></span>
+    - <span data-ttu-id="db589-119">platvorm (iOS/Android/UWP)</span><span class="sxs-lookup"><span data-stu-id="db589-119">the platform (iOS/Android/UWP)</span></span>
+    - <span data-ttu-id="db589-120">teave, mida kasutatakse rakenduse koostamiseks (nt iOS-i komplekt-ID), ja Androidi Azure ' i portaali rakenduse registreerimise paketi nimi ja allkiri räsi.</span><span class="sxs-lookup"><span data-stu-id="db589-120">the information used to build your app, such as the bundle ID in iOS, and the package name and signature hash on Android The Azure portal app registration will help you.</span></span> <span data-ttu-id="db589-121">Lisateavet leiate teemast [platvormi konfigureerimine ja ümbersuunamine URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).</span><span class="sxs-lookup"><span data-stu-id="db589-121">For details, see [Platform configuration and redirect URIs](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="db589-122">Veebirakendusliidesed ja mõned märkide hankimiseks ette nähtud vaikivad viisid (IWA ja username/Password) ei nõua ümbersuunamise URI-d.</span><span class="sxs-lookup"><span data-stu-id="db589-122">Web APIs and some of the silent ways of acquiring tokens (IWA and username/password) don't require a redirect URI.</span></span>
+
+<span data-ttu-id="db589-123">**Olen juurutanud oma veebirakenduse ja kui katsetan juurutatud rakendust, saan vastuse URL-i mittevastavuse sõnumile**</span><span class="sxs-lookup"><span data-stu-id="db589-123">**I've deployed my web application and when I test the deployed app, I get a reply url mismatch message**</span></span>
+
+<span data-ttu-id="db589-124">Lisage ümbersuunamise URI kõigi asukohtade jaoks, kus soovite oma veebirakendust kasutada.</span><span class="sxs-lookup"><span data-stu-id="db589-124">Add redirect URIs for all the locations at which you are deploying your web application.</span></span> <span data-ttu-id="db589-125">Lisateavet leiate teemast [veebirakenduse rakenduse registreerimine Azure ' i portaali kaudu](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).</span><span class="sxs-lookup"><span data-stu-id="db589-125">For more information, see [Register a web app app using Azure portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="db589-126">Lisa ümbersuunamise URI kohale kohe pärast seda, kui olete rakenduse juurutanud selles asukohas.</span><span class="sxs-lookup"><span data-stu-id="db589-126">Add redirect URI for a location immediately after you have deployed the application at that location.</span></span>
+
+<span data-ttu-id="db589-127">**Ma ei saa registreerida piisavalt vastatud URL-e**</span><span class="sxs-lookup"><span data-stu-id="db589-127">**I can't register enough reply URLs**</span></span>
+
+<span data-ttu-id="db589-128">Sa oled ISV ja sul on üks või mitu ümbersuunamise URI iga sinu kliendi jaoks.</span><span class="sxs-lookup"><span data-stu-id="db589-128">You're an ISV and have one or several redirect URIs for every customer of yours.</span></span> <span data-ttu-id="db589-129">Soovite migreerida ADAL/Azure AD v 1.0 MSAL/Microsoft Identity platvormile ja vajutate [maksimaalset arvu ümbersuunamise URI](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris).</span><span class="sxs-lookup"><span data-stu-id="db589-129">You want to migrate from ADAL/Azure AD v1.0 to MSAL/the Microsoft identity platform and you hit the [maximum number of redirect URIs](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris).</span></span> <span data-ttu-id="db589-130">Selle probleemi lahendamiseks lisage igale kliendile vastavale [teenusele ümbersuunamise URI](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) .</span><span class="sxs-lookup"><span data-stu-id="db589-130">To resolve this, [add redirect URIs to service principals](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) that correspond to each of your customers.</span></span>
