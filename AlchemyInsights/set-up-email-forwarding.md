@@ -13,16 +13,16 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
+ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49847596"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50037181"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Postkasti meilisõnumite edasisaatmise sätete kontrollimine
 
-Esiteks peab meilide edasisaatmine olema lubatud rentniku tasandil. Kui olete postkastis meilisõnumite edasisaatmise häälestanud, kuid see ei tööta, lugege teemat [väliste meilisõnumite automaatse edasisaatmise reguleerimine rakenduses Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+Esiteks peab meilide edasisaatmine olema lubatud rentniku tasandil. Kui olete postkastis häälestanud meilisõnumite edasisaatmise, kuid see ei tööta (kuvatakse tõrketeade **"550 5.7.520 juurdepääs on keelatud, ei luba teie ettevõte välisedasisaatmist"**) Palun vaadake teemat [Automaatne väliste meilisõnumite edasisaatmine Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
 
 Postkasti meilisõnumite edasisaatmise sätteid on lihtne kinnitada. Lihtsalt järgige neid juhiseid.
   
