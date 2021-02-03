@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560436"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093351"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Parooli tagasikirjutamise lubamine Azure AD Connectis
 
@@ -43,4 +43,4 @@ Kui parooli tagasikirjutamine on Azure AD Connectis lubatud, konfigureerige Azur
 Lisateavet leiate artiklist [Kuidas lubada Azure Active Directoryil iseteeninduslikku paroolilähtestuse tagasikirjutamist kohapealsesse keskkonda](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Kui administraator lähtestab Azure’i portaalis kasutaja parooli ja see on väliskasutaja või parool räsisünkroonitud, kirjutatakse parool tagasi kohapealsesse keskkonda. Seda funktsiooni ei toetata praegu Office’i haldusportaalis.
+>  Kui administraator lähtestab Azure’i portaalis kasutaja parooli ja see on väliskasutaja või parool räsisünkroonitud, kirjutatakse parool tagasi kohapealsesse keskkonda. See funktsioon nõuab Azure’i Premium-litsentsi (P1 või P2) ja hetkel pole see Office’i haldusportaalis toetatud.

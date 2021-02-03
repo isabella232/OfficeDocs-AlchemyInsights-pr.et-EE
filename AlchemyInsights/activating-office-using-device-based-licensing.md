@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697877"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094033"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>Office ' i aktiveerimine seadmel põhineva litsentsimise abil
 
-> [!NOTE]
-> Office ' i [seadmel põhinev aktiveerimine](https://aka.ms/officedba) USA Educationi klientidele on nüüd aegunud. Soovitame organisatsioonidel kavandada uusi Microsoft 365 rakendusi haridusasutustele (Device) for Educationi klientidele.
+Microsoft 365 rakenduste jaoks mõeldud seadmetel põhinev litsents on saadaval ainult mõnele ärikliendile ja haridusasutustele mõeldud klientidele. Üksikasjalikku teavet leiate teemast [seadmel põhinev litsentsimine Microsoft 365 suurettevõtetele mõeldud rakenduste](https://docs.microsoft.com/deployoffice/device-based-licensing) jaoks.
 
-Office ' i aktiveerimiseks seadmel põhinevate litsentside abil peavad teil olema Microsoft 365 rakendused haridusasutustele (seadme) lisandmooduli litsentsile, mis on saadaval ainult haridusasutuste jaoks ja on saadaval ainult hariduse lahenduste (EES) liitumise kaudu. Lisateavet leiate artiklist [seadmel põhinevate litsentside kasutamine Enterprise ' i jaoks mõeldud Microsoft 365 rakenduste jaoks](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Kui soovite aktiveerida rakenduse Microsoft 365 Enterprise for Enterprise, kasutades seadmel põhinevat litsentsi, lugege järgmist:
 
-
-Üksikasjalikku teavet häälestamise kohta leiate järgmistest teemadest.
-
+- [Office ' i jaoks mõeldud Microsoft 365 rakenduste seadmel põhineva litsentsimise kasutamise nõuded](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - [Juhised Office ' i jaoks mõeldud Microsoft 365 rakenduste jaoks seadmel põhineva litsentsi konfigureerimiseks](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Seadmete litsentside haldamine](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-Tõrkeotsingu juhised leiate teemast Office ' i [jaoks mõeldud Microsoft 365 rakenduste jaoks mõeldud Office ' i litsentside tõrkeotsing](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Tõrkeotsingu juhised leiate teemast Office ' i [jaoks mõeldud Microsoft 365 rakenduste jaoks seadmel põhineva litsentsimise tõrkeotsing.](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+> [!NOTE]
+> Kui Microsoft 365 apps on juba installitud ja aktiveeritud kasutaja-põhise tellimuse litsentsimise või ühiskasutusega arvuti aktiveerimine, peate lähtestama litsentsi oleku seadmes enne, kui see üleminekut seadmele-põhise litsentsimine. Aktiveerimise oleku lähtestamiseks vaadake teemat [Microsoft 365 rakenduste lähtestamine Enterprise ' i aktiveerimise olekus](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
