@@ -1,5 +1,5 @@
 ---
-title: EWS-s ahendussätete muutmine
+title: EWS-i ahendussätete muutmine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -20,7 +20,7 @@ ms.contentlocale: et-EE
 ms.lasthandoff: 02/02/2021
 ms.locfileid: "50075893"
 ---
-# <a name="changing-ews-throttling-settings"></a>EWS-s ahendussätete muutmine
+# <a name="changing-ews-throttling-settings"></a>EWS-i ahendussätete muutmine
 
 Käivitage meie automaattest, mis lubab teil migreerimise ajaks muuta EWS-i ahenduspoliitikat. Võtke arvesse, et isegi pärast selle käitamist kehtib EWS-i importimiste kohta endiselt piirang 150 MB 5 minuti ja ühe postkasti kohta; migreerimise läbilaskekiiruste suurendamiseks migreerige ühekorraga suurem arv kasutajaid.
 
