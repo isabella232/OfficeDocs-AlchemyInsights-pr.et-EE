@@ -8,18 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681812"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152374"
 ---
 # <a name="change-payment-method"></a>Makseviisi muutmine
 
@@ -35,6 +34,6 @@ Saate makseviisi muuta **Microsoft 365 halduskeskus**.
 6. Sisestage väljale **makseviisi lisamine** konto teave ja seejärel valige **Salvesta**. Peate kasutama rentniku juures sama riigi makseviisi.
 7. Uus makseviis on ripploendist juba valitud. Valige käsk **Asenda**.
 
-Lisateavet leiate teemast [makseviiside haldamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Makseviiside lisamise, värskendamise, asendamise või kustutamise kohta leiate teavet teemast [makseviiside haldamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Lisateabe saamiseks selle kohta, kuidas krediitkaardiga maksta makseid arveldada, lugege teemat [krediitkaardi või pangakontoga arveldamise muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Makseviiside vahel vahetamise kohta leiate teavet teemast [tellimuse eest maksmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
