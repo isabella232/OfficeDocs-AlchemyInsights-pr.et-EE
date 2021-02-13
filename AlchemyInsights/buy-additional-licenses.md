@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307133"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232280"
 ---
 # <a name="buy-additional-licenses"></a>Täiendavate litsentside ostmine
 
-1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Otsige vahekaardil **tooted** üles tellimus, mille jaoks soovite litsentse osta või eemaldada. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **osta litsentse**.
-3. Kui soovite litsentside arvu vähendada, klõpsake paani **litsentside ostmine** ülaosas nuppu **Eemalda litsentsid**.
-4. Litsentside ostmiseks või eemaldamiseks märkige jaotises **Uus kogus** väljal **litsentside** koguarv selle tellimuse jaoks soovitud litsentside koguarv. Kui teil on näiteks 100 litsentsid ja soovite lisada veel 25, sisestage 125. Kui soovite eemaldada 25 litsentsi, sisestage 75.
-5. Valige **Salvesta**.
+**Vaadake videot** , mis näitab, kuidas seda teha: [litsentside ostmine](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-Lisateavet leiate teemast [litsentside ostmine Microsoft 365 for Businessi tellimuse](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)jaoks.
+1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Leidke vahekaardil **tooted** tellimus, mille jaoks soovite litsentse osta. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **osta litsentse**.
+3. Sisestage väljale **litsentside koguarv** väljale **Uus kogus** selle tellimuse jaoks soovitud litsentside koguarv. Kui teil on näiteks 100 litsentsid ja soovite lisada veel 25, sisestage 125.
+4. Valige **Salvesta**.
+
+Lisateavet leiate teemast [litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Lisaressursid**
 
