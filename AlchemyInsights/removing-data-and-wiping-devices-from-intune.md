@@ -1,36 +1,42 @@
 ---
-title: Andmete eemaldamine ja seadmete eemaldamine Intune kaudu
+title: Andmete eemaldamine ja seadmete tühjendamine Intune‘i kaudu
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: efaf111f694ab57d0435b141a6d4baad58658ed2
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
-ms.translationtype: MT
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439155"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416309"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a>Andmete eemaldamine ja seadmete eemaldamine Intune kaudu
+# <a name="removing-data-and-wiping-devices-from-intune"></a>Andmete eemaldamine ja seadmete tühjendamine Intune‘i kaudu
 
-Seade on kasutuselt kõrvaldatud ja seadme tühjendamiseks saab kasutada ettevõtte andmeid, mida hallatakse Intune abil või tehase lähtestamiseks ja seadme vaikesätetele tagastamiseks.
+Seadme kasutuselt kõrvaldamise ja seadme tühjendamise kaugtoimingutega saab eemaldada Intune‘i hallatavad ettevõtteandmed või lähtestada seadme vaikesätted.
 
-1. Logige sisse rakendusse Microsoft 365 Device Management ja valige **seadmed**  >  **kõigis seadmetes**.
-2. Valige seade, mille soovite kustutada.
-3. Valige eemaldatava kaugjuhtimispuldi tüüp. Pensionile kustutab ainult ettevõtte andmed, samal ajal kui täielikud salvrätikud taastavad seadme tehase seadetesse.
-4. Kinnitamiseks valige **Jah** . Kui pühkimine on lõpule jõudnud, kuvatakse seadme toimingu olekuks Ootel.</br>
-    Kui toiming on lõpule viidud, ei näe te hallatava seadme loendis enam mobiilsideseadmet.
+1. Logige sisse Microsoft 365 seadmehaldusesse ja valige **Seadmed** > **Kõik seadmed**.
+2. Valige seade, millest soovite sisu kustutada.
+3. Valige soovitud kaugkustutamise tüüp. Kasutuselt kõrvaldamise korral kustutatakse ainult asutuse teave; täielikul tühjendamisel taastatakse seadmes algsätted.
+4. Kinnitamiseks valige **Jah**. Kuni tühjenduse lõpulejõudmiseni kuvatakse seadme toimingu olekuna *Kasutuselt kõrvaldamise ootel*.
+    Pärast toimingu lõpulejõudmist ei kuvata seda nutiseadet enam hallatavate seadmete loendis.
 
-**Märkus** Ettevõtte andmeid ei saa eemaldada Azure AD-ga ühendatud seadmetest.
+> [!NOTE]
+> Ettevõtte andmeid ei saa eemaldada seadmetest, mis on liidetud Azure AD-ga. 
 
-Lisateavet selle kohta, kuidas eemaldada ja kustutada toiminguid, sealhulgas seda, mis jääb alles ja mis kustutatakse, leiate teemast [seadmete eemaldamine, kui kasutate seadme tühjendamise, pensionile jäämist või käsitsi registreerimise tühistamist](https://docs.microsoft.com/intune/devices-wipe).
+Kasutuselt kõrvaldamise ja tühjendamise toimingute täielikud üksikasjad (sh teabe selle kohta, mis hoitakse alles ja mis kustutatakse) leiate järgmisest dokumentatsioonist:
 
-Kui soovite kustutada kõik macOS-seadme andmed, lugege teemat [kõigi andmete kustutamine MacOS-seadmest](https://docs.microsoft.com/intune/device-erase).
+- [Seadmete eemaldamine tühjendamise, kasutuselt kõrvaldamise või registrist käsitsi kustutamisega](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
+- [Ainult ettevõtteandmete kustutamine Intune‘i hallatavatest rakendustest](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Kõigi andmete kustutamine macOS-i seadmest](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).
