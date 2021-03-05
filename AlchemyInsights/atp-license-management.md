@@ -1,5 +1,5 @@
 ---
-title: Täiustatud ohtude kaitse litsentside haldus
+title: Microsoft Defenderi kasutamine Office 365 litsentsi haldamiseks
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+- commerce
+ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287098"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468979"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Täiustatud ohtude kaitse litsentside haldus
+# <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defenderi kasutamine Office 365 litsentsi haldamiseks
 
-Office 365 Advance Thread Protection (ATP) litsentside haldamine saab lõpule viia  **Microsoft 365 halduskeskus**.
+Microsoft Defenderi for Office 365 litsentside haldust saab täita  **microsoft 365 halduskeskus**.
 
-- Office 365 eelnevalt ohustatud kaitse ostmiseks tehke järgmist.
+- Office 365 Microsoft Defenderi ostmiseks tehke järgmist.
     1. Avage **arvelduste**  >  [ostmise teenused](https://go.microsoft.com/fwlink/p/?linkid=868433).
     2. Valige lehe allservas **lisandmoodulid**.
-    3. Valige lehel **Purchase Services (Purchase Services** ) täpsema ohu kaitse leping, mida soovite osta, sisestage litsentsi vajavate kasutajate arv ja seejärel valige **Mölli kohe välja**. Lisateavet leiate teemast [lisandmooduli ostmine](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
-- Office 365 Advance Thread Protection litsentside määramiseks avage **arvelduse**  >  **litsentsid**. Lisateavet leiate teemast [kasutajatele litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Litsentside lisamiseks või eemaldamiseks Office 365 eelnevalt ohustatud kaitsest avage oma toodete **Arveldamine**  >  **Your products**. Valige tellimus, mida soovite värskendada, ja seejärel valige **osta litsentse** või ***Eemalda litsentsid**. Lisateavet leiate teemast [tellimuse litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+    3. Valige lehel " **Purchase Services** " Microsoft Defender for Office 365 leping, mida soovite osta, sisestage litsentsi vajavate kasutajate arv ja seejärel valige **Mölli kohe välja**. Lisateavet leiate teemast [lisandmooduli ostmine](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Microsoft Defenderi määramiseks Office 365 litsentside jaoks Avage **arvelduse**  >  **litsentsid**. Lisateavet leiate teemast [kasutajatele litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Microsoft Defenderi for Office 365 litsentside lisamiseks või eemaldamiseks valige   >  **oma toodete** arveldamine. Valige tellimus, mida soovite värskendada, ja seejärel valige **osta litsentse** või **Eemalda litsentsid**. Lisateavet leiate teemast [tellimuse litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
