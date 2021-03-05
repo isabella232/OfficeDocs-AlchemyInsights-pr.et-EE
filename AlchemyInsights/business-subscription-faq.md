@@ -1,10 +1,11 @@
 ---
 title: Ettevõtteversiooni tellimuse KKK
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -19,23 +20,24 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
-ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
-ms.translationtype: MT
+- commerce
+ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45169704"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469002"
 ---
 # <a name="business-subscription-faq"></a>Ettevõtteversiooni tellimuse KKK
 
 - Microsoft 365 ettevõtteversiooni valikute vaatamiseks lugege teemat [Ettevõtte lepingute võrdlemine](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Lisateabe saamiseks võtke ühendust müügiosakonnaga 1 855 270 0615.
-- Lepingu **ostmiseks** avage **Arveldus > [Teenuste ostmine](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Valige leping ja kasutajate arv. Lisateavet leiate artiklist [Tellimuse ostmine](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- **Tellimuste vahetamiseks** vaadake teemat [Microsoft 365 ettevõtteversiooni lepingute käsitsi vahetamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- **Kasutajatele litsentside määramiseks** avage **Arveldus > [Litsentsid](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lisateavet leiate artiklist [Litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- **Litsentside lisamiseks/eemaldamiseks** avage **Arveldus > [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**, valige suvand **Litsentside lisamine/eemaldamine**. Lisateavet vaadake teemast [Litsentside lisamine/eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Litsentside **tühistamiseks** avage **Arveldus > [Toote ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**, valige **Sätted ja toimingud** ning klõpsake suvandit **Tühista tellimus**. Lisateavet vaadake artiklist [Tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Lepingu **ostmiseks** avage **Arveldus > [Teenuste ostmine](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Valige leping ja kasutajate arv. Lisateavet leiate artiklist [Mõne muu tellimuse ostmine](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- **Lepingu vahetamiseks** lugege artiklit [Üleminek mõnele muule lepingule](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Kasutajatele litsentside **määramiseks** valige **Arveldus > [Litsentsid](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lisateavet leiate artiklist [Litsentside määramine kasutajatele](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Litsentside **ostmiseks või eemaldamiseks** valige **Arveldus > [Teie tooted](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Lisateavet leiate artiklist [Litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Tellimuse **tühistamiseks** valige **Arveldus > [Teie tooted](https://go.microsoft.com/fwlink/p/?linkid=842054)**, valige tellimus ning seejärel valige jaotises **Tellimus ja maksesätted** käsk **Tühista tellimus**. Lisateavet vaadake artiklist [Tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Tellimuse **aktiveerimiseks** vaadake teemat [Oma tellimuse aktiveerimine](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- **Aegunud tellimuse uuesti aktiveerimiseks** vaadake teemat [Oma tellimuse uuesti aktiveerimine](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- **Prooviversiooni pikendamiseks** vaadake teemat [Prooviversiooni pikendamine](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Tellimuse **uuesti aktiveerimiseks** lugege artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Prooviversiooni **pikendamiseks** lugege artiklit [Prooviversiooni pikendamine](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Lisateavet leiate artiklist [Tellimuste litsentside haldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Lisateavet leiate artiklist [Litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

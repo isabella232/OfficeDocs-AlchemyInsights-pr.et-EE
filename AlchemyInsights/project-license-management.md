@@ -1,32 +1,34 @@
 ---
 title: Projecti litsentsihaldus
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+- commerce
+ms.openlocfilehash: 161587eef62804fbba258a443e745b2176b576f8
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512406"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468988"
 ---
 # <a name="project-license-management"></a>Projecti litsentsihaldus
 
 Projecti litsentsihalduse saab lõpule viia **Microsoft 365 halduskeskuses**.
 
-- [Võrrelge Projecti lepinguid](https://products.office.com/project/compare-microsoft-project-management-software?tab=1&OCID=AID2000748_SEM_5j2j5X4B&MarinID=5j2j5X4B%7C78821275986631%7C%2Bproject%20%2Bo365%7Cbb%7Cc%7C%7C1261139959949905%7Ckwd-78821311481635:loc-190&lnkd=Bing_O365SMB_App&msclkid=185eccc165db1d3da290924720afcaa4&ef_id=XoY8vgAAAUTu0Bj8:20200402200513:s), et saada teavet **Projecti lepingute 1, 3 ja 5** erinevustest.
-- Projecti **ostmiseks** avage **Arveldus > [Teenuste ostmine](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Kasutahe otsinguvälja Projecti otsimiseks, valige leping ja kasutajate arv. Lisateavet leiate artiklist [Tellimuse ostmine](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- **Tellimuste vahetamiseks** vaadake teemat [Microsoft 365 ettevõtteversiooni lepingute käsitsi vahetamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Projecti litsentside **määramiseks** avage **Arveldus > [Litsentsid](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lisateavet leiate artiklist [Litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Projecti litsentside **lisamiseks/eemaldamiseks** avage **Arveldus > [Teenuste ostmine](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Lisateavet leiate artiklist [Litsentside lisamine/eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Projecti litsentside **tühistamiseks** avage **Arveldus > [Toote ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054),** valige **Sätted ja toimingud** ning klõpsake suvandit **Tühista tellimus**. Lisateavet vaadake artiklist [Tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- [Võrrelge Projecti lepinguid](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software), et saada teavet **Projecti lepingute 1, 3 ja 5** erinevustest.
+- Projecti **ostmiseks** avage **Arveldus > [Teenuste ostmine](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Kasutahe otsinguvälja Projecti otsimiseks, valige leping ja kasutajate arv. Lisateavet leiate artiklist [Mõne muu tellimuse ostmine](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- **Lepingu vahetamiseks** lugege artiklit [Üleminek mõnele muule lepingule](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Kasutajatele Projecti litsentside **määramiseks** valige **Arveldus > [Litsentsid](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lisateavet leiate artiklist [Litsentside määramine kasutajatele](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Projecti litsentside **ostmiseks või eemaldamiseks** valige **Arveldus > [Teie tooted](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Lisateavet leiate artiklist [Litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
+- Projecti tellimuse **tühistamiseks** valige **Arveldus > [Teie tooted](https://go.microsoft.com/fwlink/p/?linkid=842054)**, valige tellimus ning seejärel valige jaotises **Tellimus ja maksesätted** käsk **Tühista tellimus**. Lisateavet leiate artiklist [Tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Lisateavet leiate artiklist [Tellimuste litsentside haldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Lisateavet leiate artiklist [Litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
