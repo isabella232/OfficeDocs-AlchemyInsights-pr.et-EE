@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-- commerce
-ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50470002"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50600982"
 ---
 # <a name="suspend-or-pause-licenses"></a>Litsentside peatamine või peatamine
 
@@ -32,4 +31,4 @@ Litsentsi ajutiselt peatamiseks või peatamiseks saate eemaldada Microsoft 365 a
 4. Valige lehel Tellimuse üksikasjad käsk **Eemalda litsentsid**.
 5. Sisestage paani **litsentside eemaldamine** väljale **litsentside** koguarv selle tellimuse jaoks soovitud litsentside koguarv ja seejärel valige **Salvesta**. Kui teil on näiteks 100 litsentsid ja soovite peatada või peatada 25, siis sisestage oma tellimuse litsentside kogusummana 75.
 
-Lisateavet leiate teemast [litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lisateavet leiate artiklist [Litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

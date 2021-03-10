@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-- commerce
-ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469802"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602108"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defenderi ostmine Office 365 jaoks
 
@@ -33,4 +32,4 @@ Microsoft Defender for Office 365 on kaasatud teatud pakettide (nt Microsoft 365
 
 Kasutajatele litsentside määramiseks lugege artiklit [litsentside määramine kasutajatele](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
-Litsentside ostmise või eemaldamise kohta leiate lisateavet teemast [litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Litsentside ostmiseks või eemaldamiseks lugege artiklit [Litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
