@@ -15,22 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728067"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641514"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Kustutatud postkasti taastamine
 
 Kui kasutaja kaotab Exchange Online ' i litsentsi, säilitatakse nende postkast 30 päeva ja seda saab taastada ainult kasutaja litsentsi uuesti määramisega.
   
- *See töötab vaid 30 päeva jooksul.*  
-  
 1. Avage Microsoft 365 halduskeskus lehel **kasutajate** \> **aktiivsed kasutajad** . Valige asjaomane kasutaja.
 
 2. Määrake vahekaardil **litsentsid ja rakendused** Exchange Online ' i litsents ja valige **Salvesta muudatused**.
 
-Kui proovite ühiskasutusega postkasti taastada, on see ka 30 päeva jooksul taastumas. Neid saate **otsida kasutajate** \> **Kustutatud kasutajate**vahel; ühiskasutatavad postkastid ei nõua litsentsi. Kui te mõistate, et peate kustutatud kasutaja taastama, lugege artiklit [kasutaja taastamine](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Kui proovite taastada ühiskasutusega postkasti või kustutatud kasutajat, saab selle taastada ka 30 päeva jooksul. Neid saate **otsida kasutajate** \> **Kustutatud kasutajate** vahel; ühiskasutatavad postkastid ei nõua litsentsi. Lugege artiklit [kasutaja taastamine](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+
+Kasutaja postkastist meilisõnumite tagasisaamist saab teha administraatoritele, minnes [uue Exchange ' i administreerimiskeskusesse](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353).
+
+Kui proovite passiivne postkast taastada, [järgige juhiseid siin](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).
   
