@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667838"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708346"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Office’i klientrakenduste installimine PC- või Mac-arvutisse
 
 Office’i klientrakenduste installimiseks veenduge, et teil on Office 365 või Microsoft 365 tellimus, mis [sisaldab Office’i klientrakendusi](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) (nt Microsoft 365 Business Standard, Microsoft 365 ettevõtterakendused või Microsoft 365 suurettevõtterakendused).
 
-**Märkus**: [Office Home and Business](https://products.office.com/home-and-business) on [kodukasutajatele mõeldud Office’i](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) toode ja mitte ärirakenduse osa. Project Online Essentials ei hõlma Projecti töölauaversiooni, mistõttu pole ka vaja midagi installida. Visio lepingu 1 kasutajad pääsevad Visiole juurde veebis, kuna leping ei sisalda Visio töölauarakendust. Projecti ja Visio töölauarakendused ei ole Mac-arvuti jaoks saadaval.
+**Märkus**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) on [kodukasutajatele mõeldud Office’i](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) toode ja mitte ärirakenduse osa. Project Online Essentials ei hõlma Projecti töölauaversiooni, mistõttu pole ka vaja midagi installida. Visio lepingu 1 kasutajad pääsevad Visiole juurde veebis, kuna leping ei sisalda Visio töölauarakendust. Projecti ja Visio töölauarakendused ei ole Mac-arvuti jaoks saadaval.
 
 Kui teil on tellimus, mis sisaldab Microsoft 365 rakendusi, siis te ei näe võimalust selle installimiseks, kui teil pole [määratud litsentsi](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Kui olete litsentside määramise eest vastutav Office 365 administraator, lugege artiklit [Litsentside määramine kasutajatele](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Lisaks saate kasutada [Office’i tarkvara allalaadimise sätteid](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365), et valida, kas kasutajad saavad Office’i rakendusi oma seadmesse installida.
 

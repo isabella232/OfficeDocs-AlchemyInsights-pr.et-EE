@@ -14,18 +14,18 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc2d8c874b1b8ef850deea6816835dbab237fbeb
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797760"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708238"
 ---
 # <a name="restore-deleted-files-or-folders-in-sharepoint"></a>Kustutatud failide või kaustade taastamine SharePointis
 
 Kui kustutate kogemata mõne faili või kausta SharePointis, saate selle hiljem prügikastist taastada.
 
-* [Kustutatud failide või kaustade taastamine SharePointis](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+* [Kustutatud failide või kaustade taastamine SharePointis](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 Kui palju teie SharePointi faile kustutatakse, kirjutatakse üle, rikutud või ründevaraga nakatatud, saate kogu SharePointi teegi taastada varasemal ajal.
 
