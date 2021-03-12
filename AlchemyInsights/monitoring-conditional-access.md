@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366424"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708670"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Exchange ' i tingimisi juurdepääsu jälgimine
 
@@ -27,7 +27,7 @@ Juurdepääsuõigusega kasutajatele antakse teatise meilisõnum, kui need ei vas
 - Azure ' i portaalis avage > seadme nõuetele vastavuse häälestamine. Klõpsake jaotises haldamine nuppu poliitikad. Veenduge, et nõuetele vastavuse poliitikate loendis oleks teie kasutaja seadmele määratud profiil. Kui profiili pole määratud, ei saa Intune kinnitada seadme nõuetele vastavuse olekut.
 - Kasutaja tingimusliku juurdepääsu määramise redigeerimine.
 
-1. Azure ' i portaalis Avage **Intune**  >  **tingimusjuurdepääsu**  >  **poliitikate**häälestamine.
+1. Azure ' i portaalis Avage   >  **tingimusjuurdepääsu**  >  **poliitikate** häälestamine.
 2. Valige loendist poliitika.
 3. Klõpsake nuppu kasutajad ja rühmad.
 4. Kellegile teatud poliitika suunamiseks lisage need loendisse kaasa. Kui soovite tagada, et isik on poliitikast välja jäetud, lisage need loendisse välista.
@@ -38,8 +38,8 @@ Kasulikud lingid:
 
 [Tõrkeotsing CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Tõrkeotsingu poliitika](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Tõrkeotsingu poliitika](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
 [Seadme nõuetele vastavuse jälgimine](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Märkus: need toimingud on abiks ainult Azure Active Directory tõrkeotsingul. Samuti on võimalik sulgeda seade, mis blokeerib juurdepääsu Exchange ' i poliitikaga. Lisateavet Exchange ' i seadmete halduse kohta leiate [siit](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>).
+Märkus: need toimingud on abiks ainult Azure Active Directory tõrkeotsingul. Samuti on võimalik sulgeda seade, mis blokeerib juurdepääsu Exchange ' i poliitikaga. Lisateavet Exchange ' i seadmete halduse kohta leiate [siit] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

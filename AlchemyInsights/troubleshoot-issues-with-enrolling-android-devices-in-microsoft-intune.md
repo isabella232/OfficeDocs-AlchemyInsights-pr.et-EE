@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689950"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708994"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Microsoft Intune ' i Androidi seadmete registreerimisega seotud probleemide tõrkeotsing
 
@@ -34,7 +34,7 @@ Levinud probleemid ja lahendamise juhised.
 
 2. Värskendage seadet Androidi 6,0 või uuema versiooniga.
 
-3. Keelake Samsung Smart Manager Intune ettevõtte portaali haldamisel. Vaadake üle [selle dokumendi](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) Lisateavet nende probleemide ja resolutsioonide kohta.
+3. Keelake Samsung Smart Manager Intune ettevõtte portaali haldamisel. Vaadake üle [selle dokumendi](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) Lisateavet nende probleemide ja resolutsioonide kohta.
 
  **Kasutaja litsentsi tüüp on vigane** või **kasutaja nimi pole tuvastanud tõrge:** kasutajale tuleb määrata Intune või EMS-i litsents. Vaadake need dokumendid üle, et määrata litsents: Office halduskeskus või Azure ' i portaal.
   
@@ -42,6 +42,6 @@ Probleemi lahendamiseks täiendavad ressursid.
   
 1. Saate kasutada [Intune tõrkeotsingu portaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) levinud liitumise tõrgete diagnoosimiseks ja lahendamiseks. Lisateabe saamiseks vaadake [seda dokumenti](https://docs.microsoft.com/intune/help-desk-operators) üle.
 
-2. Vaadake üle [see dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) levinud tõrgete loend, mis takistavad iga kasutaja registreerimist ja eraldusvõimet.
+2. Vaadake üle [see dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) levinud tõrgete loend, mis takistavad iga kasutaja registreerimist ja eraldusvõimet.
 
 3. [Siit saate teada, kuidas Microsoft Intune ' is Androidi seadmeid registreerida](https://docs.microsoft.com/intune/android-enroll).

@@ -15,28 +15,21 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 87a5cf1ac4dfb96a5406f6b1431adb6ead074fd6
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
+ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481393"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726523"
 ---
 # <a name="about-exchange-server-security-updates"></a>Teave Exchange Serveri turvavärskenduste kohta
 
 Microsoft on välja andnud Office ' i ärirakenduse Exchange Serveri kriitilised turvavärskendused. Mõjutatud serveri versioonid on Exchange Serveri 2010, 2013, 2016 ja 2019 värskenduste tasemed. Exchange Online ' i ei mõjutata, kuid kui teil on hübriid-konfiguratsiooni tõttu mõni asutusesisene Exchange ' i server, on need potentsiaalselt haavatavad.
 
-Kohapealsete serverite värskendamiseks peab töötama vähemalt järgmised Exchange ' i versioonid.
-
-- Exchange 2010 hoolduspakett 3
-- Exchange Server 2013 CU 23
-- Exchange Server 2016 CU 19 või CU 18
-- Exchange Server 2019 CU 8 või CU 7
-
 Siit leiate järgmised väljakuulutamise teadaanded: [välja antud: märts 2021 Exchange Serveri turvavärskendused](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
 
 **Olulised märkused.**
 
-Värskenduste installimine ei toimi, kui teie kohapealsetes serverites ei tööta nõutavad Exchange ' i versioonid, nagu ülaltoodud loendis.
-
 Kui installite värskendused käsitsi, lugege tähtsa teabe saamiseks jaotises "teadaolevad probleemid" värskenduse KB artiklite jaotist "teadaolevad probleemid". Turvavärskendused peavad kulgema kõrgendatud CMD/PowerShell Prompt!
+
+[Siit saate teada](https://aka.ms/exupdatefaq), kuidas värskendada tõrkeotsingu teavet.

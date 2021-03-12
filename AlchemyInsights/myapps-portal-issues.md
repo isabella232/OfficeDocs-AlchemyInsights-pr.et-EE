@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916847"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708562"
 ---
 # <a name="myapps-portal-issues"></a>MyApps portaaliga seotud probleemid
 
@@ -28,9 +28,9 @@ Tõrkeotsing probleemidele, mis ilmnevad minu rakenduste portaali sisselogimisel
 
 Juhised selle kohta, miks rakendused, mida ootate, ei kuvata rakenduse juurdepääsu paneelil, leiate järgmistest teemadest.
 
-- [Ma ei tea, miks määratud rakendust pole Accessi paanil näha](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Ma ei tea, miks määratud rakendust pole Accessi paanil näha](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Ma ei tea, miks rakendus Accessi paanil kuvatakse](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Ma ei tea, miks rakendus Accessi paanil kuvatakse](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **Mul on probleeme rakenduse juurdepääsu juhtpaneelile sisselogimisega**
 
