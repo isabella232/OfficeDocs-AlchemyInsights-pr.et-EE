@@ -1,0 +1,41 @@
+---
+title: Kasutaja loomine
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/11/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003231"
+- "9403"
+ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
+ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.translationtype: MT
+ms.contentlocale: et-EE
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50743950"
+---
+# <a name="create-user"></a><span data-ttu-id="a2bd7-102">Kasutaja loomine</span><span class="sxs-lookup"><span data-stu-id="a2bd7-102">Create user</span></span>
+
+<span data-ttu-id="a2bd7-103">**TEADAANNE**</span><span class="sxs-lookup"><span data-stu-id="a2bd7-103">**ANNOUNCEMENT:**</span></span>
+
+- <span data-ttu-id="a2bd7-104">[Google ' i WebView väljalogimine alates jaanuarist 4, 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) .</span><span class="sxs-lookup"><span data-stu-id="a2bd7-104">[Deprecation of WebView sign-in support from Google starting January 4, 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) .</span></span> <span data-ttu-id="a2bd7-105">Kontrollige, kas teie rakendused võivad mõjutada, järgides [Google ' i juhiseid](https://go.microsoft.com/fwlink/?linkid=2157323) ühilduvuse testimise kohta.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-105">Test whether your apps may be affected by following [Google’s guidance](https://go.microsoft.com/fwlink/?linkid=2157323) on testing compatibility.</span></span>
+- <span data-ttu-id="a2bd7-106">Veenduge, et kasutate oma kasutajatele Google ' i kontoga sisselogimisel süsteemi WebView või süsteemi brauserit.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-106">Make sure you use the system webview or system browser when signing in your users with consumer Google accounts.</span></span> <span data-ttu-id="a2bd7-107">Lisateavet leiate teemast [rakendusse (desse) sisselogimise probleemid, mis kasutavad ainult Chrome ' i brauserit](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).</span><span class="sxs-lookup"><span data-stu-id="a2bd7-107">For more information, see [Issues signing in to application(s) using Chrome browser only](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).</span></span>
+
+<span data-ttu-id="a2bd7-108">**Ma ei saa luua uut kasutajat Azure AD Directorys**</span><span class="sxs-lookup"><span data-stu-id="a2bd7-108">**I can't create a new user in my Azure AD directory**</span></span>
+
+1. <span data-ttu-id="a2bd7-109">Veenduge, et teil on õigus luua uus tavakasutaja.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-109">Ensure that you are authorized to create a new standard user.</span></span> <span data-ttu-id="a2bd7-110">Uue tavakasutaja saab luua ainult rakenduses Azure Active Directory (AD) ainult globaalne administraator või kasutaja administraatori roll.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-110">Only the Global administrator or User administrator role in Azure Active Directory (AD) can create a new standard user.</span></span> <span data-ttu-id="a2bd7-111">Kui te ei ole mõnes sellises rollis, paluge administraatoril lisada teid ühte neist rollidest või luua uus kasutajakonto.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-111">If you're not in one of these roles, ask an administrator to add you to one of these roles or to create the new user account for you.</span></span>
+1. <span data-ttu-id="a2bd7-112">Veenduge, et kasutajanimi oleks domeenis, mis on teie Azure AD-s kinnitatud.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-112">Ensure that the user name is in a domain that is verified in your Azure AD.</span></span> <span data-ttu-id="a2bd7-113">Kui teil pole Azure ' i REKLAAMIs kinnitatud kohandatud domeeninimesid, saate kasutada oma Azure AD algset domeeni, mis lõpeb \*. onmicrosoft.com.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-113">If you do not have any verified custom domain names in your Azure AD, you can use your Azure AD initial domain, which ends with \*.onmicrosoft.com.</span></span>
+1. <span data-ttu-id="a2bd7-114">Veenduge, et kasutajanimi oleks domeenis, mis pole ühendatud Azure AD-ga teie kohapealsest REKLAAMIst.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-114">Ensure that the user name is in a domain that is not federated to Azure AD from your on-premises AD.</span></span> <span data-ttu-id="a2bd7-115">Kasutajad ei saa pilve lisada kohapealsest välisest domeenist pärit domeeninimega.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-115">Users cannot be added in the cloud with domain names that are federated from on-premises.</span></span>
+1. <span data-ttu-id="a2bd7-116">Veenduge, et ühelgi teisel kasutajal või kontaktil pole juba kasutaja nime, mille soovite uuele kasutajale määrata.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-116">Ensure that no other user or contact already has the user name that you want to assign to the new user.</span></span> <span data-ttu-id="a2bd7-117">Kasutajanimed peavad olema kordumatud Azure ' i REKLAAMIs.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-117">User names must be unique across Azure AD.</span></span>
+1. <span data-ttu-id="a2bd7-118">Lugege Azure AD [rollide ja administraatorite](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-118">See [Azure AD roles and administrators](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) for your Azure AD.</span></span>
+1. <span data-ttu-id="a2bd7-119">Vaadake oma Azure AD [domeeninimesid](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) .</span><span class="sxs-lookup"><span data-stu-id="a2bd7-119">See the [domain names](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) for your Azure AD.</span></span>
+1. <span data-ttu-id="a2bd7-120">Vaadake üle [auditi logid](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) , et näha täpsemat teavet hiljuti loodud või kustutatud kasutaja kohta, kes on toimingu sooritanud ja millal.</span><span class="sxs-lookup"><span data-stu-id="a2bd7-120">Review [Audit logs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) to see more detailed information about a recently created or deleted user like who performed the action and when.</span></span>
+1. <span data-ttu-id="a2bd7-121">Uute kasutajate lisamise kohta leiate lisateavet artiklist Azure ' i [reklaamis uue kasutaja loomiseks Azure ' i portaali kasutamine](/azure/active-directory/active-directory-users-create-azure-portal).</span><span class="sxs-lookup"><span data-stu-id="a2bd7-121">For more information on adding new users, see [Use the Azure portal to create a new user in your Azure AD](/azure/active-directory/active-directory-users-create-azure-portal).</span></span>
+1. <span data-ttu-id="a2bd7-122">[AZURE ad administratiivsed rollid](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): administraatori rolli õigused Azure Active Directorys</span><span class="sxs-lookup"><span data-stu-id="a2bd7-122">[Azure AD administrative roles](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): Administrator role permissions in Azure Active Directory</span></span>
+1. <span data-ttu-id="a2bd7-123">[Uue kasutaja loomiseks saate kasutada ka rakendust AZURE ad PowerShell](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).</span><span class="sxs-lookup"><span data-stu-id="a2bd7-123">You can also [use Azure AD PowerShell to create a new user](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).</span></span>
