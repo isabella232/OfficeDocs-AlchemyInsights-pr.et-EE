@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715161"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707230"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Automaatselt Rakenda tundlikkuse Sildid
 
@@ -37,4 +37,4 @@ Praegu toetab ainult Windows ühtset silti klienti.  See funktsioon pole veel Ma
 Lisateavet tundlikkuse siltide ja nende sisu automaatse rakendamise kohta leiate järgmistest teemadest.
 
 - [Tundlikkuse siltide ülevaade](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Automaatselt sisule tundlikkuse sildi rakendamine](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Automaatselt sisule tundlikkuse sildi rakendamine](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
