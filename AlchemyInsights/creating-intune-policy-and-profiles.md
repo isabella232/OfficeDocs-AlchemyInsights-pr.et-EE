@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746755"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704638"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Intune poliitika ja profiilide loomine
 
@@ -43,4 +43,4 @@ Kasulikud lingid:
 
 - [Levinumad küsimused, probleemid ja resolutsioonid seadme poliitikate ja profiilidega Intune ' is](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Poliitikate ja profiilide tõrkeotsing Intune ' is](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Poliitikate ja profiilide tõrkeotsing Intune ' is](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

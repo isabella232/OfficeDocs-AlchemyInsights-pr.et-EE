@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687790"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704746"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Kasutajate lisamine, eemaldamine või takistamine profiili fotode muutmisel
 
@@ -25,6 +25,6 @@ ms.locfileid: "47687790"
 
 - **Profiili fotode eemaldamine.** Profiili fotod saab eemaldada administraator [Azure Active Directory kasutaja haldus](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) või kasutaja Microsoft teamsi kasutajaprofiili.
 
-- **Profiili foto blokeerimine:** Foto muudatusi saab blokeerida kogu Microsoft 365 *, lisades Outlook Web Appi poliitika artikli kohta, [lukustades fotod või piirates microsoft 365 profiili foto muutmise õigust](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Profiili foto blokeerimine:** Foto muudatusi saab blokeerida kogu Microsoft 365 *, lisades Outlook Web Appi poliitika artikli kohta, [lukustades fotod või piirates microsoft 365 profiili foto muutmise õigust](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-* Pange tähele, et Microsoft Teamsi ei toeta praegu Outlook Web Appi poliitikat, et blokeerida foto muutusi, kuid plaanib selle funktsiooni toe lisada varajases 2020.
+* Microsoft Teamsi ei toeta praegu Outlook Web Appi poliitikat foto muudatuste blokeerimiseks, kuid plaanib selle funktsiooni toe lisada varajases 2020.
