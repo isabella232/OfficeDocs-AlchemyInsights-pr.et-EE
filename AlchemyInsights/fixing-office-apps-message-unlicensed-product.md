@@ -1,36 +1,39 @@
 ---
-title: Office ' it ei saa aktiveerida
+title: Office‘t ei saa aktiveerida
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 875026fe11d3745b587131cf0dd40a28fa005dc5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: MT
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580149"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704926"
 ---
-# <a name="unable-to-activate-office"></a>Office ' it ei saa aktiveerida
+# <a name="unable-to-activate-office"></a>Office‘t ei saa aktiveerida
 
 - Kontrollige, kas teie tellimuse olek on aegunud.
-- Veenduge, et teil on tellimus, mis võimaldab kliendi litsentsid, näiteks Office 365 Business või Business Premium ja [veenduge, et kasutajal on määratud litsents](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Veenduge, et teil on tellimus, mis võimaldab kliendilitsentse (nt Office 365 Business või Business Premium) ning et [kasutajal on määratud litsents](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Veenduge, et kasutaja oleks Office’isse sisse logitud sama kontoga, millele on määratud litsents.
 - Vaadake [Office 365 teenuste seisundi lehelt](https://docs.microsoft.com/office365/enterprise/view-service-health) järele, kas teenusega on teadaolevalt probleeme.
-- Kontrollige oma tulemüüri, viirusetõrje tarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Microsoft 365 apps juurdepääsu Internetile. Lugege teemat [Office 365 URL-ide ja IP-aadresside vahemike lisamine](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 URL-id ja IP-aadresside vahemikud").
+- Kontrollige tulemüüri, viirusetõrjetarkvara ja puhverserveri sätteid, veendumaks, et need ei blokeeri Microsoft 365 rakenduste interneti-pääsu. Lugege teemat [Office 365 URL-id ja IP-aadresside vahemikud](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 URL-id ja IP-aadresside vahemikud").
+
+**Näpunäide** Windowsi seadmetes saame diagnoosida ja automaatselt lahendada mitmed levinud Office'i sisselogimisprobleeme. Meie automatiseeritud tööriista kasutamiseks laadige alla ja käivitage **[Microsofti tugi- ja taasteteenuste abiline](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
 Saate kasutada järgmisi tõrkeotsingu toiminguid.
 
 - Avage Office’i rakendus ja [logige](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) kõigist olemasolevatest kasutajakontotest välja. [Eemaldage](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) Office’i litsents ja [määrake see uuesti](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) ning seejärel [logige Office’isse](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) mõjutatud kasutajakontoga sisse.
 - Käivitage [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy)
-- [Määrake uuesti Office’i aktiveerimisolek](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state "Lähtesta Office ' i aktiveerimisolek")
+- [Määrake uuesti Office’i aktiveerimisolek](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state "Office’i aktiveerimisoleku lähtestamine")
 - [Parandage Office võrgus](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)
 
 Täiendavad tõrkeotsingu lahendused leiate järgmistest teemadest:  
