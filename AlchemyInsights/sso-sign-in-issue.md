@@ -1,10 +1,11 @@
 ---
-title: Sujuv SSO kasutaja sisselogimise probleemid
-ms.author: v-jmathew
-author: v-jmathew
-manager: scotv
-ms.audience: Admin
+title: Tõrgeteta ühekordse sisselogimise (SSO) sisselogimise probleemide tõrkeotsing
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+audience: Admin
 ms.topic: article
+ms.date: 03/16/2021
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -12,37 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 347ef8f8176583f2a7c15fa82435eeb118b58c39
-ms.sourcegitcommit: 67c873fa6e23ec39a826d60ac830969073bf79e1
+ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
+ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935121"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50828687"
 ---
-# <a name="seamless-sso-user-sign-in-issues"></a>Sujuv SSO kasutaja sisselogimise probleemid
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Tõrgeteta ühekordse sisselogimise (SSO) sisselogimise probleemide tõrkeotsing
 
-Kui kasutaja on autenditud, salvestab brauser kasutaja mandaadi, nii et samale brauserile logib rakendus automaatselt sisse sama kontoga. See võib raskendada, et teine kasutaja või üks kasutaja saab ühes seadmes mitmesse kontosse sisse logida. Selle probleemi lahendamiseks tehke järgmist. Proovige mõnes muus brauseris sisse logida. 2. Tühjendage brauseri vahemälu ja/või küpsised ning proovige uuesti sisse logida.
+Tõrgeteta ühekordse sisselogimise (SSO) kasutajate sisselogimise probleemide lahendamiseks kasutage järgmisi soovitatavaid ressursse.
 
-Kui teil on endiselt probleeme sisselogimise probleemidega, soovitame teil lahendamise juhised diagnoosida ja automatiseerida järgmiselt.
+- [Ootamatu nõusoleku küsimine rakendusse sisselogimisel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [Rakenduse nõusoleku andmisel ilmnes ootamatu tõrge](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
+- [Rakenduse Azure AD minu rakendused sisselogimisega seotud probleemide tõrkeotsing](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [Rakenduse lehel kuvatakse tõrketeade pärast seda, kui kasutaja on sisse loginud](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
+- [Microsofti rakendusse sisselogimisega seotud probleemid](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
+- [SAML-põhise ühekordse sisselogimise konfigureeritud rakendustes sisselogimisega seotud probleemid](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-1. Azure ' i portaalis testimise kogemuse kasutamisel saate installida [minu rakenduste turvalise brauseri laienduse](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-extension-problem-installing) , et aidata Azure Active Directory (Azure AD) abil paremini diagnoosida ja kasutada lahendusi.
-2. Reprodutseerige tõrge, kasutades Azure ' i portaalis rakenduse konfiguratsiooni lehe funktsioonide testimise kogemust. Lisateavet leiate teemast [SAML põhinevate ühekordse sisselogimise rakenduste silumiseks](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-v1-debug-saml-sso-issues).
-3. Kui kasutate Azure ' i portaalis testimise kogemust minu rakenduste turvalise brauseri laiendiga, võite **sammu 4 vahele jätta**.
-4. SAML-põhise ühekordse sisselogimise konfigureerimise lehe avamiseks tehke järgmist.
-    - Avage [Azure ' i portaal](https://portal.azure.com/) ja logige sisse **globaalse administraatorina** või **Coadmin**.
-    - Avage **Azure Active Directory laiend** , valides vasakpoolse navigeerimispaani ülaosas **kõik teenused** .
-    - Tippige väljale filtri otsing tekst "Azure Active Directory" ja valige **Azure Active Directory** üksus.
-    - Valige **Enterprise Applications** Azure Active Directory vasakpoolses menüüs.
-    - Kõigi rakenduste loendi kuvamiseks valige **Kõik rakendused** . Kui te ei näe seda rakendust, mida soovite siin kuvada, kasutage **loendi Kõik rakendused** ülaosas olevat **filtri** juhtelementi ja seadke suvand **Kuva** **kõigile rakendustele**.
-    - Valige rakendus, mille soovite konfigureerida ühekordse sisselogimise jaoks.
-    - Pärast rakenduse laadimist valige rakenduse Vasakpoolsel navigeerimispaanil suvand **Ühekordne sisselogimine** .
-    - Valige **SAML põhinev SSO**.
-5. Tõrke põhjal leiate lisateavet soovitatavate juhiste kohta leiate teemast [SAML sisselogimisega seotud rakenduste](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#application-not-found-in-directory)sisselogimine.
-6. Muude kasutaja sisselogimise probleemide tõrkeotsinguks vaadake järgmisi juhiseid.
-    - [Ühe Sign-On SAML protokoll](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
-    - [Kuidas: Azure Active Directory aruannete abil sisselogimise tõrgete tõrkeotsing](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-troubleshoot-sign-in-errors)
-    - [Ootamatu nõusoleku viip](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt)
-    - [Kasutaja nõusoleku tõrge](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
-    - [Minu rakendustes sisselogimisega seotud probleemid](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
-    - [Tõrge rakenduse sisselogimise lehel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
-    - [Probleem Microsofti rakendusse sisselogimisel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft)
+Lisateabe saamiseks või tehniliste küsimuste esitamiseks õmblusteta SSO kohta lugege teemat [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).
+
