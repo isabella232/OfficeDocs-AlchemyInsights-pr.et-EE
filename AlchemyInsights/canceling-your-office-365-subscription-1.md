@@ -13,20 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: et-EE
 ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896899"
+ms.locfileid: "50931644"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="705c9-102">Kas tühistate oma Microsoft 365 tellimuse?</span><span class="sxs-lookup"><span data-stu-id="705c9-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="2d615-102">Kas tühistate oma Microsoft 365 tellimuse?</span><span class="sxs-lookup"><span data-stu-id="2d615-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="705c9-103">Meil on kahju, et te lahkute, siit leiate tellimuse tühistamise juhised.</span><span class="sxs-lookup"><span data-stu-id="705c9-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
+<span data-ttu-id="2d615-103">Meil on kahju, et te lahkute, siit leiate tellimuse tühistamise juhised.</span><span class="sxs-lookup"><span data-stu-id="2d615-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
 
-1. <span data-ttu-id="705c9-104">Avage administreerimiskeskuses leht **Arveldamine**  >  **[oma tooted](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel valige vahekaart **tooted** .</span><span class="sxs-lookup"><span data-stu-id="705c9-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
-2. <span data-ttu-id="705c9-105">Otsige üles tellimus, mille soovite tühistada.</span><span class="sxs-lookup"><span data-stu-id="705c9-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="705c9-106">Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **Tühista tellimus**.</span><span class="sxs-lookup"><span data-stu-id="705c9-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="705c9-107">Valige paanil **tellimuse tühistamine** põhjus, miks te tühistate.</span><span class="sxs-lookup"><span data-stu-id="705c9-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="705c9-108">Soovi korral saate anda tagasisidet.</span><span class="sxs-lookup"><span data-stu-id="705c9-108">Optionally, provide any feedback.</span></span>
-4. <span data-ttu-id="705c9-109">Valige **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="705c9-109">Select **Save**.</span></span>
+1. <span data-ttu-id="2d615-104">Avage administreerimiskeskuses leht **Arveldamine**  >  **[oma tooted](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel valige vahekaart **tooted** .</span><span class="sxs-lookup"><span data-stu-id="2d615-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
+2. <span data-ttu-id="2d615-105">Otsige üles tellimus, mille soovite tühistada.</span><span class="sxs-lookup"><span data-stu-id="2d615-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="2d615-106">Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **Tühista tellimus**.</span><span class="sxs-lookup"><span data-stu-id="2d615-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="2d615-107">Valige paanil **tellimuse tühistamine** põhjus, miks te tühistate.</span><span class="sxs-lookup"><span data-stu-id="2d615-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="2d615-108">Soovi korral saate anda tagasisidet.</span><span class="sxs-lookup"><span data-stu-id="2d615-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="2d615-109">Valige **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="2d615-109">Select **Save**.</span></span>
 
-<span data-ttu-id="705c9-110">Lisateavet tellimuse tühistamise või suvandite kohta leiate teemast [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="705c9-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="2d615-110">Lisateavet tellimuse tühistamise või suvandite kohta leiate teemast [tellimuse tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="2d615-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+
+<span data-ttu-id="2d615-111">Kui soovid jätkata oma tellimuse kasutamist prooviversiooni kehtivusajal, saad tellimuse korduva arveldamise välja lülitada.</span><span class="sxs-lookup"><span data-stu-id="2d615-111">If you’d like to continue using your subscription for the duration of your trial, you can turn off recurring billing for the subscription.</span></span> <span data-ttu-id="2d615-112">Lisateavet leiate teemast [Microsoft 365 ' i ärirakenduse pikendamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="2d615-112">To learn how, see [Renew Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).</span></span>
