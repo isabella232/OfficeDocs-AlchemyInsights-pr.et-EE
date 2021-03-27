@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge ' i suhtes kohaldatavad täiustatud autentimise põhimõtted
+title: Microsoft Edge'i täiustatud autentimispõhimõtted
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573394"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398554"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Microsoft Edge ' i suhtes kohaldatavad täiustatud autentimise põhimõtted
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Microsoft Edge'i täiustatud autentimispõhimõtted
 
-Järgmised on Microsoft Edge ' i jaoks kohaldatavad täiustatud autentimise kontseptsioonid.
+Microsoft Edge'ile kehtivad täpsemad autentimismõisted on järgmised.
 
-**Proaktiivne autentimine**
+**Ennetav autentimine**
 
-Kui lubate [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) poliitika, proovib Microsoft Edge autentida sisselogitud kasutajaid Microsofti teenuste kaudu. Regulaarsete ajavahemike järel kasutab ta veebiteenust, et kontrollida värskendatud manifesti, mis sisaldab ennetavat autentimist reguleerivat konfiguratsiooni.
+Kui lubate [poliitika ProactiveAuthEnabled,](https://go.microsoft.com/fwlink/?linkid=2134621) proovib Microsoft Edge ennetavalt autentida sisse logitud kasutajaid Microsofti teenuste kaudu. Regulaarsete intervallide järel kontrollib see veebiteenuse abil värskendatud manifesti, mis sisaldab proaktiivset autentimist reguleerivat konfiguratsiooni.
 
-Eelised: proaktiivne autentimine võimaldab autentida põhiteenuseid (nt Office ' i uue vahekaardi leht). Kui otsingumootorina kasutatakse ka Bingi, parandab proaktiivne autentimine aadressiriba jõudlust ja aitab luua teie ärirakenduse vajadustele vastavaid otsingutulemusi.
+Eelised. Ennetav autentimine võimaldab autentimist võtmeteenustele (nt Office'i uue vahekaardi lehele). Kui Bingi kasutatakse otsingumootorina, parandab proaktiivne autentimine aadressiriba jõudlust ja aitab luua teie ettevõtte vajadustele kohandatud otsingutulemeid.
 
 **Windows Hello CredUI NTLM-autentimise jaoks**
 
-Kui üksik sisselogimine (SSO) pole saadaval, kui veebisait proovib sisse logida kasutaja kaudu NTLM-või läbirääkimiste mehhanismi kaudu, võimaldab see funktsioon kasutajal jagada selle saidiga OS-i mandaati ja rahuldada autentimise väljakutse Windows Hello-i-süsteemi KASUTAJALIIDESE abil. See sisselogimine kuvatakse ainult opsüsteemis Windows 10 ja ainult nende kasutajate jaoks, kes ei saa kasutada SSO-või läbirääkimiste väljakutset.
+Kui ühekordne sisselogimine (SSO) pole saadaval, kui veebisait proovib kasutajat NTLM-i või Negotiatei mehhanismi kaudu sisse logida, võimaldab see funktsioon kasutajal operatsioonisüsteemi identimisteavet veebisaidiga jagada ja windows Hello Credi kasutajaliidese abil autentimisfunktsiooni abil rahuldada. See sisselogimisvoog kuvatakse ainult opsüsteemis Windows 10 ja ainult kasutajatele, kes ei saa SSO-d NTLM-i või Negotiatei väljakutse ajal.
 
-**Automaatselt sisselogimiseks salvestatud paroolide kasutamine**
+**Salvestatud paroolide kasutamine automaatseks sisselogimiseks**
 
-Microsoft Edge ' is paroolid salvestavad kasutajad saavad lubada automaatse sisselogimise veebisaitidele, kus nad on salvestanud mandaadi. Kasutajad saavad selle funktsiooni edge://settings/passwords sisse või välja lülitada ja seda saab konfigureerida [parooli halduri](https://go.microsoft.com/fwlink/?linkid=2134622) poliitikas.
+Microsoft Edge'is paroole salvestavad kasutajad saavad lubada automaatse sisselogimise veebisaitidele, kus nad on identimisteabe salvestanud. Kasutajad saavad selle funktsiooni sisse või välja edge://settings/passwords ja saate selle konfigureerida [paroolihalduri poliitikates.](https://go.microsoft.com/fwlink/?linkid=2134622)

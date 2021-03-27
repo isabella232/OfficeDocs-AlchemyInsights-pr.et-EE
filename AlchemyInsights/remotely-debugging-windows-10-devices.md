@@ -1,5 +1,5 @@
 ---
-title: Windows 10 seadmetest eemalt silumise alustamine
+title: Windows 10 seadmete kaug silumise alustamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583551"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398555"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Windows 10 seadmetest eemalt silumise alustamine
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Windows 10 seadmete kaug silumise alustamine
 
-Windows 10 seadmes Windows 10 seadmes Windows 10 seadmest otse silumiseks tehke järgmist.
+Windows 10 seadmes reaalajas sisu kaug silumiseks Windowsi või MacOS-i arvutist.
 
-1. Häälestage Windows 10 seade serveri silumiseks ja seejärel looge see oma arengu-arvuti kaudu.
-2. Uurige ja siluda oma Windows 10 seadmes olevat sisu oma arengu-arvutist.
-3. Screencast teie Windows 10 seadmest sisu DevTools eksemplarile.
+1. Häälestage oma Windows 10 seade kaug silumiseks ja seejärel looge ühendus sellega oma arendusseadme kaudu.
+2. Kontrollige ja siluge oma Windows 10 seadmes reaalajas sisu oma arendusseadmest.
+3. Screencast content from your Windows 10 device onto a DevTools instance on your development machine.
 
-Lisateavet leiate teemast [Microsoft Edge ' i abil Windows 10 seadmetes Remote silumine ' i kasutamise alustamine](https://go.microsoft.com/fwlink/?linkid=2142172).
+Lisateavet leiate teemast Windows [10 seadmete kaug silumise alustamine Microsoft Edge'i abil.](https://go.microsoft.com/fwlink/?linkid=2142172)

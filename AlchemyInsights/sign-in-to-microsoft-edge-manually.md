@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge ' i käsitsi sisselogimine
+title: Microsoft Edge'i käsitsi sisselogimine
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677246"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398653"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Microsoft Edge ' i käsitsi sisselogimine
+# <a name="sign-in-to-microsoft-edge-manually"></a>Microsoft Edge'i käsitsi sisselogimine
 
-Kui kasutaja ei logita automaatselt sisse esimese töökogemuse ajal, saab kasutaja käsitsi sisse logida brauseri sätete või identiteedi hüpik kaudu. Sisselogimise haldamiseks kasutage järgmisi poliitikaid.
+Kui kasutaja ei ole esimese kasutuskogemuse ajal automaatselt sisse logitud, saab kasutaja brauseri sätete või identiteedi hüpiku kaudu käsitsi sisse logida. Sisselogimise haldamiseks kasutage järgmisi poliitikaid.
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – tagamaks, et kasutajal on alati Microsoft Edge ' is tööprofiil.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – et piirata sisselogimist usaldusväärsete kontode komplekti.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – sisselogimise keelamiseks või kasutajate sisselogimiseks.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – tagamaks, et kasutajal on Microsoft Edge'is alati tööprofiil.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – sisselogimise piiramiseks usaldusväärsete kontodega.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – sisselogimise keelamiseks või kasutajate sisse logimiseks.
 
