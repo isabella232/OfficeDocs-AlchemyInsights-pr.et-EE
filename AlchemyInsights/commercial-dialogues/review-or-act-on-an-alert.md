@@ -1,9 +1,9 @@
 ---
-title: Teatise läbivaatus või toiminguga tutvumine
+title: Teatise läbivaatamine või selle alusel tegutsemine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5ea8434eb7fca9b11ffec1cc563c8e194e1443ba
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 986907debe21cee760485148eb971abf80041899
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481501"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403055"
 ---
-# <a name="review-or-act-on-an-alert"></a>Teatise läbivaatus või toiminguga tutvumine
+# <a name="review-or-act-on-an-alert"></a>Teatise läbivaatamine või selle alusel tegutsemine
 
 Tehke järgmist.
 
-1. Avage [turbe & täitmise keskus](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Klõpsake nuppu **teatiste**  >  **[Kuva teatised](https://go.microsoft.com/fwlink/?linkid=2103301)**.
-1. Klõpsake teatist. Paanil üksikasjad saate vaadata, mis käivitab teatise.
-1. Kui soovite teatises toiminguid teha, klõpsake üksikasjade lähedal olevat linki.
-1. Kui soovite teatise sulgeda, klõpsake nuppu **lahenda**.
+1. Avage [turbe- & vastavuskeskus](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Klõpsake **nuppu**  >  **[Teatisevaate teatised.](https://go.microsoft.com/fwlink/?linkid=2103301)**
+1. Klõpsake teatist. Vaadake üksikasjapaanil, mis teatise käivitas.
+1. Kui soovite teatisega midagi ette võtta, klõpsake üksikasju lähedal oleval lingil.
+1. Kui **soovite** teatise sulgeda, klõpsake nuppu Lahenda.
 
-Teatiste haldamise kohta leiate lisateavet teemast [turbe-ja vastavuskontrolli keskuses olevate teatiste reeglid](https://go.microsoft.com/fwlink/?linkid=2103211).
+Lisateavet teatiste haldamise kohta leiate teemast [Turbe- ja vastavuskeskuse teatisepoliitikad.](https://go.microsoft.com/fwlink/?linkid=2103211)
 

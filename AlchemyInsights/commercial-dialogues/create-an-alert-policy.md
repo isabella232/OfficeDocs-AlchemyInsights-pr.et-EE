@@ -1,9 +1,9 @@
 ---
-title: Teatise poliitika loomine
+title: Teatisepoliitika loomine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 20a379a4e6ad7e9a14b1eaae21db1c8cee129cdc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481797"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403595"
 ---
-# <a name="create-an-alert-policy"></a>Teatise poliitika loomine
+# <a name="create-an-alert-policy"></a>Teatisepoliitika loomine
 
-Selleks tehke järgmist.
+Selleks tehke nii.
 
-1. Avage [Office 365 turbe & täitmise keskus](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Valige **teatiste** teatiste  >  [reeglid](https://go.microsoft.com/fwlink/?linkid=2103208).
-1. Valige **+ Uus teatise poliitika**. Kuvatakse hüpik.
-1. Määrake väljad **nimi**, **Kirjeldus**, **raskusaste** ja **kategooria** vastavalt vajadusele. Valige **edasi**.
-1. Tegevuse valimine **tegevusest on** rippmenüü.
+1. Avage [Office 365 turbe- & vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Valige   >  [Teatiseteatise poliitikad](https://go.microsoft.com/fwlink/?linkid=2103208).
+1. Valige **+ Uus teatisepoliitika**. Kuvatakse hüpik.
+1. Määrake **väljad Nimi**, **Kirjeldus**, **Raskusaste** **ja** Kategooria vastavalt oma vajadustele. Valige **Edasi**.
+1. Valige tegevus rippmenüüst Tegevus on. 
 > [!NOTE]
->  Saate valida vaid ühe tegevuse, kuid saate lisada tingimusi, mida poliitika tuvastab.
-6. Valige teatiste käivitamise sagedused, mis vastavad teie vajadustele, ja seejärel valige **edasi**.
-7. Otsustage, kas soovite teavitada inimesi selle teatise käivitamisest, valides käsu **saada meilisõnumite teatised** ja valides sobivad **meilisõnumi adressaadid**. Valige **edasi**.
-8. Kui olete lõpetanud, vaadake sätted üle. Saate poliitika kohe välja lülitada **, valides Jah, lülitage see kohe** välja ja seejärel valige käsk **Lõpeta**.
+>  Saate valida ainult ühe tegevuse, kuid saate lisada tingimusi, et täpsustada, mida poliitika tuvastab.
+6. Valige oma vajadustele vastavad teatise käivitussagedused ja seejärel valige **Edasi**.
+7. Otsustage, kas soovite teavitada inimesi, kui see teatis käivitatakse, valides **Saada meiliteatisi** ja valides sobivad **meiliad adressaadid.** Valige **Edasi**.
+8. Kui olete lõpetanud, vaadake sätted üle. Poliitika saate kohe sisse lülitada, kui valite **Jah, lülitate selle kohe sisse ja** seejärel valite **Valmis.**
 
-Lisateavet leiate teemast teatiste poliitika sätted
+Lisateavet leiate teemast Teatisepoliitika sätted
 

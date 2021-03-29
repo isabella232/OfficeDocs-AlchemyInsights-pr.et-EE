@@ -1,9 +1,9 @@
 ---
-title: Postkastist edasisaatmise aadresside eemaldamine
+title: Postkasti edasisaatmisaadresside eemaldamine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3b44ae0a981ad851ea368b3aff194ec061ae6648
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 52c205714bcb82cb50d22211ecb0b77c22569a9d
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481504"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403163"
 ---
-# <a name="remove-forwarding-addresses-on-the-mailbox"></a>Postkastist edasisaatmise aadresside eemaldamine
+# <a name="remove-forwarding-addresses-on-the-mailbox"></a>Postkasti edasisaatmisaadresside eemaldamine
 
-Mõnikord edastavad häkkerid kasutajate meilisõnumeid ise, lisades postkastile edasisaatmise aadressi. Aadresside edasisaatmise ja eemaldamise kontrollimiseks tehke järgmist.
+Vahel edastavad häkkerid kasutajate meilisõnumid ise edasi, lisades postkasti edasisaatmisaadressi. Edasisaatmisaadresside otsimiseks ja nende eemaldamiseks saate teha nii:
 
-1. **Kasutajate**  >  **[Aktiivsete kasutajate](https://go.microsoft.com/fwlink/p/?linkid=834822)** valimine.
-1. Valige kasutaja, kelle konto on ohustatud. Laiendage kuvatavas hüpik jaotist **meili sätted** ja klõpsake  käsku Redigeeri **meilisõnumite edasisaatmiseks**.
-1. Eemaldage kõik edasisaatmise aadressid.
+1. Valige **Kasutajad**  >  **[Aktiivsed kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822)**.
+1. Valige kasutaja, kelle kontot on rikutud. Laiendage kuvatavas hüpikmenüüs valikut **Meilisätted ja** klõpsake **käsku Redigeeri** **meilisõnumite edasisaatmiseks.**
+1. Eemaldage kõik edasisaatmisaadressid.

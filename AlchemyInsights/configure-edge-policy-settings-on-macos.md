@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge ' i poliitika sätete konfigureerimine macOS-is Jamf abil
+title: Jamf-i abil Microsoft Edge'i poliitikasätete konfigureerimine macOS-is
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003852"
+- "9004632"
 - "6901"
-ms.openlocfilehash: 7874ce15417958cfe2e3b2ff068b3eb7241e6812
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8360"
+ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677502"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403451"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Microsoft Edge ' i poliitika sätete konfigureerimine macOS-is Jamf abil
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Jamf-i abil Microsoft Edge'i poliitikasätete konfigureerimine macOS-is
 
-Microsoft Edge ' i konfigureerimiseks (stabiilne kanal 81 või uuem versioon) rakenduses macOS kasutage Microsoft Edge ' i poliitika manifesti faili Jamf Pro 10,19.
+Microsoft Edge'i (stabiilne kanal 81 või uuem) konfigureerimiseks macOS-is kasutage Jamf Pro 10.19-s Microsoft Edge'i poliitika manifestifaili.
 
-Lisateavet leiate teemast [Microsoft Edge ' i poliitika sätete konfigureerimine macOS-is koos Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).
+Lisateavet leiate teemast [Microsoft Edge'i poliitikasätete konfigureerimine MacOS-is Jamfiga.](https://go.microsoft.com/fwlink/?linkid=2134761)

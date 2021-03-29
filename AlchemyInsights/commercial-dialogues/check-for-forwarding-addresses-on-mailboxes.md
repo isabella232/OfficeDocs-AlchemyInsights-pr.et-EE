@@ -1,9 +1,9 @@
 ---
-title: Postkastidele aadresside edasisaatmise kontrollimine
+title: Postkastides aadresside edasisaatmise kontrollimine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 1b0a6c8fe368196f2d1f9811aea895c2c024b2e6
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3abd45230360c61ecb62e4b7a39d1b0b547271fc
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481805"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403307"
 ---
-# <a name="check-for-forwarding-addresses-on-mailboxes"></a>Postkastidele aadresside edasisaatmise kontrollimine
+# <a name="check-for-forwarding-addresses-on-mailboxes"></a>Postkastides aadresside edasisaatmise kontrollimine
 
-Mõnikord edastavad häkkerid kasutajate meilisõnumeid ise, nii et kõigepealt kontrollime postkasti aadresse ja reegleid. Siis kontrollime auditi logisid. Aadresside edasisaatmise kontrollimiseks tehke järgmist.
+Vahel edastavad häkkerid kasutajate meilisõnumid iseendale, seega kontrollime esmalt, kas postkasti aadressid ja reeglid on edasi saadetud. Seejärel kontrollime auditilogisid. Edasisaatmisaadresside otsimiseks saate teha nii:
 
-1. **Kasutajate**  >  **Aktiivsete kasutajate** valimine.
-1. Valige kasutaja, kelle konto on ohustatud.
-1. Laiendage kuvatavas hüpik jaotist **meili sätted** ja seejärel klõpsake käsku **Redigeeri** **meilisõnumite edasisaatmiseks**.
-1. Eemaldage kõik edasisaadetavate aadressid, mida te ei tunne.
+1. Valige **Kasutajad**  >  **Aktiivsed kasutajad**.
+1. Valige kasutaja, kelle kontot on rikutud.
+1. Laiendage kuvatavas hüpikmenüüs valikut **Meilisätted** ja seejärel klõpsake käsku **Redigeeri** **meilisõnumite edasisaatmiseks.**
+1. Eemaldage kõik edasisaatmisaadressid, mida te ei tunne.

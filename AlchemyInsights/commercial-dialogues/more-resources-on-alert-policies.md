@@ -1,9 +1,9 @@
 ---
-title: Rohkem ressursse teatiste poliitikate kohta
+title: Rohkem ressursse teatisepoliitikate jaoks
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 30aa184d78a0375c3bd39115715eaf6e520f4e93
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 1fcddb1252e268471af19375f74547a19fafd210
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481696"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403199"
 ---
-# <a name="more-resources-on-alert-policies"></a>Rohkem ressursse teatiste poliitikate kohta
+# <a name="more-resources-on-alert-policies"></a>Rohkem ressursse teatisepoliitikate jaoks
 
-Lisateabe saamiseks vaadake järgmist artiklit:
+Lisateavet leiate järgmisest artiklist.
 
-[Turbe & nõuetele vastavuse keskuses teatise poliitika](https://go.microsoft.com/fwlink/?linkid=2103211)
+[Turbe- ja vastavuskeskuse & teatisepoliitikad](https://go.microsoft.com/fwlink/?linkid=2103211)

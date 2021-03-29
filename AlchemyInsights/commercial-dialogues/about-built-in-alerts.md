@@ -1,9 +1,9 @@
 ---
-title: Teave järkude kohta
+title: Teave järgu teatiste kohta
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 54f09d8aebcf5e10eaad7f19ec5138c9167962b4
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: bcafc8ef052e824093f29e16ffc16f68e6d4e667
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481632"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403631"
 ---
-# <a name="about-built-in-alerts"></a>Sisseehitatud teatised
+# <a name="about-built-in-alerts"></a>Teave sisseehitatud teatiste kohta
 
-Microsoft 365 sisaldab teie süsteemi kaitsmiseks mõnda sisseehitatud teatist. Siin on mõned andmed nende kohta.
+Microsoft 365 sisaldab teie süsteemi kaitsmiseks mõnda sisseehitatud teatist. Siin on nende kohta mõned andmed.
 
-- Sisseehitatud teatis on meilisõnumid, mis saadetakse *Office365Alerts@microsoft.com* kaudu üldisele administraatorile. Teemarida on väikese raskusastmega teade: <name of alert policy> .
-- Need hoiatusteated saadetakse teile, kui keegi midagi kahtlast teeb. Näiteks luuakse sisendkausta reeglid, mis edastatakse või suunatakse edasi meilisõnumitele, lubatakse postkastile, faile jagatakse või kustutatakse hulgi SharePointist või on e-juurdluse tegevused või meilisõnumite viivitused.
-- Microsoft ei palu kunagi kasutaja parooli, turbe üksikasju või kasutaja uuesti autentida meilisõnumis. Selliseid meilisõnumeid ei saa Microsoftilt; need on andmepüügiga meilisõnumid.
-- Kõigi sisseehitatud teatiste poliitikate loendi leiate teemast vaike- [teatise poliitikad](https://go.microsoft.com/fwlink/?linkid=2103170).
+- Sisseehitatud teatis on meilisõnum, mis saadetakse *Office365Alerts@microsoft.com.* Teemarida on madala raskusastmega teatis: <name of alert policy> .
+- Need teatiste meilisõnumid saadetakse teile, kui keegi teeb midagi kahtlast. Näiteks luuakse sisendkaustareeglid, mis suunavad meilisõnumid edasi või suunavad ümber, õigused antakse postkastile, faile jagatakse või kustutatakse SharePointist hulgi või e-juurdluse tegevused või viivitused meili teel.
+- Microsoft ei saa kunagi kasutaja parooli, turbe üksikasju ega kasutajat uuesti teatisemeilis autentida. Sellised meilisõnumid pole Microsoftilt; need on andmepüügimeid.
+- Kõigi valmis teatisepoliitikate loendi leiate teemast Teatise [vaikepoliitikad.](https://go.microsoft.com/fwlink/?linkid=2103170)

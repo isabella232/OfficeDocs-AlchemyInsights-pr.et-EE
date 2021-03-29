@@ -1,5 +1,5 @@
 ---
-title: Rühma poliitikad Microsoft Edge ' is
+title: Microsoft Edge'i rühmapoliitikad
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583298"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403343"
 ---
-# <a name="group-policies-in-microsoft-edge"></a>Rühma poliitikad Microsoft Edge ' is
+# <a name="group-policies-in-microsoft-edge"></a>Microsoft Edge'i rühmapoliitikad
 
-Microsoft Edge ' is saadaolevate [rühmapoliitika](https://go.microsoft.com/fwlink/?linkid=2134623) (versioon 77 või uuem versioon) abil saate määrata, kuidas brauser teie ettevõttes töötab.
+Kasutage Microsoft [Edge'is](https://go.microsoft.com/fwlink/?linkid=2134623) (versioon 77 või uuem) saadaolevaid rühmapoliitikaid, et määrata, kuidas brauser teie asutuses töötab.
