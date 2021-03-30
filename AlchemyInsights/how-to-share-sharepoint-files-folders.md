@@ -1,5 +1,5 @@
 ---
-title: SharePointi failide või kaustade ühiskasutusse andmine
+title: SharePointi või OneDrive'i failide või kaustade ühiskasutus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779011"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408110"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>SharePointi failide või kaustade ühiskasutusse andmine
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>SharePointi või OneDrive'i failide või kaustade ühiskasutus
 
-SharePointi saidil talletatud failid on tavaliselt saadaval kõigile, kellel on saidi juurdepääsuõigused, kuid soovi korral saate teatud failid või kaustad ühiskasutusse anda inimestega, kellel ei ole muidu saidile juurdepääsu. Failide ja kaustade ühiskasutusse andmisel saate otsustada, kas lubada inimestel redigeerida või lihtsalt neid vaadata.
+SharePointi saidil talletatud failid on tavaliselt saadaval kõigile, kellel on saidi õigused, kuid võite soovida teatud faile või kaustu ühiskasutusse anda inimestele, kellel pole muidu saidile juurdepääsu. Kui annate faile ja kaustu ühiskasutusse, saate otsustada, kas lasta inimestel neid redigeerida või neid lihtsalt vaadata. Lisateavet leiate järgmistest teemadest:
 
 [SharePointi failide või kaustade ühiskasutus](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[OneDrive'i failide ja kaustade ühiskasutus](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
