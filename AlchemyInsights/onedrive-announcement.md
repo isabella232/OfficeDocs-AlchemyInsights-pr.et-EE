@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002660"
 - "9422"
-ms.openlocfilehash: dec51a33f9801291765c48c11ec616e870f3e054
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ecc1ecc0cede129cb66a788130d8d3bd7ab38ecf
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51404402"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440853"
 ---
 # <a name="one-drive-announcement"></a>One Drive'i teadaanne
 
-Varundage failid ja fotod automaatselt, nii et pääsete neile alati juurde ka siis, kui teie arvuti on kaotsi läinud, kahjustatud või varastatud. Lisateavet leiate teemast Tasuta [OneDrive'i PC-kausta varundamine.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)
+Varundage failid ja fotod automaatselt, nii et pääsete neile alati juurde ka siis, kui teie arvuti on kaotsi läinud, kahjustatud või varastatud. [Häälestage tasuta OneDrive'i PC-kausta varundamine.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)
