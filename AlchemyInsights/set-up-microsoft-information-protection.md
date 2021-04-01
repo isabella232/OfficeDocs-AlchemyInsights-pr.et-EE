@@ -1,5 +1,5 @@
 ---
-title: Microsofti teabe kaitse häälestamine
+title: Microsofti teabekaitse häälestamine
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677381"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440925"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Microsofti teabe kaitse häälestamine
+# <a name="set-up-microsoft-information-protection"></a>Microsofti teabekaitse häälestamine
 
-Siit saate ülevaate võimalustest, mida saate oma teabeõiguste kaitse strateegiale rakendada, et saaksite olla kindel, et teie tundlik teave on kaitstud. Kasutage tundliku teabe avastamiseks, klassifitseerimiseks, kaitsmiseks ja jälgimiseks nelja-etapilise elutsükli lähenemist. Juhend "Microsoft Information Protection setup" annab juhiseid kõigi nende etappide lõpuleviimiseks.
+Saate ülevaate võimalustest, mida saate rakendada oma teabekaitsestrateegiale, et olla kindel, et teie tundlik teave on kaitstud. Kasutage neljaetapilist elutsüklipõhist lähenemist, kus saate avastada, liigitada, kaitsta ja jälgida delikaatset teavet. Microsofti [teabekaitse häälestamise juhik](https://go.microsoft.com/fwlink/?linkid=2146619) pakub juhiseid iga etapi lõpuleviimiseks.
