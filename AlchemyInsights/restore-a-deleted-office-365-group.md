@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774698"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505682"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Kustutatud Microsoft 365 rühma taastamine
 
-Kustutatud rühmad säilitatakse 30 päeva jooksul. Kustutatud rühma taastamiseks tehke järgmist.
-  
-1. Valige [Exchange ' i administreerimiskeskuses](https://outlook.office365.com/ecp/)vasakpoolsel paanil **adressaadid** ja seejärel valige **rühmad**. Kui rühm kustutati vähem kui 30 päeva tagasi, siis kuvatakse see loendis ja veerus olek kuvatakse kustutatud kuupäev.
+Kustutatud Microsoft 365 rühma või Microsoft Teamsi saate taastada 30 päeva jooksul pärast kustutamist.
 
-2. Valige rühm ja seejärel klõpsake üksikasjapaanil nuppu **Taasta** või klõpsake üksikasjade paanil lingil "klõpsa siin, et taastada".
+1. Microsoft 365 halduskeskusesse sisselogimiseks ning kustutatud rühmade ja töörühmade loendi vaatamiseks avage [Microsoft 365 halduskeskus.](https://aka.ms/RestoreDeletedGroup)
 
-Lisateavet või Lisateavet selle kohta, kuidas PowerShelli abil rühmi taastada, leiate teemast [Kustutatud Microsoft 365 rühma taastamine](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Märkus.** Logige sisse rentnikuadministraatori või rühmaadministraatori rollile määratud kontoga.
+
+1. Valige taastamiseks kustutatud Microsoft 365 rühm/Teams ja klõpsake nuppu **Taasta rühm**.
+
+    Kui rühma ei saa vastuoluliste SMTP-aadresside tõttu taastada, kasutage konflikti põhjustava objekti leidmiseks ja SMTP-aadressi eemaldamiseks järgmist käsku.
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Märkus.** Mõnel juhul võib rühma ja kõigi selle andmete taastamine võtta kuni 24 tundi.
+
+    Lisateavet powerShelli abil rühmade taastamise kohta leiate teemast Kustutatud [Microsoft 365 rühma taastamine.](https://go.microsoft.com/fwlink/?linkid=867802)
