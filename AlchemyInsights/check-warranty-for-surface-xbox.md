@@ -1,5 +1,5 @@
 ---
-title: Surface ' i või Xboxi seadme garantii oleku kontrollimine
+title: Surface’i või Xboxi seadme garantiioleku kontrollimine
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035331"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505316"
 ---
-# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Surface ' i või Xboxi seadme garantii oleku kontrollimine
+# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Surface’i või Xboxi seadme garantiioleku kontrollimine
 
-Kui teil on Surface või Xbox-seade, saate oma Microsofti konto kaudu oma garantiid kontrollida. Tehke järgmist.
+Kui teil on Surface’i või Xboxi seade, saate garantiid kontrollida Microsofti kontol. Selleks tehke järgmist.
 
-1. Logige sisse oma Microsofti kontole. 
+1. Logige sisse [Microsofti kontosse](https://account.microsoft.com/devices/). 
 
 1. Valige seade, mille garantiid soovite kontrollida.
 
-1. **Seadme levialas** näete, millist tüüpi garantiid teie seadmel on ja kui palju aega on jäänud.
+1. Seadme garantii liik ja järelejäänud kestus on kuvatud jaotises **Seadme katvus**.
 
-**Märkus** Teie seade peab olema registreeritud enne, kui saate kontrollida oma garantiid või hankida teenust. Kui peate oma seadme registreerima või ei näe pärast oma kontosse sisse logimist teie seadet, avage [oma Surface ' i või Xboxi registreerimine](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).
+**Märkus** Enne, kui saate garantiid kontrollida või kasutada sellega seotud tugiteenused, tuleb seade registreerida. Kui seade on veel registreerimata või seda ei kuvatud pärast kontosse sisselogimist, avage spikriteema [Surface’i või Xboxi registreerimine](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).
