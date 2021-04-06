@@ -14,21 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 1054297dd1f5ead61b150c967299ae54cf1bc6da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 116b92824b4046766d9c8b869ef0cfc655ee2395
+ms.sourcegitcommit: ce1a381ca3b24b8b4e60c5b83fae3ec7609eaf9d
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686674"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51585971"
 ---
 # <a name="admin-roles"></a>Administraatorirollid
-
-- Administraatorirollide määramiseks või nende kohta lisateabe saamiseks valige [halduskeskuses](https://admin.microsoft.com/Adminportal/Home#/roles) **Rollid**.
-
-- Lisateabe saamiseks valige halduskeskuses rolli nimi või nimed ja valige **rolli määramine** või **rollide võrdlemine**.
 
 - Rolli määramiseks valige **Aktiivsed kasutajad** [halduskeskuses](https://admin.microsoft.com/Adminportal/Home#/users), valige kasutajanimi ja seejärel valige  **Halda rolle**.
 
 - Rolli kohta lisateabe saamiseks klõpsake rolli kõrval asuvat nuppu **i** või lugege teemat [Teave administraatorirollide kohta](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
-
-- Kui vajate abi olemasolevale administraatorikontole juurdepääsemiseks, lugege teemat [Tagasi oma kontole](https://passwordreset.microsoftonline.com/) või [Lähtesta minu administraatori parool](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password).
