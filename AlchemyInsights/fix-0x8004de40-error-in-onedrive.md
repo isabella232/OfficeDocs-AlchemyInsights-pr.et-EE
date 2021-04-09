@@ -1,5 +1,5 @@
 ---
-title: OneDrive ' i 0x8004de40 lahendamise tõrge
+title: OneDrive 0x8004de40 i tõrke lahendamiseks
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
+ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745126"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51649744"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>OneDrive ' i 0x8004de40 lahendamise tõrge
+# <a name="fix-0x8004de40-error-in-onedrive"></a>OneDrive 0x8004de40 i tõrke lahendamiseks
 
-Kui OneDrive ' iga kuvatakse 0x8004de40 tõrge, tehke järgmist.
+Kui kasutate opsüsteemi Windows 7 ja teile kuvatakse see tõrketeade, värskendage [Windowsis WinHTTP-s TLS 1.1 ja TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)lubamiseks turvaliste vaikeprotokollidena.
 
-- Taaskäivitage mõjutatud arvuti, kui olete ühendatud oma Acitve kataloogiteenuse domeeniga.
-- Kui taaskäivitamine probleemi ei lahenda, liituge oma seadmega Azure AD. 
+Kui kasutate opsüsteemi Windows 10 ja teile kuvatakse OneDrive'0x8004de40 tõrketeade:
 
-**Märkus**: te peate nende toimingute tegemisel olema ettevõtte võrgus. Ärge tehke neid toiminguid, kui te ei saa luua ühendust oma ettevõtte infrastruktuuriga (nt reisil olles). 
+- Taaskäivitage mõjutatud arvuti, kui see on ühendatud teie Acitve'i kataloogi domeeniga.
+- Kui taaskäivitamine probleemi ei lahenda, lülitage seade Azure AD-st välja ja ühinege uuesti. 
 
-- Avage tõstetud Käsuviip. 
-- Kõrgenenud käsuviiba avamiseks klõpsake nuppu **Start**, paremklõpsake käsku **Käsuviip**ja seejärel klõpsake käsku **Käivita administraatorina**.
-- Tippige *dsregcmd/Leave* ja vajutage sisestusklahvi ( **Enter)**.
-- Kui olete lõpetanud, tippige *dsregcmd/JOIN* ja vajutage sisestusklahvi ( **Enter)**.
-- Kui olete lõpetanud, sulgege Käsuviip.
-- Taaskäivitage arvuti ja logige sisse OneDrive ' i.
+**Märkus.** Neid toiminguid tehes peaksite olema oma ettevõtte võrgus. Ärge tehke neid toiminguid, kui te pole ühendatud oma ettevõtte taristuga (nt reisil olles). 
+
+1. Avage laiendatud käsuviip, valides **Start**, paremklõpsake käsku **Käsuviip** ja seejärel valige **Käivita administraatorina**.
+
+1. Tippige *dsregcmd /leave ja vajutage* sisestusklahvi **(Enter).**
+
+1. Kui see on valmis, tippige *dsregcmd /join ja* vajutage sisestusklahvi **(Enter).**
+
+1. Kui see on valmis, sulgege käsuviip.
+
+1. Taaskäivitage arvuti ja logige sisse OneDrive'i.
