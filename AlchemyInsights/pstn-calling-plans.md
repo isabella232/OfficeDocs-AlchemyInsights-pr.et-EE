@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662501"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692462"
 ---
 # <a name="pstn-calling-plans"></a>PSTN-kõnede pakett
 
@@ -28,4 +28,4 @@ Kui soovite, et teie kasutajatel oleks võimalus teha tavatelefonikõnesid ja te
 
 - Häälestage [suhtluskrediidid](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), et vältida kasutajatel **kõneaja lõppemist**. Vaadake hindasid [siit](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Lisateavet vt teemast [Telefonisüsteem ja kõnepaketid](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) või [Mis on suhtluskrediit?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Lisateavet leiate teemast [Microsoft Teamsi telefoni- ja Microsoft Teamsi kõneplaanid](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) või [Mis on suhtluskrediit?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

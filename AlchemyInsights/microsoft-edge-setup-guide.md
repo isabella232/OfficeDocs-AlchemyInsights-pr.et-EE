@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge ' i kasutamise alustamine
+title: Microsoft Edge'i kasutamise käivitamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677515"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692750"
 ---
-# <a name="start-using-microsoft-edge"></a>Microsoft Edge ' i kasutamise alustamine
+# <a name="start-using-microsoft-edge"></a>Microsoft Edge'i kasutamise käivitamine
 
-Microsoft on välja andnud uue Microsoft Edge ' i, mis on selle veebibrauseri järgmine põlvkond. See on ehitatud kroomi avatud lähtekoodiga Sihtasutus ja on optimeeritud töötama Microsoft Products (nt SharePoint ja OneDrive).
+Microsoft on välja andnud uue Microsoft Edge'i, mis on veebibrauseri järgmine põlvkond. See on ehitatud chromiumi avatud lähtekoodiga vundamendile ja on optimeeritud töötama Microsofti toodetega (nt SharePoint ja OneDrive).
 
-Kui teil esineb Google Chrome ' i, Mozilla Firefoxi või Safariga seotud probleeme, soovitame kasutada Microsoft Edge ' i.
+Kui teil on Probleeme Google Chrome'i, Mozilla Firefoxi või Safariga, soovitame kasutada Microsoft Edge'i.
 
-Kui olete suures organisatsioonis administraator, kasutage alustamiseks meie [Microsoft Edge ' i häälestamise juhendit](https://go.microsoft.com/fwlink/?linkid=2142423) .
+Kui olete suure organisatsiooni administraator, kasutage alustamiseks [microsoft Edge'i häälestusjuhendit.](https://go.microsoft.com/fwlink/?linkid=2142423)
 
-Microsoft Edge ' i laadimiseks korraga ühte seadmesse valige [uus Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049)' i tutvustus.
+Microsoft Edge'i allalaadimiseks ühte seadmesse korraga avage [uus Microsoft Edge' i tutvustus.](https://go.microsoft.com/fwlink/?linkid=2141049)
