@@ -1,8 +1,8 @@
 ---
-title: 'Tõrge: selle arvuti reeglid ei ühti'
+title: Tõrge. Selles arvutis kehtivad reeglid ei vasta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c46eb856baafbef9bc3b7fa34a0258ef16923fb8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690959"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782948"
 ---
-# <a name="error-the-rules-on-this-computer-do-not-match"></a><span data-ttu-id="a3a2b-102">Tõrge: selle arvuti reeglid ei ühti</span><span class="sxs-lookup"><span data-stu-id="a3a2b-102">Error: The rules on this computer do not match</span></span>
+# <a name="error-the-rules-on-this-computer-do-not-match"></a><span data-ttu-id="4436c-102">Tõrge. Selles arvutis kehtivad reeglid ei vasta</span><span class="sxs-lookup"><span data-stu-id="4436c-102">Error: The rules on this computer do not match</span></span>
 
-<span data-ttu-id="a3a2b-103">Selle teadaoleva probleemi värskendatud oleku vaatamiseks lugege selle [arvuti reegleid, mis ei vasta Microsoft Exchange ' i reeglitele.](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)</span><span class="sxs-lookup"><span data-stu-id="a3a2b-103">To see updated status of this known issue, see [The rules on this computer do not match the rules on Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)</span></span>
+<span data-ttu-id="4436c-103">Teadaoleva probleemi värskendatud oleku kuvamiseks lugege teemat Selle arvuti reeglid ei [vasta Microsoft Exchange'i reeglitele.](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)</span><span class="sxs-lookup"><span data-stu-id="4436c-103">To see updated status of this known issue, see [The rules on this computer do not match the rules on Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)</span></span>
 
-<span data-ttu-id="a3a2b-104">Outlooki meeskond on rakendanud lahenduse järgus 12928,10000.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-104">The Outlook Team has implemented a fix in Build 12928.10000.</span></span> <span data-ttu-id="a3a2b-105">Fix on juba Insider Fast ja läheb igakuise kanali juuni lõpus 2020.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-105">The fix is already at Insider Fast and will go to Monthly Channel in late June 2020.</span></span> <span data-ttu-id="a3a2b-106">Kui teil on püsiv järk, võite saada viiba "milliseid reegleid soovite säilitada" viimast korda.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-106">Once you have the fixed build you may get the prompt "Which rules do you want to keep" one last time.</span></span> <span data-ttu-id="a3a2b-107">Valige küsimisel server ja seejärel naaske Outlookis ja lubage kõik keelatud reeglid uuesti.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-107">Choose Server when prompted and then go back in Outlook and re-enable any rules that were disabled.</span></span>
+<span data-ttu-id="4436c-104">Outlooki meeskond on rakendanud paranduse järgus 12928.10000.</span><span class="sxs-lookup"><span data-stu-id="4436c-104">The Outlook Team has implemented a fix in Build 12928.10000.</span></span> <span data-ttu-id="4436c-105">Lahendus on juba Insider Fastis ja see läheb kuupõhisele kanalile juuni lõpus 2020.</span><span class="sxs-lookup"><span data-stu-id="4436c-105">The fix is already at Insider Fast and will go to Monthly Channel in late June 2020.</span></span> <span data-ttu-id="4436c-106">Kui olete fikseeritud järgu saanud, võidakse teil viimast korda kuvada viip "Milliseid reegleid soovite säilitada".</span><span class="sxs-lookup"><span data-stu-id="4436c-106">Once you have the fixed build you may get the prompt "Which rules do you want to keep" one last time.</span></span> <span data-ttu-id="4436c-107">Kui teilt küsitakse, valige Server ja seejärel minge Outlookis tagasi ja lubage uuesti kõik keelatud reeglid.</span><span class="sxs-lookup"><span data-stu-id="4436c-107">Choose Server when prompted and then go back in Outlook and re-enable any rules that were disabled.</span></span>
 
-<span data-ttu-id="a3a2b-108">Kui lahendus on saadaval, kasutage järgmist lahendust.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-108">Until the fix is available please use the following workaround:</span></span>
+<span data-ttu-id="4436c-108">Kuni parandus on saadaval, kasutage järgmist lahendust.</span><span class="sxs-lookup"><span data-stu-id="4436c-108">Until the fix is available please use the following workaround:</span></span>
 
-<span data-ttu-id="a3a2b-109">**Lahendus**: Viimatised aruanded on ilmnenud nende jaoks, kes on Outlooki töölaual loonud ainult klientrakenduste reegleid.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-109">**Workaround**: In recent reports, the issue has occurred for those that have only created client rules in Outlook desktop.</span></span> <span data-ttu-id="a3a2b-110">Kui jätkate probleemi, kaaluge reeglite kustutamist ja seejärel looge ja redigeerige reegleid ainult OWA-s (Outlook Web App), kuni probleem laheneb.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-110">If you continue to run into the problem, consider deleting the rules and then create and edit rules only in OWA (Outlook Web App) until the issue is resolved.</span></span>
+<span data-ttu-id="4436c-109">**Lahendus.** Hiljutistes aruannetes ilmnes probleem nende jaoks, kes on outlooki töölauarakenduses loonud ainult kliendireeglid.</span><span class="sxs-lookup"><span data-stu-id="4436c-109">**Workaround**: In recent reports, the issue has occurred for those that have only created client rules in Outlook desktop.</span></span> <span data-ttu-id="4436c-110">Kui probleem ei lahene, kaaluge reeglite kustutamist ning seejärel looge ja redigeerige reegleid ainult OWA-s (Outlook Web Appis), kuni probleem on lahendatud.</span><span class="sxs-lookup"><span data-stu-id="4436c-110">If you continue to run into the problem, consider deleting the rules and then create and edit rules only in OWA (Outlook Web App) until the issue is resolved.</span></span>
 
-<span data-ttu-id="a3a2b-111">Kui te ei saa reegleid käsitsi kustutada, saate Outlooki käsu käivitada Outlooki käivitamisel, käivitades Outlook.exe/Cleanrules.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-111">If you cannot delete the rules manually you can run an Outlook command when you start Outlook by running Outlook.exe /cleanrules.</span></span> <span data-ttu-id="a3a2b-112">See toiming kustutab nii kliendi kui ka serveri reeglid.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-112">This will delete both the client and server rules.</span></span> <span data-ttu-id="a3a2b-113">See kustutab kõik Outlooki profiilis olevate kontode reeglid.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-113">It will delete all of the rules for all of the accounts in the Outlook Profile.</span></span> <span data-ttu-id="a3a2b-114">See käsk on täiendavalt dokumenteeritud käsurea lülitite artiklis.</span><span class="sxs-lookup"><span data-stu-id="a3a2b-114">This command is further documented in the Command-line switches article.</span></span>
+<span data-ttu-id="4436c-111">Kui te ei saa reegleid käsitsi kustutada, saate Outlooki käivitamisel käivitada Outlooki käsu, käivitades Outlook.exe /cleanrules.</span><span class="sxs-lookup"><span data-stu-id="4436c-111">If you cannot delete the rules manually you can run an Outlook command when you start Outlook by running Outlook.exe /cleanrules.</span></span> <span data-ttu-id="4436c-112">See kustutab nii kliendi- kui ka serverireeglid.</span><span class="sxs-lookup"><span data-stu-id="4436c-112">This will delete both the client and server rules.</span></span> <span data-ttu-id="4436c-113">See kustutab kõik Outlooki profiili kõigi kontode reeglid.</span><span class="sxs-lookup"><span data-stu-id="4436c-113">It will delete all of the rules for all of the accounts in the Outlook Profile.</span></span> <span data-ttu-id="4436c-114">See käsk on veel dokumenteeritud artiklis Käsurealülitid.</span><span class="sxs-lookup"><span data-stu-id="4436c-114">This command is further documented in the Command-line switches article.</span></span>
 
