@@ -1,8 +1,8 @@
 ---
-title: 'Tõrge: selle arvuti reeglid ei ühti'
+title: Tõrge. Selles arvutis kehtivad reeglid ei vasta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c46eb856baafbef9bc3b7fa34a0258ef16923fb8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690959"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782948"
 ---
-# <a name="error-the-rules-on-this-computer-do-not-match"></a>Tõrge: selle arvuti reeglid ei ühti
+# <a name="error-the-rules-on-this-computer-do-not-match"></a>Tõrge. Selles arvutis kehtivad reeglid ei vasta
 
-Selle teadaoleva probleemi värskendatud oleku vaatamiseks lugege selle [arvuti reegleid, mis ei vasta Microsoft Exchange ' i reeglitele.](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+Teadaoleva probleemi värskendatud oleku kuvamiseks lugege teemat Selle arvuti reeglid ei [vasta Microsoft Exchange'i reeglitele.](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
 
-Outlooki meeskond on rakendanud lahenduse järgus 12928,10000. Fix on juba Insider Fast ja läheb igakuise kanali juuni lõpus 2020. Kui teil on püsiv järk, võite saada viiba "milliseid reegleid soovite säilitada" viimast korda. Valige küsimisel server ja seejärel naaske Outlookis ja lubage kõik keelatud reeglid uuesti.
+Outlooki meeskond on rakendanud paranduse järgus 12928.10000. Lahendus on juba Insider Fastis ja see läheb kuupõhisele kanalile juuni lõpus 2020. Kui olete fikseeritud järgu saanud, võidakse teil viimast korda kuvada viip "Milliseid reegleid soovite säilitada". Kui teilt küsitakse, valige Server ja seejärel minge Outlookis tagasi ja lubage uuesti kõik keelatud reeglid.
 
-Kui lahendus on saadaval, kasutage järgmist lahendust.
+Kuni parandus on saadaval, kasutage järgmist lahendust.
 
-**Lahendus**: Viimatised aruanded on ilmnenud nende jaoks, kes on Outlooki töölaual loonud ainult klientrakenduste reegleid. Kui jätkate probleemi, kaaluge reeglite kustutamist ja seejärel looge ja redigeerige reegleid ainult OWA-s (Outlook Web App), kuni probleem laheneb.
+**Lahendus.** Hiljutistes aruannetes ilmnes probleem nende jaoks, kes on outlooki töölauarakenduses loonud ainult kliendireeglid. Kui probleem ei lahene, kaaluge reeglite kustutamist ning seejärel looge ja redigeerige reegleid ainult OWA-s (Outlook Web Appis), kuni probleem on lahendatud.
 
-Kui te ei saa reegleid käsitsi kustutada, saate Outlooki käsu käivitada Outlooki käivitamisel, käivitades Outlook.exe/Cleanrules. See toiming kustutab nii kliendi kui ka serveri reeglid. See kustutab kõik Outlooki profiilis olevate kontode reeglid. See käsk on täiendavalt dokumenteeritud käsurea lülitite artiklis.
+Kui te ei saa reegleid käsitsi kustutada, saate Outlooki käivitamisel käivitada Outlooki käsu, käivitades Outlook.exe /cleanrules. See kustutab nii kliendi- kui ka serverireeglid. See kustutab kõik Outlooki profiili kõigi kontode reeglid. See käsk on veel dokumenteeritud artiklis Käsurealülitid.
 

@@ -1,8 +1,8 @@
 ---
-title: Piltide hõivamiseks, märgistamiseks ja jagamiseks kasutage lõiget & eskiis
+title: Lõikepiltide & visandi kasutamine piltide jäädvustamiseks, märkimiseks ja ühiskasutusse andmiseks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773195"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770807"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Piltide hõivamiseks, märgistamiseks ja jagamiseks kasutage lõiget & eskiis
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Lõikepiltide & visandi kasutamine piltide jäädvustamiseks, märkimiseks ja ühiskasutusse andmiseks
 
-Ekraani visandit nimetatakse nüüd **lõikeks & visand**. **Lõike kiireks tegemiseks tehke**järgmist.
+Kuva visandit nimetatakse nüüd **& Visandiks.** **Kiireks läbilõikamine:**
 
-1. Vajutage klahvikombinatsiooni **Windowsi logoga klahv + SHIFT + S**. Näete ekraani tumedam ja kursor kuvatakse ristina. 
+1. Vajutage Windowsi **logoga klahvi + tõstuklahvi (Shift) + S.** Ekraan tumeneb ja kursor kuvatakse ristina. 
 
-2. Valige selle ala servas, mida soovite kopeerida, ja klõpsake kursori vasakus servas. 
+2. Valige kopeerimisala servas punkt ja klõpsake kursorit. 
 
-3. Liigutage kursorit, et tõsta esile ala, mida soovite hõivata. Teie jäädvustatud ala kuvatakse ekraanil.
+3. Liigutage kursorit, et tõsta esile ala, mida soovite jäädvustada. Jäädvustatud ala kuvatakse teie ekraanil.
 
    ![esiletõstetud valiku pilt](media/snipone.png)
 
-Lõikeandmete pilt salvestatakse lõikelauale, valmis kleepimiseks meilisõnumisse või dokumenti. 
+Lõikepilt salvestatakse lõikelauale, mis on meilisõnumisse või dokumenti kleepimiseks valmis. 
 
-**Kui soovite pilti redigeerida või vaadata,** tehke järgmist. 
+**Kui soovite pilti redigeerida või vaadata, siis:** 
 
-- Klõpsake tegumiriba paremas servas ikooni teatised. seejärel klõpsake äsja pildistatud pilti. Lõige avaneb rakenduses lõige & eskiis.
+- Klõpsake tegumiriba paremast servast paremal asuvat teatiste ikooni; seejärel klõpsake äsja jäädvustatud pilti. Teie lõik avaneb rakenduses & Visand.
 
-   ![pilt pildist, mis kuvatakse Lõiketööriista kaudu](media/sniptwo.png)
+   ![pilt lõikerakenduses kuvatavast pildist](media/sniptwo.png)

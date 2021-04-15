@@ -2,7 +2,7 @@
 title: Mis on rühmad?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: 857af422c77fbb719c120951314d21160f0fa1b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9011c8219f7aec09454ecf08fc1c5ad2959e89a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807331"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770699"
 ---
 # <a name="what-are-groups"></a>Mis on rühmad?
 
-Microsoft 365 rühmad võimaldavad teil valida inimeste kogumi, kellega soovite koostööd teha, ja hõlpsalt häälestada ressursside kogumi, mille soovite ühiskasutusse anda. Te ei pea muretsema nende ressursside käsitsi määramise pärast, kuna liikmete lisamine rühmale annab neile automaatselt teie rühma pakutavate tööriistade jaoks vajalikud load. Lisaks on rühmad uutest ja täiustatud kogemustest, mida kasutasime leviloendite või ühiskasutuses postkastide kasutamiseks.  Lisateavet leiate teemast [Lisateave Microsoft 365 rühmade](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) kohta. 
+Microsoft 365 rühmad lubavad teil valida inimeste kogumi, millega soovite koostööd teha, ja häälestada hõlpsalt ressursikogumi, mida need inimesed saavad ühiskasutusse anda. Te ei pea muretsema kõigi nende ressursside õiguste käsitsi määramise pärast, kuna rühma liikmete lisamine annab neile automaatselt vajalikud õigused teie rühma pakutavatele tööriistadele. Lisaks on rühmad uus ja täiustatud kasutuskogemus leviloendite või ühispostkastide kasutamiseks.  Lisateavet [leiate teemast Teave Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) rühmade kohta. 

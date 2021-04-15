@@ -1,26 +1,30 @@
 ---
-title: 665 kas postkastis saab liiga palju Phish või rämpsposti?
+title: 665 Kas saate postkastis liiga palju andme- või rämpsposti?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700235"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767933"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Kas teie postkastis saab liiga palju Phish või rämpsposti?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Kas teie postkastis on liiga palju andme- või rämpsposti?
 
-Microsoft 365 administraatorina on parim viis teha kindlaks, miks on andmepüügi või rämpsposti kohaletoimetamise põhjus esitatud, et esitada näidis Microsoftis [esildiste Exploreris](https://protection.office.com/reportsubmission). Saad kohe tagasisidet seotud sõnumite filtreerimise ja selle kohta, miks on probleeme.
+> [!NOTE]
+> Microsoft 365 turbekeskusele pääsete juurde [security.microsoft.com.](https://security.microsoft.com)
 
-Kui soovite, et see EASER, saate lubada kasutajatel otse Microsoftilt aruandeid esitada, kasutades selleks teate [lisandmoodulit](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Microsoft 365 administraatorina on parim viis teha kindlaks, miks andmepüügi- või rämpspostisõnum kohale toimetati, esitada näidis [Microsoftile Submissions Exploreris.](https://security.microsoft.com/reportsubmission) Saate kohe tagasisidet sõnumi filtreerimise ja probleemide põhjuste kohta.
 
-**Kas teadsid?**: Nüüd saate esitada näidiseid otse [sõnumi jälgedest](https://protection.office.com/messagetrace) ja E5/ATP lepingust 2 kliendid saavad esitada näidiseid [ohtudest Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+Kui soovite, et see oleks kergem, saate lubada kasutajatel aruande otse Microsoftile [aruandesõnumi lisandmooduli kaudu.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+
+**Kas teadsite?**: Nüüd saate [](https://security.microsoft.com/messagetrace) saata näidiseid otse sõnumijälitus kaudu ja E5/ATP plan 2 kliendid saavad esitada näidiseid [Threat Explorerist.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)

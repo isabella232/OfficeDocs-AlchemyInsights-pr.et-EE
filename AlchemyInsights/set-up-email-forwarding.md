@@ -1,8 +1,8 @@
 ---
-title: Meilisõnumite edasisaatmise häälestamine
+title: Meili edasisaatmise häälestamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: a7fba259375c667ff2e0f14a03972e102468cd27
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50037181"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787133"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Postkasti meilisõnumite edasisaatmise sätete kontrollimine
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Postkasti meili edasisaatmise sätete kontrollimine
 
-Esiteks peab meilide edasisaatmine olema lubatud rentniku tasandil. Kui olete postkastis häälestanud meilisõnumite edasisaatmise, kuid see ei tööta (kuvatakse tõrketeade **"550 5.7.520 juurdepääs on keelatud, ei luba teie ettevõte välisedasisaatmist"**) Palun vaadake teemat [Automaatne väliste meilisõnumite edasisaatmine Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+Esiteks peab meilide edasisaatmine olema rentnikutasemel lubatud. Kui olete häälestanud meilisõnumite edasisaatmise postkastis, kuid see ei tööta (kuvatakse tõrketeade **"550 5.7.520 Access denied, Your organization not allow external forwarding" ("550 5.7.520 Access denied, Your organization not allow external forwarding") ("550 5.7.520 Access denied, Your organization not allow external forwarding") ("550 5.7.520 Access denied, Your organization not allow external forwarding" (550 5.7.520 Access denied, Teie** asutus ei luba välist edasisaatmist) lugege teemat Automaatse välise meilisõnumite edasisaatmise juhtimine [Rakenduses Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
 
-Postkasti meilisõnumite edasisaatmise sätteid on lihtne kinnitada. Lihtsalt järgige neid juhiseid.
+Meilisõnumite edasisaatmise sätete kontrollimine postkastis on lihtne! Järgige neid juhiseid.
   
-> Kui tegemist on kasutaja postkastiga, avage **kasutajate** \> **aktiivsed kasutajad** ja valige kasutaja, kelle postkasti te edastate. Valige vahekaardil **e-post** **meilisõnumite edasisaatmise haldamine**.
+> Kui see on kasutajapostkast,  avage Kasutajad Aktiivsed \> **kasutajad** ja valige kasutaja, kelle postkasti te edasi saadate. Valige **vahekaardil Elektronpost** käsk **Halda meilisõnumite edasisaatmist**.
 
-> Kui tegemist on ühiskasutatava postkastiga, avage jaotis **rühmad** \> **ühiskasutuses** olevad postkastid ja valige edastatav postkast. Valige käsk **Redigeeri** meilisõnumite edasisaatmiseks.
+> Kui see on ühispostkast, avage **Rühmad** \> **ühispostkastid** ja valige edasisaattav ühispostkast. Meilisõnumite **edasisaatmiseks** valige Redigeeri.
 
-Lisateavet leiate teemast [meilisõnumite edasisaatmise konfigureerimine rakenduses Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Lisateavet leiate teemast [Meilisõnumite edasisaatmise konfigureerimine Microsoft 365-s.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
   
-Kasutajate jaoks juhiste saatmiseks, et nad saaksid häälestada meilisõnumite edasisaatmise oma postkastides, osutage neile [Microsoft 365 meilisõnumite edasisaatmiseks teisele meilikontole](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Pange tähele, et saate saata ainult ühe meiliaadressi. Kui teil on vaja häälestada rühmale edasisaatmine, looge leviloend (jaotises **rühmad**), lisage sinna oma kasutajad ja seejärel konfigureerige selle rühma edasisaatmine.
+Kasutajatele juhiste saatmiseks, et nad saaksid häälestada meilisõnumite edasisaatmise oma postkastides, osutage neile väärtusele Meilisõnumite edasisaatmine [Microsoft 365-st teisele meilikontole.](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e) Võtke arvesse, et saate edasi saata ainult ühele meiliaadressile. Kui peate häälestama edasisaatmise inimeste rühmale, looge leviloend (jaotises **Rühmad),** lisage sinna oma kasutajad ja konfigureerige edasisaatmine sellele rühmale.
   
-Kas teil on mõni töötaja lahkumas? Lisateavet leiate teemast [endise töötaja eemaldamine Microsoft 365 ' ist](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) soovitatavate toimingute jaoks.
+Kas teil on töötaja lahkumas? Soovitatavad [juhised leiate teemast Endise töötaja eemaldamine Microsoft 365-st.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)

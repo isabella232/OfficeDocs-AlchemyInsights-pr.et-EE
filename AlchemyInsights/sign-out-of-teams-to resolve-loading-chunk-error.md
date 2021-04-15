@@ -1,8 +1,8 @@
 ---
-title: Meeskonnatööst väljalogimine, mis lahendab laadimise kogumi tõrke
+title: Teamsi väljalogimine kogumi laadimise tõrke lahendamiseks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: c78ab298471b490ec3a0fa1ac3411545de8602eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51ba8ef206340c8edb63a905d87ce6ac6355d503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661880"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786917"
 ---
-# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Meeskonnatööst väljalogimine, mis lahendab laadimise kogumi tõrke
+# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Teamsi väljalogimine kogumi laadimise tõrke lahendamiseks
 
-Kui kuvatakse tõrketeade "**laadimine tüki xxx ebaõnnestus**", kui pääsete juurde menüü failid jaotises meeskonnad, proovige logida teamsi välja ja seejärel logige tõrke kõrvaldamiseks uuesti sisse.
+Kui teile kuvatakse Teamsis failide vahekaardile juurdepääsemisel tõrketeade " Laadimine tükk **xxx** nurjus ", proovige töörühmadest välja logida ja seejärel tõrke lahendamiseks uuesti sisse logida.
 
-- Teamsi väljalogimise kohta leiate teavet artiklist [meeskondadest väljalogimine](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).
+- Teamsi välja logimise kohta leiate teavet teemast [Teamsi välja logimine.](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487)

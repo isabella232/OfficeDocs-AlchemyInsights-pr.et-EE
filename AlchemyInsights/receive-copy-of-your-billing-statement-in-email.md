@@ -1,8 +1,8 @@
 ---
-title: Saada oma arvelduse väljavõtte koopia meili teel
+title: Arveldusväljavõtte koopia saamine meilisõnumiga
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 8bd05fe4876328e22bbd614a1e6b3ee95338c0ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4b6a5b7e1cff8f109af09009ba5887e8ab38a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693263"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789428"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Saada oma arvelduse väljavõtte koopia meili teel
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Arveldusväljavõtte koopia saamine meilisõnumiga
 
-Saate soovi korral saada oma arvelduse väljavõtte koopia meilisõnumi manusena. Kui te seda teete, võtke arvesse järgmist.
+Saate valida, kas soovite saada oma arveldusarve koopia meilimanusena. Sel juhul pange tähele, et:
   
-- Meilisõnum saadetakse nii esmasele kui ka alternatiivsele meiliaadressile iga teatise adressaadina loetletud isiku jaoks.
+- Meilisõnum saadetakse nii igale teatise adressaadina loetletud isiku esmasele kui ka alternatiivsele meiliaadressile.
 
-- Teile saadetakse kaks eraldi meilisõnumit: üks, mis võimaldab teil teada saada, kas teie arve on valmis, ja juhised selle vaatamiseks administraatori keskusse ning teine meilisõnum, mis sisaldab maksekorraldust manusena.
+- Teile saadetakse kaks eraldi meilisõnumit: üks, mis annab teile teada, et teie arve on valmis, juhised selle vaatamiseks halduskeskusesse sisselogimiseks ja teine meilisõnum, mis sisaldab arveldusarvet manusena.
 
-Meili teel oma arvelduse avalduse vastuvõtmiseks tehke järgmist.
+Arveldusväljavõtte saamiseks meilisõnumiga tehke järgmist.
   
-1. Avage halduskeskus lehel **arvelduse** \> [arveldamise teatised](https://go.microsoft.com/fwlink/p/?linkid=853212) .
+1. Avage halduskeskuses leht **Arveldamise** \> [arveldamise teatised.](https://go.microsoft.com/fwlink/p/?linkid=853212)
 
-2. Jaotises **saada maksekorraldus meili manusena?** lülitage sisse säte **sees**. Saate igal ajal lõpetada arvelduse väljavõtte meilisõnumite vastuvõtmise, kui lülitate funktsiooni Lülita **välja**.
+2. Lülitage **jaotises Kas soovite arve väljavõtte meilimanusena vastu võtta?** asendisse **Sees**. Saate arveldusväljavõtte meilisõnumite saamise igal ajal lõpetada, kui lülitate tumblernupu asendisse **Väljas.**

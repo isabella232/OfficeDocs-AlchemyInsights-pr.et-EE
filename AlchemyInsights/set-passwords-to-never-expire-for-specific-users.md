@@ -2,7 +2,7 @@
 title: SPF-i häälestamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295602"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788987"
 ---
-# <a name="set-passwords-to-never-expire"></a>Paroolide seadmine kunagi aeguma
+# <a name="set-passwords-to-never-expire"></a>Paroolide aegumata määramine
 
-Kui soovite, et kõik paroolid poleks kunagi aegunud, avage Microsoft 365 halduskeskus **sätete**  >  **org sätete > [turbe ja privaatsuse](https://portal.office.com/adminportal/home#/settings/security)  >  [parooli aegumise poliitika](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** ning kontrolli "Sea kasutaja paroolid aeguma pärast päevade arvu".
+Kui soovite, et kõik paroolid ei aeguks kunagi, avage Microsoft 365 halduskeskuses sätted Organisatsiooni sätted > Turbe- ja privaatsusparooli aegumispoliitika ja tühjendage ruut "Määra kasutajaparoolid aeguma pärast teatud  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** päevade arvu".
   
-Üksikasjalikumat teavet leiate järgmistest teemadest:
+Üksikasjalikumat teavet leiate teemast
 
-- [Seadke oma asutuse parooli aegumise poliitika.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [Määrake oma asutuse parooli aegumise poliitika.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Kindlate kasutajate jaoks parooli seadmine pole kunagi aegunud](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [Määrake, et parool ei aeguks teatud kasutajate jaoks kunagi](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [Parool peab vastama keerukuse nõuetele](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [Parool peab vastama keerukusnõuetele](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
