@@ -2,7 +2,7 @@
 title: e-juurdluse ekspordi tööriist
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,24 +15,24 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277946"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814584"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>E-juurdluse ekspordi tööriista ei saa installida või käivitada?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kas te ei saa e-juurdluse ekspordi tööriista installida või käivitada?
 
-Kui te ei saa otsingutulemite allalaadimiseks e-juurdluse ekspordi tööriista installida ega käivitada, kontrollige järgmisi asju.
+Kui te ei saa otsingutulemite allalaadimiseks e-juurdluse ekspordi tööriista installida ega käivitada, kontrollige järgmist.
   
-- Arvuti, mida kasutate, vastab järgmistele eeltingimustele:
+- Arvuti, mida kasutate, vastab rekvisiitide nõuetele.
 
-  - 32-või 64-bitised versioonid Windows 7 ja uuemad versioonid
+  - Windows 7 ja uuemate versioonide 32- või 64-bitised versioonid
 
   - Microsoft .NET Framework 4.7
 
-  - Toetatud brauser.
+  - Toetatud brauser:
 
   - Microsoft Edge
 
@@ -40,12 +40,12 @@ Kui te ei saa otsingutulemite allalaadimiseks e-juurdluse ekspordi tööriista i
 
   - Internet Explorer 10 ja uuemad versioonid
 
-    Muud brauserid (nt Google Chrome ja Mozilla Firefox) ei toeta.
+    Muid brausereid (nt Google Chrome ja Mozilla Firefox) ei toetata.
 
-- Teie asutus saab luua ühenduse lõpp-punktiga Azure ' is, mis on ** \* . blob.Core.Windows.net** (metamärki tähistab teie eksporditoimingu kordumatut identifikaatorit).
+- Teie ettevõte saab luua ühenduse Azure'i lõpp-punktiga, **\* mis on .blob.core.windows.net** (metamärk tähistab teie eksporditöö kordumatut identifikaatorit).
 
-- Olete määranud ekspordi rolli Microsoft 365 turbe &amp; nõuetele vastavuse keskuses. Vaikimisi määratakse see roll ainult e-juurdluse halduri rollirühma. Vaadake teemat e- [juurdluse õiguse määramine](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Teile määratakse Microsoft 365 turbenõuete keskuses &amp; ekspordiroll. Vaikimisi määratakse see roll ainult e-juurdluse halduri rollirühmale. Lugege [teemat E-juurdluse õiguste määramine.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-Lisateavet leiate teemast [sisu otsingutulemite eksportimine](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Lisateavet leiate teemast [Sisuotsingu tulemite eksportimine.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-Kui ekspordite rohkem kui 100K postkaste, peate eksportimise tulemite allalaadimiseks kasutama järgmist PowerShelli, et eksportida  [tulemid enam kui 100k postkastist](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Kui ekspordite rohkem kui 100 K postkasti, peate tulemite eksportimiseks kasutama järgmist PowerShelli: tulemite eksportimine rohkem kui [100K postkastidest.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)

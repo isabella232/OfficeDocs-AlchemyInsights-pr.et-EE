@@ -1,8 +1,8 @@
 ---
-title: Töörühma ja aluseks oleva rühma aegumiskuupäev ei ühti
+title: Töörühma ja selle aluseks oleva rühma aegumiskuupäev ei ühti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 77a10d87cf725339058408ff82b3e58c0736edfd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364665"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813432"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Töörühma ja aluseks oleva rühma aegumiskuupäev ei ühti
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Töörühma ja selle aluseks oleva rühma aegumiskuupäev ei ühti
 
-Enne töörühma pikendamist pikendatakse meeskonda, mis toetab meeskonda. Uuendamise osana määratakse grupile uus kõlblikkusaeg hilisemaks kuupäevaks. See uus kuupäev ei pruugi olla meeskonnas kohe nähtav. Sünkroonimiseks võib kuluda kuni 24 tundi. Kui kuvatakse töörühma ja selle aluseks oleva rühma aegumiskuupäev, oodake 24 tundi enne edasise toe taotlemist.  
+Enne meeskonna uuendamist uuendatakse esmalt rühm, kes meeskonna tagasi liikmed tagasi saab. Pikendamise käigus määratakse rühmale uus aegumiskuupäev tulevaseks kuupäevaks. See uus kuupäev ei pruugi olla Teamsis kohe nähtav. Sünkroonimiseks võib võtta kuni 24 tundi. Kui meeskonna ja selle aluseks oleva rühma aegumiskuupäeva vahel on lahknevus, oodake 24 tundi enne täiendava toe otsimist.  
 
-Lisateavet leiate teemast [töörühma aegumine ja pikendamine Microsoft teamsi](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .
+Lisateavet [leiate teemast Töörühma aegumine ja pikendamine Microsoft Teamsis.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)

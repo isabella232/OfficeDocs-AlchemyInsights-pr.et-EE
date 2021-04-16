@@ -1,27 +1,26 @@
 ---
-title: Microsoft Teamsi uus kasutaja
+title: Microsoft Teamsi häälestamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509141"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786197"
 ---
-# <a name="new-to-microsoft-teams"></a>Microsoft Teamsi uus kasutaja
+# <a name="set-up-microsoft-teams"></a>Microsoft Teamsi häälestamine
 
-Lugege artiklit  [Microsoft Teamsi kasutamise alustamine](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Vaadake kindlasti Microsoft Teamsi IT-administraatorite koolitusvideoid, slaidipakke ja muud teavet.
+[Microsoft Teamsi häälestusjuhend](https://aka.ms/teamsguidance) annab teie organisatsioonile juhised töörühma tööruumide häälestamiseks, kus saab korraldada reaalajas vestlusi sõnumite, kõnede ja heli- või videokoosolekute kaudu nii töörühma kui ka isikliku suhtluse jaoks. Saate juhised oma organisatsiooni võrgustiku nõuete kindlakstegemiseks, kasutades Network Planneri tööriista ja Teamsi evitusnõustajat Teamsi halduskeskuses. Kui juurutamine on lõppenud, sisaldab juhis kasulikke ressursse Teamsi kasutamisega alustamiseks.
 
-Kui vajate abi Teamsi juurutamisel kaugtöötajate toetamiseks COVID-19 viiruse tõttu, lugege artiklit [Kaugtöötajate toetamine Microsoft Teamsi abil](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Samuti on võimalik, et teil on õigus saada juurutusabi Microsoft 365 FastTracki kava kaudu – taotluse esitamiseks külastage [FastTracki keskust](https://www.microsoft.com/fasttrack).
-
-**Tähtis**: Teamsi kasutamise hiljutise suurenemise tõttu võib kasutajale Teamsi litsentsi määramiseks kuluda umbes 24 tundi, enne kui see on täielikult seadistatud. Seni ei saa te neile Teamsi poliitikaid määrata ja neil ei pruugi olla juurdepääsu mõnele Teamsi funktsioonile (nt helistamine ja helikonverents).
+Lisateavet vaadake teemast [Microsoft Teamsi kasutamise alustamine](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).

@@ -2,7 +2,7 @@
 title: e-juurdlus Yammeri võrkudes
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710912"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814476"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>e-juurdlus Yammeri võrkudes
 
-Nüüd saate e-juurdlust kasutada Yammeri sisu otsimiseks.  E-juurdluse käigus otsitakse või eksporditakse Yammeri sisu jaoks järgmisi toiminguid.
+Nüüd saate Yammeri sisu e-juurdluse otsinguid teha.  Yammeri sisust e-juurdluse otsingute otsimine või eksportimine nõuab järgmist.
 
-1. Yammeri Enterprise Network tuleb kõigepealt migreerida kohalikule režiimile, et muuta Yammeri sõnumid ja failid leitaks. **Märkus: kui oled uus klient Jan. 9th 2020 ja teie Yammeri võrk on juba kohalikus režiimis, on teie andmed nüüd e-juurdlusega leitav**.
+1. Yammeri sõnumite ja failide leidmiseks peate esmalt migreerima Yammeri Enterprise'i võrgu omarežiimi. Märkus. Kui olete alates 9. jaanuarist 2020 uus klient ja teie Yammeri võrk on juba omarežiimis, on teie andmed nüüd **e-juurdluse abil leitavad.**
 
-2. Klientidest lahkumiseks on Yammeri e-juurdlus saadaval kohe, kui Native mode joonduse tööriist on välja antud ja kohalik režiim migreerimine on rentniku jaoks valmis.
+2. Klientidest väljumiseks on Yammeri e-juurdlus saadaval siis, kui native Mode Alignmenti tööriist on välja antud ja Rentnikus on Yammeri migreerimine lõpule viidud.
 
-Lisateavet leiate järgmistest teemadest.
+Lisateavet leiate:
 
-- Kohalik režiim Yammeri kaudu leiate teemast [kohaliku režiimi ülevaade](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- e-juurdlus Yammeri võrkudes vt: e- [juurdluse ülevaade Yammeri võrkudes](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- e-juurdlus rakenduses Microsoft 365 lugege artiklit e- [juurdlus rakenduses microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Native Mode in Yammer, vt: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- e-juurdlus Yammeri võrkudes leiate teemast [Ülevaade e-juurdlusest Yammeri võrkudes.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- e-juurdlus microsoft 365-s, lugege [teemat e-juurdlus Microsoft 365-s.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

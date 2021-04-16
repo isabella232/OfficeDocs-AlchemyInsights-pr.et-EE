@@ -1,8 +1,8 @@
 ---
-title: Faili ühiskasutus Windows 10 võrgus
+title: Failide ühiskasutus võrgus opsüsteemis Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745387"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813144"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>Faili ühiskasutus Windows 10 võrgus
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Failide ühiskasutus võrgus opsüsteemis Windows 10
 
-**Märkus**: kui kasutasite varem kodurühma failide ühiskasutusse andmiseks, Pange tähele, et Kodurühm on opsüsteemist Windows 10 eemaldatud (versioon 1803). Nüüd saate printerite ja failide ühiskasutusse anda Windows 10 sisseehitatud funktsioonide abil.
+**Märkus.** Kui kasutasite failide ühiskasutuseks varem HomeGroupi, võtke arvesse, et HomeGroup on windows 10-st (versioon 1803) eemaldatud. Nüüd saate printereid ja faile ühiskasutusse anda Windows 10 sisseehitatud funktsioonide abil.
 
-**Failide ja kaustade ühiskasutusse andmine võrgu kaudu**
+**Failide või kaustade ühiskasutus võrgus**
 
-- Valige **faili Exploreris**faili > klõpsake jaotises **ühiskasutusse andmine** ülaosas > menüüd **ühiskasutus** , klõpsake nuppu **teatud inimesed**.
+- Valige **File Exploreris** fail, > klõpsake  jaotise Ühiskasutus jaotises Ühiskasutus nuppu  Anna ühiskasutusse > klõpsake nuppu **Konkreetsed inimesed**.
 
-    ![Saate faili ühiskasutusse anda kindlate inimestega.](media/share-with-specific-people.png)
+    ![Andke fail ühiskasutusse kindlatele inimestele.](media/share-with-specific-people.png)
           
-- Kui valite korraga mitu faili, saate need kõik samal viisil ühiskasutusse anda. See toimib ka kaustade jaoks.
+- Kui valite korraga mitu faili, saate neid kõiki samal viisil ühiskasutusse anda. See töötab ka kaustade puhul.
 
-**Failide ühiskasutus võrgus olevate seadmete kuvamiseks**
+**Failide ühiskasutusega seadmete võrku vaatamine**
 
-- Valige **failis Explorer**jaotis **võrk**. Kui võrgutuvastus pole lubatud, kuvatakse tõrketeade "võrgutuvastus on välja lülitatud..."
+- Avage **File Exploreris** **Võrk**. Kui võrgutuvastus pole lubatud, kuvatakse tõrketeade "Võrgutuvastus on välja lülitatud..."
 
-- Klõpsake nuppu **võrgutuvastus on välja lülitatud** ja seejärel klõpsake käsku **Lülita võrgutuvastus ja failid ühiskasutusse**.
+- Klõpsake **ribareklaami välja lülitatud võrgutuvastust** ja seejärel käsku **Lülita võrgutuvastus ja failide ühiskasutus sisse.**
 
-    ![Lülitage võrgutuvastus ja failid ühiskasutusse.](media/turn-on-network-discovery.png)
+    ![Lülitage sisse võrgutuvastus ja failide ühiskasutus.](media/turn-on-network-discovery.png)
 
-[Lugege lisateavet faili ühiskasutuse kohta võrgu kaudu](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
+[Lisateavet failide ühiskasutuse kohta võrgus](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[Failide ühiskasutus rakenduste, OneDrive ' i, meilisõnumite ja muude funktsioonide abil](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[Failide ühiskasutus rakenduste, OneDrive'i, meilisõnumite ja muu abil](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

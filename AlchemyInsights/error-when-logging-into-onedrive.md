@@ -1,8 +1,8 @@
 ---
-title: OneDrive ' i käivitamisel ilmneb 0x8004de40 tõrge
+title: 0x8004de40 OneDrive'i käivitamisel ilmnes tõrge
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: f689fcf9432e9b356843efe73ed0f79a32735e6f
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823018"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813648"
 ---
-# <a name="0x8004de40-error-when-launching-onedrive"></a>OneDrive ' i käivitamisel ilmneb 0x8004de40 tõrge
+# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 OneDrive'i käivitamisel ilmnes tõrge
 
-Kui OneDrive ' i sisselogimisel ilmneb tõrge **0x8004de40** , taaskäivitage arvuti töö või kooli domeeniga ühendatud. Kui tõrketeade kuvatakse pärast taaskäivitamist, proovige seda siis, kui olete oma töö või kooli domeeniga ühendatud.
+Kui **OneDrive'0x8004de40** sisselogimisel kuvatakse tõrketeade, taaskäivitage arvuti töö- või koolidomeeniga ühenduse loomise ajal. Kui teile kuvatakse see tõrge pärast taaskäivitamist, proovige seda töö- või koolidomeeniga ühenduse saamisel.
 
-1. Klõpsake nuppu Start ja **Tippige väljale Otsing** tekst **cmd** või Käsuviip, paremklõpsake käsuviiba rakendust ja valige **Käivita administraatorina** . Kui teilt küsitakse administraatori parooli või kinnitust, tippige parool või klõpsake nuppu **Luba** .  
+1. Klõpsake nuppu Start ja  tippige **otsinguväljale tekst cmd** või käsuviip, paremklõpsake käsuviiba rakendust ja valige **Käivita administraatorina**. Kui teilt küsitakse administraatoriparooli või kinnitust, tippige parool või klõpsake nuppu **Luba**.  
 
-2. Tippige käsuviiba aknas **dsregcmd/Leave**  ja oodake, kuni käsk on täidetud. Seejärel tippige **dsregcmd/JOIN** ja oodake, kuni käsk on täidetud.
+2. Tippige aknas Käsuviip **tekst dsregcmd /leave**  ja oodake, kuni käsk lõpule jõuaks. Seejärel tippige **dsregcmd /join** ja oodake, kuni käsk on lõpule viidud.
 3. Taaskäivitage arvuti.

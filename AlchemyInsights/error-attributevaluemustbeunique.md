@@ -1,8 +1,8 @@
 ---
-title: AttributeValueMustBeUnique tõrge
+title: Error AttributeValueMustBeUnique
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 4627a7ae34b0dd9f16538ef75ac8792672dcc056
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 35eb88624a5535e136ac1d01faf8e905bf00eb45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709147"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813756"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Tõrge: AttributeValueMustBeUnique
 
-AttributeValueMustBeUnique ' i tõrke kõige tavalisem põhjus on kaks erinevat SourceAnchor (immutableId) objekti, millel on ProxyAddresses ja/või UserPrincipalName atribuudid sama väärtus. AttributeValueMustBeUnique vea parandamiseks tehke järgmist.
+Tõrke AttributeValueMustBeUnique kõige levinum põhjus on kaks erineva SourceAnchoriga (immutableId) objekti, mille atribuudil ProxyAddresses ja/või UserPrincipalName on sama väärtus. Tõrke AttributeValueMustBeUnique parandamiseks:
   
-1. Tuvastage viga põhjustava dubleeritud proxyAddresses, userPrincipalName või muu atribuudi väärtus. Samuti saate tuvastada, millised kaks (või enam) objekti on konfliktis kaasatud. Azure AD Connecti Health for Synci loodud aruanded aitavad teil kaks objekti tuvastada.
+1. Tuvastage dubleeritud proxyAddresses, userPrincipalName või muu atribuudi väärtus, mis vea põhjustab. Samuti saate tuvastada, millised kaks (või enam) objekti on konflikti kaasatud. Azure AD Connecti seisundi sünkroonimiseks loodud aruanne aitab teil tuvastada kaks objekti.
     
-2. Tuvastage, millisel objektil peaks jätkuma dubleeritud väärtus ja mida objekt ei peaks olema.
+2. Tuvastage, milline objekt peaks jätkuvalt dubleeritud väärtust omama ja millist objekti ei tohiks kasutada.
     
-3. Eemaldage sellelt objektilt kopeeritud väärtus, mis ei tohiks olla selle väärtusega. Pange tähele, et peate tegema muudatuse kataloogist, kust objekt pärineb. Mõnel juhul peate võib-olla mõne konfliktis oleva objekti kustutama.
+3. Eemaldage dubleeritud väärtus objektilt, mis ei tohiks seda väärtust omada. Pange tähele, et peaksite tegema muudatuse kataloogis, kust objekt on pärit. Mõnel juhul peate võib-olla ühe konfliktis oleva objekti kustutama.
     
-4. Kui tegite kohapealses REKLAAMIs muudatuse, siis lubage Azure AD Connecti abil taastada tõrke muutus.
+4. Kui tegite muudatuse kohapeal AD-s, laske Azure AD Connect'is tõrke muutmisel muudatust sünkroonida.
     
 

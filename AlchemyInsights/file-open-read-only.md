@@ -1,8 +1,8 @@
 ---
-title: Avatud kirjutuskaitstud pilt
+title: Fail on avatud kirjutuskaitstuna
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,43 +13,43 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745575"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813180"
 ---
-# <a name="file-open-read-only"></a>Avatud kirjutuskaitstud pilt
+# <a name="file-open-read-only"></a>Fail on avatud kirjutuskaitstuna
 
-Võib juhtuda, et failide avamisel avatakse need kirjutuskaitstuna. Mõnel juhul on see lisatud turbe jaoks (nt failide avamisel internetist) ja muul ajal võib see olla tingitud mõnest muudetavast sätest. Siin on mõned stsenaariumid, kus faili avamisel kuvatakse kirjutuskaitstuna, ja mõnda toimingut, mida saate selle muutmiseks teha.
+Võimalik, et failide avamisel avatakse need kirjutuskaitstuna. Mõnel juhul on see turvalisuse tagamiseks (nt failide avamisel Internetist) ja muudel aegadel võib põhjuseks olla säte, mida saab muuta. Siin on mõned stsenaariumid, kus fail avaneb kirjutuskaitstuna, ja mõned toimingud, mida saate selle muutmiseks teha.
   
- **Minu viirusetõrje põhjustab neile kirjutuskaitstud avamise**
+ **Minu viirusetõrje põhjustab nende kirjutuskaitstud avamiseks**
   
-Mõned viirusetõrjeprogrammid võivad teid potentsiaalselt ebaturvaliste failide eest kaitsta, avades need kirjutuskaitstud. Nende sätete kohandamise kohta leiate teavet teemast viirusetõrje pakkujalt. BitDefender, näiteks on sisu lisamise kohta rakenduse välistused siin: [Kuidas lisada rakenduse või protsessi välistused Bitdefender Control Center](https://aka.ms/AA6098i).
+Mõned viirusetõrjeprogrammid võivad teid kaitsta potentsiaalselt ebaturvaliste failide eest, avades need kirjutuskaitstuna. Võimalik, et peate nende sätete kohandamise kohta teavet oma viirusetõrjeteenuse pakkujalt kontrollima. BitDefender sisaldab näiteks sisu rakenduse välistamiste lisamise kohta siin: Rakenduse või protsessi välistamiste lisamine [Bitdefenderi juhtimiskeskuses.](https://aka.ms/AA6098i)
   
- **Kas failiatribuudid on seatud kirjutuskaitstuks?**
+ **Kas failia atribuudid on seatud kirjutuskaitstuks?**
   
-Failide atribuutide kontrollimiseks paremklõpsake seda ja valige suvand atribuudid. Kui kirjutuskaitstud atribuut on märgitud, saate selle tühjendada ja klõpsata nuppu OK.
+Failiasuvaid atribuute saate kontrollida, paremklõpsades faili ja valides käsu Atribuudid. Kui atribuut Kirjutuskaitstud on märgitud, saate selle tühjendada ja klõpsata nuppu OK.
   
  **Sisu on kaitstud vaates**
   
-Internetist ja muudest potentsiaalselt ebaturvalistest asukohtadest pärit failid võivad sisaldada viirusi, usse või muud tüüpi ründevara, mis võivad teie arvutit kahjustada. See kehtib ka juhul, kui meilisõnumi manused või failid on alla laaditud. Arvuti kaitsmiseks avatakse nende potentsiaalselt ebaturvaliste asukohtade failid kaitstud vaates. Kaitstud vaate abil saate lugeda faili ja vaadata selle sisu riskide vähendamisel. Lisateavet kaitstud vaate ja sätete muutmise kohta leiate sellest artiklist: [mis on kaitstud vaade?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Internetist ja muudest potentsiaalselt ebaturvalistest asukohtadest pärit failid võivad sisaldada viirusi, ussviirusi või muud tüüpi ründevara, mis võivad teie arvutit kahjustada. See kehtib tavaliselt ka meilimanuste või allalaaditud failide korral. Arvuti kaitsmiseks avatakse kaitstud vaates failid nende potentsiaalselt ebaturvaliste asukohtade eest. Kaitstud vaate abil saate lugeda faili ja vaadata selle sisu, vähendades samal ajal riske. Lisateavet kaitstud vaate ja sätete muutmise kohta leiate sellest artiklist Mis on [kaitstud vaade?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Kas OneDrive on täis?**
   
-Kui failid on talletatud OneDrive ' is ja teie OneDrive ' i salvestusruum on täis, siis ei saa te dokumenti salvestada enne, kui olete oma määratud ruumi all. Saate OneDrive ' is oma vaba ruumi kontrollida, klõpsates Teabekeskuses OneDrive ' i ikooni ja valides käsu Halda salvestusruumi, või saate minna [https://onedrive.live.com](https://onedrive.live.com) , sisse logida ja märkida ekraani vasakus allnurgas kasutatud ruumi summa.
+Kui fail on salvestatud OneDrive'i ja teie OneDrive'i salvestusruum on täis, ei saa te dokumenti salvestada enne, kui olete eraldatud ruumi all. Saate oneDrive'is vaba ruumi kontrollida, klõpsates teavituskeskuses OneDrive'i ikooni ja valides käsu Halda salvestusruumi või saate avada , sisse logida ja märkida ekraani vasakus allnurgas kasutatud [https://onedrive.live.com](https://onedrive.live.com) ruumi.
   
  **Kas Office on aktiveeritud?**
   
-Kui Office pole aktiveeritud või kui teie tellimus on aegunud, võite olla kirjutuskaitstud vähendatud funktsionaalsusega režiimis. Lisateavet Office ' i aktiveerimise kohta leiate teemast [litsentsimata toote ja aktiveerimise tõrked Office ' is](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Kui Office pole aktiveeritud või teie tellimus on aegunud, võite olla kirjutuskaitstud vähendatud funktsionaalsusega režiimis. Lisateavet Office'i aktiveerimise kohta leiate teemast [Litsentsimata toote- ja aktiveerimistõrked Office's.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
   
  **Kui kõik muu nurjub...**
   
 - Proovige arvuti taaskäivitada
     
-- Office ' i värskenduste installimine
+- Office'i värskenduste installimine
     
-- Office ' i võrgus parandamise toimingute tegemine
+- Office'i parandamine võrgus
     
 
