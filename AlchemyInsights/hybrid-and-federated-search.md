@@ -1,8 +1,8 @@
 ---
-title: Hübriid ja väline otsing
+title: Hübriid- ja liitotsing
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 43071a3166735d61ca8cd8ae5ce74aa018ed9d15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f6e19baf0701c1feafa218773af7f0dcce5eaaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743795"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795872"
 ---
-# <a name="hybrid-and-federated-searches"></a>Hübriid-ja välisotsingud 
+# <a name="hybrid-and-federated-searches"></a>Hübriid- ja liitotsingud 
 
-Lisateavet SharePoint Online ' i hübriid-ja välisotsingu kohta leiate teemast SharePoint Online ' i [hübriid-otsingu](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+Lisateavet hübriid- ja liitotsingu kohta SharePoint Online'is leiate teemast [Hübriidotsing SharePointis.](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
 
-Lisateavet hübriid-välise otsingu kavandamise kohta leiate teemast [SharePoint Serveri hübriid-välise otsingu plaanimine](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+Hübriidse liitotsingu plaanimise kohta leiate teavet teemast [Hübriidse liitotsingu kavandamine SharePoint Serveri jaoks.](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)

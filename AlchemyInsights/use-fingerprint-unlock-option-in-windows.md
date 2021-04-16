@@ -1,8 +1,8 @@
 ---
-title: Windows 10 sõrmejälgede avamise suvandi kasutamine
+title: Sõrmejälje lukust vabastamise suvandi kasutamine opsüsteemis Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795240"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796673"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Windows 10 sõrmejälgede avamise suvandi kasutamine
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Sõrmejälje lukust vabastamise suvandi kasutamine opsüsteemis Windows 10
 
 **Luba Windows Hello sõrmejälg**
 
-Kui soovite Windows 10 oma sõrmejälgede abil vabastada, peate häälestama Windows Hello sõrmejälje, lisades (lastes Windows õppima ära tundma) vähemalt ühe sõrmega. 
+Windows 10 avamiseks sõrmejälje abil peate häälestama Windows Hello sõrmejälje, lisades (lastes Windowsil ära tunda) vähemalt ühe sõrme. 
 
-1. Valige **sätted, > kontode > sisselogimise suvandid** (või klõpsake [siin](ms-settings:signinoptions?activationSource=GetHelp)). Saadaolevad sisselogimise suvandid on loetletud. Näiteks.
+1. Avage **Sätted > Kontod > sisselogimissuvandid** (või klõpsake [siin).](ms-settings:signinoptions?activationSource=GetHelp) Kuvatakse saadaolevad sisselogimissuvandid. Näide.
 
-    ![Sisselogimise suvandid.](media/sign-in-options.png)
+    ![Sisselogimissuvandid.](media/sign-in-options.png)
 
-2. Klõpsake või puudutage valikut **Windows Hello sõrmejälg**ja seejärel klõpsake nuppu **Häälesta**. Klõpsake Windowsi Hello häälestamise aknas nuppu **Alustamine**. Sõrmejäljelugeja aktiveerub ja teil palutakse sõrm sensori ette paigutada.
+2. Klõpsake või **puudutage valikut Windows Hello Fingerprint (Windows Hello sõrmejälg)** ja **seejärel nuppu Set up (Häälesta).** Klõpsake Windows Hello häälestusaknas **nuppu Alustamine.** Sõrmejäljeandur aktiveeritakse ja teil palutakse sõrm andurile asetada.
 
-   ![Sõrmejälgede andur.](media/fingerprint-sensor.png)
+   ![Sõrmejäljeandur.](media/fingerprint-sensor.png)
 
-3. Järgige juhiseid, mis paluvad teil sõrme korduvalt skannida. Kui see on valmis, on teil võimalus lisada muid sõrmi, mida soovite kasutada sisselogimiseks. Järgmine kord, kui logite sisse operatsioonisüsteemi Windows 10, on teil võimalus kasutada oma sõrmejälge.
+3. Järgige juhiseid, mis paluvad teil sõrme korduvalt skannida. Kui see on valmis, saate lisada muid sõrmi, mida soovite sisselogimiseks kasutada. Järgmine kord, kui logite windows 10 sisse, saate selleks kasutada oma sõrmejälge.
 
-**Windows Hello sõrmejälg pole sisselogimise suvandina saadaval**
+**Windows Hello sõrmejälg pole sisselogimissuvandina saadaval**
 
-Kui Windows Hello sõrmejälge ei kuvata **sisselogimise**suvandites, tähendab see seda, et Windows ei ole teadlik teie arvutiga ühendatud sõrmejäljelugeja/skannerist või et süsteemi poliitika takistab selle kasutamist (näiteks teie arvutit haldab teie töökoht). Tõrkeotsingu sooritamiseks tehke järgmist. 
+Kui Windows Hello sõrmejälge ei kuvata sisselogimissuvandites suvandina, siis tähendab see, et Windows ei tea teie arvutile manustatud sõrmejäljelugejat/skannerit või et süsteemipoliitika takistab selle kasutamist (nt teie arvutit haldab teie töökoht). Tõrkeotsinguks tehke seda. 
 
-1. Valige tegumiribal nupp **Start** ja otsige üles **Seadmehaldur**.
+1. Valige **tegumiribal** nupp Start ja otsige **seadmehaldurit.**
 
-2. **Seadmehalduri**avamiseks klõpsake või koputage seda.
+2. Klõpsake või puudutage **seadmehalduri avamiseks.**
 
-3. Seadmehalduris laiendage biomeetriliste seadmete klõpsamisel selle Chevron.
+3. Laiendage seadmehalduris valikut Biomeetrilised seadmed, klõpsates selle rööpnoolt.
 
    ![Biomeetrilised seadmed.](media/biometric-devices.png)
 
-4. Teie sõrmejälgede skanner tuleks loetleda biomeetriliste seadmetena (nt Synaptics WBDI skanner).
+4. Teie sõrmejäljeskanner peaks olema loetletud biomeetrilise seadmena (nt Synaptics WBDI skanner).
 
    ![Biomeetrilised seadmed.](media/biometric-devices-expanded.png)
 
-5. Kui teie sõrmejälgede skannerit ei kuvata ja skanner on teie ARVUTISSE integreeritud, avage arvuti tootja veebisait. Otsige oma arvuti mudelist tehnilise toe jaotisest üles Windows 10 draiver skannerile, mida saate installida.
+5. Kui teie sõrmejäljeskannerit ei kuvata ja skanner on arvutisse integreeritud, minge arvuti tootja veebisaidile. Otsige arvutimudeli tehnilise toe jaotisest windows 10 draiverit, mille saate installida.
 
-6. Kui skanner on PC-arvutist eraldi (lisatud USB kaudu), avage skanneri tootja veebisait, et otsida ja installida Windows 10 seadme draiveri tarkvara teie skanneri mudeli jaoks.
+6. Kui skanner on arvutist eraldi (usb-seadme kaudu manustatud), minge skanneri tootja veebisaidile, et leida ja installida Windows 10 seadmedraiveri tarkvara teie skannerimudeli jaoks.
