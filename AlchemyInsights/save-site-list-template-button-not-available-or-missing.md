@@ -1,31 +1,32 @@
 ---
-title: Saidi/loendimalli nupu salvestamine pole saadaval või puudub
+title: Saidi-/loendimalli salvestamisnupp pole saadaval või puudub
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357641"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789284"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Saidi/loendimalli nupu salvestamine pole saadaval või puudub
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Saidi-/loendimalli salvestamisnupp pole saadaval või puudub
 
-Kaasaegne side-või meeskonnatöö saidid ei toeta saidi mallina salvestamise võimalust. Mallide kasutamise kohta lisateabe saamiseks vaadake teemat [salvestamine, allalaadimine ja üleslaadimine SharePointi saidi mallina](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+Kaasaegsed suhtlus- ja meeskonnatöö saidid ei toeta saidi mallina salvestamise võimalust. Mallide kasutamise kohta leiate lisateavet teemast [SharePointi saidi salvestamine, allalaadimine ja üleslaadimine mallina](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Administraatorid peavad lubama kohandatud skripti malli funktsioonide lubamiseks. Üksikasjalike sammude, näidetega ja kaalutluste kohta vt:
+Malli funktsioonide lubamiseks peavad administraatorid lubama kohandatud skripti. Üksikasjalikud juhised, näited ja asjaolud, millega arvestada, leiate teemast
 
-- [Kohandatud skripti lubamine või vältimine](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Kohandatud skripti lubamine või keelamine](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Salvesta sait mallina käsk ei toetata ja võib põhjustada probleeme saitidel, mis kasutavad SharePoint Serveri Avaldamisinfrastruktuur.
+- Käsku Salvesta sait mallina ei toetata ja see võib põhjustada probleeme saitidel, mis kasutavad SharePoint Serveri avaldamistaristut.
 
 
