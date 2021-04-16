@@ -2,7 +2,7 @@
 title: Privaatne kanal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801801"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790400"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Microsoft Teamsi privaatsed kanalid
+# <a name="private-channels-in-microsoft-teams"></a>Erakanalid Microsoft Teamsis
 
-Microsoft Teamsi privaatsed kanalid loovad teie meeskonnas koostööks keskendatud ruumid. Kanalile pääsevad juurde ainult töörühma need kasutajad, kes on erakanali omanikud või liikmed. Erakanali liikmete hulka saab lisada kõiki kasutajaid, sealhulgas külalisi, ehkki nad peavad selleks olema töörühma liikmed.
+Microsoft Teamsi privaatsed kanalid loovad meeskonnasiseseks koostööks fookeeritud tühikuid. Kanalile pääsevad juurde ainult töörühma need kasutajad, kes on erakanali omanikud või liikmed. Erakanali liikmete hulka saab lisada kõiki kasutajaid, sealhulgas külalisi, ehkki nad peavad selleks olema töörühma liikmed.
 
-Lisateavet leiate teemast [privaatsed kanalid Microsoft teamsi](https://docs.microsoft.com/MicrosoftTeams/private-channels). See sisaldab teavet (nt [Privaatne kanali loomine ja liikmelisus](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ning [Privaatne kanali SharePointi saidid](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)).
+Lisateabe saamiseks alustage [Microsoft Teamsi erakanalitega.](https://docs.microsoft.com/MicrosoftTeams/private-channels) See hõlmab näiteks privaatse kanali [loomist ja liikmelisust ning](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) SharePointi [erakanali saite.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
-**Kas vajate uue meeskonna omanikku?**
+**Kas vajate uut meeskonnaomanikt?**
 
-Kui teie era-kanali omanik lahkub teie ettevõttest või eemaldatakse rühmast, edutatakse erasektori kanali omanik automaatselt.
+Kui teie erakanali omanik lahkub teie asutusest või eemaldatakse rühmast, on erakanali liige automaatselt erakanali omanik.
 
-Administraatorid saavad vaadata ka [Microsoft teamsi privaatsete kanalite elutsüklit](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) , et saada lisateavet selle kohta, kes saab luua privaatseid kanaleid ning kuidas aidata luua e-juurdluse või juriidilise isiku jaoks päringuid.
+Administraatorid saavad vaadata ka [teemat Erakanalite](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) elutsükli haldamine Microsoft Teamsis, et saada lisateavet poliitikate kohta, mille abil hallata, kes saavad luua erakanaleid, ning võimalusi e-juurdluse või seaduslike kanalite jaoks päringute loomiseks.

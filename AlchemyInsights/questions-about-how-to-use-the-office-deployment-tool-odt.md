@@ -1,8 +1,8 @@
 ---
-title: Office ' i juurutamise tööriista (ODT) kasutamise küsimused
+title: Küsimused Office'i juurutustööriista (ODT) kasutamise kohta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086152"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790328"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Office ' i juurutamise tööriista (ODT) kasutamise küsimused
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Küsimused Office'i juurutustööriista (ODT) kasutamise kohta
 
-Laadige Office ' i juurutamise tööriist alla [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+Laadige Alla Office'i juurutamise tööriist [Microsofti allalaadimiskeskusest.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
   
-Pärast faili allalaadimist käivitage iseavanev käivitatava faili, mis sisaldab Office ' i juurutamise tööriista täitmisfaili (setupodt.exe) ja proovi konfiguratsioonifaili (configuration.xml).
+Pärast faili allalaadimist käivitage iseavanev täitmisfail, mis sisaldab Office'i juurutustööriista täitmisfaili (setup.exe) ja näidiskonfiguratsioonifaili (configuration.xml).
   
- **Klientarvutitest Enterprise ' i toodete Microsoft 365 rakenduste välistamiseks või eemaldamiseks tehke järgmist.**
+ **Ettevõttetoodete jaoks ettevalmistatud Microsoft 365 rakenduste välistamiseks või eemaldamiseks klientarvutitest:**
   
-Kui installite Microsoft 365 rakendusi Enterprise ' ile, saate kindlad tooted välja jätta. Selleks järgige Office ' i installimisel ODT-s olevaid juhiseid, kuid lisage konfiguratsioonifaili ExcludeApp element. See konfiguratsioonifail installib näiteks kõik Enterprise ' i toodetele (v. a Publisher) Microsoft 365 rakendused.
+Kui installite Microsoft 365 apps for enterprise, saate teatud tooted välistada. Selleks järgige Juhiseid Office'i installimiseks ODT-ga, kuid lisage konfiguratsioonifaili element ExcludeApp. Näiteks installib see konfiguratsioonifail kõik Microsoft 365 rakendused ettevõttetoodete jaoks, v.a Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ Kui installite Microsoft 365 rakendusi Enterprise ' ile, saate kindlad tooted v�
 </Add>
 ```
 
-[Office ' i juurutamise tööriista ülevaade](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[Office'i juurutustööriista ülevaade](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 
