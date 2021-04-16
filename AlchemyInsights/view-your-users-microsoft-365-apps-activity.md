@@ -1,8 +1,8 @@
 ---
-title: Kasutajate Microsoft 365 rakenduste tegevuse kuvamine
+title: Kasutajate Microsoft 365 rakenduste tegevuste vaatamiseks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664634"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806618"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a>Kasutajate Microsoft 365 rakenduste tegevuse kuvamine
+# <a name="view-your-users-microsoft-365-apps-activity"></a>Kasutajate Microsoft 365 rakenduste tegevuste vaatamiseks
 
-[Office ' i aktiveerimise raportis](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) antakse ülevaade sellest, millised kasutajad on installinud ja aktiveerinud oma Microsoft 365 rakendused vähemalt ühe seadmega.
+[Office'i aktiveerimise aruanne](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) annab ülevaate sellest, millised kasutajad on oma Microsoft 365 rakendused vähemalt ühte seadmesse installinud ja aktiveerinud.
 
-Lisaks saate [microsoft 365 rakenduste kasutamise aruandeid](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)kasutades vaadata kasutajate Microsoft 365 rakenduste tegevust.
+Lisaks saate vaadata oma kasutajate Microsoft 365 rakendustega seotud [tegevusi, kasutades Microsoft 365 rakenduste kasutusaruannet.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)
