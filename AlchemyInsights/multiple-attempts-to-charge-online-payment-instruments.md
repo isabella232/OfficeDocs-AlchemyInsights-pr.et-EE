@@ -1,8 +1,8 @@
 ---
-title: Mitu katset tasuda võrgus makseviisid
+title: Mitu katset tasuda veebipõhiseid makseinstrumente
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: c0e62b02dec50f3bb4e42c1775e9d04d4c3806d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c177c88b3df5846f824d69efa3eb8c112e430
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724647"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792704"
 ---
-# <a name="past-due-account"></a>Kas on möödunud õige konto?
+# <a name="past-due-account"></a>Kas maksetähtaeg on möödunud?
 
-Makse saab tagasi lükata mitmel põhjusel, sh siis, kui krediitkaart on aegunud. Saate igal ajal kasutada funktsiooni **Maksa tasumata osa** oma krediitkaarditeabe muutmiseks ja makse uuesti edastamiseks.
+Maksest saab keelduda mitmel põhjusel( sh juhul, kui krediitkaart on aegunud). Saate igal ajal kasutada funktsiooni **Maksa tasumata osa** oma krediitkaarditeabe muutmiseks ja makse uuesti edastamiseks.
 
-1. Avage halduskeskus **> [toodete & teenuste](https://go.microsoft.com/fwlink/p/?linkid=842054)arveldamine**.
-Leidke pakett, millel on tasumata saldo. Paketti **arveldus jaotises arveldamine** **on möödunud maksetähtaeg**, klõpsake kogu poolelioleva saldo maksmiseks nuppu **Tasakaalusta saldo** .
-2. Kui omate krediitkaarti, saate aegumiskuupäeva muuta, valida mõne muu kaardi või [lisada uue kaardi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-3. Kui teil krediitkaarti pole, saate valida mõne muu krediitkaardi või [lisada uue kaardi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-4. Kui olete värskendused lõpetanud, klõpsake nuppu **Salvesta**.
+1. Avage halduskeskuses Arveldamine ja **> [tooted & teenused.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+Leidke tellimus tasumata saldoga. Kogu **tasumata** saldo maksmiseks klõpsake jaotises Arveldamine  tellimuse kõrval nuppu Tasakaalusta saldo. 
+2. Kui teil on krediitkaart, saate aegumiskuupäeva muuta, valida muu kaardi või [lisada uue kaardi.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+3. Kui teil krediitkaarti ei ole, saate valida muu krediitkaardi või [lisada uue kaardi.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+4. Kui olete värskendused lõpule viinud, klõpsake nuppu **Salvesta**.
 
-**Märkus**: pärast makse sooritamist võib hilisem teavitamine siiski olla lühikese aja jooksul nähtav. Palun oota vähemalt **48 tundi** enne toe poole pöördumist.
+**Märkus.** Kui makse on tehtud, võib maksetähtaegne teatis olla lühikese aja jooksul endiselt nähtav. Enne tugiteenuste poole pöördumist oodake vähemalt **48** tundi.

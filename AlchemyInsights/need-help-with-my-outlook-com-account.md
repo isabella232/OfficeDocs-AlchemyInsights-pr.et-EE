@@ -1,8 +1,8 @@
 ---
-title: Vajad minu Outlook.com kontoga abi
+title: Vajate abi oma Outlook.com kontoga
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803277"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792380"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Vajad minu Outlook.com kontoga abi
+# <a name="need-help-with-my-outlookcom-account"></a>Vajate abi oma Outlook.com kontoga
 
-Kui vajate abi Outlook.com teenusega, on meil teie abistamiseks pühendatud abi. Toe hankimiseks otse veebirakenduses tehke järgmist. 
+Kui vajate abi Outlook.com, on meil teile abiks spetsiaalne abi. Tugiteenused otse veebirakenduses: 
 
-1. Klõpsa? ekraani paremas ülanurgas ikoon. 
+1. Klõpsake nuppu ? ekraani paremas ülanurgas. 
 
-2. Tippige väljale spikker soovitud abi ja klõpsake nuppu **Edasta**. 
+2. Tippige abi vajaminev teave hüpikpaneelil kuvatavale spikriväljale ja klõpsake nuppu **Edasta**. 
 
-3. Kui lahendust ei esitata, liikuge kursoriga allapoole ja klõpsake nuppu **Saada meile**.
+3. Kui lahendust ei esitata, kerige külgpaneelil allapoole ja klõpsake meili **teel.**
