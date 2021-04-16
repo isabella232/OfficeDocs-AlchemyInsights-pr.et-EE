@@ -1,8 +1,8 @@
 ---
-title: Heli suurendamise väljalülitamine
+title: Heli täiustuste väljalülitamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ef63ec3a2358fc1c1aedfe1e280c46b3d0eb029
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797184"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808751"
 ---
-# <a name="turn-off-audio-enhancement"></a><span data-ttu-id="8e336-102">Heli suurendamise väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="8e336-102">Turn off audio enhancement</span></span>
+# <a name="turn-off-audio-enhancement"></a><span data-ttu-id="f3e51-102">Heli täiustuste väljalülitamine</span><span class="sxs-lookup"><span data-stu-id="f3e51-102">Turn off audio enhancement</span></span>
 
-<span data-ttu-id="8e336-103">Tehke järgmist.</span><span class="sxs-lookup"><span data-stu-id="8e336-103">Follow these steps:</span></span>
+<span data-ttu-id="f3e51-103">Tehke järgmist.</span><span class="sxs-lookup"><span data-stu-id="f3e51-103">Follow these steps:</span></span>
 
-1. <span data-ttu-id="8e336-104">Klõpsake nuppu **Start**, sisestage **heli**ja valige tulemite **loendist heli Juhtpaneel** või **Muuda süsteemi helisid** .</span><span class="sxs-lookup"><span data-stu-id="8e336-104">Go to **Start**, enter **Sound**, and select **Sound Control Panel** or **Change system sounds** from the list of results.</span></span>
+1. <span data-ttu-id="f3e51-104">Avage **Start**, **sisestage Heli** ja valige **tulemite** loendist **Heli** juhtpaneel või Muuda süsteemihelisid.</span><span class="sxs-lookup"><span data-stu-id="f3e51-104">Go to **Start**, enter **Sound**, and select **Sound Control Panel** or **Change system sounds** from the list of results.</span></span>
 
-2. <span data-ttu-id="8e336-105">Paremklõpsake vahekaardil **taasesitus** (või puudutage pikalt) seadme vaikesätet ja valige **Atribuudid**.</span><span class="sxs-lookup"><span data-stu-id="8e336-105">On the **Playback** tab, right-click (or tap and hold) the Default Device and select **Properties**.</span></span>
+2. <span data-ttu-id="f3e51-105">Paremklõpsake **(või** puudutage pikalt) vahekaardil Taasesitus vaikeseadet ja valige **Atribuudid**.</span><span class="sxs-lookup"><span data-stu-id="f3e51-105">On the **Playback** tab, right-click (or tap and hold) the Default Device and select **Properties**.</span></span>
 
-3. <span data-ttu-id="8e336-106">Märkige vahekaardil **täiustused** ruut **Keela kõik heliefektid** ja proovige oma heliseadet esitada.</span><span class="sxs-lookup"><span data-stu-id="8e336-106">On the **Enhancements** tab, select the **Disable all sound effects** check box and try to play your audio device.</span></span> <span data-ttu-id="8e336-107">Kui see ei toimi, valige **Tühista** ja valige vahekaardil **taasesitus** mõni muu vaikesäte (kui see on olemas), märkige ruut **Keela kõik heliefektid** ja proovige heli uuesti esitada.</span><span class="sxs-lookup"><span data-stu-id="8e336-107">If that doesn't work, select **Cancel** and, on the **Playback** tab, select another default device (if you have one), select the **Disable all sound effects** check box, and try to play audio again.</span></span> <span data-ttu-id="8e336-108">Tehke seda iga vaike-seadme puhul.</span><span class="sxs-lookup"><span data-stu-id="8e336-108">Do this for each default device.</span></span>
+3. <span data-ttu-id="f3e51-106">Märkige **vahekaardil Täiustused** ruut **Keela kõik heliefektid** ja proovige oma heliseadet esitada.</span><span class="sxs-lookup"><span data-stu-id="f3e51-106">On the **Enhancements** tab, select the **Disable all sound effects** check box and try to play your audio device.</span></span> <span data-ttu-id="f3e51-107">Kui see ei toimi, valige **Loobu** ja valige vahekaardil **Taasesitus** mõni muu vaikeseade (kui teil on see), märkige ruut **Keela** kõik heliefektid ja proovige heli uuesti esitada.</span><span class="sxs-lookup"><span data-stu-id="f3e51-107">If that doesn't work, select **Cancel** and, on the **Playback** tab, select another default device (if you have one), select the **Disable all sound effects** check box, and try to play audio again.</span></span> <span data-ttu-id="f3e51-108">Tehke seda iga vaikeseadme puhul.</span><span class="sxs-lookup"><span data-stu-id="f3e51-108">Do this for each default device.</span></span>

@@ -1,8 +1,8 @@
 ---
-title: Domeeni kinnitamine Bluehost-iga
+title: Domeeni kontrollimine Bluehosti abil
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 5b4b6fdfa90d0ddf9dec28276f406801feb114aa
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 6ad9405cedd498c75d6993a084f91130b877e1ed
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807662"
 ---
-# <a name="verify-your-domain-with-bluehost"></a><span data-ttu-id="1da67-102">Domeeni kinnitamine Bluehost-iga</span><span class="sxs-lookup"><span data-stu-id="1da67-102">Verify your domain with Bluehost</span></span>
+# <a name="verify-your-domain-with-bluehost"></a><span data-ttu-id="64e47-102">Domeeni kontrollimine Bluehosti abil</span><span class="sxs-lookup"><span data-stu-id="64e47-102">Verify your domain with Bluehost</span></span>
 
-<span data-ttu-id="1da67-103">Domeeni kinnitamiseks peate lisama oma domeeni registripidajale TXT-kirje, et veenduda, et teie domeen on teie oma.</span><span class="sxs-lookup"><span data-stu-id="1da67-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="64e47-103">Domeeni kinnitamiseks peate domeeniregistraatorile lisama TXT-kirje, et veenduda, et domeen kuulub teile.</span><span class="sxs-lookup"><span data-stu-id="64e47-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="1da67-104">Esmalt järgige domeeni [lisamise viisardit](https://admin.microsoft.com/Adminportal#/Domains) , valides **sätted** \> **Domeenid**ja seejärel **domeeni lisamine**.</span><span class="sxs-lookup"><span data-stu-id="1da67-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="64e47-104">Esmalt järgige [viisardit Add Domain (Domeeni lisamine),](https://admin.microsoft.com/Adminportal#/Domains) valides **Sätted** \> **Domains (Sätted domeenid)** ja **seejärel Add domain (Lisa domeen).**</span><span class="sxs-lookup"><span data-stu-id="64e47-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="1da67-105">Lisateavet leiate teemast [DNS-i kirjete loomine rakenduses Bluehost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) üksikasjalikud juhised.</span><span class="sxs-lookup"><span data-stu-id="1da67-105">See [Create DNS records at Bluehost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) for step-by-step instructions.</span></span>
+<span data-ttu-id="64e47-105">Juhised [leiate teemast DNS-i kirjete loomine Microsoft 365 jaoks bluehosti](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) veebisaidil.</span><span class="sxs-lookup"><span data-stu-id="64e47-105">See [Create DNS records at Bluehost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) for step-by-step instructions.</span></span>
