@@ -1,8 +1,8 @@
 ---
-title: Puuduvate andmete lahendamine OneNote ' is
+title: Puuduvate andmete lahendamine OneNote'is
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 6d458e3b2318b47be971be9a3c6f4d323d9ad740
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33e344f6d6ea15139ff88bcce4885da62456d8ad
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662312"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798761"
 ---
-# <a name="resolving-missing-data-in-onenote"></a>Puuduvate andmete lahendamine OneNote ' is
+# <a name="resolving-missing-data-in-onenote"></a>Puuduvate andmete lahendamine OneNote'is
 
-**Puuduv märkmik**
+**Märkmik puudub**
 
-- Kui OneDrive ' i märkmik on kogemata kustutatud, saate selle taastada, järgides juhiseid jaotises [kustutatud failide või kaustade taastamine OneDrive ' is](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
-- Kustutatud OneDrive ' is oleva märkmiku saab taastada vaikimisi 30 päeva jooksul, järgides [Kustutatud OneDrive ' i taastamise](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) juhiseid.
-- OneNote ' is võib kasutada teistsugust kontot, kui ootate. Kui teil on lisaks isiklikule Microsofti kontole ka töökoha või kooli konto, peate lisama oma teise konto, et vaadata kõiki märkmikke (lugege juhiseid teemast [konto lisamine OneNote ' is](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+- Kui OneDrive'i märkmik kustutati kogemata, saate selle taastada, järgides jaotises Kustutatud failide [või kaustade taastamine OneDrive'is](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f) toodud juhiseid.
+- Kustutatud OneDrive'is saate märkmiku taastada vaikimisi 30 päeva jooksul, järgides jaotises Kustutatud [OneDrive'i taastamine toodud juhiseid.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- OneNote võib kasutada teist kontot, kui te eeldate. Kui teil on lisaks isiklikule Microsofti kontole ka töö- või koolikonto, peate kõigi märkmike kuvamiseks lisama oma teise konto (lugege juhiseid selle kohta, kuidas [OneNote'is kontot lisada.](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)
 
-**Märkmikku puuduvate märkmete puudumine**
+**Märkmikus puuduvad märkmed**
 
-Märkmikus puuduvad lehed või jaotised üks levinumaid põhjuseid on sünkroonimise tõrge. Sellisel juhul andmed ei kao ja saab taastada, kui sünkroonimine töötab. Kontrollige, kas iga OneNote ' i klientrakenduse kasutajad on tuvastanud, kas mõni neist kuvab märkmiku tõrke ja kui viga on, lugege teemat [probleemide lahendamine, kui te ei saa OneNote ' i sünkroonida](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
+Märkmikus puuduvate lehtede või jaotiste üks levinumaid põhjuseid on sünkroonimistõrge. Sel juhul ei lähe andmed kaotsi ja neid saab pärast sünkroonimist taastada. Kontrollige iga OneNote'i klientrakenduse kasutajat, kes on varem tuvastanud, kas mõni neist kuvab märkmikus tõrke ja kui ilmneb tõrge, lugege teemat [OneNote'i](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)sünkroonimisel ilmnenud probleemide lahendamine.
 
-- Rakenduse OneNote for Windows 10 korral kuvatakse märkmiku kõrval tõenäoliselt kollase kolmnurkse hoiatuse ikoon.
-- Rakenduses OneNote 2016 paremklõpsake lindi all olevat märkmiku nime ja klõpsake käsku "märkmiku sünkroonimise olek".
-- Rakenduses OneNOte for Mac otsige ikooni märkmik ikooni lähedal kollane hüüumärk.
-- Rakenduses OneNote for iPhone liikuge märkmikku ja klõpsake paremas ülanurgas nuppu Action (toiming).
-- Rakenduses OneNote for Android liikuge lehele rohkem märkmikke – >Kuva sünkroonimise tõrked
+- Rakenduses OneNote for Windows 10 kuvatakse märkmiku kõrval tõenäoliselt kollane kolmnurkne hoiatusikoon.
+- Rakenduses OneNote 2016 paremklõpsake lindi all märkmiku nime ja klõpsake käsku "Notebook Sync Status" (Märkmiku sünkroonimisolek).
+- Otsige OneNOte for Macis märkmikuikooni juures kollast hüüumärki
+- Liikuge rakenduses OneNote for iPhone märkmikule ja klõpsake paremas ülanurgas toimingunuppu
+- Rakenduses OneNote for Android liikuge jaotisse Veel märkmikke ja >Kuva sünkroonimistõrked
 
-Järgige juhiseid teemas [minu kaotatud märkmete otsimine](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) , teie faile sünkroonida või märkmete taastamine.
+Järgige juhiseid jaotises Kadunud [märkmete otsimine,](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) faili sünkroonimine või märkmete taastamine.
 
-Kui kasutate rakendust OneNote 2016, on võimalik, et saate varukoopiatest [Kustutatud märkmed taastada](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) .
+Kui kasutate oneNote 2016, saate võib-olla taastada kustutatud [märkmed](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) varukoopiatest.

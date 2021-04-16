@@ -1,8 +1,8 @@
 ---
-title: Korduv sisselogimise viip/sisselogimise silmus
+title: Korduvad sisselogimisviipad / sisselogimistsükkel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 3a5103607cd80b1b02c5e999e80965f23b6cbc18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692759"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799049"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Korduvad sisselogimise viiped Microsoft 365 rakendustes
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Korduvad sisselogimisviipad Microsoft 365 rakendustes
 
-Kui soovite Microsoft 365 rakendustes korrata sisselogimise viipasid, lugege järgmisi teemasid.
+Microsoft 365 rakendustes korduvate sisselogimisviipade tõrkeotsingu kohta leiate järgmist.
 
-- [Tõrkeotsing rakendustele, mis ei saa brauseris sisse logida Microsoft 365, Azure ' i või Intune ' i](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [Microsoft 365 ühenduse loomisel küsitakse korduvalt mandaati "juurdepääs keelatud" või kasutaja](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Välise kasutaja jaoks küsitakse korduvalt mandaati sisselogimise Microsoft 365, Azure ' i või Intune ' i jaoks](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [Mittebrauserirakenduste tõrkeotsing, mis ei saa microsoft 365, Azure'i või Intune'i sisse logida](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ["Juurdepääs keelatud" või kasutajalt küsitakse Microsoft 365-ga ühenduse loomisel korduvalt identimisteavet](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [Väliselt kasutajalt küsitakse microsoft 365, Azure'i või Intune'i sisselogimisel korduvalt identimisteavet.](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
