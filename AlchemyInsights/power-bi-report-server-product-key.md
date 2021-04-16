@@ -1,8 +1,8 @@
 ---
-title: Power BI aruannete serveri tootevõti
+title: Power BI aruandeserveri tootevõti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801945"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800678"
 ---
-# <a name="power-bi-report-server-product-key"></a>Power BI aruannete serveri tootevõti
+# <a name="power-bi-report-server-product-key"></a>Power BI aruandeserveri tootevõti
 
-Kui ostsite Power BI Premiumi, on Power BI administraatori portaali vahekaardil **Premium Settings** (Power BI Report serveri tootevõti) juurdepääs. See on saadaval ainult globaalsete administraatorite jaoks või kasutajatele, kellele on määratud Power BI teenuse administraatori roll.
+Kui olete ostnud Power BI  Premiumi, pääsete Power BI haldusportaali vahekaardil Premiumi sätted juurde power BI aruandeserveri tootevõtmele. See on saadaval ainult üldadministraatoritele või kasutajatele, kellele on määratud Power BI teenuseadministraatori roll.
 
-**Power BI aruannete serveri võtme** valimisel kuvatakse dialoogiboks, kus on tootevõti. Saate selle kopeerida ja kasutada seda koos installiga.
+**Power BI aruandeserveri võtme valimisel** kuvatakse tootevõtit sisaldav dialoogiboks. Saate selle kopeerida ja seda koos installiga kasutada.
 
-Kui teil on SQL serveri Enterprise SA ' i leping, saate tootevõtme hulgilitsentsimise [teeninduskeskuse](https://www.microsoft.com/Licensing/servicecenter/)käest.
+Kui teil on SQL Server Enterprise SA leping, saate tootevõtme hulgilitsentsimise [teeninduskeskusest.](https://www.microsoft.com/Licensing/servicecenter/)
 
-Lisateavet leiate järgmistest teemadest. https://docs.microsoft.com/power-bi/report-server/install-report-server
+Lisateavet leiate teemast https://docs.microsoft.com/power-bi/report-server/install-report-server

@@ -2,7 +2,7 @@
 title: Microsoft Formsi tulemite printimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 3f83da053a3188b2d00719e1b4da90763084b308
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 310306c30fb9f888b80b87a9539ef904e0ad63f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801909"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800606"
 ---
-# <a name="print-results-in-a-summary-of-responses"></a>Tulemite kokkuvõttes tulemite printimine
+# <a name="print-results-in-a-summary-of-responses"></a>Tulemite printimine vastuste kokkuvõttena
 
-Saate [printida Microsoft Formsi tulemid](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) vastuste kokkuvõttena või üksikuna. 
+Microsoft [Formsi tulemid saate](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) printida vastuste kokkuvõttena või üksikisikule. 
 
-Te ei saa vorme printida, kui te ei saa vastuseid teha, kuid saate seda funktsiooni taotleda või hääletada, kui külastate [Microsoft Formsi UserVoice saiti](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).
+Vorme ei saa printida ilma vastusteta, kuid saate seda funktsiooni taotleda või selle poolt hääletada, kui külastate [Microsoft Formsi UserVoice'i saiti.](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)
