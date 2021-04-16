@@ -1,8 +1,8 @@
 ---
-title: Intune ' i kasutamise alustamine
+title: Intune'iga alustamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 101459172ba6c1ae1229280e99060512b7a79fc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897079"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811920"
 ---
-# <a name="getting-started-with-intune"></a>Intune ' i kasutamise alustamine
+# <a name="getting-started-with-intune"></a>Intune'iga alustamine
 
-Intune ' i ja konsooli kiire tutvustuse kohta leiate teavet selle kohta, kuidas [Azure ' i portaalis Intune ' i sisse logida](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).
+Intune'i ja halduskonsooli kiire tutvustuse kohta vaadake [Azure'i portaalis intune'i tutvustus.](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager)
 
-Kui soovite proovida Intune ' i või häälestada prooviversiooni, vaadake [Kiirjuhend: proovi Microsoft Intune tasuta](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Kui soovite proovida Intune'i või häälestada prooviversiooni, vaadake [quickstart üle: proovige Microsoft Intune'i tasuta.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
-Kui olete valmis kasutama Intune ' i, vaadake läbi Intune ' i [häälestamine](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps). Giidiga häälestamise kogemuse leiate teemast [Intune setup Guide (Intune setup guide](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)).
+Kui olete valmis Intune'i kasutama, vaadake [üle Intune'i häälestamine.](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps) Juhendatud häälestuse kohta leiate teavet [Intune'i häälestusjuhendist.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)

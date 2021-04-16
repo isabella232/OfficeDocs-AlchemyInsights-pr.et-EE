@@ -1,8 +1,8 @@
 ---
-title: Automaatsete pealdiste ja Microsoft Streami ärakirja loomine
+title: Automaatsete pealdiste ja transkriptsiooni loomine Microsoft Streamis
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707779"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812372"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Automaatsete pealdiste ja Microsoft Streami ärakirja loomine
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Automaatsete pealdiste ja transkriptsiooni loomine Microsoft Streamis
 
-Stream saab automaatselt genereerida pealdisi, kasutades automaatset kõnetuvastuse tehnoloogiat, ja saate vaadata kerimise logifaili akent, et hõlpsalt navigeerida ja jälgida videoga seotud sisu.
+Stream saab automaatselt luua subtiitrite automaatse kõnetuvastuse tehnoloogia abil ning saate vaadata kerimis transkriptsiooniakent, et hõlpsalt liikuda ja jälgida koos video kõnesisuga.
 
-- [Automaatsete pealdiste ja Microsoft Streami videote jaoks ärakirja loomine](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Microsoft Streami videote jaoks automaatallkirjade ja transkriptsiooni loomine](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Microsoft Streami video kerimise transkriptsiooni akna kuvamine](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Microsoft Streamis video kerimis transkriptsiooniakna näitamine](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

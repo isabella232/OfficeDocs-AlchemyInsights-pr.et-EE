@@ -1,8 +1,8 @@
 ---
-title: Minu kontakte kuvava lehe otsimine
+title: Minu kontakte näitav leht
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745270"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812982"
 ---
-# <a name="find-the-page-that-shows-my-contacts"></a>Minu kontakte kuvava lehe otsimine
+# <a name="find-the-page-that-shows-my-contacts"></a>Minu kontakte näitav leht
 
-Kontaktide otsimiseks saate otsida ka meilisõnumeid.
+Kontakte saate otsida samamoodi nagu meilisõnumite otsimist.
  
-Puudutage luubi otsimise ikooni ja seejärel tippige ekraani ülaosas asuvale väljale oma kontaktteabe päring. (**Protip**: luupi saab topeltklõpsata, et viia fookus otsinguväljale.) Teie tulemid kuvatakse jaotises kontaktid.
+Puudutage suurendusklaasi otsinguikooni ja seejärel tippige oma kontaktiotsingu taotlus ekraani ülaservas olevale väljale. (**Kohtspikker:** saate otsinguväljale fookuse viimiseks topeltpuidutage suurendusklaasi.) Tulemid kuvatakse jaotises Kontaktid.

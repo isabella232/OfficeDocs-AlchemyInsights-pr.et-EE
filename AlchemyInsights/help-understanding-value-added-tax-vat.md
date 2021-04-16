@@ -1,8 +1,8 @@
 ---
-title: Abi käibemaksust arusaamiseks (km)
+title: Aidake mõista käibemaksu (VAT)
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7222f1e9b53504f34f5136c815c1dff8e2d2e7cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705486"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811632"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Abi käibemaksust arusaamiseks (km)
+# <a name="help-understanding-value-added-tax-vat"></a>Aidake mõista käibemaksu (VAT)
 
-Kui olete riigis, kus kasutatakse hinnatud käibemaksu (VAT) (nt Ühendkuningriik), arvutab Microsoft arveldus teie eest käibemaksu ja rakendab summa teie arvetele.
+Kui olete riigis, mis kasutab käibemaksu (nt Ühendkuningriik), arvutab Microsoft Invoicing teie eest käibemaksu ja rakendab summa teie arvetele.
   
-Maksualastel põhjustel peate määrama ka oma KÄIBEMAKSUKOHUSTUSLASE registreerimisnumber arvelduse sätetes.
+Maksudega seotud põhjustel peate määrama ka oma käibemaksukohustuslase numbri väljal Arveldamine määratud sätetes.
   
-Te ei saa käibemaksu hindu lisada ega eemaldada, kuid saate vaikesätteid muuta ka sätetes. Vaikimisi kasutab arveldamine km registreerimisnumbri kinnitamiseks teenust, kuid soovitame lugeda Euroopa komisjoni avaldatud [VIESi lahtiütlust](https://go.microsoft.com/fwlink/?LinkID=841741) . Kui valite teenuse keelamise, peate kinnitama kõik km registreerimisnumbrid.
+Käibemaksumäärasid ei saa lisada ega eemaldada, kuid vaikekäibemaksumäära saate muuta jaotises Sätted. Vaikimisi kasutab arveldamine käibemaksu registreerimisnumbrite valideerimiseks teenust, kuid soovitame lugeda läbi Euroopa komisjoni avaldatud [VIES-i](https://go.microsoft.com/fwlink/?LinkID=841741) lahtiütluse. Kui otsustate teenuse keelata, peate kontrollima kõiki käibemaksukohustuslase registreerimisnumbreid.

@@ -1,8 +1,8 @@
 ---
-title: 1800014 hankimine rakenduse Outlook Mobile rakenduse tugi
+title: 1800014 Rakendusetoe saamine Outlooki mobiilirakenduse jaoks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: fe099b2cf0a596900c4e5a9b35d5d8f8b1ac5d07
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8912f52a968ce0d406479d4f1a403fd452b7126c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707707"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812280"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Rakenduse Outlook Mobile rakenduse tugiteenuste hankimine
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Rakendusetoe saamine Outlooki mobiilirakenduse jaoks
 
-1. Avage Outlook Mobile ' i rakenduses **menüü**.
+1. Avage Outlooki mobiilirakenduses **menüü**.
 
-2. Valige Kuva ** &amp; tagasiside** Kuva avamiseks küsimärk.
+2. Spikri tagasiside kuva avamiseks **valige &amp; küsimärk.**
 
-3. Puudutage nuppu **Võta ühendust kasutajatoega** ja selgitage oma probleemi.
+3. Puudutage **valikut Võtke ühendust** toega ja selgitage oma probleemi.
 
-4. Puudutage nuppu **saada** ja te saate tugiteenuste agendiga ühendust, kui tugiteenuste agent teie poole pöördub.
+4. **Puudutage** nuppu Saada ja teile saadetakse rakenduse sees teatis, kui tugiagent teie poole kontakte võtab.
 
-Üksikasjalikud juhised leiate teemast [Outlooki iOS-i ja Androidi rakenduse spikri hankimine](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).
+Üksikasjalikud juhised leiate teemast [Rakenduse spikri saamine iOS-i ja Androidi jaoks mõeldud Outlooki jaoks.](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

@@ -2,7 +2,7 @@
 title: Parandus – teile pole hetkel Office’i litsentsi määratud
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: cf7bb0209d07ec5ccf3f06c395ca170c8d7381e3
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2117e6bf5b8c39216d273e5970ca8cbe6ac8ec62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704854"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812604"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Parandus – „Teile pole hetkel Office’i litsentsi määratud“
 
@@ -25,7 +25,7 @@ Office’i klientrakenduste installimiseks veenduge, et teil oleks Office 365 v�
 
 **Märkus**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) on [kodukasutajatele mõeldud Office’i](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) toode ja mitte ärirakenduse osa. Project Online Essentials ei hõlma Projecti töölauaversiooni, mistõttu pole ka vaja midagi installida. Visio lepingu 1 kasutajad pääsevad Visiole juurde veebis, kuna leping ei sisalda Visio töölauarakendust. Projecti ja Visio töölauarakendused ei ole Mac-arvuti jaoks saadaval
 
-Kui teil on Microsoft 365 rakendusi sisaldav tellimus, siis te näete selle installimise võimalust ainult sel juhul, kui teil on [määratud litsents](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Kui olete litsentside määramise eest vastutav Office 365 administraator, lugege artiklit [Litsentside määramine kasutajatele](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Kui teil on tellimus, mis sisaldab Microsoft 365 rakendusi, näete selle installimise võimalust üksnes juhul, kui teile on [määratud litsents](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Kui olete litsentside määramise eest vastutav Office 365 administraator, lugege artiklit [Litsentside määramine kasutajatele](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Laske igal kasutajal teha järgmist.
 
