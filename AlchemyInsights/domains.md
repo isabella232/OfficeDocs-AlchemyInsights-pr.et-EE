@@ -1,8 +1,8 @@
 ---
-title: Domeenide
+title: Domeenid
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5589"
-ms.openlocfilehash: adafa3672653c1922cdf3198f877953289a6fdf5
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 2bcda244f8fcb465c8864fdd00dbc7505273c80f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815565"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814837"
 ---
-# <a name="domains"></a><span data-ttu-id="3fb36-102">Domeenide</span><span class="sxs-lookup"><span data-stu-id="3fb36-102">Domains</span></span>
+# <a name="domains"></a><span data-ttu-id="f4f92-102">Domeenid</span><span class="sxs-lookup"><span data-stu-id="f4f92-102">Domains</span></span>
 
-- <span data-ttu-id="3fb36-103">**Kontrollige oma domeeni** administraatori keskuses, kasutades domeeni lisamise [viisardit](https://admin.microsoft.com/Adminportal#/Domains/Wizard).</span><span class="sxs-lookup"><span data-stu-id="3fb36-103">**Verify your domain** in the admin center by using the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard).</span></span> <span data-ttu-id="3fb36-104">Lisateavet leiate teemast [domeeni lisamine teenusekomplekti Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="3fb36-104">For more help, read [Add a domain to Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).</span></span>
-- <span data-ttu-id="3fb36-105">**Domeeni kasutamine** – peate sisse logima teise organisatsiooni ja [eemaldama domeeni](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); seejärel lisage see sellesse organisatsiooni.</span><span class="sxs-lookup"><span data-stu-id="3fb36-105">**Domain in use** - you will need to log in to the other organization and [remove the domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); then add it to this organization.</span></span>
-- <span data-ttu-id="3fb36-106">**Domeeni kasutamine halduseta/iseteeninduskeskuses**  -  [Hakka haldamata domeeni administraatoriks](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span><span class="sxs-lookup"><span data-stu-id="3fb36-106">**Domain in use unmanaged / self-service** - [Become an admin of the unmanaged domain](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span></span>
+- <span data-ttu-id="f4f92-103">**Kontrollige oma** domeeni halduskeskuses, kasutades [viisardit Add Domain (Domeeni lisamine).](https://admin.microsoft.com/Adminportal#/Domains/Wizard)</span><span class="sxs-lookup"><span data-stu-id="f4f92-103">**Verify your domain** in the admin center by using the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard).</span></span> <span data-ttu-id="f4f92-104">Lisateavet leiate jaotisest [Domeeni lisamine teenusekomplekti Office 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="f4f92-104">For more help, read [Add a domain to Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).</span></span>
+- <span data-ttu-id="f4f92-105">**Kasutusel on domeen** – peate teise organisatsiooni sisse logima ja [domeeni eemaldama;](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) seejärel lisage see sellele organisatsioonile.</span><span class="sxs-lookup"><span data-stu-id="f4f92-105">**Domain in use** - you will need to log in to the other organization and [remove the domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); then add it to this organization.</span></span>
+- <span data-ttu-id="f4f92-106">**Mittehallatav / iseteeninduslik domeen**  -  [Saage mittehallatud domeeni administraatoriks.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)</span><span class="sxs-lookup"><span data-stu-id="f4f92-106">**Domain in use unmanaged / self-service** - [Become an admin of the unmanaged domain](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span></span>
 
-<span data-ttu-id="3fb36-107">Vastasel juhul proovige rephrasing oma probleemi; lugege teemat [domeenide KKK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) või [tõrkeotsing domeenide](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) jaoks.</span><span class="sxs-lookup"><span data-stu-id="3fb36-107">Otherwise, try rephrasing your problem; see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) or [Troubleshoot Domains Issues](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) articles.</span></span>
+<span data-ttu-id="f4f92-107">Muul juhul proovige probleem ümber sõnastada. lugege [artikleid Domains (Domeenid) KKK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) [või Troubleshoot Domains Issues (Domeenide probleemide tõrkeotsing).](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="f4f92-107">Otherwise, try rephrasing your problem; see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) or [Troubleshoot Domains Issues](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) articles.</span></span>

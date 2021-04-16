@@ -2,7 +2,7 @@
 title: OneDrive for Businessi allalaadimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003082"
 - "5904"
-ms.openlocfilehash: cd7c8badaeb9afb4bcd6ef52b6506ffeb0daca57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d5ee7fd4b3ed851c3c3b5310e718152052c0c70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678644"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814548"
 ---
-# <a name="download-onedrive-for-business"></a><span data-ttu-id="2d711-102">OneDrive for Businessi allalaadimine</span><span class="sxs-lookup"><span data-stu-id="2d711-102">Download OneDrive for Business</span></span>
+# <a name="download-onedrive-for-business"></a><span data-ttu-id="4c64c-102">OneDrive for Businessi allalaadimine</span><span class="sxs-lookup"><span data-stu-id="4c64c-102">Download OneDrive for Business</span></span>
 
-<span data-ttu-id="2d711-103">Kui teil on Windows 10, on OneDrive teie ARVUTISSE juba installitud.</span><span class="sxs-lookup"><span data-stu-id="2d711-103">If you have Windows 10, OneDrive is already install on your PC.</span></span> <span data-ttu-id="2d711-104">Kui kasutate mõnda muud Windowsi versiooni, installige alustamiseks OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2d711-104">If you're using another version of Windows, install OneDrive to get started.</span></span>
+<span data-ttu-id="4c64c-103">Kui teil on Windows 10, installitakse OneDrive juba teie arvutisse.</span><span class="sxs-lookup"><span data-stu-id="4c64c-103">If you have Windows 10, OneDrive is already install on your PC.</span></span> <span data-ttu-id="4c64c-104">Kui kasutate mõnda muud Windowsi versiooni, installige alustamiseks OneDrive.</span><span class="sxs-lookup"><span data-stu-id="4c64c-104">If you're using another version of Windows, install OneDrive to get started.</span></span>
 
-- <span data-ttu-id="2d711-105">OneDrive for Businessi saab alla laadida  [siit](https://www.microsoft.com/microsoft-365/onedrive/download).</span><span class="sxs-lookup"><span data-stu-id="2d711-105">OneDrive for Business can be downloaded  [here](https://www.microsoft.com/microsoft-365/onedrive/download).</span></span>
-- <span data-ttu-id="2d711-106">Kui allalaaditud ja installitud, palutakse kasutajatel oma töö-või kooli kontosse sisse logida.</span><span class="sxs-lookup"><span data-stu-id="2d711-106">Once downloaded and installed, users will be asked to sign-in to their work or school account.</span></span>
-- <span data-ttu-id="2d711-107">[OneDrive ' i väljalülitamine, keelamine või desinstallimine](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).</span><span class="sxs-lookup"><span data-stu-id="2d711-107">[Turn off, disable, or uninstall OneDrive](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).</span></span>
-- <span data-ttu-id="2d711-108">OneDrive ' i failide sünkroonimine [Windowsis](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) või [Mac-arvutis](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f).</span><span class="sxs-lookup"><span data-stu-id="2d711-108">Sync files with OneDrive in [Windows](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) or in [Mac](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f).</span></span>
+- <span data-ttu-id="4c64c-105">OneDrive for Businessi saab alla laadida [siit.](https://www.microsoft.com/microsoft-365/onedrive/download)</span><span class="sxs-lookup"><span data-stu-id="4c64c-105">OneDrive for Business can be downloaded  [here](https://www.microsoft.com/microsoft-365/onedrive/download).</span></span>
+- <span data-ttu-id="4c64c-106">Pärast allalaadimist ja installimist palutakse kasutajatel sisse logida oma töö- või koolikontole.</span><span class="sxs-lookup"><span data-stu-id="4c64c-106">Once downloaded and installed, users will be asked to sign-in to their work or school account.</span></span>
+- <span data-ttu-id="4c64c-107">[OneDrive'i väljalülitamine, keelamine või desinstallimine.](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)</span><span class="sxs-lookup"><span data-stu-id="4c64c-107">[Turn off, disable, or uninstall OneDrive](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).</span></span>
+- <span data-ttu-id="4c64c-108">Failide sünkroonimine OneDrive'iga [Windowsis või](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) [Macis.](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f)</span><span class="sxs-lookup"><span data-stu-id="4c64c-108">Sync files with OneDrive in [Windows](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) or in [Mac](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f).</span></span>
