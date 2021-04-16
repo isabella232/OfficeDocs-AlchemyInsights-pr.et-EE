@@ -1,8 +1,8 @@
 ---
-title: Teenuse PowerShell ost
+title: Iseteeninduslik PowerShelli ost
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739966"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797717"
 ---
-# <a name="self-service-purchase-of-powershell"></a>Teenuse PowerShell ost
+# <a name="self-service-purchase-of-powershell"></a>Iseteeninduslik PowerShelli ost
 
-MSCommerce PowerShelli mooduli kasutamiseks peate selle installima Windows 10 seadmesse TLS 1,2 (nõutav on kohalik administraatori õigused).  Saate importida ja ühendada MSCommerce mooduli.  Kui teil palutakse sisse logida, peate kasutama globaalset või arvelduse administraatori rolli mandaati.  
+MSCommerce PowerShelli mooduli kasutamiseks peate selle installima Windows 10 seadmesse, kus on TLS 1.2 (nõutav on kohalik administraatoriõigus).  Importige ja looge ühendus MSCommerce'i mooduliga.  Kui teil palutakse sisse logida, peate kasutama üld- või arveldusadministraatori rolli identimisteavet.  
 
-Kui teil pole TLS 1,2, võidakse poliitika toomisel või värskendamisel kuvada järgmine tõrketeade:
+Kui teil pole TLS 1.2, võidakse poliitika toomise või värskendamise katsel kuvada järgmine tõrketeade.
 
-*Sündmustelogist-aluseks olev seos suleti: saatmisel ilmnes ootamatu tõrge*.
+*ErrorMessage – aluseks olev ühendus suleti: saatmisel ilmnes ootamatu tõrge.*
 
 
 
