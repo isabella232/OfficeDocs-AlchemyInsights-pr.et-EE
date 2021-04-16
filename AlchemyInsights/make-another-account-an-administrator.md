@@ -1,8 +1,8 @@
 ---
-title: Teise konto administraatoriks tegemine
+title: Teise konto administraator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794690"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795008"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Standardse kasutajakonto muutmine administraatoriks opsüsteemis Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Windows 10 tavakasutajakonto muutmine administraatoriks
 
-Opsüsteemi Windows 10 administraatorile standardse kasutajakonto vahetamiseks tehke järgmist.
+Windows 10 administraatori tavakasutajakonto muutmiseks saate teha järgmist.
 
-1. **Start**  >  **Settings**  >  **Account**  >  Kui kasutate Windows 10 Enterprise ' i, avage menüü Start sätete konto**pere & teised** inimesed (või **muud inimesed**).
+1. Kui kasutate **Opsüsteemi Windows**  >    >    >  10 **Enterprise, &** ava avakuva sätted Kontopere ( või Muud inimesed).
 2. Valige konto, mille soovite administraatoriks muuta, ja valige **Muuda kontot**.
-3. Valige jaotises **Konto tüüp**käsk **administraator**ja seejärel klõpsake **nuppu OK**.
+3. Valige **jaotises Konto** tüüp väärtus **Administraator** ja seejärel valige **OK**.
 
-**Märkus:** Saate muuta kontosid ainult haldurile olemasoleva administraatori konto kaudu.
+**Märkus.** Kontosid saab muuta ainult olemasoleva administraatorikonto administraatoriks.
