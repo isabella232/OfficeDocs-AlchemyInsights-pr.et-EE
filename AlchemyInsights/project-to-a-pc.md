@@ -1,8 +1,8 @@
 ---
-title: Project PC-arvutisse
+title: Project to a PC
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: e527feec0b695b3e966ed627ca23cb1fc8f2fd34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801612"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809940"
 ---
-# <a name="project-to-a-pc"></a><span data-ttu-id="b3d38-102">Project PC-arvutisse</span><span class="sxs-lookup"><span data-stu-id="b3d38-102">Project to a PC</span></span>
+# <a name="project-to-a-pc"></a><span data-ttu-id="fdc16-102">Project to a PC</span><span class="sxs-lookup"><span data-stu-id="fdc16-102">Project to a PC</span></span>
 
-<span data-ttu-id="b3d38-103">Kui olete sihtkoha seadmes (projektis), otsige "projektsiooni sätted", et avada **selle arvuti jaoks kavandamise**leht sätted.</span><span class="sxs-lookup"><span data-stu-id="b3d38-103">On your destination device (projecting to), search for "Projection Settings" to open the Settings page of **Projecting to this PC**.</span></span> <span data-ttu-id="b3d38-104">Siis veenduge, et:</span><span class="sxs-lookup"><span data-stu-id="b3d38-104">Then make sure that:</span></span>
-- <span data-ttu-id="b3d38-105">"Mõned Windowsi ja Androidi seadmed saavad selle ARVUTIGA Projecti, kui ütlete, et see on OK" rippmenüü on seatud **alati välja**.</span><span class="sxs-lookup"><span data-stu-id="b3d38-105">"Some Windows and Android devices can project to this PC when you say it's OK" drop-down menu is set to **Always Off**.</span></span>
-- <span data-ttu-id="b3d38-106">"Küsi selle PC-arvuti projekti" rippmenüü on seatud **iga kord, kui ühendust vajatakse**.</span><span class="sxs-lookup"><span data-stu-id="b3d38-106">"Ask to project to this PC" drop-down menu is set to **Every time a connection is required**.</span></span>
-- <span data-ttu-id="b3d38-107">Rippmenüüs "nõua PIN-koodi sidumist" on seatud **mitte kunagi**.</span><span class="sxs-lookup"><span data-stu-id="b3d38-107">"Require PIN for pairing" drop-down menu is set to **Never**.</span></span>
+<span data-ttu-id="fdc16-103">Otsige sihtseadmes (projektsioon) sõna "Projection Settings" (Projektsioonisätted), et avada selle arvuti **projectingi sätete leht.**</span><span class="sxs-lookup"><span data-stu-id="fdc16-103">On your destination device (projecting to), search for "Projection Settings" to open the Settings page of **Projecting to this PC**.</span></span> <span data-ttu-id="fdc16-104">Seejärel veenduge, et:</span><span class="sxs-lookup"><span data-stu-id="fdc16-104">Then make sure that:</span></span>
+- <span data-ttu-id="fdc16-105">Rippmenüü "Mõned Windowsi ja Androidi seadmed saavad selle arvutiga projektsiooni teha, kui ütlete, et see on OK", on seatud väärtusele **Alati väljas.**</span><span class="sxs-lookup"><span data-stu-id="fdc16-105">"Some Windows and Android devices can project to this PC when you say it's OK" drop-down menu is set to **Always Off**.</span></span>
+- <span data-ttu-id="fdc16-106">Rippmenüü "Küsi sellest arvutist projekti" väärtuseks on määratud **Iga kord, kui ühendus on nõutav.**</span><span class="sxs-lookup"><span data-stu-id="fdc16-106">"Ask to project to this PC" drop-down menu is set to **Every time a connection is required**.</span></span>
+- <span data-ttu-id="fdc16-107">Rippmenüü "Nõua sidumiseks PIN-koodi" väärtuseks on **määratud Mitte kunagi.**</span><span class="sxs-lookup"><span data-stu-id="fdc16-107">"Require PIN for pairing" drop-down menu is set to **Never**.</span></span>
 
-<span data-ttu-id="b3d38-108">Kui olete sihtkoha seadmes, käivitage rakenduse **Connect** abil **Start** ja otsige märksõna "Connect" ("Connect").</span><span class="sxs-lookup"><span data-stu-id="b3d38-108">On your destination device, launch **Connect** app by going to **Start** and search for "Connect".</span></span>
+<span data-ttu-id="fdc16-108">Käivitage rakendus Connect  sihtseadmes, **avades** avakuva ja otsides sõna "Connect".</span><span class="sxs-lookup"><span data-stu-id="fdc16-108">On your destination device, launch **Connect** app by going to **Start** and search for "Connect".</span></span>
 
-<span data-ttu-id="b3d38-109">Seejärel saate oma allika seadmes, kust proovite projekti valida:</span><span class="sxs-lookup"><span data-stu-id="b3d38-109">Then, on your source device that you are trying to project from:</span></span>
+<span data-ttu-id="fdc16-109">Seejärel saate lähteseadmes, mida proovite projektis kasutada:</span><span class="sxs-lookup"><span data-stu-id="fdc16-109">Then, on your source device that you are trying to project from:</span></span>
 
-1. <span data-ttu-id="b3d38-110">Tegevuskeskuse avamiseks vajutage klahvikombinatsiooni **Windowsi klahv + A** .</span><span class="sxs-lookup"><span data-stu-id="b3d38-110">Press **Windows key + A** to open Action Center.</span></span>
-2. <span data-ttu-id="b3d38-111">Klõpsake nuppu **Ühenda**.</span><span class="sxs-lookup"><span data-stu-id="b3d38-111">Click **Connect**.</span></span>
-3. <span data-ttu-id="b3d38-112">Klõpsake seadet, millele soovite ekraani kavandada.</span><span class="sxs-lookup"><span data-stu-id="b3d38-112">Click the device you want to project the screen to.</span></span>
+1. <span data-ttu-id="fdc16-110">Tegevuskeskuse **avamiseks vajutage klahvikombinatsiooni Windowsi** klahv + A.</span><span class="sxs-lookup"><span data-stu-id="fdc16-110">Press **Windows key + A** to open Action Center.</span></span>
+2. <span data-ttu-id="fdc16-111">Klõpsake **nuppu Ühenda**.</span><span class="sxs-lookup"><span data-stu-id="fdc16-111">Click **Connect**.</span></span>
+3. <span data-ttu-id="fdc16-112">Klõpsake seadet, millele soovite kuvada.</span><span class="sxs-lookup"><span data-stu-id="fdc16-112">Click the device you want to project the screen to.</span></span>
 
-![Project PC-arvutisse](media/project-to-a-pc.png)
+![Project to a PC](media/project-to-a-pc.png)
 
-<span data-ttu-id="b3d38-114">Pärast ülaltoodud juhiseid peaks teie sihtkoha seade kuvama lähtefaili ekraani nii, nagu see oleks teisene kuvar.</span><span class="sxs-lookup"><span data-stu-id="b3d38-114">After the above steps, your destination device should display the screen of the source device as if it is a secondary monitor.</span></span>
+<span data-ttu-id="fdc16-114">Pärast ülaltoodud juhiseid peaks sihtseade kuvama lähteseadme ekraani nii, nagu oleks see sekundaarne kuvar.</span><span class="sxs-lookup"><span data-stu-id="fdc16-114">After the above steps, your destination device should display the screen of the source device as if it is a secondary monitor.</span></span>

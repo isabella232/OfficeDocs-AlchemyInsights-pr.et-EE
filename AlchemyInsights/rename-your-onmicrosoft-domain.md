@@ -1,8 +1,8 @@
 ---
-title: Onmicrosoft domeeni ümbernimetamine
+title: Domeeni onmicrosoft ümbernimetamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701315"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810228"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="a670a-102">Onmicrosoft.com domeeni ümbernimetamine</span><span class="sxs-lookup"><span data-stu-id="a670a-102">Rename your onmicrosoft.com domain</span></span>
+# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="a088e-102">Domeeni onmicrosoft.com ümbernimetamine</span><span class="sxs-lookup"><span data-stu-id="a088e-102">Rename your onmicrosoft.com domain</span></span>
 
- <span data-ttu-id="a670a-103">**Pärast sisselogimist ei saa onmicrosoft domeeni ümber nimetada.**</span><span class="sxs-lookup"><span data-stu-id="a670a-103">**You can't rename the onmicrosoft domain after sign-up.**</span></span> <span data-ttu-id="a670a-104">Kui teie valitud algne Domeen oli näiteks  *fourthcoffee.onmicrosoft.com*, ei saa te seda  *fabrikam.onmicrosoft.com*muuta.</span><span class="sxs-lookup"><span data-stu-id="a670a-104">For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*, you can't change it to be  *fabrikam.onmicrosoft.com*.</span></span> <span data-ttu-id="a670a-105">Kui soovite kasutada mõnda muud onmicrosoft.com domeeni, peate käivitama uue paketi Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a670a-105">To use a different onmicrosoft.com domain, you'd have to start a new subscription with Microsoft 365.</span></span>
+ <span data-ttu-id="a088e-103">**Pärast registreerumist ei saa onmicrosofti domeeni ümber nimetada.**</span><span class="sxs-lookup"><span data-stu-id="a088e-103">**You can't rename the onmicrosoft domain after sign-up.**</span></span> <span data-ttu-id="a088e-104">Näiteks kui algne valitud domeen on *fourthcoffee.onmicrosoft.com,* ei saa seda muuta fabrikam.onmicrosoft.com *.*</span><span class="sxs-lookup"><span data-stu-id="a088e-104">For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*, you can't change it to be  *fabrikam.onmicrosoft.com*.</span></span> <span data-ttu-id="a088e-105">Kui soovite kasutada onmicrosoft.com domeeni, peate microsoft 365-ga alustama uut tellimust.</span><span class="sxs-lookup"><span data-stu-id="a088e-105">To use a different onmicrosoft.com domain, you'd have to start a new subscription with Microsoft 365.</span></span>
   
-<span data-ttu-id="a670a-106">Kui soovite kasutada kohandatud domeeni (nt  *contoso.com*  ), saate [lisada ühe endale](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) või [osta Microsoftist](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).</span><span class="sxs-lookup"><span data-stu-id="a670a-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) or [buy one from Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).</span></span>
+<span data-ttu-id="a088e-106">Kui soovite kasutada kohandatud domeeni (nt *contoso.com),* saate lisada oma domeeni [või](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) osta [selle Microsoftilt.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)</span><span class="sxs-lookup"><span data-stu-id="a088e-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) or [buy one from Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).</span></span>
   
