@@ -1,8 +1,8 @@
 ---
-title: Project Online ' i sageli nõutud Teemad
+title: Project Online'i korduma kippuvad teemad
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 847cfa73c98905dbd87004ea51b5005c59298545
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 66b5e32807abf2e9278280a3e5c91ae4eb6e31b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708130"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809976"
 ---
-# <a name="project-online-frequently-requested-topics"></a>Project Online ' i sageli nõutud Teemad
+# <a name="project-online-frequently-requested-topics"></a>Project Online'i korduma kippuvad teemad
 
-Siin on mõned sageli nõutavad Teemad Projectiga.
+Siin on mõned sageli soovitud teemad Projecti kohta.
 
-Siin on sageli nõutud projekti teemasid:
-1.  Alustamine: 
-    -   [Project Online ' iga töötamise alustamine](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
-    -   [Project Online ' i administraatori dokumentatsioon](https://docs.microsoft.com/projectonline/project-online) 
-    -   [Project Online: tarkvara piirid ja limiidid](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [Inimeste, rühmade ja ressursside lisamine ning seejärel Project Online ' i ühiskasutusse andmine](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [Project Web Appi (PWA) toimivuse häälestamine Project Online ' is](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  Loo ühendus [Project Online ' i töölaua klientrakendusega](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
+Projecti kohta taotletakse sageli teemasid.
+1.  Alustamine. 
+    -   [Project Online'iga alustamine](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
+    -   [Project Online'i administraatori dokumentatsioon](https://docs.microsoft.com/projectonline/project-online) 
+    -   [Project Online: tarkvara piirid ja piirangud](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
+2.  [Lisage inimesi, rühmi ja ressursse, seejärel jagage Project Online'i](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [Project Web Appi (PWA) jõudluse häälestamine Project Online'is](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  Ühenduse loomine [Project Online'i töölauakliendiga](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
 5.  [Project Professionali installimine ja kasutamine](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 

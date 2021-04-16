@@ -1,8 +1,8 @@
 ---
-title: Mõni teie kohapealse Föderatsiooni teenuse sertidest aegub
+title: Üks teie kohapealne Federation Service Certificates aegub
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: a4c78f3fdbba7786785f31098c9e80e77a165623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 45a679e83aa8f07d65d2e7e84d7eb2a2b5a721e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673493"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810048"
 ---
-# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>Mõni teie kohapealse Föderatsiooni teenuse sertidest aegub
+# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>Üks teie kohapealne Federation Service Certificates aegub
 
-Probleemi lahendamiseks tehke järgmist.
+Selle probleemi lahendamiseks tehke järgmist.
   
-- Installige Microsoft Azure Active Directory moodul Windows PowerShelli jaoks arvutis (kui moodul pole veel installitud). Selleks mine [Azure Active Directory PowerShelli jaoks graafik ](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
+- Installige arvutisse Windows PowerShelli Microsoft Azure Active Directory moodul (kui moodul pole veel installitud). Selleks avage Azure [Active Directory PowerShell for Graph ](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
     
-- Järgige juhiseid jaotises "stsenaarium 1: AD FS-i luba – allkirjastamise sert on aegunud" jaotisest " [tõrge juurdepääsul saidile" AD FS-i korral, kui väline kasutaja logib sisse Microsoft 365, Azure ' i või Intune ' i](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+- Järgige AD FS-i tõrke AD FS jaotises "Stsenaarium 1: AD FS-i tõendi allkirjastamise sert aegunud" toodud juhiseid, kui väliskasutaja logib [sisse rakendusse Microsoft 365, Azure või Intune.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
     
-- Järgige juhiseid, [Kuidas värskendada või parandada välise domeeni sätteid Microsoft 365, Azure ' is või Intune ' is](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+- Järgige juhiseid jaotises Välisdomeeni sätete värskendamine või parandamine [rakenduses Microsoft 365, Azure või Intune.](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)
     
-Lisateavet Föderatsiooni sertide uuendamise kohta leiate teemast [serdi uuendamine O365 ja AZURE AD jaoks](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+Lisateavet Föderatsiooni sertide pikendamise kohta leiate teemast [O365](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)ja Azure AD serdi pikendamine.
   
 

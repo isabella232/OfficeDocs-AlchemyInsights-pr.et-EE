@@ -2,7 +2,7 @@
 title: Kuidas vormi ühiskasutusse anda?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: 5bea2ab14fcf585344c795302f38202a2b582593
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f74e2c7697e040a17341794968fe901dfea0091f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781495"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810984"
 ---
-# <a name="share-a-form"></a>Vormi ühiskasutusse andmine
+# <a name="share-a-form"></a>Vormi ühiskasutus
 
-Microsoft Forms küsitluse või vormi ühiskasutusse andmiseks lugege teemat [vormi ühiskasutusse andmine koostööks](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
+Microsoft Formsis viktoriini või vormi ühiskasutusse vaatamiseks lugege [teemat Vormi ühiskasutus koostööks.](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
 
-Vormide välise jagamise võimaluse haldamiseks lugege teemat [Microsofti vormide häälestamine](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240). 
+Vormide välise ühiskasutuse õiguse haldamiseks lugege teemat [Microsoft Formsi häälestamine.](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240) 
 
-Tulemite ühiskasutusse andmise lingi saamiseks tehke järgmist.
+Kokkuvõttelingi saamiseks tulemite jagamiseks teistega:
 
-1. Klõpsake menüüs **vastused** nuppu ellipsid (**...**).
-3. Valige **Loo kokkuvõtlik link**.
-4. Klõpsake nuppu **Kopeeri**.
+1. Klõpsake **vahekaardil Vastused** nuppu ellipsid (**...**).
+3. Valige **Loo kokkuvõttelink**.
+4. Klõpsake **nuppu Kopeeri.**
 
-Igaüks, kellega selle lingi ühiskasutusse anda, saab vaadata teie vormi vastuste kokkuvõtet.
+Kõik, kellega seda linki jagate, saavad vaadata teie vormi vastuste kokkuvõtet.

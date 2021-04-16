@@ -1,8 +1,8 @@
 ---
-title: Office 365 Educationi lepingute ostmine
+title: Office 365 Educationi plaanide ostmine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94e1a17639d69d7271ea9b222486432b998bdcfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703584"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810804"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Office 365 Educationi lepingute ostmine
+# <a name="how-to-purchase-office-365-education-plans"></a>Office 365 Educationi plaanide ostmine
 
-Teie Office 365 Educationi diplom on jaotises läbivaatus. Enne prooviversiooni kehtivuse lõppemist võite saada teatise, mis käsitleb teie sobivuse määramist.
+Teie Office 365 Educationi kvalifikatsioon on läbivaatamisel. Enne prooviversiooni aegumist võite oodata, et teile saadetakse teatis selle kohta, kas teie nõuetele vastavus on kindlaks tehtud.
