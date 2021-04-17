@@ -1,8 +1,8 @@
 ---
-title: Kuidas installida Office iPadi?
+title: Office'i installimine iPadi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: 8b1c4d70adec883b8b17ea57c38d3c599677438f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 917c4354ccabe48a1e7a32855dd5bc7e21630a4e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779947"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829264"
 ---
-# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="f96e2-102">Kuidas installida Office iPadi?</span><span class="sxs-lookup"><span data-stu-id="f96e2-102">How to install Office on an iPad</span></span>
+# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="445b9-102">Office'i installimine iPadi</span><span class="sxs-lookup"><span data-stu-id="445b9-102">How to install Office on an iPad</span></span>
 
-- <span data-ttu-id="f96e2-103">Kui kasutaja on oma mobiilsideseadmes, Wordis, Excelis, PowerPointis ja OneNote ' is, [puudutage linki Laadi alla](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) .</span><span class="sxs-lookup"><span data-stu-id="f96e2-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="445b9-103">Saate kasutajal [puudutada allalaadimislinki](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) oma mobiilsideseadmest Wordi, Exceli, PowerPointi ja OneNote'i jaoks.</span><span class="sxs-lookup"><span data-stu-id="445b9-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="f96e2-104">Kui kasutaja on rakenduse käivitanud, puudutage nuppu **Logi sisse** ja sisestage oma töö-või kooli mandaat.</span><span class="sxs-lookup"><span data-stu-id="f96e2-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="445b9-104">Käivitage rakendus kasutaja, puudutage nuppu **Logi sisse ja** sisestage tema töö- või kooli identimisteavet.</span><span class="sxs-lookup"><span data-stu-id="445b9-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>

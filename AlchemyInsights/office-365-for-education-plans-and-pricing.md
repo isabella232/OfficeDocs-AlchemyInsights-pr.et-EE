@@ -1,8 +1,8 @@
 ---
-title: Office 365 haridusasutuste lepingute ja hindade kohta
+title: Office 365 haridusasutuste lepingud ja hinnad
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6d6292fddfceb03191c29dc14e9b2295da52e4ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729579"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829588"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="5aa7c-102">Microsoft 365 tasuta hankimine kogu kooli jaoks</span><span class="sxs-lookup"><span data-stu-id="5aa7c-102">Get Microsoft 365 free for your entire school</span></span>
+# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="57690-102">Microsoft 365 tasuta saamine kogu kooli jaoks</span><span class="sxs-lookup"><span data-stu-id="57690-102">Get Microsoft 365 free for your entire school</span></span>
 
-<span data-ttu-id="5aa7c-103">Täiustage klassiruumi ja kooli koostööd tasuta tootlikkuse tööriistade abil.</span><span class="sxs-lookup"><span data-stu-id="5aa7c-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="5aa7c-104">Sa pead kinnitama, et oled akrediteeritud akadeemiline asutus, kes neid pakkumisi ära kasutab.</span><span class="sxs-lookup"><span data-stu-id="5aa7c-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="57690-103">Täiustage klassiruumi- ja koolikoostööd tasuta tööviljakuse tööriistadega.</span><span class="sxs-lookup"><span data-stu-id="57690-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="57690-104">Nende pakkumise eeliste kontrollimiseks peate veenduma, et olete akrediteeritud akadeemiline asutus.</span><span class="sxs-lookup"><span data-stu-id="57690-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="5aa7c-105">Haridusega lepingute läbivaatamine</span><span class="sxs-lookup"><span data-stu-id="5aa7c-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="57690-105">Educationi plaanide läbivaatamine</span><span class="sxs-lookup"><span data-stu-id="57690-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [<span data-ttu-id="5aa7c-106">Kõigi Microsoft 365 tellimuste võrdlus</span><span class="sxs-lookup"><span data-stu-id="5aa7c-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="57690-106">Kõigi Microsoft 365 tellimuste võrdlus</span><span class="sxs-lookup"><span data-stu-id="57690-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

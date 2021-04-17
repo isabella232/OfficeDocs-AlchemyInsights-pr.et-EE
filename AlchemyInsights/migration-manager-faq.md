@@ -1,8 +1,8 @@
 ---
-title: Migreerimise halduri KKK
+title: Migreerimishalduri KKK
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5669"
-ms.openlocfilehash: e9e88acdfde517487f509956c99e496a983d3527
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ee4191464e70164795ff4049597b25b794f8d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674286"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829768"
 ---
-# <a name="migration-manager-faq"></a><span data-ttu-id="12349-102">Migreerimise halduri KKK</span><span class="sxs-lookup"><span data-stu-id="12349-102">Migration Manager FAQ</span></span>
+# <a name="migration-manager-faq"></a><span data-ttu-id="a8097-102">Migreerimishalduri KKK</span><span class="sxs-lookup"><span data-stu-id="a8097-102">Migration Manager FAQ</span></span>
 
-- <span data-ttu-id="12349-103">Lugege [korduma kippuvaid küsimusi migreerimise halduri kohta](https://docs.microsoft.com/sharepointmigration/mm-faqs).</span><span class="sxs-lookup"><span data-stu-id="12349-103">See [Frequently Asked Questions regarding Migration Manager](https://docs.microsoft.com/sharepointmigration/mm-faqs).</span></span>
+- <span data-ttu-id="a8097-103">Vaadake [teemat Korduma kippuvad küsimused migreerimishalduri kohta.](https://docs.microsoft.com/sharepointmigration/mm-faqs)</span><span class="sxs-lookup"><span data-stu-id="a8097-103">See [Frequently Asked Questions regarding Migration Manager](https://docs.microsoft.com/sharepointmigration/mm-faqs).</span></span>
