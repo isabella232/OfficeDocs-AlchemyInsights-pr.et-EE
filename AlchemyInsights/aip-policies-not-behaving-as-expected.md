@@ -1,8 +1,8 @@
 ---
-title: 'AIP: poliitika ei käitu ootuspäraselt'
+title: 'AIP: poliitikad ei käitu ootuspäraselt'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7baa010cc0b18b5d2a295623639fabf2bc5f88ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663185"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821623"
 ---
-# <a name="aip-policies-not-behaving-as-expected"></a>AIP: poliitika ei käitu ootuspäraselt
+# <a name="aip-policies-not-behaving-as-expected"></a>AIP: poliitikad ei käitu ootuspäraselt
 
-Azure ' i teabe kaitse: poliitikad, mis ei toimi ootuspäraselt, leiate järgmistest teemast Soovitatavad juhised.
+Azure'i teabekaitse: poliitikad ei käitu ootuspäraselt, erinevate poliitikaprobleemide kohta leiate järgmisi juhiseid.
 
-1. Kui teil on probleeme visuaalse märgistusega, vaadake [visuaalse märgistuse rakendamisel](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Kui teil on automaatse sildistamisega probleeme, vaadake, [Kuidas konfigureerida Azure ' i teabe kaitse automaatse ja soovitatava klassifikatsiooni tingimusi](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) ning [milliseid tundlikke teabe tüüpe otsida](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-3. Kui teil on emakeelena/Pfile kaitsega probleeme, vaadake läbi selle [API konfiguratsioon](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
-4. Kontrollige, kas kasutate ulatusega poliitikaid, mida pole õigesti konfigureeritud: [Kuidas konfigureerida Azure ' i teabe kaitsmise poliitika kindlate kasutajate jaoks ulatusega poliitikate abil](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
-5. Kui siltidega dokumendi manustamisel ei tööta automaatne sildistamine Outlooki jaoks, veenduge, et DRMEncryptProperty poleks määratletud, nagu on kirjeldatud siin: [turbe IRM-i registrisätete sätted](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
+1. Kui teil on visuaalse märgistusega probleeme, vaadake üle, [kui rakendatakse visuaalseid märgistusi.](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)
+2. Kui teil on probleeme automaatse sildistusfunktsiooniga, lugege teemat Kuidas konfigureerida [Azure'i](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) teabekaitse automaatse ja soovitatava liigituse tingimusi ja mida tundliku [loomuga teabetüübid pakuvad.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+3. Kui teil on probleeme native/Pfile'i kaitsega, vaadake üle faili [API konfiguratsioon.](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration)
+4. Kontrollige, kas kasutate ulatusega poliitikaid, mis pole õigesti konfigureeritud: Azure'i teabekaitsepoliitika konfigureerimine kindlate kasutajate jaoks [ulatusega poliitikate abil.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
+5. Kui sildistatud dokumendi manustamisel ei tööta Outlookis automaatne sildistamine, veenduge, et DRMEncryptProperty pole määratletud [järgmiselt: IRM-i registrisätted turbe jaoks.](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)
 
-Kui teil esineb endiselt probleeme, palume koguda Azure ' i teabeõiguste kaitse kliendi logisid ja lisada eksporditud logid sellele pilet.
+Kui teil esineb endiselt probleeme, koguge Azure'i teabekaitse kliendi logid ja manustage eksporditud logid sellele piletile.
 
-1. Avage Office ' i dokument või looge Outlookis Uus meilisõnum.
-2. Klõpsake nuppu **kaitse/tundlikkuse**  >  **Spikker ja tagasiside**.
-3. Klõpsake nuppu **ekspordi logid**.
-4. Salvestage logid oma asukoha valikusse ja lisage need selle teenuse taotlusele.
+1. Avage Office'i dokument või looge Outlookis uus meilisõnum.
+2. Klõpsake **nuppu Kaitse/tundlikkuse**  >  **spikker ja tagasiside.**
+3. Klõpsake **nuppu Ekspordi logid.**
+4. Salvestage logid oma asukohavalikusse ja manustage need sellele teenusetaotlusele.
 
 Lisaressursid:
 
-- [Azure ' i teabe kaitsmiseks mõeldud visuaalsete märkide sildi konfigureerimine](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Azure ' i teabe kaitse dokumentatsiooni läbivaatamine](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Microsoft 365 rakenduste tundlikkuse siltide kasutamine](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [Azure'i teabekaitse jaoks visuaalsete märgistuste sildi konfigureerimine](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Azure'i teabekaitse dokumentatsiooni läbivaatamine](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Tundlikkussiltide kasutamine Microsoft 365 rakendustes](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

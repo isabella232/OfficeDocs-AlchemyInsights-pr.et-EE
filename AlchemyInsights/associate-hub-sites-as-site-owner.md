@@ -1,8 +1,8 @@
 ---
-title: Jaoturi saitide seostamine saidi omanikuna
+title: Jaoturisaitide seostamine saidi omanikuks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: 9dd2faff114be063bfac0455c7ac13202b5b20cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e08bed31171bfcb4420b86c225542515d5e1e819
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715629"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821002"
 ---
-# <a name="associate-hub-sites-as-site-owner"></a>Jaoturi saitide seostamine saidi omanikuna
+# <a name="associate-hub-sites-as-site-owner"></a>Jaoturisaitide seostamine saidi omanikuks
 
-[Sõnumikeskuse 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) ühiskasutuses, kuidas SharePointi jaoturiga liitumist saab nüüd teha saidi omanike poolt. Kui teie asutus soovib hallata teatud isikuid, kes saavad jaoturiga seostada, tehke järgmist. 
+[Sõnumikeskus 186626 jagas](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) seda, kuidas saidiomanikud saavad nüüd SharePointi jaoturiga liituda. Kui teie ettevõte sooviks hallata kindlaid isikuid, kes saavad jaoturiga seostada, tehke järgmist. 
 
-1. Logige sisse [https://portal.office.com](https://portal.office.com) rakendusse () administraatori õigustega.
-2. Valige ekraani vasakus ülanurgas **rakenduse käivitaja** (üheksa ruuduga ikoon) ja seejärel valige **administraator**.
-3. Valige ekraani vasakus servas asuvast menüüst **halduskeskus** ja seejärel valige **SharePoint**.
-4. Uue SharePointi administreerimiskeskuse kuvamiseks valige ekraani ülaosas asuvast Sinisest bannerist nupp **Käivita rakendus** .
-5. Valige Kuva vasakus servas kuval menüü **saidid** ja seejärel valige **aktiivsed saidid**.
+1. Logige sisse ( [https://portal.office.com](https://portal.office.com) ) administraatoriõigustega.
+2. Valige kuva **vasakus ülanurgas** rakendusekäiviti (üheksa ruuduga ikoon) ja seejärel valige **Administraator**.
+3. Valige **kuva vasakus** servas olevast menüüst Halduskeskus ja seejärel **Valige SharePoint**.
+4. Valige kuva ülaservas sinise ribana käsk Käivita rakendus kohe, **et** kuvada uus SharePointi halduskeskus.
+5. Valige kuva vasakus servas oleval kuval **menüüst** Saidid ja seejärel valige **Aktiivsed saidid**.
 6. Kontrollige jaoturi saiti, kus soovite sätteid muuta.
-7. Valige Kuva ülaservas asuvast menüüst **keskus** ja valige **Redigeeri jaoturi saidi sätteid**.
-8. Määrake kasutajad või turbe rühmad, kellega soovite lubada töötada jaotises "kasutajad, kes saavad selle jaoturiga saidi seostada".
-9. Valige Kuva allservas nupp **Salvesta** .
+7. Valige **kuva** ülaservas menüüst Keskus ja seejärel Käsk Redigeeri keskuse **saidisätteid**.
+8. Määrake kasutajad või turberühmad, kellega soovite lubada töötada üksuses "Kasutajad, kes saavad saidi selle jaoturiga seostada".
+9. Valige **kuva** allservas Käsk Salvesta.
 
-Lisateavet leiate teemast [SharePointi saidi seostamine jaoturi saidiga](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 
+Lisateavet leiate teemast [SharePointi saidi seostamine jaoturisaidiga.](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) 

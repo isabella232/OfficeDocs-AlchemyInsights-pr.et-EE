@@ -1,8 +1,8 @@
 ---
-title: Antispam-5.7.23
+title: Rämpspostitõrje – 5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e494e8017f24d65a94d1a7490be4d67c46a2120b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717321"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821407"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Meili kohaletoimetamisega seotud probleemide lahendamine tõrkekood 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Meiliedastusprobleemide lahendamine tõrkekoodi 5.7.23 korral
 
-Kontrollige oma domeeni SPF-i DNS-i kirjet avalikult kättesaadaval SPF-või DNS-i kirje kontrollijal veebis.
+Kontrollige oma domeeni SPF-i DNS-i kirjet veebis avalikult saadaoleva SPF-i või DNS-i kirjekontrolli kaudu.
 
-Veenduge, et Microsoft ei tuvastanud väljaminevat sõnumit rämpspostina ja marsruuditakse [suure riski kohaletoimetamise puuli](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages)kaudu. Suure riskiga kohaletoimetamise pargis olevad sõnumid ei anna SPF-i tšekke ning seetõttu ei aktsepteeri sihtkoha e-posti organisatsioon seda.
+Veenduge, et Microsoft ei tuvastanud väljaminevat sõnumit rämpspostina ja marsruuditud suure [riskiga kohaletoimetamiskausta kaudu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages) Suure riskiga kohaletoimetamiskausta sõnumid ei läbi SPF-kontrolle ja seetõttu ei aktsepteeri sihtmeiliorganisatsioon.
 
-Kui probleem ei lahene, peate ühendust võtma selle meilikasutaja administraatoriga, kellele proovite meilisõnumeid saata. Märkige üles põrge sõnumis saadaolev üksikasjalik väline tõrge. Võimalik, et Microsofti tugi ei saa enam abiks olla.
+Kui probleem ei lahene, peate võib-olla pöörduma selle meilihosti administraatori poole, kuhu proovite meilisõnumeid saata. Pöörake tähelepanu üksikasjalikule välisele tõrkele, mis on tagasilöögisõnumis saadaval. Microsofti tugi ei pruugi olla enam abiks.

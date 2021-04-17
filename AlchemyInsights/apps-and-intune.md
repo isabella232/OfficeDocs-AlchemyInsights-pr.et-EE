@@ -2,26 +2,27 @@
 title: Rakendused ja Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "5764"
-ms.openlocfilehash: 3fcac11807e0a5ba44a689ec5144a742e859f291
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: 63b5c49522fc2fb7a1044b1f6779d55729c0b01e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569004"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821254"
 ---
 # <a name="apps-and-intune"></a>Rakendused ja Intune
 
-Ülevaade sellest, kuidas Intune aitab hallata rakendusi, alustage [mis on Microsofti Intune app Management?](https://docs.microsoft.com/mem/intune/apps/app-management).
+Ülevaate saamiseks selle kohta, kuidas Intune saab rakendusi hallata, alustage  [Mis on Microsoft Intune‘i rakendusehaldus?](https://docs.microsoft.com/mem/intune/apps/app-management).
 
-Lisateavet rakenduste üleslaadimise kohta Intune ' is ja nende seadmete juurutamisel vaadake [Quickstart: lisage ja määrake klientrakendus](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app).
+Lisateavet rakenduste Intune‘i üleslaadimise ja seadmetes juurutamise kohta leiate teemast  [Lühiülevaade: klientrakenduse lisamine ja määramine](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app).
 
-Ettevõtte andmete kaitsmiseks mobiilirakenduste sees vaadake [Quickstart: rakenduse kaitse poliitika loomine ja määramine](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy).
+Ettevõtte andmete kaitsmiseks mobiilirakendustes lugege [Kiirülevaade: Rakenduse kaitsepoliitika loomine ja määramine](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy).

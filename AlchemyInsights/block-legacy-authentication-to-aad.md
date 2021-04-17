@@ -1,8 +1,8 @@
 ---
-title: Azure AD ' i jaoks pärand autentimine tingimusjuurdepääsu kaudu
+title: Pärandautentimise blokeerimine Azure AD-ga tingimusjuurdepääsuga
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5906"
 - "9003122"
-ms.openlocfilehash: a0bbea487d2ea34c2e4987218eea1276bc34b243
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06cfee003edae01b43f4c998485b91f256611a42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685486"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820138"
 ---
-# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>Azure AD ' i jaoks pärand autentimine tingimusjuurdepääsu kaudu
+# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>Pärandautentimise blokeerimine Azure AD-ga tingimusjuurdepääsuga
 
 Soovitatavad dokumendid:
 
-- [Azure AD ' i jaoks pärand autentimine tingimusjuurdepääsu kaudu](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
-- [Blokeeri juurdepääs, kui seansi risk tuvastatakse Azure Active Directory tingimusjuurdepääsu kaudu](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
+- [Pärandautentimise blokeerimine Azure AD-ga tingimusjuurdepääsuga](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
+- [Juurdepääsu blokeerimine Azure Active Directory tingimusjuurdepääsuga seansiriski tuvastamisel](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)

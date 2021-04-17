@@ -1,25 +1,26 @@
 ---
-title: Dokumentide, piltide ja töölauakaustade varundamine OneDrive'iga
+title: Dokumentide, piltide ja töölauakaustade varundamine OneDrive’is
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 9c092f729bbd36f5b34aa983edb2d18583e4a04c
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.openlocfilehash: 059432ade8db04355261e4611fc59d450d625ef3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708046"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820642"
 ---
-# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Dokumentide, piltide ja töölauakaustade varundamine OneDrive'iga
+# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Dokumentide, piltide ja töölauakaustade varundamine OneDrive’is
 
-Windowsi arvuti [olulisi kaustu (kaustu](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057) Töölaud, Dokumendid ja Pildid) saate varundada OneDrive'i arvutikausta varukoopia abil, et need oleksid kaitstud ja muudes seadmetes saadaval. See funktsioon pole Veel Maci jaoks saadaval.  
+Saate OneDrive‘i arvutikaustade varundamise abil[varundada oma olulised kaustad](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  (oma Töölaua, Dokumendid ja Pildid), nii et need on kaitstud ja saadaval ka teistes seadmetes. See funktsioon pole veel Maci jaoks saadaval.  
 
-Kui olete IT-administraator, kes soovib hallata ettevõtte oluliste kaustade varundamist, on juhised [OneDrive'i teadaoleva kaustateisaldamise väljaviimiseks.](https://docs.microsoft.com/onedrive/redirect-known-folders)
+Kui olete IT-administraator ja soovite hallata ettevõtte jaoks oluliste kaustade varundamist, siis siin on juhised [Väljaandmisjärgus OneDrive‘i teadaolevate kaustade teisaldamise](https://docs.microsoft.com/onedrive/redirect-known-folders) kohta.

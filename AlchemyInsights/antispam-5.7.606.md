@@ -1,8 +1,8 @@
 ---
-title: Antispam-5.7.23
+title: Rämpspostitõrje – 5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 7b3a322c8241f24d30d36cfd1a4440737466b58f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9abbff56570e27b2ad7308860be32ad6586cf4f7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821371"
 ---
-# <a name="banned-sending-ip"></a>Keelatud saatmine IP
+# <a name="banned-sending-ip"></a>KEELATUD IP-saatmine
 
-Office 365 adressaadile saatmisel võib saatja selle tõrke kogeda. Saatja peab külastama [Office 365 rämpsposti IP-aadresside loendi portaali](https://sender.office.com/) ning esitama oma meiliaadressi ja IP-aadressi, mis tuleb nimekirjast välja saata. Kui nad ei saa portaalilt kinnitust, siis Las nad kontrollivad rämpsposti kausta ja/või proovivad mõnda muud meiliaadressi. 
+Office 365 adressaadile saatmisel võib see tõrge ilmneda saatjal. Saatja peab külastama [Office 365 rämpspostitõrje IP-delisti](https://sender.office.com/) portaali ning esitama oma meiliaadressi ja IP-aadressi, mis tuleb välja võtta. Kui nad ei saa portaalist kinnitusmeili, kontrollige rämpspostikausta ja/või proovige kasutada muud meiliaadressi. 
 
-- Üksikasjalikud juhised leiate teemast [loendite eemaldamine blokeeritud saatjate loendi](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide)kaudu.
+- Üksikasjalikud juhised leiate [teemast Delist portal to remove yourself from the blocked senders list](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide)( Eemaldage end blokeeritud saatjate loendist).

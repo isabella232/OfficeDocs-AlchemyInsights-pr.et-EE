@@ -2,7 +2,7 @@
 title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685594"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820174"
 ---
-# <a name="blocking-legacy-authentication"></a>Pärandi autentimise blokeerimine
+# <a name="blocking-legacy-authentication"></a>Pärandautentimise blokeerimine
 
-Pärand autentimine on termin, mis viitab autentimise taotlusele, mille on teinud:
+Pärandautentimine on termin, mis viitab autentimistaotlusele, mille on teinud:
 
-- Vanemad Office ' i kliendid, kes ei kasuta tänapäevast autentimist (nt Office 2010 Client).
+- Vanemad Office'i kliendid, mis ei kasuta modernautentimist (nt Office 2010 klientrakendus).
 
-- Iga klient, kes kasutab pärand mail Protocols (nt IMAP/SMTP/POP3).
+- Mis tahes klientrakendus, mis kasutab pärandmeiliprotokolle (nt IMAP/SMTP/POP3).
 
-Lisateavet pärandi autentimise blokeerimise ja kaasaegse autentimise lubamise kohta leiate teemast [pärandi autentimise blokeerimine](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+Lisateavet pärandautentimise blokeerimise ja modernautentimise lubamise kohta leiate teemast [Pärandautentimise blokeerimine.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)
 
-Azure Active Directory (Azure AD) turbe vaikesätted hõlbustavad turvalisust ja aitavad kaitsta teie ettevõtet. Turbe vaikeväärtused sisaldavad levinumate rünnakute eelkonfigureeritud turvasätteid.
-Lisateavet turbe vaikesätete kohta leiate teemast [mis on turbe vaikesätted?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+Azure Active Directory (Azure AD) turbe vaikesätted hõlbustavad turvalisust ja aitavad kaitsta teie ettevõtet. Turbe vaikesätted sisaldavad levinud rünnakute eelkonfigureeritud turbesätteid.
+Lisateavet turbe vaikesätete kohta leiate teemast Mis [on turbe vaikesätted?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
-**Märkus**: kui teie rentnik oli loodud 22 oktoobril, 2019, on võimalik, et teil esineb uus turva-ja vaike-käitumine ning teil on juba rentniku jaoks lubatud turvalisus.  Kõigi kasutajate kaitsmiseks rullitakse turbe vaikeväärtused kõigi uute rentnike jaoks loodud uute rentnike jaoks.
+**Märkus.** Kui teie rentnik loodi 22. oktoobril 2019 või pärast seda, on võimalik, et teil on uus turvaline vaikekäitumine ja teie rentnikus on turbe vaikesätted juba lubatud.  Selleks et kaitsta kõiki meie kasutajaid, tehakse turbe vaikesätted kõigile loodud rentnikele.
