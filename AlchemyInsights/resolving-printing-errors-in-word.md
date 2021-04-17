@@ -1,8 +1,8 @@
 ---
-title: Wordis printimise tõrgete lahendamine
+title: Printimisvigade lahendamine Wordis
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720858"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828688"
 ---
-# <a name="resolving-print-failures-in-word"></a>Printimise tõrgete lahendamine Wordis
+# <a name="resolving-print-failures-in-word"></a>Prinditõrgete lahendamine Wordis
 
-Kui saate Wordis printimisel tõrketeateid, proovige printida uus test dokument, et teha kindlaks, kas probleem on seotud mõne kindla dokumendiga.
+Kui saate Wordis printimisel tõrkeid, proovige printida uuest testdokumendist, et teha kindlaks, kas probleem on seotud konkreetse dokumendiga.
 
-- Kui saate dokumendist printida, kuid ei saa ikkagi algset dokumenti printida, võib teie algne dokument olla kahjustatud. Järgige juhiseid rakenduses [Word kahjustatud dokumentide tõrkeotsing](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
-- Kui te ikka ei saa printida, järgige juhiseid teemas tõrkeotsing probleemi diagnoosimiseks ja lahendamiseks [Wordis](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) .
+- Kui saate testdokumendist printida, kuid te ei saa siiski originaaldokumenti printida, võib teie algdokument olla kahjustatud. Järgige juhiseid [wordis kahjustatud dokumentide tõrkeotsingu kohta.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)
+- Kui te ei saa endiselt printida, järgige probleemi diagnoosimiseks ja lahendamiseks juhiseid teemas Prinditõrgete tõrkeotsing [Wordis.](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word)

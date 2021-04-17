@@ -1,8 +1,8 @@
 ---
-title: Microsoft Streami õigus
+title: Microsoft Streami õigused
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cd3b2e5c8d1bd336029e14051ebfe0eb069827d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721407"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829012"
 ---
-# <a name="permissions-in-microsoft-stream"></a>Microsoft Streami õigus
+# <a name="permissions-in-microsoft-stream"></a>Microsoft Streami õigused
 
-Video üleslaadimisel määratakse vaikimisi kindlaks, et video on nähtav kogu ettevõttele. Kui soovite määrata teatud kasutajatele/rühmadele juurdepääsuõigused, saate video kasutusõigusi kohandada.
+Vaikimisi määratakse video üleslaadimisel õigused, et video oleks kogu ettevõttele nähtav. Kui soovite määrata kindlate kasutajate/rühmade õigused, saate videoõigusi kohandada.
 
-- [Microsoft Streami õigus ja privaatsus](https://docs.microsoft.com/stream/portal-permissions)
+- [Microsoft Streami õigused ja privaatsus](https://docs.microsoft.com/stream/portal-permissions)
 
-- [Rühma load](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
+- [Rühmaõigused](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
-- [Kanali load](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
+- [Kanaliõigused](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)

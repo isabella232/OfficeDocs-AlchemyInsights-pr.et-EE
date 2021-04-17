@@ -1,8 +1,8 @@
 ---
-title: Windows 10 käivitamise sätted
+title: Windows 10 käivitussätted
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,43 +12,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751131"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828148"
 ---
-# <a name="startup-settings-in-windows-10"></a>Windows 10 käivitamise sätted
+# <a name="startup-settings-in-windows-10"></a>Windows 10 käivitussätted
 
-**Käivitamisel automaatselt käivitatavate rakenduste muutmine**
+**Käivituse ajal automaatselt käivituvate rakenduste muutmine**
 
-1. Avage [sätted > rakendused > käivitus](ms-settings:startupapps?activationSource=GetHelp).
+1. Avage [Sätted > Rakendused > Käivitus](ms-settings:startupapps?activationSource=GetHelp).
 
-2. Veenduge **,** et mõni rakendus, mida soovite käivitamisel käitada, oleks sisse lülitatud.
+2. Veenduge, et iga rakendus, mida soovite käivitamisel käitada, oleks sisse **lülitatud.**
 
-**Rakenduse käivitamisel automaatselt käivitumiseks rakenduse lisamine**
+**Rakenduse lisamine käivitumiseks automaatselt käivitamisel**
 
-1. Klõpsake või puudutage nuppu **Käivita** ja otsige üles rakendus, mille soovite käivitada käivitamisel.
+1. Klõpsake või **puudutage nuppu Start** ja otsige üles rakendus, mida soovite käivitamisel käivitada.
 
-2. Paremklõpsake rakendust, klõpsake käsku **rohkem**ja seejärel klõpsake käsku **Ava kausta asukoht**. Avaneb asukoht, kus rakenduse otsetee on salvestatud. Kui fail pole avatud, tähendab see seda, et rakendust ei saa käivitamisel käitada.
+2. Paremklõpsake rakendust, klõpsake käsku **Rohkem** ja seejärel klõpsake käsku **Ava faili asukoht.** See avab asukoha, kuhu rakenduse otsetee salvestatakse. Kui faili asukoha avamiseks pole valikut, tähendab see, et rakendust ei saa käivitamisel käivitada.
 
-3. Kui faili asukoht on avatud, vajutage klahvikombinatsiooni **Windowsi logoga klahv + R**, tippige **Shell: Startup**ja seejärel klõpsake nuppu **OK**. Avatakse kaust Startup (Startup).
+3. Kui faili asukoht on avatud, vajutage klahvikombinatsiooni **Windowsi logoga klahv + R**, tippige **shell:startup** ja seejärel klõpsake nuppu **OK**. Avatakse käivituskaust.
 
-4. Kopeerige ja kleepige otsetee rakendusse, mis asub kaustast Startup (käivituskaustas).
+4. Kopeerige ja kleepige rakenduse otsetee faili asukohast käivituskausta.
 
-**Täpsemad käivitamise suvandid (sh turvarežiim, UEFI sätted ja teisest seadmest käivitamine)**
+**Täpsemad käivitussuvandid (sh turvarežiim, UEFI sätted ja käivitamine teisest seadmest)**
 
-1. Salvestage oma töö ja sulgege avatud dokumendid, kuna need toimingud taaskäivitavad teie arvuti.
+1. Salvestage oma töö ja sulgege kõik avatud dokumendid, kuna need toimingud taaskäivitavad teie arvuti.
 
-2. Avage [sätted > värskenda & turve > taastamine](ms-settings:recovery?activationSource=GetHelp).
+2. Avage [Sätted > Update & Security > Recovery](ms-settings:recovery?activationSource=GetHelp).
 
-3. Klõpsake jaotises **Täpsem käivitamine**nuppu **Taaskäivita kohe**. 
+3. Klõpsake **jaotises Täpsem käivitus** nuppu Taaskäivita **kohe**. 
 
-4. Pärast arvuti taaskäivitamist valige Kuva valik.
+4. Pärast arvuti taaskäivitamist kuvale Suvandi valimine tehke valik.
 
-    - Seadmest (nt USB-draivilt) buutimiseks klõpsake nuppu **Kasuta seadet**.
+    - Seadmest (nt USB-draivilt) algkäivituseks klõpsake **nuppu Kasuta seadet**.
 
-    - UEFI sätete (mõnikord BIOS-i häälestamise) sisestamiseks klõpsake nuppu **tõrkeotsing > Täpsemad suvandid > UEFI püsivara sätted**. 
+    - UEFI sätete (mõnikord nimetatakse seda ka BIOS-i häälestuseks) sisestamiseks klõpsake **> Täpsemad suvandid > UEFI püsivarasätted**. 
 
-    - Turvarežiimi sisestamiseks või täpsemate käivitamise sätete muutmiseks klõpsake nuppu **tõrkeotsing > Täpsemad suvandid > käivitamise sätted**ja seejärel klõpsake nuppu **Taaskäivita**. Teil võidakse paluda sisestada [BitLockeri taastevõti](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Kui teie arvuti taaskäivitub uuesti, klõpsake selle käivitamise säte, mida soovite kasutada.
+    - Turvarežiimi sisenemiseks või täpsemate käivitussätete muutmiseks klõpsake nuppu **Tõrkeotsing > Täpsemad suvandid >** Ja seejärel klõpsake nuppu **Taaskäivita**. Teil võidakse paluda sisestada [BitLockeri taastevõti.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Pärast arvuti taaskäivitamist klõpsake käivitussätet, mida soovite kasutada.

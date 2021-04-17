@@ -1,8 +1,8 @@
 ---
-title: QoS-i juurutamine ja kõnede kvaliteedi jälgimine võistkondades
+title: QoS-i juurutamine ja kõnekvaliteedi jälgimine Teamsis
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667946"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829228"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>QoS-i juurutamine ja kõnede kvaliteedi jälgimine võistkondades
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>QoS-i juurutamine ja kõnekvaliteedi jälgimine Teamsis
 
-Kõnesid ja kõnede kvaliteedi armatuurlauda saab kasutada Microsoft Teamsi kõne kvaliteedi probleemide lahendamiseks. Lisateavet teenuse kvaliteedi (QoS), kõne analüüsi ja kõne kvaliteedi armatuurlaua (CQD) kohta leiate teemast [QOS-i juurutamine ja Microsoft teamsi kõnede kvaliteedi jälgimine](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
+Kõneanalüüsi ja kõnekvaliteedi armatuurlauda saab kasutada Kõnekvaliteedi probleemide tõrkeotsinguks Microsoft Teamsis. Lisateavet teenusekvaliteedi (QoS), kõneanalüüsi ja kõnekvaliteedi armatuurlaua (CQD) kohta leiate teemast QoS-i juurutamine ja [kõnekvaliteedi jälgimine Microsoft Teamsis.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) 

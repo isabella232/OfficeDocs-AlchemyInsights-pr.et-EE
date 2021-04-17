@@ -1,8 +1,8 @@
 ---
-title: SharePointi migreerimine SPMT abil
+title: SharePointi migreerimine SPMT-ga
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 33864a5ee90d5947d0a9154f585a502b053ff176
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719877"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828292"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>SharePointi migreerimine SPMT abil
+# <a name="sharepoint-migration-with-spmt"></a>SharePointi migreerimine SPMT-ga
 
-Mõeldud kasutamiseks migreerimiseks, mis ulatuvad väikseimast mahust Enterprise ' i migreerimise kaudu, lubab SharePointi migreerimise tööriist teil edastada oma andmed pilve ning kasutada uusimaid koostöö-, luure-ja turvalahendused Microsoft 365.
+SharePointi migreerimistööriist võimaldab teil migreerida teavet pilveteenusesse ning kasutada uusimaid koostöö-, jälitus- ja turbelahendusi Microsoft 365-ga.
 
 - [SharePointi migreerimistööriista allalaadimine ja installimine](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-- [Levinud SPMT probleemide ja tõrgete tõrkeotsing](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-- [Installiprobleemide tõrkeotsing SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
+- [Levinud SPMT-probleemide ja tõrgete tõrkeotsing](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [SPMT-installiprobleemide tõrkeotsing](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)

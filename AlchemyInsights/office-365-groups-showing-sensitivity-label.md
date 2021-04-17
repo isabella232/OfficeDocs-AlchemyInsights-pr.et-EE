@@ -2,7 +2,7 @@
 title: Tundlikkuse silte kuvavad Microsoft 365 rühmad
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 6875076da9d1984d94cd65c9cf1e582c9e5e7e8f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81906f5260c032bb15dd12dfce5945a8972fb5eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803061"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829120"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>Tundlikkuse silte kuvavad Microsoft 365 rühmad
 
 Võite Microsoft 365 rühma puhul näha järgist probleemi:
 
-- Microsoft 365 rühma ei saa OWA-st luua, tõrkega "väli klassifikatsioon ei tohi olla tühi."
+- OWA-st ei saa luua Microsoft 365 rühma, mille tõrge on "Liigitusväli ei tohi olla tühi".
 
 - Microsoft 365 rühmade tundlikkuse märgendi nägemine ka siis, kui te pole funktsiooni lubanud.
 
