@@ -1,29 +1,30 @@
 ---
-title: Keegi on juba seadistanud teie organisatsiooni tõrke jaoks meeskonnad
+title: Tõrketeade “Keegi on sinu organisatsiooni jaoks Teamsi juba seadistanud“
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 0aa2d68e737faba8b8558a1581e25bdb14e5a9ff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282652"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835303"
 ---
-# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Tõrge "keegi on juba seadistanud teie organisatsiooni jaoks meeskonnad"
+# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Tõrketeade “Keegi on sinu organisatsiooni jaoks Teamsi juba seadistanud“
 
-Kui näete "keegi on juba seadistanud oma organisatsiooni meeskonnad" tõrge meeskonnad, see võib olla tingitud:
+Kui näed Teamsis tõrketeadet „Keegi on sinu organisatsiooni jaoks Teamsi juba seadistanud“, võivad sellel olla järgmised põhjused.
 
-1. Keegi on teie jaoks juba meeskonnad seadistanud. Kontrollige oma e-posti kutse või proovige logida meeskonnad era/inkognito veebibrauseris oma domeeni mandaat [https://teams.microsoft.com](https://teams.microsoft.com) .
+1. Keegi on sinu jaoks Teamsi juba häälestanud. Otsi postkastist kutset või proovi Teamsi oma domeeni identimisteabega sisse logida privaat- või inkognito-režiimis töötavas veebibrauseris aadressil [https://teams.microsoft.com](https://teams.microsoft.com).
 
-2. Proovite registreeruda oma e-posti aadressiga, mis on seotud nii töö kui ka isikliku kontoga. Näiteks kasutatakse Contoso.com nii teie Microsofti teenusekonto (Live ID) kui ka teie töökonto (Active Directory) jaoks. Kui see on nii, proovige luua meeskonnad uus privaatne/inkognito brauseri aken ja valige "töö või kooli" versiooni oma sisselogimise asemel isikliku. Kui see ei toimi, peate need lahti linkima, et luua tasuta meeskondade konto. Selleks, et seda teha, järgige jaotises "ma tahan kasutada teise aadressi või telefoninumbri sisse logida" leheküljel, [muuta e-posti aadress või telefoninumber oma Microsofti konto](https://support.microsoft.com/help/12407).
+2. Proovid kasutajaks registreeruda meiliaadressiga, mis on seotud nii töö- kui ka erakontoga. Selline olukord tekib näiteks siis, kui sama domeeni (nt Contoso.com) on kasutatud nii sinu Microsofti teenusekonto (Live ID) kui ka töökonto (Active Directory) jaoks. Sellisel juhul proovi Teamsi konto luua veebibrauseri uues privaatses või inkognito-aknas ning vali isikliku konto asemel sisselogimiseks töö- või koolikonto variant. Kui see ei toimi, pead need kontod tasuta Teamsi konto loomiseks õigesti teineteisest lahutama. Selleks täida lehe [Microsofti konto jaoks kasutatava meiliaadressi või telefoninumbri muutmine](https://support.microsoft.com/help/12407) jaotises „Soovin sisselogimiseks kasutada mõnda muud aadressi või telefoninumbrit“ toodud juhised .
 
-3. Proovite oma praegust Tööaadressi tasuta rentnikule alla kirjutada. Sel juhul eeldatakse, et see ei õnnestu siin, ja peate kasutama oma organisatsiooni rentniku selle aadressiga. Saate luua tasuta meeskonnad konto isikliku e-posti aadress mis tahes isiklikuks kasutamiseks [siin](https://products.office.com/microsoft-teams/group-chat-software).
+3. Proovid tasuta rentnikkeskkonnas registreeruda oma praeguse tööaadressiga. Sellisel juhul on nurjumine ootuspärane; selle aadressiga registreerumiseks tuleb sul kasutada oma organisatsiooni rentnikku. Isiklikuks kasutamiseks saad tasuta Teamsi konto oma isikliku meiliaadressiga luua [siin](https://products.office.com/microsoft-teams/group-chat-software).

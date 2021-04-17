@@ -1,8 +1,8 @@
 ---
-title: Kaasaegne Commerce kasutaja roll
+title: Modern Commerce'i kasutaja roll
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667010"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833611"
 ---
-# <a name="modern-commerce-user-role"></a>Kaasaegne Commerce kasutaja roll
+# <a name="modern-commerce-user-role"></a>Modern Commerce'i kasutaja roll
 
-Kaasaegne Commerce ' i kasutaja roll annab teatud kasutajatele õiguse Microsoft 365 administreerimiskeskusele juurde pääseda ja vaadata **kodukasutajate,** **arvelduste**ja **toe**vasakpoolseid navigeerimise kandeid. Nendes valdkondades saadaolevat sisu reguleerib kasutajate jaoks määratud Commerce-spetsiifilised rollid, et hallata tooteid, mille nad ise või teie ettevõttes ostsid. See võib hõlmata toiminguid (nt arve maksmine) või juurdepääsu arvelduse kontodele ja arvelduse profiilidele.
+Modern Commerce'i kasutaja roll annab teatud kasutajatele õiguse microsoft 365 halduskeskusele juurde pääseda ja vaadata vasakpoolseid navigeerimiskirjeid **kodu,** **arveldamise ja** toe **jaoks.** Nendes piirkondades saadaolevat sisu kontrollivad äripõhised rollid, mis on määratud kasutajatele, kes haldavad tooteid, mille nad on ostnud endale või teie ettevõttele. See võib hõlmata ülesandeid nagu arvete maksmine või juurdepääs arvelduskontodele ja arveldusprofiilidele.
 
-Tänapäevase ärikasutaja rolliga kasutajatel on tavaliselt administraatoriõigused muudes Microsofti ostu-süsteemides, kuid teil pole üldadministraatorit ega arvelduse administraatori õigusi.
+Modern Commerce'i kasutaja rolliga kasutajatel on tavaliselt teistes Microsofti ostusüsteemides administraatoriõigused, kuid neil pole üldadministraatori ega arveldusadministraatori õigusi.
 
-Lisateavet selle ja muude administratiivsete rollide kohta leiate teemast [administraatori rolli õigused Azure Active Directorys](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Lisateavet selle ja muude haldusrollide kohta leiate teemast [Administraatori rolliõigused Azure Active Directorys.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)

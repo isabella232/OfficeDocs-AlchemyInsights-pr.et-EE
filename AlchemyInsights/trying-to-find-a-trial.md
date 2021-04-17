@@ -1,8 +1,8 @@
 ---
-title: Kas proovite otsida prooviversiooni?
+title: Kas proovite leida prooviversiooni?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658370"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834691"
 ---
-# <a name="trying-to-find-a-trial"></a>Kas proovite otsida prooviversiooni?
+# <a name="trying-to-find-a-trial"></a>Kas proovite leida prooviversiooni?
 
-Kui soovite proovida uut teenust, leiate Microsoft 365 administreerimiskeskuses prooviversioonide jaoks saadaolevate tellimuste loendi.
+Kui soovite proovida uut teenust, leiate Microsoft 365 halduskeskusest prooviversiooni jaoks saadaolevate tellimuste loendi.
   
-1. Avage administreerimiskeskuses leht **arvelduse** \> [ostmise teenused](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. Avage halduskeskuses leht **Arveldamine** \> [Teenuste ostmine.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Valige tellimus, mis vastab teie vajadustele, ja seejärel valige käsk  **Hangi tasuta prooviversioon**.
+2. Valige tellimus, mis vastab teie vajadustele, ja seejärel valige Hangi  **tasuta prooviversioon**.
 
     > [!NOTE]
-    > Kõik paketid pole prooviversioonina saadaval. Kui te ei leia tellimuse üle hiirega üle **tasuta prooviversiooni** , tähendab see, et prooviversioon pole saadaval.
+    > Kõik tellimused pole prooviversioonina saadaval. Kui tellimusele hiirekursoriga **liikumisel** ei näe nuppu Hangi tasuta prooviversioon, tähendab see, et prooviversioon pole saadaval.
   
-3. Teil võidakse paluda sisestada krediitkaardi või muu makseviisi, et anda täiendavaks kinnitamiseks tagatis. Te ei pea tasuta prooviversiooni eest tasuma. Hoiame teie makseviisi failis ja ei kasuta seda ilma teie loata ostmiseks.
+3. Teil võidakse paluda sisestada krediitkaart või muu makseviis, et esitada turbemeetmena täiendav kinnitus. Selle tasuta prooviversiooni eest teilt tasu ei võeta. Hoiame teie makseteabe failis alles ja ei kasuta seda ilma teie nõusolekuta ühegi ostu jaoks.
 
-4. Valige **proovi kohe**.
+4. Valige **Proovi kohe.**

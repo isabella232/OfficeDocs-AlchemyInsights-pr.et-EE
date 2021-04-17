@@ -1,8 +1,8 @@
 ---
-title: Värskendage DNS-i kirjeid, et hoida oma veebisait praeguse majutusteenuse pakkujaga.
+title: Värskendage DNS-i kirjeid, et hoida oma veebisaiti praeguse majutusteenuse pakkuja juures
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 220495332098cf700afa429f36749e71668f2d5d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709282"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834475"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Värskendage DNS-i kirjeid, et hoida oma veebisait praeguse majutusteenuse pakkujaga.
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Värskendage DNS-i kirjeid, et hoida oma veebisaiti praeguse majutusteenuse pakkuja juures
 
-Microsoft 365 avaliku veebisaidi teisaldamise protsessi osana teisele majutusteenuse pakkujale peate tõenäoliselt muutma oma domeeni kirjeid.
+Microsoft 365 avaliku veebisaidi teise hostiteenuse pakkujale teisaldamise käigus peate tõenäoliselt oma domeenikirjeid tegema.
   
-1. Klõpsake administreerimiskeskuses nuppu **Häälesta** \> **Domeenid** ja valige domeeninimi, mida soovite muuta.
+1. Avage halduskeskuses  \> **Domains (Domeenide häälestamine)** ja valige domeeninimi, mida soovite muuta.
 
-2. Sisestage teave, mis joondatakse teie veebisaidile uue majutusteenuse pakkujaga.
+2. Sisestage teave, mis joondatud teie veebisaidiga uue hostiteenuse pakkujaga.
 
-Lisateavet leiate teemast [DNS-i kirjete värskendamine, et hoida oma veebisait praeguse majutusteenuse pakkujaga](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide).
+Lisateavet leiate teemast DNS-i [kirjete värskendamine, et säilitada oma veebisait praeguse majutusteenuse pakkuja juures.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Avaliku saidi lõpetamise kohta leiate lisateavet artiklist [SharePoint Online ' i avalike veebisaitide](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)katkestamine.
+Lisateavet avaliku saidi katkestamise kohta leiate teemast [SharePoint Online'i avalikud veebisaidid tuleb lõpetada.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

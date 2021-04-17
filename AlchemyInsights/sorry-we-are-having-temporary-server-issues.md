@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 rakenduste parandamine Vabandust, meil on ajutine serveri probleemid sõnum
+title: Microsoft 365 rakenduste parandamine Kahjuks on meil ajutiste serveriprobleemide teade
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758241"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835267"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Microsoft 365 rakenduste parandamine "Kahjuks on meil ajutised serveri probleemid" sõnum
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Microsoft 365 rakenduste "Kahjuks on meil ajutised serveriprobleemid" parandamine
 
-Kui teile kuvatakse see teade, proovige teha järgmist.
+Kui teile kuvatakse see teade, proovige järgmist.
 
-1. Kontrollige oma tulemüüri, viirusetõrjetarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Interneti-juurdepääsu Microsoft 365 rakendustele. Vaadake teemat [URL-id ja IP-aadresside vahemikud](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kontrollige tulemüüri, viirusetõrjetarkvara ja puhverserveri sätteid, et veenduda, et need ei blokeeri Interneti-juurdepääsu Microsoft 365 rakendustele. Vt [URL-id ja IP-aadresside vahemikud](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Avage **Start**  >  **Run**ja tippige tekst **Services. msc**. Veenduge, et kõik töötavad järgmised teenused.
-    - Võrguga ühendatud seadmete automaatne häälestamine
-    - Võrgu loendi teenus
-    - Võrgu asukoha teadlikkus
+2. Avage Start Run  >  **(Käivita)** ja seejärel tippige **services.msc**. Veenduge, et kõik järgmised teenused töötaks.
+    - Võrguühendusega seadmete automaathäälestus
+    - Võrguteenus
+    - Võrguasukoha teadlikkus
     - Windowsi sündmuste logi
 
-Kui mõni neist teenustest ei tööta, proovige seda käivitada. Kui teil on teenuse käivitamise probleem, käivitage järgmine käsk, avades käsuviiba, kus on kõrgendatud õigused.
+Kui mõni neist teenustest ei tööta, proovige seda käivitada. Kui teil on teenuse käivitamisel probleeme, käivitage järgmine käsk, avades administraatoriõigustega käsuviiba.
 
-**SFC/scannow**
+**sfc /scannow**
 
-Pärast selle käsu lõpulejõudmist taaskäivitage arvuti.
+Pärast selle käsu lõpule viimist taaskäivitage arvuti.
 
-Üksikasjalikku teavet leiate teemast ["Kahjuks ei saa me teie kontoga ühendust luua. Palun proovi hiljem uuesti, kui aktiveerid](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Üksikasjalikku teavet leiate teemast ["Kahjuks ei saa me teie kontoga ühendust luua. Proovige hiljem uuesti" tõrge, kui aktiveerite](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

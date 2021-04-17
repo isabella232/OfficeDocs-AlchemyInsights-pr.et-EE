@@ -1,8 +1,8 @@
 ---
-title: 'Meeskonnad: vestluse kustutamine'
+title: 'Teams: kustuta vestlus'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: d22877d1777df432a1c9b5420c4fce73d291c994
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9ff0fcc734361d733deb37ca0db55689b2ac85c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736788"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835087"
 ---
-# <a name="delete-a-chat-in-microsoft-teams"></a>Microsoft Teamsi vestluse kustutamine
+# <a name="delete-a-chat-in-microsoft-teams"></a>Vestluse kustutamine Microsoft Teamsis
 
-Lisateavet selle kohta, kuidas üksikud kasutajad saavad sõnumeid redigeerida või kustutada, saate vaadata [saadetud sõnumi redigeerimist või kustutamist meeskondades](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263). 
+Lisateavet selle kohta, kuidas üksikud kasutajad saavad sõnumeid redigeerida või kustutada, leiate vaatest Saadetud [sõnumi redigeerimine või kustutamine Teamsis.](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263) 
 
-Kustutamise suvandid hõlmavad järgmist.
+Kustutamissuvandid on järgmised.
 
-- Kasutajad saavad kustutada oma sõnumeid igal pool meeskonnas.
-- Meeskonnaliikmed saavad valida, kas kasutajad saavad oma rentnikku redigeerida või kustutada või avalike kanalite kaudu postitatud sõnumeid kustutada.
-- Kasutajad saavad isikliku vestluse lõimed peita või vaigistada (jutulõngad, mis kuvatakse, kui klõpsate vestluse ikooni).
+- Kasutajad saavad Teamsis kustutada oma sõnumeid mis tahes kohas.
+- Meeskonnaomanikud saavad valida, kas kasutajad saavad rentnikus redigeerida või kustutada või kustutada mis tahes avalike kanalite kaudu postitatud sõnumi.
+- Kasutajad saavad privaatsed jutulõngad peita või vaigistuda (jutulõngad, mis kuvatakse ikooni Vestlus klõpsamisel).
 
-**Märkus:** Isiklike vestluste lõimede kustutamise võimalus on endiselt läbivaatusel ja seda saab jälitada [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads). 
+**Märkus.** Privaatsete jutulõngade kustutamise võimalus on endiselt läbivaatamisel ja seda saab [jälgida UserVoice'is.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads) 

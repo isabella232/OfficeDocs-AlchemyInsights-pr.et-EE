@@ -1,8 +1,8 @@
 ---
-title: GatewayNotReachable mandaatide seadmisel
+title: GatewayNotReachable when setting credentials
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1321"
 - "2500002"
-ms.openlocfilehash: eefd024944282f26460b8ae6da04829dd4239983
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d02ff9db70a8c8db82b573121cb52c031899fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690851"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834943"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable mandaatide seadmisel
+# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable when setting credentials
 
-Kui proovite seada Power BI teenuses andmeallika mandaati, võivad ilmneda GatewayNotReachable. See võib olla aegunud lüüsi tulem. Installige uusim lüüs ja proovige uuesti.
+Power BI teenuses andmeallika identimisteabe häälestamisel võib ilmneda GatewayNotReachable. See võib olla aegunud lüüsi tulemus. Installige uusim lüüs ja proovige uuesti.
 
-Lisateavet leiate järgmistest teemadest. [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Lisateavet leiate teemast [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

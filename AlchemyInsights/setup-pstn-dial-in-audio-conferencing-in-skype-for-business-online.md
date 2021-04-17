@@ -1,8 +1,8 @@
 ---
-title: PSTN-kõnede häälestamine Skype ' i ärirakenduse veebiväljaandes
+title: PSTN-i sissehelistamiskonverentsi häälestamine Skype'i ärirakenduse veebiväljaandes
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739533"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835483"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>PSTN-kõnede häälestamine Skype ' i ärirakenduse veebiväljaandes
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>PSTN-i sissehelistamiskonverentsi häälestamine Skype'i ärirakenduse veebiväljaandes
 
-Kui soovite häälestada Skype ' i ärirakenduse veebiväljaande jaoks videokonverentsi, peate tegema mõned toimingud. 
+Kui soovite häälestada Skype'i ärirakenduse veebiväljaande jaoks helikonverentsi, peate tegema mõnda asja. 
 
-- Siit leiate teavet selle kohta, kas teie riigis/regioonis on saadaval ka heli konverentsid.
+- Uurige, kas audiokonverentsid on teie riigis/regioonis saadaval.
 
 - Hankige ja määrake kasutajatele litsentsid.
 
-- Hankige ja Määrake teenuse numbrid.
+- Hankige ja määrake teenusenumbrid.
 
-- Tehke kontroll-loend [Skype ' i ärirakenduse jaoks mõeldud videokonverentsi häälestamiseks](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Täitke kontroll-loend [skype'i ärirakenduse helikonverentside häälestamise kohta.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
