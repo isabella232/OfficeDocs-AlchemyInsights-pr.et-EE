@@ -1,27 +1,28 @@
 ---
-title: Taasta kustutatud üksused cmdlet-käsu
+title: Kustutatud üksuste taastamine cmdlet-käsu abil
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 86744d92a44096991079d1da3bdf4e95e58c55b7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493027"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835807"
 ---
-# <a name="recover-deleted-items-with-cmdlet"></a>Taasta kustutatud üksused cmdlet-käsu
+# <a name="recover-deleted-items-with-cmdlet"></a>Kustutatud üksuste taastamine cmdlet-käsu abil
 
-- [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) cmdlet-käsu abil saate vaadata kustutatud üksuste postkastid. Pärast seda, kui leiate kustutatud üksused, saate [taastada-RecoverableItems cmdlet-](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) käsu taastada.
+- Postkastides kustutatud üksuste kuvamiseks saate kasutada [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) cmdlet-käsku. Pärast kustutatud üksuste otsimist kasutage nende taastamiseks [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) cmdlet-käsku.
 
-- Vaadake täielikud üksikasjad [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
+- Täielikud üksikasjad leiate teemast [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
 
-- Peate olema määratud postkasti impordi eksport rolli enne, kui saate käivitada selle cmdlet-käsu. Lisateabe saamiseks lugege [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) .
+- Selle cmdlet-käsu käivitamiseks peab teile olema määratud roll Postkasti import ja eksport. Lisateavet leiate teemast [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).

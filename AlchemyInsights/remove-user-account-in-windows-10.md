@@ -2,7 +2,7 @@
 title: Kasutajakonto eemaldamine opsüsteemis Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 58f18a2ef8f685b4ebb4b274f506e2de03bb0807
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801324"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835771"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Konto eemaldamine opsüsteemis Windows 10
 
-Konto eemaldamiseks opsüsteemist Windows 10 tehke järgmist.
+Konto eemaldamiseks opsüsteemist Windows 10 saate teha järgmist.
 
-1. **Start**  >  **Settings**  >  **Account**  >  Kui kasutate Windows 10 Enterprise ' i, avage menüü Start sätete konto**pere & teised** inimesed (või **muud inimesed**).
-2. Valige konto, mille soovite eemaldada, klõpsake nuppu **Eemalda**ja seejärel valige **Kustuta konto ja andmed**.
+1. Kui kasutate **Opsüsteemi Windows**  >    >    >  10 **Enterprise, &** ava avakuva sätted Kontopere ( või Muud inimesed).
+2. Valige konto, mille soovite eemaldada, valige **Eemalda** ja seejärel valige **Kustuta konto ja andmed**.
  
-**Märkus:** Te ei saa kustutada kontot, kuhu olete praegu sisse logitud.  Kui teil on vaja asendada konto, kuhu olete sisse logitud, tehke järgmist.
+**Märkus.** Praegu sisse logitud kontot ei saa kustutada.  Kui teil on vaja asendada konto, millega olete sisse logitud, peate tegema järgmist.
 
 1. Lisage uus kasutajakonto.
-2. Tehke uue kasutajakonto administraator ARVUTIS.
-3. Kustutage vana kasutajakonto. Kasutajakonto kustutamisel kaotate jäädavalt kõik selle kasutajaga seotud sätted, failid ja andmed. [Kui soovite varundada kõik, mida soovite salvestada, tehke järgmist](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).
+2. Tehke uus kasutajakonto oma arvuti administraatoriks.
+3. Kustutage vana kasutajakonto. Kasutajakonto kustutamisel kaotate jäädavalt kõik selle kasutajaga seotud sätted, failid ja andmed. [Järgmiste juhiste abil saate varundada kõik, mida soovite salvestada.](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore)

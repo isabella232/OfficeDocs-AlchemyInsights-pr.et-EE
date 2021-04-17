@@ -1,8 +1,8 @@
 ---
-title: Video üleslaadimise õiguse piiramine
+title: Video üleslaadimise vaikeõiguste piiramine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: 5059f9ed565df5c97157371fe17e9bde7a384d1b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6622deada7e652bdad86cd95f1564f22634e7b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692003"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835663"
 ---
-# <a name="restrict-default-video-upload-permissions"></a>Video üleslaadimise õiguse piiramine
+# <a name="restrict-default-video-upload-permissions"></a>Video üleslaadimise vaikeõiguste piiramine
 
-Kui kasutajad laadivad video Microsoft Streami kaudu üle voogesituse portaali, mis ei kuulu rühma või rühma kanali konteksti, on vaikimisi märgitud ruut "Luba kõigil teie ettevõttel seda videot vaadata". See muudab video kättesaadavaks kõigile teie ettevõttes olevatele kasutajatele.
+Kui kasutajad laadivad video Üles Microsoft Streami streami portaali kaudu väljaspool rühma- või rühmakanali konteksti, on vaikimisi märgitud ruut "Luba kõigil teie ettevõtte liikmetel seda videot vaadata". See muudab video kättesaadavaks, et seda vaadataks kõik teie ettevõttes.
 
-- [Video üleslaadimise õiguse määramine](https://docs.microsoft.com/stream/default-video-permissions)
+- [Video üleslaadimise vaikeõiguste määramine](https://docs.microsoft.com/stream/default-video-permissions)

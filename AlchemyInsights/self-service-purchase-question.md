@@ -1,8 +1,8 @@
 ---
-title: Iseteenindusega ostu küsimus
+title: Iseteeninduse ostu küsimus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740001"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835627"
 ---
-# <a name="self-service-purchase"></a>Iseteenindusega ost
+# <a name="self-service-purchase"></a>Iseteenindusega ostmine
 
-**Millised võimalused on administraatoril teie iseteeninduskeskuse ostmiseks?**
+**Millised võimalused on administraatoril iseteeninduse ostude jaoks?**
 
-Administraatorid saavad vaadata kõiki iseteenindusega oste, mis on tehtud Microsoft 365 halduskeskus oma ettevõttes. Nad näevad toodet, sisseostja nime, ostetud tellimusi, aegumiskuupäeva, tellimuste ajalugu, ostuhinda ja määratud kasutajaid iga iseteenindusega ostu eest.  Kui seda on vaja oma asutuse jaoks, saavad administraatorid välja lülitada iseteenindusega ostu ühe toote põhjal PowerShelli kaudu.  Administraatoritel on sama andmete haldamise ja juurdepääsu poliitika, mis on ostetud iseteenindusega või tsentraalselt ostetud toodete kaudu.
+Administraatorid saavad microsoft 365 halduskeskuses vaadata kõiki oma ettevõttes tehtud iseteenindusega oste. Nad näevad iga iseteenindusega ostu jaoks toodet, ostja nime, ostetud tellimusi, aegumiskuupäeva, tellimuste ajalugu, ostuhinda ja määratud kasutajaid.  Kui see on organisatsiooni jaoks nõutav, saavad administraatorid PowerShelli kaudu iseteeninduse ostud toote kohta välja lülitada.  Administraatoritel on samad andmehaldus- ja juurdepääsupoliitikad toodete suhtes, mis on ostetud iseteeninduse kaudu või keskselt.
 
-[Iseteenindusega ostu KKK](https://aka.ms/self-service-purchase-faq)
+[Iseteeninduse ostu KKK](https://aka.ms/self-service-purchase-faq)
 
