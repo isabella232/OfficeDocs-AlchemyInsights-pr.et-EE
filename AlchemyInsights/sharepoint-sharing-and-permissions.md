@@ -1,8 +1,8 @@
 ---
-title: SharePoint Online ' i ühiskasutus ja load
+title: SharePoint Online'i ühiskasutus ja õigused
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5803"
-ms.openlocfilehash: bd1f69fe13d7d1a0c997df8e489466ee8cc4ca7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ac3670c0e4c131d020303180422874d4854f29e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770619"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825079"
 ---
-# <a name="sharepoint-online-sharing-and-permissions"></a>SharePoint Online ' i ühiskasutus ja load
+# <a name="sharepoint-online-sharing-and-permissions"></a>SharePoint Online'i ühiskasutus ja õigused
 
-Siin on mõned sageli nõutavad teemad SharePoint Online ' i ühiskasutus ja load
+SharePoint Online'i ühiskasutuse ja õiguste kohta leiate sageli soovitud teemasid.
 
-- [Ühiskasutus ja load SharePointi moodsas kasutajaliideses](https://docs.microsoft.com/sharepoint/modern-experience-sharing-permissions)
-- [SharePointi saidi load](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
-- [Välise ühiskasutuse sisselülitamine sees või väljas](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Ühiskasutus ja õigused SharePointi kaasaegses kasutuskogemuses](https://docs.microsoft.com/sharepoint/modern-experience-sharing-permissions)
+- [SharePointi saidiõigused](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Välise ühiskasutuse sisse- või väljalülitamine](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)

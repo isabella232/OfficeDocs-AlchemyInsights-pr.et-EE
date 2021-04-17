@@ -1,8 +1,8 @@
 ---
-title: Lõikelaual on probleem
+title: Lõikelauaga on probleeme
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: b66f3bf4eb6b0354b7e30c89dc1b049cb0f5b8ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750267"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824647"
 ---
 # <a name="resolving-excel-clipboard-error"></a>Exceli lõikelaua tõrke lahendamine
 
-Kui kuvatakse Excelis tõrketeade "lõikelaual on probleem, kuid saate selle töövihiku sisu kleepida," proovige funktsiooni Live Preview keelata, järgides järgmisi juhiseid.
+Kui Teile kuvatakse Excelis tõrketeade: "Lõikelauaga on probleeme, kuid saate selle töövihiku sisu siiski kleepida", proovige live Preview'i funktsioon keelata, järgides järgmisi juhiseid.
 
-1. **Klõpsake Excelis**nuppu  >  **Suvandid**.
-3. Klõpsake dialoogiboksis **Exceli suvandid** nuppu **Üldine**.
-4. Tühjendage jaotises **kasutajaliidese suvandid**ruut **Luba reaalajas eelvaade**.
+1. Klõpsake Excelis nuppu  >  **Failisuvandid**.
+3. Valige **dialoogiboksis Exceli** suvandid **suvand Üldine**.
+4. Tühjendage **jaotises Kasutajaliidese suvandid** ruut Luba reaalajas **eelvaade**.
 5. Klõpsake nuppu **OK**.
 6. Taaskäivitage Excel.

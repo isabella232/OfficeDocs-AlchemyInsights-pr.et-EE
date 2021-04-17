@@ -1,8 +1,8 @@
 ---
-title: Saate lubada või keelata anonüümsetel kasutajatel võistkondade koosolekutega liitumist
+title: Anonüümsete kasutajate Teamsi koosolekutega liitumise lubamine või keelamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669892"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824755"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Saate lubada või keelata anonüümsetel kasutajatel võistkondade koosolekutega liitumist
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Anonüümsete kasutajate Teamsi koosolekutega liitumise lubamine või keelamine
 
-Saate administraatorite administreerimiskeskuses reguleerida anonüümse koosolekuga liitumise sätteid.
+Anonüümse koosolekuga liitumise sätteid saate kontrollida Teamsi halduskeskuses.
 
-**Selle muudatuse jõustumiseks võib kuluda kuni 24 tundi.**
+**Muudatuse jõustumist võib võtta kuni 24 tundi.**
 
-1.  Avage [meeskonnatöö halduskeskus](https://admin.teams.microsoft.com)
-2.  Valige vasakpoolsel navigeerimispaanil **koosolekute**   >   **koosoleku sätted**.
-3.  Jaotises  **osalejad**lülitage  **anonüümsed kasutajad koosolekuga liituma**.
+1.  Teamsi [halduskeskusesse minemine](https://admin.teams.microsoft.com)
+2.  Avage vasakpoolsel navigeerimispaanil Sätted    >   **Koosolekud**.
+3.  Lülitage  **jaotises Osalejad** sisse valik  **Anonüümsed kasutajad saavad koosolekuga liituda**.

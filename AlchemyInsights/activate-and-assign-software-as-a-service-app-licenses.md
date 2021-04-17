@@ -1,8 +1,8 @@
 ---
-title: Tarkvara ja teenusena rakenduste litsentside aktiveerimine ja määramine
+title: Tarkvara kui teenuserakenduse litsentside aktiveerimine ja määramine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698533"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823207"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Tarkvara ja teenusena rakenduste litsentside aktiveerimine ja määramine 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Tarkvara kui teenuserakenduse litsentside aktiveerimine ja määramine 
 
 ## <a name="to-activate-apps"></a>Rakenduste aktiveerimine
 
-1. Avage administreerimiskeskuses leht **Arveldamine**  >  **[oma tooted](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel valige vahekaart **rakendused** .
+1. Avage halduskeskuses leht Toodete  >  **[arveldamine](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel valige **vahekaart** Rakendused.
 
 2. Otsige üles ja valige rakendus, mida soovite hallata.
 
-3. Valige jaotises **litsentsid**nupp **Häälesta konto**.  
+3. Valige **jaotises Litsentsid** **nupp Häälesta konto**.  
 
-## <a name="to-assign-app-licenses"></a>Rakenduse litsentside määramine
+## <a name="to-assign-app-licenses"></a>Rakenduselitsentside määramine
 
-1. Avage administreerimiskeskuses leht **Arveldamine**  >  **[oma tooted](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel valige vahekaart **rakendused** .
+1. Avage halduskeskuses leht Toodete  >  **[arveldamine](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel valige **vahekaart** Rakendused.
 
 2. Otsige üles ja valige rakendus, mida soovite hallata.  
 
-3. Valige jaotises **sätted & toimingud** **Publisheri portaalis hallatav**link.
+3. Valige **jaotises & toimingud** link Halda **väljaandja portaalis.**

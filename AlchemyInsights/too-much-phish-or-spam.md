@@ -11,17 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
-ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
+ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767933"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824611"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Kas teie postkastis on liiga palju andme- või rämpsposti?
 
-> [!NOTE]
-> Microsoft 365 turbekeskusele pääsete juurde [security.microsoft.com.](https://security.microsoft.com)
+**Märkus** Microsoft 365 turbekeskusele pääsete juurde veebisaidil [https://security.microsoft.com](https://security.microsoft.com) .
 
 Microsoft 365 administraatorina on parim viis teha kindlaks, miks andmepüügi- või rämpspostisõnum kohale toimetati, esitada näidis [Microsoftile Submissions Exploreris.](https://security.microsoft.com/reportsubmission) Saate kohe tagasisidet sõnumi filtreerimise ja probleemide põhjuste kohta.
 

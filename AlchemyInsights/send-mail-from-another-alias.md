@@ -1,8 +1,8 @@
 ---
-title: Meilisõnumite saatmine teisest pseudonüümist
+title: Meilisõnumi saatmine muust pseudonüümist
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 045dd451adcb66f84a1aa3f20b7c0b6550e8f2ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd41ecaf53d926880c5949892f7751906b549b8a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720750"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823675"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>Meilisõnumite saatmine pseudonüümist või sekundaarsest aadressilt
+# <a name="send-email-from-an-alias-or-secondary-address"></a>Meilisõnumi saatmine pseudonüümilt või teiseselt aadressilt
 
-Microsoft 365 ei toeta praegu pseudonüümi või sekundaarse meiliaadressi kaudu meilisõnumite saatmist. Meili pseudonüüme saab kasutada ainult meilisõnumite vastuvõtmiseks. Kui soovite saata meilisõnumeid mõnelt muult meiliaadressilt, peate looma ühiskasutatava postkasti. Ühiskasutuses postkastis antakse teile teine meiliaadress, nõudmata teist litsentsi.
+Microsoft 365 ei toeta praegu pseudonüümilt või teiseselt meiliaadressilt meilisõnumite saatmist. Meilipseudonüüme saab kasutada ainult meilisõnumite saamiseks. Kui soovite meilisõnumeid saata mõnelt muult meiliaadressilt, peate looma ühispostkasti. Ühispostkast annab teile uue meiliaadressi, ilma et teil oleks vaja muud litsentsi.
   
-- [Ühiskasutusse antud postkasti loomine](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Ühispostkasti loomiseks avage siin](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Samuti saate lugeda [ühiskasutuses oleva postkasti loomise](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) artiklit, mis ütleb teile kõik, mida soovite ühiskasutatavate postkastide kohta teada saada (sh kuidas neid kasutada).
+Samuti saate lugeda artiklit [Ühispostkasti](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) loomine, mis annab teile teada kõik, mida ühispostkastide kohta teadma peate (sh kuidas neid kasutada).

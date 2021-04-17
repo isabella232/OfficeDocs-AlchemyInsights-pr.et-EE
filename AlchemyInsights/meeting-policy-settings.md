@@ -1,8 +1,8 @@
 ---
-title: Koosolekute poliitika sätted
+title: Koosolekupoliitika sätted
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39151d3a56cc09a8ae2dd77fb7bf1e99066cc77a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704602"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825439"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft Teamsi koosolekute poliitikate haldamine
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft Teamsi koosolekukutsete haldamine
 
-**Märkus: poliitika muudatuste jõustamiseks kasutajate jaoks võib kuluda kuni 24 tundi.** Võimalik, et te ei saa kohe vastloodud poliitikaid muuta; Oodake 4 tundi ja proovige uuesti uuesti loodud poliitikat muuta.
+**Märkus. Poliitikamuudatuste kasutajate jaoks jõustumist võib võtta kuni 24 tundi.** Võimalik, et te ei saa vastloodud poliitikaid kohe muuta; oodake 4 tundi ja proovige uuesti loodud poliitikat muuta.
 
-Koosoleku põhimõtteid kasutatakse selliste funktsioonide juhtimiseks, mis on saadaval koosolekul osalejatele koosolekul, mis on planeeritud teie asutuse kasutajate jaoks. Mõned koosolekute poliitikate funktsioonid ei pruugi olla meeskonnatöö administreerimiskeskuses veel saadaval (need on dokumentides "Varsti tulekul"). Sellisel juhul või kui teile kuvatakse tõrketeade "me ei saa praegu poliitikat värskendada, kuid proovige seda hiljem uuesti" Microsoft Teamsi administreerimiskeskuses, soovitame kasutada PowerShelli, et luua või muuta meeskonnatöö koosoleku poliitikaid. 
+Koosolekupoliitikaid kasutatakse nende funktsioonide tõrjeks, mis on koosolekul osalejatele saadaval teie asutuse kasutajate ajastatud koosolekute jaoks. Mõnda koosolekupoliitika funktsioone ei pruugita Teamsi halduskeskuses veel rakendada (need on dokumentatsioonis sildiga "peagi tulekul"). Sel juhul või kui teile kuvatakse Microsoft Teamsi halduskeskuses tõrketeade "Me ei saa poliitikat praegu värskendada, kuid proovige seda hiljem uuesti", soovitame kasutada PowerShelli Teamsi koosolekupoliitikate loomiseks või muutmiseks. 
 
-Lisateavet koosolekute poliitikate kohta leiate järgmistest allikatest.
+Lisateavet koosolekupoliitikate kohta leiate järgmistest ressurssidest.
 
-- Lisateavet poliitikate loomise, muudatuste tegemise ja kasutajate poliitikale määramise kohta leiate teemast [koosolekute poliitikate haldamine töörühmades](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Lisateavet poliitikate loomise, muudatuste tegemise ja poliitikale kasutajate määramise kohta leiate teemast [Teamsi koosolekupoliitikate haldamine.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- PowerShelli cmdlet-käskude abil poliitika muudatuste tegemiseks lugege teemat [teamsi PowerShelli ülevaade](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Meeskonnatöö koosoleku poliitikate jaoks peate kasutama [Skype ' i ärirakenduse PowerShelli moodulit](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) . 
-    - Lisateavet leiate [*-CsTeamsMeetingPolicy cmdlet-käskude dokumentatsioonist](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
+- PowerShelli cmdlet-käskude abil poliitika muutmiseks lugege teemat [Teamsi PowerShelli ülevaade](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Teamsi koosolekupoliitikate [jaoks peate kasutama Skype'i ärirakenduse PowerShelli](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) moodulit. 
+    - Vaadake [lisateavet cmdlet-käskude *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) dokumentatsioonist.
 

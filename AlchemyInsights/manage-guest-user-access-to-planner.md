@@ -1,8 +1,8 @@
 ---
-title: Külaliste kasutajate juurdepääsu haldamine Planneri kaudu
+title: Planneri külaliskasutajate juurdepääsu haldamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 5ee138e42d0ab5a8e2a878fec33478adf362c720
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4b7852b101a342256ab64ef580e95512bfdb6860
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777967"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825475"
 ---
-# <a name="manage-guest-user-access-to-planner"></a>Külaliste kasutajate juurdepääsu haldamine Planneri kaudu
+# <a name="manage-guest-user-access-to-planner"></a>Planneri külaliskasutajate juurdepääsu haldamine
 
-Kasutajad saavad luua ja kustutada nii ämbrid kui ka tööülesanded, redigeerida tööülesandeid ja redigeerida plaani nime. Lisaks saavad külastaja kasutajad ka mõnda teie plaaniga seotud teatist. Siin on mõned sageli nõutud Teemad Planneri kasutajate kohta.
+Külaliskasutajad saavad luua ja kustutada salved ja tööülesanded, redigeerida ülesandevälju ning redigeerida plaani nime. Lisaks saavad külaliskasutajad osa teie plaaniga seotud teatistest. Siin on mõned sageli soovitud teemad Planneri külaliskasutajate kohta.
 
-- Planneri järgud on [Microsoft 365 rühmade juurdepääsu funktsioon](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6). 
+- Planner tugineb [Microsoft 365 rühmade külalisjuurdepääsu funktsioonile.](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6) 
 
-- Lugege lisateavet selle kohta, kuidas lisada külastajatele plaani, kuidas saavad kasutajad lepingust lahkuda, samuti seda, mida kasutajad saavad [Microsoft planneris külastajatele juurde pääseda](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).
+- Lugege lisateavet selle kohta, kuidas lisada plaani külaliskasutajaid, kuidas külaliskasutajad saavad plaanist lahkuda ja mida külaliskasutajad saavad teha Planneri külalisjuurdepääsu [teenuses Microsoft Planner.](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)

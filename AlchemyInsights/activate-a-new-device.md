@@ -2,7 +2,7 @@
 title: Uue seadme aktiveerimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668378"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823279"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Windows 10-ga töötava uue seadme aktiveerimine
+# <a name="activating-a-new-device-running-windows-10"></a>Windows 10-ga uue seadme aktiveerimine
 
-Kui ostsite uue seadme, mille operatsioonisüsteem on Windows 10, aktiveeritakse see automaatselt, kui ühendate seadme Internetiga. Kui aktiveerimise serverid on hõivatud, peate võib-olla mõneks ajaks ootama, kuni Windowsi aktiveerimiseks.
+Kui ostsite uue seadme, milles töötab Windows 10, aktiveeritakse see automaatselt, kui ühendate oma seadme Internetiga. Kui aktiveerimisserverid on hõivatud, peate võib-olla ootama, kuni Windows aktiveeritakse.
 
-Aktiveerimise oleku kontrollimiseks valige Start- **Start** **sätete**  >  **värskendamine & turbe**  >  **aktiveerimine**.
+Aktiveerimisoleku märkimiseks valige **Start** **Settings** Update  >  **& Security** Activation  >  **(Aktiveeri).**
 
-**Märkus:** Mõnel juhul peate võib-olla sisestama seadme pakendiga kaasas oleva Windows 10 tootevõtme või seadmele lisatud kaardi või autentsussertifikaadi (COA).
+**Märkus.** Mõnel juhul peate võib-olla sisestama Windows 10 tootevõtme, mis oli kaasas seadme pakendiga või mis oli kaasas kaardina või seadmega ühendatud autentsussert (COA).
 
 [Lisateave Windows 10 aktiveerimise kohta](https://support.microsoft.com/help/12440)
