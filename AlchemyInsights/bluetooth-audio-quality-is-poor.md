@@ -1,8 +1,8 @@
 ---
-title: Bluetooth-helikvaliteet on kehv
+title: Bluetoothi helikvaliteet on halb
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685378"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820102"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>Bluetooth-helikvaliteedi probleemi lahendamine
+# <a name="fix-bluetooth-audio-quality-issue"></a>Bluetoothi helikvaliteedi probleemi parandamine
 
-Kui teie Bluetooth-seade on ühendatud, kuid helikvaliteet on kehv, proovige teha järgmist.
+Kui teie Bluetooth-seade on ühendatud, kuid helikvaliteet on halb, proovige järgmist.
 
-- Veenduge, et heli mängib Bluetoothi seadme kaudu. Valige **Käivita**  >  **sätete**  >  **süsteem**  >  **heli**. Valige jaotises **Valige oma väljundi seade**Bluetoothi heliseade.
-- Peatage muud toimingud, mis võivad Bluetoothi kaudu (nt failid) Bluetoothi kaudu ühiskasutusse anda. Lisateavet leiate teemast [Windows 10 heliga seotud probleemide lahendamine](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
-- Veenduge, et Bluetoothi seadme jaoks on valitud stereo, et tagada parim helikvaliteet. Selleks tehke järgmist. 
-    1. Valige tegumiriba paremas servas **Helitugevus**ja seejärel valige taasesituse seadme valimiseks nupp Chevron.
-    2. Valige Bluetooth-seade ja veenduge, et valik **stereo** oleks valitud. (Madalama helikvaliteedi suvand on **käed-vabad**.)
-    3. Kui suvand stereo pole saadaval, eemaldage seade seadmes **sätted**  >  **Devices**  >  **Bluetooth & muud seadmed**ja seejärel lisage seade uuesti. Seejärel kontrollige, kas **Helitugevus** kuvatakse uuesti, et veenduda, kas stereo on valitud.
+- Veenduge, et heli esitaks Bluetooth-seadme kaudu. Valige **Start** Settings System Sound  >    >  **(Start-sätete süsteemi**  >  **heli).** Valige **jaotises Valige väljundseade** Bluetoothi heliseade.
+- Peatage muud asjad, mis võivad Bluetoothi kasutada (nt failide ühiskasutus Bluetoothi kaudu). Lisateavet leiate teemast [Heliprobleemide lahendamine opsüsteemis Windows 10.](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems)
+- Parima kvaliteediga heli tagamiseks veenduge, et Bluetooth-seadmes oleks valitud stereo. Selleks tehke seda. 
+    1. Valige tegumiriba paremast servast **Helitugevus** ja seejärel valige taasesitusseadme valimiseks rööpnooliikoon.
+    2. Valige Bluetooth-seade ja veenduge, et ruut **Stereo** oleks valitud. (Madalama helikvaliteedi suvand on **Vabakäeseade.)**
+    3. Kui stereosüsteem pole saadaval suvandina, eemaldage seade jaotises Sätted seadmed Bluetooth& muud seadmed ja seejärel  >    >  lisage seade uuesti. Seejärel kontrollige uuesti **helitugevuse** paani, veendumaks, et stereo on valitud.
 

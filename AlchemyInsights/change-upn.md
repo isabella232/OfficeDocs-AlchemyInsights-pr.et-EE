@@ -2,7 +2,7 @@
 title: UPN-i muutmine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,33 +12,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 63831912c9781c73135790f0f855c71ee6ee6621
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756459"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818248"
 ---
 # <a name="change-a-users-email-address"></a>Kasutaja meiliaadressi muutmine
 
-Kellegi meiliaadressi muutmine on lihtne! Lihtsalt järgige neid juhiseid.
+Kellegi meiliaadressi muutmine on lihtne! Tehke järgmist.
   
-1. Avage Microsoft 365 halduskeskus lehel [Kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) või valige **Kasutajad** \> **aktiivsed kasutajad**.
+1. Avage Microsoft 365 halduskeskuses leht [Kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822) või valige Kasutajad  \> **Aktiivsed kasutajad**.
     
 2. Valige kasutaja.
     
-3. Valige parempoolsel real **username/post Aliases** ( **Redigeeri**).
+3. Valige paremal real **Kasutajanimi / Meilipseudonüümid** käsk **Redigeeri**.
     
-4. Tippige väljale **pseudonüüm** Uus meilisõnum ja seejärel valige **Lisa**.
+4. Tippige väljale **Pseudonüüm** uus meilisõnum ja seejärel valige **Lisa**.
     
-    **Oluline**: kui kuvatakse tõrketeade "parameetrit, **mis vastab parameetri nimele" EmailAddresses**", tähendab see seda, et Microsoft peab teie rentniku häälestamiseks või kohandatud domeeni häälestamiseks, kui olete hiljuti ühe lisanud, veel veidi kauem. Installiprotsessi lõpuleviimiseks võib kuluda kuni 4 tundi. Oodake veidi, nii et häälestamise käigus on aeg lõpetada, ja proovige siis uuesti. Kui probleem ei lahene, helistage kasutajatoele ja nad teevad teie eest täieliku sünkroonimise.
+    **TÄHTIS.** Kui kuvatakse tõrketeade " Parameetrit, mis vastab parameetrinimele **"EmailAddresses",** tähendab see, et Microsoftil läheb rentniku häälestamise või kohandatud domeeni häälestamise lõpuleviimiseks veidi rohkem aega, kui olete selle hiljuti lisanud. Häälestusprotsessi lõpuleviimiseks võib aega võtta kuni neli tundi. Oodake natuke, et häälestusprotsess jõuaks lõpule, ja proovige siis uuesti. Kui probleem ei lahene, helistage tugiteenustele ja nad sünkroonivad teid täielikult.
     
-    Kui kuvatakse tõrketeade " **meil on kahju, ei saanud kasutajat redigeerida. Vaadake Kasutajateave üle ja proovige uuesti**"See tähendab, et te pole üldadministraator ja teil pole õigust kasutaja nime muuta.
+    Kui kuvatakse tõrketeade " Kahjuks ei **saanud kasutajat redigeerida. Vaadake kasutajateave üle ja proovige** uuesti" see tähendab, et te pole üldadministraator ja teil pole õigust kasutaja nime muuta.
     
-5. Valige **Määra esmaseks** meiliaadressiks, mille soovite määrata selle isiku peamiseks meiliaadressiks. Kui ostsite oma tellimuse GoDaddy kaudu, peate esmase meiliaadressi määramiseks oma halduskonsooli sisse logima. 
+5. Valige **selle meiliaadressi** jaoks, mille soovite määrata selle isiku esmaseks meiliaadressiks, käsk Määra esmaseks. Kui ostsite tellimuse GoDaddy kaudu, peate esmase meiliaadressi häälestamiseks sisse logima tema halduskonsooli. 
     
-6. Valige **Salvesta**ja seejärel **Sule**ning ongi valmis!
+6. Valige **Salvesta**, **seejärel Sule** ja olete valmis!
     
-Kas see polnud lihtne? Lisateavet ja juhiseid ekraanipiltide kohta leiate sellest artiklist: [kasutajanime ja meiliaadressi muutmine](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+Kas see polnud lihtne? Kuvatõmmiste kohta lisateabe ja juhiste saamiseks vaadake järgmist artiklit: [Kasutajanime ja meiliaadressi muutmine](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

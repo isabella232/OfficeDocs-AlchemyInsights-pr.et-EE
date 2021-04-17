@@ -1,8 +1,8 @@
 ---
-title: Microsofti konto ja kohaliku konto kontode tüübi muutmine
+title: Kontotüübi muutmine Microsofti konto ja kohaliku konto vahel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681508"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818428"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Sisselogimisel kasutatava konto tüübi muutmine
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Kontotüübi muutmine, mille abil sisse logite
 
-Operatsioonisüsteemi Windows 10 sisselogimiseks kasutatava konto tüübi muutmiseks tehke järgmist.
+Windows 10 sisselogimiseks salvestatud konto tüübi muutmiseks saate teha järgmist.
 
-1. Valige nupp **Alusta**  >  **seadeid**  >  **Accounts**(  >  **teie teave**).
-2. Kui kasutate kohalikku kontot, mis pole meiliaadressiga lingitud, kuid soovite kasutada Microsofti kontot, valige **selle asemel logige sisse Microsofti kontoga**.
-3. Kui kasutate Microsofti kontot, mis on lingitud meiliaadressiga, kuid soovite kasutada kohalikku kontot, valige **selle asemel logige sisse kohaliku kontoga**.
-4. Vajadusel sisestage oma parool ja seejärel valige **edasi**.
-5. Taaskäivitage oma seade. Järgmine kord, kui sisse logite, kuvatakse konto, millesse olete sisse lülitanud.
+1. Valige **Start**  >  **Settings Accounts**  >  **Your**  >  info (Teie **teave).**
+2. Kui kasutate kohalikku kontot, mis pole lingitud meiliaadressiga, kuid soovite kasutada Microsofti kontot, valige selle asemel Logi sisse **Microsofti kontoga.**
+3. Kui kasutate Microsofti kontot, mis on lingitud meiliaadressiga, kuid soovite kasutada kohalikku kontot, valige selle asemel Logi **sisse kohaliku kontoga.**
+4. Vajaduse korral sisestage parool ja seejärel valige **Edasi**.
+5. Taaskäivitage seade. Järgmine kord, kui sisse logite, kuvatakse konto, mille olete aktiveerinud.

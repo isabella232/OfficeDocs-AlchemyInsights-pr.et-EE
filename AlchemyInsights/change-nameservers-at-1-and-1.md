@@ -1,26 +1,27 @@
 ---
-title: Nimeserverite muutmine 1 ja 1 IONOS-i juures
+title: Nimeserverite muutmine 1. ja 1. IONOS-i saidil
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5826"
 - "14"
-ms.openlocfilehash: e85726aad00a40fac041bee1620caf8c5a843bb3
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
-ms.translationtype: MT
+ms.openlocfilehash: b66f587552e5427ca66a70c9e387fccc54b0d4a4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748801"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818896"
 ---
-# <a name="change-nameservers-at-1-and-1-ionos"></a>Nimeserverite muutmine 1 ja 1 IONOS-i juures
+# <a name="change-nameservers-at-1-and-1-ionos"></a>Nimeserverite muutmine 1. ja 1. IONOS-i saidil
 
-[Nimeserverite muutmine Microsoft 365-i häälestamiseks 1&1 IONOS-iga](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-1-1-internet)
+[Nimeserverite muutmine, et seadistada Microsoft 365 1&1 IONOS-iga](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-1-1-internet)
 
-Muude domeenide probleemide puhul proovige [domeenide KKK-d](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
+Muude domeenide probleemide korral proovige jaotist [Domeenide KKK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

@@ -1,8 +1,8 @@
 ---
-title: Muuda W-Fi ruuteri parooli
+title: W-Fi-marsruuteri parooli muutmine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733431"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818176"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Wi-Fi-marsruuteri parooli muutmine
+# <a name="change-your-wi-fi-router-password"></a>Marsruuteri parooli Wi-Fi muutmine
 
-Wi-Fi ruuteri parooli muutmiseks tehke järgmist.
+Marsruuteri Wi-Fi muutmiseks tehke järgmist.
 
-1. Valige **Start**  >  **Settings**  >  **Network & Interneti**  >  **-võrgu-ja ühiskasutuskeskus**.
+1. Valige **Start**  >  **Settings**  >  **Network & Internet** Network and Sharing Center  >  **(Interneti-võrgu- ja ühiskasutuskeskus).**
 
-2. Otsige jaotisest **aktiivsete võrkude kuvamine**see võrk, millega olete ühendatud. Valige nupu **ühendused**kõrval sinine link.<br>
+2. Otsige **jaotises Aktiivsete võrkude** vaatamiseks võrku, mille ühendus on loodud. Valige suvandi Ühendused kõrval **sinine link.**<br>
 
-   **Märkus:** Kui teil pole Wi-Fi-ühendust, peate enne parooli vahetamist ühenduse hankima.
+   **Märkus.** Kui teil pole Wi-Fi-ühendust, peate enne parooli vahetamist ühenduse saama.
 
-3. Valige **andmed**.
+3. Valige **Üksikasjad**.
 
-4. Otsige üles oma IPv4 vaike-lüüs ja võtke arvesse seda stringi numbrit (sh punkte). Näiteks: 192.168.0.1, 192.168.1.1, 10.0.0.1 või 10.0.1.1
+4. Otsige oma IPv4 vaikelüüsi ja võtke arvesse seda arvustringi (sh punkte). Näide: 192.168.0.1, 192.168.1.1, 10.0.0.1 või 10.0.1.1
 
-5. Avage brauser, sisestage see märgijada (sh vahemikud aadressiribale) ja vajutage marsruuteri konfiguratsiooni lehele liikumiseks sisestusklahvi (ENTER).
+5. Avage brauser, sisestage see arvustring (sh punktid) aadressiribale ja vajutage marsruuteri konfigureerimislehele minemiseks sisestusklahvi (Enter).
 
-6. Kui kuvatakse marsruuteri konfiguratsiooni leht, sisestage oma kasutajanimi ja parool.<br>
-   - Kui te pole kunagi muutnud marsruuteri vaike-kasutajanime ja parooli, leiate tõenäoliselt selle teabe oma marsruuteri juhendist.
+6. Kui marsruuteri konfiguratsioonileht avaneb, sisestage oma kasutajanimi ja parool.<br>
+   - Kui te pole marsruuteri vaike kasutajanime ja parooli kunagi muutnud, leiate selle teabe tõenäoliselt marsruuteri kasutusjuhendist.
 
-   - Pöörduge marsruuteri tootja poole, kui vajate lisatoetust sellele veebilehele sisselogimiseks.
+   - Kui vajate täiendavat tugiteenuste sisselogimist sellele veebilehele, pöörduge oma ruuteri tootja poole.
 
-7. Kui olete sisse logitud, otsige üles juhtmeta sätted. Nüüd peaks sul olema võimalus muuta Wi-Fi parooli.
+7. Kui olete sisse logitud, otsige üles Raadiovõrgu sätted. Nüüd peaksite saama oma parooli Wi-Fi muuta.

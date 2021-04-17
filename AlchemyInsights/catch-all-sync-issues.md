@@ -1,8 +1,8 @@
 ---
-title: Kõigi sünkroonimise probleemide tabamine
+title: Kõigi sünkroonimisprobleemide lahendamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757044"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819400"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Outlooki tavaline sünkroonimise tõrkeotsing
+# <a name="basic-outlook-sync-troubleshooting"></a>Outlooki sünkroonimise põhitõete tõrkeotsing
 
-Kui teil on probleeme sünkroonimisega, proovige teha järgmist.
+Kui teil on sünkroonimisprobleeme, proovige järgmist.
 
-- Käivitage [see diagnostiline tööriist](https://aka.ms/sara-outlooksendreceive) probleemses arvutis.
-- Vähendage kaustade arvu esmases või ühiskasutatavas postkastis. Lugege teemat [Outlooki jõudluse probleemid, kui vahemällu talletatud režiimis on liiga palju üksusi või kaustu. ost-või PST-faili kaustas](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
-- Keelake kõigi ühiskaustade vahemälu.
-- Teise Exchange ' i postkasti konfiguratsiooni muutmine profiilis teise Exchange ' i konto jaoks.
-- Veenduge, et kasutaja saab Interneti-ühenduse luua. 
-- [Veenduge, et olete võrgus](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
-- Saate [määratleda, kas reeglit rakendatakse](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Veenduge, et **allalaaditavate kaustade allalaadimine** oleks **lubatud,** minnes menüü  >  **konto sätted**  >  **konto**sätted  >  **More Settings**  >  **täpsemaks**.
+- Käivitage [see diagnostikatööriist](https://aka.ms/sara-outlooksendreceive) mõjutatud seadmes.
+- Vähendage kaustade arvu esmases või ühispostkastis. Kui [vahemälurežiimis on ost-](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)või PST-failikaustas liiga palju üksusi või kaustu, lugege teemat Outlooki jõudlusprobleemid.
+- Keelake kõigi ühiskaustade vahemällu salvestamine.
+- Muutke exchange'i teisese postkasti konfiguratsiooniks teie profiilis teine Exchange'i konto.
+- Veenduge, et kasutaja saaks Interneti-ühenduse luua. 
+- [Veenduge, et olete võrgus.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)
+- [Tehke kindlaks, kas reegel on rakendatud.](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)
+- Veenduge, **et ühiskaustade allalaadimine** on lubatud, kui kontrollimiseks valige **Fail**  >  **Konto sätted**  >  **Kontosätted Rohkem** sätteid  >    >  **Täpsemalt**.

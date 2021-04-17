@@ -1,26 +1,27 @@
 ---
-title: Muuda nameservers asutuses Amazon
+title: Nimeserverite muutmine Amazonis
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5857"
 - "14"
-ms.openlocfilehash: c8997d5b04fbdd11f430b9845b8954c69590ff68
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
-ms.translationtype: MT
+ms.openlocfilehash: 1a05fceac782e53ac298bbbc839560469dcf776f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748837"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818860"
 ---
-# <a name="change-nameservers-at-amazon"></a>Muuda nameservers asutuses Amazon
+# <a name="change-nameservers-at-amazon"></a>Nimeserverite muutmine Amazonis
 
-[Nimeserverite muutmine Microsoft 365 häälestamiseks Amazon Web Services'iga](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
+[Nimeserverite muutmine Microsoft 365 häälestamiseks domeeniteenuse Amazon Web Services saidil](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
 
-Muude domeenide probleemide puhul proovige [domeenide KKK-d](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+Muude domeenide probleemide korral proovige jaotist [Domeenide KKK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)

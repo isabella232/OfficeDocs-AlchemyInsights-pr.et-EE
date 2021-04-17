@@ -1,8 +1,8 @@
 ---
-title: Arveldamise teatise alternatiivse meiliaadressi muutmine
+title: Arveldusteatise alternatiivse meiliaadressi muutmine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 4409c8ac765b2c9933d85e5d94e519ec85f8466f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2169f65cda6386aad5c061d38aaf7890a5a0c0a2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714709"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818392"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Arveldamise teatise alternatiivse meiliaadressi muutmine
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Arveldusteatise alternatiivse meiliaadressi muutmine
 
-Arveldamise teatise alternatiivse meiliaadressi muutmine on lihtne. Lihtsalt järgige neid juhiseid.
+Arveldusteatise jaoks alternatiivse meiliaadressi muutmine on lihtne. Tehke järgmist.
   
-1. Avage Microsoft 365 halduskeskus leht **arvelduse** \> [arveldamise teatised](https://go.microsoft.com/fwlink/p/?linkid=853212) .  
+1. Avage Microsoft 365 halduskeskuses leht **Arveldamise** \> [arveldamise teatised.](https://go.microsoft.com/fwlink/p/?linkid=853212)  
 
-2. Valige loendist nimi.
+2. Valige loendist soovitud nimi.
 
-3. Tippige väljale **alternatiivne** meiliaadress teisene meiliaadress.
+3. Tippige **väljale Alternatiivne** meiliaadress teine meiliaadress.
 
-4. Valige **Salvesta** ja ongi valmis!
+4. Valige **Salvesta** ja olete valmis!
 
-Lisateavet ja juhiseid ekraanipiltide kohta leiate teemast [arvelduse aadresside muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+Lisateavet ja juhiseid kuvatõmmiste kohta leiate teemast [Arveldusaadresside muutmine.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
   

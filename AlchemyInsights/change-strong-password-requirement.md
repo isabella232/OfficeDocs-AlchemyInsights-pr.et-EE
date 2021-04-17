@@ -1,8 +1,8 @@
 ---
-title: Keeruka parooli muutmise nõue
+title: Muuda tugevat paroolinõuet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: 8ce331275e066b5a4f177ae27178ec726f90762f
-ms.sourcegitcommit: aa35d2e1829f7d07f64fb891bf73b1fd80f0864c
+ms.openlocfilehash: cf5cab9a1c2dd4226997d93417dc7104347f8a6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48804419"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818464"
 ---
-# <a name="change-strong-password-requirement"></a>Keeruka parooli muutmise nõue
+# <a name="change-strong-password-requirement"></a>Tugeva paroolinõude muutmine
 
-Microsoft vajab vaikimisi tugevaid paroole.
+Microsoft nõuab vaikimisi tugevaid paroole.
 
-PowerShelli abil saate kindlate kasutajate jaoks välja lülitada kindlad paroolid nende käskude abil.
+PowerShelli abil saate keelata kindlate kasutajate jaoks tugevad paroolid, kasutades järgmisi käske.
 
 `Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false`
 
-Kõigi kasutajate jaoks tugevate paroolide keelamiseks tehke järgmist.
+Kõigi kasutajate jaoks tugevate paroolide keelamiseks kasutage:
 
 `Get-MsolUser | Set-MsolUser -StrongPasswordRequired $false`
 
-- [Lisateavet parooli poliitika kohta](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [Lisateave paroolipoliitika kohta](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
 - [Microsoft 365-ga ühenduse loomine PowerShelli abil](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [Lisateavet PowerShelli MsolUser käskude kohta](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Lisateave PowerShelli MsolUseri käskude kohta](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)

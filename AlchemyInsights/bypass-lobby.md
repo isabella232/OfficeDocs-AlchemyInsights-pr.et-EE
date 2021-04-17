@@ -1,8 +1,8 @@
 ---
-title: Bypass lobby
+title: Ooteruumist möödumine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684946"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820030"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Fuajee seadete reguleerimine ja meeskonnas osalemise tase
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Ooteruumi sätete ja Teamsis osalemise taseme juhtimine
 
-Kui soovite lubada kõigil (sh sissehelistamine, välised ja anonüümsed kasutajad **) fuajeest**loobuda, kasutage selle ülesande saavutamiseks PowerShelli. Siin on näide organisatsiooni globaalse koosoleku poliitika muutmisest.
+Kui soovite lubada kõigil (sh sissehelistamis-, välis- ja anonüümsetel kasutajatel) ooteruumist mööduda, kasutage selle ülesande täitmiseks PowerShelli. Siin on näide ettevõtte globaalse koosolekupoliitika muutmisest.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-See cmdlet-käsk nõuab praegu Skype ' i ärirakenduse PowerShelli mooduli kasutamist. Selle cmdlet-käsu kasutamiseks häälestamiseks uurige [PowerShelli kaudu halduse poliitikaid](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+See cmdlet-käsk nõuab praegu Skype'i ärirakenduse PowerShelli mooduli kasutamist. Selle cmdlet-käsu kasutamiseks häälestamiseks vaadake läbi [Poliitikate haldamine PowerShelli kaudu.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
-Kui olete poliitika häälestanud, peate selle rakendama kasutajatele; Kui olete muutnud globaalset poliitikat, rakendub see automaatselt kasutajatele. Poliitikate muutmise korral peate poliitika jõustumiseks ootama vähemalt **4 tundi kuni 24 tundi** . 
+Kui olete poliitika häälestanud, peate selle kasutajatele rakendama; või kui olete muutnud globaalset poliitikat, rakendub see kasutajatele automaatselt. Poliitika muutmiseks peate poliitikate jõustumist ootama vähemalt 4 tundi kuni **24** tundi. 
 
-Enne nende muudatuste tegemist lugege kindlasti allpool olevad dokumendid üle, et mõista täpselt, mida see võimaldab.
+Enne muudatuste tegemist vaadake kindlasti läbi allolevad dokumendid, et mõista täpselt, mida see võimaldab.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Töörühmade koosolekul olevate lobby poliitika juhtelementide mõistmine
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Teamsi koosoleku ooteruumipoliitika juhtelementide mõistmine
 
-Need sätted, mida koosolekul osalejad ootavad fuajees enne, kui nad on koosolekule sisse lubatud ja koosolekul lubatud osalemise tase. PowerShelli abil saate värskendada koosolekute poliitika sätteid, mida pole veel rakendatud (sildistatud "peagi") meeskonnatöö administreerimiskeskuses. Siit leiate teavet PowerShelli cmdlet-käsu kohta, mis võimaldab kõigil kasutajatel fuajeest mööduda.
+Nende sätete abil saate kontrollida, millised koosolekul osalejad ooteruumis ootavad, enne kui nad koosolekule lubatakse, ja koosolekul osalemise taset. PowerShelli abil saate värskendada Teamsi halduskeskuses veel rakendamata koosolekupoliitika sätteid (sildiga "peagi tulekul"). Vaadake allpool powerShelli cmdlet-käsku, mis võimaldab kõigil kasutajatel ooteruumist mööda minna.
 
-- Saate [automaatselt tunnistada](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , et inimesed on korraldaja poliitika, mis määrab, kas inimesed liituvad koosolekuga otse või ootavad fuajees, kuni need on autenditud kasutaja poolt vastu võetud.
+- [Inimeste automaatne vastuvõtt](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) on korraldaja poliitika, mis määrab, kas inimesed liituvad koosolekuga otse või ootavad ooteruumis, kuni autenditud kasutaja on nad vastu võtmas.
 
-- [Luba anonüümsetel inimestel koosolekut alustada](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) on korraldaja poliitika, mis määrab, kas anonüümsed inimesed (sh B2B ja väliskasutajad) saavad liituda kasutaja koosolekuga, kasutaja koosolekul ei ole autentimata kasutajat.
+- [Anonüümsete inimeste](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) koosoleku alustamiseks on korraldaja poliitika, mis määrab, kas anonüümsed inimesed (sh B2B ja liitkasutajad) saavad liituda kasutaja koosolekuga ilma ettevõtte autenditud kasutajata.
 
-- [Luba sissehelistamise kasutajatel fuajeest mööda hiilida](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**tulekul**) on ühe korraldaja poliitika, mis määrab, kas telefoni teel sissehelistavad inimesed liituvad koosolekuga otse või ootavad fuajees, sõltumata sellest, kas see säte on **automaatselt** keelatud.
+- [Luba sissehelistamiskasutajatel](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) ooteruumist **mööduda**(peagi tulekul) on korraldaja poliitika, mis määrab, kas telefoni teel sissehelistavad inimesed liituvad koosolekuga otse või ootavad ooteruumis, sõltumata sättest **"Luba automaatselt inimesi".**
 
-- [Luba korraldajatel lobby sätteid alistada](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**tulekul**) on korraldaja poliitika, mis määrab, kas koosoleku korraldaja saab alistada nende lobby-sätted, mille administraator on määranud **automaatselt tunnistama** , ja **lubada sissehelistamise kasutajatel minna fuajeest mööda,** kui nad plaanivad uut koosolekut.
+- [Korraldajatel](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) ooteruumisätete **(peagi** tulekul) alistamine on korraldaja poliitika, mis määrab, kas koosoleku korraldaja saab  alistada ooteruumisätted, mille administraator on määranud jaotises Inimeste automaatne vastuvõtt ja Luba sissehelistamiskasutajatel uue koosoleku plaanimisel ooteruumist mööduda. 
 
-**Märkus:** Lugege jaotist [koosolekute poliitikate haldamine töörühmades](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) Microsoft teamsi koosolekute poliitikate tervikliku ülevaate saamiseks.
+**Märkus.** Lisateavet [Microsoft Teamsi koosolekupoliitikate](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) täieliku ülevaate kohta lugege artiklist Koosolekute poliitikate haldamine Teamsis.
