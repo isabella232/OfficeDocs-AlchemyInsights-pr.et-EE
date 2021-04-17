@@ -1,26 +1,27 @@
 ---
-title: Vajate abi e-posti karantiini?
+title: Kas vajate abi meilikarantiiniga?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 24a836365b03da4f85e6b8f0a24304d4af9efa29
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
-ms.translationtype: MT
+ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281157"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836311"
 ---
-# <a name="need-help-with-email-quarantine"></a><span data-ttu-id="05415-102">Vajate abi e-posti karantiini?</span><span class="sxs-lookup"><span data-stu-id="05415-102">Need help with email quarantine?</span></span>
+# <a name="need-help-with-email-quarantine"></a><span data-ttu-id="3b3c2-102">Kas vajate abi meilikarantiiniga?</span><span class="sxs-lookup"><span data-stu-id="3b3c2-102">Need help with email quarantine?</span></span>
 
-- <span data-ttu-id="05415-103">Et **vaadata ja vabastada e-kirju karantiini**, [karantiini lehele Office 365 Security & vastavuse keskus](https://protection.office.com/quarantine).</span><span class="sxs-lookup"><span data-stu-id="05415-103">To **view and release email messages from quarantine**, go to [Quarantine page in Office 365 Security & Compliance Center](https://protection.office.com/quarantine).</span></span> <span data-ttu-id="05415-104">Üksikasjalikud juhised on [siin](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).</span><span class="sxs-lookup"><span data-stu-id="05415-104">Detailed instructions are [here](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).</span></span>
-- <span data-ttu-id="05415-105">Kui sõnum oli **ekslikult karantiini (vale positiivne)**, vajuta "Teata sõnumeid Microsoftile analüüsimiseks" pärast seda, kui on valitud sõnumi karantiini lehel.</span><span class="sxs-lookup"><span data-stu-id="05415-105">If the message was **erroneously quarantined (false positive)**, click on "Report messages to Microsoft for analysis" after finding the message is selected in the Quarantine page.</span></span> 
-- <span data-ttu-id="05415-106">Leidke **põhjus, miks sõnum oli** karantiinis väljal "karantiini põhjus".</span><span class="sxs-lookup"><span data-stu-id="05415-106">Find the **reason why the message was quarantined** under the "quarantine reason" field.</span></span>
-- <span data-ttu-id="05415-107">**Kas karantiinis puuduvad meilid?**</span><span class="sxs-lookup"><span data-stu-id="05415-107">**Missing emails in quarantine?**</span></span> <span data-ttu-id="05415-108">Mõned karantiini pandud e-kirjad ei saa lõppkasutajad vabastada.</span><span class="sxs-lookup"><span data-stu-id="05415-108">Some quarantined emails cannot be released by end-users.</span></span> <span data-ttu-id="05415-109">Need on tõenäolised sõnumid, mis on liigitatud kõrge usaldusväärsusega andmepüügi meilid, pahavara või transporditegevuse kaudu.</span><span class="sxs-lookup"><span data-stu-id="05415-109">These are likely messages that were classified as high-confidence phishing emails, malware, or by a transport action.</span></span> <span data-ttu-id="05415-110">Administraatorid saavad [neid sõnumeid vaadata, vabastada või kustutada](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="05415-110">Administrators can [view, release, or delete these messages](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide).</span></span> 
+- <span data-ttu-id="3b3c2-103">**Karantiini pandud meilisõnumite vaatamiseks ja vabastamiseks** minge [Office 365 turbe- ja vastavuskeskuse karantiinilehele](https://protection.office.com/quarantine).</span><span class="sxs-lookup"><span data-stu-id="3b3c2-103">To **view and release email messages from quarantine**, go to [Quarantine page in Office 365 Security & Compliance Center](https://protection.office.com/quarantine).</span></span> <span data-ttu-id="3b3c2-104">Üksikasjalikud juhised leiate [siit](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).</span><span class="sxs-lookup"><span data-stu-id="3b3c2-104">Detailed instructions are [here](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).</span></span>
+- <span data-ttu-id="3b3c2-105">Kui sõnum on **karantiini pandud ekslikult (valepositiivne tulemus)**, klõpsake pärast sõnumi karantiinilehel valimist linki „Saada Microsoftile sõnumite analüüsimiseks teade“.</span><span class="sxs-lookup"><span data-stu-id="3b3c2-105">If the message was **erroneously quarantined (false positive)**, click on "Report messages to Microsoft for analysis" after finding the message is selected in the Quarantine page.</span></span> 
+- <span data-ttu-id="3b3c2-106">**Sõnumi karantiini paneku põhjuse** leiate väljalt „Karantiini paneku põhjus“.</span><span class="sxs-lookup"><span data-stu-id="3b3c2-106">Find the **reason why the message was quarantined** under the "quarantine reason" field.</span></span>
+- <span data-ttu-id="3b3c2-107">**Kas karantiini pandud meilisõnumid on kadunud?**</span><span class="sxs-lookup"><span data-stu-id="3b3c2-107">**Missing emails in quarantine?**</span></span> <span data-ttu-id="3b3c2-108">Mõnda karantiini pandud sõnumit ei saa lõppkasutajad ise vabastada.</span><span class="sxs-lookup"><span data-stu-id="3b3c2-108">Some quarantined emails cannot be released by end-users.</span></span> <span data-ttu-id="3b3c2-109">Selliste sõnumite hulka kuuluvad näiteks ilmseks andmepüügiks, ründevaraks või transporditoimingu kaudu liigitatud meilisõnumid.</span><span class="sxs-lookup"><span data-stu-id="3b3c2-109">These are likely messages that were classified as high-confidence phishing emails, malware, or by a transport action.</span></span> <span data-ttu-id="3b3c2-110">Administraatorid saavad [neid sõnumeid vaadata, vabastada või kustutada](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="3b3c2-110">Administrators can [view, release, or delete these messages](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide).</span></span> 

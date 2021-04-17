@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 ühiskasutuse piiramine
+title: Ühiskasutuse piiramine Microsoft 365-s
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3545"
-ms.openlocfilehash: a569fdb9af1183624d39c4e0244b96480ebaa7d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c374af0bc63133c172cc336bda7781489b93e331
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675941"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836419"
 ---
-# <a name="limit-sharing-in-microsoft-365"></a><span data-ttu-id="e934b-102">Microsoft 365 ühiskasutuse piiramine</span><span class="sxs-lookup"><span data-stu-id="e934b-102">Limit sharing in Microsoft 365</span></span>
+# <a name="limit-sharing-in-microsoft-365"></a><span data-ttu-id="d2b71-102">Ühiskasutuse piiramine Microsoft 365-s</span><span class="sxs-lookup"><span data-stu-id="d2b71-102">Limit sharing in Microsoft 365</span></span>
 
-<span data-ttu-id="e934b-103">Kui te ei saa sisemist ühiskasutust täielikult keelata või eemaldada saitidelt nuppu ühiskasutus, on võimalik, et saate Microsoft 365 ühiskasutuse piirata, et rahuldada oma asutuse vajadusi.</span><span class="sxs-lookup"><span data-stu-id="e934b-103">While you can't disable internal sharing entirely, or remove the Share button from sites, there are a variety of ways you can limit sharing in Microsoft 365 to meet the needs of your organization.</span></span> <span data-ttu-id="e934b-104">Lisateavet leiate teemast [ühiskasutuse piiramine rakenduses Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).</span><span class="sxs-lookup"><span data-stu-id="e934b-104">For more information, see [Limit sharing in Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).</span></span>
+<span data-ttu-id="d2b71-103">Kuigi te ei saa sisemist ühiskasutust täielikult keelata ega saitidelt nuppu Ühiskasutus eemaldada, on microsoft 365-s ühiskasutuse piiramiseks mitu võimalust, mis vastavad teie ettevõtte vajadustele.</span><span class="sxs-lookup"><span data-stu-id="d2b71-103">While you can't disable internal sharing entirely, or remove the Share button from sites, there are a variety of ways you can limit sharing in Microsoft 365 to meet the needs of your organization.</span></span> <span data-ttu-id="d2b71-104">Lisateavet leiate teemast Ühiskasutuse [piiramine Microsoft 365-s.](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing)</span><span class="sxs-lookup"><span data-stu-id="d2b71-104">For more information, see [Limit sharing in Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).</span></span>
