@@ -2,7 +2,7 @@
 title: Ühe välise kuvari häälestamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773906"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835519"
 ---
-# <a name="set-up-one-monitor"></a><span data-ttu-id="3958a-102">Ühe kuvari häälestamine</span><span class="sxs-lookup"><span data-stu-id="3958a-102">Set up one monitor</span></span>
+# <a name="set-up-one-monitor"></a><span data-ttu-id="efaa7-102">Ühe kuvari häälestamine</span><span class="sxs-lookup"><span data-stu-id="efaa7-102">Set up one monitor</span></span>
 
-<span data-ttu-id="3958a-103">**ARVUTI projekti sätete kontrollimine**</span><span class="sxs-lookup"><span data-stu-id="3958a-103">**Check your PC's project settings**</span></span>
+<span data-ttu-id="efaa7-103">**Arvuti projektisätete kontrollimine**</span><span class="sxs-lookup"><span data-stu-id="efaa7-103">**Check your PC's project settings**</span></span>
 
-1. <span data-ttu-id="3958a-104">Avage oma Projecti sätted, vajutades samal ajal järgmisi klahve: Windowsi klahv (Windowsi logoga nupp Start) + P.</span><span class="sxs-lookup"><span data-stu-id="3958a-104">Open your project settings by pressing the following keys at the same time: Windows key (Windows logo Start button) + P.</span></span>
-2. <span data-ttu-id="3958a-105">Sõltuvalt teie eelistustest valige ainult **duplikaat**, **pikenda**või **teine kuva**.</span><span class="sxs-lookup"><span data-stu-id="3958a-105">Choose **Duplicate**, **Extend**, or **Second screen only**, depending on your preferences.</span></span>
+1. <span data-ttu-id="efaa7-104">Projektisätete avamiseks vajutage korraga järgmisi klahve: Windowsi klahv (Windowsi logoga nupp Start) + P.</span><span class="sxs-lookup"><span data-stu-id="efaa7-104">Open your project settings by pressing the following keys at the same time: Windows key (Windows logo Start button) + P.</span></span>
+2. <span data-ttu-id="efaa7-105">Olenevalt **eelistustest**  **valige** Duplikaat , Laienda või Teine kuva.</span><span class="sxs-lookup"><span data-stu-id="efaa7-105">Choose **Duplicate**, **Extend**, or **Second screen only**, depending on your preferences.</span></span>
 
-<span data-ttu-id="3958a-106">**Märkus:** Kui teie ARVUTIl on ainult üks kuvatav Port (nt HDMI või VGA), peate mitme kuvari häälestamiseks kasutama dokkimisjaama või USB-adapterit.</span><span class="sxs-lookup"><span data-stu-id="3958a-106">**Note:** If your PC has only one display port (such as HDMI or VGA), you'll need a docking station or a USB adapter to set up multiple monitors.</span></span>
+<span data-ttu-id="efaa7-106">**Märkus.** Kui teie arvutil on ainult üks kuvaport (nt HDMI või VGA), vajate mitme kuvari häälestamiseks dokkimis- või USB-adapterit.</span><span class="sxs-lookup"><span data-stu-id="efaa7-106">**Note:** If your PC has only one display port (such as HDMI or VGA), you'll need a docking station or a USB adapter to set up multiple monitors.</span></span>
 
-<span data-ttu-id="3958a-107">Kui saate häälestada ühe kuvari, kuid mitte mitu, ei pruugi teie arvuti mitme kuvariga ühilduda.</span><span class="sxs-lookup"><span data-stu-id="3958a-107">Also, if you can set up one monitor but not multiple, your PC might not be compatible with multiple monitors.</span></span> <span data-ttu-id="3958a-108">Lisateavet leiate oma arvuti algsetest dokumentidest.</span><span class="sxs-lookup"><span data-stu-id="3958a-108">Check your PC's original documents for more info.</span></span>
+<span data-ttu-id="efaa7-107">Kui saate häälestada ühe kuvari, kuid mitte mitu kuvarit, ei pruugi teie arvuti ühilduda mitme kuvariga.</span><span class="sxs-lookup"><span data-stu-id="efaa7-107">Also, if you can set up one monitor but not multiple, your PC might not be compatible with multiple monitors.</span></span> <span data-ttu-id="efaa7-108">Lisateavet leiate arvuti algdokumentidest.</span><span class="sxs-lookup"><span data-stu-id="efaa7-108">Check your PC's original documents for more info.</span></span>

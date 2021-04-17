@@ -1,8 +1,8 @@
 ---
-title: Postkastide migreerimine kahe eri rentniku vahel
+title: Postkastide migreerimine kahe rentniku vahel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,16 +14,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 8ff68c61e23325a56c4a43d6a346268865c88287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d85b606efa63ede50f25b91e9b2e0199de1cffd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754659"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833647"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="c2485-102">Postkastide migreerimine kahe eri rentniku vahel</span><span class="sxs-lookup"><span data-stu-id="c2485-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="b251e-102">Postkastide migreerimine kahe rentniku vahel</span><span class="sxs-lookup"><span data-stu-id="b251e-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="c2485-103">Võimalik, et peate postkastide migreerima kahe eri rentniku vahel (nt ettevõtte ühinemise korral).</span><span class="sxs-lookup"><span data-stu-id="c2485-103">You may need to migrate mailboxes between two different tenants, for example, when there are organization mergers.</span></span> <span data-ttu-id="c2485-104">Need migreerimine tuleks hoolikalt kavandada.</span><span class="sxs-lookup"><span data-stu-id="c2485-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="c2485-105">Lugege järgmisi juhiseid.</span><span class="sxs-lookup"><span data-stu-id="c2485-105">Please see the following guidance:</span></span>
+<span data-ttu-id="b251e-103">Võimalik, et peate postkastid migreerima kahe erineva rentniku vahel, näiteks siis, kui on olemas organisatsiooni ühinemised.</span><span class="sxs-lookup"><span data-stu-id="b251e-103">You may need to migrate mailboxes between two different tenants, for example, when there are organization mergers.</span></span> <span data-ttu-id="b251e-104">Neid migreerimist tuleks hoolikalt kavandada.</span><span class="sxs-lookup"><span data-stu-id="b251e-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="b251e-105">Lugege järgmisi juhiseid.</span><span class="sxs-lookup"><span data-stu-id="b251e-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="c2485-106">Postkastide migreerimine ühelt rentnikult teisele</span><span class="sxs-lookup"><span data-stu-id="c2485-106">How to migrate mailboxes from one tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[<span data-ttu-id="b251e-106">Postkastide migreerimine ühest rentnikust teise</span><span class="sxs-lookup"><span data-stu-id="b251e-106">How to migrate mailboxes from one tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   
