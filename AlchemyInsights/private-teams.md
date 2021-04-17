@@ -1,8 +1,8 @@
 ---
-title: Erasektori meeskonnad
+title: Erameeskonnad
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: d81ac4790ab62f882bd35f0b8b4ea95a4b789abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803858"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835987"
 ---
-# <a name="managing-discovery-of-private-teams"></a>Isiklike meeskondade tuvastamise haldamine
+# <a name="managing-discovery-of-private-teams"></a>Era teamsi tuvastuse haldamine
 
-**Uued meeskonnad**
+**Uued töörühmad**
 
-Kui töörühma omanik loob eraõigusliku töörühma, saavad nad valida, kas see on meeskonna tuvastamise sätete konfigureerimise abil leitav. Vaikimisi on uued privaatsed meeskonnad otsitavad ja leitavad. Kui töörühma omanik ei soovi, et era-meeskond kuvataks otsingutulemites ja soovitustes, saab omanik sätte välja lülitada, valides selle meeskonna kõrval olevat käsku Muuda sätteid.  
+Kui meeskonna omanik loob erameeskonna, saab ta selle tuvastatavaks muuta, konfigureerides töörühma tuvastussätte. Vaikimisi on uued erameeskonnad otsitavad ja leitavad. Kui meeskonna omanik ei soovi, et erameeskond kuvatakse otsingutulemites ja soovitustes, saab omanik sätte välja lülitada, valides sätte Muuda kõrval sätte See meeskond on otsitav ja leitav.  
 
-**Olemasolevad meeskonnad**
+**Olemasolevad töörühmad**
 
-Meeskonna omanikud saavad määrata olemasoleva isikliku töörühma tuvastamise sätte otse töörühma sätetes ja administraatorid saavad seda teha PowerShelli abil.  
+Meeskonnaomanikud saavad olemasoleva erameeskonna tuvastussätte määrata otse meeskonnasätetes ja administraatorid saavad seda PowerShelli abil teha.  
 
-Lisateavet leiate teemast  [isiklike meeskondade tuvastamise haldamine Microsoft teamsi](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).
+Lisateavet leiate teemast [Erameeskondade tuvastuse haldamine Microsoft Teamsis.](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)

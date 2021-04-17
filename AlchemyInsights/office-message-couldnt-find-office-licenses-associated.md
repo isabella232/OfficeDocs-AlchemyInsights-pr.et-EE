@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 apps Message-ei leia seotud Office ' i litsentse
+title: Microsoft 365 rakenduste sõnum – ei leidnud seotud Office'i litsentse
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802773"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836203"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 apps Message-ei leia seotud Office ' i litsentse
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 rakenduste sõnum – ei leidnud seotud Office'i litsentse
 
 Probleemi lahendamiseks proovige järgmist.
 
@@ -39,7 +39,7 @@ Kui probleem ei lahene, proovige järgmist.
 
 - Lähtestage Office’i aktiveerimisolek. Lugege artiklit [Microsoft 365 suurettevõtterakenduste aktiveerimisoleku lähtestamine](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) (inglise keeles).
 
-- Kontrollige oma tulemüüri, viirusetõrjetarkvara ja puhverserveri sätteid, et kinnitada, et nad ei blokeeri Microsoft 365 rakendusi Interneti-ühenduse jaoks. 
+- Kontrollige tulemüüri, viirusetõrjetarkvara ja puhverserveri sätteid, et veenduda, et need ei blokeeri Microsoft 365 rakenduste juurdepääsu Internetile. 
 
 Täiendavad tõrkeotsingu lahendused leiate järgmistest teemadest:
 

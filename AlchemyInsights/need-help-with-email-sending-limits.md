@@ -1,28 +1,29 @@
 ---
-title: Kas vajate abi meili saatmise piirangutega?
+title: Kas vajate abi seoses meilisaatmispiirangutega?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002938"
 - "5630"
-ms.openlocfilehash: 7f563df313c869d18c3e4240d271c649a74914af
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
-ms.translationtype: MT
+ms.openlocfilehash: b5bdfbf818328c97ec93b3468aeedcbe88e03913
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357545"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836275"
 ---
-# <a name="need-help-with-email-sending-limits"></a>Kas vajate abi meili saatmise piirangutega?
+# <a name="need-help-with-email-sending-limits"></a>Kas vajate abi seoses meilisaatmispiirangutega?
 
-Allpool on teenuse **poolt täidetavad saatmispiirangud** . Rohkem infot nende piiride kohta on dokumenteeritud [siin](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
+Allpool leiate teenuses **teadlikult jõustatud saatmispiirangud**. Lisateavet nende piirangute kohta saate [siit](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
 
-- Soovimatute hulgisõnumite kohaletoimetamise tõkestamiseks rakendame **kõigi väljaminevate ja sisemiste sõnumite puhul kasutaja adressaadi intressimäära limiite**. Kogu SKUs, see piirang on **10 000 adressaadid päevas**.  Kliendid, kes peavad saatma seadusliku hulgikaubandusliku meili (nt kliendi uudiskirjad), peaksid kasutama neid teenuseid spetsialiseerunud kolmandate osapoolte pakkujaid.
-    - **Märkus**: kui adressaadi määra piirang on saavutatud, sõnumeid ei saa saata postkasti kuni adressaatide arv, mis saadeti sõnumeid viimase 24 tunni jooksul langeb alla piiri. Kasutaja ei saa sõnumeid saata kuni selle hetkeni.
-- Sõnumi määra piirang **30 sõnumit minutis** rakendatakse kõigis SKU-dele. See määrab, mitu sõnumit kasutaja saab saata oma Exchange Online ' i konto määratud aja jooksul.
-- **Maksimaalne adressaatide arv, mis on lubatud väljal Adressaat, koopia ja Salakoopia** ühe meilisõnumi puhul kõigis SKU-s, on **1000 adressaadid**. Selle piirangu kohandamiseks [siia](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
+- Soovimatute hulgipostituste saatmise takistamiseks rakendame igale kasutajale **kõigile väljaminevatele ja sissetulevatele sõnumitele kehtivad adressaatide arvu piirangud**. Kõigis SKU-des on see piirang **10 000 adressaati päevas**.  Kliendid, kellel on õigustatud vajadus saata hulgi kommertssõnumeid (nt klientidele suunatud uudiskirju), peaksid kasutama mõnda kolmandast osapoolest teenusepakkujat, kes spetsialiseerub vastava teenuse osutamisele.
+    - **Märkus.** Pärast adressaatide arvu piirangu ületamist ei saa sõnumeid postkastist saata enne, kui viimase 24 tunni jooksul saadetud sõnumite adressaatide arv langeb alla selle piirmäära. Kuni selle hetkeni ei saa kasutaja rohkem sõnumeid saata.
+- Kõigis SKU-des kehtib ka sõnumite arvu piirmäär, milleks on **30 sõnumit minutis**. See määrab ära selle, kui palju sõnumeid saab kasutaja oma Exchange Online‘i kontolt määratud ajavahemikus saata.
+- Kõigis SKU-des on ühes meilisõnumis **väljadel Adressaat, Koopia ja Salakoopia lubatud adressaatide arv** piiratud ja selleks piirmääraks on **1000 adressaati**. Selle piirmäära kohandamiseks minge [siia](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).

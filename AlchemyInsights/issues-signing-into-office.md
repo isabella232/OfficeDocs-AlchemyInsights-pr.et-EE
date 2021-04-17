@@ -2,7 +2,7 @@
 title: Microsoft 365 rakendustesse sisselogimisega seotud probleemid
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236121"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836599"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 rakendustesse sisselogimisega seotud probleemid
 
-Microsoft 365 rakendustega sisselogimise probleemide lahendamiseks proovige probleemses arvutis järgmisi suvandeid.  
+Microsoft 365 rakenduste sisselogimisprobleemide lahendamiseks proovige mõjutatud seadmes järgmisi suvandeid.  
 
-- Windowsi jaoks vaadake [soovitusi levinud sisselogimise probleemide lahendamiseks](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) .
-- Maci jaoks  [ei saa Office 2016 for Maci rakendusse sisse logida](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- Windowsi kohta leiate [soovitusi levinud sisselogimisprobleemide lahendamiseks.](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Mac-arvutis leiate [lisateavet teemast Office 2016 for Maci](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail) rakendusse sisselogimine
 
-**Näpunäide** Windowsi arvutites saame diagnoosida ja lahendada automaatselt mitmeid levinud Office ' i sisselogimise probleeme. Laadige alla ja käivitage  **[Microsoft support ja Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** meie automatiseeritud tööriista kasutamiseks.
+**Näpunäide** Windowsi seadmetes saame diagnoosida ja automaatselt lahendada mitmed levinud Office'i sisselogimisprobleeme. Meie automatiseeritud tööriista kasutamiseks laadige alla ja käivitage **[Microsofti tugi- ja taasteteenuste abiline](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
-**Märkus:** Sisselogimise või aktiveerimise probleemide lahendamiseks  **pole soovitatav**keelata kaasaegset autentimist (ADAL) või veebikonto haldust (WAM). Kui Office 2013 abil Microsoft 365 ühenduse loomisel ilmneb tõrkeid, veenduge, et lubate Office ' i klientrakenduse jaoks [moodsa autentimise](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  .
+**Märkus.** Modernautentimise (ADAL) või veebikonto halduse (WAM) keelamine sisselogimise või aktiveerimisega seotud probleemide **lahendamiseks pole soovitatav.** Kui office 2013 abil Microsoft 365-ga ühenduse loomisel ilmnevad tõrked, veenduge, et lubate [Office'i klientrakenduse jaoks modernautentimise.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
 
-Kindlate tõrkeotsingu toimingute kohta leiate teavet järgmistest teemadest.
+Konkreetsete tõrkeotsingutoimingute kohta leiate lisateavet teemast
 
-[Ühendusega seotud probleemid pärast värskendamist Office 2016 ehitada 16.0.7967 opsüsteemis Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+[Pärast windows 10 opsüsteemis Office 2016 järgule 16.0.7967 värskendamist sisselogimisprobleemid](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
 
-[Te ei saa oma ettevõtte kontole sisse logida (nt Office 365, Azure või Intune).](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+[Te ei saa oma ettevõtte kontole (nt Office 365, Azure või Intune) sisse logida](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 
-[Tõrkeotsing rakendustes, mis ei saa Office 365, Azure ' i või Intune ' i sisse logida](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+[Mittebrauserirakenduste tõrkeotsing, mis ei saa teenusekomplekti Office 365, Azure või Intune sisse logida](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
 
-[Office ' is korduvalt küsitud mandaat](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
+[Office'i identimisteabe küsimine korduvalt](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
