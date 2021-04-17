@@ -1,8 +1,8 @@
 ---
-title: SharePointi õiguse tõrked
+title: SharePointi õiguste tõrked
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653392"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826591"
 ---
-# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="ca1da-102">SharePointi õiguse tõrked</span><span class="sxs-lookup"><span data-stu-id="ca1da-102">SharePoint permissions errors</span></span>
+# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="8a43d-102">SharePointi õiguste tõrked</span><span class="sxs-lookup"><span data-stu-id="8a43d-102">SharePoint permissions errors</span></span>
 
-<span data-ttu-id="ca1da-103">On mitu stsenaariumi, mis võivad paluda ühe nendest sõnumitest.</span><span class="sxs-lookup"><span data-stu-id="ca1da-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="ca1da-104">Kõige sagedamini on kasutaja või administraatori õigused konfigureeritud valesti või pole üldse konfigureeritud.</span><span class="sxs-lookup"><span data-stu-id="ca1da-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
+<span data-ttu-id="8a43d-103">On palju stsenaariume, mis võivad paluda ühte neist sõnumitest.</span><span class="sxs-lookup"><span data-stu-id="8a43d-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="8a43d-104">Enamasti on kasutaja või administraatori õigused valesti konfigureeritud või üldse konfigureerimata.</span><span class="sxs-lookup"><span data-stu-id="8a43d-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
 
-<span data-ttu-id="ca1da-105">Lisateavet leiate teemast "[juurdepääs on keelatud", "teil on vaja õigusi sellele saidile juurdepääsuks" või "kasutaja ei leia SharePoint Online ' i ja OneDrive for Businessi tõrked](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)".</span><span class="sxs-lookup"><span data-stu-id="ca1da-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
+<span data-ttu-id="8a43d-105">Lisateavet leiate teemast SharePoint Online'i ja OneDrive for Businessi tõrked "Juurdepääs keelatud", "Teil on vaja sellele saidile juurdepääsu õigust" või "Kasutajat ei leitud[kataloogist".](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)</span><span class="sxs-lookup"><span data-stu-id="8a43d-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
