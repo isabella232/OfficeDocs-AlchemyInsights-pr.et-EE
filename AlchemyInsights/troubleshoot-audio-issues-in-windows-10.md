@@ -1,8 +1,8 @@
 ---
-title: Windows 10 heliga seotud probleemide tõrkeotsing
+title: Heliprobleemide tõrkeotsing opsüsteemis Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750303"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833287"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Windows 10 heli probleemide tõrkeotsing
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Heliprobleemide tõrkeotsing opsüsteemis Windows 10
 
-**Heli tõrkeotsija käivitamine**
+**Helitõrkeotsija käivitamine**
 
-1.  Avage [tõrkeotsingu sätted](ms-settings:troubleshoot).
+1.  Avage [tõrkeotsing.](ms-settings:troubleshoot)
 
-2.  Klõpsake nuppu **Esita heli**  >  **ja käivitage tõrkeotsija**.
+2.  Valige **Esita**  >  **heli. Käivitage tõrkeotsija.**
 
-**Vaike-seadme määramine**
+**Vaikeseadme seadis**
 
-Kui loote ühenduse USB-või HDMI-kaabli abil, peate võib-olla seadma selle seadme vaikeprogrammiks.
+Kui loote usb- või HDMI-seadme abil ühenduse heliseadmega, peate võib-olla selle seadme vaikeseadmeks häälestama.
 
-1. Avage nupp **Käivita**  >  **heli**ja valige tulemite loendist **heli** või **Muuda süsteemi helisid** .
+1. Avage **Start**  >  **Sound**(Käivita heli) ja seejärel valige **tulemite loendist** Heli või Muuda süsteemi helisid. 
 
-2.  Valige vahekaardil **taasesitus** soovitud seade, valige **Määra vaikesätted**ja seejärel klõpsake **nuppu OK**.
+2.  Valige **vahekaardil Taasesitus** soovitud seade, valige **Sea vaikesäte** ja seejärel valige **OK**.
 
 **Kaablite, helitugevuse, kõlarite ja kõrvaklappide kontrollimine**
 
-1. Kontrollige, kas kõlarite ja kõrvaklappide ühendused on lahtised kaablid, ja veenduge, et need on ühendatud õige Jackiga.
+1. Kontrollige kõlarite ja kõrvaklappide ühendusi lahtiste kaablite kohta ning veenduge, et need on ühendatud õige pistikupesaga.
 
-2. Kontrollige oma võimsuse ja helitugevuse taset ning proovige kõik helitugevuse juhtelemendid üles keerata.
+2. Kontrollige oma toite- ja helitugevuse taset ning proovige kõik helitugevuse juhtelemendid üles muuta.
 
-3. Mõnedel kõlaritel ja rakendustel on oma helitugevuse juhtelemendid; võimalik, et peate need kõik üle vaatama, et veenduda, kas need on õigel tasemel.
+3. Mõnel kõlaritel ja rakendustel on oma helitugevuse juhtelemendid. Võimalik, et peate neid kõiki kontrollima, et veenduda, et need on õigetel tasemetel.
 
-4. Proovige ühendust luua mõne muu USB-pordi kaudu.
+4. Proovige luua ühendus muu USB-pordi abil.
 
-**Märkus**: Pidage meeles, et kõlarid ei pruugi töötada, kui kõrvaklapid on ühendatud.
+**Märkus.** Pidage meeles, et kõlarid ei pruugi töötada, kui kõrvaklapid on ühendatud.
 
 **Seadmehalduri kontrollimine**
 
-Et veenduda, kas draiverid on värskendatud, tehke järgmist.
+Veendumaks, et draiverid on ajased:
 
-1. Valige nupp **Start**, tippige **Seadmehaldur**ja seejärel valige tulemite loendist **Seadmehaldur** .
+1. Valige **Start**, tippige **Seadmehaldur** ja **seejärel** valige tulemite loendist Seadmehaldur.
 
-2. Valige jaotises **heli-, video-ja mängukontrollerid**oma helikaart, avage see, valige vahekaart draiver ja klõpsake nuppu **draiveri** **värskendamine**.
+2. Valige **jaotises Heli-, video- ja mängukontrollerid** oma helikaart, avage see, valige vahekaart **Draiver** ja valige **Värskenda draiver**.
 
-**Märkus**: kui Windows uut draiverit ei leia, otsige seda seadme tootja veebisaidilt ja järgige juhiseid.
+**Märkus.** Kui Windows ei leia uut draiverit, otsige seda seadme tootja veebisaidilt ja järgige nende juhiseid.
 
 **Draiveri uuesti installimine**
 
-Kui te ei saa värskendada Device Manageri kaudu või leida tootja veebisaidilt uut draiverit, proovige järgmisi toiminguid.
+Kui te ei saa värskendada Seadmehalduri kaudu või leida tootja veebisaidilt uut draiverit, tehke järgmist.
 
-1. Seadmehalduris Paremklõpsake (või vajutage pikalt) heli draiverit ja valige **Uninstall (Desinstalli**). Taaskäivitage oma seade ja Windows proovib draiveri uuesti installida.
+1. Paremklõpsake (või vajutage pikalt) seadmehalduris helidraiverit ja valige **Desinstalli**. Taaskäivitage seade ja Windows proovib draiveri uuesti installida.
 
-2. Kui draiveri uuesti installimine ei toimi, proovige kasutada Windowsiga kaasas olevat üldist heli draiverit. Seadmehalduris Paremklõpsake (või vajutage pikalt) oma heliriistvara > draiveri **tarkvara**  >  **sirvimine minu arvuti draiveri tarkvara jaoks**  >  , kui valite**minu arvutis seadmedraiverid**, valige **kõrglahutusega heliseade**, klõpsake nuppu **edasi**ja järgige juhiseid selle installimiseks.
+2. Kui draiveri uuesti installimine ei tööta, proovige kasutada Windowsiga kaasas olnud üldist helidraiverit. Paremklõpsake seadmehalduris (või vajutage pikalt) oma helidraiverit > **Draiveritarkvara** värskendamine Draiveritarkvara sirvimine. Lubage mul valida oma arvuti seadmedraiverite loendist, valige  >    >  High Definition **Audio Device**(Kõrglahutusega heliseade), valige **Edasi** ja järgige installimise juhiseid.

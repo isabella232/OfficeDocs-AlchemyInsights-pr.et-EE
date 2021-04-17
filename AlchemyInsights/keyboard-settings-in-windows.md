@@ -1,8 +1,8 @@
 ---
-title: 'Windows 10 klaviatuuri sätted '
+title: 'Windows 10 klaviatuurisätted '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772799"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832963"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Windows 10 klaviatuuri sätted
+# <a name="keyboard-settings-in-windows-10"></a>Windows 10 klaviatuurisätted
 
-**Tippige sätted**
+**Tüübisätted**
 
-Kui soovite muuta Windowsi sätteid, mis on seotud õigekirjakontrolli, paranduste, soovituste ja muude riistvara ja puuteklaviatuuri muude aspektidega, valige **sätted > seadmed > tippimine**. 
+Windowsi sätete muutmiseks, mis on seotud õigekirjakontrolli, automaatkorrektuuri, soovituste ja muude riistvara- ja puuteklaviatuuri aspektidega, valige **Sätted > Seadmed > Tippimine**. 
 
-**Keele-ja klaviatuuri sätted**
+**Keele- ja klaviatuurisätted**
 
-Windowsi keeles kasutatava klaviatuuri või sisestusmeetodiga seotud sätete muutmiseks valige **sätted > aeg & keele > keel**. Valige **eelistatud keelte** loendis keeled ja klõpsake nuppu **Suvandid** , et lisada/eemaldada klaviatuurid või Input methods (IME).
+Windowsi keele klaviatuuri- või sisestusmeetodiga seotud sätete muutmiseks valige Sätted **> Time & Language > Language**. Valige keeled loendis **Eelistatud keeled ja** klõpsake **klaviatuuride** või sisestusmeetodite (KIIRSÕNUMITE) lisamiseks/eemaldamiseks nuppu Suvandid.

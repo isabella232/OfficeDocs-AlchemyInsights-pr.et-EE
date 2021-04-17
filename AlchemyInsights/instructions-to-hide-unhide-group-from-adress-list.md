@@ -1,8 +1,8 @@
 ---
-title: Juhised rühma peitmiseks/peitmiseks loendist aadressiloend
+title: Juhised rühma peitmiseks/peidust välja peidemiseks aadressiloendist
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 1ad9ab294d46ca0fc88a454e3503ddcf80398896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d55866700b9b8494f1f692cd3b865116b96a1bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663005"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831874"
 ---
-# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Microsoft 365 rühma peitmine loendist aadressiloend (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Microsoft 365 rühma peitmine aadressiloendist (GAL)
 
-Microsoft 365 rühma peitmiseks Exchange ' i klientide (nt Outlook või OWA) aadresside loenditest (nt Outlook või OWA) kasutage nuppu EKSO Shell järgmine käsk:
+Microsoft 365 rühma peitmiseks Exchange'i klientide aadressiloendite (nt Outlooki või OWA) aadressiloendite (nt Outlooki või OWA) eest kasutage EXO shellis järgmist käsku.
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Kui soovite, et Microsoft 365 Group peidaks end Exchange ' i klientidele nähtavana, kasutage funktsiooni EKSO Shell järgmist käsku:
+Microsoft 365 rühma Exchange'i klientklientidele nähtavaks vaatamiseks kasutage EXO kestas järgmist käsku.
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`
