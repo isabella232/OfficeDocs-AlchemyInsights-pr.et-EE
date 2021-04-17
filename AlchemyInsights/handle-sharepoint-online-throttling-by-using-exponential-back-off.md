@@ -1,25 +1,26 @@
 ---
-title: Eksponentsiaalse taganemise abil SharePoint Online’i ahendamise käsitsemine
+title: SharePoint Online'i ahendamisega tegelemine eksponentsiaalse taganemise abil
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: dcd169fdf9a9aef155c909af4e60752cbfebdf7a
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
-ms.translationtype: MT
+ms.openlocfilehash: 79eac285a9816a53369ef0fac5bd158f1234615d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357569"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811776"
 ---
-# <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>Eksponentsiaalse taganemise abil SharePoint Online’i ahendamise käsitsemine
+# <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>SharePoint Online'i ahendamisega tegelemine eksponentsiaalse taganemise abil
 
-Kui teil tekib ahendatud SharePoint Online ' i, eksponentsiaalne tagasi off tehnikat ootab järk-järgult pikema aja jooksul enne uuesti proovida koodi, mis oli kõrgendamise.
+Kui SharePoint Online‘is on ahendatud, võtab eksponentsiaalse taganemise võte enne ahenenud koodi uuesti kasutamist järjest rohkem aega.
 
-- [Eksponentsiaalse taganemise abil SharePoint Online’i ahendamise käsitsemine](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+- [Eksponentsiaalse taganemise abil SharePoint Online’i ahendamise töötlemine](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)

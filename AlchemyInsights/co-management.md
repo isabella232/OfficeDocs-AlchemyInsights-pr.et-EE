@@ -1,8 +1,8 @@
 ---
-title: Koostöö haldamine
+title: Kaasjuhtimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896791"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817708"
 ---
-# <a name="co-management"></a>Koostöö haldamine
+# <a name="co-management"></a>Kaasjuhtimine
 
-**Eeltingimused üleminekuks alates config Manageri hübriidist Intune ' i**
+**Eeltingimused konfiguratsioonihalduri hübriidfailist Intune'i migreerimiseks**
 
-- Vaadake [see artikkel](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)üle.
-- [Lisage kasutajatele Intune litsents](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
-- Kasutage koostöö konfigureerimiseks Edge ' i [brauserit](https://www.microsoft.com/edge) .
+- Vaadake [see artikkel läbi.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Lisage kasutajatele Intune'i litsents.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Kasutage [kooshalduse konfigureerimiseks](https://www.microsoft.com/edge) Edge'i brauserit.
 
-[Siit](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)leiate juhendava, üksikasjalike ja üksikasjalike juhtimissüsteemide häälestamise kogemuse.
+Siit leiate juhendatud, samm-sammult kooshalduse [häälestuse.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-**Kuidas installida config Manageri klient Intune ' I hallatavates seadmetes**
+**Konfiguratsioonihalduri kliendi installimine Intune'i hallatavates seadmetes**
 
-Vaadake teemat [MDM-i hallatavate Windowsi seadmete Intune](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Vaadake [teemat Intune MDM-i hallatavad Windowsi seadmed.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-**Mida teha, kui soovin ainult MDM-I autoriteeti muuta?**
+**Mida teha, kui soovin lihtsalt MDM-i asutust muuta?**
 
-MDM-i autoriteeti saab muuta, kui ei avata tugiteenuse juhtumit. MDM-i asutuse muutmise abistamiseks tutvuge järgmiste dokumentidega.
+MDM-i asutust saab muuta ilma tugiteenuse juhtumit avamata. MDM-i asutuse muutmisel abisaamiseks vaadake läbi järgmine dokumentatsioon.
 
-- [MDM-i asutuse muutmine Configuration Manageri kaudu iseseisvaks häälestamiseks](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [MDM-i autoriteeti saate muuta Configuration Manageri häälestamise kaudu.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [MDM-i asutuse muutmine Configuration Managerilt Intune'i autonoomseks](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [MDM-i asutuse muutmine Intune'i autonoomsest halduriks Configuration Manager](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

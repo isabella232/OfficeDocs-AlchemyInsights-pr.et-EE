@@ -1,8 +1,8 @@
 ---
-title: Koosoleku plaanimine töörühmades
+title: Teamsis koosoleku plaanimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746899"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815971"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Koosoleku plaanimine töörühmades
+# <a name="schedule-a-meeting-in-teams"></a>Teamsis koosoleku plaanimine
 
-**Oluline** Kui teil on probleeme koosoleku loomisel või kui te ei leia rühmast koosoleku võimalust, veenduge, et mõjutatud kasutaja (d) on Exchange ' i postkast Microsoft Teamsi toetatud versioonis. Kui Exchange Online ' i on soovitatav, toetatakse kohapealsete postkastide Exchange Server 2016 CU3 või uuemat versiooni, mille OAuthi on veebipõhise ja kohapealse võrgu vahel edukalt konfigureeritud. Lisateavet leiate teemast [kasutajate postkastide loomine Exchange Online ' is](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) ja [asutusesiseselt hallatavatele postkastidele esitatavad nõuded](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Tähtis** Kui teil on probleeme koosoleku loomisega või te ei leia Teamsis koosoleku suvandit, veenduge, et mõjutatud kasutaja(te)s oleks Lubatud Exchange'i postkast Microsoft Teamsi toetatud versioonis. Kuigi Exchange Online on soovitatav, toetatakse Exchange'i asutusesiseseid postkaste Exchange Server 2016 CU3-s või uuemates versioonides, kus OAuth on edukalt konfigureeritud veebi- ja asutusesiseselt. Lisateavet leiate teemast [Kasutajapostkastide loomine Exchange Online'is](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) ja Nõuded kohapeal [majutatud postkastidele.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
 
-1. Koosoleku plaanimiseks saate valida:
+1. Koosoleku plaanimiseks valige:
 
-    - Koosoleku ikooni **kavandamine** vestluses olevate inimestega koosoleku broneerimiseks all olevas vestluses.
+    - **Koostamisboksi** all olevas vestluses koosolekuikooni plaanimine, et vestlusse kaasatakse koosoleku.
 
-    - **Kalendri** ikoon rakenduse vasakus servas. Valige paremas ülanurgas **Uus koosolek** või valige ajakava vormi avamiseks kalendris ajavahemik.
+    - **Rakenduse** vasakus servas asub ikoon Kalender. **Plaanimisvormi avamiseks** valige kas paremas ülaservas Uus koosolek või valige kalendris soovitud ajavahemik.
 
-2. Sarnaselt Outlookis koosoleku ajastamisele saate anda koosolekule tiitli, kutsuda inimesi ja lisada koosolekute üksikasju.
+2. Sarnaselt Outlookis koosoleku plaanimisega annate koosolekule pealkirja, kutsute inimesi ja lisate koosolekute üksikasju.
 
-3. Ajastamise vormi paremas servas saate lisada kanali või üksikuid inimesi või jätta nii tühjaks, kui soovite ajastada privaatse kohtumise.
+3. Plaanimisvormi paremal poolel saate lisada kanali või üksikuid inimesi või jätta mõlemad erakohtumise ajasaamiseks tühjaks.
 
-Microsoft Teamsi koosolekute loomise ja ajastamise kohta leiate lisateavet teemast [koosoleku plaanimine töörühmades](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Lisateavet Microsoft Teamsis koosolekute loomise ja plaanimise kohta leiate teemast [Teamsis koosoleku plaanimine.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-Lisateavet koosolekute piirangute ja kirjelduste kohta leiate teemast [Microsoft teamsi piirangud ja SPETSIFIKATSIOONID](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Lisateavet koosolekute piirangute ja spetsifikatsioonide kohta leiate teemast Microsoft Teamsi piirangud [ja spetsifikatsioonid.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-Meeskonnatöö ja Exchange ' i suhtluste tõrkeotsing, eriti delegaadi ajastamise probleemide korral, leiate teemast [Microsoft teamsi ja Exchange Serveri suhtluse probleemide tõrkeotsing](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Lisateavet Teamsi ja Exchange'i suhtluse tõrkeotsingu kohta (eriti delegeeritud plaanimisprobleemide korral) leiate teemast [Microsoft Teamsi ja Exchange Serveri suhtlusprobleemide tõrkeotsing.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

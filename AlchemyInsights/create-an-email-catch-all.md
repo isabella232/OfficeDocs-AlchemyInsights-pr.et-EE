@@ -1,8 +1,8 @@
 ---
-title: Kõigi meilisõnumite loomine
+title: Meilisõnumite püüdmise loomine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712982"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816196"
 ---
-# <a name="create-an-email-catch-all"></a>Kõigi meilisõnumite loomine
+# <a name="create-an-email-catch-all"></a>Meilisõnumite püüdmise loomine
 
-Saagi kasutamine on tugevalt heidutav. Parem on anda põrge tagasi saatjale, et saatjad saaksid teada, et nende sõnumit ei saanud esitada nii, et nad saaksid tegutseda. Samuti saate jälgida postkasti piirata ainult varem kehtivate meiliaadresside järgi. 
+Saagi kasutamist ei soovitata. Parem on pakkuda saatjale tagasisaatmine, andes saatjale teada, et tema sõnumit ei saanud adressaadina kohale toimetada, et nad saaksid midagi ette võtta. Samuti saate jälgitud postkasti piirata ainult varem kehtivate meiliaadresside püüdmisega. 
 
-Kõik postkastid saavad palju rämpsposti ja võivad lõpuks täita, kui neid hoolikalt ei jälgita. (Seal saab limiite.) 
+Iga postkast saab palju rämpsposti ja võib lõpuks täita, kui seda ei jälgita hoolikalt. (Piirangud on olemas.) 
 
-Kui otsustate jätkata, järgige järgmisi juhiseid.
+Kui otsustate jätkata, tehke järgmist.
 
-1. Saate luua dünaamilise levirühma & kaasata "kõik adressaadi tüübid".
+1. Dünaamilise levirühma loomine & "Kõik adressaaditüübid".
 
-2. Saate luua spetsiaalse postkasti meilisõnumite püüdmiseks (nt catchall@domain.com).
+2. Looge spetsiaalne postkast meilisõnumite püüdmiseks , näiteks catchall@domain.com.
 
-3. Määrake konkreetse domeeni jaoks DomainType väärtuseks "InternalRelay". Kui eemaldate selle hiljem, veenduge, et Domeen oleks uuesti autoriteetseks määratud.
+3. Määrake konkreetse domeeni domeenitüübiks "InternalRelay". Kui eemaldate hiljem kogu saagi, määrake domeen kindlasti uuesti autoriteetseks.
 
-4. Meilivoogude transpordi reegli loomiseks tehke järgmist.
+4. Looge meilivoo transpordireegel järgmiselt.
 
-    - Kui saatja on "väljaspool asutust"
+    - Kui saatja on "Väljaspool asutust"
     - Sõnumi ümbersuunamine Catchall@domain.com
-    - Välja arvatud juhul, kui adressaat on allusers@domain.com liige (levirühma sisaldab kõiki liikmeid)
-    - Veenduge, et valideerite, et uued postkastid lisatakse dünaamilisse levirühma.
+    - Välja arvatud juhul, kui adressaat on allusers@domain.com liige (levirühm sisaldab kõiki liikmeid)
+    - Kontrollige, kas dünaamilise levirühma lisatakse uusi postkaste.

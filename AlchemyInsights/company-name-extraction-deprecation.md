@@ -1,8 +1,8 @@
 ---
-title: Ettevõtte nimi kaevandamise keelamine
+title: Ettevõtte nime ekstraktimise deprecation
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681004"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817384"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>SharePoint Online ' is ettevõtte nime ekstraktimise muudatused
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Ettevõtte nime ekstraktimise muudatused SharePoint Online'is
 
-Alates 15. novembrist, 2019, [eemaldame ettevõtte nime kaevandamise SharePoint Online ' ist](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Ettevõtte nime ekstraktimine SharePointis võimaldab otsingu süsteemil eraldada ettevõtte nimed mõne kindla tingimuse alusel, kasutades selleks eelnevalt asustatud sõnastikku või kasutades ettevõtte või ettevõtte väljaarvamiste loendeid. Kui ettevõtte nime ekstraktimine on muutunud kasutatavaks lahenduseks SharePoint Online ' i sisust ühe või mitme ettevõtte nimest, on nii sõnastik kui ka selle aluseks olevate funktsioonide komplekt aegunud.
+Alates 15. novembril 2019 eemaldame Ettevõtte nime ekstraktimise [SharePoint Online'ist.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Ettevõtte nime ekstraktimine SharePointis võimaldab otsingusüsteemil ekstraktida ettevõtte nimesid sisust teatud tingimuste alusel, kasutades eelasustatud sõnastikku või ettevõtte kaasamise või ettevõtte välistamiste loendeid. Kuigi ettevõtte nime ekstraktimine on muutunud toetuda ühele või mitmele ettevõttenimele SharePoint Online'i sisust tuletamiseks, on nii sõnastik kui ka selle aluseks olev funktsioonikomplekt aegunud.
 
-- [Kuidas teada saada, kas ettevõtte nime kaevandamine on atribuudi jaoks lubatud?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Kuidas teada saada, kas ettevõtte nime ekstraktimine on atribuudi jaoks lubatud?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Mis juhtub, kui ettevõtte nime kaevandamine on aegunud?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Mis juhtub, kui ettevõtte nime ekstraktimine on aegunud?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
 - [Kas ettevõtte nime ekstraktimiseks on alternatiive?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

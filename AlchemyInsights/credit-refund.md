@@ -2,7 +2,7 @@
 title: Krediit/tagasimakse
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,25 +13,25 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 27f1b43c7e00114d51bb3f1c5769936b72635a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e40dcf238ce4bc05c55c78e29c54fc260523bc2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746575"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815863"
 ---
 # <a name="creditrefund"></a>Krediit/tagasimakse
 
-**Tühistamise**
+**Tühistamine**
   
-Tellimuse tühistamise korral saadetakse teile järgmise arvelduse kuupäevale järgneva krediidiga lõplik arve. Tellimuse tühistamise kuupäevast võib kuluda kuni 30 päeva.
+Tellimuse tühistamisel saate lõpliku arve, mille maksetähtaeg on järgmisel arvelduskuupäeval. Tellimuse tühistamise kuupäevast alates võib selleks aega võtta kuni 30 päeva.
   
-**Istme vahetus**
+**Istekoha muutmine**
   
-Kui litsentsid eemaldatakse tellimusest, seotakse nende litsentside kasutamata aeg järgmises arves krediidina. Litsentside eemaldamise kuupäevast kuni 30 päeva vastuvõtmiseks võib kuluda kuni 30 päeva.
+Kui litsentsid eemaldatakse tellimusest, rakendatakse nende litsentside kasutamata aeg järgmisel arvel krediidina. Litsentside eemaldamise kuupäevast alates võib selleks aega võtta kuni 30 päeva.
 
-**Toetuse**
+**Tagasimakse**
 
-**Iga hinnaline krediit tagastatakse teile järgmise arvelduse tsükli jooksul.**
+**Iga prorated credit tagastatakse teile järgmise arveldustsükli jooksul.**
 
-Lisateavet leiate teemast [tühistamise ja tagasimaksmise protsess](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
+Lisateavet leiate teemast Tühistamise [ja tagasimakse protsess.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide) 

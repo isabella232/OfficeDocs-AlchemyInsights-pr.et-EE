@@ -1,8 +1,8 @@
 ---
-title: Seadmed ootavad liitumise olekut
+title: Seadmed on olekus Ootab registreerimist
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730731"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815350"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Seadmed on olekus "ootab registreerimine" olekut
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Seadmed on olekus "Ootab registreerimist".
 
-Töölaua analüüsil pole selle seadme jaoks diagnostilisi andmeid. 
+Töölauaanalüüsil pole selle seadme diagnostikaandmeid. 
 
-See probleem võib ilmneda, kuna olete hiljuti lisanud seadme TARGETi kollektsiooni ja see pole veel andmeid saatnud. See võib tähendada ka seda, et seade pole teenusega õigesti suhtlenud ning uusimad diagnostilised andmed on üle 28 päeva vanad.
+See probleem võib ilmneda seetõttu, et lisasite seadme hiljuti sihtkogumisse ja see pole veel andmeid saatnud. See võib tähendada ka seda, et seade ei suhtle teenusega õigesti ja uusimad diagnostikaandmed on üle 28 päeva vanad.
 
-Veenduge, et seade saaks teenusega suhelda. Lisateavet leiate teemast [lõpp-punktid](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Veenduge, et seade saaks teenusega suhelda. Lisateavet leiate teemast [Lõpp-punktid.](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)
 
-Lisateavet liitumise oleku ootamise kohta leiate teemast [ühenduste tervise jälgimine](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Lisateavet ootava registreerumise oleku kohta leiate teemast Ühenduse [seisundi jälgimine.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

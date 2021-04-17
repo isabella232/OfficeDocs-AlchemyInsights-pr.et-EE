@@ -1,8 +1,8 @@
 ---
-title: Sisu otsing tulemeid
+title: Sisuotsing tulemiteta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680643"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816844"
 ---
-# <a name="no-results-from-content-searchexports"></a>Sisu otsingu/ekspordi tulemeid ei kuvata
+# <a name="no-results-from-content-searchexports"></a>Sisuotsingu/-ekspordi tulemid puuduvad
 
-Sisu otsimisega/ekspordiga seotud probleemid võivad olla tingitud teatud nõuetele vastavuse turbe filtrist, mis on häälestatud teatud administraatori poolt ja mitte edastama seda kõigile administraatoritele.
+Sisuotsingu/ekspordiga seotud probleemid, mis ei tagasta andmeid, võivad olla tingitud teatud nõuetele vastavuse turbefiltrist, mille häälestas konkreetne administraator ja mis ei edastanud seda kõigile administraatoritele.
 
-Selle probleemi lahendamiseks kontrollige, kas selle põhjuseks võib olla mõni nõuetele vastav turvamise filtrid.
-1. Ühenduse loomine turbe ja ühilduvuse keskusega PowerShell
-2. Käivitage järgmine Commandlets.
+Probleemi lahendamiseks kontrollige, kas nõuetele vastavuse turbefiltrid võivad põhjustada seda.
+1. Ühenduse loomine turbe- ja vastavuskeskuse PowerShelliga
+2. Käivitage järgmised käsud.
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-organisatsioon $org
+<br>Get-ComplianceSecurityFilter -Organization $org

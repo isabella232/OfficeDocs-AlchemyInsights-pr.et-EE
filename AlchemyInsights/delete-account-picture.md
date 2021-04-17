@@ -1,8 +1,8 @@
 ---
-title: Konto pildi kustutamine
+title: Kontopildi kustutamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730947"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815539"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Konto pildi kustutamine opsüsteemis Windows 10
+# <a name="delete-an-account-picture-in-windows-10"></a>Kontopildi kustutamine opsüsteemis Windows 10
 
-Windowsi eesmärk on lasta teil oma kolme viimatise pildi vaheldumisi aktiveerida. Kui peate mõne konto pildid kustutama, tehke järgmist.
+Windows on loodud selleks, et teil oleks võimalik vahetada kolme viimatist pilti. Kui soovite ühe oma kontopildi kustutada, tehke järgmist.
 
-1. Avage tegumiribal Explorer Explorer. Kui te ei näe tegumiribal faili Explorerit (kausta ikoon), valige **Start** ja tippige tekst **Explorer**.
+1. Avage tegumiribal File Explorer. Kui te ei näe tegumiribal File Explorerit (kaustaikooni), valige Start **ja** tippige **File Explorer**.
 
 2. Avage C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
-    - Asendage *yourname* oma konto nimega.
-    - Kui te ei leia AppData kaustast Explorer, võib see olla peidetud. Valige **Kuva** säte ja märkige ruut **peidetud üksused** , et kuvada kõik kaustas olevad üksused.
+    - Asendage *oma nimi* oma konto nimega.
+    - Kui te ei leia File Exploreris AppData kausta, võib see olla peidetud. Kõigi **kaustaüksuste** kuvamiseks märkige **säte** Vaade ja märkige ruut Peidetud üksused.
 
-3. Kustutage konto pilt, mida te enam ei soovi kasutada.
+3. Kustutage konto pilt, mida te enam kasutada ei soovi.
  
  

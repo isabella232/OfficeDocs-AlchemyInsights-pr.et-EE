@@ -1,8 +1,8 @@
 ---
-title: DataProtection – BitLocker
+title: DataProtection - Bitlocker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
-ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
+ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778189"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815611"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>BitLockeri krüptimise lubamine Intune ' i abil
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Bitlockeri krüptimise lubamine Intune'i abil
 
-Intune Endpoint Protection Policy saab kasutada BitLockeri krüptimise sätete konfigureerimiseks Windowsi seadmetes. Lisateavet leiate artiklist [Windows 10 (ja hilisemad) sätted, et kaitsta seadmeid Intune ' i abil](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+Intune'i lõpp-punkti kaitse poliitikat saab kasutada Windowsi seadmete Bitlockeri krüptimissätete konfigureerimiseks. Lisateavet leiate teemast Windows 10 (ja uuemad) sätted seadmete [kaitsmiseks Intune'i abil.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
 
-Lisaks lõpp-punkti kaitse poliitikale on olemas ka krüptimist puudutav teade, mis annab üksikasjalikuma ülevaate seadmete krüptimise olekust. Seda aruannet saab avada jaotises **seadmed > kuvarid** ja seejärel jaotises **Konfiguratsioon** nuppu [Krüpti aruanne](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+Lisaks lõpp-punkti kaitse poliitikale on olemas ka krüptimisaruanne, mis annab üksikasjalikuma ülevaate seadmete krüptimisolekust. Sellele aruandele pääseb juurde MEM-i portaali jaotises Seadmed **> Monitor** ja seejärel valige jaotises **Konfiguratsioon** suvand [Krüptimisaruanne](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
 
-Kui leiate, et BitLocker ei ole lubatud ootuspäraselt või et BitLocker-i lubamiseks kasutatav profiil on viga olekus, vaadake üle krüpteerimise aruanded, et paremini mõista, miks käitumine toimub.
+Kui leiate, et Bitlockeri ei saa ootuspäraselt lubada või et Bitlockeri lubamiseks kasutatav profiil on tõrke olekus, vaadake üle krüptimisaruanne, et paremini mõista, miks käitumine toimub.
 
-Lisateavet selle kohta, kuidas tõlgendada aruandeid koos mitmesuguste krüptimise oleku väärtustega, leiate teemast [seadme krüptimise jälgimine Intune ' i abil](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+Aruande tõlgendamise (sh erinevate krüptimisolekuväärtuste) kohta leiate lisateavet teemast Seadme [krüptimise jälgimine Intune'iga.](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
 
-Peaksite teadma, et paljud uuemad seadmed, kus töötab Windows 10, toetavad automaatset BitLockeri krüptimist, mis käivitatakse MDM-poliitikat rakendamata. See võib mõjutada poliitika rakendamist, kui vaikesätted pole konfigureeritud. Üksikasjalikumat teavet leiate järgmisest KKK-s.
+Peaksite teadma, et paljud uuemad seadmed, kus töötab Windows 10, toetavad automaatset Bitlockeri krüptimist, mis käivitatakse ilma MDM-i poliitika rakendamiseta. See võib mõjutada poliitika kohaldamist, kui vaikesätted pole konfigureeritud. Üksikasjalikumat teavet leiate järgmisest KKK-st.
 
-Lisateavet BitLockeri probleemide tõrkeotsingu kohta leiate teemast [BitLockeri poliitikate tõrkeotsing Microsoft Intune ' is](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
+Bitlockeri probleemide tõrkeotsingu kohta leiate teavet teemast [Microsoft Intune'i BitLockeri poliitikate tõrkeotsing.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
  
  
 **KKK**
 
-K: millised Windows ' i versioonid toetavad seadme krüptimist lõpp-punkti kaitse poliitika abil?<br>
-V: Intune ' i lõpp-punkti kaitsepoliitika sätted rakendatakse [BITLOCKERI CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)-i kaudu. BitLockeri CSP ei toeta kõiki Windowsi väljaandeid ega väljaandeid. <br><br>
+Küsimus. Millised Windowsi väljaanded toetavad seadme krüptimist lõpp-punkti kaitse poliitika abil?<br>
+A. Intune'i lõpp-punkti kaitsepoliitika sätted rakendatakse [Bitlockeri CSP abil.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Bitlockeri CSP-d ei toeta kõik Windowsi väljaanded ega järgud. <br><br>
 
-K: Kuidas saab BitLockeri lubada seadmetes, nõudmata lõppkasutaja suhtlust?<br>
-V: seni, kuni vajalikud eeltingimused on täidetud, on võimalik, et BitLocker "Silent Encryption" saab Intune ' i kaudu lubada. Lugege seadme nõuete ja näitepoliitika sätete üksikasju, et lubada vaikiva krüptimise lubamine järgmises dokumendis. [lubage BitLockeri krüptimine vaikselt](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+Küsimus. Kuidas saab Bitlockeri lubada seadmetes ilma lõppkasutaja suhtlust nõudmata?<br>
+A. Seni, kuni vajalikud eeltingimused on täidetud, on võimalik Bitlockeri "Vaikne krüptimine" intune'i kaudu lubada. Vaadake seadme nõuete ja näidispoliitika sätete üksikasju vaikse krüptimise lubamiseks järgmises doc's: Silently Enable Bitlocker Encryption (Luba [Bitlockeri krüptimine).](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices) <br><br>
 
-K. Kui seade on BitLocker-iga juba krüptitud, kasutades krüptimise meetodi ja šifri tugevuse (XTS-AES-128) jaoks mõeldud OS-i vaikesätteid, siis käivitab uue sättega automaatselt draivi uuesti krüptimine.<br>
-Vastus. Ei. Uue šifri sätete rakendamiseks peab draiv esmalt dekrüptima.<br><br>
-**Märkus:** Kui seadmeid registreeritakse autopiloodiga, siis OOBE ajal ilmnev automaatne krüptimine ei käivitu enne, kui poliitika on hinnanud, mis võimaldab OPERATSIOONISÜSTEEMI vaikesätete asemel kasutada poliitikal põhinevaid sätteid.
+K. Kui seade on bitlockeriga juba krüptitud, kasutades krüptimismeetodi ja šifri tugevuse os-i vaikesätteid (XTS-AES-128), käivitab erinevate sätetega poliitika automaatselt ketta uuesti krüptimise uute sätetega?<br>
+Vastus. Ei. Uute šifrisätete rakendamiseks tuleb ketas esmalt dekrüptida.<br><br>
+**Märkus.** Automaatpilootiga registreeritud seadmete puhul ei käivitu OOBE ajal toimuv automaatne krüptimine enne Intune'i poliitika hindamist, mis võimaldab poliitikapõhiseid sätteid kasutada opsüsteemi vaikesätete asemel.
  
-K. Kui seade krüptitakse Intune ' i poliitika rakendamise tõttu, dekrüptitakse see poliitika eemaldamise korral?<br>
-V: krüptimisega seotud poliitika eemaldamine ei põhjusta konfigureeritud draivide dekrüptimist.
+K. Kui seade on Intune'i poliitika rakendamise tulemusena krüptitud, kas see dekrüptitakse selle poliitika eemaldamisel?<br>
+A. Krüptimisega seotud poliitika eemaldamine ei tähenda konfigureeritud draivide dekrüptimist.
  
-K: Miks Intune ' i nõuetele vastavuse poliitika näitab, et minu seadmel pole BitLockerit lubatud, isegi kui see on nii?<br>
-V: Intune ' i nõuetele vastavuse poliitikas säte "BitLocker enabled" kasutab Windowsi seadme terviseohutuse kinnitust (DHA) klienti. See klient mõõdab ainult seadme olekut alglaadimise ajal. Nii et kui seadet pole uuesti käivitatud, kuna BitLockeri krüptimine on lõpule viidud, ei teata DHA klienditeeninduse teenusest BitLocker aktiivsena.
+Küsimus. Miks näitab Intune'i vastavuspoliitika, et minu seadmes pole BitLocker lubatud, kuigi see on lubatud?<br>
+V. Intune'i vastavuspoliitika säte "Bitlocker enabled" kasutab Windowsi seadme seisundi tõendamise (DHA) klientrakendust. See klientrakendus liiab seadme olekut ainult alglaadimise ajal. Seega, kui seadet pole pärast Bitlockeri krüptimise lõpuleviimist taaskäivitatud, ei teata DHA klientteenus Bitlockerist aktiivsena.
  
  

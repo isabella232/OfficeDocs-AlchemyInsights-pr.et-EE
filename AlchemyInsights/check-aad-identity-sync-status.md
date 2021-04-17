@@ -1,8 +1,8 @@
 ---
-title: AAD identiteedi sünkroonimise oleku kontrollimine
+title: AAD-identiteedi sünkroonimise oleku kontrollimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,22 +14,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793898"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817852"
 ---
-# <a name="check-aad-identity-sync-status"></a>AAD identiteedi sünkroonimise oleku kontrollimine
+# <a name="check-aad-identity-sync-status"></a>AAD-identiteedi sünkroonimise oleku kontrollimine
 
-Sünkroonimise oleku kontrollimine on lihtne.
+Sünkroonimisoleku kontrollimine on lihtne.
   
-- Logige sisse Microsoft 365 halduskeskus ja valige avalehel **Dirsynci olek** .
+- Logige sisse Microsoft 365 halduskeskusesse ja valige **avalehel DirSynci** olek.
 
-- Vaheldumisi saate minna kasutajate \> aktiivsetele kasutajatele ja lehel aktiivsed kasutajad valida veel \> kataloogi sünkroonimise.
+- Teise võimalusena saate minna lehele Aktiivsed kasutajad ja valida lehel \> Aktiivsed kasutajad valiku Veel \> kataloogisünkroonimist.
 
-- Klõpsake paanil kataloogi sünkroonimine nuppu Ava Dirsynci haldus.
+- Valige paanil Kataloogisünkroonimine käsk Mine DirSynci haldusse.
 
-Kui teie kataloogi sünkroonimisega on probleeme, kuvatakse sellel lehel olevad tõrked. Lisateavet erinevate tõrgete kohta, mida võib esineda, leiate teemast [kataloogi sünkroonimise tõrgete kuvamine](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Kui kataloogisünkroonimisega on probleeme, kuvatakse tõrked sellel lehel. Lisateavet erinevate tõrgete kohta, mis võivad ilmneda, leiate teemast [Kataloogisünkroonimise tõrgete vaatamiseks](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

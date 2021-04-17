@@ -2,31 +2,32 @@
 title: Märkmiku eksportimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000739"
 - "4709"
-ms.openlocfilehash: 16dc0db4b871426d18fca4341f7ea8e97c5e1f87
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.openlocfilehash: 51153353a62ea4643b24cb369e2727b707a80ce5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "44282699"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813396"
 ---
 # <a name="export-a-notebook"></a>Märkmiku eksportimine
 
-Rakenduses OneNote 2016 Desktop app:
+Tehke OneNote 2016 töölauarakenduses järgmist:
 
-1. Klõpsake lehel, mida soovite eksportida, **faili > eksport**.
-2. Klõpsake jaotises **ekspordi praegune**, mida soovite eksportida (lehekülg, jaotis või märkmik).
-3. Klõpsake **ekspordi**.
+1. Valige eksporditaval lehel **File > Export**.
+2. Klõpsake **Ekspordi praegune** all seda, mida soovite eksportida (leht, jaotis või märkmik).
+3. Klõpsake nuppu **Ekspordi**.
  
-Pilve salvestatud faili omandiõiguse ülekandmiseks võite kasutada ka **osa** või **Teisalda/Kopeeri** Sektsioonifunktsioone, et siirduda sülearvutite sisu.  
+Pilvteenuses talletatava faili omanikuõiguse üleandmiseks saate kasutada ka **Ühiskasutust** või **Teisaldamise ja kopeerimise** funktsioone märkmike sisu migreerimiseks.  
 
-- Klõpsake või koputage rakenduseakna ülemises paremas nurgas valikut **ühiskasutus**.
-- Märkmiku teisaldamiseks vaadake teemat OneNote ' [i teisaldamine Windowsi märkmiku jaoks, mida olete teistega jaganud](https://support.office.com/article/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4?ui=en-US&rs=en-US&ad=US).
+- Klõpsake või puudutage rakenduseakna parempoolses ülanurgas nuppu **Ühiskasutus**.
+- Märkmiku teisaldamiseks lugege teemat [Ühiskasutusse antud Windowsi OneNote‘i märkmiku teisaldamine](https://support.office.com/article/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4?ui=en-US&rs=en-US&ad=US).
