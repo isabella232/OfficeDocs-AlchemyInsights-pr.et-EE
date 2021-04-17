@@ -1,8 +1,8 @@
 ---
-title: Office ' i automaatsete vastuste tõrkeotsing
+title: Kontorist väljas kontorist väljas automaatvastuste tõrkeotsing
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 3aa48fdc9c7b1ca227e32d229ce4ce2102944f58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664958"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832234"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="b6247-102">Office ' i automaatsete vastuste tõrkeotsing</span><span class="sxs-lookup"><span data-stu-id="b6247-102">Troubleshooting Out Of Office automatic replies</span></span>
+# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="d49a2-102">Kontorist väljas kontorist väljas automaatvastuste tõrkeotsing</span><span class="sxs-lookup"><span data-stu-id="d49a2-102">Troubleshooting Out Of Office automatic replies</span></span>
 
-<span data-ttu-id="b6247-103">Probleemide põhjuseks võib olla mitmesuguseid võimalikke põhjuseid, olenevalt sellest, kuidas olete Office ' i automaatsete vastuste häälestanud.</span><span class="sxs-lookup"><span data-stu-id="b6247-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
+<span data-ttu-id="d49a2-103">Sõltuvalt sellest, kuidas olete office'i kontorist väljas olevad automaatvastused konfigureerinud, võivad probleemide põhjuseks olla mitmesugused võimalikud põhjused.</span><span class="sxs-lookup"><span data-stu-id="d49a2-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
 
-<span data-ttu-id="b6247-104">Lisateavet selle kohta, kus probleem võib olla, lugege artiklit  [Office ' i (kontorist väljas) vastuste mõistmine ja tõrkeotsing](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span><span class="sxs-lookup"><span data-stu-id="b6247-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span></span>
+<span data-ttu-id="d49a2-104">Kui te ei tea, kus probleem võib olla, lugege lisateavet office'i kontorist väljas [(OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972) vastuste mõistmise ja tõrkeotsingu kohta.</span><span class="sxs-lookup"><span data-stu-id="d49a2-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span></span>
