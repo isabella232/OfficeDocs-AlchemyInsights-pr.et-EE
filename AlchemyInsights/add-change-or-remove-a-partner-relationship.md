@@ -1,8 +1,8 @@
 ---
-title: Partneri seose lisamine, muutmine või eemaldamine
+title: Partnerisuhte lisamine, muutmine või eemaldamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: d8e5f6860a7aa40889722bd8b437bd60c1e77645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688437"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822595"
 ---
-# <a name="add-change-or-remove-a-partner-relationship"></a>Partneri seose lisamine, muutmine või eemaldamine
+# <a name="add-change-or-remove-a-partner-relationship"></a>Partnerisuhte lisamine, muutmine või eemaldamine
 
-Administraatorina saate töötada partneriga Microsoft 365 tellimuste ostmiseks, aktiveerimiseks ja pikendamiseks. 
+Administraatorina saate teha koostööd partneriga, et osta, aktiveerida ja uuendada Microsoft 365 tellimusi. 
 
-- Kui soovite oma olemasolevat partnerite seost redigeerida, lugege teemat [tellimuse nõuanderühma lisamine, muutmine või kustutamine](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
+- Kui soovite olemasolevat partnerisuhet redigeerida, lugege teemat [Tellimuse nõuandva partneri lisamine,](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide)muutmine või kustutamine.
 
-- Kui soovite otsida Microsofti partnerit, lugege teemat [microsofti 365 partneri või edasimüüja otsimine](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+- Kui soovite leida Microsofti partnerit, lugege teemat [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)partneri või edasimüüja kauplus.
 
-Kui olete olemasolev Microsofti partner või soovite saada mõneks, lugege lisateavet Microsoft Partner [Center](https://support.microsoft.com/help/4499930/partner-center-overview) For Lisateavet selle kohta, kuidas saada abi [Microsoft Partner support](https://aka.ms/partnersupport).
+Kui olete olemasolev Microsofti partner või soovite saada üheks partneriks, lugege lisateavet Microsofti [partneritoe](https://support.microsoft.com/help/4499930/partner-center-overview) eeliste või abi saamiseks [Microsofti partnerikeskuse kaudu.](https://aka.ms/partnersupport)

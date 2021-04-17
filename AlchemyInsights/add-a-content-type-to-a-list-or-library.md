@@ -2,7 +2,7 @@
 title: Sisutüübi lisamine loendisse või teeki
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5791"
-ms.openlocfilehash: 2f3a4983ef43fd2157170c895da814a3d5294627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90dccd7afeb645ab07fc36f79ef18fd1710e7872
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697373"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822811"
 ---
 # <a name="add-a-content-type-to-a-list-or-library"></a>Sisutüübi lisamine loendisse või teeki
 
-1. Avage  [loendi või teegi sätted](https://support.microsoft.com/en-us/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f).
-2. Klõpsake jaotises  **sisutüübid**raadionuppu  **Lisa olemasoleva saidi sisutüüpide hulgast**. Kui  **sisutüüpe**  ei esine, valige  **Täpsemad sätted**.
-3. Valige loendist  **Vali Saidi sisutüübid**  .
-4. Valige loendis Saadaolevad Saidi sisutüübid soovitud sisutüübi nimi ja viige valitud sisutüüp loendisse lisatavate sisutüüpide hulka, valige Lisa.
-5. Korrake juhiseid täiendavate sisutüüpide jaoks.
+1. Avage [loendi või teegi sätted.](https://support.microsoft.com/en-us/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f)
+2. Valige **jaotises Sisutüübid** **nupp Lisa olemasolevatelt saidisisutüüpidelt.** Kui  **sisutüüpe**  ei kuvata, valige  **Täpsemad sätted**.
+3. Valige loendist  **Saidi sisutüüpide**  valimine.
+4. Valige loendist Saadaolevad saidisisutüübid soovitud sisutüübi nimi ja teisaldage valitud sisutüüp loendisse Lisa soovitud sisutüübid ja valige Lisa.
+5. Korrake juhiseid täiendavate sisutüüpide korral.
 
-Lisateavet leiate teemast  [sisutüübi lisamine loendisse või teeki](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60).
+Lisateavet leiate teemast [Sisutüübi lisamine loendisse või teeki.](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60)

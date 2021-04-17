@@ -2,7 +2,7 @@
 title: Kasutajakonto lisamine opsüsteemis Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: acb32edbda28669ce388c54dbe445523849d1da6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687538"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822307"
 ---
 # <a name="add-a-user-account-in-windows-10"></a>Kasutajakonto lisamine opsüsteemis Windows 10
 
-Konto lisamiseks opsüsteemis Windows 10 tehke järgmist.
+Konto lisamiseks opsüsteemis Windows 10 saate teha järgmist.
 
-1. Kui kasutate Windows 10 Enterprise ' i, siis valige **menüü "Start**  >  **Settings**  >  **Accounts**  >  (sätted)**&** " (kui kasutate rakendust Windows 10 Enterprise) > **Lisa keegi teine sellesse arvutisse** **Other people**
+1. Avage **Menüü Start** sätted kontopere & inimesed (või Muud inimesed , kui kasutate  >    >    >   Windows 10 Enterprise'i) > Lisage keegi **teine arvutisse.** 
 2. Microsofti konto või kohaliku konto lisamiseks järgige juhiseid.
 
 [Lisateave kontode häälestamise kohta](https://support.microsoft.com/help/17197/)

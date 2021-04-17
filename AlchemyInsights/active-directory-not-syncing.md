@@ -1,8 +1,8 @@
 ---
-title: Active Directory ei sünkroonita
+title: Active Directoryt ei sünkroonita
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697625"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822847"
 ---
-# <a name="active-directory-not-syncing"></a>Active Directory ei sünkroonita
+# <a name="active-directory-not-syncing"></a>Active Directoryt ei sünkroonita
 
-Kui teile kuvatakse sünkroonimise tõrked (nt "hiljutine sünkroonimine") või teade kataloogi sünkroonimise olekust Office ' i administraatori portaalis ütleb: "viimati sünkroonitud rohkem kui 3 päeva tagasi", võib juhtuda, et Aadconnecti on valed sätted või sünkroonimiseks pole piisavalt õigust.  
+Kui saate sünkroonimistõrkeid (nt "viimatist sünkroonimist pole" või märkate, et Office'i haldusportaalis on kataloogisünkroonimise olek järgmine: "Viimati sünkroonitud rohkem kui 3 päeva tagasi", võib olla see, et AADConnectil on valed sätted või sünkroonimiseks pole piisavalt õigusi.  
 
-Aadconnecti uuesti installimine, kasutades otseseid sätteid, võib probleemi kiiresti lahendada.
+AADConnecti uuesti installimine kiirsätete abil võib probleemi kiiresti lahendada.
 
-1. [Laadige alla aadconnecti uusim versioon](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Laadige alla AADConnecti uusim versioon.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Järgige installimise juhiseid](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Järgige kiirinstalli juhiseid.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Lisateavet Aadconnecti kohta leiate teemast [AZURE ad Connect: Accounts ja permissions (kontod ja load](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)).
+Lisateavet AADConnecti teenusekontode kohta leiate teemast [Azure AD Connect: Accounts and permissions ( Kontod ja õigused).](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)

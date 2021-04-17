@@ -1,8 +1,8 @@
 ---
-title: Administraatori ülevõtmine
+title: Administraatorite üleadmine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: 1fc7c7c3388420fb0ed93b9fad087cb3b8c95a0d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a5554a45b3b295500e34ea13016b4b07a844c8f4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707374"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821839"
 ---
 # <a name="become-an-admin"></a>Administraatoriks saamine
 
-Kui soovite selle asutuse administraatori rolli endale võtta, peate selle üle võtma. Üksikasjalikud juhised leiate käesoleva juhendi juhendist: [Kuidas teha IT-administraatori ülevõtmine koos O365](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)
+Selle organisatsiooni administraatorirolli eeldamiseks peate selle üle võtma. Üksikasjalike juhiste saamiseks järgige selles juhendis toodud juhiseid: [IT-administraatori üleliidmise tegemiseks O365-ga](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)
