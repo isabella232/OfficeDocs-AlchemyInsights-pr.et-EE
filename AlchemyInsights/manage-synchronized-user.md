@@ -2,7 +2,7 @@
 title: Sünkroonitud kasutaja haldamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451396"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823963"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a><span data-ttu-id="124b8-102">Ei saa määrata esmast meiliaadressi, muuta kasutajate atribuute või eemaldada/kustutada sünkroonitud kasutajat</span><span class="sxs-lookup"><span data-stu-id="124b8-102">Unable to set primary email address, change user attributes, or remove/delete a synchronized user</span></span>
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a><span data-ttu-id="73752-102">Ei saa määrata põhimeiliaadressi, muuta kasutaja atribuute ega eemaldada/kustutada sünkroonitud kasutajat</span><span class="sxs-lookup"><span data-stu-id="73752-102">Unable to set primary email address, change user attributes, or remove/delete a synchronized user</span></span>
 
-<span data-ttu-id="124b8-103">Kui teie keskkonna jaoks on lubatud kataloogi sünkroonimine, siis ei saa mõnda kasutaja või objekti atribuuti Microsoft 365 halduskeskus kasutades muuta.</span><span class="sxs-lookup"><span data-stu-id="124b8-103">If directory synchronization is enabled for your environment, some user or object attributes cannot be changed using the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="73752-103">Kui kataloogisünkroonimine on teie keskkonnas lubatud, ei saa microsoft 365 halduskeskuses mõnda kasutaja- või objektiatribuudi muuta.</span><span class="sxs-lookup"><span data-stu-id="73752-103">If directory synchronization is enabled for your environment, some user or object attributes cannot be changed using the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="124b8-104">Sünkroonitud kasutajate ja kõigi atribuutide täielikuks haldamiseks saate kasutada kohalikku Active Directory kasutajate ja rühmade halduskonsooli (ADSIEdit. msc).</span><span class="sxs-lookup"><span data-stu-id="124b8-104">To fully manage synchronized users and all their attributes, use your local active directory users and groups management console (adsiedit.msc).</span></span>  
+<span data-ttu-id="73752-104">Sünkroonitud kasutajate ja kõigi nende atribuutide täielikuks haldamiseks kasutage kohalikke active directory kasutajaid ja rühmade halduskonsooli (adsiedit.msc).</span><span class="sxs-lookup"><span data-stu-id="73752-104">To fully manage synchronized users and all their attributes, use your local active directory users and groups management console (adsiedit.msc).</span></span>  
 
-<span data-ttu-id="124b8-105">Teise võimalusena saate muuta üksikute kasutajate või atribuutide sünkroonitud kasutajatele PowerShelli abil, nagu on näidatud järgmistes levinud näidetes.</span><span class="sxs-lookup"><span data-stu-id="124b8-105">Alternatively, you can change individual users or attributes for synchronized users using powershell such as shown in these common examples:</span></span>
+<span data-ttu-id="73752-105">Teise võimalusena saate sünkroonitud kasutajate üksikuid kasutajaid või atribuute powerShelli abil muuta, nagu on näidatud nendes levinud näidetes.</span><span class="sxs-lookup"><span data-stu-id="73752-105">Alternatively, you can change individual users or attributes for synchronized users using powershell such as shown in these common examples:</span></span>
 
 `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 

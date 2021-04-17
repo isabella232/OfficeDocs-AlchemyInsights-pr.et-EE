@@ -1,8 +1,8 @@
 ---
-title: Office ' i aktiveerimine
+title: Office'i aktiveerimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: 86be2685a37744bf29ca4fb1221e57906b597368
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5e8b0c5cf948c1a903c178856dad0c524624e7d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698498"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823135"
 ---
-# <a name="activate-office"></a><span data-ttu-id="f65e8-102">Office ' i aktiveerimine</span><span class="sxs-lookup"><span data-stu-id="f65e8-102">Activate Office</span></span>
+# <a name="activate-office"></a><span data-ttu-id="f18d6-102">Office'i aktiveerimine</span><span class="sxs-lookup"><span data-stu-id="f18d6-102">Activate Office</span></span>
 
-<span data-ttu-id="f65e8-103">Office ' i aktiveerimiseks logige sisse oma töö-või kooli konto kaudu.</span><span class="sxs-lookup"><span data-stu-id="f65e8-103">You can activate Office by signing in using your work or school account.</span></span> <span data-ttu-id="f65e8-104">Office ' i aktiveerimiseks kasutage selle artikli juhiseid: [Office ' i aktiveerimine](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span><span class="sxs-lookup"><span data-stu-id="f65e8-104">Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
+<span data-ttu-id="f18d6-103">Office'i aktiveerimiseks saate sisse logida oma töö- või koolikontoga.</span><span class="sxs-lookup"><span data-stu-id="f18d6-103">You can activate Office by signing in using your work or school account.</span></span> <span data-ttu-id="f18d6-104">Office'i aktiveerimiseks järgige selles artiklis toodud [juhiseid. Office'i aktiveerimine.](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)</span><span class="sxs-lookup"><span data-stu-id="f18d6-104">Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
   

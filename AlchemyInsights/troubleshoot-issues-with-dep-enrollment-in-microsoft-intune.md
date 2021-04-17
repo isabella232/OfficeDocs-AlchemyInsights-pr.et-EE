@@ -1,8 +1,8 @@
 ---
-title: DEP registreerimisega seotud probleemide tõrkeotsing Microsoft Intune ' is
+title: Microsoft Intune'is DEP-ga liitumise probleemide tõrkeotsing
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,21 +13,21 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: f76e47c2a3007175ae1bfbd9d20cb59513eb713b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 27abeafba5588ca74569ba6bebc5d940b767ea3f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708706"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824503"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a><span data-ttu-id="a6993-102">DEP registreerimisega seotud probleemide tõrkeotsing Microsoft Intune ' is</span><span class="sxs-lookup"><span data-stu-id="a6993-102">Troubleshoot issues with DEP enrollment in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a><span data-ttu-id="d5285-102">Microsoft Intune'is DEP-ga liitumise probleemide tõrkeotsing</span><span class="sxs-lookup"><span data-stu-id="d5285-102">Troubleshoot issues with DEP enrollment in Microsoft Intune</span></span>
 
-<span data-ttu-id="a6993-103">Probleemi lahendamiseks vaadake allpool loetletud ressursid üle.</span><span class="sxs-lookup"><span data-stu-id="a6993-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="d5285-103">Vaadake allpool loetletud ressursid üle, et probleem kohe lahendada.</span><span class="sxs-lookup"><span data-stu-id="d5285-103">Review the resources listed below to resolve your issue now.</span></span>
   
-1. <span data-ttu-id="a6993-104">Kui DEP-seade ei saa registreeruda ja MFA (mitme teguri autentimine) on lubatud, siis keelake MFA.</span><span class="sxs-lookup"><span data-stu-id="a6993-104">If DEP device is unable to enroll and MFA (Multi-Factor Authentication) is enabled, please disable MFA.</span></span> <span data-ttu-id="a6993-105">Praegu ei toetata MFA registreerimine DEP-sse</span><span class="sxs-lookup"><span data-stu-id="a6993-105">Currently MFA is not supported for DEP enrollment</span></span>
+1. <span data-ttu-id="d5285-104">Kui DEP-seade ei saa registreeruda ja MFA (mitmikautentimine) on lubatud, keelake MFA.</span><span class="sxs-lookup"><span data-stu-id="d5285-104">If DEP device is unable to enroll and MFA (Multi-Factor Authentication) is enabled, please disable MFA.</span></span> <span data-ttu-id="d5285-105">Dep-registreerimine ei toeta praegu MFA-d</span><span class="sxs-lookup"><span data-stu-id="d5285-105">Currently MFA is not supported for DEP enrollment</span></span>
 
-2. <span data-ttu-id="a6993-106">Saate kasutada [Intune tõrkeotsingu portaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) levinud liitumise tõrgete diagnoosimiseks ja lahendamiseks.</span><span class="sxs-lookup"><span data-stu-id="a6993-106">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="a6993-107">Lisateabe saamiseks vaadake [seda dokumenti](https://docs.microsoft.com/intune/help-desk-operators) üle.</span><span class="sxs-lookup"><span data-stu-id="a6993-107">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+2. <span data-ttu-id="d5285-106">[Intune'i tõrkeotsinguportaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) abil saate diagnoosida ja lahendada levinumaid registreerimistõrkeid.</span><span class="sxs-lookup"><span data-stu-id="d5285-106">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="d5285-107">Lisateavet [leiate sellest](https://docs.microsoft.com/intune/help-desk-operators) dokumendist.</span><span class="sxs-lookup"><span data-stu-id="d5285-107">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
 
-3. <span data-ttu-id="a6993-108">Vaadake need dokumendid üle nende levinud tõrgete loendiga, mis takistavad registreerimist ja eraldusvõimet, ning [tõrkeotsingu juhend](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ja [tõrkeotsingu dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)</span><span class="sxs-lookup"><span data-stu-id="a6993-108">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)</span></span>
+3. <span data-ttu-id="d5285-108">Vaadake need dokumendid üle, et saada ülevaade levinumatest vigadest, mis takistavad registreerimist ja lahendamist: tõrkeotsingu [juhend ja](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) [tõrkeotsingu dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)</span><span class="sxs-lookup"><span data-stu-id="d5285-108">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)</span></span>
 
-4. <span data-ttu-id="a6993-109">[Lugege lisateavet seadme registreerimise programmi kohta](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).</span><span class="sxs-lookup"><span data-stu-id="a6993-109">[Learn about device enrollment program](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).</span></span>
+4. <span data-ttu-id="d5285-109">[Lisateave seadme registreerimise programmi kohta.](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios)</span><span class="sxs-lookup"><span data-stu-id="d5285-109">[Learn about device enrollment program](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).</span></span>
