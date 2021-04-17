@@ -2,7 +2,7 @@
 title: Microsoft 365 rühma domeeni muutmine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 1aa95feda8d776477ece0e5128b9e7a5c7569c0b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756639"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819112"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a><span data-ttu-id="6a11f-102">Microsoft 365 rühma domeeni muutmine</span><span class="sxs-lookup"><span data-stu-id="6a11f-102">Change the domain for Microsoft 365 Group</span></span>
+# <a name="change-the-domain-for-microsoft-365-group"></a><span data-ttu-id="76abb-102">Microsoft 365 rühma domeeni muutmine</span><span class="sxs-lookup"><span data-stu-id="76abb-102">Change the domain for Microsoft 365 Group</span></span>
 
-<span data-ttu-id="6a11f-103">Kui soovite loomise ajal Microsoft 365 rühma domeeni muuta, järgige juhiseid [microsoft 365 rühmade loomisel kasutatava domeeni valimiseks](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).</span><span class="sxs-lookup"><span data-stu-id="6a11f-103">If you want to change the domain for a Microsoft 365 Group during creation, follow the steps in [Choose the domain to use when creating Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).</span></span>
+<span data-ttu-id="76abb-103">Kui soovite loomise ajal muuta Microsoft 365 rühma domeeni, järgige juhiseid jaotises Valige domeen, mida [kasutada Microsoft 365 rühmade loomisel.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)</span><span class="sxs-lookup"><span data-stu-id="76abb-103">If you want to change the domain for a Microsoft 365 Group during creation, follow the steps in [Choose the domain to use when creating Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).</span></span>
   
-<span data-ttu-id="6a11f-104">Pärast seda, kui Microsoft 365 rühm on juba loodud, pole praegu enam võimalik domeeni muuta.</span><span class="sxs-lookup"><span data-stu-id="6a11f-104">After the Microsoft 365 Group is already created, there is currently no way to change the domain.</span></span> <span data-ttu-id="6a11f-105">Ainus võimalus on luua uus Microsoft 365 rühm ja kustutada vana vajadusel (täiendavaid meiliaadresse saab lisada [Exchange ' i administreerimiskeskuse](https://outlook.office365.com/ecp.aspx)kaudu).</span><span class="sxs-lookup"><span data-stu-id="6a11f-105">The only way is to create a new Microsoft 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).</span></span>
+<span data-ttu-id="76abb-104">Kui Microsoft 365 rühm on juba loodud, pole praegu võimalik domeeni muuta.</span><span class="sxs-lookup"><span data-stu-id="76abb-104">After the Microsoft 365 Group is already created, there is currently no way to change the domain.</span></span> <span data-ttu-id="76abb-105">Ainus võimalus on luua uus Microsoft 365 rühm ja vajaduse korral kustutada vana (exchange'i halduskeskuse kaudu saab lisada [täiendavaid meiliaadresse).](https://outlook.office365.com/ecp.aspx)</span><span class="sxs-lookup"><span data-stu-id="76abb-105">The only way is to create a new Microsoft 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).</span></span>
