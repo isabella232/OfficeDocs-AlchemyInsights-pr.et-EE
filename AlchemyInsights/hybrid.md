@@ -1,8 +1,8 @@
 ---
-title: hübriidjuurutuse
+title: hübriid
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: e89485096fdf0eb4f2b116d367616efe9e854a55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 549a165914bb8fd89c05f0b41d4b0f1e5c0f59d1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778975"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825619"
 ---
 # <a name="hybrid-mdm"></a>Hübriid-MDM
 
-Lisateavet Microsoft Endpoint Configuration Manageri ja Microsoft Intune ' i hübriid-MDM-i kohta leiate teemast [hübriid-MDM-i konfigureerimine Configuration Manageri ja Microsoft Intune ' iga](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)
+Lisateavet hübriid-MDM-i kohta Microsoft Endpoint Configuration Manageri ja Microsoft Intune'iga leiate teemast [Hübriid-MDM-i seadistamine Configuration Manageri ja Microsoft Intune'iga.](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)

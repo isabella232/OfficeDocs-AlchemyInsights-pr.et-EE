@@ -1,8 +1,8 @@
 ---
-title: Windows 10 Home versioonile Windows 10 Pro üleminek
+title: Windows 10 Home'i täiendamine versiooniks Windows 10 Pro
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 86181f0c14cf9ad20f5da7d22238af2974cf5d06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811648"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827284"
 ---
-# <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Üleminek kas tootevõtme või digitaalse litsentsi abil
+# <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Versioonitäiendus tootevõtme või digitaallitsentsi abil
 
 **Üleminek versioonile Windows 10 Pro tootevõtme abil**
 
-1. Valige **Start**  >  **Settings**  >  **Update & turvalisuse**  >  **aktiveerimine**.
-2. Valige **Muuda tootevõtit**ja sisestage siis 25-kohaline Windows 10 Pro tootevõti.
-3. Versioonile Windows 10 Pro ülemineku alustamiseks klõpsake nuppu **edasi** .
+1. Valige **Start**  >  **Settings**  >  **Update (& turbeaktiveerimine).**  >  
+2. Valige **Muuda tootevõtit** ja seejärel sisestage 25-märgiline Windows 10 Pro tootevõti.
+3. Windows **10** Pro versioonitäienduse alustamiseks valige Edasi.
 
-**Üleminek versioonile Windows 10 Pro digitaalse litsentsi abil**
+**Üleminek versioonile Windows 10 Pro digitaallitsentsi abil**
 
-Kui olete Windows 10 Pro oma seadmesse juba installinud ja aktiveerinud, on teil digitaalne litsents, mille abil saate Windows 10 Home ' ist üle minna versioonile Windows 10 Pro, mis ei sisalda tootevõtit.
+Kui olete windows 10 Pro oma seadmesse juba installinud ja aktiveerinud, on teil digitaallitsents, mis võimaldab teil minna üle versioonilt Windows 10 Home versioonile Windows 10 Pro ilma tootevõtmeta.
 
-Valige **Start**  >  **Settings**  >  **Update & turvalisuse**  >  **aktiveerimine**.
+Valige **Start**  >  **Settings**  >  **Update (& turbeaktiveerimine).**  >  
 
-- Kui teil on Windows 10 Pro jaoks digitaalne litsents ja Windows 10 Home on teie seadmes aktiveeritud, valige **Mine Microsofti poodi** ja teil palutakse tasuta üle minna versioonile Windows 10 Pro.
-- Kui teil on Windows 10 Pro jaoks digitaalne litsents ja Windows 10 Home pole teie seadmes aktiveeritud, valige **tõrkeotsing**ja seejärel järgige juhiseid Windows 10 Pro-le üleminekuks.
+- Kui teil on Windows 10 Pro digitaallitsents ja teie seadmes on praegu aktiveeritud Windows 10 Home, valige **Ava Microsoft Store** ja teil palutakse tasuta kasutusele võtta Windows 10 Pro.
+- Kui teil on Windows 10 Pro digitaallitsents ja teie seadmes pole Windows 10 Home aktiveeritud, valige **Tõrkeotsing** ja seejärel järgige windows 10 Pro versioonile üle minna.
 
 [Lisateave Windows 10 aktiveerimise kohta](https://support.microsoft.com/help/12440)

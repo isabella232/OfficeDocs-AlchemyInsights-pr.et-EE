@@ -1,8 +1,8 @@
 ---
-title: DNS-i kirjete värskendamine veebisaidil cloudflare
+title: DNS-i kirjete värskendamine Cloudflare'is
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5807"
-ms.openlocfilehash: 2faa5c37b57e4c49da2cdd212e1bebba76276eb1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db97091ebad06bab69900d33c6af269bcb350b25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657677"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827608"
 ---
-# <a name="update-dns-records-at-cloudflare"></a>DNS-i kirjete värskendamine veebisaidil cloudflare
+# <a name="update-dns-records-at-cloudflare"></a>DNS-i kirjete värskendamine Cloudflare'is
 
-Kasutage allolevaid linke, et aidata värskendada oma DNS-i kirjeid.
+Kasutage oma DNS-i kirjete värskendamiseks alltoodud linke.
 
-- [DNS-i kirjete loomine veebisaidil cloudflare](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
-- [Office 365 kohandatud DNS-i kirjete lisamine või redigeerimine](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [DNS-i kirjete loomine Cloudflare'is](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
+- [Kohandatud DNS-i kirjete lisamine või redigeerimine teenusekomplektis Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

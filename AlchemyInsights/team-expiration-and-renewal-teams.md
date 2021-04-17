@@ -1,8 +1,8 @@
 ---
-title: Microsoft teamsi aegumine ja pikendamine
+title: Töörühmade aegumine ja pikendamine Microsoft Teamsis
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6666"
 - "9003760"
-ms.openlocfilehash: 4514f06282f33a5dc360c2214cedf714633b34f0
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 8b82ef216903502e589c6b01cd7fe946e84cd54c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364609"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827896"
 ---
-# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Microsoft teamsi aegumine ja pikendamine
+# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Töörühmade aegumine ja pikendamine Microsoft Teamsis
 
-Töörühma aegumine ja pikendamine Microsoft Teamsi abil aitab hallata kasutamata rühmi. Administraatorina saate kasutada rakendust  [Microsoft 365 Group aegumise poliitika](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  , et puhastada kasutamata meeskonnad automaatselt. Kuna meeskonnad on rühmadega tagatud, rakenduvad rühma aegumise poliitikad automaatselt ka võistkondadele.
+Meeskonna aegumine ja pikendamine Microsoft Teamsis aitab hallata kasutamata meeskondi. Administraatorina saate kasutamata töörühmade automaatseks puhastamiseks kasutada  [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  rühma aegumispoliitikat. Kuna töörühmad on rühmade toestatud, rakenduvad rühma aegumispoliitikad automaatselt ka töörühmadele.
 
-Juhusliku kustutamise vältimiseks lubatakse automaatne pikendamine rühmale aegumise poliitika meeskonnas automaatselt. Kui rühma aegumise poliitika on seadistatud, pikendatakse iga töörühma, millel on vähemalt ühe kanali külastus enne aegumiskuupäeva, automaatselt ilma meeskonna omaniku käsitsi sekkumiseta.  
+Juhusliku kustutamise vältimiseks lubatakse rühma aegumispoliitikas automaatselt meeskonna automaatne pikendamine. Kui rühma aegumispoliitika on häälestatud, pikendatakse automaatselt mis tahes töörühma liiget, kes külastab vähemalt ühte kanalit enne selle aegumiskuupäeva ilma meeskonna omaniku käsitsi sekkumiseta.  
 
-Lisateavet leiate teemast  [töörühma aegumine ja pikendamine Microsoft teamsi](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .
+Lisateavet [leiate teemast Töörühma aegumine ja pikendamine Microsoft Teamsis.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)

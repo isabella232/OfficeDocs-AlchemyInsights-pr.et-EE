@@ -1,8 +1,8 @@
 ---
-title: Teenuse katkestuse tõttu krediidi taotlus
+title: Krediiditaotlus teenusekatkestuse tõttu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726843"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826447"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>Teenuse katkestuse tõttu krediidi taotlus
+# <a name="credit-request-due-to-a-service-outage"></a>Krediiditaotlus teenusekatkestuse tõttu
 
-Teenuse katkestuse tõttu krediidi taotluse taotlemiseks avage teenuse taotlus.
+Teenusekatkestuse tõttu krediiditaotluse avamiseks avage teenusetaotlus.
 
-Veenduge, et teil on selle sündmuse ID, mis on leitud Microsoft 365 halduskeskus [lehelt teenuse tervis](https://docs.microsoft.com/office365/enterprise/view-service-health) .
+Veenduge, et microsoft 365 halduskeskuse teenuse seisundi lehel on leitud juhtumi ID. [](https://docs.microsoft.com/office365/enterprise/view-service-health)
 
-Palun pange tähele, et kui teie taotlust töödeldakse, tehakse selle kohta avaldused, et jälgida katkestuse mõju.
+Võtke arvesse, et teie taotluse töötlemisel tehakse selle kohta valideerimine, et jälgida selle mõju.

@@ -1,8 +1,8 @@
 ---
-title: Üleminek Skype ' i ärirakenduses tööruumidele
+title: Üleminek Skype'i ärirakenduselt kohapeal teamsiks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734763"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827356"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Üleminek Skype ' i ärirakenduses tööruumidele
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Üleminek Skype'i ärirakenduselt kohapeal teamsiks
 
-Kui olete juurutanud Skype ' i ärirakenduse või Microsoft Lynci kohapeal ja teie ettevõte soovib meeskondadele üle minna, järgige allolevas artiklis toodud juhiseid. Peate häälestama oma rentniku jaoks hübriid-ühenduvuse ja seejärel teisaldama kasutajad meeskonda ning määrama neile asjakohase kooseksisteerimise ja täiendusversiooni. 
+Kui olete juurutanud Skype'i ärirakenduse või Microsoft Lynci kohapeal ja teie ettevõte soovib üle minna Teamsi versioonile, järgige allolevas artiklis toodud juhiseid. Peate oma rentnikuga häälestama hübriidühenduse ja seejärel teisaldama kasutajad Teamsi ning määrama neile sobiva kooseksisteerimise ja versioonitäienduse režiimi. 
 
-[Üleminek Skype ' i ärirakenduse tööruumide meeskonnale](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Üleminek Skype'i ärirakenduselt asutusesiseselt Teamsi versioonile](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

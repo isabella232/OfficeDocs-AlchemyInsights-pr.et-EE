@@ -2,7 +2,7 @@
 title: Word – rakendus hangub, jookseb kokku või ei käivitu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 2105984bd6a9b04762e7e9153120c8c394c0b599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6eb8f22931c8ca0518a6f5e6219904eea01f0328
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698822"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825871"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word jookseb kokku või ei vasta
 
-Sagedased krahhid Wordis võib põhjustada vigane lisandmoodul. Wordi lisandmoodulite keelamiseks järgige järgmisi juhiseid.
+Wordis võib sagedaste krahhide põhjuseks olla vigane lisandmoodul. Wordi lisandmoodulite keelamiseks tehke järgmist.
 
-1. Avage suvand " **failitüübid**"  >  **Options**  >  **lisandmoodulid**.
-2. Valige loendis **Halda** väärtus **com-** lisandmoodulid ja seejärel valige **Ava**.
-3. Tühjendage dialoogiboksis **Saadaolevad** lisandmoodulid ruut selle lisandmooduli kõrval, mille soovite keelata, ja klõpsake **nuppu OK**.
+1. Avage   >  **Failisuvandite**  >  **lisandmoodulid**.
+2. Valige **loendis Halda** **väärtus COM-lisandmoodulid** ja seejärel valige **Mine**.
+3. Tühjendage **väljal Saadaolevad** lisandmoodulid ruut selle lisandmooduli kõrval, mille soovite keelata, ja valige **OK**.
 
-Kui Word ei käivitu, proovige teha järgmist.
+Kui Word ei käivitu, proovige järgmist.
 
-1.   Windowsi töölaual sulgege Outlook ja vajutage Tegumihalduri avamiseks klahvikombinatsiooni CTRL + ALT + DEL. 
-2. Valige vahekaardil **protsessid** , kui Word töötleb, valige need ja klõpsake nuppu **Lõpeta tegum**. Samuti soovitame uuesti arvuti tühjendada, et tühjendada kõik mälust.
+1.   Sulgege Windowsi töölauarakenduses Outlook ja vajutage tegumihalduri avamiseks klahvikombinatsiooni CTRL+ALT+DEL. 
+2. Kui Wordi **protsessid** töötavad, valige vahekaardil Protsessid need ja valige **Lõpeta tööülesanne.** Samuti on soovitatav kõik mälust tühjendamiseks taaskäivitada.
 
-    Kui Word jätkab krahhi või hangumise ajal hangumise ajal, lugege teemat [Microsoft 365 rakenduste avamine turvarežiimis Windowsi arvutis](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) selle käivitamiseks turvarežiimis.
+    Kui Word jookseb käivitamise ajal kokku või hangub, lugege teemat [Microsoft 365](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) rakenduste avamine turvarežiimis Windowsi arvutis, et käivitada see turvarežiimis.
 
 Kui teil on endiselt probleeme, lugege järgmisi artikleid. 
-- [Minu ARVUTIS Office ' i rakenduste käivitamisel kuvatakse tõrketeade "lakanud töötamast"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Word for Windowsi hiljutiste probleemide parandused või ajutised lahendused](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
+- [Office'i rakenduste käivitamisel arvutis kuvatakse tõrketeade "lõpetas töötamise".](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Rakenduse Word for Windows hiljutiste probleemide parandused või lahendused](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
