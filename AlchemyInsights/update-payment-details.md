@@ -2,21 +2,22 @@
 title: Krediitkaarditeabe uuendamine
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720061"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830317"
 ---
 # <a name="update-credit-card-information"></a>Krediitkaarditeabe uuendamine
 
@@ -40,4 +41,4 @@ ms.locfileid: "43720061"
 
 Kui lehe laadimisega on probleeme, proovige avada veebileht mõne teise brauseriga või privaatses brauseriaknas (nt Microsoft Edge’i InPrivate-aknas või Google Chrome’i inkognito-aknas). 
 
-Lisateavet leiate artiklitest [Krediitkaardi või pangakonto lisamine, värskendamine või eemaldamine Microsoft 365 ettevõtteversioonis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ning [Krediitkaartide ja pangakontode tõrkeotsing](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Lisateavet leiate teemast [Makseviiside haldamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

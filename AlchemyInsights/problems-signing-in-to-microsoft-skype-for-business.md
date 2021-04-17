@@ -1,8 +1,8 @@
 ---
-title: Microsofti Skype ' i ärirakendusse sisselogimisega seotud probleemid
+title: Probleemid Microsofti Skype'i ärirakendusse sisselogimisega
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,14 +13,14 @@ ms.custom:
 - "406"
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
-ms.openlocfilehash: be6b6df663ab96d7c01754529ffe26404d49e280
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5720214e1d067fc9a2c2e6227955e715e2356f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797976"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831406"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Microsofti Skype ' i ärirakendusse sisselogimisega seotud probleemid
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Probleemid Microsofti Skype'i ärirakendusse sisselogimisega
 
-Laadige alla ja kasutage [kasutajatoe (SaRA) tuge ja](https://aka.ms/SaRA-SkypeForBusinessSignIn)abi.
-See tööriist aitab teil automaatselt diagnoosida ja lahendada mitmeid teadaolevaid probleeme, mis on seotud Skype ' i ärirakendusse sisselogimisega.
+Laadige alla ja kasutage [tugi- ja taasteteenuste abilist (SaRA).](https://aka.ms/SaRA-SkypeForBusinessSignIn)
+See tööriist aitab teil automaatselt diagnoosida ja lahendada skype'i ärirakendusse sisselogimisega seotud teadaolevaid probleeme.

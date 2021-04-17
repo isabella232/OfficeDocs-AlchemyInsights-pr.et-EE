@@ -1,8 +1,8 @@
 ---
-title: Paberi mõlemale poolele printimine
+title: Printimine paberi mõlemale poolele
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801873"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831478"
 ---
-# <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Paberi mõlemale poolele printimine (kahepoolne print)
+# <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Printimine paberi mõlemale poolele (kahepoolselt printimine)
 
-**Kas minu printer suudab kahepoolset printimist?**
+**Kas minu printer on võimeline kahepoolseks printimiseks?**
 
-Teie printeri funktsioonide kokkuvõte või juhend peaks teile ütlema, kas see on võimeline printima paberi mõlemale poolele, mida nimetatakse ka "kahepoolseks printimiseks". Kui teil on Microsoft Office, siis on teine võimalus teada saada, avades Office ' i rakenduse (nt Word või Excel), et avada **> printimine**, veenduge, et valitud on õige printer, ja otsib võimalusi jaotises sätted. Näiteks. 
+Printeri funktsiooni kokkuvõte või juhend peaks teile ütlema, kas see on võimeline printima paberi mõlemale poolele ehk kahepoolseks printimiseks. Kui teil on Microsoft Office, on teine võimalus teada saada, kui avate Mõne Office'i rakenduse (nt Wordi või Exceli), valige **Fail > Prindi**, veenduge, et õige printer on valitud ja otsite jaotisest Sätted soovitud võimalust. Näide. 
 
 ![Printeri sätted](media/print-settings.png)
 
-**Kahepoolne printimine Microsoft Office ' is**
+**Kahepoolne printimine Microsoft Office'is**
 
-Kui teie printer on võimeline printima mõlemale küljele, kui avate Office ' i rakenduses **> Prindi** , kuvatakse teile suvand "mõlemale poolele printimine", nagu on näidatud Ülaltoodud näites.  Valige soovitud kahepoolse printimise tüüp (pöörake pikale servale või pöörake lühikesele servale) ja klõpsake Prindi alustamiseks nuppu **Prindi** .
+Kui teie printer suudab printida mõlemale poolele, kuvatakse **Office'i rakenduses menüü Fail >** Printimine valimisel suvand "Mõlemale küljele printimine", nagu on näidatud ülaltoodud näites.  Valige soovitud kahepoolse printimise tüüp (pöörake pikale servale või pöörake ümber lühikesele servale) ja **klõpsake väljaprinti** käivitamiseks nuppu Prindi.
 
 **Kahepoolne printimine mis tahes rakendusest**
 
-Paljudes rakendustes kuvatakse printimisel üldprindi dialoogiboks, mis näeb välja umbes järgmine: 
+Paljudes printimisel kuvatavates rakendustes kuvatakse üldine printimisdialoog, mis näeb välja selline: 
 
-![Dialoogiboks printimine](media/print-dialog.png)
+![Dialoogiboks Printimine](media/print-dialog.png)
 
-Veenduge, et valitud on õige printer, ja seejärel klõpsake akna printeri eelistused avamiseks nuppu **eelistused** . Kui printer suudab teha kahepoolset printimist, kuvatakse selles aknas võimalus selle praeguse prinditöö jaoks lubada.
+Veenduge, et valitud oleks õige printer, ja seejärel **klõpsake** printeri eelistuste akna avamiseks nuppu Eelistused. Kui printer on võimeline kahepoolseks printimiseks, kuvatakse selles aknas võimalus see praeguse prinditöö jaoks lubada.

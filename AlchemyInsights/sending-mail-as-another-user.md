@@ -1,8 +1,8 @@
 ---
-title: Meili saatmine teise kasutajana
+title: Meilisõnumite saatmine teise kasutajana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: 8bc35426bd1b65ba40fb6dc124df2a5f8bfb6679
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: c52e63c3d8a26a6aa26be0d06e3d19e74c1d2c91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50075821"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830614"
 ---
-# <a name="sending-mail-as-another-user"></a>Meili saatmine teise kasutajana
+# <a name="sending-mail-as-another-user"></a>Meilisõnumite saatmine teise kasutajana
 
-Enne kui *user1* saab saata meilisõnumeid *User2*, tuleb *user1* anda *User2* postkastile. Lisateavet selle tegemise kohta leiate teemast (postkastile teise kasutaja jaoks loa andmine) [ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
+Enne, *kui User1* saab saata meilisõnumeid  *kasutajana Kasutaja2,* tuleb kasutajale *user2 postkastile* anda õigused. Lisateavet selle kohta leiate teemast (Postkastiõiguste andmine teisele kasutajale)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
 
-Pärast seda, kui on antud luba (see võib võtta aega umbes 30 minutit) – *user1* saab saata *User2* , järgides teise isiku nimel meilisõnumi loomisel või sellele vastamisel kirjeldatud juhiseid.
+Pärast õiguste andmist (see võib võtta umbes 30 minutit) – *Kasutaja1* saab saata *kasutajana2,* järgides artiklis Meilisõnumi loomine või sellele vastamine teise isiku nimel kirjeldatud juhiseid.

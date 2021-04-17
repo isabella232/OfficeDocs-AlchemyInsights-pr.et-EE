@@ -2,7 +2,7 @@
 title: Postkasti mahu suurendamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +13,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: fb5662363a385e2fbbae852df77d80b6317698fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756170"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830209"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Tellimuste vahetamine postkasti mahu suurendamiseks
 
-Kui teie postkasti maht on juba 100 GB, ei saa seda enam suurendada.
+Kui teie postkasti maht on juba 100 GB, ei saa seda suurendada.
   
-Kui postkasti maht on 50 GB, saate selle suurendada 100 GB-ni, kui aktiveerite [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) või [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Siit leiate juhised mõne muu tellimuse aktiveerimiseks.
+Kui postkasti maht on 50 GB, saate seda suurendada 100 GB-ni, aktiveerides [teenusekomplekti Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) või [Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Muu tellimuse aktiveerimiseks tehke järgmist.
   
-1. Avage Microsoft 365 halduskeskus leht **Arveldamine** \> **[oma toodetega](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Avage Microsoft 365 halduskeskuses leht **Toodete** \> **[arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Valige tellimus, mida soovite täiendada.
+2. Valige tellimus, mille soovite täiendada.
 
-3. Valige lehel Tellimuse üksikasjad nupp **Värskenda**.
+3. Valige tellimuse üksikasjade lehel **Versiooniuuendus**.
 
-4. Otsige üles leping, millele soovite üle minna, ja seejärel valige nupp **Värskenda** .
+4. Otsige üles leping, millele soovite üle minna, ja seejärel valige **nupp Täienda.**
 
-5. Sisestage vajalike litsentside arv, valige, kas soovite maksta iga kuu või kogu aasta eest, ja valige siis **Kassa**.
+5. Sisestage soovitud litsentside arv, valige, kas tasuda iga kuu või kogu aasta eest, seejärel valige **Väljaregistreerimine**.
 
-Lisateavet leiate teemast [üleminek mõnele muule plaanile](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+Lisateavet leiate teemast [Üleminek muule plaanile.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
 
-Kui teil on [tellimus, mis toetab](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)kohapealset arhiivi, saate saada ka täiendava meili salvestusruumi, lubades arhiivi postkasti. Arhiivi postkast võimaldab teil salvestusruumi lisada, kopeerida ja otsida nii alg-kui ka arhiivi postkastis olevaid sõnumeid. Juhised arhiivi postkasti lubamise kohta leiate teemast [arhiivi postkasti lubamine](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).
+Kui teil on [tellimus, mis toetab kohaarhiivi,](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)saate arhiivipostkasti lubamisega ka täiendavat meilisalvestusruumi. Arhiivipostkast annab teile täiendava salvestusruumi ning võimaldab teisaldada, kopeerida ja otsida sõnumeid nii esmasest kui ka arhiivipostkastist. Arhiivipostkasti lubamise juhised leiate teemast [Arhiivipostkasti lubamine.](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)

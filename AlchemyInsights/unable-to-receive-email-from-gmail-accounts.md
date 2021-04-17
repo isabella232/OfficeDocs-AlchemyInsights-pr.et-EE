@@ -1,8 +1,8 @@
 ---
-title: Gmaili kontolt ei saa meilisõnumeid vastu võtta
+title: Gmaili kontodelt ei saa meilisõnumeid vastu võtta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735447"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830389"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Gmaili kontolt ei saa meilisõnumeid vastu võtta
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Gmaili kontodelt ei saa meilisõnumeid vastu võtta
 
 **PROBLEEM**
 
-Oleme teadlikud, et mõnel kasutajal ei pruugi olla võimalik saada Gmaili kontolt meilisõnumeid. Uurime võimalikku probleemi.
+Oleme teadlikud, et mõnel kasutajal ei pruugi olla võimalik Gmaili kontodelt meilisõnumeid vastu võtta. Uurime võimalikku probleemi.
 
-**AJUTINE lahendus**
+**LAHENDUS**
 
-Veenduge, et te pole Gmaili domeeni blokeerides kogemata Gmaili domeeni blokeerinud.
+Veenduge, et te pole gmaili domeeni kogemata blokeerinud, kui blokeerite ühe Gmaili kasutaja.
 
-1. Avage [blokeeritud saatjate loend](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Avage [blokeeritud saatjate loend.](https://go.microsoft.com/fwlink/?linkid=2121010)
 
-2. Kui loendis on Gmail.com, klõpsake kirje kõrval olevat ikooni Prügikast ja vajutage nuppu **Salvesta**.
+2. Kui Gmail.com on loendis, klõpsake kirje kõrval olevat prügikastiikooni ja vajutage nuppu **Salvesta**.

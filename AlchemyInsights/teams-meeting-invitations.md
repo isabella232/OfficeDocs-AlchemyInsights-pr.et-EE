@@ -2,24 +2,25 @@
 title: Teamsi koosolekukutsed
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 88b7cbbe36882e06400869fbd211bb6fe81e845c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831010"
 ---
 # <a name="teams-meeting-invitations"></a>Teamsi koosolekukutsed
 
-- Kas soovite teada, kuidas [luua Teamsis koosolekukutset](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?
+Kas vajad abi oma asutuse jaoks Teamsi koosolekukutsete kohandamisel? Vaata üle [Koosolekukutsete kohandamine](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).  
 
-- Hetkel Teamsi koosolekukutseid **kohandada ei saa**. Andke oma [hääl Teamsi teenuses UserVoice](https://microsoftteams.uservoice.com/), et see probleem lisataks teejuhile.
+Lisateavet leiad teemast [Microsoft Teamsi koosolekusätete haldamine](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).

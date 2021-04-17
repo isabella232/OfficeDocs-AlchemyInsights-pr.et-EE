@@ -1,8 +1,8 @@
 ---
-title: SharePointi automaatse seedimise meilisõnum
+title: SharePointi automaat digest Email
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751167"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831190"
 ---
-# <a name="sharepoint-auto-digest-email"></a>SharePointi automaatse seedimise meilisõnum
+# <a name="sharepoint-auto-digest-email"></a>SharePointi automaat digest Email
 
-SharePointi automaatsete uudiste Digest saadab teie ettevõtte kasutajatele automatiseeritud meilisõnumid uusimate uudiste postituste kohta, mida nad ei ole veel lugenud.
+SharePoint Auto-News Digest saadab teie ettevõtte kasutajatele automaatsed meilisõnumid viimaste uudistepostituste kohta, mida nad pole veel lugenud, mis on nende jaoks asjakohased.
 
-Lisateavet leiad [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Lisateabe saamiseks külastage [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- Microsoft 365 juhised ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Ajastus: Targeted Release kliendid  **juulis juulis (varem juunis**  ja valmis kõigi klientide jaoks  **augusti keskel (varem augusti alguses)**.
-- Väljalogimine: kasutaja taseme väljaroll
-- Control Type: User Control, * * admin Control PowerShelli kaudu (varsti)
+- Microsoft 365 teekaardi ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Ajastus: sihitud väljalaskekliendid juuli **keskel (varem** juunis ja lõpetavad kõigi klientide jaoks augusti **keskpaigaks (varem augusti alguses).**
+- Väljaminek: kasutajataseme väljaminek
+- Juhtelemendi tüüp: kasutajakontroll, **Halduskontroll PowerShelli kaudu (peagi tulekul)
