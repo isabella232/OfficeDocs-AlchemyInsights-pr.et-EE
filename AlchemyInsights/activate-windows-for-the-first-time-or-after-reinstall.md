@@ -1,8 +1,8 @@
 ---
-title: Windows 10 aktiveerimine esimest korda või pärast uuesti installimine
+title: Windows 10 aktiveerimine esimest korda või pärast uuesti installimist
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 981583abd210c3263bfe09e4c3147870a1ae0c7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698165"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823063"
 ---
-# <a name="activate-windows-10"></a><span data-ttu-id="5b785-102">Windows 10 aktiveerimine</span><span class="sxs-lookup"><span data-stu-id="5b785-102">Activate Windows 10</span></span>
+# <a name="activate-windows-10"></a><span data-ttu-id="c321d-102">Windows 10 aktiveerimine</span><span class="sxs-lookup"><span data-stu-id="c321d-102">Activate Windows 10</span></span>
 
-<span data-ttu-id="5b785-103">**Windows 10 aktiveerimiseks pärast esimest korda installimist tehke järgmist.**</span><span class="sxs-lookup"><span data-stu-id="5b785-103">**To activate Windows 10 after installing it for the first time:**</span></span>
+<span data-ttu-id="c321d-103">**Windows 10 aktiveerimiseks pärast selle esmast installimist:**</span><span class="sxs-lookup"><span data-stu-id="c321d-103">**To activate Windows 10 after installing it for the first time:**</span></span>
 
-- <span data-ttu-id="5b785-104">Windows 10 aktiveerimiseks peate kasutama kehtivat tootevõtit seadmes, millel pole kunagi olnud Windows 10 aktiveeritud koopiat.</span><span class="sxs-lookup"><span data-stu-id="5b785-104">You’ll need to use a valid product key to activate Windows 10 on a device that has never had an activated copy of Windows 10 on it.</span></span>
-- <span data-ttu-id="5b785-105">Kui installite Windows 10 väljaande, mida pole varem seadmes aktiveeritud, on vaja ka kehtivat tootevõtit.</span><span class="sxs-lookup"><span data-stu-id="5b785-105">You’ll also need a valid product key if you're installing an edition of Windows 10 that wasn’t previously activated on the device.</span></span> <span data-ttu-id="5b785-106">Näiteks Windows 10 Pro installimiseks ja aktiveerimiseks seadmes, kuhu on installitud Windows 10 Home, peate kasutama kehtivat Windows 10 Pro tootevõtit.</span><span class="sxs-lookup"><span data-stu-id="5b785-106">For example, to install and activate Windows 10 Pro on a device that has Windows 10 Home installed, you'll need a valid Windows 10 Pro product key.</span></span>
-- <span data-ttu-id="5b785-107">Installimise ajal palutakse teil sisestada kehtiv tootevõti.</span><span class="sxs-lookup"><span data-stu-id="5b785-107">During the installation, you’ll be asked to enter a valid product key.</span></span> <span data-ttu-id="5b785-108">Kui installimine on lõppenud, aktiveeritakse Windows 10 võrgus automaatselt.</span><span class="sxs-lookup"><span data-stu-id="5b785-108">After the installation is complete, Windows 10 will automatically be activated online.</span></span> <span data-ttu-id="5b785-109">Aktiveerimise oleku kontrollimiseks opsüsteemis Windows 10 valige **Start** >  **Settings**  >  **Update & turvalisuse**  >  **aktiveerimine**.</span><span class="sxs-lookup"><span data-stu-id="5b785-109">To check activation status in Windows 10, select **Start**> **Settings** > **Update & security** > **Activation**.</span></span>
+- <span data-ttu-id="c321d-104">Windows 10 aktiveerimiseks seadmes, kus pole kunagi aktiveeritud Windows 10 eksemplari, peate kasutama kehtivat tootevõtit.</span><span class="sxs-lookup"><span data-stu-id="c321d-104">You’ll need to use a valid product key to activate Windows 10 on a device that has never had an activated copy of Windows 10 on it.</span></span>
+- <span data-ttu-id="c321d-105">Kui installite Windows 10 versiooni, mida pole varem seadmes aktiveeritud, läheb teil vaja kehtivat tootevõtit.</span><span class="sxs-lookup"><span data-stu-id="c321d-105">You’ll also need a valid product key if you're installing an edition of Windows 10 that wasn’t previously activated on the device.</span></span> <span data-ttu-id="c321d-106">Näiteks Windows 10 Pro installimiseks ja aktiveerimiseks seadmesse, kus on installitud Windows 10 Home, on teil vaja kehtivat Windows 10 Pro tootevõtit.</span><span class="sxs-lookup"><span data-stu-id="c321d-106">For example, to install and activate Windows 10 Pro on a device that has Windows 10 Home installed, you'll need a valid Windows 10 Pro product key.</span></span>
+- <span data-ttu-id="c321d-107">Installimise ajal palutakse teil sisestada kehtiv tootevõti.</span><span class="sxs-lookup"><span data-stu-id="c321d-107">During the installation, you’ll be asked to enter a valid product key.</span></span> <span data-ttu-id="c321d-108">Kui installimine on lõpule jõudnud, aktiveeritakse Windows 10 automaatselt võrgus.</span><span class="sxs-lookup"><span data-stu-id="c321d-108">After the installation is complete, Windows 10 will automatically be activated online.</span></span> <span data-ttu-id="c321d-109">Windows 10 aktiveerimisoleku märkimiseks valige **Start** >  **Settings Update**& Security Activation  >    >  **(Aktiveerimissätted).**</span><span class="sxs-lookup"><span data-stu-id="c321d-109">To check activation status in Windows 10, select **Start**> **Settings** > **Update & security** > **Activation**.</span></span>
 
-<span data-ttu-id="5b785-110">**Aktiveerimiseks pärast Windows 10 uuesti installimist tehke järgmist.**</span><span class="sxs-lookup"><span data-stu-id="5b785-110">**To activate after reinstalling Windows 10:**</span></span>
+<span data-ttu-id="c321d-110">**Aktiveerimiseks pärast Windows 10 uuesti installimist:**</span><span class="sxs-lookup"><span data-stu-id="c321d-110">**To activate after reinstalling Windows 10:**</span></span>
 
-- <span data-ttu-id="5b785-111">Kui olete aktiveerinud tasuta versioonitäienduse Windows 10-le või ostsite ja aktiveerinud Windows 10 Microsoft Store ' ist, on teil tootevõtme asemel digitaalne litsents seadmele.</span><span class="sxs-lookup"><span data-stu-id="5b785-111">If you activated a free upgrade to Windows 10 or bought and activated Windows 10 from the Microsoft Store, you'll have a digital license for your device instead of a product key.</span></span> <span data-ttu-id="5b785-112">See tähendab, et saate uuesti installida sama Windows 10 väljaande, mille jaoks teie seadmel on digitaalne litsents, kui te ei sisesta tootevõtit.</span><span class="sxs-lookup"><span data-stu-id="5b785-112">This means you can reinstall the same edition of Windows 10 that your device has a digital license for without entering a product key.</span></span>
-- <span data-ttu-id="5b785-113">Kui teil palutakse uuesti installimise ajal sisestada tootevõti, valige **Jäta vahele**.</span><span class="sxs-lookup"><span data-stu-id="5b785-113">During reinstallation, if you’re asked to enter a product key, select **Skip**.</span></span> <span data-ttu-id="5b785-114">Kui Windows 10 oli teie seadmes enne uuesti installimist aktiveeritud, aktiveeritakse see automaatselt pärast võrguühenduse installimist.</span><span class="sxs-lookup"><span data-stu-id="5b785-114">In most cases, if Windows 10 was activated on your device before you reinstalled, it will automatically activate after you go online.</span></span>
+- <span data-ttu-id="c321d-111">Kui aktiveerisite tasuta versioonitäienduse versioonile Windows 10 või ostsite ja aktiveerisite Windows 10 Microsoft Store'ist, on teil tootevõtme asemel oma seadme digitaallitsents.</span><span class="sxs-lookup"><span data-stu-id="c321d-111">If you activated a free upgrade to Windows 10 or bought and activated Windows 10 from the Microsoft Store, you'll have a digital license for your device instead of a product key.</span></span> <span data-ttu-id="c321d-112">See tähendab, et saate sama Windows 10 väljaande uuesti installida, mille jaoks teie seadmel on digitaallitsents ilma tootevõtit sisestamata.</span><span class="sxs-lookup"><span data-stu-id="c321d-112">This means you can reinstall the same edition of Windows 10 that your device has a digital license for without entering a product key.</span></span>
+- <span data-ttu-id="c321d-113">Kui teil palutakse uuesti installimisel sisestada tootevõti, valige **Jäta vahele**.</span><span class="sxs-lookup"><span data-stu-id="c321d-113">During reinstallation, if you’re asked to enter a product key, select **Skip**.</span></span> <span data-ttu-id="c321d-114">Enamikul juhtudel, kui Windows 10 aktiveeriti teie seadmes enne uuesti installimist, aktiveeritakse see pärast võrguga lülitumist automaatselt.</span><span class="sxs-lookup"><span data-stu-id="c321d-114">In most cases, if Windows 10 was activated on your device before you reinstalled, it will automatically activate after you go online.</span></span>
