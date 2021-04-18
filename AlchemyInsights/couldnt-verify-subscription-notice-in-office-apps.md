@@ -1,24 +1,25 @@
 ---
-title: Tellimuse kinnitamise nurjumise teatis Office’i rakendustes
+title: Tellimuse teatist ei saanud Microsoft 365 rakendustes kinnitada
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 7a1823ed1080f0dc7adcf19b40b8e28256415ba5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788770"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816448"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Teatis „Tellimust ei saanud kinnitada“ Office’i rakendustes
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Teatis "Ei saanud tellimust kinnitada" Microsoft 365 rakendustes
 
 - Veenduge, et teie [tellimuse olek](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) oleks kehtiv, mõjutatud kasutajale oleks [määratud kehtiv litsents](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) ning et tal oleks olemas Interneti-ühendus.
 
@@ -28,7 +29,7 @@ ms.locfileid: "43788770"
 
 - Käivitage [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy) ja taaskäivitage arvuti.
 
-- Mõjutatud masinas [määrake uuesti Office’i aktiveerimisolek](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Mõjutatud masinas [määrake uuesti Office’i aktiveerimisolek](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Üksikasjalikud juhised leiate siit: 
 

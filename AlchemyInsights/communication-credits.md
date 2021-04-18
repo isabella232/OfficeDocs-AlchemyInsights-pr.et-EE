@@ -2,36 +2,29 @@
 title: Suhtluskrediit
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: c22500656e8a1ffa20728699744a69c28b3b5159
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158537"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817456"
 ---
 # <a name="communication-credits"></a>Suhtluskrediit
 
-Suhtluskrediit on mugav viis tasuda helikonverentside ja kõnepaketi minutite eest.  Kui soovite kasutada Skype’i ärirakenduse ja Microsoft Teamsi tasuta numbreid, peate seadistama suhtluskrediidi.  Lisaks soovitame seadistada suhtluskrediidi kõnede pakettide (riigisisesed või rahvusvahelised) ja helikonverentside kasutajate jaoks, kes vajavad võimalust mis tahes sihtkohta helistamiseks.
+Suhtluskrediit on mugav viis helikonverentside ja kõneplaani minutite eest maksmiseks. Kui soovite kasutada Skype’i ärirakenduse ja Microsoft Teamsi tasuta numbreid, peate häälestama suhtluskrediidi.
 
-Administraatorina saate raha lisada käsitsi või määrata automaatse laadimise, mida me soovitame.  Automaatne laadimine täidab teie saldo, kui see langeb alla teie määratud väärtuse.  Saate makseviise värskendada igal ajal. Valige lehel **Arveldamine > [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)** suhtluskrediidi tellimus ja tehke vajalikud muudatused.
+- Suhtluskrediitide häälestamiseks lugege teemat [Oma organisatsiooni jaoks suhtluskrediitide häälestamine](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
 
-1. Kui soovite lisada rohkem raha, ilma et peaksite seadistama automaatset laadimist, klõpsake tarbimise alas valikut **Lisaraha lisamine** ja sisestage summa, mida soovite lisada.
+- Suhtluskrediiti lisamiseks ja haldamiseks vaadake [Lisage raha ja hallake suhtluskrediiti](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). 
 
-2. Automaatse laadimise seadistamiseks või automaatse laadimise summade ja päästiku muutmiseks klõpsake jaotises Arveldamine valikut **Laadimise sätete muutmine** või lehe allosa lähedal suvandit **Automaatse laadimise sätted**.  
-
-3. Sisestage laadimise summa.  See on summa, mille iga laadimisega lisate.  
-
-4. Sisestage väljale **Kui saldo langeb alla summa** väärtus.  See on saldo, mis käivitab uuesti laadimise.
-
-5. Klõpsake nuppu **Salvesta muudatused**.
-
-Lisateavet suhtluskrediidile raha lisamise ja selle haldamise kohta vt teemast [Raha lisamine ja suhtluskrediidi haldamine](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). Samuti vaadake teemat [Organisatsiooni suhtluskrediidi seadistamine](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).
+Lisateavet leiate teemast [Mis on suhtluskrediit?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

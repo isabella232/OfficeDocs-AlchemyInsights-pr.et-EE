@@ -1,25 +1,26 @@
 ---
-title: Konfigureerimine ja tõrkeotsing vastendatud võrgudraivid
+title: Vastendatud võrgudraivide konfigureerimine ja tõrkeotsing
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: 386f4677a9d2fdabdea3f39ce3096f9cd6ccfec6
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
-ms.translationtype: MT
+ms.openlocfilehash: a47ee5cc3f8599c850e59e46c0f636715f1d12bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44493069"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817168"
 ---
-# <a name="configure-and-troubleshoot-mapped-network-drives"></a>Konfigureerimine ja tõrkeotsing vastendatud võrgudraivid
+# <a name="configure-and-troubleshoot-mapped-network-drives"></a>Vastendatud võrgudraivide konfigureerimine ja tõrkeotsing
 
-Teegi vastendamine võrgudraiviga on ajutine ja seda toetatakse ainult Internet Exploreri kaudu. Selle asemel [sünkroonida SharePointi failid uue OneDrive ' i Sünkroonimisklient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88), mis pakub [faile nõudmisel](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). Juurdepääs kõigile failidele OneDrive ilma kohalikku salvestusruumi.
+Teegi vastendamine võrgudraivina on ajutine ja seda toetatakse ainult Internet Exploreri kaudu. Selle asemel [sünkroonige SharePointi failid uue OneDrive‘i sünkroonimisrakendusega](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88), mis pakub [Nõudefaile](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). Pääsete oma failidele OneDrive‘is juurde kohaliku salvestusruumita.
 
-- [Vastendatud võrgudraivid, mis ühendavad SharePoint Online ' i tõrkeotsing](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+- [SharePoint Online‘i ühendatud vastendatud võrgudraivide tõrkeotsing](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)

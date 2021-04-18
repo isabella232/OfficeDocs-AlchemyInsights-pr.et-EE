@@ -2,34 +2,32 @@
 title: Domeeni edastamised
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: ffc549e81dff85ab3e91ddccd50e54603ee24ff0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783967"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814873"
 ---
 # <a name="domain-transfers"></a>Domeeni edastamised
 
-- [Kuidas edastada Microsofti ostetud domeeni teisele pakkujale pärast 60 päeva](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider)?
+[Kuidas edastada Microsofti ostetud domeeni teisele pakkujale pärast 60 päeva](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)?
 
-    - Kuigi Microsofti ostetud domeenid ei toeta NS-kirjete muutmist, kaaluge domeeni registreerimise veebisaidi majutajale edastamise asemel [värskendada oma veebisaidi DNS-i kirjeid](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide).
+- Microsofti ostetud domeeni ei saa Microsoft 365 rentnike vahel edastada.
+- Kuigi Microsoft ostetud domeenid ei toeta NS-kirjete muutmist, kaaluge [DNS-i kirjete värskendamist oma veebisaidi jaoks](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) selle asemel, et domeeni registreerimine veebisaidi majutajale üle kanda.
 
-- Microsofti ostetud domeeni ei saa Microsoft 365 rentnike vahel edastada. 
-
-    - Samas saate edastada Microsoft 365 rentnike vahel kolmanda osapoole domeeni, [eemaldades domeeni ühelt rentnikult](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) ja seejärel kinnitades domeeni teise rentniku juures.
+Kohandatud domeene saab [kontrollida ja kasutada koos Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
 
 - Kolmanda osapoole domeeni registreerimist või arveldamist ei saa Microsoftile edastada.
 
-    - Kuid kohandatud domeene saab [Microsoft 365-ga kinnitada ja kasutada](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-
-- Saidil microsoft.com ei saa algseid domeene üle kanda ega ümber nimetada.
+Saidil microsoft.com ei saa vaikeväärtusega domeene üle kanda ega ümber nimetada.

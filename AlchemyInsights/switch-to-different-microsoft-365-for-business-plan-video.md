@@ -1,8 +1,8 @@
 ---
-title: Teise plaani aktiveerimine
+title: Üleminek mõnele muule lepingule
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002608"
 - "7594"
-ms.openlocfilehash: 342c7334716d9e1a905b7ecec862119147bf7786
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
-ms.translationtype: MT
+ms.openlocfilehash: 6fa752684dc182eda1f4ae8bcc6ec211377df1d1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692122"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824863"
 ---
-# <a name="switch-to-a-different-plan"></a>Teise plaani aktiveerimine
+# <a name="switch-to-a-different-plan"></a>Üleminek mõnele muule lepingule
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SBE2?autoplay=false]
 
