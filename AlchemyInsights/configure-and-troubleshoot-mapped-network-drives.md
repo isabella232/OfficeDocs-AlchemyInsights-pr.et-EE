@@ -1,25 +1,26 @@
 ---
-title: Konfigureerimine ja tõrkeotsing vastendatud võrgudraivid
+title: Vastendatud võrgudraivide konfigureerimine ja tõrkeotsing
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: 386f4677a9d2fdabdea3f39ce3096f9cd6ccfec6
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
-ms.translationtype: MT
+ms.openlocfilehash: a47ee5cc3f8599c850e59e46c0f636715f1d12bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44493069"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817168"
 ---
-# <a name="configure-and-troubleshoot-mapped-network-drives"></a><span data-ttu-id="61332-102">Konfigureerimine ja tõrkeotsing vastendatud võrgudraivid</span><span class="sxs-lookup"><span data-stu-id="61332-102">Configure and troubleshoot mapped network drives</span></span>
+# <a name="configure-and-troubleshoot-mapped-network-drives"></a><span data-ttu-id="26aa9-102">Vastendatud võrgudraivide konfigureerimine ja tõrkeotsing</span><span class="sxs-lookup"><span data-stu-id="26aa9-102">Configure and troubleshoot mapped network drives</span></span>
 
-<span data-ttu-id="61332-103">Teegi vastendamine võrgudraiviga on ajutine ja seda toetatakse ainult Internet Exploreri kaudu.</span><span class="sxs-lookup"><span data-stu-id="61332-103">Mapping a library as a network drive is temporary and supported only through Internet Explorer.</span></span> <span data-ttu-id="61332-104">Selle asemel [sünkroonida SharePointi failid uue OneDrive ' i Sünkroonimisklient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88), mis pakub [faile nõudmisel](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e).</span><span class="sxs-lookup"><span data-stu-id="61332-104">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88), which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e).</span></span> <span data-ttu-id="61332-105">Juurdepääs kõigile failidele OneDrive ilma kohalikku salvestusruumi.</span><span class="sxs-lookup"><span data-stu-id="61332-105">Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="26aa9-103">Teegi vastendamine võrgudraivina on ajutine ja seda toetatakse ainult Internet Exploreri kaudu.</span><span class="sxs-lookup"><span data-stu-id="26aa9-103">Mapping a library as a network drive is temporary and supported only through Internet Explorer.</span></span> <span data-ttu-id="26aa9-104">Selle asemel [sünkroonige SharePointi failid uue OneDrive‘i sünkroonimisrakendusega](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88), mis pakub [Nõudefaile](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e).</span><span class="sxs-lookup"><span data-stu-id="26aa9-104">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88), which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e).</span></span> <span data-ttu-id="26aa9-105">Pääsete oma failidele OneDrive‘is juurde kohaliku salvestusruumita.</span><span class="sxs-lookup"><span data-stu-id="26aa9-105">Access all your files in OneDrive without using local storage space.</span></span>
 
-- [<span data-ttu-id="61332-106">Vastendatud võrgudraivid, mis ühendavad SharePoint Online ' i tõrkeotsing</span><span class="sxs-lookup"><span data-stu-id="61332-106">Troubleshoot mapped network drives that connect to SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+- [<span data-ttu-id="26aa9-106">SharePoint Online‘i ühendatud vastendatud võrgudraivide tõrkeotsing</span><span class="sxs-lookup"><span data-stu-id="26aa9-106">Troubleshoot mapped network drives that connect to SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
