@@ -1,29 +1,31 @@
 ---
-title: SharePointi juursaiti asendada
+title: SharePointi juursaidi asendamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 33ee85c305aa9daae0028ad2c0c79a003f9dc017
-ms.sourcegitcommit: 505a576cc0e2b20f8ea5ce0a2f26763a11463918
+ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44493095"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826771"
 ---
-# <a name="replace-the-sharepoint-root-site"></a>SharePointi juursaiti asendada
-Kui otsite moderniseerida oma root saidi olemasoleva saidi või lihtsalt tahan olla erinev sait root saidi tasandil, saate valida asendada (swap) saidid.
+# <a name="replace-the-sharepoint-root-site"></a>SharePointi juursaidi asendamine
+Kui soovite oma juursaiti olemasoleva saidiga moderniseerida või soovite lihtsalt juursaidi tasemel kasutada muud saiti, saate saidid asendada (vahetada).
 
-1. Uue SharePointi administreerimiskeskuse abil jaotisse [aktiivsed saidid](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
-2. Valige juursait, mida soovite asendada.
+1. Avage uue SharePointi halduskeskuse kaudu Active Sites (Aktiivsed [saidid).](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true)
+2. Valige juursaidid, mille soovite asendada.
 3. Valige **Asenda sait**.
-4. Sisestage olemasoleva saidi URL, millega soovite asendada. **Märkus:** Teid teavitatakse, kui saiti saab kasutada asendusjuursaidina.
+4. Sisestage olemasoleva saidi url, millega soovite asendada. **Märkus.** Teid teavitatakse sellest, kas saiti saab kasutada asendusjuursaidina.
 
-Lisateavet nõuete kohta leiate [oma juursaiti Modereerige](https://docs.microsoft.com/sharepoint/modern-root-site).
+Lisateavet nõuete kohta leiate teemast [Juursaidi moderniseerimine.](https://docs.microsoft.com/sharepoint/modern-root-site)
+

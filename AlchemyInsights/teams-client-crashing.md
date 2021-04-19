@@ -2,21 +2,22 @@
 title: Kas Teamsi klient jookseb kokku?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354048"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826267"
 ---
 # <a name="teams-client-crashing"></a>Kas Teamsi klient jookseb kokku?
 
@@ -24,21 +25,21 @@ Kui teie Teamsi klient jookseb kokku, proovige järgmist.
 
 - Kui kasutate Teamsi töölauarakendust, [veenduge, et rakendus oleks täielikult värskendatud](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Veenduge, et kõik [Microsoft 365 URL-id ja aadressivahemikud](https://docs.microsoft.com/microsoftteams/connectivity-issues) on juurdepääsetavad.
+- Veenduge, et kõik [Microsoft 365 URL-id ja aadressivahemikud on](https://docs.microsoft.com/microsoftteams/connectivity-issues) juurdepääsetavad.
 
-- Logige sisse oma rentniku administraatori kontoga ja kontrollige oma [teenuse tervise armatuurlauale](https://docs.microsoft.com/office365/enterprise/view-service-health) veendumaks, et katkestust või teenuse halvenemine on olemas.
+- Logige sisse oma rentnikuadministraatori kontoga ja kontrollige teenuse [seisundi armatuurlauda,](https://docs.microsoft.com/office365/enterprise/view-service-health) et veenduda, et teenusekatkestust ega teenuse halvenemist ei esine.
 
-- Desinstallige ja installige meeskonnad rakendus (link)
-    - Sirvige arvutis kausta%appdata%\Microsoft\teams\ ja kustutage kõik selle kausta failid.
-    - [Laadige alla ja installige meeskonnad app](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), ja võimaluse korral installige meeskonnad administraatorina (paremklõps meeskonnad Installer ja valige "Käivita administraatorina" Kui saadaval).
+- Teamsi rakenduse desinstallimine ja uuesti installimine (link)
+    - Liikuge sirvides oma arvuti kaustani %appdata%\Microsoft\teams\ ja kustutage kõik selles kataloogis olevad failid.
+    - [Laadige alla ja installige Teamsi rakendus](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)ning võimalusel installige Teams administraatorina (paremklõpsake Teamsi installerit ja valige "Käivita administraatorina", kui see on saadaval).
 
-Kui teie meeskonnad klient ikka krahhi, saate probleemi taasesitada? Kui jah, siis:
+Kui teie Teamsi klientrakendus ikka jookseb kokku, kas saate probleemi uuesti esile tada? Kui jah, siis:
 
-1. Juhiste Salvesti abil saate oma sammud jäädvustada.
+1. Juhiste salvesti abil saate oma toimingud jäädvustada.
     - Sulgege kõik mittevajalikud või konfidentsiaalsed rakendused.
-    - Käivitage toimingute salvesti ja paljundada probleem mõjutatud kasutajakonto sisse logitud.
-    - [Koguda meeskonnad logid, mis jäädvustada salvestatud reprodutseerida sammud](https://docs.microsoft.com/microsoftteams/log-files). **Märkus**: Veenduge, et jäädvustada mõjutatud kasutaja sisselogimise aadress.
-    - Koguge mälutõmmise ja/või rikke kopp info (Windows). Käivitage Windows PowerShelli arvutis, kus crash esineb ja käivitage järgmised käsud:
+    - Käivitage toimingute salvesti ja paljundada probleem mõjutatud kasutajakontoga sisse logides.
+    - [Koguge töörühmade logid, mis jäädvustavad salvestatud repro etapid.](https://docs.microsoft.com/microsoftteams/log-files) **Märkus.** Veenduge, et jäädvustate mõjutatud kasutaja sisselogimisaadressi.
+    - Koguge tõmmise- ja/või tõrkeämbri teave (Windows). Käivitage Windows Powershell seadmes, kus krahh toimub, ja käivitage järgmised käsud.
 
         `
         PS C:\Users\user01> cd $env:temp
@@ -46,4 +47,4 @@ Kui teie meeskonnad klient ikka krahhi, saate probleemi taasesitada? Kui jah, si
         PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
         `
     
-2. Kinnitage fail oma tugiteenuse teenindusjuhtumile.
+2. Manustage fail tugiteenuste juhtumile.

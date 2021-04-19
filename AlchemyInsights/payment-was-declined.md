@@ -2,21 +2,22 @@
 title: Teie makse lükati tagasi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
-ms.translationtype: HT
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160979"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829048"
 ---
 # <a name="your-payment-was-declined"></a>Teie makse lükati tagasi
 
@@ -24,20 +25,31 @@ Microsoft proovib pärast arve kuupäeva 3-4 nädala jooksul mitu korda võtta k
 
 **Tähtis**: kui olete lisanud uue kaardi ja saate endiselt tagasilükkamise teate vana krediitkaardi eest, võib olla vajalik uus kaart tellimusega siduda.
 
-1. Avage **Arveldamine > [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Kõigi üksuste makseviisi asendamine**
 
-2. Valige tellimus, mille eest soovite uue kaardi või pangakontoga maksta. Klõpsake jaotises **Arveldamine** makseviisi kõrval suvandit **Redigeeri**.
+1. Avage halduskeskuses leht **Arveldusarved**  >  **ja &**  >  [makseviisid.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
-3. Klõpsake praeguse makseviisi kõrval käsku **Muuda**.
+2. Valige asendatav makseviisi rida. Parempoolsel paanil on loetletud kõik arveldusprofiilid ja üksikud tellimused, mis kasutavad valitud makseviisi.
 
-4. Valige rippmenüüst muu makseviis või lisage uus makseviis.
+3. Valige parempoolsel paanil **Käsk Asenda kõigi üksuste makseviis.**
 
-**Makseviisi värskendamine või uue lisamine**
+4. Olemasoleva makseviisi kasutamiseks valige ripploendist üks ja seejärel valige **Asenda**.
 
-1. Avage leht **Arveldamine > Arved ja maksed > [Makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Kui teil on arveldusprofiiliga seotud tellimused, saate nende eest maksta ainult krediit- või deebetkaardiga. Kui teil on lehel  Makseviisid loetletud pangakontod, pole need ripploendist valimiseks saadaval.
 
-2. Klõpsake Suvandit **Lisa makseviis**, valige kaart või pangakonto, mida soovite värskendada, ja klõpsake käsku **Redigeeri**.
+5. Uue makseviisi lisamiseks valige **Lisa makseviis**.
 
-3. Värskendage makseviisi teavet (kaardil olevat või pangakonto nime, arveaadressi, telefoninumbrit või aegumiskuupäeva) ja seejärel klõpsake suvandit **Salvesta**.
+6. Sisestage **paanil Makseviisi** lisamine kontoteave ja seejärel valige **Salvesta**. Peate kasutama makseviisi oma rentnikuga samas riigis.
 
-4. Ärge unustage muuta oma tellimus(t)e makseviisi sellele uuele makseviisile. Lisateabe saamiseks lugege teemat [ Makseviiside lisamine, värskendamine või eemaldamine](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Uus makseviis on ripploendis juba valitud. Valige **Asenda**.
+
+**Makseviisi üksikasjade värskendamine**
+
+1. Avage halduskeskuses leht **Arveldusarved**  >  **ja &**  >  [makseviisid.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+
+2. Valige värskendamisviisi rida. Valige parempoolsel paanil **Redigeeri**.
+
+3. Värskendage makseviisi teavet (sh krediit- või deebetkaardil oleva nime, arveldusaadressi või aegumiskuupäeva) ja seejärel valige **Salvesta**.
+
+Lisateavet leiate teemast [Makseviiside haldamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

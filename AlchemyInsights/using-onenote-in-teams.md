@@ -1,29 +1,30 @@
 ---
-title: OneNote ' i kasutamine meeskonnatöös
+title: OneNote'i kasutamine Teamsis
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: 369845b8d5cb6e192ab3a6fa976119bc3189ffb1
-ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
+ms.openlocfilehash: 644de124e9807cee69ed9ebff46226530b3930ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852848"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827176"
 ---
-# <a name="using-onenote-in-teams"></a>OneNote ' i kasutamine meeskonnatöös
+# <a name="using-onenote-in-teams"></a>OneNote'i kasutamine Teamsis
 
-Saate märkmete, uurimistöö, plaanide ja teabe kõigi märkmete, uurimistööde, plaanide ja teabe hoidmiseks lihtsustada ning lisada ühe või mitu OneNote ' i vahekaarti meeskondade kanalisse.
+Märkmete pidamise lihtsustamine ja kõigi märkmete, uurimistööde, plaanide ja teabe hoidmiseks on üks koht, lisades Teamsi kanalile ühe või mitu OneNote'i vahekaarti.
 
-- **Märkmiku lisamine**: saate lisada meeskonnale [uue või olemasoleva märkmiku](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) .
-- **OneNote ' i juurdepääsu haldamine**: Microsoft teamsi administreerimiskeskuses saate hallata kasutajate juurdepääsu OneNote ' i. Lisateavet leiate teemast [Rakenduste haldamine Microsoft teamsi administreerimiskeskuses](https://docs.microsoft.com/MicrosoftTeams/manage-apps) .
-- **Märkmike taastamine kustutatud rühmadest**: järgige juhiseid jaotises [Kustutatud meeskonna](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) ja selle sisu taastamine, kui taastate Office ' i 365 rühmad.
-- **Klassi märkmikuga seotud probleemid**: Lugege lisateavet teemast OneNote ' i [värskenduste ja parimate tavade kohta koolitajate ja üliõpilaste jaoks](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) ning [OneNote ' i värskenduste ja parimate tavade kohta hariduses](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46).
-- Kui te ei **saa rakenduses Teams OneNote ' i vahekaarti OneNote ' is kasutada**või kui teie **märkmikus on probleeme**, logige sisse oma rentniku administraatori kontoga ja kontrollige, kas teie [teenuse tervise armatuurlaud](https://docs.microsoft.com/office365/enterprise/view-service-health) pole olemas.
+- **Märkmiku lisamine:** Saate [Teamsi lisada uue või olemasoleva](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) märkmiku.
+- **OneNote'i juurdepääsu haldamine.** Kasutaja juurdepääsu OneNote'ile saate hallata Microsoft Teamsi halduskeskuses. Lisateavet leiate teemast Rakenduste haldamine [Microsoft Teamsi](https://docs.microsoft.com/MicrosoftTeams/manage-apps) halduskeskuses.
+- **Kustutatud rühmadest märkmike taastamine.** [](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) Järgige kustutatud meeskonna ja selle sisu taastamiseks Office 365 rühmi.
+- **Klassimärkmikuga** seotud probleemid. Lugege [teemat OneNote'i](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) värskendus ja haridustöötajate ja õppurite head tavad ning OneNote'i värskendus ja [haridusasutuste IT-administraatorite head tavad.](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46)
+- Kui te ei **saa Teamsis OneNote'i** vahekaarti kasutada või kui teie märkmikul on sünkroonimisprobleeme, logige sisse rentnikuadministraatori kontoga ja kontrollige teenuse [seisundi](https://docs.microsoft.com/office365/enterprise/view-service-health) armatuurlauda, et veenduda, et teenusekatkestust ega teenuse halvenemist ei esine.
