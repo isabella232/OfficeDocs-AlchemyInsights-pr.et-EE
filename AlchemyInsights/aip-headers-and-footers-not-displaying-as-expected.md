@@ -2,43 +2,44 @@
 title: 'AIP: päised ja jalused ei kuvata ootuspäraselt'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 418362beea221a7cb9d8fd4be6cfc0f28022093d
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493019"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821695"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: päised ja jalused ei kuvata ootuspäraselt
 
-Kui teil esineb probleeme visuaalseid märgistusi ei kuvata ootuspäraselt, vaadake järgmisi juhiseid:
+Kui teil on probleeme nägemismärkidega, mida ei kuvata ootuspäraselt, vaadake järgmisi juhiseid.
 
-1. Veenduge, et olete [visuaalseid märgistusi rakendudes](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)läbi vaadanud.
-2. Office ' i märgistuse, vaadake, [kui office 365 rakendab sisu märgistus ja krüptimine](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
-3. Kui soovite eemaldada olemasolevaid päiseid/jaluseid, vaadake üle [muudest sildislahendustest päiste ja jaluste eemaldamine](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions).
+1. Veenduge, et olete [visuaalsete märgistuste rakendades läbi vaadanud.](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)
+2. Office'i sildistus, vaadake [üle, kui Office 365 rakendab sisumärgistuse ja krüptimise.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
+3. Kui soovite olemasolevad päised/jalused eemaldada, vaadake läbi [Päiste ja jaluste eemaldamine muudest sildistamislahendustest.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions)
 
-Kui teil esineb endiselt probleem, koguda Azure ' i teabe kaitse kliendi logid ja kinnitage eksporditud logid sellele piletile.
+Kui probleem ei kao, koguge Azure'i teabekaitse kliendi logid ja manustage eksporditud logid sellele piletile.
 
-**Ekspordi Azure ' i teabekaitse logid**
+**Azure'i teabekaitse logide eksportimine**
 
-1. Avage Office ' i dokument või looge Outlookis uus e-kiri.
-2. Klõpsake valikul **kaitse/tundlikkuse**  >  **Spikker ja tagasiside**.
-3. Klikkige käsul **ekspordi logid**.
-4. Salvestage logid oma asukoha valikule ja kinnitage need selle teenusetaotlusega.
+1. Avage Office'i dokument või looge Outlookis uus meilisõnum.
+2. Klõpsake **nuppu Kaitse/tundlikkuse**  >  **spikker ja tagasiside.**
+3. Klõpsake **nuppu Ekspordi logid.**
+4. Salvestage logid oma asukohavalikusse ja manustage need sellele teenusetaotlusele.
 
-Lisateavet leiate teemast:
+Lisateavet leiate teemast
 
-- [Kuidas konfigureerida sildile visuaalseid märgistusi Azure ' i teabekaitse](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Azure ' i teabekaitse dokumentatsiooni läbivaatamine](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Azure ' i teabekaitse nõuded](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Quick Start juhendaja Azure ' i teabekaitse](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Laadige alla Azure ' i teabekaitse klient](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Azure'i teabekaitse jaoks visuaalsete märgistuste sildi konfigureerimine](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Azure'i teabekaitse dokumentatsiooni läbivaatamine](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Azure'i teabekaitse nõuded](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Azure'i teabekaitse lühikäivitusõpetus](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Azure'i teabekaitse kliendi allalaadimine](https://www.microsoft.com/download/details.aspx?id=53018)

@@ -2,21 +2,22 @@
 title: Microsoft 365 rakenduste aktiveerimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735208"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823027"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 rakenduste aktiveerimine
 
@@ -26,7 +27,7 @@ Office’i aktiveerimiseks vaadake järgmisi teemasid.
 
 - [Office’i aktiveerimine Mac-arvutis](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Märkus:**  Veenduge, et teil on Office 365 või Microsoft 365 tellimus, mis [sisaldab Office'i klientrakendusi](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)(nt Microsoft 365 Business Standard, Microsoft 365 ärirakendus või Microsoft 365 ettevõtterakendused). Lisaks veenduge, et kasutajakontole, mida kasutate Office'i rakendustesse [sisselogimiseks, on määratud litsents.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Märkus.**  Veenduge, et teil oleks Office 365 või Microsoft 365 tellimus, mis sisaldab [Office'i](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)klientrakendusi , nt Microsoft 365 Business Standard, Microsoft 365 apps for business või Microsoft 365 Apps for enterprise. Lisaks veenduge, et kasutajakontol, mida kasutate Office'i rakendustesse sisselogimiseks, [oleks määratud litsents.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Office’i aktiveerimisprobleemide lahendamiseks vaadake järgmisi teemasid.
 
@@ -35,7 +36,9 @@ Office’i aktiveerimisprobleemide lahendamiseks vaadake järgmisi teemasid.
 
 - [Mida teha, kui te ei saa rakendusekomplekti Office for Mac installida või aktiveerida?](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Kui te ei saa Microsoft 365 rakendustesse sisse logida, järgige allolevaid juhiseid.
+**Näpunäide** Windowsi seadmetes saame diagnoosida ja automaatselt lahendada mitmed levinud Office'i sisselogimisprobleeme. Meie automatiseeritud tööriista kasutamiseks laadige alla ja käivitage **[Microsofti tugi- ja taasteteenuste abiline](https://aka.ms/SaRA-OfficeSignInScenario)**.
+
+Kui te ei saa Microsoft 365 rakendustesse sisse logida, tehke järgmist.
 
 1. Avage mõni Office’i rakendus ja [logige välja](https://go.microsoft.com/fwlink/?linkid=2114082) kõigist kasutajakontodest.
 

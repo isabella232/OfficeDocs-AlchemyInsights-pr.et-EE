@@ -1,8 +1,8 @@
 ---
-title: Makse teabe muutmine Azure ' is
+title: Makseteabe muutmine Azure'is
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: c46f1cd65ae5a07a4aab33c641ebfcb7ef6fd42d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807644"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820714"
 ---
-# <a name="change-payment-information-in-azure"></a>Makse teabe muutmine Azure ' is
+# <a name="change-payment-information-in-azure"></a>Makseteabe muutmine Azure'is
 
-Azure ' i portaalis saate konto administraatorina lisada uue krediitkaardi, värskendada olemasolevat krediitkaarti või kustutada krediitkaarti, mida te ei kasuta. [Microsofti kliendi lepingu](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)korral on makseviisid seotud [arvelduse profiilidega](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Makseviisi saab uuendada ainult Azure ' i kasutajaks registreerunud kasutaja.
+Azure'i portaalis saate konto administraatorina lisada uue krediitkaardi, värskendada olemasolevat krediitkaarti või kustutada krediitkaardi, mida te ei kasuta. Microsofti [kliendilepingu makseviisid](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)on seotud [arveldusprofiilidega.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Makseviisi saavad värskendada ainult Azure'i kasutaja.
 
-**Uue krediit-või deebetkaardi lisamine Azure ' i tellimusele**
+**Azure'i tellimusele uue krediit- või deebetkaardi lisamine**
 
-1. Logige sisse [Azure ' i portaali](https://portal.azure.com/) [konto administraatorina](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). **Kulude halduse ja arveldamise** otsing
-2. Valige tellimus, millele soovite krediit-või deebetkaardi lisada. **Makseviiside** valimine
-3. Valige vasakus ülanurgas + kaardi lisamiseks. Paremal kuvatakse krediitkaardi vorm. Sisestage krediit-või deebetkaardi andmed 4.To, et muuta see kaart teie aktiivseks makseviisi, märkige ruut Muuda see minu aktiivne makseviis vormi kohale. See kaart muutub aktiivseks maksevahendiks kõigi pakettide jaoks, kasutades valitud paketiga sama kaarti. Valige **järgmine** 5.to, kui **kasutate mõnda muud** krediitkaarti, märkige selle kaardi kõrval olev ruut, mida soovite muuta aktiivseks makseviisi.
-6. klõpsake nuppu **Määra aktiivne**
+1. Logige [Azure'i portaali sisse](https://portal.azure.com/) konto [administraatorina.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Otsing kulude **halduse ja arveldamise kohta**
+2. Valige tellimus, mille soovite lisada krediit- või deebetkaardile. Makseviiside **valimine**
+3. Kaardi lisamiseks valige vasakus ülanurgas +. Paremal kuvatakse krediitkaardi vorm. Sisestage krediit- või deebetkaardi üksikasjad, 4.To muuta see kaart aktiivseks makseviisiks, märkige ruut Muuda see minu aktiivne makseviis vormi kohal. Sellest kaardist saab kõigi tellimuste aktiivne maksevahend, kasutades valitud tellimusega sama kaarti. Valige  5.To **kasuta muud krediitkaarti**, märkige selle kaardi kõrval ruut, mille soovite aktiivse makseviisina kasutada.
+6.Click **Set active**
 
-**Olemasoleva krediit-või deebetkaardi värskendamine/muutmine/eemaldamine**
+**Olemasoleva krediit- või deebetkaardi värskendamine/muutmine/eemaldamine**
 
-1. logige sisse [Azure ' i portaali](https://portal.azure.com/) [konto administraatorina](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Otsige **kulude haldus + arveldus** .
-2. Valige **makseviisid** . Klõpsake krediiti või deebetkaarti, mida soovite redigeerida. Krediitkaardi vorm kuvatakse paremal 3. krediidi-või deebetkaardi andmete värskendamine. Valige **Salvesta** .
-4.To **eemaldamiseks** märkige selle kaardi kõrval olev ruut, mille soovite eemaldada 5. klõpsake nuppu **Kustuta**
+1.Logige [Azure'i portaali sisse](https://portal.azure.com/) konto [administraatorina.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Otsige teavet **kuluhalduse ja arveldamise kohta.**
+2.Valige **Makseviisid**. Klõpsake krediit- või deebetkaarti, mida soovite redigeerida. Krediitkaardi vorm kuvatakse paremal 3.Värskendage krediit- või deebetkaardi üksikasju. Valige **Salvesta**.
+4.To **eemaldada,** märkige ruut selle kaardi kõrval, mille soovite eemaldada, 5.Klõpsake nuppu **Kustuta**
 
-_Märkus_ : te ei saa oma krediitkaarti eemaldada, kui see on seotud muude aktiivsete Microsofti tellimustega. Peate eemaldama krediitkaardi kõigist aktiivsetest tellimustest, mis teil on Microsofti juures, ja proovige uuesti.
+_Märkus._ Krediitkaarti ei saa eemaldada, kui see on seotud muude aktiivsete Microsofti tellimustega. Peate krediitkaardi eemaldama kõigilt Microsoftiga seotud aktiivsetest tellimustest ja uuesti proovima.
 
-Lisateave: [makseviiside värskendamine, muutmine või eemaldamine](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+Lisateave: [Makseviiside värskendamine, muutmine või eemaldamine](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Maksete probleemide tõrkeotsing**
+**Makseprobleemide tõrkeotsing**
 
-Probleemi lahendamise kohta leiate teavet teemast maksete lahendamise [tõrkeotsing/tõrke stsenaariumid](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) .
+Probleemi [lahendamiseks lugege teemat Makseprobleemide/tõrkestsenaariumide](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) tõrkeotsing.
 
-Kui kaardilt on ootel makseid, kuna teie finantsasutus on kaardi tagasi keelanud, võtke probleemi lahendamiseks ühendust oma **finantsasutusega** . Kasutage alltoodud juhiseid.
+Kui kaardil on makse ootel, kuna teie finantsasutus on kaardi tagasi lükanud, võtke probleemi lahendamiseks ühendust **oma** finantsasutusega. Kasutage alltoodud kursoreid.
 
-- Võimalik, et peate pangast sisse möllima, et näha, kas rahvusvaheline tehing on kaardile sisse lülitatud.
-- Kui kaardi saldo tasakaalustamiseks on krediidilimiit
-- Kui kaardile on sisse lülitatud korduv makse
+- Võimalik, et peate pangaga kontrollima, kas rahvusvaheline tehing on kaardil lubatud.
+- Kui kaardil on saldo tasakaalustamiseks krediidilimiit
+- Kui korduv maksmine on kaardil lubatud
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Arveldamise häälestamine](https://azure.microsoft.com/pricing/invoicing/)
-- [Makseviisi muutmine – KKK](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Arvelduse profiili makseviisi muutmine](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [Microsofti kliendi lepingule juurdepääsu kontrollimine](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Arveldamise seadistamine](https://azure.microsoft.com/pricing/invoicing/)
+- [Makseviisi muutmine– KKK](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Arveldusprofiili makseviisi muutmine](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Microsofti kliendilepingule juurdepääsu kontrollimine](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

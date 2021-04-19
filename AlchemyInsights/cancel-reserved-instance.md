@@ -2,7 +2,7 @@
 title: Reserveeringu tühistamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,61 +12,61 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807568"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819688"
 ---
 # <a name="cancelling-reservation"></a>Reserveeringu tühistamine
 
-- **Iseteeninduse teenus:** Reserveeritud eksemplari saate Azure ' i [portaali](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)kaudu ise tühistada või vahetada. Valige reserveerimine ja klõpsake nuppu tagasimakse või Exchange. Pidage meeles, et Exchange ' i või tagasimakse korral peab teil olema omaniku juurdepääs broneeringu korraldusele. Juurdepääs ainult broneeringule ei võimalda teil jätkata tagasimakset ega Exchange ' i. Paluge broneeringu korralduse omanikul anda teile omanikule juurdepääs broneeringu korraldusele.
-- **Exchange ' i poliitika.** Saate vahetada reservatsiooni sama tüüpi broneeringu eest – broneeringute vahetuse korral pole **trahve** . Uue reservatsiooniga seotud kulukohustuste kogusumma peaks olema suurem kui Exchange ' i broneeringu tagasimakse summa ja tulevased igakuised maksed (vajaduse korral).
-- **Tagasimakse põhimõtted:** Tagasimakse summa ja tühistatud tulevased maksed ei tohi 12-kuulise jooksvas aknas ületada $50 000 USD. Me ei nõua praegu tagasimaksete eest **karistusi** , vaid võivad selle eest tasuda ka tulevikus.  
-    **Erandid.** Iseteenindusega Exchange ja loobumise võimalus pole USA valitsuse Enterprise ' i lepingu klientide jaoks saadaval
-- **API/PS/CLI** tugi pole saadaval broneeringu tühistamiseks ja tagasimaksete jaoks, mida pakutakse [Azure ' i reserveerimiste jaoks](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Iseteenindusega Exchange ja loobumise võimalus pole USA valitsuse Enterprise ' i lepingu klientide jaoks saadaval. Toetatud on ka muud USA valitsuse tellimuse tüübid, sh tasulised ja riiklikud tellimused
+- **Iseteenindus:** Reserveeritud eksemplari saate azure'i portaali kaudu ise tühistada [või vahetada.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Valige broneering ja klõpsake tagasimakset või vahetust. Võtke arvesse, et teil peab olema omaniku juurdepääs broneerimiskorraldusele, et seda vahetada või tagasi maksta. Juurdepääs ainult broneeringule ei luba teil tagasimakset või vahetust jätkata. Paluge reserveerimistellimuse omanikul anda teile omanikule juurdepääs reserveerimiskorraldusele.
+- **Exchange'i poliitika:** Saate vahetada reserveeringut mõne muu sama tüüpi reserveeringu vastu – broneeringu vahetamisel **ei ole** mingeid karistusi. Uue reserveeringuga kogukohustus peaks olema suurem kui vahetatud broneeringu tagasimakse summa ja tulevased igakuised maksed (kui see on asjakohane)
+- **Tagasimaksepoliitika:** Tagasimaksesumma ja tühistatud tulevased maksed ei tohi ületada 50 000 USA dollarit 12-st kuust jooksvas aknas. Me ei **pea praegu tagasimaksete eest mingit** karistust, kuid võime selle tulevaste tagasimaksete eest tasuda.  
+    **Erandid:** Iseteeninduslik vahetus ja tühistamisvõimalus pole SAADAVAL USA government enterprise agreementi klientidele
+- **API / PS / CLI** tugi ei ole saadaval tühistamiseks ja tagasimaksete makstes Azure'i broneeringute iseteeninduse [vahetused ja tagasimaksed](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Iseteeninduslik vahetus ja tühistamisvõimalus pole SAADAVAL USA government enterprise agreementi klientidele. Toetatakse muid USA valitsuse tellimuse tüüpe, sh Pay-As-You-Go ja CSP
 
-Lisateave: [tagasipöördumine ja Exchange ' i tehingute töötlemine](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
-Lisateave: [Exchange ' i ja tagasimakse põhimõtted](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
-Muud küsimused: [Külasta reserveeritud eksemplari docs](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Lisateave: [Tagastus- ja vahetustehingute töötlemine](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
+Lisateave: [Exchange'i ja tagasimakse poliitikad](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+Muud küsimused: [külastage reserveeritud eksemplariga dokumente](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Olemasoleva reserveeritud eksemplari vahetamine (iseteenindusega)**
+**Olemasoleva reserveeritud eksemplari vahetamine (iseteenindus)**
 
-Teise sama tüüpi broneeringu eest saate vahetada reservatsiooni. Soovi korral saate tagastada ka broneeringu, kuni $50 000 USD aastas, kui te seda enam ei vaja. Iseteenindusega Exchange ja loobumise võimalus pole USA valitsuse Enterprise ' i lepingu klientide jaoks saadaval. Toetatud on ka muud USA valitsuse tellimuse tüübid, sealhulgas tasuliste ja---uudiste liigid. Olemasoleva reservatsiooni vahetamiseks või tagasimaksmiseks peab teil olema omaniku juurdepääs broneeringu tellimusele.
+Saate vahetada reserveeringut mõne muu sama tüüpi reserveeringu vastu. Kui te seda enam ei vaja, saate broneeringu tagasi maksta kuni 50 000 USA dollarit aastas. Iseteeninduslik vahetus ja tühistamisvõimalus pole SAADAVAL USA government enterprise agreementi klientidele. Toetatakse muid USA valitsuse tellimuse tüüpe, sh Pay-As-You-Go ja CSP. Olemasoleva broneeringu vahetamiseks või tagastamiseks peab teil olema omaniku juurdepääs broneerimiskorraldusele.
 
-Järgmised juhised juhivad tehingu sooritamise protseduuri.
+Tehingu lõpuleviimiseks tehke järgmist.
 
-1. Logige sisse oma [Azure ' i portaali](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Valige reserveerimised, mida soovite tagastada, ja klõpsake nuppu **Exchange**
-2. Valige VM toode, mida soovite osta, ja tippige kogus. Veenduge, et uus ostu kogusumma oleks suurem kui tagastamise kogusumma, [enne kui ostate õige suuruse.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
-3. Tehingu läbivaatamine ja täiendamine
+1. Logige sisse Oma [Azure'i portaali.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Valige broneeringud, mille soovite tagasi maksta, ja klõpsake nuppu **Exchange**
+2. Valige VM-toode, mida soovite osta, ja tippige kogus. Veenduge, et uue ostu kogusumma oleks suurem kui tagastussumma. Määrake [enne ostmist õige suurus](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3. Tehingu läbivaatamine ja lõpule viimine
 
 **Reserveeritud eksemplari tagasimakse**
 
-Broneeringu tagasimaksmiseks Avage **broneeringu üksikasjad** ja klõpsake nuppu **tagastus** .
+Broneeringu tagastamiseks minge valikusse Broneeringu üksikasjad **ja** klõpsake nuppu **Tagasimakse.**
 
-**Pro-reitinguga tagasimakse:**
+**Pro-rated refund:**
 
-**Tagasimaksete ja Exchange ' i Pro-ratione ja miinimumnõude näited**  
-Ees broneeringu näide:
+**Pro-ration and minimum requirement examples for refund and exchange**  
+Ettetellimise näide:
 
-- Ostad üheaastase tähtaja RI for $120 jaanuaril 1
-- 7. aprillil soovite selle reservatsiooni tagasi maksta või seda vahetada
-- Kuna broneering on 97 päeva jooksul ellu viidud, saad (1-97/365) * $120 tagasi. (st $88,1). Tagasimaksete eest ei ole praegu karistust
-- Vahetamise korral peaks uus ost olema suurem kui $88,1.
-- Praegu ei ole trahve antud
+- Ostate 1. jaanuaril 120-ga üheaastase tähtajaga RI
+- 7. aprillil soovite selle broneeringu tagasi maksta või vahetada
+- Kuna broneering on 97 päeva jooksul reaalajas olnud, saate (1-97/365) * 120 $ tagasi. (st 88,1 $ ). Tagasimaksete eest praegu karistust ei määrata
+- Vahetamise korral peaks teie uus ost olema suurem kui 88,1 $
+- Praegu tagasimaksete eest karistust ei määrata
 
-**Arvelduse plaani Reservation näide:**
+**Arveldusplaani reserveerimise näide:**
 
-- Ostad üheaastase tähtaja RI for $10 kuus
-- 7. aprillil soovite selle reservatsiooni tagasi maksta või seda vahetada
-- Kuna Viimane makse juhtus 7 päeva pärast, saad (1-7/31) * $10 tagasi. (st $7,74)
-- Tulevased maksed tühistati on $80. Tagasimaksete eest ei ole praegu karistust
-- See tühistamine arvestab maha $87,74 alates sinust on $50 000 tagasimakse limiit
-- Vahetamise korral peaks uue ostu koguväärtus olema suurem kui $87,74.
+- Ostate üheaastase tähtajaga RIT-d 10 $ kuus
+- 7. aprillil soovite selle broneeringu tagasi maksta või vahetada
+- Kuna viimane makse on tehtud 7 päeva, saate (1-7/31) * 10 $ tagasi. (st 7,74 $)
+- Tühistatud tulevased maksed on 80 $. Tagasimaksete eest praegu karistust ei määrata
+- Tühistamine lahutab teie 50 000 $ tagasimakselimiidist 87,74 $
+- Vahetamise korral peaks uue ostu koguväärtus olema suurem kui 87,74 $
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Tagasisaatmis-ja Exchange ' i tehingute töötlemine](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
-- [Exchange ' i ja tagasimakse põhimõtted](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+- [Tagastus- ja vahetustehingute töötlemine](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
+- [Exchange'i ja tagasimakse poliitikad](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)

@@ -1,8 +1,8 @@
 ---
-title: Toetatud tellimuse tüübid
+title: Toetatud tellimusetüübid
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,53 +12,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807567"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820678"
 ---
-# <a name="supported-subscription-types"></a>Toetatud tellimuse tüübid
+# <a name="supported-subscription-types"></a>Toetatud tellimusetüübid
 
-Jätkamiseks vaadake üle toetatud tellimuse tüübid.
+Edasiseks jätkamiseks vaadake üle toetatud tellimusetüübid.
 
-[Toetatud tellimuse tüübid](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
+[Toetatud tellimusetüübid](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
 
-**Arvelduse omandiõiguse üleviimine**
+**Arvelduse omandiõiguse ülekandmine**
 
-Azure ' i portaal [konto administraatorina](https://ms.portal.azure.com/) , mille tellimust soovite üle viia
+Azure'i [portaal selle](https://ms.portal.azure.com/) arvelduskonto konto administraatorina, mille tellimust soovite üle kanda
 
-- Otsige **kulude haldus + arveldus** . Valige vasakpoolsel paanil **tellimused** . Olenevalt Accessist peate võib-olla valima arveldamise ulatuse ja seejärel **tellimused** või **Azure ' i tellimused** .
-- Valige üle kantava tellimuse ülekandmise arveldamise omanik
-- Sisestage selle kasutaja meiliaadress, kes on tellimuse uueks omanikuks oleva konto arveldamise administraator ja seejärel valige **saada edastuse taotlus**
-- Kasutaja saab teie edastuse taotluse läbivaatamiseks meili teel juhiseid. Edastuse taotluse kinnitamiseks valib kasutaja meilisõnumis oleva lingi ja järgib juhiseid.
+- Otsige üksusest **Kuluhaldus ja arveldus**. Valige **vasakpoolsel paanil** Tellimused. Olenevalt juurdepääsust on võimalik, et peate valima arveldusulatuse ja seejärel valiku **Tellimused** või **Azure’i tellimused**.
+- Valige üleantud tellimuse arvelduse omandiõiguse üleandmine
+- Sisestage selle kasutaja meiliaadress, kes on selle konto arveldusadministraator, kes saab tellimuse uueks omanikuks, ja seejärel valige **saada üleviimistaotlus**
+- Kasutajale saadetakse meil koos juhtnööridega teie ülekandmistaotluse läbivaatamiseks. Ülekandmistaotluse kinnitamiseks peab kasutaja valima meilis toodud lingi ja järgima juhtnööre.
 
-Märkus: Kui edastate oma tellimuse arveldamise omandiõiguse mõnele teisele Azure AD rentniku kontole, eemaldatakse kõik [rolli-põhise juurdepääsu juhtimise (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) ülesanded tellimuse ressursside haldamiseks jäädavalt. Ainult uuel omanikul on juurdepääs tellimuse ressursside haldamiseks. Lisateavet leiate teemast [tellimuse edastamine kasutajale teise AZURE ad rentniku](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support)jaoks.
+Märkus. Kui kannate tellimuse arvelduse omandiõiguse üle kasutaja kontole teises Azure AD rentnikus, eemaldatakse jäädavalt kõik rollipõhised juurdepääsu juhtimise [(RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) ülesanded tellimuse ressursside haldamiseks. Ainult uuel omanikul on juurdepääs tellimuse ressursside haldamiseks. Lisateavet leiate teemast [Tellimuse üleviimine kasutajale teises Azure AD rentnikus.](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Tellimuse omandiõiguse üleviimine**
+**Tellimuse omandiõiguse üleandmine**
 
-Tellimuse omandiõiguse ülekandmise eeldused (RBAC), mis haldavad tellimuse ressursse, kaotavad juurdepääsu. Lisateavet rentniku jaoks olemasoleva tellimuse lisamise kohta leiate teemast Azure ' i [tellimuse lisamine Azure ' i Active Directorys](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Tellimuse omandiõiguse ülemineku eeltingimused on rollipõhine juurdepääs (RBAC), et hallata tellimuse ressursse, kaotavad juurdepääsu. Lisateavet rentnikule olemasoleva tellimuse lisamise kohta leiate teemast Azure'i tellimuse [seostamine azure Active Directoryga](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support)või selle lisamine.
 
-- Tellimuse üleminekut olemasolevast arvelduse tsüklist praegusest arvelduse tsüklist ei edastata uuele maksevahendile uues kontos. Ainult uue konto kasutajatele saadaolev teave on teie tellimuse viimase kuu hind. Ülejäänud kasutuse ja arvelduste ajalugu ei edasta paketti.
-- Enterprise Agreement (EA) tellimuste omandiõiguse ülekandmise hetkel toetatakse ainult ettevõtteportaali portaalis
-- Krediidile orienteeritud tellimuse (nt Visual Studio, BizSpark, Microsoft Partner Network for uuele kasutajale) üleviimine eeldab, et Visual Studio/Microsoft Partner Network litsents aktsepteerib edastuse taotlust
-- Kõik ressursid (nt virtuaalsed masinad, kettad ja veebisaidid) edastatakse uuele kontole edukalt. Rentniku tellimuse üleviimine võib mõjutada järgmisi ressursse.
+- Praeguse arveldustsükli olemasoleva tasumata summaga tellimuse üleviimist uuele maksevahendile uuele kontole üle ei kanta. Ainus teave, mis on uuel kontol kasutajatele kättesaadav, on teie tellimuse viimase kuu hind. Ülejäänud kasutus- ja arveldusajalugu ei edastata tellimusega.
+- Enterprise Agreementi (EA) tellimuste arvelduse omandiõiguse üleandmine on praegu toetatud ainult ettevõttelepingu portaalis.
+- Krediidile suunatud tellimuse (nagu Visual Studio, BizSpark, Microsoft Partner Network) üleviimine uuele kasutajale nõuab üleviimistaotluse aktsepteerimiseks Visual Studio/Microsofti partnerivõrgu litsentsi.
+- Kõik ressursid (nt virtuaalarvutid, kettad ja veebisaidid) teisaldatakse uuele kontole edukalt. Rentnikuülese tellimuse üleviimine võib mõjutada järgmisi ressursse.
 
-**Azure AD Domain Services**
+**Azure AD domeeniteenused**
 
-Azure ' i võtmete hoidlad
+Azure'i võtmehoidlad
 
-- [SQL-i seotud kasutajad ja andmebaasid](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) võivad mõjutada, eriti juhul, kui klient kasutab Azure Active Directory seotud autentimist
-- Azure Active Directory autentimisega konfigureeritud **rakenduse teenused** võivad mõjutada
-- **Visual Studio meeskond** Azure ' i abonemendiga ühendatud teenuste kontod võivad ajutiselt kaotada juurdepääsu, kui ühendatud Azure ' i tellimus on tühistatud
+- [SQL-iga seotud kasutajaid ja](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) andmebaase võib mõjutada, eriti kui klient kasutab Azure Active Directoryga seotud autentimist
+- **Rakenduseteenused,** mis on konfigureeritud Azure Active Directory autentimisega, võivad mõjutada
+- **Visual Studio meeskond** Azure'i tellimustega ühendatud teenusekontod võivad ühendatud Azure'i tellimuse tühistamisel ajutiselt juurdepääsu kaotada.
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-Toimingud pärast arvelduse omanikuõiguse aktsepteerimist.
+Pärast arvelduse omanikuks tunnistamist tehke järgmist.
 
-- Arvete omandiõiguse säilitamiseks, kuid oma tellimuse tüübi muutmiseks vaadake teemat: [Azure ' i tellimuse teise pakkumise aktiveerimine](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Üle Visual Studio, Microsoft Partner Network (MPN) ja maksta, kui lähete dev/test tellimused](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Enterprise Agreementi (EA) tellimuste arveldamise omandiõiguse üleviimine](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
-- [Omandiõiguse ülekandmise KKK](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Omandiõiguse ülekandmise probleemide tõrkeotsing](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- Arvelduse omandiõiguse säilitamiseks, kuid tellimuse tüübi muutmiseks lugege järgmist. [Azure'i tellimuse vahetamine teise pakkumisega](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Visual Studio, Microsoft Partner Networki ja Pay as you go arendus-/testtellimuste ülekandmine](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Enterprise Agreementi (EA) tellimuste arvelduse omandiõiguse üleandmine](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
+- [Omanduse ülekandmise KKK](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [Omanduse ülekandmise probleemide tõrkeotsing](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)

@@ -1,8 +1,8 @@
 ---
-title: Kaasaegne Azure ' i meilikonto arveldamine
+title: ModernNe Azure'i meilipõhine arveldamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922060"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820822"
 ---
-# <a name="email-invoicing-in-azure"></a>Meili arveldamine Azure ' is
+# <a name="email-invoicing-in-azure"></a>E-posti arveldamine Azure'is
 
-Meilisõnumi arve eelistuste värskendamiseks peab teil olema omanik või kaastööd arvelduse profiilis või selle arvelduskontol. Kui olete valinud, saavad kõik arvelduse profiilis olevad omaniku, kaastöötaja, lugejate ja arve halduri rolliga kasutajad arve meili teel.
+Arve e-posti eelistuse värskendamiseks peab teil olema arveldusprofiilis või selle arvelduskontol omanik või kaasautori roll. Kui olete sisse valinud, saavad kõik kasutajad, kellel on arveldusprofiilis omaniku, kaasautori, lugeja ja arvehalduri rollid, oma arve meiliga.
 
-1. Logige sisse [Azure ' i portaali](https://portal.azure.com/).
-2. Otsige **kulude haldus + arveldus**.
-3. Valige vasakus servas olevad **arved** ja seejärel valige lehe ülaosast **e-posti arve** .
-4. Kui teil on mitu arvelduse profiili, valige arveldamise profiil ja seejärel valige käsk **Vali sisse**.
+1. Logige sisse [Azure'i portaali.](https://portal.azure.com/)
+2. Otsige üksust **Kuluhaldus ja arveldus**.
+3. Valige **vasakpoolsest** servast Arved ja seejärel valige **lehe** ülaservast e-posti arve.
+4. Kui teil on mitu arveldusprofiili, valige arveldusprofiil ja seejärel valige **Vali sisse**.
 
 5. Valige **Värskenda**.
-6. Kui teil on mitu arvelduse profiili, valige arveldamise profiil ja seejärel valige käsk **Vali sisse**.
+6. Kui teil on mitu arveldusprofiili, valige arveldusprofiil ja seejärel valige **Vali sisse**.
 
-Annate teistele juurdepääsu arvete vaatamiseks, allalaadimiseks ja maksmiseks, määrates neile MCA või MPA arvelduse profiili arve halduri rolli. Kui olete valinud oma arve meili teel, saavad kasutajad ka meili teel arveid.
+Saate anda teistele juurdepääsu arvete vaatamiseks, allalaadimiseks ja maksmiseks, määrates neile MCA või MPA arveldusprofiili arvehalduri rolli. Kui olete valinud oma arve meiliga saatmise, saavad kasutajad ka arved meiliga.
 
-1. Logige sisse [Azure ' i portaali](https://portal.azure.com/).
-2. Otsige **kulude haldus + arveldus**.
-3. Valige vasakust servast **arvelduse profiilid** . Valige loendist arvelduse profiilid arveldamise profiil, mille jaoks soovite määrata arve halduri rolli.
-4. Valige vasakpoolsest servast käsk **Access Control (iam)** ja seejärel valige lehe ülaservas nupp **Lisa** .
+1. Logige sisse [Azure'i portaali.](https://portal.azure.com/)
+2. Otsige üksust **Kuluhaldus ja arveldus**.
+3. Valige **vasakpoolses servas** Arveldusprofiilid. Valige arveldusprofiilide loendist arveldusprofiil, mille jaoks soovite määrata arvehalduri rolli.
+4. Valige **vasakpoolsest servast Accessi juhtelement (IAM)** ja seejärel **valige** lehe ülaservast Lisa.
 
-Valige ripploendis roll väärtus **arve haldur**. Sisestage juurdepääsu andmiseks kasutaja meiliaadress. Rolli määramiseks valige **Salvesta** .
+Valige ripploendis Roll väärtus **Arvehaldur**. Sisestage juurdepääsu andmiseks kasutaja meiliaadress. Rolli **määramiseks** valige Salvesta.

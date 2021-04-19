@@ -1,24 +1,25 @@
 ---
-title: Teade „Tellimus on aegunud“ Office’i rakendustes
+title: Microsoft 365 rakenduste tellimus on aegunud
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789262"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823567"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Office’i rakendustes kuvatakse teade „Tellimus on aegunud“
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Teade "Tellimus on aegunud" Microsoft 365 rakendustes
 
 - Vaadake [teenuste seisundi lehelt](https://docs.microsoft.com/office365/enterprise/view-service-health) järele, kas teenusega on teadaolevalt probleeme.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789262"
 
 - Käivitage [aktiveerimise tõrkeotsija](https://aka.ms/SARA-OfficeActivation-Alchemy) ja taaskäivitage arvuti.
 
-- Mõjutatud masinas [määrake uuesti Office’i aktiveerimisolek](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Mõjutatud masinas [määrake uuesti Office’i aktiveerimisolek](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Üksikasjalikud juhised leiate siit: 
 

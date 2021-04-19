@@ -2,21 +2,22 @@
 title: Sagedasemad paroolidega seotud probleemid ja lahendused
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002325"
 - "4514"
-ms.openlocfilehash: bc5ce953272fb13540c340cec1ab8143af398d51
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 3b8ef531dbaef257c8ad1d7588173d70f6eb3272
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788806"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817528"
 ---
 # <a name="common-password-issues-and-resolutions"></a>Sagedasemad paroolidega seotud probleemid ja lahendused
 
@@ -26,7 +27,7 @@ Siin on mõned sagedasemad paroolidega seotud probleemid ja lahendused.
 
 - **Oma parooli muutmine**: suvandis **[Minu konto](https://portal.office.com/account/#home) >  Turve ja privaatsus > Parool**.
 
-- [Unustatud administraatori parooli lähtestamine, kui parool on endiselt brauseri vahemällu salvestatud](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide#reset-my-office-365-tenant-admin-password).
+- [Unustatud administraatori parooli lähtestamine, kui parool on endiselt brauseri vahemällu salvestatud](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide#reset-my-admin-password).
 
 - **Iseteeninduslik paroolilähtestus**: [lubage kasutajatel oma parool teenusekomplektis Microsoft 365 ja Azure ise lähtestada](https://portal.office.com/adminportal/home#/SettingsMultiPivot/:/Settings/L1/SelfServiceReset) – või täpsemate juhiste jaoks vaadake teemat [Kasutajatel oma paroolide lähtestamise lubamine](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords).
 
