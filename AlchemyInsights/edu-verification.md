@@ -1,29 +1,30 @@
 ---
-title: Edu kontrollimine
+title: EDU-kontrollimine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205263"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814368"
 ---
-# <a name="edu-verification"></a>Edu kontrollimine
+# <a name="edu-verification"></a>EDU-kontrollimine
 
-Enamikul juhtudel menetletakse akadeemilisi abikõlblikkustaotlusi 24–48 tunni jooksul. Mõned taotlused võivad nõuda põhjalikumat läbivaatamist ja töötlemiseks võib võtta kuni 10 tööpäeva. Kui see on lõpetatud, saadame teie kooli kõlblikkuse staatusega e-kirja.
+Enamasti töödeldakse akadeemilisi nõuetele vastavuse taotlusi 24–48 tunni jooksul. Mõni taotlus võib nõuda põhjalikumat läbivaatamist ja töötlemiseks võib võtta kuni 10 tööpäeva. Kui see on lõpule viidud, saadame teie kooli nõuetele vastavuse olekuga meilisõnumi.
 
-**Oluline on** Kui väljusite kontrollviisardist enne domeeni sisestamist, saate [akadeemilise kontrolli viisardit](https://go.microsoft.com/fwlink/p/?linkid=2135255) igal ajal tasuta prooviperioodi jooksul jätkata.
+**Tähtis** Kui väljusite enne domeeni sisestamist kinnitusviisardist, saate tasuta prooviversiooni ajal igal ajal akadeemilise kinnitamise viisardit jätkata. [](https://go.microsoft.com/fwlink/p/?linkid=2135255)
 
-Kui soovite kontrollida oma domeeni olekut, [Microsoft 365 halduskeskusse](https://go.microsoft.com/fwlink/p/?linkid=2024339). Kerige avalehel allapoole ja leidke **arvelduskaart.** **Arvelduskaart** näitab kinnitusprotsessi olekut (kinnitatud, ootel, keeldutud või domeeni lisamine).
+Kui soovite kontrollida oma domeeni olekut, avage [Microsoft 365 halduskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2024339) Liikuge avalehel kerides alla ja otsige üles **arvelduskaart.** **Arvelduskaart** näitab kinnitamise olekut (kinnitatud, ootel, tagasi lükatud või domeeni lisamine).
 
-Kui teie taotlus on tagasi lükatud, vaadake teemat [Minu kool pole sobilik. Mida ma nüüd teen?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
+Kui teie taotlus lükatakse tagasi, lugege [teemat Minu kool pole sobilik. Mida teha?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

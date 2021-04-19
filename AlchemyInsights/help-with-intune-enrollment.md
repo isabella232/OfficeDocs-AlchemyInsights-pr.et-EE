@@ -1,36 +1,37 @@
 ---
-title: Abi Intune registreerimine
+title: Intune'i registreerumise spikker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 184612df677770413c04ff6d62468373e8e17e4a
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569011"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811560"
 ---
-# <a name="help-with-intune-enrollment"></a>Abi Intune registreerimine
+# <a name="help-with-intune-enrollment"></a>Intune'i registreerumise spikker
 
 
-- [Teave seadme registreerimise kohta Intune ' iga](https://docs.microsoft.com/intune/device-enrollment)
+- [Teave intune'i seadmega liitumise kohta](https://docs.microsoft.com/intune/device-enrollment)
 
-- [Seadistage iOS-i seadme registreerimine Intune ' iga](https://docs.microsoft.com/intune/ios-enroll)
+- [iOS-i seadme registreerimine Intune'iga](https://docs.microsoft.com/intune/ios-enroll)
 
-- [Android-seadme registreerimise häälestamine Intune ' iga](https://docs.microsoft.com/intune/android-enroll)
+- [Androidi seadme registreerimine Intune'iga](https://docs.microsoft.com/intune/android-enroll)
 
-- [Windowsi seadme registreerimise häälestamine Intune ' iga](https://docs.microsoft.com/intune/windows-enroll)
+- [Windowsi seadme registreerimine Intune'iga](https://docs.microsoft.com/intune/windows-enroll)
 
 **Seadme registreerimise tõrkeotsing**
 
-1. Kasutage Intune ' i tõrkeotsingu portaali levinud registreerimise tõrgete diagnoosimiseks ja lahendamiseks. Vaadake [seda](https://docs.microsoft.com/intune/help-desk-operators) dokumenti rohkem üksikasju.
+1. Intune'i tõrkeotsinguportaali abil saate diagnoosida ja lahendada levinumaid registreerimistõrkeid. Lisateavet [leiate](https://docs.microsoft.com/intune/help-desk-operators) sellest dokumendist.
 
-2. Vaadake need dokumendid läbi levinud tõrgete loendi, mis takistavad registreerimise ja resolutsioonide iga: [tõrkeotsingu juhend](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ja [tõrkeotsingu doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Vaadake need dokumendid üle, et saada ülevaade levinumatest vigadest, mis takistavad registreerimist ja lahendamist: tõrkeotsingu [juhend ja](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) [tõrkeotsingu dokument.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)

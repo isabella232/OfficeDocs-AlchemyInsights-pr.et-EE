@@ -1,29 +1,30 @@
 ---
-title: Hankige tuge Windowsi või Azure ' i jaoks
+title: Windowsi või Azure'i tugi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: fdc2b1fc30e5f3b5a06c9a489789e81fe342a890
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 2b5b1b6ed6395878c6fcb79454624c4aeb185585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44493082"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812136"
 ---
-# <a name="get-support-for-windows-or-azure"></a>Hankige tuge Windowsi või Azure ' i jaoks
+# <a name="get-support-for-windows-or-azure"></a>Windowsi või Azure'i tugi
 
-Windowsi või Azure ' i jaoks pakub Microsoft mitmesuguseid plaane, mis aitavad teil saada abi vajatava ettevõtte toe, alates Premium Support saadaval päev ja öö, et Pay-per-intsidentide võimalusi. Kui teie organisatsioonil ei ole tasulise toe plaani, valige lisateabe saamiseks alltoodud suvand.
+Windowsi või Azure'i korral pakub Microsoft mitmesuguseid plaane, mis aitavad teil saada abi vajamineva ettevõtte toe alates tasulised toest, mis on saadaval päeval ja öösel, kuni juhtumi eest maksmise võimalusteni. Kui teie ettevõttel pole tasulise toe plaani, valige lisateabe saamiseks allpool soovitud suvand.
 
-- **Microsoft Unified support** – Microsoft Unified support muudab oluliselt ettevõtte tugiteenuste kogemust, pakkudes kogu oma Microsofti toodete ja teenuste organisatsiooni hõlmavat katvust, välistama uusi võimalusi IT-spetsialistidele ja arendajatele ning tulemuspõhist lähenemist, et pakkuda suuremat tugiteenuste väärtust, kui teie organisatsioon kasvab. Lisateave on [Unified support veebilehel](https://aka.ms/unified-support).
-- **Microsofti professionaalne tugi (Pay-per-intsident)** -kui vajate kohest tehnilist tuge oma ettevõttele, professionaalne tugi on saadaval ühe tasulise intsidendiga (PPI) või 5-pakk intsidente. Microsofti eksperdid aitavad teil teha tõrkeotsingut teatud probleemi, tõrketeate või funktsionaalsusega, mis ei tööta ootuspäraselt. Lisateabe saamiseks ja ostutasu saamiseks juhtumi toe kohta [looge uus tugiteenuse taotlus](https://support.microsoft.com/supportforbusiness/productselection).
-- **Azure ' i tugi** -arvelduse ja tellimuse tugi sisaldub teie Microsoft Azure ' i tellimusega, mille saate edastada [Microsoft Azure ' i haldusportaali](https://portal.azure.com/)kaudu. Tehnilise toe saamiseks võite osta [Microsoft Azure ' i tugiteenuse plaanid](https://azure.microsoft.com/support/plans/) hulgilitsentsimise programmide kaudu või otse Microsoftilt.
+- **Microsofti ühtne tugiteenus** – Microsofti ühtne tugiteenus muudab oluliselt ettevõtte tugiteenuseid, pakkudes organisatsiooni hõlmavat teavet kõigi microsofti toodete ja teenuste kohta, laiendades uusi võimalusi IT-spetsialistidele ja arendajatele ning tulemustel põhinevat lähenemist ettevõtte kasvades suurema tugiväärtuse pakkumiseks. Lisateavet leiate ühendatud [toe veebisaidilt.](https://aka.ms/unified-support)
+- **Microsoft Professional Support (pay-per-incident)** - Kui vajate oma ettevõttele kohest tehnilist tuge, on professionaalne tugi saadaval ühekordse juhtumitasuna (PPI) või 5-paki juhtumitena. Microsofti asjatundjad aitavad teil teha tõrkeotsingut konkreetse probleemi, tõrketeate või funktsiooni kohta, mis ei tööta ootuspäraselt. Lisateabe saamiseks ja tasu ostmiseks juhtumitoe kohta [looge uus tugiteenusetaotlus.](https://support.microsoft.com/supportforbusiness/productselection)
+- **Azure'i** tugi . Arveldus- ja tellimuse tugi on teie Microsoft Azure'i tellimuses, mille saate esitada [Microsoft Azure'i haldusportaali kaudu.](https://portal.azure.com/) Tehnilise toe jaoks saate microsoft [Azure'i tugiteenuselepinguid osta](https://azure.microsoft.com/support/plans/) hulgilitsentsimisprogrammide kaudu või otse Microsoftilt.
 
-Kui teie probleem on seotud Microsoft 365, uuesti oma päring, kasutades teatud tootenimesid ja funktsioone.
+Kui probleem on seotud Microsoft 365-ga, saate päringut konkreetsete tootenimede ja funktsioonide abil uuesti esitada.

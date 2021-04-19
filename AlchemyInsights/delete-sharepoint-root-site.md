@@ -1,8 +1,8 @@
 ---
-title: SharePointi juurte saidi kustutamine
+title: SharePointi juursaidi kustutamine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: d33029b6fe333b38cee7dba66ba4a5044248f174
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713531"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815467"
 ---
-# <a name="delete-the-sharepoint-root-site"></a>SharePointi juurte saidi kustutamine
+# <a name="delete-the-sharepoint-root-site"></a>SharePointi juursaidi kustutamine
 
-SharePointi juure saidi kustutamine  **pole toetatud.**
+SharePointi juursaidi kustutamist  **ei toetata.**
 
-1.  Kui juurte sait on juba kustutatud, ilmneb kasutajatele saidi avamisel tõrkeid 404 faili ei leitud.
-2.  Selle probleemi lahendamiseks klõpsake uue SharePointi administreerimiskeskuse saidi taastamiseks lehel  [Kustutatud saidid](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)  nuppu juur ja klõpsake nuppu Taasta.
-3.  Juure saidi kustutamise asemel kasutage uue SharePointi administreerimiskeskuse [saidi asendamiseks](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  , kui juur on taastatud.
+1.  Kui juursaidil on juba kustutatud, ilmneb kasutajatele saidile juurdepääsemisel tõrge 404 Faili ei leitud.
+2.  Probleemi lahendamiseks taastage sait uuest SharePointi halduskeskusest, avades lehe  [Kustutatud](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)  saidid, valige juursait ja klõpsake nuppu Taasta.
+3.  Juursaidi kustutamise asemel kasutage [](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site) pärast juursaidi taastamist uue SharePointi halduskeskuse asendussaidi kasutamist.
 
-Lisateavet leiate teemast [juurte saidi moderniseerimine](https://docs.microsoft.com/sharepoint/modern-root-site)
+Lisateavet leiate teemast [Juursaidi moderniseerimine](https://docs.microsoft.com/sharepoint/modern-root-site)
