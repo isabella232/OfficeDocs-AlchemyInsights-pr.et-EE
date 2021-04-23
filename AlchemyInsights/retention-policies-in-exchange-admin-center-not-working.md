@@ -1,5 +1,5 @@
 ---
-title: Exchange ' i administreerimiskeskuse poliitikate säilitamine ei tööta
+title: Exchange'i halduskeskuse säilituspoliitikad ei tööta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740506"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952224"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Säilituspoliitika Exchange ' i administreerimiskeskuses
+# <a name="retention-policies-in-exchange-admin-center"></a>Säilituspoliitikad Exchange'i halduskeskuses
 
-Kui soovite, et me käivitaks allpool mainitud sätete automatiseeritud kontrolli, valige nupp tagasi <--selle lehe ülaosas ja seejärel sisestage selle kasutaja meiliaadress, kellel on säilituspoliitika probleeme.
+Kui soovite, et käivitame allpool nimetatud sätete automaatsed kontrollid, valige selle lehe ülaservas nupp < ja sisestage säilituspoliitikatega seotud probleemidega kasutaja meiliaadress.
 
- **Probleem:** Exchange ' i administreerimiskeskuse äsja loodud või värskendatud säilituspoliitika ei rakendu postkastidele ega üksustele ei teisaldata arhiivi postkasti ega kustutatud. 
-  
- **Juure põhjused.**
-  
-- Selle põhjuseks võib olla, et **hallatud kaustade abiline** pole kasutaja postkasti töödelnud. Hallatud kaustade assistent proovib töödelda iga teie pilvepõhise asutuse postkasti iga seitsme päeva järel. Kui muudate säilituse silti või rakendate postkastile mõne muu säilituspoliitika, võite oodata, kuni hallatav kaust teie postkasti töötleb, või käivitage ManagedFolderAssistant cmdlet-käsk, et käivitada hallatavate kaustade abiline kindla postkasti töötlemiseks. Selle cmdlet-käsu käivitamine on kasulik säilituspoliitika või säilituse siltide sätete katsetamiseks või tõrkeotsinguks. Lisateavet leiate teemast [hallatava kausta abilise käivitamine](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
-    
-  - **Lahendus:** Hallatava kausta abilise käivitamiseks kindla postkasti korral käivitage järgmine käsk.
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+Kui teil on Exchange'i halduskeskuse säilituspoliitikatega probleeme, mis ei kehti postkastidele või üksustele, mis ei teisalda arhiivipostkasti, kontrollige järgmist.
 
-- See võib ilmneda ka juhul, kui postkastis on **RetentionHold** **lubatud** . Kui postkast on paigutatud RetentionHold, siis postkasti säilituspoliitika ei töödelda selle aja jooksul. RetentionHold Informaton kohta leiate lisateavet järgmistest teemadest: [postkasti säilituse ootelepanek](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
-    
-    **Lahendus**
-    
-  - Kontrollige, kas RetentionHold säte on kindlas postkastis, mis asub [ekso PowerShellis](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps).
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**Juurpõhjused:**
 
-  - RetentionHold **keelamiseks** kindlal postkastil käivitage järgmine käsk.
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **Hallatud** kaustaabimees ei ole kasutaja postkasti töötlenud. Hallatava kausta abiline proovib töödelda iga postkasti teie pilvepõhises organisatsioonis üks kord seitsme päeva jooksul.
 
-  - Käivitage uuesti hallatavate kaustade abiline.
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **Lahendus:** Käivitage hallatud kaustaabimees.
 
- **Märkus:** Kui postkast on väiksem kui 10 MB, siis ei töötle hallatud kaustade assistent postkasti automaatselt.
+- **Säilituspeetus** on **postkastis** lubatud. Kui postkast on paigutatud säilitusapeetusse, siis selle aja jooksul postkasti säilituspoliitikat ei töödelda.
+
+  **Lahendus:** Kontrollige säilitussätte olekut ja värskendage seda vastavalt vajadusele. Lisateavet leiate teemast [Postkasti säilituse ootel hoidmine.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
  
-Lisateavet Exchange ' i administreerimiskeskuse poliitikate kohta leiate järgmistest teemadest.
-- [Säilituse siltide ja säilituspoliitika põhimõtted](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Säilituspoliitika rakendamine postkastidele](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Säilituse siltide lisamine või eemaldamine](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Postkastile paigutatud ootelepaneku tüübi tuvastamine](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+**Märkus.** Kui postkast on väiksem kui 10 MB, ei töötle hallatava kausta abiline postkasti automaatselt.
+ 
+Lisateavet Säilituspoliitikate kohta Exchange'i halduskeskuses leiate järgmisest teemast.
+
+- [Säilitussildid ja säilituspoliitikad](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+
+- [Säilituspoliitika rakendumine postkastidele või](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) [säilitussiltide lisamine või eemaldamine](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [Postkasti paigutatud ootel salvestatud ootele pandud tüübi tuvastamine](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
