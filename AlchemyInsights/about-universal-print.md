@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: cd72d9e3b783d4a2e17fe5ac971e785824bc1798
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 90ecb6f7656e5f4f0a8c3da3692f0892f4829d10
+ms.sourcegitcommit: c9021d873950e378c927e39e179b5da4ff17b880
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404519"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079977"
 ---
 # <a name="about-universal-print"></a>Teave universaalse printimise kohta
 
 Universaalne printimine on kaasas Microsoft 365 ja Windows 10 äri- ja haridusasutuste tellimustega, kuid neid saab osta ka eraldiseisva tellimusena.
 
-Siit saate teada, kuidas häälestada printereid, anda kasutajatele juurdepääs ja teha esimene prinditöö lehel Universaalne printimine.
-
 Lisateavet leiate teemast Litsentsi [universaalne | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).
+
+**Universaalse prindi tehnilise toe jaoks**
+
+Azure'i tellijad saavad Azure'i portaalis luua ja hallata universaalse printimise tugiteenusetaotlusi. Azure'i tellijatele on saadaval tugi, mille tellimusega on seotud Azure'i tugiteenuste leping.  [Juhtumi esitamiseks logige sisse Azure'i](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) portaali.
