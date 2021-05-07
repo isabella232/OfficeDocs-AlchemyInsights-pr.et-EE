@@ -1,5 +1,5 @@
 ---
-title: Teave Exchange Serveri turvavärskenduste kohta
+title: Teave Exchange Server värskenduste kohta
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726523"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233458"
 ---
-# <a name="about-exchange-server-security-updates"></a>Teave Exchange Serveri turvavärskenduste kohta
+# <a name="about-exchange-server-updates"></a>Teave Exchange Server värskenduste kohta
 
-Microsoft on välja andnud Office ' i ärirakenduse Exchange Serveri kriitilised turvavärskendused. Mõjutatud serveri versioonid on Exchange Serveri 2010, 2013, 2016 ja 2019 värskenduste tasemed. Exchange Online ' i ei mõjutata, kuid kui teil on hübriid-konfiguratsiooni tõttu mõni asutusesisene Exchange ' i server, on need potentsiaalselt haavatavad.
+Microsoft tavaliselt Exchange Server värskendusi värskendus teisipäeval (turbevärskendused) või kvartali kaupa (koondvärskendused). Uusimate välja antud värskenduste teadaannete kohta leiate teavet [Exchange meeskonna ajaveebist.](https://aka.ms/ehlo)
 
-Siit leiate järgmised väljakuulutamise teadaanded: [välja antud: märts 2021 Exchange Serveri turvavärskendused](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Oma serverite Exchange kasutage Exchange Server seisundikontrolli skripti [(GitHub, kasutage uusimat versiooni).](https://aka.ms/ExchangeHealthChecker) Selle skripti käivitamine ütleb teile, kas mõni teie Exchange serveritest on värskenduste (CUs ja SUs) taga.
 
-**Olulised märkused.**
+- Uusimale koondvärskendusele värskendamiseks avage [Exchange värskendusviisard](https://aka.ms/ExchangeUpdateWizard) ja valige oma praegu käitav CU ja siht-CU. Keskkonna **juhiste otsimiseks** valige Käsk Teavita mind juhistest.
 
-Kui installite värskendused käsitsi, lugege tähtsa teabe saamiseks jaotises "teadaolevad probleemid" värskenduse KB artiklite jaotist "teadaolevad probleemid". Turvavärskendused peavad kulgema kõrgendatud CMD/PowerShell Prompt!
-
-[Siit saate teada](https://aka.ms/exupdatefaq), kuidas värskendada tõrkeotsingu teavet.
+- Kui ilmneb tõrkeid Exchange Server installimise ajal või pärast seda, lugege teemat [Exchange ja Turbevärskenduste nurjunud installide parandamine.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

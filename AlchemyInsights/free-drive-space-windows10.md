@@ -17,7 +17,7 @@ ms.custom:
 - "9005403"
 ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
 ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: et-EE
 ms.lasthandoff: 04/02/2021
 ms.locfileid: "51505352"
@@ -29,7 +29,7 @@ Siit leiate Windowsis kettaruumi vabastamiseks kaks võimalust.
 - Vabastage Windows 10 kettaruumi.
 - Vabastage Windows 10 värskenduste jaoks kettaruumi välise mäluseadme abil.
 
-Kui pärast kettapuhastust on kettaruumi endiselt vähe, võib probleem olla selles, et ajutiste failide kaust Temp täidetakse kiiresti Microsoft Store’i kasutatud rakendusefailidega (.appx). Probleemi lahendamiseks lähtestage Microsoft Store, tühjendage Microsoft Store’i vahemälu ja seejärel käivitage Windows Update’i tõrkeotsing. Enne järgmiste toimingute tegemist tuleb Microsoft Store kindlasti sulgeda.
+Kui pärast kettapuhastust on kettaruumi endiselt vähe, võib probleem olla selles, et ajutiste failide kaust Temp täidetakse kiiresti Microsoft Store’i kasutatavate rakendusefailidega (.appx). Probleemi lahendamiseks lähtestage Microsoft Store, tühjendage Microsoft Store’i vahemälu ja seejärel käivitage Windows Update’i tõrkeotsing. Enne järgmiste toimingute tegemist tuleb Microsoft Store kindlasti sulgeda.
 
 **1. toiming: Microsoft Store’i lähtestamine**
 

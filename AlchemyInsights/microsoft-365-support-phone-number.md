@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002926"
 - "5599"
-ms.openlocfilehash: e6c0cfb8e7bccdf8a420b53970da43f65ca5a992
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 9e3485b513859f0b488838ede864cc997e5a568d
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829957"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261690"
 ---
 # <a name="microsoft-365-support-phone-number"></a>Microsoft 365 klienditoe telefoninumber
 
 - Iseteeninduslikke lahendusi või klienditoelt tagasi helistamiseks tippige probleemi täpsem kirjeldus.  Kui teil on siiski vaja tugiteenusepilet avada, klõpsake lehe allservas linki **Tugiteenuse poole pöördumine**.
 
-- [Microsoft 365 ettevõtteversiooni tugiteenuse telefoninumbrid ](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)
+- [Microsoft 365 ettevõtteversiooni tugiteenuse telefoninumbrid ](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)
