@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge ' i käivitamine kioski režiimis
+title: Käivita Microsoft Edge kioskirežiimis
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708526"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312400"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>Microsoft Edge ' i käivitamine kioski režiimis
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Käivita Microsoft Edge kioskirežiimis
 
-Saate konfigureerida kioski režiimi Microsoft Edge ' i versioonides 77 ja uuemates versioonides ning ka Microsoft Edge ' i versioonides 45 ja varasemas versioonis.
+Kioskirežiimi saate konfigureerida nii Microsoft Edge versioonides 87 ja uuemates versioonides kui ka Microsoft Edge'i pärandversioon versioonides 45 ja varasemates versioonides. Lisateavet leiate teemast [Kioski Microsoft Edge konfigureerimine.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)
 
-Opsüsteemis Windows 10 töötavate seadmete konfigureerimiseks saate [kasutada ühte rakendust või mitme rakenduse kioski režiimi](https://go.microsoft.com/fwlink/?linkid=2133659).
+Saate konfigureerida seadmed, mis Windows 10 ühes- või mitmerakenduselises [kioskirežiimis.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Lisateavet Microsoft Edge ' i ja Microsoft Edge ' i pärandi Microsoft Edge ' i uusima versiooni jaoks kioski režiimi häälestamise kohta leiate järgmistest teemadest.
+Lisateavet kioskirežiimi häälestamise kohta Microsoft Edge stabiilse kanali uusimas versioonis ja Microsoft Edge'i pärandversioon:
 
-- [Microsoft Edge, millele on määratud juurdepääs](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [Microsoft Edge "-kiosk" käsurea parameeter](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [Microsoft Edge ' i pärand kioski režiimi tugi](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge määratud juurdepääsuga](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Microsoft Edge Käsurea parameeter "--kiosk"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Kioski Microsoft Edge'i pärandversioon tugi](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
