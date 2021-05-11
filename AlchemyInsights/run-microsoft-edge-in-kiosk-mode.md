@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge ' i käivitamine kioski režiimis
+title: Käivita Microsoft Edge kioskirežiimis
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708526"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312400"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a><span data-ttu-id="b1ee2-102">Microsoft Edge ' i käivitamine kioski režiimis</span><span class="sxs-lookup"><span data-stu-id="b1ee2-102">Run Microsoft Edge in kiosk mode</span></span>
+# <a name="run-microsoft-edge-in-kiosk-mode"></a><span data-ttu-id="8c3c3-102">Käivita Microsoft Edge kioskirežiimis</span><span class="sxs-lookup"><span data-stu-id="8c3c3-102">Run Microsoft Edge in kiosk mode</span></span>
 
-<span data-ttu-id="b1ee2-103">Saate konfigureerida kioski režiimi Microsoft Edge ' i versioonides 77 ja uuemates versioonides ning ka Microsoft Edge ' i versioonides 45 ja varasemas versioonis.</span><span class="sxs-lookup"><span data-stu-id="b1ee2-103">You can configure kiosk mode in Microsoft Edge versions 77 and later, as well as in Microsoft Edge Legacy versions 45 and earlier.</span></span>
+<span data-ttu-id="8c3c3-103">Kioskirežiimi saate konfigureerida nii Microsoft Edge versioonides 87 ja uuemates versioonides kui ka Microsoft Edge'i pärandversioon versioonides 45 ja varasemates versioonides.</span><span class="sxs-lookup"><span data-stu-id="8c3c3-103">You can configure kiosk mode in Microsoft Edge versions 87 and later, as well as in Microsoft Edge Legacy versions 45 and earlier.</span></span> <span data-ttu-id="8c3c3-104">Lisateavet leiate teemast [Kioski Microsoft Edge konfigureerimine.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)</span><span class="sxs-lookup"><span data-stu-id="8c3c3-104">For more information, see [Configure Microsoft Edge kiosk mode](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode).</span></span>
 
-<span data-ttu-id="b1ee2-104">Opsüsteemis Windows 10 töötavate seadmete konfigureerimiseks saate [kasutada ühte rakendust või mitme rakenduse kioski režiimi](https://go.microsoft.com/fwlink/?linkid=2133659).</span><span class="sxs-lookup"><span data-stu-id="b1ee2-104">You can configure devices that run on Windows 10 to [run in single-app or multi-app kiosk mode](https://go.microsoft.com/fwlink/?linkid=2133659).</span></span>
+<span data-ttu-id="8c3c3-105">Saate konfigureerida seadmed, mis Windows 10 ühes- või mitmerakenduselises [kioskirežiimis.](https://go.microsoft.com/fwlink/?linkid=2133659)</span><span class="sxs-lookup"><span data-stu-id="8c3c3-105">You can configure devices that run on Windows 10 to [run in single-app or multi-app kiosk mode](https://go.microsoft.com/fwlink/?linkid=2133659).</span></span>
 
-<span data-ttu-id="b1ee2-105">Lisateavet Microsoft Edge ' i ja Microsoft Edge ' i pärandi Microsoft Edge ' i uusima versiooni jaoks kioski režiimi häälestamise kohta leiate järgmistest teemadest.</span><span class="sxs-lookup"><span data-stu-id="b1ee2-105">For more information on setting up kiosk mode in the latest version of the Microsoft Edge Stable channel and in Microsoft Edge Legacy, see:</span></span>
+<span data-ttu-id="8c3c3-106">Lisateavet kioskirežiimi häälestamise kohta Microsoft Edge stabiilse kanali uusimas versioonis ja Microsoft Edge'i pärandversioon:</span><span class="sxs-lookup"><span data-stu-id="8c3c3-106">For more information on setting up kiosk mode in the latest version of the Microsoft Edge Stable channel and in Microsoft Edge Legacy, see:</span></span>
 
-- [<span data-ttu-id="b1ee2-106">Microsoft Edge, millele on määratud juurdepääs</span><span class="sxs-lookup"><span data-stu-id="b1ee2-106">Microsoft Edge with assigned access</span></span>](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [<span data-ttu-id="b1ee2-107">Microsoft Edge "-kiosk" käsurea parameeter</span><span class="sxs-lookup"><span data-stu-id="b1ee2-107">Microsoft Edge “--kiosk” command line parameter</span></span>](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [<span data-ttu-id="b1ee2-108">Microsoft Edge ' i pärand kioski režiimi tugi</span><span class="sxs-lookup"><span data-stu-id="b1ee2-108">Support for Microsoft Edge Legacy kiosk mode</span></span>](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [<span data-ttu-id="8c3c3-107">Microsoft Edge määratud juurdepääsuga</span><span class="sxs-lookup"><span data-stu-id="8c3c3-107">Microsoft Edge with assigned access</span></span>](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [<span data-ttu-id="8c3c3-108">Microsoft Edge Käsurea parameeter "--kiosk"</span><span class="sxs-lookup"><span data-stu-id="8c3c3-108">Microsoft Edge “--kiosk” command line parameter</span></span>](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [<span data-ttu-id="8c3c3-109">Kioski Microsoft Edge'i pärandversioon tugi</span><span class="sxs-lookup"><span data-stu-id="8c3c3-109">Support for Microsoft Edge Legacy kiosk mode</span></span>](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
