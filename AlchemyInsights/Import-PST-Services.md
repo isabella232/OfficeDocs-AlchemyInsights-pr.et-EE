@@ -1,5 +1,5 @@
 ---
-title: 1245-import-PST-teenused
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664058"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470244"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 importimise teenus
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Imporditeenus
 
-Microsoft 365 impordi teenus võimaldab teil lahtiselt importida mitu PST-faili, et Exchange Online ' i postkastid.
+Teenuse Microsoft 365 imporditeenus võimaldab hulgi importida mitu PST-faili Exchange Online postkasti.
 
-Imporditavale teenusele juurdepääsemiseks ja importimise alustamiseks tehke järgmist.
+Imporditeenusele juurdepääsemiseks ja impordiprotsessi alustamiseks:
 
-1. Avage [turbe & täitmise keskus](https://protection.office.com) ja logige sisse oma asutuse administraatori konto mandaadi abil.
+1. Avage [turbekontrolli & ja](https://protection.office.com) logige sisse oma asutuse administraatorikonto identimisteabega.
 
-2. Klõpsake **turbe & täitmise keskuse**vasakpaanil nuppu **andmete haldamine > import**.
+2. Klõpsake turbekontrolli & **vasakul paanil** nuppu **Teabehaldus ja > Impordi**.
 
-3. Klõpsake lehel **import** nuppu **Uus impordi töö**.
+3. Klõpsake **lehel Import** nuppu **Uus imporditöö.**
 
-4. Viisardi toimingute lõpuleviimiseks järgige neid [üksikasjalikke juhiseid](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+4. Viisardi juhiste lõpuleviimiseks järgige neid [samm-sammult juhiseid.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
 
-**Oluline**: juurdepääsuks **importimise** lehele turbe & täitmise keskuses määratakse teile  [vastavad load](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+**Tähtis.** Turbe- **ja vastavuskeskuses** & impordilehele juurdepääsemiseks on teile määratud [vastavad õigused.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
 
-Kui soovite oma postkasti importida vaid PST-faili, lugege [seda artiklit](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Kui soovite pst-faili lihtsalt oma postkasti importida, lugege [seda artiklit.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
