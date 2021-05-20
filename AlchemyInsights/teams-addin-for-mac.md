@@ -1,5 +1,5 @@
 ---
-title: Teamsi lisandmoodul Maci jaoks
+title: Teams lisandmoodul Mac-arvuti jaoks
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670324"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582066"
 ---
-# <a name="teams-add-in-for-mac"></a>Teamsi lisandmoodul Maci jaoks
+# <a name="teams-add-in-for-mac"></a>Teams lisandmoodul Mac-arvuti jaoks
 
-Puuduvate Teamsi lisandmoodulite tõrkeotsinguks Mac-operatsioonisüsteemi kasutajate jaoks tehke järgmist.
+Maci opsüsteemi Teams puuduva lisandmooduli tõrkeotsinguks tehke järgmist.
 
-**1. juhis:** Kui teil on kohapeal hübriid Exchange ' i (2016 CU3 või uuem versioon), kasutage tööriista Test-HMA.ps1, et kinnitada, et hübriid-modernne autentimine on õigesti konfigureeritud. Lisateavet leiate teemast [Outlook for iOS-i ja Androidi hübriidi kaasaegse autentimise häälestamise kinnitamine](https://aka.ms/AA980zq).  
+**1. juhis:** Kui teil on Exchange kohapealne hübriidautentimine (nõutav on 2016 CU3 või uuem), saate Test-HMA.ps1 tööriista abil kinnitada, et hübriid-modernautentimine on õigesti konfigureeritud. Lisateavet leiate teemast Hübriidjuurutuse [modernautentimise häälestuse valideerimine Outlook iOS-i ja Androidi jaoks.](https://aka.ms/TestHMAEAS)  
 
-**Märkus** Kasutage UPN-aadressi vormingut (nt [username@contoso.com](mailto:username@contoso.com)), mitte domain\username. Tehke seda isegi kasutajate jaoks, kellel on Exchange Online ' i postkastid.
+**Märkus** Kasutage UPN-aadressivormingut (nt [username@contoso.com](mailto:username@contoso.com)), mitte domeeni\kasutajanime. Tehke seda ka kasutajate jaoks, kellel Exchange Online postkastid.
 
-**Juhis 2:** Kas kasutaja on valmis kasutama **tööriistu**  >  **Accounts**... rakenduses Outlook for Mac ning konto leidmiseks ja valimiseks. Kontrollige, kas loetletud kasutajanimi on UPN-vormingus (nt [username@contoso.com](mailto:username@contoso.com)).
+**2. juhis.** Avage kasutaja **tööriistade**  >  **kontod**... ja Outlook mac-arvutis ning otsige üles ja valige konto. Kinnitage, et loetletud kasutajanimi on UPN-vormingus [(nt username@contoso.com).](mailto:username@contoso.com)
 
-**3. juhis:** Kinnita kasutaja on litsentseeritud Microsoft Teamsi kasutaja. Kasutaja peab kasutama Office 365 for Mac tellimust, toote versiooni 16,24 või uuemat versiooni.
+**3. juhis:** Veenduge, et kasutaja on litsentsitud Microsoft Teams kasutaja. Kasutaja peab kasutama Office 365 for Maci tellimust, tooteversiooni 16.24 või uuemat versiooni.

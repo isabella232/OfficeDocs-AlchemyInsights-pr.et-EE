@@ -1,5 +1,5 @@
 ---
-title: 'Domeeni kinnitamine '
+title: 'Domeeni kontrollimine '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683862"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569611"
 ---
-# <a name="how-to-verify-your-domain"></a>Domeeni kinnitamine
+# <a name="how-to-verify-your-domain"></a>Domeeni kontrollimine
 
-Domeeni kinnitamiseks järgige domeeni lisamise [viisardit](https://admin.microsoft.com/Adminportal#/Domains/Wizard)või avage **käsitsi domeeni**  >    >  **lisamine domeeni lisamine**.
+Domeeni kinnitamiseks järgige viisardit [Add Domain (Domeeni lisamine)](https://admin.microsoft.com/Adminportal#/Domains/Wizard)või avage käsitsi säte **Domains** Add domain  >  **(Domeenide**  >  **lisamine)**.
 
-Lisateavet domeeni kinnitamiseks vajalike DNS-i muudatuste kohta leiate teemast [DNS-i kirjete lisamine domeeni ühendamiseks](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Lisateavet domeeni kinnitamiseks vajalike DNS-i muudatuste kohta leiate teemast DNS-i kirjete lisamine domeeni [ühendamiseks.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Muude domeenide küsimuste kohta leiate teavet teemast [domeenide KKK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Muude domeenide kohta leiate lisateavet teemast [Domeenide KKK.](/microsoft-365/admin/setup/domains-faq)

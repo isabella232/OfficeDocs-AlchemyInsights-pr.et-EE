@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810192"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569647"
 ---
 # <a name="reset-or-change-passwords"></a>Paroolide lähtestamine või muutmine
 
-Kasutaja saab muuta oma parooli jaotisest **Minu konto**  >  [turbe- & privaatsus.](https://portal.office.com/account/#security)
+Kasutaja saab muuta oma parooli, valides kasutaja foto või initsiaalid > **Kuva konto**.
   
 Kui kasutaja on oma parooli unustanud, saab administraator parooli lähtestada, kui valite Kasutajad Aktiivsed kasutajad, valige  >  [](https://portal.office.com/adminportal/home#/users)kasutaja(d) ja klõpsake nuppu **Lähtesta parool**.
   
-[Lisateabe saamiseks klõpsake siin või](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)laske kasutajatel lähtestada oma unustatud paroolid.
+Lisateavet paroolide kohta ja selle kohta, kuidas kasutajad saavad oma paroole lähtestada, leiate teemast [Paroolide lähtestamine.](/microsoft-365/admin/add-users/reset-passwords)

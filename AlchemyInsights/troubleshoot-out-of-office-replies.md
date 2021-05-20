@@ -1,5 +1,5 @@
 ---
-title: Kontorist väljas kontorist väljas automaatvastuste tõrkeotsing
+title: Automaatvastuste Office tõrkeotsing
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832234"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573706"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Kontorist väljas kontorist väljas automaatvastuste tõrkeotsing
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Automaatvastuste Office tõrkeotsing
 
-Sõltuvalt sellest, kuidas olete office'i kontorist väljas olevad automaatvastused konfigureerinud, võivad probleemide põhjuseks olla mitmesugused võimalikud põhjused.
+Probleemide põhjuseks võivad olla mitmesugused põhjused olenevalt sellest, kuidas olete automaatvastused Office konfigureerinud.
 
-Kui te ei tea, kus probleem võib olla, lugege lisateavet office'i kontorist väljas [(OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972) vastuste mõistmise ja tõrkeotsingu kohta.
+Kui te ei tea, kus probleem võib olla, lugege läbi Office [(OOF) vastuste](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)mõistmine ja tõrkeotsing.

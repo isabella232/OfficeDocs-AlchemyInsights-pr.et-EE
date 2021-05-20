@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801547"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545722"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Rünnaku simulaator Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator Microsoft 365
 
-- Kas teil on puudu rünnaku simulaator? Attack Simulator nõuab **Microsoft Defender office 365 leping 2 (ATP leping 2)** või **Office 365 Enterprise E5** . Rakenduses Microsoft Defender for Office 365 leping 1 (ATP leping 1), Office 365 Enterprise E3 või Microsoft 365 ettevõtetele mõeldud Office ' i pakettide jaoks **ei ole** rünnaku simulaatorit kaasatud.
+- Kas teil puudub ründesimulaator? Ründesimulaatori **kasutamiseks on vaja Microsoft Defenderit Office 365 2** või Office 365 Enterprise **E5 jaoks.** **Ründesimulaatorit ei** kaasata Microsoft Defenderi Office 365 1, Office 365 Enterprise E3 ega Microsoft 365 ettevõtterakendused tellimuste jaoks.
 
-- Simuleeritud rünnakute käivitamiseks kasutatav konto peab olema üldadministraator või administraatori õigused ja mitme teguriga autentimine (MFA). Lisateavet rünnaku simulaatori nõuete kohta leiate [sellest teemast](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Simuleeritud rünnakute käivitamiseks kasutav konto nõuab üldadministraatori või turbeadministraatori õigusi ja mitme teguriga autentimist (MFA). Lisateavet ründesimulaatori nõuete kohta leiate [sellest teemast.](/microsoft-365/security/office-365-security/attack-simulator)
 
-- Tähtsamaid asju teada **Brute Force Password** Attack simulatsioonid:
+- Oluline teave **Brute Force Passwordi rünnaku simulatsioonide** kohta.
 
-  - Kui TARGETi kontol on MFA lubatud ja parool on õigesti kajastatud, ei kuvata kontot ohustatud kujul (teine autentimine on puudulik).
+  - Kui sihtkontol on lubatud MFA ja parool arvati õigesti ära, ei kuvata kontot ohustatud kontona (teine autentimistegur pole täielik).
 
-  - Parool ei tohi olla suurem kui 10 MB. Kasutage ühte parooli rea kohta ja lisage loendi viimasele paroolile tühi rida (veo tagastus).
+  - Paroolifail ei tohi olla suurem kui 10 MB. Kasutage ühte parooli rea kohta ja lisage loendis viimase parooli järele tühi rida (tagasijooksu).
 
-- Olulised asjad, mida saab teada **oda andmepüügiga** seotud simulatsioonide kohta.
+- Olulised asjad, mida saate **teada oda andmepüügist, kinnitage** simulatsioonid.
 
-  - Kujunduse järgi ei saa te **andmepüügi sisselogimise serveri URL-i** jaoks kohandatud väärtust anda.
+  - Vaikimisi ei saa andmepüügilogimisserveri URL-i jaoks **kohandatud väärtust sisestada.**
 
-  - Kui adressaat kasutab teate saatmiseks [lisandmoodulit luba](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) sõnum andmepüügiks, siis ei pruugi te saada sõnumile teatisi (kuna tegemist on simuleeritud rünnakuga).
+  - Kui adressaat kasutab [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) sõnumi andmepüügiks teatamiseks lisandmoodulit Luba aruandesõnumi lisandmoodul, ei pruugi te sõnumi kohta teatisi saada (kuna see on simuleeritud rünnak).
 
-- Aruanded: pärast simuleeritud rünnaku lõpulejõudmist võite aruande kuvamiseks klõpsata nuppu **rünnaku üksikasjad** .
+- Aruanded. Pärast simuleeritud rünnaku lõpule viimist saate aruande **koostamiseks** klõpsata nuppu Rünnaku üksikasjad.
 
-- Üksikasjalikud juhised ja uued funktsioonid rakenduses Attack Simulator leiate teemast [rünnaku simulaator Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Üksikasjalikud juhised ja uued funktsioonid ründesimulaatoris leiate teemast [Attack Simulator in Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).

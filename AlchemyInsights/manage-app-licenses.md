@@ -1,5 +1,5 @@
 ---
-title: Rakenduse litsentside haldamine
+title: Rakenduselitsentside haldamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
-ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
+ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50237564"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545643"
 ---
-# <a name="manage-app-licenses"></a>Rakenduse litsentside haldamine
+# <a name="manage-app-licenses"></a>Rakenduselitsentside haldamine
 
 ## <a name="to-change-license-quantity"></a>Litsentsi koguse muutmine
 
-**Vaadake videot** , mis näitab, kuidas seda teha: [uute litsentside ostmine](https://go.microsoft.com/fwlink/p/?linkid=2154857) või [olemasolevate litsentside eemaldamine](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**VAADAKE videot,** mis näitab, kuidas seda teha: [Osta uusi litsentse](https://go.microsoft.com/fwlink/p/?linkid=2154857) või [Eemalda olemasolevad litsentsid](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Avage   >  leht **[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
-2. Otsige menüü **tooted** jaotises **rakendused** üles rakendus, mida soovite hallata. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **osta litsentse**.
-3. Kui soovite litsentside arvu vähendada, valige paani **litsentside ostmine** ülaosas nupp **Eemalda litsentsid**.
-4. Litsentside ostmiseks või eemaldamiseks märkige jaotises **Uus kogus** väljal **litsentside** koguarv selle tellimuse jaoks soovitud litsentside koguarv. Kui teil on näiteks 100 litsentsid ja soovite lisada veel viis, sisestage 105. Kui soovite eemaldada viis neist, sisestage 95.
+1. Avage leht **Toodete**  >  **[arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Otsige **menüü** Tooted jaotises **Rakendused üles** rakendus, mida soovite hallata. Valige kolm punkti (veel toiminguid) ja seejärel valige **Osta litsentse.**
+3. Kui soovite litsentside arvu vähendada, valige paani  Litsentside ostmine ülaosas käsk **Eemalda litsentsid**.
+4. Litsentside ostmiseks või eemaldamiseks **sisestage** väljale Litsentside koguarv jaotises Uus kogus selle tellimuse jaoks soovitud litsentside koguarv.  Näiteks kui teil on 100 litsentsi ja soovite lisada veel viis litsentsi, sisestage 105. Kui soovite eemaldada viis neist, sisestage 95.
 5. Valige **Salvesta**.
 
-## <a name="to-assign-app-licenses"></a>Rakenduse litsentside määramine
+## <a name="to-assign-app-licenses"></a>Rakenduselitsentside määramine
 
-1. Avage   >  leht **[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054)** arveldamine.
-2. Otsige ja valige menüü **tooted** jaotises **rakendused** rakendus, mida soovite hallata.
-3. Valige jaotises **sätted & toimingud** **Publisheri portaalis hallatav** link.
+1. Avage leht **Toodete**  >  **[arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Otsige **menüü** Tooted jaotises **Rakendused üles** ja valige rakendus, mida soovite hallata.
+3. Valige **Sätted & jaotises** Toimingud publisheri portaalis link **Halda**.
