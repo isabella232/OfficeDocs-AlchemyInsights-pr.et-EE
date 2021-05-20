@@ -1,22 +1,23 @@
 ---
 title: Litsents või konto on keelatud
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 57331da43579af705c7e9ba52211295c0e37ce34
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
-ms.translationtype: HT
+ms.openlocfilehash: 045726996da5b409da9afe0e7b19e3f6675ade8c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286568"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544862"
 ---
 # <a name="license-or-account-disabled"></a>Litsents või konto on keelatud
 
@@ -24,12 +25,11 @@ Kui teie tellimus on aegunud või Microsoft on selle keelanud või kui te tühis
 
 **Tellimuse uuesti aktiveerimine**
 
-1. Minge halduskeskuses lehele **Arveldamine > [Tooted ja teenused](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Avage halduskeskuses leht Toodete  >  [arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Otsige **vahekaardil Tooted** üles tellimus, mille soovite uuesti aktiveerida. Valige kolm punkti (veel toiminguid) ja seejärel **valige Aktiveeri see tellimus uuesti.**
+    > [!NOTE]
+    > Kui te ei näe selle tellimuse **uuesti aktiveerimist, pöörduge** klienditoe poole.
+3. Valige **paanil Aktiveeri** see tellimus uuesti ripploendist soovitud makseviis või valige **Lisa makseviis**.
+4. Valige **Salvesta**.
 
-2. Leidke lehel Tooted ja teenused tellimus, mille soovite uuesti aktiveerida.
-
-3. Jaotises Arveldamine klõpsake suvandit **Aktiveeri kohe**.  Kui olete vaates Kaardid, klõpsake suvandite Nimi ja Vaba kogus vahel kolmikpunkti ning valige menüüs suvand Aktiveeri uuesti. **Märkus**: kui te otsitavat tellimust ei näe, peate muutma filtri Tellimuse olek lehe ülaosas valikule **Kõik**.
-
-4. Kinnitage maksete üksikasjad, et värskendada olemasolev makseteave. Kui olete makseviisi sisestamise lõpetanud, klõpsake suvandit **Aktiveeri uuesti**.
-
-Lisateavet leiate artiklist [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Lisateavet leiate artiklist [Tellimuse uuesti aktiveerimine](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

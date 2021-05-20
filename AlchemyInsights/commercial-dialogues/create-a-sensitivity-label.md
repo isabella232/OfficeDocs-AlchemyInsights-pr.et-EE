@@ -1,5 +1,5 @@
 ---
-title: Tundlikkuse sildi loomine
+title: Tundlikkussildi loomine
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744148"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543753"
 ---
-# <a name="create-a-sensitivity-label"></a>Tundlikkuse sildi loomine
+# <a name="create-a-sensitivity-label"></a>Tundlikkussildi loomine
 
-Tundlikkuse sildi loomiseks tehke järgmist.
+Tundlikkussildi loomiseks tehke järgmist.
 
-1. Avage **[Office 365 turbe & nõuetele vastavuse keskus](https://sip.protection.office.com/) > klassifikatsioon > tundlikkuse sildid**.
-2. **Uue tundlikkuse sildi** viisardi käivitamiseks klõpsake nuppu **+ Loo silt** . Lisateavet krüptimise sätete ja automaatse märgistamise kohta leiate teemast [sisule juurdepääsu piiramine, kasutades krüptimist tundlikkuse siltidel](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) ning [rakendage vastavalt automaatselt sisule tundlikkuse silt](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).
-3. Korrake neid juhiseid, et luua rohkem silte. Kui soovite luua ka allsildi, valige esmalt peamine silt, klõpsake nuppu **...** **rohkem toiminguid** ja seejärel klõpsake käsku **Lisa sub Label (lisa sub Label**).
-4. Kui olete loonud kõik vajalikud sildid, vaadake üle nende järjekord ja vajadusel teisaldage need üles või alla. Sildi järjestuse muutmiseks klõpsake nuppu **...** **rohkem toiminguid** ja seejärel klõpsake nuppu **Nihuta üles** või **Nihuta alla**. 
+1. Avage Office 365 **[turbekontrolli & >](https://sip.protection.office.com/) Tundlikkuse >**.
+2. Uue **tundlikkuse sildiviisardi** käivitamiseks klõpsake nuppu + **Loo** silt. Lisateavet krüptimissätete ja automaatse sildistuse kohta leiate artiklitest Sisule juurdepääsu piiramine [tundlikkussiltide](/microsoft-365/compliance/encryption-sensitivity-labels) krüptimise abil ja [Tundlikkussildi](/microsoft-365/compliance/apply-sensitivity-label-automatically)automaatne lisamine sisule.
+3. Korrake neid juhiseid, et luua veel silte. Kui soovite aga luua alammärgi, valige esmalt emasilt, valige kolm punkti (veel toiminguid) ja seejärel **valige Lisa alamsilt.**
+4. Kui olete loonud kõik vajalikud sildid, vaadake üle nende järjestus ja teisaldage need vajaduse korral üles või alla. Sildi järjestuse muutmiseks valige kolm punkti (veel toiminguid) ja seejärel valige **Nihuta üles või** Nihuta **alla.** 

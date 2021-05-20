@@ -6,27 +6,28 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 3ac582f65d00753d78ed75dc2362ed9ae3ac87c0
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: d293eb49f2f8a299feb61b4dfcd9d48011f79c3c
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088356"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569791"
 ---
 # <a name="change-default-domain"></a>Vaikedomeeni muutmine
 
-Pärast kohandatud domeeni lisamist [domeeni lisamise viisardi](https://portal.office.com/adminportal/home#/Domains/Wizard)abil muutub kohandatud domeen uute kasutajate vaikedomeeniks, kuid olemasolevaid kasutajaid ei muudeta.
+Pärast kohandatud domeeni lisamist domeeni lisamise viisardi [abil](https://admin.microsoft.com/Adminportal#/Domains/Wizard)muutub kohandatud domeen uute kasutajate vaikedomeeniks, kuid olemasolevaid kasutajaid ei muutu.
 
-- Vaikedomeeni muutmiseks olemasolevaks domeeniks valige [domeen lehel Domeenid](https://admin.microsoft.com/Adminportal/Home#/Domains)ja seejärel valige **Sea vaikedomeeniks**.
+- Vaikedomeeni muutmiseks olemasolevaks domeeniks valige domeen lehel [Domains (Domeenid)](https://admin.microsoft.com/Adminportal/Home#/Domains)ja seejärel valige **Set as default (Määra vaikedomeeniks).**
 
-- Olemasolevate kasutajate domeeninime muutmiseks valige [lehel Aktiivsed kasutajad](https://admin.microsoft.com/Adminportal/Home#/users) mitu kasutajat , valige **...ja**seejärel valige **Muuda domeene**.
+- Olemasolevate kasutajate domeeninime muutmiseks valige lehel [](https://admin.microsoft.com/Adminportal/Home#/users) Aktiivsed kasutajad mitu kasutajat ja seejärel valige **Muuda domeene.**
 
-- Domeeni muutmiseks või ühe kasutaja pseudonüümi lisamiseks valige [lehel Aktiivsed kasutajad](https://admin.microsoft.com/Adminportal/Home#/users) kasutajanimi ja seejärel valige Halda kasutajanime ja **meili**.
+- Domeeni muutmiseks või ühe kasutaja pseudonüümi lisamiseks valige lehel [Aktiivsed](https://admin.microsoft.com/Adminportal/Home#/users) kasutajad kasutajanimi ja seejärel valige  **Halda kasutajanime ja meili**.
 
-.onmicrosoft.com algset domeeni ei saa ümber nimetada ega eemaldada.
+Algset onmicrosoft.com ei saa ümber nimetada ega eemaldada.

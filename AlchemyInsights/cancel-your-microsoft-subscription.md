@@ -1,29 +1,31 @@
 ---
 title: Microsofti tellimuse tühistamine
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707667"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543321"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Microsofti tellimuse tühistamine
 
-1. Valige [Teenused ja tellimused](https://account.microsoft.com/services/) ning logige sisse tellimuse ostmisel kasutatud Microsofti kontoga.
+Administraatorid saavad oma asutuse tellimuse tühistada Microsoft 365 halduskeskuses.
 
-2. Otsige üles oma tellimus ja klõpsake nuppu **Halda**. Kui näete nupu **Halda** asemel linki **Lülita sisse korduv arveldamine**, jätkake tõrkeotsinguga; muul juhul jätkake 3. toiminguga.
+1. Avage leht **Toodete** \> [arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Otsige **vahekaardil Tooted** üles tellimus, mille soovite tühistada. Valige kolm punkti (veel toiminguid) ja seejärel valige **Tühista tellimus.**
+3. Valige **paanil** Tellimuse tühistamine põhjus, miks te tellimuse tühistate. Soovi korral saate anda mis tahes tagasisidet.
+4. Valige **Salvesta**.
 
-3. Järgmisel lehel klõpsake olenevalt oma tellimuse tüübist nuppu **Loobu** või **Täienda või loobu**.
-
-4. Tühistamiseks täitke lehel kuvatavad juhised.
+**Tagasimakse:** Iga prorated credit tagastatakse teile järgmise arveldustsükli jooksul.

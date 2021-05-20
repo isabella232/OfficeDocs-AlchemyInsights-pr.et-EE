@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defenderi ATP-skannimise erandite konfigureerimine
+title: Välistuste konfigureerimine Microsoft Defenderi ATP skannimiseks
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713571"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543681"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Microsoft Defenderi ATP-skannimise erandite konfigureerimine
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Välistuste konfigureerimine Microsoft Defenderi ATP skannimiseks
 
-Üldiselt saate Microsoft Defenderi ATP-st skannitud teatud laiendite ja kaustade asukohad välistada. Saate ka konfigureerida teatud protsessidega avatavate failide välistused. Lisateavet leiate teemast [laiendite ja kaustade asukoha põhjal välistamine ja valideerimise](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) tühistamine ning [protsesside kaudu avatud failide eemaldamise välistamine](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
+Üldiselt saate teatud faililaiendid ja kaustaasukohad skannitud failidest Microsoft Defenderi ATP välistada. Samuti saate konfigureerida teatud protsessides avatud failide välistamised. Lisateavet leiate teemast Välistamiste konfigureerimine [ja valideerimine](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) faililaiendi ja kausta asukoha alusel ning Protsessides avatud [failide välistamiste konfigureerimine.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
 
-**Windows server 2016 ja 2019** erandite konfigureerimiseks lugege artiklit [Microsoft Defenderi viirusetõrje väljaarvamiste konfigureerimine Windows serveris](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
+Windows **Server 2016 ja 2019** välistamiste konfigureerimiseks lugege [teemat Microsoft Defenderi viirusetõrje-serveri Windows konfigureerimine.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)
 
 **Mac**
 
-Lisateavet toetatud tõrjutuse tüüpide ja Mac-arvutis erandite loendi konfigureerimise kohta leiate teemast [toetatud välistamise tüübid](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) ja [nende kõrvaldamise loendi konfigureerimine](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
+Lisateavet toetatud välistamistüüpide ja Maci välistamiste loendi konfigureerimise kohta leiate teemast [Toetatud](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) välistamistüübid [ja Välistamiste loendi konfigureerimine.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
 
-**Märkus** Saate EICAR abil kinnitada ka erandite loendeid. Lisateavet leiate teemast EICAR-i [testimise failidega seotud loendite kinnitamine](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Märkus** Välistamiste loendeid saate valideerida ka EICAR-i testifaili abil. Lisateavet leiate teemast Välistamiste [loendite valideerimine EICAR-i testifaili abil.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
 
 **Linux**
 
-Lisateavet toetatud tõrjutuse tüüpide ja Linuxi jaoks mõeldud erandite loendi konfigureerimise kohta leiate teemast [toetatud tõrjutuse tüübid](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) ja [konfigureerimine ning valideerimine Microsoft Defenderi ATP for Linuxis](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
+Lisateavet toetatud välistamistüüpide ja Linuxi välistamiste loendi [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) konfigureerimise kohta leiate artiklitest Toetatud välistamistüübid ja [Linuxi jaoks Microsoft Defenderi ATP välistamiste konfigureerimine ja valideerimine.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**Märkus** Saate EICAR abil kinnitada ka erandite loendeid. Lisateavet leiate teemast EICAR-i [testimise failidega seotud loendite kinnitamine](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Märkus** Välistamiste loendeid saate valideerida ka EICAR-i testifaili abil. Lisateavet leiate teemast Välistamiste [loendite valideerimine EICAR-i testifaili abil.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
