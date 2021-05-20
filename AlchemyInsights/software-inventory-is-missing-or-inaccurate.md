@@ -1,5 +1,5 @@
 ---
-title: Tarkvara laovaru on puudu või ebatäpne
+title: Tarkvara inventuur puudub või on ebatäpne
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665282"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543960"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Tarkvara laovaru on puudu või ebatäpne
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Tarkvara inventuur puudub või on ebatäpne
 
-Tarkvara inventuur Microsoft Defenderi ATP teenuses annab toote nime või tarnija, selle uusima versiooni numbri ning tuvastas nõrkused ja nõrgad kohad. Lisateavet leiate teemast [tarkvara laoseis – oht ja haavatavuse haldus](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Microsofti teenuse Microsoft Defenderi ATP sisaldab toote nime või tarnijat, selle uusimat versiooninumbrit ning tuvastatud nõrkusi ja nõrkusi. Lisateavet leiate teemast Tarkvara [inventuur – ohu- ja nõrkusehaldus](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Nende juhiste järgi saate teatada ebamäärasest või mittetäielikust teabest, ebatäpsetest versiooninumber või vahendatud tarkvara inventuuri teabest.  
+Nende juhiste abil saate teatada ebamäärastest või mittetäielikest andmetest, ebatäpsetest versiooninumbritest või heastatud tarkvara varude teabest.  
 
-1. Avage tarkvara hüpik ja valige rakendusest tarkvara inventuur leht.
-2. Valige **Teata ebatäpsusest**ja valige hüpik paanilt soovitud kategooria.
-3. Täitke oma meiliaadress ja üksikasjad ebatäpsuse kohta.
+1. Avage tarkvara hüpik ja valige rakendus lehel Tarkvara inventuur.
+2. Valige **Teata ebatäpsus** ja valige hüpikpaanil rippmenüüst kategooria.
+3. Sisestage oma meiliaadress ja ebatäpsuse üksikasjad.
 4. Valige **Edasta**.</br>
-    Teie tagasiside saadetakse kohe ohustatud & haavatavuse halduse asjatundjatele.
+    Teie tagasiside saadetakse kohe ohuhalduse & ekspertidele.

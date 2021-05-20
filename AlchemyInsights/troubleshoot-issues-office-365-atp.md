@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defenderi for Office 365 (ATP) probleemide tõrkeotsing
+title: Microsoft Defenderi Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801403"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544754"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Office 365 ATP-ga seotud probleemide tõrkeotsing
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Microsoft Defenderi Office 365
 
-- Kas **teate meilisõnumite kohaletoimetamisega seotud viivitusi** ? Proovige kasutada oma ATP turvaliste manuste poliitikate jaoks dünaamilist kohaletoimetamise võimalust. See väldib meilisõnumi kohaletoimetamisega viivitamist, kaitstes samal ajal adressaate pahatahtlike failide eest.
-- **Kas soovid teatada valedest positiivsetest või valedest negatiivist** ? Kasutage seda linki, et esitada oma toimik analüüsimiseks. [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Kas teadsite, et saate lubada, et teie asutuse inimeste vahel saadetava meili korral saab kasutada ATP turvaliste linkide kaitset** ? Tehke järgmist.
+- **Kas märkate viivitusi meilisõnumite kohaletoimetamisega?** Proovige microsoft Defenderi jaoks kasutada valikut Dünaamiline kohaletoimetamine Office 365 seif manusepoliitikate jaoks. See aitab vältida meilisõnumite kohaletoimetamise viivitusi, kaitstes adressaate pahatahtlike failide eest.
+- **Kas soovite teatada valepositiivsetest või valenegatiivsetest?** Kasutage [edastuste explorerit.](https://protection.office.com/reportsubmission)
+- Kas teadsite, et saate Microsoft Defenderi microsoft Defenderi jaoks Office 365 seif linkide kaitse teie asutuse töötajate vahel **saadetavate meilisõnumite jaoks?** Tehke järgmist.
     1. Avage https://protection.office.com ja logige sisse.
-    2. Valige **ohustatud halduse**  >  **poliitika**  >  **Turvalised lingid** .
-    3. Redigeerige (või lisage) jaotises **poliitika, mis rakenduvad kindlatele adressaatidele** .
-    4. Valige **organisatsioonis saadetavate sõnumite turvaliste linkide rakendamine** .
-    5. Salvestage oma poliitika ja lubage muudatuste tegemiseks umbes 30 minutit oma Datacenteri kaudu oma teed teha.
-- Lisateavet ATP kohta leiate teemast [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+    2. Avage **ohuhalduspoliitika**  >    >  **ja seif Lingid**.
+    3. Redigeerige **(või lisage) poliitika** jaotises Poliitikad, mis kehtivad kindlatele adressaatidele.
+    4. Valige **Rakenda ettevõttes saadetud sõnumitele turvalised lingid.**
+    5. Salvestage oma poliitika ja lubage muudatuste rakendamiseks kuni 30 minutit.
+
+- Lisateavet Microsoft Defenderi Office 365 kohta leiate teemast [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp).

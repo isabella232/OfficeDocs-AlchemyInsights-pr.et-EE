@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defenderi tõrkeotsing Office 365 jaoks
+title: Microsoft Defenderi tõrkeotsing Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801439"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545264"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defenderi tõrkeotsing Office 365 jaoks
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defenderi tõrkeotsing Office 365
 
-- Kas teate kohaletoimetamisega viivitatakse? Kasutage oma ATP turvaliste manuste poliitikas [dünaamilist kohaletoimetamise](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) võimalust. See aitab vältida sõnumite viivitusi, kaitstes samal ajal adressaate pahatahtlike failide eest.
+- **Kas märkate sõnumite kohaletoimetamise viivitusi?** Kasutage Microsoft Defender [for](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) Office 365 seif Manuste poliitikas suvandit Dünaamiline kohaletoimetamine. See aitab vältida sõnumi viivitusi, kaitstes adressaate pahatahtlike failide eest.
 
-- Kas soovite Microsoftile teatada valedest positiivsetest või valedest negatiivist? Kasutage seda [linki](https://www.microsoft.com/wdsi/filesubmission/) , et esitada analüüsimiseks faile.
+- **Kas soovite Microsoftile teatada valepositiivsetest või valenegatiivsetest?** Kasutage [edastuste explorerit.](https://protection.office.com/reportsubmission)
 
-- Kas teadsite, et saate lubada turvaliste linkide kaitse oma asutuse adressaatidele saadetavate sisemiste meilisõnumite jaoks? Tehke järgmist.
+-** Kas teadsite, et saate seif ettevõtte adressaatide vahel saadetavate sisemiste meilisõnumite jaoks linkide kaitse?** Tehke järgmist.
 
-  1. Avage [https://protection.office.com](https://protection.office.com) ja logige sisse üldise administraatori või administraatori kontoga.
+  1. Avage [https://protection.office.com](https://protection.office.com) üldadministraatori või turbeadministraatori konto ja logige sisse.
 
-  2. Valige vasakpoolsel navigeerimispaanil jaotises **ohu haldamine** valik **poliitika** \> **Turvalised lingid** .
+  2. Klõpsake vasakpoolsel navigeerimispaanil jaotises **Ohuhaldus** nuppu **Poliitika** \> **ja seif lingid**.
 
-  3. Valige jaotises **kogu organisatsioon rakendatav** poliitika ja klõpsake nuppu **Redigeeri** .
+  3. Valige **jaotises Poliitikad, mis kehtivad kogu ettevõttele** poliitika ja klõpsake nuppu **Redigeeri.**
 
-  4. Jaotises **sätted** lubage **organisatsioonis saadetavate sõnumite turvaliste linkide rakendamine** .
+  4. Lubage **Sätted** jaotises Rakenda **ettevõttes saadetud sõnumitele turvalised lingid.**

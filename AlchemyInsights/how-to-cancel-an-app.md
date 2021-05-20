@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 2006de9e9789dd080a45fa4962109690eb41d923
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488841"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544610"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Tarkvara-AS-a-teenuse rakenduste tühistamine
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Tarkvara-as-a-service'i rakenduste tühistamine
 
-1. Klõpsake administreerimiskeskuses **Billing**  >  lehel[oma toodete](https://go.microsoft.com/fwlink/p/?linkid=842054) arveldamine.
-2. Liikuge lehel **tooted** kerides jaotisse **rakendused** ja otsige üles tellimus, mille soovite tühistada. 
-3. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **Tühista tellimus**.
-4. Valige paanil **tellimuse tühistamine** põhjus, miks te tühistate. Soovi korral saate anda tagasisidet.
+1. Valige halduskeskuses leht **Toodete**  >  [arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Kerige **lehel** Tooted jaotiseni **Rakendused** ja otsige üles tellimus, mille soovite tühistada. 
+3. Valige kolm punkti (veel toiminguid) ja seejärel valige **Tühista tellimus.**
+4. Valige **paanil** Tellimuse tühistamine põhjus, miks te tellimuse tühistate. Soovi korral saate anda mis tahes tagasisidet.
 5. Valige **Salvesta**.

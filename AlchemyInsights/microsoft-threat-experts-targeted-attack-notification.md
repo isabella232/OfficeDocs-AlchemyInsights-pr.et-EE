@@ -1,5 +1,5 @@
 ---
-title: Microsoft Thread Experts-Targeted Attack Notification
+title: Microsofti ohuasjatundjad – sihitud rünnakuteatis
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714752"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545372"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Thread Experts-Targeted Attack Notification
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsofti ohuasjatundjad – sihitud rünnakuteatis
 
-Targeted Attack Notification on ühe kahest Microsoft Thread Experti võimalusest. Tegemist on ennetava ohuga jahipidamise teenusega, mis pakub erilist ülevaadet ja analüüsi, mis aitab tagada kõige olulisemate ohtude tuvastamise ja kiire ja täpse vastamise.
+Sihitud rünnakuteatis on üks kahest Microsofti ohuasjatundjad võimalusest. See on ennetav ohujahiteenus, mis pakub eriteadmisi ja analüüse, mis aitavad tagada, et kõige kriitilisemad ohud tuvastatakse ja reageeritakse kiiresti ja täpselt.
 
-Kui olete Microsoft Defenderi jaoks lõpp-punkti klient, peate taotlema Microsoft Thread Attack Notifications, et saada erilisi teadmisi ja analüüse, mis aitavad tuvastada kõige olulisemaid ohte, nii et saate neile kiiresti vastata.
+Kui olete Microsoft Defenderi lõpp-punkti klient, peate taotlema Microsofti ohuasjatundjad - sihitud rünnakuteatisi, et saada eriülevaateid ja analüüse, mis aitavad tuvastada kõige kriitilisemad ohud, et neile kiiresti reageerida.
 
-Kui soovite registreeruda Microsoft Thread ' i jaoks mõeldud rünnaku teatiste jaoks, siis valige **sätted**  >  **üldist**  >  **lisafunktsioonid**  >  **Microsoft Thread Experts-Targeted Attack teatised** rakendamiseks. Kui olete aktsepteerinud, saate sihitud rünnaku teatiste eeliseid.
+Kui soovite registreeruda Microsofti ohuasjatundjad - sihitud rünnakuteatiste eelistele, **avage Sätted** Üldised täpsemad funktsioonid Microsofti ohuasjatundjad – rakenduvad sihitud  >    >    >   rünnakuteatiste teatised. Kui olete selle aktsepteerinud, saate sihitud rünnakuteatiste eelised.
 
-Microsoft Thread ' i rünnakutest saate teada, kuidas teha järgmist.
+Sihitud rünnakuteatise saate Microsofti ohuasjatundjad kaudu järgmiselt.
 
-- Lõpp-punkti portaali intsidentide leht Defender
-- Lõpp-punkti portaali teatiste armatuurlaua kaitsja
-- OData API ja REST API teavitamine
-- DeviceAlertEvents tabel täpsemas jahinduses
+- The Defender for Endpoint portal's Incidents page
+- The Defender for Endpoint portal's Alerts dashboard
+- OData teavitab API- ja REST-API-d
+- DeviceAlertEvents table in Advanced hunting
 - Teie meilisõnum, kui otsustate selle konfigureerida
 
-Meili teel sihitud rünnakute teatiste saamiseks looge meilisõnumite teatamise reegel. 
+Sihitud rünnakuteatiste saamiseks meilisõnumite kaudu looge meiliteatise reegel. 
 
-Lisateavet leiate teemast [Microsoft Thread asjatundjate võimaluste konfigureerimine ja haldamine](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) .
+Lisateavet [leiate teemast Microsofti ohuasjatundjad võimaluste konfigureerimine](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) ja haldamine.

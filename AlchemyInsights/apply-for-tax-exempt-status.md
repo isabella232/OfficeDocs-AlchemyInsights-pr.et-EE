@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: a5cb61f750b0233a8b73a36aa35f26d4b3640e1d
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 9f5bdb508f2e1ab884cb199914885ccb6103f2fb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261738"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543888"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Maksuvabastuse taotlemine
 
-Pange valmis järgmised dokumendid. Maksuvabastuse taotlemiseks peate [käivitama hooldustaotluse](/microsoft-365/admin/contact-support-for-business-products).
+Pange valmis järgmised dokumendid. Maksuvabastuse taotlemiseks peate [käivitama hooldustaotluse](https://go.microsoft.com/fwlink/p/?linkid=518322).
 
 - **Ameerika Ühendriigid** – hoidke valmis dokument **Sales Tax Exemption Certificate (müügimaksude vabastuse sertifikaat)**.
 
@@ -33,4 +33,4 @@ Pange valmis järgmised dokumendid. Maksuvabastuse taotlemiseks peate [käivitam
 
 - **Puerto Rico** – hoidke valmis dokument **Certificado de Compras Exentas**.
 
-Lisateavet leiate teemast [Maksuteave](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
+Lisateavet leiate teemast [Maksuteave](/microsoft-365/commerce/billing-and-payments/tax-information).

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 4ab3fb7929fe9c00c2e07985e95b9cc821579576
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489165"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545444"
 ---
 # <a name="unable-to-access-my-account"></a>Ei pääse oma kontole ligi
 
@@ -25,9 +25,9 @@ Kui teie tellimus on aegunud või Microsoft on selle keelanud või kui te tühis
 
 **Tellimuse uuesti aktiveerimine**
 
-1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Otsige vahekaardil **tooted** üles tellimus, mille soovite uuesti aktiveerida. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **selle tellimuse uuesti aktiveerimine**.
-3. Valige paanil **selle tellimuse uuesti aktiveerimine** ripploendist sobiv makseviis või valige **Lisa makseviis**.
+1. Avage halduskeskuses leht Toodete  >  [arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Otsige **vahekaardil Tooted** üles tellimus, mille soovite uuesti aktiveerida. Valige kolm punkti (veel toiminguid) ja seejärel **valige Aktiveeri see tellimus uuesti.**
+3. Valige **paanil Aktiveeri** see tellimus uuesti ripploendist soovitud makseviis või valige **Lisa makseviis**.
 4. Valige **Salvesta**.
 
-Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

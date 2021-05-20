@@ -1,5 +1,5 @@
 ---
-title: Kuidas osta litsentse oma Microsoft 365 rakenduste jaoks Businessi tellimuse jaoks
+title: Litsentside ostmine teie Microsoft 365 ettevõtterakendused tellimuse jaoks
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: cefa266e26a5ddeb60ca0496742e9051d6f14830
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 7b60f51f394c28d90b42a7d86ad08d1aeefd8a78
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232327"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545336"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kuidas osta litsentse oma Microsoft 365 rakenduste jaoks Businessi tellimuse jaoks
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Litsentside ostmine teie Microsoft 365 ettevõtterakendused tellimuse jaoks
 
-Kasutajatele litsentside määramisel võib juhtuda, et peate ostma täiendavaid litsentse.
+Kui määrate kasutajatele litsentse, peate võib-olla ostma täiendavaid litsentse.
 
-**Vaadake videot** , mis näitab, kuidas seda teha: [uute litsentside ostmine](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**VAADAKE videot,** mis näitab, kuidas seda teha. [Uute litsentside ostmine](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Otsige vahekaardil **tooted** üles tellimus, mida soovite värskendada. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **osta litsentse**.
-3. Sisestage paanil **litsentside ostmine** jaotises **Uus kogus** väljal **litsentside** koguarv selle tellimuse jaoks soovitud litsentside koguarv. Kui teil on näiteks 100 litsentsid ja soovite lisada veel 25, sisestage 125.
+1. Avage halduskeskuses leht Toodete  >  [arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Otsige **vahekaardil Tooted** üles tellimus, mida soovite värskendada. Valige kolm punkti (veel toiminguid) ja seejärel valige **Osta litsentse.**
+3. Sisestage **paani** Litsentside  ostmine väljale  Litsentside koguarv jaotises Uus kogus selle tellimuse jaoks soovitud litsentside koguarv. Näiteks kui teil on 100 litsentsi ja soovite lisada veel 25 litsentsi, sisestage 125.
 4. Valige **Salvesta**.
 
-Lisateavet leiate teemast [litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lisateavet leiate teemast [Litsentside ostmine või eemaldamine.](/microsoft-365/commerce/licenses/buy-licenses)

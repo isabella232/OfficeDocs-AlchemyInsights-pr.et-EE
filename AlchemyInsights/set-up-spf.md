@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798948"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544646"
 ---
 # <a name="set-up-spf"></a>SPF-i häälestamine
 
-Värskendage oma DNS-i kirjeid, et saaksite oma kohandatud domeeni kaudu kasutada saatjapoliitika raamistikku (SPF), et kinnitada oma kohandatud domeenist saadetud Väljamineva meili meilisõnumeid. See aitab vältida seda, et teised ei saaks teie domeenilt saadetud "võltsitud" meilisõnumeid.
+Värskendage OMA DNS-i kirjeid nii, et saate kohandatud domeenist saadetud väljaminevate meilisõnumite valideerimiseks kasutada kohandatud domeenis saatjapoliitika raamistikku (SPF). See aitab takistada teistel teie domeenist saadetud meilisõnumite tüssamist.
   
-- [SPF-i häälestamine võltsimise takistamiseks](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [SPF-i häälestamine tüssamise vältimiseks](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Kõigi DNS-kirjete häälestamise spikker](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [SPF-kirjete tõrkeotsing](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [Kõigi DNS-i kirjete häälestamise spikker](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
