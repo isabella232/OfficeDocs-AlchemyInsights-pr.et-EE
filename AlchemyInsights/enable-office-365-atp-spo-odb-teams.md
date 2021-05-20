@@ -1,5 +1,5 @@
 ---
-title: Office 365 ATP lubamine SharePointi, OneDrive ' i ja Microsoft Teamsi jaoks
+title: Luba Office 365 atp SharePoint, OneDrive ja Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801043"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543924"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a><span data-ttu-id="eb08d-102">Microsoft Defenderi Office 365 for SharePoint Online ' i, OneDrive ' i ja Microsoft Teamsi jaoks lubamine</span><span class="sxs-lookup"><span data-stu-id="eb08d-102">Enable Microsoft Defender for Office 365 for SharePoint Online, OneDrive, and Microsoft Teams</span></span>
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a><span data-ttu-id="9b9af-102">Microsoft Defenderi Office 365 SharePoint Online'i, OneDrive ja Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9b9af-102">Enable Microsoft Defender for Office 365 for SharePoint Online, OneDrive, and Microsoft Teams</span></span>
 
-1. <span data-ttu-id="eb08d-103">Avage https://protection.office.com ja logige sisse.</span><span class="sxs-lookup"><span data-stu-id="eb08d-103">Go to https://protection.office.com and sign in.</span></span>
-2. <span data-ttu-id="eb08d-104">Valige **ohustatud halduse**  >  **poliitika**  >  **Turvalised manused** .</span><span class="sxs-lookup"><span data-stu-id="eb08d-104">Choose **Threat management** > **Policy** > **Safe Attachments** .</span></span>
-3. <span data-ttu-id="eb08d-105">Valige **Lülita SharePointi, OneDrive ' i ja Microsoft teamsi jaoks ATP** ja seejärel klõpsake nuppu **Salvesta** .</span><span class="sxs-lookup"><span data-stu-id="eb08d-105">Select **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams** , and then click **Save** .</span></span>
-4. <span data-ttu-id="eb08d-106">Soovitatav Globaalse administraatorina või SharePoint Online ' i administraatorina käivitage cmdlet [-käsk Set-spotenantiga](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) , mille parameeter **DisallowInfectedFileDownload** on seatud väärtusele *True* .</span><span class="sxs-lookup"><span data-stu-id="eb08d-106">(Recommended) As a global administrator or a SharePoint Online administrator, run the [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet with the **DisallowInfectedFileDownload** parameter set to *true* .</span></span>
-5. <span data-ttu-id="eb08d-107">Soovitatav [Häälestage](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) tuvastatud failide teatised.</span><span class="sxs-lookup"><span data-stu-id="eb08d-107">(Recommended) [Set up alerts](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) for detected files.</span></span>
+1. <span data-ttu-id="9b9af-103">Avage ja https://protection.office.com logige sisse.</span><span class="sxs-lookup"><span data-stu-id="9b9af-103">Go to https://protection.office.com and sign in.</span></span>
+2. <span data-ttu-id="9b9af-104">Valige **Ohuhalduspoliitika**  >    >  **seif Manused**.</span><span class="sxs-lookup"><span data-stu-id="9b9af-104">Choose **Threat management** > **Policy** > **Safe Attachments**.</span></span>
+3. <span data-ttu-id="9b9af-105">Valige **Lülita Office 365 jaoks SharePoint, OneDrive** ja Microsoft Teams ja seejärel klõpsake nuppu **Salvesta**.</span><span class="sxs-lookup"><span data-stu-id="9b9af-105">Select **Turn on Defender for Office 365 for SharePoint, OneDrive, and Microsoft Teams**, and then click **Save**.</span></span>
+4. <span data-ttu-id="9b9af-106">(Soovitatav) Käivitage üldadministraatori või SharePoint Online'i administraatorina [cmdlet-käsk Set-SPOTenant,](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) mille parameetri **DisallowInfectedFileDownload** väärtuseks on *seatud true*.</span><span class="sxs-lookup"><span data-stu-id="9b9af-106">(Recommended) As a global administrator or a SharePoint Online administrator, run the [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet with the **DisallowInfectedFileDownload** parameter set to *true*.</span></span>
+5. <span data-ttu-id="9b9af-107">(Soovitatav) [Saate häälestada tuvastatud](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) failide teatised.</span><span class="sxs-lookup"><span data-stu-id="9b9af-107">(Recommended) [Set up alerts](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) for detected files.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="eb08d-108">ATP saab nSeadete skannida kõik failid SharePoint Online ' is, OneDrive ' is või Microsoft Teamsi.</span><span class="sxs-lookup"><span data-stu-id="eb08d-108">ATP will nto scan every single file in SharePoint Online, OneDrive, or Microsoft Teams.</span></span> <span data-ttu-id="eb08d-109">Failid skannitakse asünkroonselt kaudu, mis kasutab ühiskasutust ja Guest Activity üritusi, ning nutikad heuristilined ja ohud, et tuvastada pahatahtlikud failid.</span><span class="sxs-lookup"><span data-stu-id="eb08d-109">Files are scanned asynchronously, through a process that uses sharing and guest activity events, along with smart heuristics and threat signals to identify malicious files.</span></span> <span data-ttu-id="eb08d-110">Lugege teemat [SharePointi, OneDrive ' i ja Microsoft teamsi ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="eb08d-110">See [ATP for SharePoint, OneDrive, and Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span></span>
+> <span data-ttu-id="9b9af-108">Microsoft Defender for Office 365 ei skanni kõiki SharePoint Online'is, OneDrive ega Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="9b9af-108">Microsoft Defender for Office 365 will not scan every single file in SharePoint Online, OneDrive, or Microsoft Teams.</span></span> <span data-ttu-id="9b9af-109">Faile skannitakse asünkroonselt protsessi kaudu, mis kasutab ühiskasutus- ja külalistegevussündmusi ning nutikaid heuristika- ja ohusignaale pahatahtlike failide tuvastamiseks.</span><span class="sxs-lookup"><span data-stu-id="9b9af-109">Files are scanned asynchronously, through a process that uses sharing and guest activity events, along with smart heuristics and threat signals to identify malicious files.</span></span> <span data-ttu-id="9b9af-110">Lisateavet [leiate teemast Microsoft Defender Office 365 SharePoint, OneDrive ja Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="9b9af-110">See [Microsoft Defender for Office 365 for SharePoint, OneDrive, and Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span></span>

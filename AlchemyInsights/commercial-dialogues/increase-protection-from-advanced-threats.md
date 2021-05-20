@@ -1,5 +1,5 @@
 ---
-title: Täiustatud ohtude eest kaitsmise tõhustamine
+title: Täiustatud ohtude eest kaitse suurendamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 49f690a08ed39e5132f9e23b514d3e353b126840
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 486ac58b9b5b88b11fe45b7ace5b084190cfcee2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746705"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543717"
 ---
-# <a name="increase-protection-from-advanced-threats"></a><span data-ttu-id="7c147-102">Täiustatud ohtude eest kaitsmise tõhustamine</span><span class="sxs-lookup"><span data-stu-id="7c147-102">Increase protection from advanced threats</span></span>
+# <a name="increase-protection-from-advanced-threats"></a><span data-ttu-id="181db-102">Täiustatud ohtude eest kaitse suurendamine</span><span class="sxs-lookup"><span data-stu-id="181db-102">Increase protection from advanced threats</span></span>
 
-<span data-ttu-id="7c147-103">Office 365 Microsoft Defenderi häälestamiseks või haldamiseks tehke järgmist.</span><span class="sxs-lookup"><span data-stu-id="7c147-103">To set up or manage Microsoft Defender for Office 365:</span></span>
+<span data-ttu-id="181db-103">Microsoft Defenderi häälestamiseks või haldamiseks Office 365.</span><span class="sxs-lookup"><span data-stu-id="181db-103">To set up or manage Microsoft Defender for Office 365:</span></span>
 
-1. <span data-ttu-id="7c147-104">Microsoft Defender for Office 365 funktsioonid on saadaval rakenduses Enterprise E5, Education a5 ja Microsoft 365 ettevõte.</span><span class="sxs-lookup"><span data-stu-id="7c147-104">Microsoft Defender for Office 365 features are available in Enterprise E5, Education A5, and Microsoft 365 Business.</span></span> <span data-ttu-id="7c147-105">Kõik muud lepingud nõuavad lisandmooduli ATP paketti.</span><span class="sxs-lookup"><span data-stu-id="7c147-105">All other plans require an add-on ATP subscription.</span></span> <span data-ttu-id="7c147-106">Office 365 Defenderile juurdepääsuks peab teil olema *üldadministraator* või *turvalisuse administraatori* õigused.</span><span class="sxs-lookup"><span data-stu-id="7c147-106">You must have *global administrator* or *security administrator* permissions to access Defender for Office 365.</span></span>
-2. <span data-ttu-id="7c147-107">Valige administreerimiskeskuses [häälestamine](https://go.microsoft.com/fwlink/p/?linkid=2075721).</span><span class="sxs-lookup"><span data-stu-id="7c147-107">In the admin center, select [Setup](https://go.microsoft.com/fwlink/p/?linkid=2075721).</span></span>
-3. <span data-ttu-id="7c147-108">Valige **sisselogimine ja turbe**  >  **suurendamise kaitse täpsemate ohtude eest** ning seejärel valige [Kuva](https://go.microsoft.com/fwlink/?linkid=2109302).</span><span class="sxs-lookup"><span data-stu-id="7c147-108">Go to **Sign-in and security** > **Increase protection from advanced threats**, and then select [View](https://go.microsoft.com/fwlink/?linkid=2109302).</span></span>
-4. <span data-ttu-id="7c147-109">Valige **Halda** ja seejärel valige, millist tüüpi poliitikad soovite muuta.</span><span class="sxs-lookup"><span data-stu-id="7c147-109">Select **Manage**, and then choose which one of the available types of policies you'd like to make changes to.</span></span>
-5. <span data-ttu-id="7c147-110">Valige poliitika lehel, kas soovite olemasolevaid poliitikaid luua, redigeerida või kustutada, ning täitke siis nõutavad väljad.</span><span class="sxs-lookup"><span data-stu-id="7c147-110">On the policy page, select whether to create, edit, or delete existing policies, and then fill in the required fields.</span></span>
+1. <span data-ttu-id="181db-104">Microsoft Defenderi Office 365 funktsioonid on saadaval rakenduses Enterprise E5, Education A5 ja Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="181db-104">Microsoft Defender for Office 365 features are available in Enterprise E5, Education A5, and Microsoft 365 Business.</span></span> <span data-ttu-id="181db-105">Kõigi muude plaanide jaoks on vaja microsoft Defenderi Office 365 tellimust.</span><span class="sxs-lookup"><span data-stu-id="181db-105">All other plans require an add-on Microsoft Defender for Office 365 subscription.</span></span> <span data-ttu-id="181db-106">Microsoft Defenderi *rakendusele Microsoft* Defender *juurdepääsuks peab* teil olema üldadministraatori või turbeadministraatori Office 365.</span><span class="sxs-lookup"><span data-stu-id="181db-106">You must have *global administrator* or *security administrator* permissions to access Microsoft Defender for Office 365.</span></span>
+2. <span data-ttu-id="181db-107">Valige halduskeskuses [Häälestus](https://go.microsoft.com/fwlink/p/?linkid=2075721).</span><span class="sxs-lookup"><span data-stu-id="181db-107">In the admin center, select [Setup](https://go.microsoft.com/fwlink/p/?linkid=2075721).</span></span>
+3. <span data-ttu-id="181db-108">Avage **Sisselogimine ja turvalisus.**  >  **Suurendage kaitset täiustatud ohtude eest ja** seejärel valige [Kuva](https://go.microsoft.com/fwlink/?linkid=2109302).</span><span class="sxs-lookup"><span data-stu-id="181db-108">Go to **Sign-in and security** > **Increase protection from advanced threats**, and then select [View](https://go.microsoft.com/fwlink/?linkid=2109302).</span></span>
+4. <span data-ttu-id="181db-109">Valige **Halda** ja seejärel valige, millist tüüpi poliitikaid soovite muuta.</span><span class="sxs-lookup"><span data-stu-id="181db-109">Select **Manage**, and then choose which one of the available types of policies you'd like to make changes to.</span></span>
+5. <span data-ttu-id="181db-110">Valige poliitikalehel, kas luua, redigeerida või kustutada olemasolevaid poliitikaid ja seejärel täitke nõutavad väljad.</span><span class="sxs-lookup"><span data-stu-id="181db-110">On the policy page, select whether to create, edit, or delete existing policies, and then fill in the required fields.</span></span>
