@@ -1,5 +1,5 @@
 ---
-title: Lisateave ATP kohta
+title: Lisateave Microsoft Defenderi Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403559"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539784"
 ---
-# <a name="learn-about-atp"></a>Lisateave ATP kohta
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Lisateave Microsoft Defenderi Office 365
 
-Siit leiate teavet Office 365 täiustatud ohutõrje (ATP) kohta.
+Siit leiate teavet Microsoft Defenderi Office 365.
 
-**Mis on ATP?**
+**Mis on Microsoft Defender Office 365?**
 
-ATP on pilvepõhine meilifiltreerimisteenus, mis aitab kaitsta ettevõtteid tundmatu ründevara ja viiruste eest, pakkudes töökindlat nullpäevakaitset. See hõlmab funktsioone, mis kaitsevad ettevõtteid reaalajas kahjulike linkide eest.
+Microsoft Defender for Office 365 on pilvepõhine meilifiltreerimisteenus, mis aitab kaitsta ettevõtteid tundmatu ründevara ja viiruste eest, pakkudes töökindlat nullpäevakaitset. See hõlmab funktsioone, mis kaitsevad ettevõtteid reaalajas kahjulike linkide eest.
 
-**Kuidas AKTIVEERIDA ATP-d?**
+**Kuidas aktiveerida Microsoft Defenderi Office 365?**
 
-Turvalised manused, turvalised lingid ja andmepüügivastane funktsioon on osa ATP-funktsioonist. Enterprise E5, Education A5 ja Microsoft 365 Business sisaldavad sisseehitatud ATP-funktsioone. Kõik muud lepingud nõuavad lisandmooduli ATP tellimust. Office 365 ATP-ga kaitstud kasutajatele tuleb määrata vastavad litsentsid. Selle funktsiooni kasutamiseks peavad teil olema üldadministraatori või turbeadministraatori õigused. Lisateavet litsentside hulgilitsentside lõppkasutajatele määramise kohta leiate teemast [Office 365 ettevõtterakenduses litsentside määramine.](https://go.microsoft.com/fwlink/?linkid=2093435)
+seif Manused, seif lingid ja andmepüügitõrje on osa Microsoft Defenderi Office 365. Enterprise E5, Education A5 ja Microsoft 365 Business sisaldavad sisseehitatud Microsoft Defenderit Office 365 funktsioonide jaoks. Kõigi muude plaanide jaoks on vaja microsoft Defenderi Office 365 tellimust. Peate määrama oma kasutajatele vastavad litsentsid, mida Microsoft Defender peab kaitsma Office 365. Selle funktsiooni kasutamiseks peavad teil olema üldadministraatori või turbeadministraatori õigused. Lisateavet litsentside hulgilitsentside lõppkasutajatele määramise kohta leiate teemast Litsentside määramine Office 365 [ettevõtetele.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**Kuidas hallata ATP-d või saada selle kohta lisateavet?**
+**Kuidas hallata Microsoft Defenderit Office 365 selle kohta lisateavet?**
 
 a. Avage [Häälestus](https://go.microsoft.com/fwlink/p/?linkid=2075721).
 b. Leidke **jaotises Sisselogimine ja turve** valik **Suurenda kaitset täiustatud ohtude eest** ja seejärel valige [Kuva](https://go.microsoft.com/fwlink/?linkid=2109302).
