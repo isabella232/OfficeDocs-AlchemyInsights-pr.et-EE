@@ -1,5 +1,5 @@
 ---
-title: Tundlikkuse siltide avaldamine
+title: Tundlikkussiltide avaldamine
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744255"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539712"
 ---
-# <a name="publish-sensitivity-labels"></a>Tundlikkuse siltide avaldamine
+# <a name="publish-sensitivity-labels"></a>Tundlikkussiltide avaldamine
 
-Tundlikkuse siltide avaldamiseks tehke järgmist.
+Tundlikkussiltide avaldamiseks tehke järgmist.
 
-1. Valige **Office 365 turbe & nõuetele vastavuse keskus > klassifikatsioon > tundlikkuse sildid**.
-2. Klõpsake lehel **tundlikkuse sildid** vahekaarti **siltide poliitikad** .
-3. Klõpsake nuppu **Avalda sildid**.
-4. Klõpsake nuppu **Vali avaldamiseks soovitud tundlikkuse sildid**. 
-5. Valige sildid, mida soovite rakendustes ja teenustes kättesaadavaks muuta, ja klõpsake siis nuppu **Lisa**.
+1. Valige **Office 365 Turbe- & vastavuskeskus > Tundlikkussildid > Tundlikkuse sildid.**
+2. Klõpsake **lehel Tundlikkussildid** vahekaarti **Sildipoliitikad.**
+3. Klõpsake **nuppu Avalda sildid.**
+4. Klõpsake **avaldamiseks nuppu Vali avaldamistundlikkussildid.** 
+5. Valige sildid, mille soovite rakendustes ja teenustes kättesaadavaks teha, ja seejärel klõpsake nuppu **Lisa**.
 > [!IMPORTANT]
-> Kui valite allsildi, siis veenduge, et valite ka selle peamise sildi.
-6. Vaadake valitud sildid üle. Muudatuste tegemiseks klõpsake nuppu **Redigeeri**; Vastasel juhul klõpsake nuppu **edasi**.
-7. Järgige juhiseid poliitika sätete konfigureerimiseks.
-8. Korrake neid toiminguid, kui vajate eri kasutajate või asukohtade jaoks erinevaid poliitilisi sätteid. Näiteks soovite lisada kasutajate rühma täiendavaid silte või kasutajate alamhulga jaoks mõnda muud vaike-silti.
-9. Kui loote rohkem kui ühe sildipoliitika, mis võib põhjustada kasutaja või asukoha konflikti, vaadake poliitika korraldus üle ja vajadusel nihutage need üles või alla. Sildipoliitika järjestuse muutmiseks valige **...** **rohkem toiminguid** ja seejärel valige **Nihuta üles** või **Nihuta alla**.
+> Kui valite alammärgi, veenduge, et valite ka selle emasildi.
+6. Vaadake valitud sildid üle. Muudatuste miseks klõpsake nuppu **Redigeeri**; muul juhul klõpsake **nuppu Edasi**.
+7. Poliitikasätete konfigureerimiseks järgige viipasid.
+8. Korrake neid juhiseid, kui vajate erinevate kasutajate või asukohtade jaoks erinevaid poliitikasätteid. Näiteks soovite lisada kasutajate rühmale täiendavaid silte või muud kasutajate alamhulga vaikesilti.
+9. Kui loote mitu sildipoliitikat, mis võivad põhjustada kasutajale või asukohale konflikti, vaadake üle poliitikajärjestus ja teisaldage need vajaduse korral üles või alla. Sildipoliitika järjestuse muutmiseks valige kolm punkti (veel toiminguid) ja seejärel valige **Nihuta üles või** Nihuta **alla.**
 
-Viisardi lõpuleviimisel avaldatakse sildi poliitika automaatselt.
+Viisardi lõpuleviimine avaldab sildipoliitika automaatselt.
 
