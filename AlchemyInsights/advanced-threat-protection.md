@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defenderi kasutamine Office 365 jaoks
+title: Microsoft Defender Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801223"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542889"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoft Defenderi kasutamine Office 365 jaoks
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender Office 365
 
-- Turvalised manused, turvalised lingid ja andmepüügid on osa Microsoft Defenderist Office 365 (ATP). Enterprise E5, Education a5 ja Microsoft 365 ettevõtte Premium sisaldab ATP. Kõik muud lepingud nõuavad lisandmooduli ATP paketti.
+- seif Manused, seif lingid ja andmepüügitõrje on osa Microsoft Defenderi Office 365. Enterprise E5, Education A5 ja Microsoft 365 Business Premium microsoft Defender for Office 365. Kõigi muude plaanide jaoks on vaja microsoft Defenderi Office 365 tellimust.
 
-- Peate määrama vastavad litsentsid, et kaitsta oma kasutajaid Office 365 ATP alusel. Siit leiate juhised [selle](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) kohta, kuidas oma kasutajatele litsentse hulgi rakendada.
+- Peate määrama vastavad litsentsid, et kaitsta oma kasutajaid Microsoft Defenderi Office 365. Juhised [kasutajatele hulgilitsentside](/microsoft-365/admin/add-users/add-users) rakendamiseks leiate teemast Kasutajate lisamine ja litsentside määramine samal ajal.
 
-- Globaalsed administraatorid või turbe administraatorid pääsevad Office 365 ATP funktsioonidele juurde turbe & nõuetele vastavuse **Managmeent** \> **poliitikas** .
+- Üldadministraatorid või turbeadministraatorid pääsevad juurde Microsoft Defenderi Office 365 turbe- & turbepoliitika nõuetele vastavuse **keskuse** \> **funktsioonidele.**
 
-- Turvaliste manuste ja turvaliste link-poliitikate abil saab teie kogu asutuse, teatud domeenide või väiksemate kasutajate rühmadega ulatust laiendada.
+- seif Manuseid ja seif linkide poliitikaid saab laiendada kogu teie ettevõttele, kindlatele domeenidele või väiksematele kasutajarühmadele.
 
-- Pole ühtegi vaike-turvalist manuste poliitikat. Peate [looma poliitika](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) ja rakendama selle oma kasutajatele.
+- Manusepoliitikas pole seif vaikepoliitikat. Peate looma [poliitika ja](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) rakendama selle oma kasutajatele.
 
-- Teie asutuse kõigi jaoks rakendub vaikimisi ATP-iga kaitstud poliitika. Selle poliitika redigeerimiseks või kohandatud poliitikate loomiseks vaadake [seda teemat](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- On olemas seif linkide poliitika, mis kehtib kõigile teie ettevõttes. Selle poliitika redigeerimiseks või kohandatud poliitikate loomiseks lugege teemat [Seif Linkide](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)poliitikate Office 365 .

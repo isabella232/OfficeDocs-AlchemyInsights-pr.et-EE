@@ -1,5 +1,5 @@
 ---
-title: Teamsi Outlooki lisandmoodul
+title: Teams Outlook lisandmoodul (Share to Teams , Meet Now, New Teams meeting, Join Teams meeting)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835015"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542745"
 ---
-# <a name="teams-outlook-add-in"></a>Teamsi Outlooki lisandmoodul
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook (Share to Teams , Meet now, New Teams meeting, Join Teams meeting)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Puuduva Teamsi Outlooki lisandmooduli tõrkeotsing
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Puuduva lisandmooduli Teams Outlook tõrkeotsing
 
-1. Käivitage haldusportaalis teenusediagnostika. 
-2. Kui teenusediagnostika ei osuta probleemidele, diagnoosige ja parandage mõjutatud kasutajate arvutite klientrakendusega seotud probleemid, laadides alla [ja](https://aka.ms/SaRA-TeamsAddInScenario)käivitades Microsofti tugi- ja taasteteenuste abilise  >  **Teamsi Outlooki lisandmooduli stsenaariumi.**
+1. Käivitage diagnostika "meeskonna lisandmoodul puudub Outlook", mis kontrollib, kas kasutajal on lisandmooduli lubamiseks Teams Outlook poliitikad. Diagnostikale juurdepääsemiseks tippige **otsinguväljale Teams Diag: Outlook** puudub lisandmoodul.
 
-Puuduva Teamsi Outlooki lisandmooduli käsitsi tõrkeotsinguks vaadake üle võimalike tegurite loend, mis võivad põhjustada, et teie Teamsi lisandmoodulit ei kuvata. Lisateavet leiate teemast [Teamsi koosoleku lisandmoodul Rakenduses Outlook for Windows ei kuva.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+1. Kui teenusediagnostika ei osuta probleemidele, diagnoosige ja parandage mõjutatud kasutajaseadmete klientrakendusega seotud [probleemid,](https://aka.ms/SaRA-TeamsAddInScenario)laadides alla ja käivitades Tugi- ja taasteteenuste abiline  >  **Teams Outlook lisandmooduli stsenaariumi.**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Teamsi koosoleku plaanimise tõrkeotsing kellegi teise nimel (volitatud esindaja)
+Puuduva lisandmooduli Teams Outlook käsitsi tõrkeotsinguks vaadake läbi võimalike tegurite loend, mis võivad põhjustada Teams, et teie lisandmoodulit ei kuvata. Lisateavet leiate teemast Teams koosoleku [lisandmoodul, Outlook ei Windows ei kuva.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-Teamsi koosoleku plaanimiseks kellegi teise nimel lugege teemat [Microsoft Teamsi ja Exchange Serveri suhtlusprobleemide tõrkeotsing.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Kellegi teise nimel Teams koosoleku plaanimise tõrkeotsing (delegaat)
+
+Kui soovite koosoleku Teams kellegi teise nimel, lugege teemat Microsoft Teams [ja Exchange Server tõrkeotsing.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

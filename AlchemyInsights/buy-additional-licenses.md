@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 2df9278e13ca497c7ab71bb458c672031313759f
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232280"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543537"
 ---
 # <a name="buy-additional-licenses"></a>Täiendavate litsentside ostmine
 
-**Vaadake videot** , mis näitab, kuidas seda teha: [litsentside ostmine](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**VAADAKE videot,** mis näitab, kuidas seda teha: [Litsentside ostmine](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-1. Avage halduskeskus lehel "toodete **Arveldamine**"  >  [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Leidke vahekaardil **tooted** tellimus, mille jaoks soovite litsentse osta. Valige **Veel toiminguid** (kolm punkti) ja seejärel valige **osta litsentse**.
-3. Sisestage väljale **litsentside koguarv** väljale **Uus kogus** selle tellimuse jaoks soovitud litsentside koguarv. Kui teil on näiteks 100 litsentsid ja soovite lisada veel 25, sisestage 125.
+1. Avage halduskeskuses leht Toodete  >  [arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Otsige **vahekaardil Tooted** üles tellimus, mille jaoks soovite litsentse osta. Valige kolm punkti (veel toiminguid) ja seejärel valige **Osta litsentse.**
+3. Sisestage **väljale** **Litsentside** koguarv väljale Uus kogus selle tellimuse jaoks soovitud litsentside koguarv. Näiteks kui teil on 100 litsentsi ja soovite lisada veel 25 litsentsi, sisestage 125.
 4. Valige **Salvesta**.
 
-Lisateavet leiate teemast [litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lisateavet leiate teemast [Litsentside ostmine või eemaldamine.](/microsoft-365/commerce/licenses/buy-licenses)
 
-**Lisaressursid**
+**Täiendavad ressursid**
 
-- [Litsentside määramine kasutajatele Microsoft 365 ettevõtetele](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+[Litsentside määramine Microsoft 365 ettevõtetele](/microsoft-365/admin/manage/assign-licenses-to-users)
