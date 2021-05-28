@@ -1,5 +1,5 @@
 ---
-title: Andmete migreerimisel SharePoint Online ' i probleemid
+title: Probleemid andmete migreerimisel SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700883"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694772"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Andmete migreerimisel SharePoint Online ' i probleemid
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleemid andmete migreerimisel SharePoint Online
 
-**Andmete migreerimine üle 100TB**
+**Migreerimine üle 100TB andmetest**
 
-Näib, et migreerite SharePoint Online ' i üle 100TB. Palun järgige alltoodud juhiseid, et saaksime teid võimalikult kiiresti aidata. 
+Näib, et migreerite veebiväljale üle 100 SHAREPOINT. Järgige alltoodud juhiseid, et saaksime teid võimalikult kiiresti aidata. 
 
-1. Valige **Uus teenuse taotlus**ja seejärel **Uus teenuse taotlus**. 
-2. Jätke pealkiri ja kirjeldus **SharePointi migreerimiseks üle 100TB**.
-3. Kui pilet on esitatud, värskendage seda järgmise teabega. 
+1. Valige **Kontakttugi** ja seejärel **Uus teenusetaotlus**. 
+2. Jätke pealkiri ja kirjeldus SharePoint **100TB migreerimiseks.**
+3. Kui pilet on esitatud, värskendage seda järgmise teabega: 
 
-    - Migreerimise hinnanguline suurus.
-    - Prognoos selle kohta, millal soovite migreerimist alustada ja täiendada.
-    - Kirjeldage, kust migreerite sisu (nt SharePoint Server, kast, GDrive, failid jne).
+    - Migreerimise hinnanguline maht.
+    - Hinnang selle kohta, millal soovite migreerimist alustada ja lõpule viia.
+    - Kirjeldage, kust te oma sisu migreerite (nt SharePoint Server, Box, GDrive, File shares jne).
