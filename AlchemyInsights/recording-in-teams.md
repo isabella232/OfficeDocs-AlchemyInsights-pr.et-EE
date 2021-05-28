@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809759"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697026"
 ---
 # <a name="recording-in-teams"></a>Salvestamine Teamsis
 
-Microsoft Teamsi koosolekute salvestisi saab nüüd hoiustada OneDrive’is või SharePointis. Lisateabe saamiseks ja liitumiseks vaadake järgmist sõnumikeskuse postitust: [(Uuendatud) Microsoft Teams: OneDrive’i ja SharePointi salvestatud koosoleku salvestised](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Kui kasutaja nupp **Alusta salvestamist** on koosoleku ajal tuhm või Teams puudub, proovige käivitada koosoleku salvestamise diagnostika, tippides eespool toodud väljale **Diag:** Meeting Recording (Koosoleku salvestamine). 
 
-Salvestusruumi liigutamine OneDrive’i või SharePointi eemaldab varasema nõude, et Stream peab teie piirkonnas saadaval olema.
+Microsoft Teams koosolekusalvestisi saab nüüd sharepointis OneDrive talletada. Salvestuskoha teisaldamine asukohta OneDrive ja SharePoint lahendab probleemi, mille korral koosolekusalvestised ei töötanud, kuna Stream pole teie piirkonnas saadaval. Lisateavet leiate Microsoft [Streami KKK-st.](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
-Teabe saamiseks selle kohta, kuidas Teamsis teie organisatsiooni jaoks **salvestise funktsiooni lubada ja konfigureerida**, **sealhulgas konkreetsete kasutajate jaoks koosoleku salvestamise lubamise või keelamise juhtseadistused**, vaadake teemast [Teamsi pilvepõhine koosoleku salvestis](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Lisateavet koosolekusalvestiste salvestamise kohta leiate sõnumikeskuse postitusest: [(Värskendatud) Microsoft Teams: OneDrive ja SharePointi salvestatud koosolekusalvestised.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-Kui te **ei saa Teamsis salvestada või soovite saada teada, kuidas** Teamsis salvestada, proovige leida lahendus ühest järgmistest artiklitest.
+Teavet selle kohta, kuidas lubada ja konfigureerida Teams ettevõtte jaoks (sh teatud kasutajate koosoleku salvestamise lubamise või keelamise juhtelemendid), leiate [teemast Teams pilvkoosoleku salvestamine.](/microsoftteams/cloud-recording) 
 
-- Kui te pole veel Teamsi koosolekute salvestiste hoiustamiseks OneDrive’i või SharePointi valinud, järgivad need valikud Streami piirkondlikku ja riiklikku saadavust. Kui te ei saa koosolekut salvestada, veenduge, et [Stream oleks teie riigis või regioonis saadaval](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Lisateabe saamiseks vaadake kindlasti haldusportaalis läbi järgmine sõnumikeskuse postitus: [Värskendatud funktsioon: Microsoft Streami pilvepõhiste salvestiste piirkondliku salvestusruumi juhtimine](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Kui te ei saa endiselt Teams või peate aru saama, kuidas Teams salvestada. 
 
-- Teamsi koosoleku salvestised [nõuavad, et määratud oleksid konkreetsed litsentsid ja poliitikad](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), sealhulgas Streami litsentsid koosoleku salvestiste Microsoft Streami üleslaadimiseks ja allalaadimiseks.
+[Värskendatud funktsioon: Microsoft Streami pilvsalvestuste piirkondlik salvestusruumi juhtelement](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- Kui olete kinnitanud, et kõik nõuded on täidetud (sh litsentsid, poliitikad ja Streami piirkondlik saadavus), vaadake läbi teema [Teamsis koosoleku salvestamine](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Koosoleku salvestamiseks Teams vaja määratud litsentse ja poliitikaid ,sh Streami litsentse koosolekusalvestiste üleslaadimiseks või allalaadimiseks Microsoft Streami. Lisateavet leiate teemast Teams [koosoleku salvestamise eeltingimused.](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+
+Kui olete kinnitanud, et kõik nõuded (sh litsentsimine, poliitikad ja Streami piirkondlik kättesaadavus) on täidetud, vaadake üle Koosoleku [salvestamine Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24). 

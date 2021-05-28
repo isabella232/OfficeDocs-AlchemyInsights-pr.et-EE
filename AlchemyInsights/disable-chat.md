@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573742"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696882"
 ---
 # <a name="disable-chat"></a>Keela vestlus
 
@@ -26,7 +26,7 @@ Oma asutuse jaoks vestluse lubamiseks või keelamiseks saate luua poliitikaid, m
 
 - **Koosolek**. Teams halduskeskuses valige [Koosolekupoliitikad](https://admin.teams.microsoft.com/) – jututoa säte on Luba **koosolekutel vestelda.** Kohandatud koosolekupoliitikate loomise kohta leiate lisateavet teemast [Koosolekupoliitikate](/microsoftteams/meeting-policies-in-teams) haldamine Teams Ja Luba [vestlus koosolekutel.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **M*essaging**: Teams halduskeskuses valige Sõnumsidepoliitikad [ja](https://admin.teams.microsoft.com/) **lülitage** sisse või **välja** tekstvestlus . Lisateavet kohandatud sõnumsidepoliitikate ja kasutajatele poliitikate määramise kohta leiate teemast [Sõnumipoliitikate haldamine Teams](/microsoftteams/messaging-policies-in-teams).
+- **Sõnumside.** Valige Teams sõnumsidepoliitikad ja [](https://admin.teams.microsoft.com/)lülitage tekstvestlus sisse **või** **välja**. Lisateavet kohandatud sõnumsidepoliitikate ja kasutajatele poliitikate määramise kohta leiate teemast [Sõnumipoliitikate haldamine Teams](/microsoftteams/messaging-policies-in-teams).
 
 - Õppurid. Õppuritele vestluse keelamiseks lugege võimalusi koosolekutel vestluse lubamiseks ja 1:1 Teams hariduspoliitikates ja [poliitikapakettides.](/microsoftteams/policy-packages-edu)
 
