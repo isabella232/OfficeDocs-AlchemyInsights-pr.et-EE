@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 204e0248bc2f07f14fa789d1d2999495910ee034
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830029"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702122"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Mikro viivitused või ahendamine Exchange Online PowerShellis
 
-Exchange Online’is skriptide ja cmdlet-käskude käitamisel võite näha hoiatusi „Mikro viivitus rakendatud“ või viivitusi. Järgnevalt on toodud sellega seoses kaks soovitust.
+Exchange Online’is skriptide ja cmdlet-käskude käitamisel võite näha hoiatusi „Mikro viivitus rakendatud“ või viivitusi. Siin on mõned soovitused selle lahendamiseks.
 
-- Võite proovida kasutada [Exchange Online’i versiooni 2 PowerShelli moodulit](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), mis sisaldab cmdlet-käske, mis põhinevad REST API-l ja mida teostatakse olulised rohkem. See võib olla suurepärane lahendus paljudele cmdleti hankimise käskude, mida sageli kasutatakse.
-- Kui peate kasutama cmdlet-käske, mis ei ole versiooni 2 moodulis veel kaetud, vaadake teemat [PowerShelli cmdlet-käskude käitamine paljudele Office 365 kasutajatele](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), mis selgitab, kuidas navigeerida oodatud PowerShelli ahendamise piirangutes Exchange Online’is.
+- Rentniku PowerShelli ahendamise poliitikate leevendamiseks käivitage meie diagnostika. See lahendus lahendab probleemi kõige rohkem.
+- Kui probleem ei lahene, kasutage [Exchange Online v2 PowerShelli](/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps&preserve-view=true)moodulit, mis sisaldab REST API-l põhinevaid CMDlets'i ja on oluliselt rohkem esinejad. See võib olla suurepärane lahendus paljudele cmdleti hankimise käskude, mida sageli kasutatakse.
+- Kui teil on vaja kasutada CMDlets'i, mida v2 moodul ei hõlma, lugege teemat [PowerShelli](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#)cmdlet-käskude käitamine suure hulga kasutajate jaoks Office 365-s, mis räägib powerShelli ahendamise piirangutest Exchange Online.
