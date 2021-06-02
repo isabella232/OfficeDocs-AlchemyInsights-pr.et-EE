@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470244"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721632"
 ---
-# <a name="microsoft-365-import-service"></a><span data-ttu-id="a9452-102">Microsoft 365 Imporditeenus</span><span class="sxs-lookup"><span data-stu-id="a9452-102">Microsoft 365 Import service</span></span>
+# <a name="microsoft-365-import-service"></a><span data-ttu-id="0639f-102">Microsoft 365 Imporditeenus</span><span class="sxs-lookup"><span data-stu-id="0639f-102">Microsoft 365 Import service</span></span>
 
-<span data-ttu-id="a9452-103">Teenuse Microsoft 365 imporditeenus võimaldab hulgi importida mitu PST-faili Exchange Online postkasti.</span><span class="sxs-lookup"><span data-stu-id="a9452-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
+<span data-ttu-id="0639f-103">Imporditeenusele juurdepääsemiseks ja impordiprotsessi alustamiseks:</span><span class="sxs-lookup"><span data-stu-id="0639f-103">To access the Import service and start the import process:</span></span>
 
-<span data-ttu-id="a9452-104">Imporditeenusele juurdepääsemiseks ja impordiprotsessi alustamiseks:</span><span class="sxs-lookup"><span data-stu-id="a9452-104">To access the Import service and start the import process:</span></span>
+1. <span data-ttu-id="0639f-104">Avage [M365 vastavuskeskus](https://compliance.microsoft.com/)ja logige sisse oma asutuse administraatorikonto identimisteabega.</span><span class="sxs-lookup"><span data-stu-id="0639f-104">Go to the [M365 Compliance Center](https://compliance.microsoft.com/), and sign in using the credentials for an administrator account in your organization.</span></span>
 
-1. <span data-ttu-id="a9452-105">Avage [turbekontrolli & ja](https://protection.office.com) logige sisse oma asutuse administraatorikonto identimisteabega.</span><span class="sxs-lookup"><span data-stu-id="a9452-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
+1. <span data-ttu-id="0639f-105">Valige M365 vastavuskeskuse vasakpoolsel paanil jaotises **Lahendused** käsk **Teabehaldus**  >  **Import**.</span><span class="sxs-lookup"><span data-stu-id="0639f-105">In the left pane of the M365 Compliance Center under **Solutions**, select **Information governance** > **Import**.</span></span>
 
-2. <span data-ttu-id="a9452-106">Klõpsake turbekontrolli & **vasakul paanil** nuppu **Teabehaldus ja > Impordi**.</span><span class="sxs-lookup"><span data-stu-id="a9452-106">In the left pane of the **Security & Compliance Center**, click **Information governance > Import**.</span></span>
+1. <span data-ttu-id="0639f-106">Klõpsake **lehel Import** nuppu **Uus imporditöö.**</span><span class="sxs-lookup"><span data-stu-id="0639f-106">On the **Import** page, select **New import job**.</span></span>
 
-3. <span data-ttu-id="a9452-107">Klõpsake **lehel Import** nuppu **Uus imporditöö.**</span><span class="sxs-lookup"><span data-stu-id="a9452-107">On the **Import** page, click **New import job**.</span></span>
+1. <span data-ttu-id="0639f-107">Viisardi toimingute lõpuleviimiseks lugege teemat Võrgu üleslaadimise kasutamine ettevõtte [PST-failide importimiseks Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)</span><span class="sxs-lookup"><span data-stu-id="0639f-107">To complete the steps in the wizard, see [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).</span></span>
 
-4. <span data-ttu-id="a9452-108">Viisardi juhiste lõpuleviimiseks järgige neid [samm-sammult juhiseid.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)</span><span class="sxs-lookup"><span data-stu-id="a9452-108">To complete the steps in the wizard, follow these [step-by-step instructions](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).</span></span>
+<span data-ttu-id="0639f-108">**Impordilehele juurdepääsuks** veenduge, et teile oleks määratud vastavad õigused.</span><span class="sxs-lookup"><span data-stu-id="0639f-108">To access the **Import** page, make sure you have been assigned the appropriate permissions.</span></span> <span data-ttu-id="0639f-109">Lisateavet leiate teemast [Pst-failide importimiseks võrgu üleslaadimise kasutamine.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)</span><span class="sxs-lookup"><span data-stu-id="0639f-109">For more info, see [Using network upload to import PST files](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).</span></span>
 
-<span data-ttu-id="a9452-109">**Tähtis.** Turbe- **ja vastavuskeskuses** & impordilehele juurdepääsemiseks on teile määratud [vastavad õigused.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)</span><span class="sxs-lookup"><span data-stu-id="a9452-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).</span></span>
+<span data-ttu-id="0639f-110">Kui soovite PST-faili oma postkasti importida, lugege teemat Meilisõnumite, kontaktide ja kalendri [importimine pst Outlook-failist.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="0639f-110">If you want to import a PST to your mailbox, see [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
 
-<span data-ttu-id="a9452-110">Kui soovite pst-faili lihtsalt oma postkasti importida, lugege [seda artiklit.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="a9452-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
+<span data-ttu-id="0639f-111">Kui teil on impordiga probleeme, lugege teemat [PST-imporditöid mõjutavad probleemid.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)</span><span class="sxs-lookup"><span data-stu-id="0639f-111">If you're having a problem with an import, see [Issues that affect PST import jobs](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).</span></span>
+
