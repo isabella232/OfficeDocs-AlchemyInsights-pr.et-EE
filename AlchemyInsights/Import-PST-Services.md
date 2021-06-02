@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470244"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721632"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Imporditeenus
 
-Teenuse Microsoft 365 imporditeenus võimaldab hulgi importida mitu PST-faili Exchange Online postkasti.
-
 Imporditeenusele juurdepääsemiseks ja impordiprotsessi alustamiseks:
 
-1. Avage [turbekontrolli & ja](https://protection.office.com) logige sisse oma asutuse administraatorikonto identimisteabega.
+1. Avage [M365 vastavuskeskus](https://compliance.microsoft.com/)ja logige sisse oma asutuse administraatorikonto identimisteabega.
 
-2. Klõpsake turbekontrolli & **vasakul paanil** nuppu **Teabehaldus ja > Impordi**.
+1. Valige M365 vastavuskeskuse vasakpoolsel paanil jaotises **Lahendused** käsk **Teabehaldus**  >  **Import**.
 
-3. Klõpsake **lehel Import** nuppu **Uus imporditöö.**
+1. Klõpsake **lehel Import** nuppu **Uus imporditöö.**
 
-4. Viisardi juhiste lõpuleviimiseks järgige neid [samm-sammult juhiseid.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
+1. Viisardi toimingute lõpuleviimiseks lugege teemat Võrgu üleslaadimise kasutamine ettevõtte [PST-failide importimiseks Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
-**Tähtis.** Turbe- **ja vastavuskeskuses** & impordilehele juurdepääsemiseks on teile määratud [vastavad õigused.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
+**Impordilehele juurdepääsuks** veenduge, et teile oleks määratud vastavad õigused. Lisateavet leiate teemast [Pst-failide importimiseks võrgu üleslaadimise kasutamine.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Kui soovite pst-faili lihtsalt oma postkasti importida, lugege [seda artiklit.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+Kui soovite PST-faili oma postkasti importida, lugege teemat Meilisõnumite, kontaktide ja kalendri [importimine pst Outlook-failist.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+
+Kui teil on impordiga probleeme, lugege teemat [PST-imporditöid mõjutavad probleemid.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+
