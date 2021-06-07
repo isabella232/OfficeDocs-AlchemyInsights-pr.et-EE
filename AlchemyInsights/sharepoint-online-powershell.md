@@ -13,21 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 839a70282b4dd619e9dbe8167ef0e409e468b1ad
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830578"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774355"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online'i PowerShell
 
 Kas töötate PowerShelli või Skriptidega Sharepoint Online'is? Lisateabe saamiseks külastage allolevaid linke.
-- [SharePoint Online'i halduskestaga alustamine](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [SPO PowerShelliga ühenduse loomine mitme osalejaga autentimisega (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePointi mustrid ja tavad (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) sisaldab PowerShelli käskude teeki, mis võimaldab SPO-ga teha keerukaid haldustoiminguid.
-
-> [!NOTE]
-> - Kui teil on SPO halduskestaga ühenduse loomisel probleeme, veenduge, et [](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1) olete uusimale versioonile üle võtnud ja proovige moodul uuesti importida *funktsiooni "Import-Module Microsoft.Online.SharePoint.PowerShell" abil.*
-> - Kui proovite käitada kliendipoolseid objektimudeli skripte, peab kohalikusse arvutisse olema installitud Sharepoint Online'i kliendikomponentide [SDK.](https://www.microsoft.com/download/details.aspx?id=42038)
-> - Kui teil on probleeme PowerShelli skriptide käivitamisega, võiksite kaaluda PowerShelli käivitamist administraatorina ja muuta [käivitamispoliitikat.](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)
+- [Veebihalduskesta SharePoint alustamine](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [Ühendus SPO PowerShelli mitme osalejaga autentimine (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [SharePoint mustrid ja tavad (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) sisaldab PowerShelli käskude teeki, mis võimaldab SPO-ga teha keerukaid haldustoiminguid.
