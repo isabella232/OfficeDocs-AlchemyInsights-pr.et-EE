@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 rakenduste aktiveerimine
+title: Rakenduste Microsoft 365 aktiveerimine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823027"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798604"
 ---
-# <a name="activating-microsoft-365-apps"></a>Microsoft 365 rakenduste aktiveerimine
+# <a name="activating-microsoft-365-apps"></a>Rakenduste Microsoft 365 aktiveerimine
+
+**Märkus.** Kui kasutate vanemat versiooni Windows (nt Windows 7), veenduge, et TLS 1.2 oleks vaikimisi lubatud. Lisateavet leiate teemast [Värskendus TLS 1.1 ja TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)lubamiseks winHTTP-s vaikimisi turvaliste protokollidena Windows .
 
 Office’i aktiveerimiseks vaadake järgmisi teemasid.
 
@@ -27,7 +29,7 @@ Office’i aktiveerimiseks vaadake järgmisi teemasid.
 
 - [Office’i aktiveerimine Mac-arvutis](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Märkus.**  Veenduge, et teil oleks Office 365 või Microsoft 365 tellimus, mis sisaldab [Office'i](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)klientrakendusi , nt Microsoft 365 Business Standard, Microsoft 365 apps for business või Microsoft 365 Apps for enterprise. Lisaks veenduge, et kasutajakontol, mida kasutate Office'i rakendustesse sisselogimiseks, [oleks määratud litsents.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Märkus.**  Veenduge, et teil Office 365 või Microsoft 365 tellimus, [mis sisaldab Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)klientrakendusi (nt Microsoft 365 Business Standard, Microsoft 365 ettevõtterakendused või Microsoft 365 suurettevõtterakendused). Lisaks veenduge, et kasutajakontol, mida kasutate rakendustesse sisselogimiseks, Office on [määratud litsents.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Office’i aktiveerimisprobleemide lahendamiseks vaadake järgmisi teemasid.
 
@@ -38,7 +40,7 @@ Office’i aktiveerimisprobleemide lahendamiseks vaadake järgmisi teemasid.
 
 **Näpunäide** Windowsi seadmetes saame diagnoosida ja automaatselt lahendada mitmed levinud Office'i sisselogimisprobleeme. Meie automatiseeritud tööriista kasutamiseks laadige alla ja käivitage **[Microsofti tugi- ja taasteteenuste abiline](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
-Kui te ei saa Microsoft 365 rakendustesse sisse logida, tehke järgmist.
+Kui te ei saa rakendusse sisse Microsoft 365, järgige alltoodud juhiseid.
 
 1. Avage mõni Office’i rakendus ja [logige välja](https://go.microsoft.com/fwlink/?linkid=2114082) kõigist kasutajakontodest.
 
@@ -46,6 +48,6 @@ Kui te ei saa Microsoft 365 rakendustesse sisse logida, tehke järgmist.
 
 3. Kasutades Windowsi suvandit **Sätted > Kontod > Loo ühendus töö- või koolikontoga**, eemaldage vanad või kasutamata kontod.
 
-4. [Määrake uuesti Office’i aktiveerimisolek](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) ja seejärel [logige sisse Office’i](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) rakendustesse uut kontot kasutades.
+4. [Määrake uuesti Office’i aktiveerimisolek](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) ja seejärel [logige sisse Office’i](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) rakendustesse uut kontot kasutades.
 
 Täiendavaid tõrkeotsingu tegevusi vaadake teemast [Office 365 rakenduse avamisel kuvatakse tellimusega seotud teatis](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
