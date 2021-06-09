@@ -1,5 +1,5 @@
 ---
-title: Teave ÜLDMÄÄRUSE kohta
+title: Teave GDPR-i kohta
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755649"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853865"
 ---
-# <a name="information-about-gdpr"></a>Teave ÜLDMÄÄRUSE kohta
+# <a name="information-about-gdpr"></a>Teave GDPR-i kohta
 
-- [Teenuse Trust portaali](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted) kasutamise alustamine.
+- [GDPR lihtsustatud: juhend väikeettevõttele](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- **Andmete töötlemise lepinguga** (aka) seotud midagi, vaadake üle:
+- Alustuskeskus teenuse [usaldusportaali kaudu.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-  - [Andmete kaitse ressursid](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+- Mis on seotud **andmetöötluslepinguga** (DPA), vaadake läbi:
 
-  - [Auditi aruanded](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [Andmekaitseressursid](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-- Teave **andmesubjekti päringute** kohta (DSR) – avastamine, juurdepääs, parandamine, piiramine, kustutamine, eksportimine on [siin.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+  - [Auditiaruanded](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Teave **andmete rikkumise teatise** kohta on [siin.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Teave **andmesubjektitaotluste** (DSR) kohta – siit leiate teavet selle kohta, kuidas neid avastada, neile juurde pääseda, parandada, piirata, kustutada, [eksportida.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Teave **andmete asukohtade** kohta on [siin.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Teave **andmetega seotud rikkumisest teatamise** kohta on [siin.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+
+- Teave **andmeasukohtade kohta** on [siin.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
