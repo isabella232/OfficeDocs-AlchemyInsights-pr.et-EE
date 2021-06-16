@@ -11,22 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
+- "1300023"
 - "3754"
-ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "4531"
+ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822847"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52930971"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directoryt ei sünkroonita
 
-Kui saate sünkroonimistõrkeid (nt "viimatist sünkroonimist pole" või märkate, et Office'i haldusportaalis on kataloogisünkroonimise olek järgmine: "Viimati sünkroonitud rohkem kui 3 päeva tagasi", võib olla see, et AADConnectil on valed sätted või sünkroonimiseks pole piisavalt õigusi.  
+Kui saate sünkroonimistõrkeid (nt "viimatist sünkroonimist pole" või märkate kataloogisünkroonimise olekut Office haldusportaalis, ütleb "Viimati sünkroonitud rohkem kui 3 päeva tagasi", võib olla see, et AADConnectil on valed sätted või sünkroonimiseks pole piisavalt õigusi.  
 
 AADConnecti uuesti installimine kiirsätete abil võib probleemi kiiresti lahendada.
 
 1. [Laadige alla AADConnecti uusim versioon.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Järgige kiirinstalli juhiseid.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [Järgige kiirinstalli juhiseid.](/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Lisateavet AADConnecti teenusekontode kohta leiate teemast [Azure AD Connect: Accounts and permissions ( Kontod ja õigused).](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)
+Azure AD Connect peab olema opsüsteemis Windows Server 2012 või uuemas versioonis installitud. See server peab olema domeeniga ühendatud ja võib olla domeenikontroller või liikmest server. Azure AD Ühendus eeltingimuste täieliku loendi vaatamiseks vaadake [läbi Azure AD](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)Ühendus.
+
+Lisateavet AADConnecti teenusekontode kohta leiate teemast [Azure AD Ühendus: Kontod ja õigused](/azure/active-directory/hybrid/reference-connect-accounts-permissions).
