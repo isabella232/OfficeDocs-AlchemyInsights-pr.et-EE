@@ -1,5 +1,5 @@
 ---
-title: Microsofti rakenduste halduse oleku kuvamine iOS-i või Androidi seadmete jaoks mõeldud Microsoft Edge ' i abil
+title: Microsofti rakenduste haldusoleku vaatamine iOS-i või Androidi seadmete Microsoft Edge abil
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677345"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989893"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Microsofti rakenduste halduse oleku kuvamine iOS-i või Androidi seadmete jaoks mõeldud Microsoft Edge ' i abil
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Microsofti rakenduste haldusoleku vaatamine iOS-i või Androidi seadmete Microsoft Edge abil
 
-Rakenduse logidele juurdepääsemiseks, mida saab kasutada hallatud iOS-i või Androidi rakenduste tõrkeotsinguks, avage Microsoft Edge ja tippige väljale aadress väärtus **teave: intunehelp** . Microsoft Edge käivitab tõrkeotsingu režiimis.
+Hallatavate iOS-i või Androidi rakenduste tõrkeotsinguks rakenduselogidele juurdepääsemiseks avage Microsoft Edge ja tippige aadressiväljale **tekst about:intunehelp.** Microsoft Edge käivitab tõrkeotsingurežiimis.
 
-Rakenduse logides talletatud sätete loendi leiate teemast [Kliendi rakenduse kaitse logide läbivaatus](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Rakenduselogides talletatud sätete loendi leiate teemast Kliendirakenduse [kaitselogide ülevaatamine.](/mem/intune/apps/app-protection-policy-settings-log)
 
-Androidi seadmetes rakenduse logide vaatamise kohta leiate teavet teemast [logide üleslaadimine ja saatmine](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Androidi seadmetes rakenduselogide vaatamise kohta leiate teavet teemast [Upload ja meililogid.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

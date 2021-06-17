@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune ' i kasutamine veebipääsu haldamiseks rakenduses Microsoft Edge iOS-i ja Androidi jaoks
+title: Microsoft Intune'i kasutamine iOS-i ja Androidi jaoks mõeldud Microsoft Edge'i veebipääsu haldamiseks
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677447"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989661"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Microsoft Intune ' i kasutamine veebipääsu haldamiseks rakenduses Microsoft Edge iOS-i ja Androidi jaoks
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Microsoft Intune'i kasutamine iOS-i ja Androidi jaoks mõeldud Microsoft Edge'i veebipääsu haldamiseks
 
-Microsoft Edge iOS-i ja Androidi jaoks võimaldab kasutajal sirvida veebi mitmest täiesti eraldiseisvast profiilist.
+Microsoft Edge iOS-i ja Androidi jaoks võimaldab kasutajal veebi sirvida mitmest täiesti eraldi profiilist.
 
-Microsoft 365 andmete laiem kaitse on saadaval siis, kui tellite Enterprise Mobility + Security Suite ' i, mis sisaldab Microsoft Intune ' i ja Azure Active Directory Premiumi funktsioone (nt tingimusjuurdepääsu). Vähemalt soovite juurutada tingimusjuurdepääsu poliitika, mis (1) võimaldab kasutajatel iOS-i ja Androidi kaudu Microsoft Edge ' i mobiilsideseadmete kaudu ühendust võtta ja et (2) rakendab Microsoft Intune ' i rakenduse kaitsepoliitika, mis tagab kaitstud sirvimise kogemuse.
+Microsoft 365 andmete kõige laiemad kaitsevõimalused muutuvad kättesaadavaks, kui tellite Enterprise Mobility + Security komplekti, mis sisaldab Microsoft Intune'i ja Azure Active Directory Premiumi funktsioone (nt tingimusjuurdepääsu). Vähemalt soovite juurutada tingimusjuurdepääsu poliitika, mis (1) võimaldab kasutajatel luua ühenduse mobiilsideseadmetest Microsoft Edge'i iOS-i ja Androidi jaoks ning (2) rakendab Microsoft Intune'i rakendusekaitsepoliitika, mis pakub kaitstud sirvimiskogemust.
 
-Lisateavet tingimusjuurdepääsu ja-poliitikate kasutamise kohta leiate järgmistest teemadest.
+Tingimusjuurdepääsu ja poliitikate kasutamise kohta leiate teavet teemast
 
-[Azure Active Directory rakendamine tingimusjuurdepääsu poliitikate rakendamiseks](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Azure Active Directory tingimusjuurdepääsu poliitikate rakendamist](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Microsoft Intune ' i rakenduse kaitsmise poliitikate loomine](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Microsoft Intune'i rakenduse kaitsepoliitikate loomine](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Ühekordse sisselogimise kasutamine Azure Active Directory jaoks – ühendatud veebirakendused poliitikaga kaitstud brauserites](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Ühekordse sisselogimise kasutamine Azure Active Directoryga ühendatud veebirakenduste jaoks poliitikaga kaitstud brauserites](https://go.microsoft.com/fwlink/?linkid=2132482)
 
-[Rakenduse konfiguratsiooni kasutamine sirvimise kogemuse haldamiseks](https://go.microsoft.com/fwlink/?linkid=2132483)
+[Rakenduse konfiguratsiooni kasutamine sirvimiskogemuse haldamiseks](https://go.microsoft.com/fwlink/?linkid=2132483)
 
-[Ainult töö-ja koolide kontode kasutamise lubamine](https://go.microsoft.com/fwlink/?linkid=2132652)
+[Luba kasutada ainult töö- ja koolikontosid](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[Rakenduse üldist konfigureerimine poliitikate juurutamine](https://go.microsoft.com/fwlink/?linkid=2132653)
+[Rakenduse üldiste konfiguratsioonipoliitikate juurutamine](https://go.microsoft.com/fwlink/?linkid=2132653)
 
-[Rakenduse konfigureerimise poliitikate juurutamine andmete kaitsmiseks](https://go.microsoft.com/fwlink/?linkid=2132654)
+[Rakenduse konfiguratsioonipoliitikate juurutamine andmekaitse jaoks](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Microsoft Endpoint Manageri kasutamine rakenduse konfigureerimise poliitikate juurutamiseks](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Rakenduse konfiguratsioonipoliitikate juurutamine Microsoft Endpoint Manageri abil](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Hallatavate rakenduste logidele juurdepääsemise kohta leiate teavet teemast [Microsoft Edge ' i kasutamine iOS-i ja Androidi jaoks](https://go.microsoft.com/fwlink/?linkid=2132578).
+Teavet hallatud rakenduselogidele juurdepääsu kohta leiate teemast [Microsoft Edge'i kasutamine iOS-i ja Androidi jaoks hallatavatele rakenduselogidele juurdepääsemiseks.](https://go.microsoft.com/fwlink/?linkid=2132578)

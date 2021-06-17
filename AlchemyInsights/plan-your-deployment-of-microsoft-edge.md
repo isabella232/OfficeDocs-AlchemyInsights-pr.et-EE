@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge ' i juurutamise kavandamine
+title: Plaanige oma Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035478"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989929"
 ---
-# <a name="plan-your-deployment-of-microsoft-edge"></a>Microsoft Edge ' i juurutamise kavandamine
+# <a name="plan-your-deployment-of-microsoft-edge"></a>Plaanige oma Microsoft Edge
 
-Uue brauseri juurutamine mitmele kasutajale võib olla heidutav. Me saame aidata Sul need toimingud lõpetada ja iga ühe läbi saada. Kui järgite neid seitsmeid juhiseid, on teil edukas Microsoft Edge ' i juurutus, kus on minimaalne kasutaja frustratsioon.
+Uue brauseri juurutamine hunniku kasutajate jaoks võib tunduda heidutav. Aitame teil selle juhistesse murda ja teid kõiki läbi vaadata. Kui järgite neid seitset etappi, saate edukalt juurutada Microsoft Edge minimaalse kasutaja pettumusega.
 
-1. Olemasoleva brauseri keskkonna ja vajaduste hindamine.
-2. Määratlege juurutamise metoodika.
-3. Saidi tuvastamine.
-4. Määratlege oma kanali strateegia.
+1. Hinnake olemasolevat brauserikeskkonda ja vajadusi.
+2. Määratlege juurutamismetoodika.
+3. Tehke saidituvastust.
+4. Määratlege oma kanalistrateegia.
 5. Poliitikate määratlemine ja konfigureerimine.
-6. Tehke rakenduse ühilduvuse testimine.
-7. Microsoft Edge ' i juurutamine pilootide rühmaga ja selle kinnitamine.
+6. Tehke rakenduste ühilduvusteste.
+7. Juurutage Microsoft Edge ja valideerige see.
 
-Kui soovite neid toiminguid ise teha, lugege teemat [Microsoft Edge ' i juurutamise kavandamine](https://go.microsoft.com/fwlink/?linkid=2129990).
+Nende toimingute ise läbimiseks lugege teemat [Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2129990)
