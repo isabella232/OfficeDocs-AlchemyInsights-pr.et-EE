@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "53005009"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023135"
 ---
 # <a name="get-business-assist"></a>Hangi äriabi
 
-1. Avage Microsoft 365 halduskeskus Tellimuste   >  **äriabi**.
-
-1. Valige **Äriabi**  >  **osta ja** järgige äriabi ostmiseks viisardit.
+1. Avage Microsoft 365 halduskeskus leht [Microsoft 365 äriabiteenus](https://go.microsoft.com/fwlink/p/?linkid=2158423), valige arveldussagedus ja seejärel valige **Osta**.
+2. Järgige väljaregistreerimiseks juhiseid.
 
 Lisateavet leiate teemast [Microsoft 365 äriabiteenus](/microsoft-365/admin/misc/business-assist).

@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721632"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023099"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Imporditeenus
 
@@ -29,9 +29,9 @@ Imporditeenusele juurdepääsemiseks ja impordiprotsessi alustamiseks:
 
 1. Valige M365 vastavuskeskuse vasakpoolsel paanil jaotises **Lahendused** käsk **Teabehaldus**  >  **Import**.
 
-1. Klõpsake **lehel Import** nuppu **Uus imporditöö.**
+1. Klõpsake **lehel Import** nuppu **Uus imporditöö.** Sisestage töö nimi ja valige **Edasi**.
 
-1. Viisardi toimingute lõpuleviimiseks lugege teemat Võrgu üleslaadimise kasutamine ettevõtte [PST-failide importimiseks Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
+1. Valige **Upload oma andmed,** et kasutada valiku Impordi töö tüüp jaoks võrgu **üleslaadimissuvandeid.** Üksikasjalikud juhised leiate teemast Võrgu üleslaadimise kasutamine ettevõtte [PST-failide importimiseks Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
 **Impordilehele juurdepääsuks** veenduge, et teile oleks määratud vastavad õigused. Lisateavet leiate teemast [Pst-failide importimiseks võrgu üleslaadimise kasutamine.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
