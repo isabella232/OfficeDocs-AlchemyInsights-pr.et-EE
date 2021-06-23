@@ -1,5 +1,5 @@
 ---
-title: Teamsi täiustamise juhised
+title: Teams versioonitäienduse juhised
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333924"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095396"
 ---
-# <a name="microsoft-teams-upgrade"></a>Microsoft Teamsi uuendamine
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams versioonitäiendus
 
-**Tähtis**: kui teil on Skype ' i ärirakenduse veebiväljaandest loodud Microsoft teamsi režiimis ainult režiimid, kuid leiate, et te pole veel valmis, saame teid aidata selle probleemi lahendamiseks kasutada tugiteenuste diagnostikat. Veenduge, et kasutate uut Administreerimiskeskuset, libistades paremas ülanurgas olevale ülemises parempoolses servas olevale suvandile " **Uus halduskeskus**". Kui kasutate uut Administreerimiskeskuset, klõpsake nuppu **Vajad abi?** vidinat, tippige "**teamsi uuendamine**" ja seejärel järgige diagnostika käivitamiseks viipasid.
+Olenemata sellest, kas alustate Teams-ga, kasutate Teams koos Skype'i ärirakendus-ga või olete valmis versioonitäienduseks, soovime tagada, et teil oleks kõik vajalik edukal teekonnal liikumiseks Teams. Lisateavet leiate allolevatest linkidest.
 
-See, kas oled alustanud meeskonnatööd, juba kasutad meeskonnatööd koos Skype ' i ärirakendusega või uuendamiseks valmis, soovime, et sul oleks kõik, mida vajad, et meeskondadele edukas teekond liikuda. Lisateavet leiate allpool olevatest linkidest.
+[Versioonitäiendusega Microsoft Teams alustamine](/MicrosoftTeams/upgrade-start-here)
 
-[Microsoft Teamsi uuenduste kasutamise alustamine](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Versioonitäienduse kavandamine](/MicrosoftTeams/upgrade-plan-journey)
 
-[Täienduse kavandamine](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Mõistmine Microsoft Teams ja Skype'i ärirakendus kooseksisteerimine](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Microsoft Teamsi ja Skype ' i ärirakenduse kooseksisteerimise mõistmine](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Üleminek versioonilt Skype'i ärirakendus Online'ilt Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Skype ' i ärirakenduse veebiväljaandele ülemineku tegemine meeskondadele](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Ülemineku tegemine Skype ' i ärirakenduse kohapealsele tööruumile](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Üleminek Skype'i ärirakendus-lt Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Vaadake, kas Skype ' i ärirakenduse veebiväljaande olekuks on mõeldud PowerShelli abil](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[PowerShelli abil Skype'i ärirakendus Online'Teams olekut](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

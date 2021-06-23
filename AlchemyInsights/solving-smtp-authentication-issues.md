@@ -1,5 +1,5 @@
 ---
-title: SMTP-autentimisega seotud probleemide lahendamine
+title: SMTP-autentimise ja tõrkeotsingu lubamine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826411"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077647"
 ---
-# <a name="solving-smtp-authentication-issues"></a>SMTP-autentimisega seotud probleemide lahendamine
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>SMTP-autentimise ja tõrkeotsingu lubamine
 
-Kui saate SMTP-meili saatmisel ja kliendi või rakendusega autentimisel tõrkeid 5.7.57 või 5.7.3, peaksite kontrollima järgmist.
+Kui soovite postkasti jaoks lubada SMTP-autentimise või saate tõrke "Klient pole autenditud", "Autentimine nurjus" või "SmtpClientAuthentication" koodiga 5.7.57 või 5.7.3 või 5.7.139, kui proovite meilisõnumit edastada, autentides seadme või rakenduse Microsoft 365 abil, tehke probleemi lahendamiseks järgmist kolme toimingut.
 
-- Autenditud SMTP-edastus võib olla teie rentnikus või postkastis, mida proovite kasutada(kontrollige mõlemaid sätteid). Lisateavet leiate teemast [Autenditud kliendi SMTP-edastuse lubamine või keelamine.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)
+1. Keelake [Azure'i turbe vaikesätted,](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) kui soovite lubada turbe **vaikesäteteks** **Ei.**
 
-- Kontrollige, [kas teie rentniku jaoks on](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) lubatud Azure'i turbe vaikesätted; kui see on lubatud, nurjub SMTP-autentimine põhiautentimise (ehk pärandi; see kasutab kasutajanime ja parooli) kasutamisel.
+    a. Logige Azure'i portaali sisse turbeadministraatori, tingimusjuurdepääsu administraatori või üldadministraatorina.<BR/>
+    b. Liikuge sirvides Azure Active Directory > **atribuutideni.**<BR/>
+    c. Valige **Halda turbe vaikesätet**.<BR/>
+    d. Määrake **väärtuse Luba turbe vaikesätted** väärtuseks **Ei**.<BR/>
+    e. Valige **Salvesta**.
+
+2. [Luba kliendi SMTP-edastus](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) litsentsitud postkastis.
+
+    a. Avage Microsoft 365 halduskeskus Aktiivsed **kasutajad** ja valige kasutaja.<BR/>
+    b. Avage vahekaart Meil ja valige jaotises **Meilirakendused** nupp **Halda meilirakendusi.**<BR/>
+    d. Veenduge, **et autenditud SMTP** oleks märgitud (lubatud).<BR/>
+    e. Valige **Salvesta muudatused**.<BR/>
+
+3. [Keelake litsentsitud postkastis mitme teguriga autentimine (MFA).](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa)
+
+    a. Avage Microsoft 365 halduskeskus ja valige vasakpoolses navigeerimismenüüs **Kasutajad**  >  **Aktiivsed kasutajad**.<BR/>
+    b. Valige **Mitmikautentimine**.<BR/>
+    c. Valige kasutaja ja keelake **mitme teguriga autentimine.**<BR/>
