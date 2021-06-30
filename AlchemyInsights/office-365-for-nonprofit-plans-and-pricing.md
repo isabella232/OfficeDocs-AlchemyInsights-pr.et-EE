@@ -1,5 +1,5 @@
 ---
-title: Office 365 Nonprofiti lepingud ja hinnad
+title: Microsoft 365 nonprofiti lepingud ja hinnad
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 683995071a6902276e041e914453df211cf54fd4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 99cfc2d8504f17afb0ffa0b6611594035c1e97c0
+ms.sourcegitcommit: 00a9c41575be54dccac6c423f2de824b47a4ee9e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810300"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53176589"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 Nonprofiti lepingud ja hinnad
+# <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 nonprofiti lepingud ja hinnad
 
-Kvalifitseeritud mittetulundusühing saab teenusekomplekti Office 365 Nonprofit annetuse või täiustatud funktsioonidele üle minna olulise allahindlusega. Office 365 Nonprofiti lepingu saamiseks peate [](https://go.microsoft.com/fwlink/p/?LinkID=330253) oma riigis hoidma tunnustatud heategevusliku oleku ja allkirjastama Microsofti mittediskrimineerimise poliitika. Microsoft jätab endale õiguse kontrollida mis tahes ajal nõuetele vastavust ja peatada teenuse abikõlbmatute organisatsioonide jaoks.
+Kvalifitseeritud mittetulundusühing saab Microsoft 365 Nonprofiti annetuse või täiustatud funktsioonidele üle minna olulise allahindlusega. Nonprofiti Microsoft 365 saamiseks peate oma riigis hoidma [](https://go.microsoft.com/fwlink/p/?LinkID=330253) tunnustatud heategevusliku oleku ja allkirjastama Microsofti mittediskrimineerimise poliitika. Microsoft jätab endale õiguse kontrollida mis tahes ajal nõuetele vastavust ja peatada teenuse abikõlbmatute organisatsioonide jaoks.
   
-Lisateavet [selle pakkumise kohta](https://products.office.com/nonprofit/office-365-nonprofit) leiate KKK-st.
+Lisateavet leiate [KKK-st.](https://products.office.com/nonprofit/office-365-nonprofit)
   
 - [Nonprofiti plaanide läbivaatamine](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [Kõigi Microsoft 365 tellimuste võrdlus](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Kõigi tellimuste Microsoft 365 võrdlemine](https://products.office.com/business/compare-more-office-365-for-business-plans)
