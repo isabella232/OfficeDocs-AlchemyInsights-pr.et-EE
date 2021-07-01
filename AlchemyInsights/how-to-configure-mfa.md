@@ -1,5 +1,5 @@
 ---
-title: 955 kuidas MFA konfigureerida
+title: 955 MFA konfigureerimine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f535ddf697925b56ba8d72c0e68ed320bd8ea11
+ms.sourcegitcommit: cc7c443f23deede96de9532888e0e009430e61a4
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704449"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53218770"
 ---
-# <a name="configure-multi-factor-authentication"></a>Mitme teguri autentimise konfigureerimine
+# <a name="configure-multi-factor-authentication"></a>Mitme teguriga autentimise konfigureerimine
 
-MFA konfigureerimise kohta leiate teavet teemast [mitme teguri autentimise häälestamine](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).
+MFA konfigureerimiseks lugege [teemat Mitmikautentimise häälestamine](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) või [Microsoft 365 halduskeskus häälestusjuhendit.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:)
 
-Pidage meeles, et MFA lubamiseks ja konfigureerimiseks peate olema üldadministraator.
+**Märkus.** MFA lubamiseks ja konfigureerimiseks peate olema üldadministraator.
