@@ -1,5 +1,5 @@
 ---
-title: PDF-lugeja Microsoft Edge ' is
+title: PDF-i lugeja Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677315"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255887"
 ---
-# <a name="pdf-reader-in-microsoft-edge"></a>PDF-lugeja Microsoft Edge ' is
+# <a name="pdf-reader-in-microsoft-edge"></a>PDF-i lugeja Microsoft Edge
 
-PDF-failide populaarsus tõstab esile vajadust usaldusväärse, turvalise ja võimsa PDF-lugeja järele, mille saab vastu võtta ettevõtte ettevõtetest. Microsoft Edge ' i sisse ehitatud rikkalikumaid PDF-lugeja (versioonid 77 ja uuemad versioonid) on just selline rakendus. See töötab opsüsteemis Windows ja macOS ning seda saab kasutada veebilehekülgedele kohalike, veebi või manustatud PDF-failide avamiseks ja märgistamiseks.
+PDF-failide populaarsus tõstab esile vajaduse usaldusväärse, turvalise ja võimsa PDF-i lugeja jaoks, mida saavad ettevõtteettevõtted vastu võtta. Sisseehitatud funktsioonirikas PDF-Microsoft Edge (versioonid 77 ja uuemad versioonid) on lihtsalt selline rakendus. See töötab Windows macOS-is ning seda saab kasutada kohalike, veebi- või veebilehtedele manustatud PDF-failide avamiseks ja marginaalide märkimiseks.
 
-Lisateavet leiate teemast [PDF Reader Microsoft Edge ' is](https://go.microsoft.com/fwlink/?linkid=2140005).
+Lisateavet leiate teemast [PDF-i lugeja Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
