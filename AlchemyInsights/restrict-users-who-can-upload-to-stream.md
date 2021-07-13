@@ -1,7 +1,7 @@
 ---
 title: Streami üleslaadimise õigusega kasutajate piiramine
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: 964087efb30bda9f6f78786d92e8ffb9a8f5b8a9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d13cf65ff7508897a8f30140bab858c7b6c70e36
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831298"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389357"
 ---
 # <a name="restrict-users-who-can-upload-to-stream"></a>Streami üleslaadimise õigusega kasutajate piiramine
 
 Ettevõttena võite soovida piirata töötajaid, kes saavad videoid üles laadida. Vaikimisi saavad kõik teie asutuse administraator videod üles laadida.
 
-- [Microsoft Streamis sisu loomise õigusega töötajate piiramine](https://docs.microsoft.com/stream/restrict-uploaders)
+- [Microsoft Streamis sisu loomise õigusega töötajate piiramine](/stream/restrict-uploaders)

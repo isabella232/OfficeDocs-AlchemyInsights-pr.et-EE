@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125200"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389174"
 ---
 # <a name="domain-status---no-services-selected"></a>Domeeni olek – teenuseid pole valitud
 
-Domeeni seisundi olek on saadaval pärast seda, kui ühendate domeeni otse Microsoft 365 teenustega (nt Exchange). Selleks avage Microsoft 365 halduskeskus ja valige **DNS-i kirjete haldamine**  >  .
+**Ükski teenus pole valitud–** te pole Microsoft 365 (nt Exchange Online, Skype'i ärirakendus või Intune) ega mobiilsideseadmete haldust Microsoft 365 kohandatud domeeniga kasutamiseks. Kui kasutate Exchange hübriidfiltrit (Exchange kohapealne Exchange Online) või välise rämpsposti filtreerimist Exchange ja muid Microsofti teenused, saate seda teadet eirata. Domeeni seisundi olek on saadaval ainult domeenide jaoks, mis on otse teenusega ühendatud.
 
-Kui te ei saa domeeni otse Microsoft 365 teenustega, pole domeeni seisundi olek saadaval. Näiteks kui kasutate kohandatud DNS-i marsruutimist meilisõnumite, väliste rämpsposti filtreerimisteenuste jaoks või kasutate nii Exchange kui ka Exchange Online (nimetatakse ka hübriidjuurutuseks).
+Oma domeeni jaoks teenuste valimiseks tehke seda.
+
+1. Märkige **Sätted** domains (Domeenid) domeeni kõrval ruut  >  [](https://admin.microsoft.com/Adminportal/Home)olekuteateGa No **services (Teenused pole valitud).**
+1. Domeeni **häälestusviisardi** käivitamiseks valige Halda DNS-i.
+    - Kui valite **käsu Lisa oma DNS-i** kirjed, valige küsimisel kindlasti teenus. Rohkem teenuseid võib olla saadaval jaotises **Täpsemad suvandid.**
+    - Kui valite **Suvandi Luba Microsoftil lisada oma DNS-i** kirjeid või **Rohkem** suvandeid Häälesta minu jaoks minu jaoks kõik  >   saadaolevad teenused soovitatakse ja valitakse automaatselt.
+1. Dns-i häälestamise ja teenusevalikute lõpuleviimiseks jätkake viisardi kaudu.
+ 
+Lisateavet domeeni häälestamise kohta leiate teemast [DNS-i kirjete lisamine domeeni ühendamiseks.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
