@@ -1,5 +1,5 @@
 ---
-title: Rühma lisamine SharePointi saidile
+title: Rühma lisamine SharePoint saidile
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,27 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "5200004"
+- "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 396efbf9772b5398427a4fcc76e104fa95820af6
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771195"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532215"
 ---
-# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Probleemid rühma ühendatud saidi loomisel rakenduses SharePoint
+# <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>Levinumad probleemid rühmaga ühendatud saidi loomisel SharePoint
 
-1. Mõned levinud probleemid, mis tekkisid rühma ühendatud saidi loomisel või uuesti loomisel.
-Kui olete rühma ja selle ühendatud saidi kustutanud ning soovite luua sama URL-iga mõne teise saidi, peate eelmise saidi jäädavalt eemaldama.
+1. Kui olete rühma ja selle ühendatud saidi kustutanud ja soovite luua teise sama URL-iga saidi, peate eelmise saidi jäädavalt eemaldama.
 
-   - Laadi alla [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
-   - Lisateavet PowerShelli kasutamise kohta leiate teemast [SharePoint Online ' i haldamise kestaga alustamine](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
-   - Eemaldage sait kustutatud saitidelt, kasutades SPODeletedSite PowerShelli cmdlet [-](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) käsku. Rühma saitide jäädavalt kustutamiseks on vaja PowerShelli.
+   - [SPO halduskesta allalaadimine](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+   - Lisateavet PowerShelli kasutamist alustamise kohta leiate teemast SharePoint [Online Management Shelli kasutamine.](/powershell/module/sharepoint-online/remove-sposite)
+   - Eemaldage sait kustutatud saitidelt [cmdlet-käsu Remove-SPODeletedSite](/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell abil. Rühmasaitide jäädavalt kustutamiseks on vaja Powershelli.
 
-1. Kui loote rühma ühendatud saiti ja saadate hoiatuse: **teine sama pseudonüümiga rühm on juba olemas**, vaadake olemasolevaid rühmi [Microsoft 365 halduskeskus](https://admin.microsoft.com/AdminPortal/Home#/groups). Probleemi lahendamiseks kustutage olemasolev rühm, kui seda pole enam vaja, või looge sait mõne muu määratud pseudonüümiga.
+1. Kui loote rühmaga ühendatud saidi ja saate **hoiatuse:** sama pseudonüümiga rühm on juba olemas, kontrollige olemasolevaid rühmi [Microsoft 365 halduskeskus](https://admin.microsoft.com/AdminPortal/Home#/groups). Probleemi lahendamiseks kustutage olemasolev rühm, kui seda enam vaja pole, või looge sait, millele on määratud muu pseudonüüm.
 
-1. SharePointi jaoks on moodsate rühmade loomiseks ja kasutamiseks mitu võimalust.
+1. Tänapäevaste rühmade loomiseks ja kasutamiseks on mitu võimalust, SharePoint.
 
-   - Saate ühendada olemasolevad saidid Microsoft 365 rühmaga. Lisateavet leiate teemast [Microsoft 365 rühma ühendamine SharePointi kasutajaliidese abil](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Microsoft 365 rühmaga ühendatud saidi loomiseks peate looma [meeskonnatöö saidi](https://admin.microsoft.com/sharepoint).
+   - Saate ühendada olemasolevad saidid Microsoft 365 rühmaga. Lisateavet leiate teemast [Ühendus rühma Microsoft 365, kasutades SharePoint kasutajaliidest.](/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
+   - Rühmaga Microsoft 365 saidi loomiseks peate looma [meeskonnatöö saidi.](https://admin.microsoft.com/sharepoint)
