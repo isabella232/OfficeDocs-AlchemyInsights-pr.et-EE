@@ -1,5 +1,5 @@
 ---
-title: Tuvasta sõnumi sündmuste kustutamine auditi logides
+title: Auditilogides sõnumisündmuste kustutamise tuvastamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: bc78076706aee15a3133c4b1a89064591f790b58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696509"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630065"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Kustutatud meilisõnumite auditi logid
+# <a name="audit-logs-for-deleted-email-messages"></a>Kustutatud meilisõnumite logide auditeerimine
 
-Alates jaanuarist 2019 on Microsoft vaikimisi Postkasti auditilogi sisse lülitanud. Vastasel juhul peate kindla kasutaja jaoks sõnumite kustutamise üle vaatamiseks käsitsi lubama toimingute kustutamise. Kui postkasti auditi logimine on teie asutuse või konkreetse kasutaja jaoks juba lubatud, järgige alltoodud juhiseid.
+Alates jaanuarist 2019 lülitab Microsoft postkasti auditilogi vaikimisi sisse. Muul juhul peate konkreetse kasutaja kustutamissündmuste läbivaatamiseks käsitsi lubama auditeerimise kustutustoimingud. Kui postkasti auditilogi on teie asutuse või konkreetse kasutaja jaoks juba lubatud, järgige alltoodud juhiseid.
 
-1. Logige sisse [Microsoft 365 turbe & nõuetele vastavuse keskuses](https://protection.office.com/)
+1. Logige sisse [Microsoft 365 vastavuskeskusesse](https://protection.office.com/)
 
-2. Klõpsake nuppu **Otsing ja juurdlus** ning valige **auditilogi otsing**.
+2. Klõpsake **nuppu Otsing ja uurimine** ning valige **Auditilogi otsing.**
 
-3. Valige väljadel **Alguskuupäev** ja **lõppkuupäev** kuupäevavahemik. Määrake kasutaja kasutajanimi, mida soovite uurida (üksuste kustutanud kasutaja). Valige väljal **Tegevused** **kaust** kustutatud ja **teisaldatud sõnumid kausta Kustutatud üksused**.
+3. Valige väljadel Alguskuupäev **ja Lõppkuupäev** **kuupäevavahemik.** Määrake kasutaja kasutajanimi, keda soovite uurida (kasutaja, kes üksused kustutas). Valige väljal **Tegevused** kustutatud sõnumid **kaustast Kustutatud üksused ja** **Teisaldatud sõnumid kausta Kustutatud üksused.**
 
-4. Klõpsake nuppu **Otsi**.
+4. Klõpsake **nuppu Otsi**.
 
-Valige tulemites auditi kirje. Klõpsake hüpik üksikasjad nuppu **veel teavet**. Väljal **AffectedItems** kuvatakse Lisateave kustutatud üksuse kohta (nt üksuse teemarida ja üksuse asukoht, kui see kustutati). Atribuut **ClientInfoString** kuvatakse siis, kui kustutatud on Outlookis, Outlooki veebirakenduses (varem Outlook Web App) või mis tahes muus seadmes.
+Valige tulemitest auditikirje. Klõpsake üksikasjade hüpiku jaotises nuppu **Lisateave.** Lisateavet kustutatud üksuse kohta (nt teemarida ja üksuse asukoht kustutamisel) kuvatakse väljal **AffectedItems.** Atribuut **ClientInfoString** kuvatakse, kui kustutamine toimus Outlook, Outlooki veebirakendus (varem Outlook Web App) või mis tahes muu seadmega.
 
-Lisateavet leiate teemast [postkasti jaoks meili edasisaatmise häälestamine](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Lisateavet leiate teemast [Postkasti jaoks meilisõnumite edasisaatmise häälestaja määratlemine.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Märkus**: kustutatud üksusi ei saa auditi Logi funktsiooni abil taastada. Outlooki veebirakenduses kustutatud sõnumite toomise kohta leiate teavet teemast [Kustutatud üksuste taastamine Outlook Web Appis](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Märkus.** Auditilogi funktsiooni abil ei saa kustutatud üksusi tuua. Kustutatud sõnumite toomiseks Outlooki veebirakendus lugege [teemat Kustutatud üksuste taastamine Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

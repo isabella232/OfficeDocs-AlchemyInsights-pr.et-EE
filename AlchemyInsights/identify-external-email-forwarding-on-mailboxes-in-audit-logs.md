@@ -1,5 +1,5 @@
 ---
-title: Väliste meilisõnumite edasisaatmise tuvastamine auditi logide postkastides
+title: Väliste meilisõnumite edasisaatmise tuvastamine auditilogides postkastides
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696293"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630245"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Tuvastamine, kui väline meilisõnumite edasisaatmine on konfigureeritud postkastides
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Väliste meilisõnumite edasisaatmise konfigureerimise tuvastamine postkastides
 
-Kui Microsoft 365 kasutaja konfigureerib välise meili edasisaatmise postkastis, auditeeritakse tegevust cmdlet **-käsu Set-Mailbox** osana. Auditilogi abil saate vaadata tegevust turbe & vastavuskontrolli keskuses.
+Kui Microsoft 365 konfigureerib postkastis välise meilisõnumite edasisaatmise, auditeeritakse tegevust **cmdlet-käsu Set-Mailbox osana.** Tegevusi saate vaadata auditilogi otsingu abil turbe- & vastavuskeskuses.
 
-1. Logige sisse [Microsoft 365 turbe & nõuetele vastavuse keskuses](https://protection.office.com/).
+1. Logige sisse [Microsoft 365 vastavuskeskusesse.](https://protection.office.com/)
 
-2. Avage leht **Otsingu**  >  **auditilogi otsing** .
+2. Avage leht **Otsi**  >  **auditilogi otsingut.**
 
-3. Valige väljadel **Alguskuupäev** ja **lõppkuupäev** kuupäevavahemik. Te ei pea kasutajanime määrama. Veenduge, et väli **Tegevused** oleks seatud **kõigi tegevuste tulemite kuvamiseks**.
+3. Valige väljadel Alguskuupäev **ja Lõppkuupäev** **kuupäevavahemik.** Kasutajanime pole vaja määrata. Veenduge, **et välja** Tegevused väärtuseks oleks seatud Kõigi tegevuste **tulemite näitamine.**
 
-4. Klõpsake nuppu **Otsi**.
+4. Klõpsake **nuppu Otsi**.
 
-Klõpsake tulemites nuppu **Filtreeri tulemid** ja tippige väljale tegevuse filter **väärtus Set-postkast** . Valige tulemites auditi kirje. Klõpsake hüpik **üksikasjad** nuppu **veel teavet**. Peate iga auditi kirje üksikasju uurima, et teha kindlaks, kas tegevus on seotud meilisõnumite edasisaatmisega.
+Klõpsake tulemite väljal **Filtreeri tulemeid** ja tippige **väljale Tegevuse** filter käsk Sea postkast. Valige tulemitest auditikirje. Klõpsake **hüpiktekstis** Üksikasjad **nuppu Lisateave.** Selleks et teha kindlaks, kas tegevus on seotud meilisõnumite edasisaatmisega, peate vaatama iga auditikirje üksikasju.
 
-- **ObjectId**: muudetud postkasti pseudonüümi väärtus.
+- **ObjectId**: muudetud postkasti pseudonüüm.
 
-- **Parameetrid**: _ForwardingSmtpAddress_ tähistab TARGETi meiliaadressi.
+- **Parameetrid:** _ForwardingSmtpAddress tähistab_ sihtmeiliaadressi.
 
-- **Kasutajanimi**: kasutaja, kes konfigureeris meilisõnumite edasisaatmise väljal **ObjectId** postkastis.
+- **UserId**: Kasutaja, kes konfigureeris meilisõnumite edasisaatmise väljal **ObjectId olevas postkastis.**
 
-Lisateavet leiate teemast [postkasti jaoks meili edasisaatmise häälestamine](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Lisateavet leiate teemast [Postkasti jaoks meilisõnumite edasisaatmise häälestaja määratlemine.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
