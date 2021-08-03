@@ -1,8 +1,10 @@
 ---
-title: Prooviversiooni laiendamine Microsoft 365 ettevõtetele
+title: Ärirakenduse prooviversiooni Microsoft 365 laiendamine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,23 +12,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 470d9e0ccca52d28a6bf51e65706fe3b0c316214
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 68dab6e3c3661bcaa93695b2612e4fc46fe43aa1
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307302"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687530"
 ---
-# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Prooviversiooni laiendamine Microsoft 365 ettevõtetele
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Ärirakenduse prooviversiooni Microsoft 365 laiendamine
 
-Saad pikendada tasuta prooviversiooni ühe täiendava 30-päevase perioodi jooksul. Pärast seda läheb teie prooviversioon 30-päevase [ajapikenduse perioodiks](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Prooviversiooni pikendamiseks tehke järgmist.
+Tasuta prooviperioodi saate pikendada veel ühe 30-päevase perioodi võrra. Pärast seda läheb teie prooviversioon 30-päevase [ajapikendusperioodi.](/alchemyinsights/grace-period-for-microsoft-365-free-trial) Prooviversiooni laiendamiseks tehke järgmist.
   
-1. Avage halduskeskus lehel "toodete **Arveldamine** " \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Valige vahekaardil **tooted** selle prooviversiooni tellimus, mida soovite pikendada.
-3. Valige lehe Tellimuse üksikasjad jaotises **tellimuse ja makse sätted** nupp **pikenda lõppkuupäeva**.
-4. Vaadake paanil **lõppkuupäev** pikendamise teave üle ja vajadusel Valige makseviis. Kui olete lõpetanud, valige **pikenda prooviperioodi**.
+1. Avage halduskeskuses leht  Toodete \> [arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Valige **vahekaardil Tooted** proovitellimus, mida soovite pikendada.
+3. Valige tellimuse üksikasjade lehel jaotises **Tellimuse ja makse sätted** käsk Pikenda **lõppkuupäeva.**
+4. Vaadake **paanil Lõppkuupäeva** pikendamine üle laiendusteave ja valige vajaduse korral soovitud makseviis. Kui olete lõpetanud, valige Laienda **prooviversioon.**
 
-Lisateavet prooviversiooni pikendamise ja üksikasjalike juhiste kohta leiate teemast [Office ' i ärirakenduse for 365 prooviversiooni laiendamine](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+Lisateavet prooviversiooni laiendamise või juhiste kohta leiate teemast Prooviversiooni laiendamine [Office 365 ettevõtetele.](/microsoft-365/commerce/extend-your-trial)

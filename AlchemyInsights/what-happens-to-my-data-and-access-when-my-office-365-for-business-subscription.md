@@ -1,8 +1,9 @@
 ---
-title: Mis juhtub minu andmete ja juurdepääsuga, kui minu Microsoft 365 for Businessi tellimus lõpeb?
+title: Mis saab minu andmetest ja juurdepääsust, kui Microsoft 365 ettevõttetellimuse lõppevad?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 5861aa9b952b571b620dca1d56adef7cc0fa420c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 865056484b449f1dd33b595eec9f3cb740536ba0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668919"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688250"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Mis juhtub minu andmete ja juurdepääsuga, kui minu Microsoft 365 for Businessi tellimus lõpeb?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Mis saab minu andmetest ja juurdepääsust, kui Microsoft 365 ettevõttetellimuse lõppevad?
 
-Kui teie tellimus lõpeb – kas see aegub või te otsustate loobuda – teie juurdepääs teenustele, rakendustele ja kliendiandmetele ulatub üle mitme riigi, enne kui tellimus on täielikult välja lülitatud või välja *lülitatud.* Kui olete sellest edenemisest teadlik, on teil parem võimalus tagastada oma tellimus aktiivsesse olekusse enne, kui see on liiga hilja või kui lahkute Microsoftist – Varundage oma andmed enne lõppkokkuvõtte kustutamist.
+Kui teie tellimus aegub või kui otsustate selle tühistada, läbib teie juurdepääs teenustele, rakendustele ja kliendiandmetele mitu osa, enne kui tellimus on täielikult välja  *lülitatud, või deprovisioned*  . Kui olete selle edenemisega kursis, on teil paremad varustus tellimuse tagastamiseks aktiivsesse olekusse enne, kui on liiga hilja, või kui lahkute Microsoftist, varundage andmed enne selle lõplikku kustutamist.
   
-Enne kui pakett tegelikult aegub, on teil mitu võimalust **tellimuse korduva arveldamise haldamiseks**.
+Enne tellimuse aegumiskuupäeva jõudmist on teil mitu võimalust tellimuse korduva **arveldamise haldamiseks.**
   
-- Kui **korduv arveldamine** on juba sisse lülitatud, ei pea te tegema mingeid toiminguid. Sinu pakett arveldatakse selle jooksva **arvelduse** kuupäevaga ning teilt võetakse tasu täiendava aasta või kuu eest olenevalt teie praegusest arvelduste sagedusest. Kui olete mingil põhjusel **korduva arveldamise** välja lülitanud, saate alati [korduva arveldamise uuesti sisse lülitada](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Kui **korduv arveldamine** on juba sisse lülitatud, ei pea te midagi ette võtma. Teie tellimuse eest tasutakse  arve selle korduva arveldamise kuupäeval ja teilt võetakse tasu täiendava aasta või kuu eest olenevalt teie praegusest arveldussagedusest. Kui olete korduva arveldamise mingil põhjusel välja **lülitanud,** saate korduva [arveldamise alati uuesti sisse lülitada.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)
 
-- Kui olete avatud hulgilitsentsimise klient, kellel on ettemakstud üheaastane pakett, võtke uue tootevõtme ostmiseks ühendust oma partneriga. Saate e-posti teel juhised selle kohta, kuidas aktiveerida oma võti [hulgilitsentsimise teeninduskeskus](https://go.microsoft.com/fwlink/p/?LinkID=282016). Lisateavet selle kohta, kuidas leida uut partnerit või partnerit, kellega varem töötasite, leiate teemast [microsofti 365 partneri või edasimüüja otsimine](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Kui olete avatud hulgilitsentsimise klient, kellel on ettemakstud üheaastane tellimus, võtke uue tootevõtme ostmiseks ühendust oma partneriga. Hulgilitsentsimise teeninduskeskuses saate oma võtme aktiveerimiseks meili [teel juhiseid.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Teavet selle kohta, kuidas leida uut partnerit või partnerit, millega olete varem töötanud, leiate teemast [Partneri või edasimüüja Microsoft 365 õppige](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
