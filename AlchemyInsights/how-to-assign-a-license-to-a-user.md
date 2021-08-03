@@ -1,8 +1,10 @@
 ---
-title: Kasutajate jaoks litsentside määramine või määramise tühistamine
+title: Kasutajatele litsentside määramine või määramisest loobumine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, shegu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "325"
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 693efc0755b682b17518f07e434685e68beddc14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0c89a9e7b26c5c815bc5ef959390cee1fb0c6a9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781135"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685838"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Kasutajate jaoks litsentside määramine või määramise tühistamine
+# <a name="assign-or-unassign-licenses-to-users"></a>Kasutajatele litsentside määramine või määramisest loobumine
 
-Kasutaja vajab teenustele juurdepääsuks litsentsi. Siit leiate juhised selle kohta, kuidas määrata kasutajalt litsentsi või määrata litsents.
+Kasutajal on teenustele juurdepääsuks vaja litsentsi. Siin on juhised kasutajale litsentsi määramiseks või litsentsi määramisest loobumiseks.
   
-1. Valige halduskeskus **kasutajate** \> [aktiivsed kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822).
-2. Valige selle kasutaja rida, kellele soovite litsentsi määrata.
-3. Valige parempoolsel paanil **litsentsid ja rakendused**.
-4. Laiendage jaotist **litsentsid** , märkige või tühjendage nende litsentside ruudud, mille soovite määrata või mille soovite tühistada, ja seejärel valige **Salvesta muudatused**.
+1. Avage halduskeskuses Kasutajad  \> [Aktiivsed kasutajad](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. Valige selle kasutaja rida, millele soovite litsentsi määrata.
+3. Valige parempoolsel paanil **Litsentsid ja rakendused**.
+4. Laiendage **jaotist Litsentsid,** valige või tühjendage nende litsentside väljad, mille soovite määrata või mille soovite määrata, ja seejärel valige **Salvesta muudatused**.
 
-Lisateavet leiate teemast [kasutajatele litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)ja [kasutajatelt litsentside määramine](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+Lisateavet leiate teemast [Kasutajatele litsentside määramine ja](/microsoft-365/admin/manage/assign-licenses-to-users) [Kasutajatelt litsentside määramise eemaldamine.](/microsoft-365/admin/manage/remove-licenses-from-users)

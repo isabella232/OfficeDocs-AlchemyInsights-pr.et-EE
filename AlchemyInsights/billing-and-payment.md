@@ -3,6 +3,8 @@ title: Arveldamine ja maksmine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820390"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686882"
 ---
 # <a name="billing-and-payment"></a>Arveldamine ja maksmine
 
@@ -52,10 +55,10 @@ Kui olete lisanud uue kaardi ja teile on endiselt vana krediitkaardiga seotud ke
 
 7. Uus makseviis on ripploendis juba valitud. Valige **Asenda**.
 
-Lisateavet leiate teemast [Makseviiside haldamine.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Lisateavet leiate teemast [Makseviiside haldamine](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Arveldussagedus**
 
 Arved luuakse kord kuus või kord aastas sõltuvalt väljaregistreerimise ajal valitud arveldussagedusest.  
 
-**Märkus.** Aastaarvega tellimused võivad saada arve vahekokku, kui tehti muudatusi (nt litsentside lisamine või eemaldamine). [Muutke arveldussagedust.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Märkus.** Aastaarvega tellimused võivad saada arve vahekokku, kui tehti muudatusi (nt litsentside lisamine või eemaldamine). [Muutke arveldussagedust.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
