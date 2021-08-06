@@ -1,5 +1,5 @@
 ---
-title: Microsoft Office ' i desinstallimine Microsoft support ja Recovery Assistanti abil
+title: Microsoft tugi- ja taasteteenuste abiline abil Microsoft Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,21 @@ ms.custom:
 - "9004433"
 - "7212"
 - "8228"
-ms.openlocfilehash: 550cac9feea8ffe37784f731833d7522aef8ed96
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: b602018f17696a376697f240cf982bdb57eb70f99100b75c6b15867ee135bb5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908418"
 ---
-# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Microsoft Office ' i desinstallimine Microsoft support ja Recovery Assistanti abil
+# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Microsoft tugi- ja taasteteenuste abiline abil Microsoft Office
 
 Tehke järgmist.
 
-1. Laadige alla [Microsofti tugiteenuste ja taastekonsooli abimees](https://go.microsoft.com/fwlink/?linkid=2139122).
-1. **SetupProd_OffScrub.exe** -failis käivitamiseks klõpsake brauseriakna allservas nuppu **Käivita** .
-1. Valige versioon, mille soovite desinstallida, ja seejärel klõpsake nuppu **edasi**.
-1. Järgige juhiseid. Kui kuvatakse vastav viip, taaskäivitage arvuti.
-1. Pärast arvuti taaskäivitamist avatakse tööriist automaatselt ja juhendab teid ülejäänud toimingute tegemisel.
+1. Laadige [alla Microsoft tugi- ja taasteteenuste abiline](https://go.microsoft.com/fwlink/?linkid=2139122).
+1. Klõpsake brauseriakna allservas nuppu **Käivita,** et käivitada **SetupProd_OffScrub.exe** fail.
+1. Valige versioon, mille soovite desinstallida, ja seejärel klõpsake nuppu **Edasi**.
+1. Järgige juhiseid. Kui küsitakse, taaskäivitage arvuti.
+1. Pärast arvuti taaskäivitamist avatakse tööriist automaatselt uuesti ja juhendab teid ülejäänud toimingutes.
 
-Kui peate Microsoft Office ' i uuesti installima, järgige soovitud versioonile vastavat toimingut: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237)või [Office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).
+Kui teil on vaja Microsoft Office uuesti installida, järgige protseduure, mis on seotud vajamineva versiooniga: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237) [või Office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).

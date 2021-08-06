@@ -1,5 +1,5 @@
 ---
-title: Mis on minu meiliaadress Outlooki veebirakenduses?
+title: Mis on minu meiliaadress Outlooki veebirakendus
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 235e84dc70aff078aa5413dd3e1ef38c86e17d60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38480c8baf9ba6f4d538c0bc3dec19035e62931544c5444699dab908f64d7f0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999704"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Mis on minu meiliaadress Outlooki veebirakenduses?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Mis on minu meiliaadress Outlooki veebirakendus?
 
-Sinu e-posti aadressi määrab sinu töö või kool. See näeb välja nagu ellen@contoso.onmicrosoft.com, ellen@contoso.edu või ellen@contoso.com. See töö või kooli konto on meiliaadress ja konto, mida kasutate, et logida sisse rakendusse Microsoft 365 töö või kooli jaoks.
+Teie meiliaadressi on teile määranud teie töö või kool. See näeb välja ellen@contoso.onmicrosoft.com, ellen@contoso.edu või ellen@contoso.com. See töö- või koolikonto on meiliaadress ja konto, mida kasutate Microsoft 365 või kooli jaoks.
 
-Teie töökoha või kooli konto erineb teie Microsofti kontost. Kasutate oma Microsofti kontot isiklike teenuste jaoks (nt Outlook.com, Xbox Live, skype jne).
+Teie töö- või koolikonto erineb teie Microsofti kontost. Microsofti kontot saate kasutada isiklike teenuste (nt Outlook.com, Xbox Live, Skype jne) jaoks.
 
-Lisateavet leiate teemast [mis on minu kasutaja ID ja milleks seda vaja on? Microsoft 365 for ettevõte?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Lisateavet leiate teemast Mis [on minu kasutaja ID ja miks seda](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4) ettevõtte jaoks Microsoft 365 vaja?

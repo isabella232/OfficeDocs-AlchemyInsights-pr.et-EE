@@ -1,5 +1,5 @@
 ---
-title: Teie rühma ei kuvata loendis rühmad
+title: Rühma ei kuvata loendis Rühmad
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9a4cc59288046affe35c9248a3829e3c0b3fa361b5120e47aaeaa34eec7a983
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907626"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Teie rühm "{AimKIObject}" ei kuvata loendis rühmad
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Rühma "{AimKIObject}" ei kuvata rühmade loendis
 
-Teie levirühma nimega "{AimKIObject}" loodi {AimKITimeElapsed} minutit tagasi. Enne uue rühma kuvamist administreerimiskeskuses võib kuluda kuni 60 minutit.
+Teie levirühm nimega {AimKIObject}" loodi {AimKITimeElapsed} minutit tagasi. Uue rühma halduskeskuses kuvamiseks võib aega võtta kuni 60 minutit.
   
-Kui soovite kohe liikmeid lisada või muid muudatusi teha, kasutage [Exchange ' i administreerimiskeskuses](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)funktsiooni groups.
+Kui soovite liikmeid lisada või teha muid muudatusi kohe, kasutage funktsiooni Rühmad [Exchange halduskeskuses.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)
   
 

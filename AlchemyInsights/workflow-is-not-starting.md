@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907734"
 ---
 # <a name="workflow-is-not-starting"></a>Töövoog ei käivitu
 
@@ -28,7 +28,7 @@ ms.locfileid: "51403739"
 
     - Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenusepilet. Paljudel juhtudel töötame juba lahenduse kallal. Lahenduse lõpuleviimiseks andke meile vähemalt 24 tundi.
 
-- SharePoint 2010 töövood hilinevad käivitamisel.
+- SharePoint 2010 töövood viivitusega käivitamisel.
 
     - See juhtub siis, kui töövoog käivitatakse suurtes pakettides. (nt kui korraga lisatakse mitu üksust).
 
@@ -44,6 +44,6 @@ ms.locfileid: "51403739"
 
 
 ## <a name="related-topics"></a>Seotud teemad
-Kas soovite proovida Microsoft Flow'i SharePoint Online'is?
-- [Voo loomine](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Kas soovite proovida Microsoft Flow SharePoint Online'is?
+- [Loo Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint ja Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

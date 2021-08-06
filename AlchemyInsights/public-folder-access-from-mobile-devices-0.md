@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 5943ac36-e093-4813-95c9-f9d9b35f2b32
-ms.openlocfilehash: 5791b680cafd88f404955abbb0528b61123f8d47
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92551f43b927d0ca5af4d011bdfb9132b9fcc59d941885f9791ac23c1d69e498
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923343"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>Ühiskausta juurdepääs mobiilsideseadmetest
 
 Ühiskaustadele ei pääse mobiilsideseadmete kaudu juurde.
   
-Kui soovite kasutada avalike kaustadega sarnaseid funktsioone ja kasutada seda mobiilsideseadmetes, lugege lisateavet parema alternatiivi kohta teemast [Microsoft 365](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) rühmad.
+Kui soovite kasutada avalike kaustadega sarnaseid funktsioone ja kasutada seda mobiilsideseadmetes, [lugege lisateavet Microsoft 365 kohta.](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
   

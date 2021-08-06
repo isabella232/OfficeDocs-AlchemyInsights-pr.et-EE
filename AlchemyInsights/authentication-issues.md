@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019504"
 ---
 # <a name="authentication-issues"></a>Autentimisprobleemid
 
@@ -75,14 +75,14 @@ Tingimuspääsu kohta leiate lisateavet järgmistest artiklitest:
 - [Tingimuspääsu pretensioonide käitlemine MSAL-i kaudu](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Arendusjuhised Azure Active Directory tingimuspääsu jaoks](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Azure Active Directory autentimisteegi (ADAL) ja Azure AD Graphi API (AAD Graphi) tootetoe lõpp_* _
+***Autentimisteegi (ADAL) Azure Active Directory Azure AD Graph API (AAD Graph) tugi***
 
 - Alates 30. juunist 2020 ei lisa me enam uusi funktsioone Azure Active Directory autentimisteeki (ADAL) ja Azure AD Graphi API-sse (AAD Graphi). Pakume endiselt tehnilist tuge ja turbevärskendusi, ent mitte enam funktsioonivärskendusi.
 - Alates 30. juunist 2022 lõpetame ADAL-i ja AAD Graphi tootetoe ega paku enam tehnilist tuge ega turbevärskendusi.
     - Olemasolevates opsüsteemiversioonides ADAL-i kasutavad rakendused töötavad edasi ka pärast seda, ent ei saa enam tehnilist tuge ega turbevärskendusi.
     - AAD Graphi kasutavad rakendused ei pruugi pärast seda enam AAD Graphi lõpp-punktist vastuseid saada.
 
-_ *ADAL-i migreerimine**
+**ADAL-migreerimine**
 
 Soovitame võtta kasutusele [Microsofti autentimisteegi (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), mis sisaldab uusimaid funktsioone ja turbevärskendusi. Soovituse kontekst on Microsofti otsus migreerida oma rakendused tootetoe lõpptähtajaks MSAL-i. Microsofti rakenduste MSAL-i migreerimise eesmärk on tagada, et rakendused saaksid kasu MSAL-i jätkuvatest turbe- ja funktsioonitäiustustest.
 

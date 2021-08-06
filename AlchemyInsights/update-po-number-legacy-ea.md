@@ -1,5 +1,5 @@
 ---
-title: Uuenda PO-numbrit-pärand EA Soovitatavad juhised
+title: Värskenda ostutellimuse numbrit – Pärand-EA – soovitatavad toimingud
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,31 +13,31 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7322"
-ms.openlocfilehash: ef1e5f52cb26542892199694309fb2b0df551997
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7c3ee469107e9ab85dcf56450167cc2e47b2c8b79253d45b1a362959a869ba24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908490"
 ---
-# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Uuenda ostutellimuse numbrit – pärand EA-Soovitatavad toimingud
+# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Ostutellimuse numbri värskendamine – pärand-EA – soovitatavad toimingud
 
-Ostutellimuse (PO) numbri muudatused jõustuvad järgmisel arvel. Kui soovite muuta juba loodud arvel olevat PO-numbrit, avage kasutajatoe pilet. 
+Ostutellimuse numbri (PO) muudatused jõustuvad järgmisel arvel. Juba loodud arve ostutellimuse numbri muutmiseks avage tugiteenuste pilet. 
 
-Azure ' i EA portaal genereerib automaatselt vaikimisi kasutatava PO numbri, kui EA administraator ei saa seda enne arve kuupäeva. EA haldurina (otse registreerimine)/partneri administraatorina (kaudne registreerimine) saate uuendada oma PO-numbrit Azure ' i portaalis. PO numbri värskendamiseks tehke järgmist.
+Azure EA portaal loob automaatselt vaike-OSTUTELLIMUSE numbri, kui EA-administraator ei määra seda enne arve kuupäeva. EA administraatorina (otsene registreerimine) / partneradministraatorina (kaudne registreerimine) saate värskendada Azure EA portaalis ostutellimuse numbrit. Ostutellimuse numbri värskendamiseks:
 
-1. Logige sisse EA portaali.
-2. Klõpsake vasakus servas nuppu **aruanded** .
-3. Klõpsake lehe ülaosas nuppu **kasutuse Kokkuvõte** .
+1. Logige SISSE EA portaali.
+2. Klõpsake **vasakus** servas nuppu Aruanded.
+3. Klõpsake **lehe ülaservas** nuppu Kasutuskokkuvõte.
 4. Valige ripploendist vastav periood.
-5. Valige **Kuva/Redigeeri po-numbreid**.
-6. Sisestage uus PO-number ja klõpsake nuppu **Salvesta**.
+5. Klõpsake **nuppu Kuva/redigeeri ostutellimuse numbreid.**
+6. Sisestage uus OSTUTELLIMUSE number ja klõpsake **nuppu Salvesta**.
 
-Saate PO-numbrit värskendada igal ajal enne praeguse arvelduse perioodi jaoks loodud arvet ja kuni seitse päeva pärast automaatse arve teatise saamist. 
+Ostutellimuse numbrit saate värskendada igal ajal enne arve loomist praeguse arveldusperioodi kohta ja kuni seitse päeva pärast automaatse arveteatiste meilisõnumi saamist. 
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Azure Enterprise ' i liitumise arved](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices) 
-- [Azure Enterprise ' i lepingu arve tutvustus](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
-- [Azure Enterprise ' i rollide mõistmine](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
-- [Loo teine Enterprise Administrator (EA administraator)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)
+- [Azure'i ettevõtte registreerimise arved](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices) 
+- [Azure'i arve Enterprise Agreement mõistmine](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
+- [Azure Enterprise'i rollide mõistmine](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
+- [Uue ettevõtteadministraatori loomine (EA Admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)

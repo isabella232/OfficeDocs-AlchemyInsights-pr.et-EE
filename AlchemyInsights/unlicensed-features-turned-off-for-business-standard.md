@@ -1,5 +1,5 @@
 ---
-title: Litsentsimata funktsioonid on Businessi standardsete kasutajate jaoks välja lülitatud
+title: Litsentsimata funktsioonid on Äristandardi kasutajate jaoks välja lülitatud
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9dd07f2914aa78ef17ef889ced9a5de849f4c6d8175866b8ed4a41cbd28b9510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908562"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Litsentsimata funktsioonid on Businessi standardsete kasutajate jaoks välja lülitatud
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Litsentsimata funktsioonid on Äristandardi kasutajate jaoks välja lülitatud
 
-Mõned Microsoft 365 Businessi standardist kasutajad ja organisatsioonid on praegu saadaval rohkem funktsioone, kui need on litsentsitud. Need funktsioonid hõlmavad järgmisi klassifikatsiooni, siltide ja kaitse (CLP) ja digitaalõiguste halduse (DRM) sätteid.
+Mõnel Microsoft 365 Business Standard ja organisatsioonidel on praegu saadaval rohkem funktsioone, kui neil on litsents. Nende funktsioonide hulka kuuluvad järgmised liigituse, sildistus- ja kaitsefunktsiooni (CLP) ja digitaalõiguste halduse (DRM) sätted.
     
-30. juunist 2020 on need kasutajad Microsoft Excelis, Microsoft Wordis, Microsoft PowerPointis ja Microsoft Outlookis välja lülitatud.
+Alates 30. juunist 2020 lülitatakse nende kasutajate lisafunktsioonid välja Microsoft Excel, Microsoft Word, Microsoft PowerPoint ja Microsoft Outlook.
 
-Kaaluge tehtud kasutaja litsentsi tüübi muutmist litsentsile, mis sisaldab neid funktsioone. 
+Kaaluge selle kasutaja litsentsitüübi muutmist litsentsiks, mis sisaldab neid funktsioone. 
 
-Lisateavet leiate teemast [Microsoft 365 Business Standard kasutajatele antud litsentsimata funktsioonide](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview) kuvamine
+Lisateavet leiate teemast [Litsentsimata funktsioonid, mis on antud Microsoft 365 Business Standard kasutajatele](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)

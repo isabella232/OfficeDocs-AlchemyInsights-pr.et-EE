@@ -1,5 +1,5 @@
 ---
-title: Tööpäeval AD kasutaja ettevalmistamine läheb karantiini olekusse
+title: Workday to AD User Provisioning läheb karantiini olekusse
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8471"
 - "9004687"
-ms.openlocfilehash: 0fc519c8170de498c9bcb1fc41a76116bda48b1f
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
-ms.translationtype: MT
+ms.openlocfilehash: 32a5d010b95b9587e121ca1526def743fd8f371b13d1d73d3578c692839edf19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481356"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036488"
 ---
-# <a name="workday-to-ad-user-provisioning-goes-into-quarantine-state"></a>Tööpäeval AD kasutaja ettevalmistamine läheb karantiini olekusse
+# <a name="workday-to-ad-user-provisioning-goes-into-quarantine-state"></a>Workday to AD User Provisioning läheb karantiini olekusse
 
-**Tööpäeval AD kasutaja ettevalmistamine läheb karantiini olekusse ja REKLAAME ei looda kasutajad**
+**Tööpäev AD kasutajaks ettevalmistamine läheb karantiini olekusse ja AD-s ei looda kasutajaid**
 
-Tööpäev AD kasutaja ettevalmistamisel on läinud karantiini olekusse ja auditilogi kuvatakse tõrketeade tõrketeade **: OperationsError-SvcErr: ilmnes toimingu tõrge. Kataloogiteenuse jaoks pole ühtegi Superior-viidet konfigureeritud. Kataloogiteenus ei saa seega anda viiteid objektidele väljaspool seda metsa**. See tõrge kuvatakse tavaliselt siis, kui Active Directory ümbris OU pole õigesti määratud või kui **parentDistinguishedName** jaoks kasutatakse avaldiste vastendamisega seotud probleeme.
+Tööpäev AD kasutajaks ettevalmistamise töö on karantiini olekusse läinud ja auditilogides kuvatakse eksporditõrked tõrketeatega **Tõrge: OperationsError-SvcErr: ilmnes toimingutõrge. Kataloogiteenuse jaoks pole ühtegi kõrgemat viidet konfigureeritud. Kataloogiteenus ei saa seetõttu väljastada viiteid väljaspool seda metsa asuvate objektide kohta.** See tõrge kuvatakse tavaliselt siis, kui Active Directory ümbrise OU pole õigesti määratud või kui on probleeme **parentDistinguishedNamei jaoks kasutatava avaldisevastendusega.**
 
-Märkige ruut **uute kasutajate** jaoks, kui teil on olemas kirjavigu käsitlev parameeter. Veenduge, et määratud OU on teie REKLAAMIs juba olemas. Kui kasutate atribuutide vastendamisel **parentDistinguishedName** , veenduge, et see hindaks alati teadaolevat konteinerit ad-domeenis. Loodud väärtuse kuvamiseks märkige jaotises auditi logid ruut ekspordi sündmus.
+Kontrollige parameetrit Vaike-OU uute kasutajate **jaoks,** et leida kirjavead. Veenduge, et määratud OU on teie AD-s juba olemas. Kui kasutate **atribuudivastenduses parentDistinguishedNamei,** veenduge, et selle väärtus oleks AD-domeenis alati teadaolev ümbris. Kontrollige genereeritud väärtuse näeks auditilogides sündmust Ekspordi.
 
-Lisateavet tööpäevade automaatseks ettevalmistamiseks konfigureerimise kohta leiate teemast [õpetus: tööpäevade automaatseks](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)ettevalmistamiseks konfigureerimine.
+Lisateavet automaatseks ettevalmistamiseks tööpäevade konfigureerimise kohta leiate teemast [Õpetus: Tööpäeva konfigureerimine automaatseks kasutajate ettevalmistamiseks.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
 

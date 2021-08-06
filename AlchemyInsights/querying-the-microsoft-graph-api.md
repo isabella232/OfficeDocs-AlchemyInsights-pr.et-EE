@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graphi API päring
+title: Microsoft Graph API päringud
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923235"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>Microsoft Graphi API päring
+# <a name="querying-the-microsoft-graph-api"></a>Microsoft Graph API päringud
 
-See teema võib kehtida ka siis, kui arendajad kasutavad endiselt Azure AD Graph API-d. Siiski on **tungivalt** soovitatav kasutada Microsoft Graphi kõigi kataloogide, identiteedi ja Accessi halduse stsenaariumite jaoks.
+See teema võib kehtida ka arendajatele, kes kasutavad endiselt Azure AD Graph API-d. Siiski on tungivalt **soovitatav** kasutada Microsoft Graph kõiki oma kataloogi-, identiteedi- ja juurdepääsuhalduse stsenaariume.
 
-**Autentimise või autoriseerimisega seotud probleemid**
+**Autentimis- või autoriseerimisprobleemid**
 
-- Kui teie rakendus ei saa Microsofti graafikule helistamiseks **märke hankida** , valige **probleem** , kui soovite selle teema kohta täpsemat abi ja tuge hankida Microsoft Graphi kategooria kaudu.
-- Kui rakenduses Microsoft Graph helistamisel kuvatakse rakenduse **401 või 403 lubamise tõrked** , **Valige selle teema** kohta täpsema abi ja toe hankimiseks Microsoft Graph API kategooria.
+- Kui teie rakendus ei **saa** microsoft Graph'ile helistamiseks tõendeid hankida, valige selle teema kohta konkreetsema spikri ja toe saamiseks probleem microsoft Graph-kategooria juurdepääsulubade **(autentimine)** kasutamisel.
+- Kui teie rakendus saab Microsoft Graph'ile helistamisel **401 või 403** autoriseerimistõrkeid, valige selle teema kohta lisateabe saamiseks kategooria Juurdepääsu keelamine **(autoriseerimine)** Microsoft Graph API.
 
-**Soovin kasutada rakendust Microsoft Graph, kuid pole kindel, kust alustada**
+**Soovin kasutada Microsoft Graph, kuid pole kindel, kust alustada**
 
-Lisateavet Microsoft Graphi kohta leiate järgmistest teemadest.
+Lisateavet Microsoft Graph kohta leiate teemast
 
-- [Microsoft Graphi ülevaade](https://docs.microsoft.com/graph/overview)
-- [Microsoft Graphi identiteedi ja Accessi halduse ülevaade](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Microsoft Graphi rakenduste loomise alustamine](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** – Microsoft Graphi API-de testimine rentniku või demo rentniku jaoks
+- [Microsoft Graph](https://docs.microsoft.com/graph/overview)
+- [Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Microsoft Graph rakenduste loomise alustamine](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** – Microsoft Graph API-de testimine rentniku rentnikus või demo rentnikus
 
-**Soovin kasutada rakendust Microsoft Graph, kuid see toetab ka v 1.0 kataloogi API-sid, mida vajan?**
+**Soovin kasutada Microsoft Graph, kuid kas see toetab v1.0 kataloogi API-sid, mida vajan?**
 
-Microsoft Graph on soovitatav API kataloogis, identiteedis ja Accessi halduses. Siiski on võimalik, et Azure AD Graphis ja Microsoft Graphis on veel mõned lüngad. Vaadake üle järgmised artiklid, kus on esile tõstetud kõige ajakohased erinevused teie valitud abistamiseks.
+Microsoft Graph on soovitatav API kataloogi-, identiteedi- ja juurdepääsuhalduse jaoks. Siiski on Azure AD-d ja Microsoft Graph vahel veel Graph. Vaadake üle järgmised artiklid, mis tõstavad esile kõige aja ajasemad erinevused, mis aitavad teil valida.
 
-- [Ressursi tüübi erinevused Azure AD Graphis ja Microsoft Graphis](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Azure AD Graphi ja Microsoft Graphi atribuutide erinevused](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Azure AD ja Microsoft Graphi erinevuste meetod](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Ressursitüübi erinevused Azure AD Graph Ja Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Azure AD Graph Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Azure AD ja Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-***Kasutaja* objekti päringu korral on mitmed selle atribuudid puudu**
+**Kui kasutajaobjekti kohta *päringuid teen,* on paljud selle atribuudid puudu**
 
-`GET https://graph.microsoft.com/v1.0/users` tagastab ainult 11 atribuuti, kuna Microsoft Graph automaatselt valib vaikimisi *kasutajate* atribuutide kogumi. Kui vajate muid *kasutajate* atribuute, kasutage rakenduse vajaduste valimiseks $Select. Proovige **Microsoft Graph Exploreris** esmalt.
+`GET https://graph.microsoft.com/v1.0/users`Tagastab ainult 11 atribuuti, Graph Microsoft valib automaatselt  tagasipöördumiseks kasutaja atribuutide vaikekomplekti. Kui teil on vaja *muid kasutajaasuvaid* atribuute, $select valige atribuudid, mida teie rakendus vajab. Proovige seda esmalt **Microsoft Graph Exploreris.**
 
-**Mõned kasutaja atribuudi väärtused on *tühjad* , kuigi ma tean, et need on seatud**
+**Mõned kasutaja atribuudiväärtused on *nullväärtused,* kuigi ma tean, et need on määratud**
 
-Kõige tõenäolisem selgitus on see, et rakendusele anti *kasutaja. ReadBasic. kõik* õigused. See võimaldab rakendusel lugeda piiratud kasutajate atribuute, mis tagastavad kõik muud atribuudid nulliga, isegi kui need on eelnevalt määratud. Proovige anda rakenduse *kasutaja. Lugege* selle asemel kõiki õigusi.
+Kõige tõenäolisem selgitus on see, et rakendusele oli antud *User.ReadBasic.All* õigus. See võimaldab rakendusel lugeda piiratud kasutajaa atribuute, tagastades kõik muud atribuudid tühiväärtusena isegi siis, kui need on varem määratud. Proovige anda selle asemel *rakendusele User.Read.All* õigus.
 
-Lisateavet leiate teemast [Microsoft Graph User permissions](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
+Lisateavet leiate teemast [Microsoft Graph kasutajaõigused.](https://docs.microsoft.com/graph/permissions-reference#user-permissions)
 
-**Mul on probleeme OData päringu parameetrite abil andmete filtreerimiseks minu päringutes**
+**Mul on probleeme OData päringuparameetrite kasutamisega päringuandmete filtreerimiseks minu päringutes**
 
-Kui Microsoft Graph toetab paljusid OData päringu parameetreid, ei toeta paljud neist parameetritest täielikult kataloogiteenuse (ressursid, mis pärivad *directoryObject*) Microsoft Graphis. Rakenduses Azure AD Graph olevad samad piirangud püsivad enamasti Microsoft Graphi rakenduses.
+Kuigi Microsoft Graph toetab paljusid OData päringuparameetreid, ei toeta Microsoft Graph kataloogiteenused (kataloogist *Pärivad* ressursid) paljusid neid parameetreid täielikult. Azure AD-s kehtivad samad Graph Microsoft Graph.
 
-1. **Pole toetatud**: $count, $search ja $filter väärtus *null* või *Not Null*
-2. **Pole toetatud**: $filter teatud atribuutidele (vt ressursside teemasid, mille atribuudid on filtreeritud)
-3. **Pole toetatud**: saalefaili, filtreerimine ja sortimine samal ajal
-4. **Pole toetatud**: seose filtreerimine. Näiteks – leiad kõik Suurbritannias olevad inseneritööd.
-5. **Osaline tugi**: $OrderBy *kasutaja* (ainult DisplayName ja userPrincipalName) ning *rühm*
-6. **Osaline tugi**: $filter (toetab ainult *EQ*-, *startsWith* *-* *või* *ja piiratud)* tuge, $expand (ühe objekti seoste laiendamine annab kõik seosed, kuid objektide kogumi laiendamine on piiratud)
+1. **Pole toetatud:**$count, $search ja $filter *on* tühiväärtused või *mitte tühiväärtused*
+2. **Pole toetatud:**$filter atribuudid (vt ressursiteemasid, mille atribuudid on filtreeritavad)
+3. **Pole toetatud:** korraga saalimine, filtreerimine ja sortimine
+4. **Pole toetatud:** seose filtreerimine. Näiteks : otsige üles kõik Ühendkuningriigis asuvad insenerirühma liikmed.
+5. **Osaline tugi:**$orderby *(ainult* displayName ja userPrincipalName) ja *rühm*
+6. **Osaline tugi:**$filter (toetab ainult *eq* *,* algab koos *või* *,* ja ja ja piiras *mis* tahes ) tuge, $expand (ühe objekti seoste laiendamine tagastab kõik seosed, kuid objektide seoste kogumi laiendamine on piiratud)
 
-Lisateavet leiate teemast [vastuste kohandamine päringu parameetritega](https://docs.microsoft.com/graph/query-parameters).
+Lisateavet leiate teemast Vastuste [kohandamine päringuparameetrite abil.](https://docs.microsoft.com/graph/query-parameters)
 
-**Sissehelistamise API ei tööta – kus saab teha veel teste?**
+**Api, kuhu ma helistan, ei tööta – kus saab teha rohkem testimist?**
 
-**Microsoft Graph Explorer** – testige Microsoft Graphi API-sid rentniku või demo rentniku jaoks ja vaadake ka Microsoft Graphi Exploreri **päringute päringuid** .
+**Microsoft Graph Explorer** – microsoft Graph API-sid oma rentnikus või demo  rentnikus ning tutvuge microsoft Graph Exploreri näidispäringutega.
 
-**Andmete päringute korral tundub, et ma saan mittetäieliku andmete kogumi tagasi**
+**Andmepäringu korral tundub, et saan tagasi mittetäieliku andmekomplekti**
 
-Kui päringute kogumik (nt *Kasutajad*), kasutab Microsoft Graph serveripoolse lehe limiite, et tulemid oleksid alati vaikimisi lehe suurusega. Teie rakendus peaks alati eeldama, et teenusest tagastatud kollektsioonid on lehel.
-
-Lisateavet leiate järgmistest teemadest.
-
-- [Microsoft Graphi head tavad](https://docs.microsoft.com/graph/best-practices-concept)
-- [Microsoft Graphi andmete kutsungi rakenduses](https://docs.microsoft.com/graph/paging)
-
-**Minu rakendus on liiga aeglane ja seda saab ka ahendada. Milliseid täiustusi saab teha?**
-
-Olenevalt teie stsenaariumist on teie käsutuses mitmeid erinevaid võimalusi, mis aitavad teil oma rakendust rohkem teha, ja mõnel juhul on teenusel vähem altid (kui teete liiga palju kõnesid).
+Kui küsite kogumilt (nt *kasutajatelt),* kasutab Microsoft Graph serveripoolseid lehepiiranguid, nii et tulemid tagastatakse alati lehe vaikesuurusega. Teie rakendus peaks alati eeldama teenusest tagastatud kogumite lehte.
 
 Lisateavet leiate järgmistest teemadest.
 
-- [Microsoft Graphi head tavad](https://docs.microsoft.com/graph/best-practices-concept)
-- [Partiide taotlemine](https://docs.microsoft.com/graph/json-batching)
-- [Muutuste jälitus Delta päringu kaudu](https://docs.microsoft.com/graph/delta-query-overview)
-- [Muudatustest teavitamine webhooks kaudu](https://docs.microsoft.com/graph/webhooks)
+- [Microsoft Graph head tavad](https://docs.microsoft.com/graph/best-practices-concept)
+- [Microsoft Graph andmete saalimine rakenduses](https://docs.microsoft.com/graph/paging)
+
+**Minu rakendus on liiga aeglane ja aheneb ka. Milliseid täiustusi saan teha?**
+
+Olenevalt teie stsenaariumist on teie käsutuses mitmesugused võimalused, et muuta teie rakendus rohkem esinejaks ja mõnel juhul on teenuse ahendamise võimalus väiksem (kui teete liiga palju kõnesid).
+
+Lisateavet leiate järgmistest teemadest.
+
+- [Microsoft Graph head tavad](https://docs.microsoft.com/graph/best-practices-concept)
+- [Pakketaotlused](https://docs.microsoft.com/graph/json-batching)
+- [Muutuste jälitamine deltapäringu kaudu](https://docs.microsoft.com/graph/delta-query-overview)
+- [Muudatustest teavitatakse veebihoobide kaudu](https://docs.microsoft.com/graph/webhooks)
 - [Ahendamise juhised](https://docs.microsoft.com/graph/throttling)
 
 **Kust leida lisateavet tõrgete ja teadaolevate probleemide kohta?**
 
-- [Microsoft Graphi tõrgetele reageerimise teave](https://docs.microsoft.com/graph/errors)
-- [Microsoft Graphi teadaolevad probleemid](https://docs.microsoft.com/graph/known-issues)
+- [Microsoft Graph tõrkevastuse teave](https://docs.microsoft.com/graph/errors)
+- [Teadaolevad microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**Kus saab vaadata teenuse kättesaadavuse ja ühenduvuse olekut?**
+**Kus saab kontrollida teenuse kättesaadavuse ja ühenduvuse olekut?**
 
-Teenuste kättesaadavus ja Ühenduvus, millele pääseb juurde Microsoft Graphi kaudu, võib mõjutada Microsoft Graphi üldist kättesaadavust ja jõudlust.
+Microsoft Graph kaudu juurdepääsetud teenuste kättesaadavus ja ühenduvus võivad mõjutada Microsofti teenuste üldist kättesaadavust ja Graph.
 
-- Azure Active Directory teenuse tervist kontrollitakse [Azure ' i oleku lehel](https://azure.microsoft.com/status/)loetletud **turbe + identiteedi** teenuste olekut.
-- Office ' i teenuste jaoks, mis aitavad kaasa Microsoft Graphi, kontrollige [Office ' i teenuse tervise armatuurlaual](https://portal.office.com/adminportal/home#/servicehealth)loetletud teenuste olekut.
+- Teenuse Azure Active Directory seisundi tagamiseks kontrollige Azure'i olekulehel loetletud turbe- ja [identiteediteenuste olekut.](https://azure.microsoft.com/status/) 
+- Kui Office microsoft Graph, kontrollige teenuse seisundi [armatuurlaual Office teenuste olekut.](https://portal.office.com/adminportal/home#/servicehealth)

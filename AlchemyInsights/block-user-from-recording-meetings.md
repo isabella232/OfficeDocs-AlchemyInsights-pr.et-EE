@@ -1,5 +1,5 @@
 ---
-title: Kasutaja blokeerimine koosolekute salvestamise korral
+title: Kasutaja blokeerimine koosolekute salvestamisest
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "9325"
-ms.openlocfilehash: 3f633ee1fb3329b6fc634acabbc824af1eccfb33
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 7eb3fd34ec6f1a2d431ed276b00dd46b5ec6aa73d69b37ef88b1ba0ca6f5d077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019180"
 ---
-# <a name="block-user-from-recording-meetings"></a>Kasutaja blokeerimine koosolekute salvestamise korral
+# <a name="block-user-from-recording-meetings"></a>Kasutaja blokeerimine koosolekute salvestamisest
 
-Kui teil on vaja **takistada või blokeerida** teatud kasutajad võistkondade koosolekutel, saate seda teha töörühma koosolekute poliitika sätete kaudu. Lülitage Microsoft Teamsi administreerimiskeskuses välja **Luba pilveteenuse salvestamise** säte selle kasutaja jaoks määratud koosoleku poliitikas. Lisateavet leiate teemast [koosolekute poliitikate haldamine töörühmades](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording).
+Kui teil on vaja **takistada või** blokeerida kindlatel kasutajatel Teams koosolekud, saate seda teha Teams sätete kaudu. Lülitage Microsoft Teams kasutajale määratud koosolekukutses  säte Luba pilvsalvestust. Lisateavet leiate teemast [Koosolekupoliitikate haldamine Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording).
 
-Kui soovite kontrollida, kas kindlal kasutajal on lubatud või mitte salvestada töörühma koosolekuid, kasutage tugiteenuste diagnostikat. Käivitage uus tugiteenuste päring ja tippige **diagnoositud: koosoleku salvestamine** – diagnostika kontrollib määratud kasutaja poliitika sätteid ja määrab kindlaks nende poliitilised sätted. Pidage meeles, et uute poliitiliste sätete jõustumiseks võib kuluda mitu tundi, nii et kui olete äsja muudatuse teinud, oodake enne diagnostika uuesti käivitamist mõni tund.
+Kui soovite kontrollida, kas konkreetsel kasutajal on koosolekute Teams või mitte, kasutage tugiteenuse diagnostikat. Käivitage uus tugipäring ja tippige **diag: koosoleku** salvestamine – diagnostika kontrollib määratud kasutaja poliitikasätteid ja määratleb nende poliitikasätted. Pidage meeles, et uute poliitikasätete jõustumist võib võtta paar tundi, nii et kui olete just muudatusi teinud, oodake paar tundi enne diagnostika uuesti käivitamist.
 
-Lisateavet leiate teemast [pilve salvestamise sisselülitamine või](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)väljalülitamine.
+Lisateavet leiate teemast [Pilvsalvestuse sisse- või väljalülitamine.](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)

@@ -1,5 +1,5 @@
 ---
-title: Lahenduste soovitamine Dynamics 365 salvestusruumi probleemide korral
+title: Lahenduste soovitamine Dynamics 365 salvestusruumiga seotud probleemide lahendamiseks
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799164"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922947"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Lahenduste soovitamine Dynamics 365 salvestusruumi probleemide korral
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Lahenduste soovitamine Dynamics 365 salvestusruumiprobleemide lahendamiseks
 
-* Globaalse administraatorina saate vaadata salvestusruumi jaotust keskkonna, 10 ülemise tabeli ja muu kohta.
+* Üldadministraatorina saate vaadata salvestusruumi jaotust keskkonna, 10 kõige populaarsema tabeli ja muu järgi.
 
-* [Arvelduste ja tellimusega seotud küsimuste talletamine](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Salvestusruumi arveldamise ja tellimusega seotud küsimused](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Dynamics 365 hinnakujundus ja litsentsimise juhend](https://dynamics.microsoft.com/pricing/)
+* [Dynamics 365 hinna- ja litsentsimisjuhend](https://dynamics.microsoft.com/pricing/)
 
-* [Kuidas osta salvestusruumi](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [Kuidas osta rohkem salvestusruumi?](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
 * [Salvestusruumi vabastamine](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

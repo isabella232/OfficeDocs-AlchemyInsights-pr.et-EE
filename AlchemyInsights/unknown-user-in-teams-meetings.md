@@ -1,5 +1,5 @@
 ---
-title: Töörühma koosolekutel või vestlustes kuvatakse teade "Tundmatu kasutaja"
+title: "\"Tundmatu kasutaja\" kuvatakse Teams koosolekutel või vestlustes"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6655"
 - "9003574"
-ms.openlocfilehash: 22d5fa0087791a9f0139917cd7532fc4a90644e5
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 1074075ede97250888927fe064a6faea456cef1dad7bb35726b2874032ba86b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019828"
 ---
-# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>Töörühma koosolekutel või vestlustes kuvatakse teade "Tundmatu kasutaja"
+# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Tundmatu kasutaja" kuvatakse Teams koosolekutel või vestlustes
 
-Kasutaja võib olla Microsoft 365ist kustutatud. Sellisel juhul proovige kasutajat meeskonnast kustutada.  
+Võimalik, et kasutaja on Microsoft 365. Sel juhul proovige kasutaja Teams.  
 
-Kui meeskonnad on suletud, proovige tühjendada järgmine vahemälu ja seejärel taaskäivitage meeskonnad. `C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
+Proovige tühjendada järgmine vahemälu, kui Teams suletakse, seejärel taaskäivitage Teams.`C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
 
-Selle probleemi kohta leiate teavet artiklist  [eemaldatud kasutaja kuvatakse Microsoft teamsi rakenduses "Tundmatu kasutaja"](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Selle probleemi värskenduste kohta leiate lisateavet teemast [Eemaldatud kasutaja kuvatakse](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown)Microsoft Teams.

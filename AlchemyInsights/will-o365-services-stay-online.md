@@ -1,5 +1,5 @@
 ---
-title: Kas Office 365 teenused ööbivad võrgus?
+title: Kas Office 365 teenused on võrgus?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036848"
 ---
-# <a name="will-office-365-services-stay-online"></a>Kas Office 365 teenused ööbivad võrgus?
+# <a name="will-office-365-services-stay-online"></a>Kas Office 365 teenused on võrgus?
 
-Jah. Oleme need teenused kujundanud koos vastupidavuse. Iga teenus käitab korraga mitu eksemplari, nii et isegi kui ühel eksemplaril on probleeme, ei mõjuta meie kliente. Iga teenus on ka olemas, nii et kui probleem kerkib kokku ühe teenusega, ei levi see ka ülejäänud. Lisaks on kaitsemeetmed sisse ehitatud iga teenuse koodiga, mis aitab vältida probleemide kuhjumist teenuse kaudu.
+Jah. Oleme neid teenuseid arendanud paindlikult. Kõik teenused käitavad korraga mitut eksemplari, nii et isegi kui ühel eksemplaril on probleeme, ei mõjuta see meie kliente. Iga teenus sisaldub ka selles, nii et kui probleem ilmneb ühes teenuses, ei levi see ülejäänud teenusele. Lõpuks on iga teenuse koodi sisse ehitatud kaitsemeetmed, mis aitavad vältida probleemide kaskaadlaadimist teenuse kaudu.
 
-Lisateavet meie teenuste stabiilsete teenuste kohta leiate teemast [Enterprise ' i äritegevuse jätkuvuse haldus (EBCM) koos pilveteenuse teenustega](https://go.microsoft.com/fwlink/?linkid=2124377).
+Lisateavet meie pingutuste kohta meie teenuste stabiilsena tagamiseks leiate teemast Ettevõtte äritegevuse [järjepidevuse haldamine (EBCM) pilveteenuste abil.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Hindame teie tagasisidet, seega valige  / kuvatavale küsimusele Jah **ei** ja seejärel hinnake oma kasutuskogemust.
+Hindame teie tagasisidet, seega valige kuvatavale küsimusele **Jah** / **Ei** ja hinnake oma kasutuskogemust.

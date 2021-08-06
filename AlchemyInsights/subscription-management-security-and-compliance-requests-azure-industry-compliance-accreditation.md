@@ -1,5 +1,5 @@
 ---
-title: Tellimuse haldus – turbe ja nõuetele vastavuse taotlused – Azure ' i nõuetele vastavuse akrediteerimine
+title: Tellimuse haldamine – turbe- ja vastavustaotlused – azure'i valdkonna nõuetele vastavuse atesteerimine
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755579"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998939"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Tellimuse haldus – turbe ja nõuetele vastavuse taotlused – Azure ' i nõuetele vastavuse akrediteerimine
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Tellimuse haldamine – turbe- ja vastavustaotlused – azure'i valdkonna nõuetele vastavuse atesteerimine
 
-Teie probleemi kirjelduse põhjal oleme leidnud teile lahenduse. Enamik kliente suutsid oma probleemi lahendada pärast meie dokumentide järgimist.
+Teie probleemi kirjelduse põhjal oleme teie jaoks lahenduse leidnud. Enamik kliente suutis pärast meie dokumentatsiooni järgimist oma probleemi ise lahendada.
 
-- **Poliitika**: Microsoft vastavuskontrolli dokumendi kohta leiate lisateavet teemast [Azure ' i usalduskeskuse vastavus](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Poliitika**. Microsoft Compliancei dokumendi kohta leiate lisateavet teemast [Azure'i usalduskeskuse vastavus.](https://docs.microsoft.com/compliance/regulatory/offering-SOC)
 
-- **HIPAA ja Hitech Act**: Lugege Windows Azure ' i HIPAA juhendit, kui olete huvitatud HIPAA ja Hitech Act-ist, et mõista Windowsi Azure ' i asjakohaseid võimalusi.
+- **HIPAA ja HITECH Act**: vt Windows Azure HIPAA juhend, kui olete huvitatud HIPAA ja HITECH Acti kasutamisest, et mõista Windows Azure'i asjakohaseid võimalusi.
 
-- **FedRamp sertifitseerimine**: FedRamp sertifitseerimise kohta leiate teavet teemast FedRamp Marketplace.
+- **FedRamp Certification**: Lisateavet FedRamp'i sertifitseerimise kohta leiate teemast FedRamp Marketplace.
 
-- **AZURE PCI DSS nõuetele vastavuse**: nõutavad Azure ' i seotud dokumendid Maksekaartide sektori nõuete täitmiseks on "nõuetele vastavuse kinnitus" ja "vastutuse maatriks", mis on saadaval Azure ' i usalduskeskuse kaudu. Kontrollige, kas teil on need dokumendid. Kui teil on neid dokumente, kuid vajate lisatõendeid Microsoft Azure PCI andmete turbe standardi nõuetele vastavuse kohta, lugege teemat [Microsoft ja PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **Azure'i PCI DSS-i** vastavus. Maksekaardi valdkonna nõuetele vastavuse saavutamiseks on nõutavad Azure'iga seotud dokumendid "Vastavustunnistus" ja "Vastutusmaatriks", mis mõlemad on saadaval Azure'i usalduskeskuses. Kontrollige, kas teil on neid dokumente. Kui teil on neid dokumente, kuid teil on vaja täiendavaid tõendeid Microsoft Azure'i PCI andmeturbestandardi nõuetele vastavuse kohta, lugege teemat [Microsoft ja PCI DSS.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- **Azure ' i toimingud/Turve/nõuetele vastavus**: kui teil on Azure ' is üldisi turvalisusega seotud küsimusi, lugege teemat Microsoft Azure ' i turbe, privaatsuse ja nõuetele vastavuse taotlemine, kui teil on nõuetele vastavusega seotud küsimused, lugege artiklit: Microsoft STP-nõuetele vastavuse ja teenuse usaldusväärsus
+- **Azure'i toimingud/turve/vastavus.** Kui teil on Azure'is üldised turbega seotud küsimused, lugege teemat Standardne vastus teabetaotlusele Microsoft Azure'i turve, privaatsus ja nõuetele vastavus. Kui teil on nõuetele vastavusega seotud küsimusi, lugege teemat Microsoft STP – vastavus- ja teenusekindluse portaali KKK.
 
-Kui teil on vastavad küsimused, lugege teemat [Microsoft STP-nõuetele vastavuse](https://www.microsoft.com/trust-center/compliance/compliance-overview) ja teenuse usaldusväärsuse portaali KKK.
+Kui teil on nõuetele vastavusega seotud küsimusi, lugege [teemat Microsoft STP – vastavus-](https://www.microsoft.com/trust-center/compliance/compliance-overview) ja teenuse usalduse portaali KKK.
 
-- **Üldmääruse nõuetele vastavuse**: kui teil on küsimusi andmete töötlemise lepingu kohta, lugege teemat "isikuandmete kaitse tingimused" leheküljel 7 "võrguteenuste tingimused". OST sisaldab esmaseid andmetöötluse tingimusi, kuid on lisatud standardsesse ärilepingusse. Muu hulgas annab see lepingulise kohustuse seoses meie ÜLDMÄÄRUSE kohustustega. Lisaks leiate ÜLDMÄÄRUSE lepingu lõpus olevast jaotisest "manus 4", alates lehest 42. Need jaotised hõlmavad Microsofti ÜLDMÄÄRUSE kohustusi nii andmete töötlejana kui ka teise töötlejana.
-
-> [!NOTE]
-> PDF-dokumentide avamiseks on tungivalt soovitatav kasutada rakendust Adobe Acrobat Reader, kuna on täheldatud muude PDF-i Vaaturite probleeme. Samuti soovitatakse fail selle avamisel brauseriaknas alla laadida, kuna see võib põhjustada tõrkeid.
-
-- **HDS nõuetele vastavuse**: Azure on nüüd "Health Data hosting", mis on sertifitseeritud vastavalt Prantsuse nõuetele. Lisateavet leiate teemast "Microsoft Azure on nüüd sertifitseeritud, et majutada Prantsusmaal tundlikke andmeid".
-
-- **Kättesaadavuse testimine**: kogu "läbitungimise katse taotluse esitamise" protsess on klient ise teeniva protsessi juures "pentest".
-
-Lisateavet kättesaadavuse testimise kohta leiate teemast [penetratsiooni testimine](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Alltöötluse klientide teatised**: te võite valida, kas soovite saada teatisi Microsofti isiklike andmete allprotsesside loendi muudatuste kohta.
+- **GDPR-i** vastavus. Kui teil on küsimusi andmetöötluslepingu kohta, lugege võrguteenuste tingimuste leheküljelt 7 algavad andmekaitsetingimused. OST sisaldab esmaseid andmetöötlustingimusi, kuid on kaasatud standardsesse ärilepingusse. Muu hulgas sisaldab see lepingulist kohustust seoses meie isikuandmete kaitse üldmääruse kohustustega. Lisaks vaadake gdpr-spetsiifilisi tingimusi lepingu lõpus jaotises "Attachment 4" (4. manus), alustades leheküljelt 42. Need jaotised hõlmavad Microsofti GDPR-i kohustusi andmetöötlejana ja alamtöötlejana teisele andmetöötlejale.
 
 > [!NOTE]
-> Võrguteenuste klientide andmete ja isikuandmete loendi teatised on täielikult automatiseeritud. Lisateavet leiate teemast Microsofti andmekaitsega kaitstud ressursid.
+> Pdf-dokumentide avamiseks on tungivalt soovitatav kasutada Adobe Acrobat Readerit, kuna on täheldatud probleeme teiste PDF-i vaatajatega. Samuti on soovitatav fail brauseriaknas avamise asemel kohalikult alla laadida, kuna see võib põhjustada tõrkeid.
+
+- **HDS-i** vastavus: Azure on nüüd "Health Data Hosting", mis on sertifitseeritud vastavalt Prantsuse nõuetele. Lisateavet leiate teemast "Microsoft Azure on nüüd sertifitseeritud tundlike seisundiandmete majutamiseks Prantsusmaal".
+
+- **Levimise** testimine: kogu "Läbiviigukatse taotluse esitamine" protsess on klient,kes on iseteenindusega protsess "pentest".
+
+Lisateavet levimise testimise kohta leiate teemast [Läbiviigukatsed.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
+
+- **Klienditeatiste alamtöötleja** muudatused: Saate lubada saada teatisi Microsofti isikuandmete alamtöötlejate loendis tehtud muudatuste kohta.
+
+> [!NOTE]
+> Võrguteenuste kliendiandmete ja isikuandmete loendi teatis on täielikult automatiseeritud. Lisateavet leiate teemast Microsoftsi andmekaitseressursid.
 
 **Soovitatud dokumendid**
 
-- [Azure ' i portaalis sätete eksportimine või kustutamine](https://docs.microsoft.com/azure/azure-portal/set-preferences)
-- [Tegevuskeskuse otsimine Azure ' i portaalis](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Azure Active Directory riskitegurid](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Kasutajad ohus](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Riskantnead sisselogimised](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Mis on Azure ' i Active Directory aruanded?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
-- [Microsoft ja HIPAA ning HITECH seadus](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [USA kaitseministeerium (DoD) ajutise loa dokumentide IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Sätete eksportimine või kustutamine Azure'i portaalis](https://docs.microsoft.com/azure/azure-portal/set-preferences)
+- [Tegevusaruannete portaal Azure'i portaalis](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
+- [Azure Active Directory riskisündmused](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Ohus kasutajad](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Riskantsed sisselogimised](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Mis on Azure Active Directory aruanded?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Microsoft ja HIPAA ning HITECH Act](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
+- [USA kaitseministeeriumi (DoD) ajutise autoriseerimise dokumentatsioon IL4-s](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

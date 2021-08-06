@@ -1,5 +1,5 @@
 ---
-title: Pakett on tühistatud – pärand – Soovitatavad juhised
+title: Tellimus on tühistatud – pärand – soovitatavad toimingud
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999056"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Pakett on tühistatud – pärand – Soovitatavad juhised
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Tellimus on tühistatud – pärand – soovitatavad toimingud
 
-Meie kirje näitab, et Kasutaja tühistas tellimuse omanike õigustega kasutaja. Tellimuse uuesti aktiveerimiseks leiate allolevad juhised.
+Meie kirje näitab, et omanikõigustega kasutaja tühistas tellimuse. Tellimuse uuesti aktiveerimiseks vaadake allolevaid juhiseid.
 
-[Konto administraator](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) saab konto keskuses tühistatud makse-ja-paketti uuesti aktiveerida.
+Konto [administraator](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) saab kontokeskuses tühistatud pay-as-you-go tellimuse uuesti aktiveerida.
 
-1. Logige sisse [konto keskele](https://account.azure.com/Subscriptions).
-2. Valige tühistatud tellimus ja klõpsake nuppu **Aktiveeri uuesti**.
+1. Logige sisse [kontokeskusesse.](https://account.azure.com/Subscriptions)
+2. Valige tühistatud tellimus ja klõpsake **nuppu Aktiveeri uuesti.**
 
-Muude tellimuste tüüpide korral [võtke ühendust toega](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) , et teie tellimus oleks uuesti aktiveeritud.
+Muude tellimusetüüpide korral pöörduge [tellimuse](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) uuesti aktiveerimiseks tugiteenuste poole.

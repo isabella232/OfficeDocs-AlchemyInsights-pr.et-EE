@@ -15,31 +15,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e50382496c5f1040f3e7f149e4781392b8b48c59d0619b74a20ea324ebc8995
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907873"
 ---
 # <a name="where-is-power-pivot"></a>Kus on Power Pivot?
 
-On kolm põhjust, miks te ei pruugi Power Pivotit näha.
+Power Pivoti ei pruugita kuvada kolmel põhjusel.
   
-**Teie Exceli versioon ei sisalda seda**
+**Teie Excel ei sisalda seda**
   
-Kõik Exceli versioonid ei sisalda Power Pivotit. Teil tuleb üle minna Office ' i versioonile, mis sisaldab Power Pivotit. [Vaadake toetatud versioonide loendit.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Power Pivoti ei Excel kõiki versioone. Teil tuleb kasutusele võtta Power Pivoti Office versioon. [Kontrollige toetatud versioonide loendit.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Te pole Power Pivotit lubanud**
+**Te pole Power Pivoti lubanud**
   
-Kui töötate Exceli versiooniga, mis toetab Power Pivotit, vaadake, kas lisandmoodul on lubatud.
+Kui töötate Power Pivoti toetavas Excel versioonis, kontrollige, kas lisandmoodul on lubatud.
   
-1. Valige suvand **failitüübid** \> **Options** \> **lisandmoodulid**.
+1. Valige  \>  \> **Failisuvandite lisandmoodulid**.
 
-2. Valige ripploendis **Halda** rippmenüüs nupp **com-** lisandmoodulid ja klõpsake nuppu **Ava**.
+2. Valige **ripploendis** Halda nupp **COM-lisandmoodulid ja klõpsake** nuppu **Mine**.
 
-3. Märkige dialoogiboksis **com-lisandmoodulid** ruut **Microsoft Power Pivot for Excel**ja seejärel klõpsake nuppu **OK**.
+3. Märkige **dialoogiboksis Com Add-ins (Com-lisandmoodulid)** **ruut Microsoft Power Pivot for Excel** ja seejärel klõpsake nuppu **OK**.
 
 **Teil on mitu tellimust või kontot**
   
-Võimalik, et teil on erinevad Microsoft 365 tellimused, mis on määratud mõnele teisele kasutajakontole. Veenduge, et oleksite sisse logitud kontoga, mis sisaldab Power Pivotit toetavat Exceli versiooni. Kontrollige [toetatud versioonide](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)loendit ja järgige juhiseid [erinevate Office ' i kontode vaheldumisi aktiveerimiseks](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Teil võib olla Microsoft 365 erinevatele kasutajakontodele määratud tellimused. Veenduge, et olekste sisse logitud kontole power Pivoti toetava Excel versiooniga. Kontrollige toetatud [versioonide loendit](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)ja järgige eri kontode vahel [vahetamiseks Office juhiseid.](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)

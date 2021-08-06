@@ -1,5 +1,5 @@
 ---
-title: Tugiteenuste infrastruktuuri seisak
+title: Tugiteenuseteenuste taristukatkestus
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48364702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998975"
 ---
-# <a name="support-service-infrastructure-outage"></a>Tugiteenuste infrastruktuuri seisak
+# <a name="support-service-infrastructure-outage"></a>Tugiteenuseteenuste taristukatkestus
 
-Meil on praegu elektrikatkestus tugiteenuste teenuse infrastruktuuris. Töötame probleemi lahendamiseks nii kiiresti kui võimalik, kuid samal ajal võidakse teile Microsoftiga ühenduse võtmisel näha ka reageerimisaeg viivituses.
+Tugiteenuseteenuste taristus esineb praegu katkestusi. Töötame selle probleemi lahendamiseks võimalikult kiiresti, kuid samal ajal võite Microsofti poole pöördumisel näha reageerimisaja viivitusi.

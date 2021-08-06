@@ -1,5 +1,5 @@
 ---
-title: 902 (vigade sünkroonimine dubleeritud objektide tõttu)
+title: 902 (duplikaatobjektide tõttu ilmnevad sünkroonimistõrked)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a047afd63484423520ed80fbf223f0e50f3e02624bd9859d4dcbbd94cf23143f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998786"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a>Vigade sünkroonimine dubleeritud objektide tõttu
+# <a name="sync-errors-due-to-duplicate-objects"></a>Duplikaatobjektide tõttu ilmnevad sünkroonimistõrked
 
-Kui kataloogi sünkroonimine Microsoft 365 lõpeb, võidakse kuvada mõni järgmistest tõrketeadetest.
+Kui kataloogisünkroonimine lõpetatakse, võidakse kuvada üks järgmistest tõrketeadetest Microsoft 365.
 
-- Microsoft Online Services ei saa seda objekti värskendada, kuna selle objektiga seotud järgmistele atribuutidele on lisatud väärtused, mis võivad juba olla seotud mõne muu kohalikus kataloogis oleva objektiga.
+- Seda objekti ei saa teenuses Microsoft Online Services värskendada, kuna selle objektiga seotud järgmistel atribuutidel on väärtused, mis võivad olla juba seostatud mõne muu objektiga teie kohalikus kataloogis.
 
-- Teie Microsoft Online Services kataloogis on sama puhverserveri aadressiga sünkroonitud objekt juba olemas.
+- Sama puhverserveri aadressiga sünkroonitud objekt on teie Teenuse Microsoft Online Services kataloogis juba olemas.
 
-- Seda objekti ei saa värskendada, sest järgmised selle objektiga seostuvad atribuudid sisaldavad väärtusi, mis võivad juba olla seotud mõne muu kohaliku kataloogiteenuse objektiga: UserPrincipalName.
+- Seda objekti ei saa värskendada, kuna selle objektiga seotud järgmistel atribuutidel on väärtused, mis võivad juba olla seotud mõne muu objektiga teie kohalikes kataloogiteenustes: UserPrincipalName.
 
-Probleemi tuvastamiseks ja lahendamiseks laadige alla ja käivitage [IdFix Dirsynci tõrke parandamise tööriist](https://github.com/Microsoft/idfix).
+Probleemi tuvastamiseks ja lahendamiseks laadige alla ja käivitage [IdFix DirSynci tõrke parandamise tööriist.](https://github.com/Microsoft/idfix)
 
 Lisateavet leiate teemast [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).

@@ -1,5 +1,5 @@
 ---
-title: Parooli tagasikirjutusega ei tööta
+title: Parooli tagasikirjutus ei tööta
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: d7766f908f025b5db8299aa45d01dc5389b321ec
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999740"
 ---
-# <a name="password-writeback-is-not-working"></a>Parooli tagasikirjutusega ei tööta
+# <a name="password-writeback-is-not-working"></a>Parooli tagasikirjutus ei tööta
 
-**Mul on probleeme parooli tagasikirjutusega konfigureerimisega**
+**Mul on probleeme parooli tagasikirjutuse konfigureerimisega**
 
-- Salasõna tagasikirjutusega on esmaklassiline funktsioon.
-- Veenduge, et mõistate litsentsimise nõudeid.
-  - Teie ettevõttes peab olema vähemalt ühe litsentsiga määratud litsents.
-  - **Ainult pilveteenuse kasutajad** – kõik Office 365 (O365) makstud SKU või Azure AD ' i põhifunktsioonid
-  - **Pilv ja/või kohapealsed kasutajad** – Azure AD Premium P1 või P2, Enterprise Mobility + Security (EMS) või Secure produktiivne Enterprise (SPE)
-    - Lisateavet litsentsimise nõuete kohta leiate teemast [AZURE ad iseteeninduse parooli lähtestamise litsentsimise nõuded](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
-- Teil on vähemalt ühe administraatori konto ning ühe vastava litsentsiga kasutajakonto.
-- Peate ühendama Azure AD Connecti esmase domeenikontrolleri Emulaatoriga tagasikirjutusega töötamiseks. Saate konfigureerida Azure AD Connecti kasutama esmast domeenikontrollerit, paremklõpsates Active Directory sünkroonimise konnektori **atribuute** ja valides seejärel käsu **Konfigureeri kausta partitsioonid**. Sealt otsige üles jaotis **domeenikontrolleri ühenduste sätted** ja märkige ruut nimega **ainult eelistatud domeenikontrollerid**.
+- Parooli tagasikirjutus on premium-funktsioon.
+- Veenduge, et mõistate litsentsimisnõudeid.
+  - Teie ettevõttes peab olema määratud vähemalt üks litsents
+  - **Ainult pilveteenuse kasutajad** – Office 365 (O365) tasuline SKU või Azure AD Basic
+  - **Pilveteenuse ja/või kohapealne** kasutaja – Azure AD Premium P1 või P2, Enterprise Mobility + Security (EMS) või Secure Productive Enterprise (SPE)
+    - Lisateavet litsentsimisnõuete kohta leiate teemast [Azure AD iseteeninduse parooli lähtestamise litsentsimisnõuded](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
+- Teil on vähemalt üks administraatorikonto ja üks testkasutaja konto, kellel on üks sobiv litsents.
+- Parooli tagasikirjutuse tööks peate Ühendus Azure AD-d ühendama esmase domeenikontrolleri emulaatoriga. Azure AD Ühendus saab konfigureerida kasutama primaardomeenikontrollerit,  paremklõpsades Active Directory sünkroonimiskonnektori atribuute ja valides **seejärel käsu konfigureeri kataloogisektsioonid.** Sealt otsige domeenikontrolleri ühenduse **sätete** jaotist ja märkige ruut nimega kasuta ainult **eelistatud domeenikontrolleriid.**
   > [!NOTE]
-  > Kui eelistatud DC pole PDC-emulaator, jääb Azure AD Connecti jaoks endiselt välja PDC parooli tagasikirjutusega.
-- Parooli lähtestamine on teie rentniku jaoks konfigureeritud ja lubatud. Lisateavet leiate teemast [kasutajatele Azure ' i reklaami paroolide lähtestamise lubamine](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started).
-- Veenduge, et administraatorikonto, mida kasutatakse parooli tagasikirjutusega lubamiseks, on pilveteenuse administraatorikonto (loodud Azure AD-s, mis pole kohapealne AD)
-- Teil on ühe või mitme metsaga AD kohapealne juurutus, kus töötab Windows Server 2008 R2, Windows Server 2012 või Windows Server 2012 R2 uusimate hoolduspaketid installitud
-- Teil on installitud Azure AD Connecti tööriist ja olete valmis oma reklaami keskkonna sünkroonimiseks pilve. Enne parooli tagasikirjutusega katsetamist veenduge, et täidate Azure AD Connecti kaudu nii AD kui ka Azure AD-st täieliku importimise ja täieliku sünkroonimise.
-- Lisateavet leiate artiklist [AZURE ad Connecti täielik sünkroonimine ja täielik importimine](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
+  > Kui eelistatud DC pole PDC-emulaator, siis azure AD Ühendus endiselt PDC-ga ühendust parooli tagasikirjutuse jaoks.
+- Parooli lähtestamine on teie rentnikus konfigureeritud ja lubatud. Lisateavet leiate teemast Kasutajate [Azure AD paroolide lähtestamise lubamine.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
+- Veenduge, et parooli tagasikirjutuse lubamiseks kasutatav administraatorikonto on pilveadministraatori konto (loodud Azure AD-s, mitte kohapealne AD)
+- Teil on üks või mitme metsaga AD kohapealne juurutus, kus töötab Windows Server 2008 R2, Windows Server 2012 või Windows Server 2012 R2 koos installitud uusimate hoolduspakettidega
+- Teil on installitud Azure AD Ühendus tööriist ja olete oma AD-keskkonna pilveteenusega sünkroonimiseks ette valmistanud. Enne parooli tagasikirjutuse testimist veenduge, et enne Azure AD-st ja Azure AD-st täielikku importimist ja täielikku sünkroonimist Ühendus.
+- Lisateavet leiate teemast Täielik sünkroonimine ja [täielik importimine Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations) Ühendus
 
-**Mul on probleem parooliga tagasikirjutusega ühenduvusega**
+**Mul on probleem parooli tagasikirjutuse ühenduvusega**
 
-1. [AZURE ad Connecti](https://www.microsoft.com/download/details.aspx?id=47594) uusima versiooni allalaadimine ja lubamine
-2. Tulemüüri konfigureerimine: Azure AD Connecti tööriist (1.1.443 ja ülal) vajab **VÄLJAMINEVA https** -i juurdepääsu:
+1. Laadige alla ja lubage [Azure AD Ühendus](https://www.microsoft.com/download/details.aspx?id=47594)
+2. Tulemüüri konfiguratsioon: Azure AD Ühendus (1.1.443 ja eespool) peab olema väljamineva **HTTPS-i** juurdepääs:
     - passwordreset.microsoftonline.com
-    - ServiceBus. Windows. Networks
-3. Lubada, et idle ühendused püsivad vähemalt 2-3 minutit.
+    - servicebus.windows.networks
+3. Luba tühikäiguühendustel püsida vähemalt 2–3 minutit
 
-**Mul on endiselt probleeme parooliga tagasikirjutusega**
+**Mul on endiselt probleeme parooli tagasikirjutusega**
 
-- Kui teil on endiselt probleeme, proovige keelata ja uuesti lubada parooli tagasikirjutusega teenus Azure AD Connecti tööriistas
-- Lisateavet leiate teemast [parooli tagasikirjutusega keelamine ja uuesti lubamine](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)
+- Kui teil on endiselt raskusi, proovige Azure AD-tööriistas parooli tagasikirjutusteenus keelata ja Ühendus lubada
+- Lisateavet leiate teemast Parooli [tagasikirjutuse keelamine ja uuesti lubamine](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)

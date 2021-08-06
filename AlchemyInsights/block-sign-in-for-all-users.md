@@ -1,5 +1,5 @@
 ---
-title: Blokeeri Logi sisse kõigi kasutajate jaoks
+title: Blokeeri sisselogimine kõigi kasutajate jaoks
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019252"
 ---
-# <a name="block-sign-in-for-all-users"></a>Blokeeri Logi sisse kõigi kasutajate jaoks
+# <a name="block-sign-in-for-all-users"></a>Blokeeri sisselogimine kõigi kasutajate jaoks
 
-Kõigi Office ' isse sisselogimise blokeerimiseks tehke järgmist.
+Selleks et blokeerida kõigi jaoks Office, tehke järgmist.
 
-1. Valige halduskeskus [ **kasutajate**  >  **aktiivsed kasutajad**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-2. Kõigi kasutajate valimiseks klõpsake märkeruudu **kuvatav nimi** kõrval olevat märki. Veenduge, et tühjendate administraatori konto, millega olete sisse logitud.
-3. Klõpsake nuppu **"..."** , et **eksportida kasutajad**  >  , kes **redigeerivad sisselogimise olekut** , ja seejärel valige käsk **Blokeeri kasutajate sisselogimine** . Uued sisselogimised blokeeritakse kohe. Kui kasutaja on juba sisse logitud, logitakse kasutaja automaatselt välja kõigi Microsofti teenuste kaudu 60 minuti jooksul.
+1. Avage halduskeskuses Kasutajad [   >  **Aktiivsed kasutajad**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+2. Valige kõik kasutajad, klõpsates välja Kuvatav nimi **kõrval olevat märget.** Tühjendage ruut administraatorikonto, millega olete sisse logitud.
+3. Klõpsake valiku Kasutajate eksportimine **redigeerimise** olekut kõrval nuppu **"...",**  >  seejärel valige Blokeeri **kasutajate sisselogimine.** Uued sisselogimised blokeeritakse kohe. Kui kasutaja on juba sisse logitud, logitakse kasutaja automaatselt välja kõigi kasutajate Microsofti teenused 60 minuti jooksul.
