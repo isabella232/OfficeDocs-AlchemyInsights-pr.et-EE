@@ -14,16 +14,16 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7b9115f1a37de44eb5212f5bfc41b750d80200852b9982fe683b90af6a22a7df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060276"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Värskendage DNS-i kirjeid, et hoida oma veebisaiti praeguse majutusteenuse pakkuja juures
 
-Microsoft 365 avaliku veebisaidi teise hostiteenuse pakkujale teisaldamise käigus peate tõenäoliselt oma domeenikirjeid tegema.
+Avaliku veebisaidi teisaldamise Microsoft 365 hostiteenuse pakkujale peate tõenäoliselt oma domeenikirjeid tegema.
   
 1. Avage halduskeskuses  \> **Domains (Domeenide häälestamine)** ja valige domeeninimi, mida soovite muuta.
 
@@ -31,4 +31,4 @@ Microsoft 365 avaliku veebisaidi teise hostiteenuse pakkujale teisaldamise käig
 
 Lisateavet leiate teemast DNS-i [kirjete värskendamine, et säilitada oma veebisait praeguse majutusteenuse pakkuja juures.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Lisateavet avaliku saidi katkestamise kohta leiate teemast [SharePoint Online'i avalikud veebisaidid tuleb lõpetada.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)
+Lisateavet avaliku saidi katkestamise kohta leiate teemast SharePoint lõpetatakse veebipõhised [avalikud veebisaidid.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

@@ -1,5 +1,5 @@
 ---
-title: 8000053 ei saa saata rühma meilisõnumeid
+title: 8000053 Rühmameleid ei saa saata
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060564"
 ---
-# <a name="unable-to-send-group-emails"></a>Rühma meilisõnumeid ei saa saata
+# <a name="unable-to-send-group-emails"></a>Rühmameleid ei saa saata
 
-Kui te ei saa saata meilisõnumeid kontaktide loenditele või Outlook.com, tehke järgmist.
+Kui te ei saa saata meilisõnumeid Outlook.com kontaktiloenditele või kontaktirühmadele, proovige järgmist.
   
-1. Outlook.com beetaversiooni kasutamine. Lisateavet leiate [Outlook.com beetaversioonist](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Kasutage Outlook.com beetaversiooni. Lisateavet leiate teemast [Teave Outlook.com-i beetaversiooni kohta.](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)
     
-2. Kui teil on endiselt probleeme rühmas meilisõnumi koostamisega, avage jaotis [inimesed](https://outlook.live.com/people/), valige kontaktiloend või rühm ja seejärel valige **Saada meilisõnum**.
+2. Kui teil on endiselt probleeme rühmale meilisõnumite koostamisega, valige Inimesed [,](https://outlook.live.com/people/)valige kontaktiloend või rühm ja seejärel valige **Saada meilisõnum.**
     
- **Märkmete**
+ **Märkmed:**
   
-1. Veenduge, et teil poleks Hüpikaknad blokeeritud: meilisõnumite saatmine kontaktiloendi lehelt avab uue akna.
+1. Veenduge, et hüpikaknad poleks blokeeritud: kontaktide loendilehelt meilisõnumite saatmine avab uue akna.
     
-2. Kontaktide loendist meilisõnumite saatmine paigutab loendi automaatselt reale **Adressaat** . Kui soovite kontaktiloendi andmed peita, klõpsake paremas ülanurgas nuppu **Salakoopia** , seejärel kopeerige ja kleepige kontaktiloend **Salakoopia** ja **kustutage kirje.** 
+2. Kontaktiloendist meilisõnumite saatmine asetab loendi automaatselt **reale TO.** Kui soovite kontaktiloendi üksikasjad peita, klõpsake paremas ülanurgas nuppu **Salakoopia,** seejärel kopeerige ja kleepige kontaktiloend **salakoopiasse** ning kustutage **kirje TO.** 
     
-3. Kui kasutate **Salakoopia**, on hea **tava kasutada alati midagi reale,** näiteks oma "saatja" aadressilt. 
+3. Salakoopia **kasutamisel** on hea, kui teil on  alati midagi toe real ( nt oma "from" aadress). 
     
 

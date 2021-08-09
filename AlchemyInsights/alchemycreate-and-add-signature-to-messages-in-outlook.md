@@ -1,5 +1,5 @@
 ---
-title: Alkeemia – Outlooki sõnumite jaoks signatuuri loomine ja lisamine
+title: Alchemy – sõnumitele signatuuri loomine ja Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 933533b2c1065a96786522eee481abf859186342
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c676c03834f5d1b1740addd6ad108ee1176faa19e4b0a5b8927ac1e600810d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934163"
 ---
-# <a name="creating-email-signatures"></a>Meilisõnumite signatuuride loomine
+# <a name="creating-email-signatures"></a>Meilisignatuuride loomine
 
-Need artiklid aitavad teil Outlookis meilisõnumite signatuure luua.
+Need artiklid peaksid aitama teil luua meilisignatuure Outlook.
   
-- Soovin luua e-posti signatuuri Outlooki Windowsi kaudu: [sõnumite signatuuri loomine ja lisamine](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Soovin luua meilisignatuuri, kasutades Outlook Windows: [sõnumitele signatuuri loomine ja lisamine](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Soovin luua meilisõnumi signatuuri Outlooki veebirakenduses: [Outlooki veebirakenduses meilisõnumite loomine ja lisamine](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Soovin meilisignatuuri luua Outlooki veebirakendus abil: [meilisignatuuri](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx) loomine ja lisamine Outlooki veebirakendus
 
-- Soovin luua e-posti signatuuri Outlook.com abil: [meilisõnumite loomine ja lisamine Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Soovin luua meilisignatuuri Outlook.com-i abil: meilisignatuuri loomine ja lisamine [Outlook.com-is](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Soovin luua globaalse e-posti signatuuri kõigi minu ettevõtte saadetud meilisõnumite jaoks: kogu [organisatsioonile mõeldud signatuuride ja Lahtiütluste loomine](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
+- Soovin luua globaalse meilisignatuuri kõigile minu ettevõttest saadetud meilisõnumitele: [organisatsiooni hõlmavate allkirjade ja lahtiütluste loomine](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
 
- **Näpunäide:** Kogu organisatsiooni hõlmavaid signatuure nimetatakse "lahtiütluseks".
+ **Näpunäide:** Organisatsiooni hõlmavaid signatuure nimetatakse lahtiütlusteks.
   
