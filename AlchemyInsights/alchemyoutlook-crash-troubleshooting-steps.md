@@ -1,5 +1,5 @@
 ---
-title: Alkeemia – Outlooki krahhi tõrkeotsingu toimingud
+title: Alchemy – Outlook tõrkeotsingu juhised
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933677"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlooki krahhi tõrkeotsingutoimingud
 
-Kui teil on Outlooki töölaua krahhi probleeme, tehke järgmist kolme järgmist toimingut, mis on kõik selles artiklis üksikasjalikult loetletud: [Tõrkeotsing probleemidele, mis põhjustavad Outlooki krahhi või lõpetavad reageerimise.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Kui teil on Outlook probleeme töölaua krahhi korral, järgige allpool toodud kolme etappi, mis on loetletud selles artiklis üksikasjalikult: kuidas teha tõrkeotsingut probleemidele, mis Outlook krahhi või [lõpetavad reageerimise.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-1. juhis: võimalike lisandmoodulite probleemide uurimine.
+1. juhis. Uurige lisandmoodulite võimalikke probleeme.
   
-Juhis 2: Parandage Outlook ja käivitage [tööriista tugi-ja Süsteemitaaste abilised](https://aka.ms/SaRA-OutlookWontStart) , et Outlooki käivitamise tõrked oleksid mõjutatud seadmes.
+2. juhis: parandage Outlook ja [käivitage tugi- ja taasteteenuste abiline tööriist,](https://aka.ms/SaRA-OutlookWontStart) et Outlook arvuti käivitustõrgete tõrkeotsinguks.
   
-3. juhis: looge uus Outlooki profiil või käivitage probleemses arvutis [Outlooki profiili tööriist](https://aka.ms/SaRA-OutlookSetupProfile) .
+3. juhis. Looge uus Outlook või käivitage [Outlook seadmes](https://aka.ms/SaRA-OutlookSetupProfile) profiiliriist.
   
-Kui probleem ilmnes pärast värskendust ja eeltoodud toimingud probleemi ei kõrvalda, peate võib-olla taastama mõne varasema versiooni. Siit leiate teavet [Office 2016 varasema versiooni taastamise kohta](https://support.microsoft.com/help/2770432).
+Kui probleem ilmnes pärast värskendust ja eeltoodud toimingud probleemi ei kõrvalda, peate võib-olla taastama mõne varasema versiooni. Lugege [teemat Versiooni 2016 Office 2016 klõpsversioonile ennistamine.](https://support.microsoft.com/help/2770432)
   

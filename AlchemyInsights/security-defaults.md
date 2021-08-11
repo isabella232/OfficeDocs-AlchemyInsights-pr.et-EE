@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 28a42e09eb810daad4b507756d6997e262a3021baab1176efb9050d793c0a05e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942903"
 ---
 # <a name="security-defaults"></a>Turbe vaikesätted
 
 Lisateavet turbe vaikesätete kohta leiate teemast Mis [on turbe vaikesätted?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Azure Active Directory (Azure AD) turbe vaikesätted hõlbustavad turvalisust ja aitavad kaitsta teie ettevõtet. Turbe vaikesätted sisaldavad levinud rünnakute eelkonfigureeritud turbesätteid.
+Turbe vaikesätted Azure Active Directory (Azure AD) hõlbustavad turvalisust ja aitavad kaitsta teie ettevõtet. Turbe vaikesätted sisaldavad levinud rünnakute eelkonfigureeritud turbesätteid.
 
 Microsoft muudab turbe vaikesätted kõigile kättesaadavaks. Eesmärk on tagada, et kõigil organisatsioonidel oleks ilma lisatasuta lubatud turbetase. Azure'i portaalis saate sisse lülitada turbe vaikesätted.

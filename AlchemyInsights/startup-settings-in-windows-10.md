@@ -1,5 +1,5 @@
 ---
-title: Windows 10 käivitussätted
+title: Käivitussätted Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909822"
 ---
-# <a name="startup-settings-in-windows-10"></a>Windows 10 käivitussätted
+# <a name="startup-settings-in-windows-10"></a>Käivitussätted Windows 10
 
 **Käivituse ajal automaatselt käivituvate rakenduste muutmine**
 
@@ -33,11 +33,11 @@ ms.locfileid: "51828148"
 
 2. Paremklõpsake rakendust, klõpsake käsku **Rohkem** ja seejärel klõpsake käsku **Ava faili asukoht.** See avab asukoha, kuhu rakenduse otsetee salvestatakse. Kui faili asukoha avamiseks pole valikut, tähendab see, et rakendust ei saa käivitamisel käivitada.
 
-3. Kui faili asukoht on avatud, vajutage klahvikombinatsiooni **Windowsi logoga klahv + R**, tippige **shell:startup** ja seejärel klõpsake nuppu **OK**. Avatakse käivituskaust.
+3. Kui faili asukoht on avatud, vajutage **klahvikombinatsiooni Windows + R**, tippige **shell:startup** ja seejärel klõpsake nuppu **OK**. Avatakse käivituskaust.
 
 4. Kopeerige ja kleepige rakenduse otsetee faili asukohast käivituskausta.
 
-**Täpsemad käivitussuvandid (sh turvarežiim, UEFI sätted ja käivitamine teisest seadmest)**
+**Täpsemad käivitussuvandid (seif režiim, UEFI sätted ja käivitamine teisest seadmest)**
 
 1. Salvestage oma töö ja sulgege kõik avatud dokumendid, kuna need toimingud taaskäivitavad teie arvuti.
 
@@ -49,6 +49,6 @@ ms.locfileid: "51828148"
 
     - Seadmest (nt USB-draivilt) algkäivituseks klõpsake **nuppu Kasuta seadet**.
 
-    - UEFI sätete (mõnikord nimetatakse seda ka BIOS-i häälestuseks) sisestamiseks klõpsake **> Täpsemad suvandid > UEFI püsivarasätted**. 
+    - UEFI sätete (vahel nimetatakse seda ka BIOS-i häälestuseks) sisestamiseks klõpsake **nuppu > Täpsemad suvandid > UEFI püsivara Sätted**. 
 
-    - Turvarežiimi sisenemiseks või täpsemate käivitussätete muutmiseks klõpsake nuppu **Tõrkeotsing > Täpsemad suvandid >** Ja seejärel klõpsake nuppu **Taaskäivita**. Teil võidakse paluda sisestada [BitLockeri taastevõti.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Pärast arvuti taaskäivitamist klõpsake käivitussätet, mida soovite kasutada.
+    - Režiimi seif täpsemate käivitussätete muutmiseks klõpsake nuppu **Tõrkeotsing > Täpsemad suvandid > Käivitusrežiim Sätted** seejärel klõpsake nuppu **Taaskäivita**. Teil võidakse paluda sisestada [BitLockeri taastevõti.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Pärast arvuti taaskäivitamist klõpsake käivitussätet, mida soovite kasutada.

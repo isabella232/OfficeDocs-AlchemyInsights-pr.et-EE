@@ -1,5 +1,5 @@
 ---
-title: Sõnumi fondi suuruse muutmine
+title: Sõnumi fondisuuruse muutmine
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003564"
 - "6664"
-ms.openlocfilehash: 43d14dae440cb7f41624bb4247feb8381cc10a3f
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 6b3c56e1dab9603e51e8888de69e15fac2c8d5b6662d297aa86eb714978c05e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916915"
 ---
-# <a name="change-the-font-size-in-a-message"></a>Sõnumi fondi suuruse muutmine
+# <a name="change-the-font-size-in-a-message"></a>Sõnumi fondisuuruse muutmine
 
 1. Kui olete sõnumi juba tippinud, valige tekst.
-2. Valige sõnumi all ikoon  **Vorming** (see on esimene ikoon).
-3. Valige sõnumi kohal ikoon  **fondi suurus**  (seitsmes ikoon).
+2. Valige sõnumi  **all** ikoon Vorming (see on esimene ikoon).
+3. Valige sõnumi  **kohal**  ikoon Fondi suurus (see on seitsmes ikoon).
 4. Valige suurus.

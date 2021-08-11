@@ -1,5 +1,5 @@
 ---
-title: Rakenduse puhverserveri konfigureerimine
+title: Rakenduse puhverserveri konfiguratsioon
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951561"
 ---
-# <a name="app-proxy-configuration"></a>Rakenduse puhverserveri konfigureerimine
+# <a name="app-proxy-configuration"></a>Rakenduse puhverserveri konfiguratsioon
 
-1. Kui soovite teada saada, kuidas konfigureerida rakenduse puhverserveri rakendust Azure AD-s asutusesisesete rakenduste pilve jaoks, lugege teemat [rakenduse puhverserveri rakenduse konfigureerimine](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
-2. Ühekordne sisselogimine (SSO) võimaldab kasutajatel kasutada rakendust, autentimata mitu korda. See lubab ühes autentimisel esineda pilves, Azure Active Directory vastu ning lubab teenusel või konnektori kasutajal jäljendada kasutajat, kes täidavad rakenduse jaoks täiendavaid autentimise probleeme. Lisateavet leiate teemast [ühekordse sisselogimise konfigureerimine rakenduse puhverserveri rakendusse](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
-3. Kasutage [seda artiklit](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) levinud probleemide tõrkeotsinguks, kui loote uue rakenduse puhverserveri rakenduse.
-4. Kui teil on probleeme rakenduse back-end autentimise häälestamisega, peate võib-olla lahendama [Kerberose piiratud delegeerimise konfiguratsioonid rakenduse puhverserveri jaoks](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) või järgima juhiseid [rakenduse konfigureerimise kohta PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) abil probleemi lahendamiseks.
+1. Azure AD-s rakenduse puhverserveri rakenduse pilveteenusesse konfigureerimise kohta leiate teavet teemast Rakenduse [puhverserveri rakenduse konfigureerimine.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
+2. Ühekordne sisselogimine (SSO) võimaldab kasutajatel rakendusele juurde pääseda mitu korda autentimata. See võimaldab ühekordset autentimist pilveteenuses Azure Active Directory ja võimaldab teenusel või konnektoril kasutajal täita rakenduse täiendavad autentimisprobleemid. Lisateavet leiate teemast Rakenduse puhverserveri rakenduse ühekordse sisselogimise [konfigureerimine.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
+3. Selle [artikli abil saate](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) teha tõrkeotsingut levinumatele probleemidele, millega inimesed uue rakenduse puhverserveri rakenduse loomisel kokku seisavad.
+4. Kui teil on rakenduse jaoks tagaautentimise häälestamisel probleeme, peate võib-olla probleemi lahendamiseks [kasutama Kerberose](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) piiratud delegeerimiskonfiguratsioonide tõrkeotsingut või järgima [pingaccessi](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) abil rakenduse konfigureerimise juhiseid.

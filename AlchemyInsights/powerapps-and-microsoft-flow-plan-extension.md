@@ -1,5 +1,5 @@
 ---
-title: 1575 – Powerappsi ja Microsoft Flow plaani laiend
+title: 1575-PowerApps ja Microsoft Flow lepingu laiend
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960435"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Powerappsi ja Microsoft Flow plaani laiend
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerAppsi ja Microsoft Flow lepingu laiend
 
-Kui kavatsete taotleda lepingu pikendamist **Microsoft Flow** -või **powerappsi** ja teie Rentnik on juba mõnda järgmistest funktsioonidest aktiivseid kasutajaid saanud, pole teil vaja tugiteenuse taotlust esitada.
+Kui kavatsete taotleda lepingulaiendit **Microsoft Flow** **Või PowerAppsi** jaoks ja teie rentnikul on juba aktiivsed kasutajad ühes järgmistest funktsioonidest, pole vaja tugiteenusetaotlust esitada.
 
-- Kohandatud konnektorite loomine ja avaldamine rakenduses Powerappsi ja Microsoft Flow
-- Väljaspool SharePointi ja OneDrive ' i integreeritud voogude integreeritud HTTP kohandatud toimingud
-- Kohapealsete andmete integreerimine kohapealsete andmete lüüsi kaudu
+- Kohandatud konnektorite loomine ja avaldamine PowerAppsi ja Microsoft Flow
+- HTTP-kohandatud toimingud, mis on integreeritud Flow väljaspool SharePoint ja OneDrive
+- Kohapealste andmete integreerimine asutusesisese andmelüüsi kaudu
 
-Nende funktsioonide aktiivsete kasutajatega kliendid saavad automaatse pikendamise kuni 31. jaanuarini, 2020 või olemasoleva Microsoft 365 tellimuse kehtivusaja lõppemisega, olenevalt sellest, kumb on pikem.
+Kliendid, kellel on nende funktsioonide aktiivsed kasutajad, saavad automaatse pikendamise kuni 31. jaanuarini 2020 või nende olemasoleva Microsoft 365 aegumist, olenevalt sellest, kumb tähtaeg on pikem.

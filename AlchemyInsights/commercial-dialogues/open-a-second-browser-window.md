@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0f1e986a7888f374b67c7847de0afad4458a0913
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 402220e15d5fdd077475d86d8486b022a801bda52e1b4f27f1fa385f31316f39
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967401"
 ---
 # <a name="open-a-second-browser-window"></a>Teise brauseriakna avamine
 
 Teise brauseriakna avamiseks tehke järgmist.
 
-1. Veenduge, et esimene brauseriaknas (kui seda loete), veenduge, et domeeni viisard oleks avatud. Kui te ei klõpsanud domeeni viisardi käivitamiseks ülal olevat nuppu, saate minna domeeni viisardisse, minnes **domeenidele > domeeni lisamine**.
+1. Veenduge esimeses brauseriaknas (kus seda loete), et domeeniviisard oleks avatud. Kui te ei klõpsanud ülaltoodud nuppu domeeniviisardi käivitamiseks, saate domeeniviisardi avamiseks valida Domeenid **> Lisa domeen**.
 
-2. Avage teine brauseriaknas. Teises brauseris järgige järgmiseid juhiseid.
+2. Avage teine brauseriaken. Teises brauseris peate järgima järgmisi juhiseid.
