@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92d776675c2c70bfb651ce09e0f2d7b815366f22a87f2e468964fa4971d275f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934901"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>Välise suhtluse lubamine ja kontaktide lisamine
 
-Skype'i ärirakenduses saate lisada inimesi oma kontaktiloendisse, et nad oleks vaid ühe hiirekklõpsuga eemal. Iga uus kontakt lisatakse ühte või mitmesse teie kontaktirühma. Lisateavet [leiate teemast Kontakti lisamine Skype'i](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) ärirakenduses. 
+Kui Skype'i ärirakendus, saate lisada inimesi oma kontaktiloendisse, et nad oleks vaid ühe hiirek klõpsamise kaugusel. Iga uus kontakt lisatakse ühte või mitmesse teie kontaktirühma. Lisateavet [leiate teemast Skype'i ärirakendus](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) kontakti lisamine. 
 
 Veenduge, et teie rentnikuadministraator oleks järginud juhiseid, mis on seotud käsuga [Luba välist suhtlust.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Kas soovite lubada oma kasutajatel pöörduda ainult Skype'i tavakasutajate poole? Vaadake [teemat Skype'i ärirakenduse kasutajatele Skype'i kontaktide lisamise lubamine.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
+Kas soovite lubada kasutajatel pöörduda ainult Skype poole? Lugege [teemat Skype'i ärirakendus kasutajate lisamine Skype kontaktidesse.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 

@@ -1,5 +1,5 @@
 ---
-title: Kasutusõiguste ja nõusolekute tõrkeotsing
+title: Õiguste ja nõusolekute tõrkeotsing
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7782"
-ms.openlocfilehash: a1b2dd99acfce24de00e471dda259598b17b4ee0
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 20abe52d6daa6863ea6f24548d23ab963f63620187c5f67fa9616c0efd428b91
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092982"
 ---
-# <a name="troubleshoot-permissions-and-consents"></a>Kasutusõiguste ja nõusolekute tõrkeotsing
+# <a name="troubleshoot-permissions-and-consents"></a>Õiguste ja nõusolekute tõrkeotsing
 
-1. Lugege seda artiklit [Azure Active Directory nõusoleku raamistiku](https://docs.microsoft.com/azure/active-directory/develop/consent-framework)mõistmiseks.
-1. [Microsofti identiteedi platvormi lõpp-punktides olevad load ja nõusolek](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) hõlmavad selle loa mudeli põhimõisteid (sh ulatused, load ja nõusolek).
-1. Saate teada, kuidas hallata ja hinnata nõusolekut: [hallata taotluste nõusolekut ja hinnata nõusoleku taotlusi](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
-1. [AZURE ad Applicationi nõusoleku kasutamise](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience)kohta lisateabe saamiseks lugege lisateavet Azure Active Directory (Azure AD) rakenduse nõusoleku kasutaja kasutamise kohta.
-1. [Rakenduse nõusoleku andmisel ootamatute tõrgete](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)tõrkeotsing.
+1. Lugege seda artiklit, et mõista [Azure Active Directory nõusoleku raamistikku.](https://docs.microsoft.com/azure/active-directory/develop/consent-framework)
+1. [Microsofti identimisplatvorm](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) lõpp-punkti õigused ja nõusolek hõlmab selle autoriseerimismudeli põhimõisteid (sh ulatused, õigused ja nõusolek).
+1. Saate teada, kuidas hallata ja hinnata nõusolekut: [rakenduste nõusoleku haldamine ja nõusolekutaotluste hindamine.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
+1. [Azure AD rakenduse nõusoleku kasutuskogemuste mõistmine:](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience)lugege lisateavet Azure Active Directory (Azure AD) rakenduse nõusoleku kasutuskogemuse kohta.
+1. Rakendusele [nõusoleku andmisel ootamatute tõrgete tõrkeotsing.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)

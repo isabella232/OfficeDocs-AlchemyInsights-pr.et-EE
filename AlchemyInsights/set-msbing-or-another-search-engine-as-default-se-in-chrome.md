@@ -1,5 +1,5 @@
 ---
-title: Microsoft Bingi või muu otsingumootori määramine Google Chrome ' i vaike-otsingumootorina
+title: Microsoft Bing või muu otsingumootori otsimine Google Chrome'is vaikeotsingumootoriks
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9162"
-ms.openlocfilehash: b19fd9de768a412e8193c09bb445290fac9c407b
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: e74d53c60131bb0571fed1e3b219116733aa79947a4c93772039da3bee0660d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060996"
 ---
-# <a name="set-microsoft-bing-or-another-search-engine-as-the-default-search-engine-in-google-chrome"></a>Microsoft Bingi või muu otsingumootori määramine Google Chrome ' i vaike-otsingumootorina
+# <a name="set-microsoft-bing-or-another-search-engine-as-the-default-search-engine-in-google-chrome"></a>Microsoft Bing või muu otsingumootori otsimine Google Chrome'is vaikeotsingumootoriks
 
-Vaike-otsingumootori määramiseks Google Chrome ' is tehke järgmist.
+Google Chrome'is vaikeotsingumootori häälestamiseks:
 
 1. Avage Google Chrome.
-1. Valige paremas ülanurgas ikoon, mis näitab kolme vertikaalset punkti ja seejärel valige **sätted**.
-1. Valige jaotises **otsingumootor** aadressiribal kasutatava **otsingumootori** kõrval allanool ja seejärel valige **Bing** või muu otsingumootor.
+1. Valige paremas ülanurgas ikoon, kus on kuvatud kolm vertikaalset **Sätted.**
+1. Valige **jaotises Otsingumootor** **aadressiribal** kasutatava otsingumootori kõrval allanool ja seejärel valige **Bing** mõni muu otsingumootor.
 
-Mõne muu otsimootori kui Bingi aktiveerimine ei eemalda Bingi laiendit, nii et saate hõlpsalt otsida tööga seotud sisu laiendiga hüpik kaudu.
+Üleminek muule otsingumootorile peale Bing ei eemalda Bing laiendust, nii et saate tööga seotud sisu otsida ka laiendipõhise hüpiku kaudu.

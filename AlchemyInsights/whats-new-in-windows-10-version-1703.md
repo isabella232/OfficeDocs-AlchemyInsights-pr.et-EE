@@ -1,5 +1,5 @@
 ---
-title: Mis on uut opsüsteemis Windows 10, versioon 1703?
+title: Mis on uut Windows 10 versioonis 1703?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003894"
 - "6948"
-ms.openlocfilehash: b2b8882a3a4c2b527c1a6eb8300b810a539599c8
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 0e4dea85d86d768fce69f3c1aa5269a84d5103f6c908c72928d39bfc9143dd76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970687"
 ---
-# <a name="whats-new-in-windows-10-version-1703"></a>Mis on uut opsüsteemis Windows 10, versioon 1703?
+# <a name="whats-new-in-windows-10-version-1703"></a>Mis on uut Windows 10 versioonis 1703?
 
-Siit saate teada, mis on uut Windows 10 infotehnoloogia (IT) Pro funktsioonide versioonis 1703, mida nimetatakse ka loojate värskenduseks.
+Siit saate teada, milliseid uusi funktsioone pakub itetehnoloogia (IT) pro funktsioonid Windows 10 versioon 1703, mida nimetatakse ka Loojate värskenduseks.
 
-1. [Konfiguratsiooni](https://go.microsoft.com/fwlink/?linkid=2114188)
+1. [Konfiguratsioon](https://go.microsoft.com/fwlink/?linkid=2114188)
 1. [Juurutamine](https://go.microsoft.com/fwlink/?linkid=2114365)    
 1. [Turve](https://go.microsoft.com/fwlink/?linkid=2114366)
-1. [Värskendus](https://go.microsoft.com/fwlink/?linkid=2114189)
-1. [Juhtimise](https://go.microsoft.com/fwlink/?linkid=2114367)
-1. [Windows 10 Mobile ' i täiustused](https://go.microsoft.com/fwlink/?linkid=2114368)
-1. [Miracast olemasolevas raadiovõrgus või LAN-is](https://go.microsoft.com/fwlink/?linkid=2114190)
+1. [Värskendamine](https://go.microsoft.com/fwlink/?linkid=2114189)
+1. [Haldus](https://go.microsoft.com/fwlink/?linkid=2114367)
+1. [Windows 10 Mobile täiustused](https://go.microsoft.com/fwlink/?linkid=2114368)
+1. [Miracast või LAN-i kasutamine olemasolevas raadiovõrgus](https://go.microsoft.com/fwlink/?linkid=2114190)
