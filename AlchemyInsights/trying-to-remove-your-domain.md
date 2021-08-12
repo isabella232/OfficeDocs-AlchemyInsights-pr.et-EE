@@ -12,18 +12,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: dbdcb538a94567f32dee8b135822900ea50f94c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 566073563c6159bfa1d5fb2d2b105ce566accac7fc88f4c90ee1d8d41bbd061e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920535"
 ---
 # <a name="trying-to-remove-your-domain"></a>Kas soovite oma domeeni eemaldada?
 
-Microsoftist domeeni eemaldamiseks järgige selles artiklis toodud juhiseid. [domeeni eemaldamine](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Oma domeeni eemaldamiseks Microsoftist järgige selles artiklis toodud juhiseid. [Domeeni eemaldamine](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   
-Enne domeeni eemaldamist peate värskendama kõik sellele domeeninimele määratud kasutajad või rühmad.
+Enne domeeni eemaldamist peate värskendama kõiki sellele domeeninimele määratud kasutajaid või rühmi.
   
-[Vaadake domeenide artiklit](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) muude levinud lahenduste jaoks.
+[Muude levinud lahenduste leidmiseks vaadake](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) domeenide artiklit.
   

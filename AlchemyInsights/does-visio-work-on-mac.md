@@ -1,5 +1,5 @@
 ---
-title: Kas Visio töötab Mac-arvutis
+title: Kas Visio töötab Mac-arvutis?
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: be1ebb680a99c1a91fa6c9a4272ec28786c87bda
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a6f8925d89582942c05596ea0431eee3fc71c9e8c15fdc555dbbeaa7790d976
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965205"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Kas Visio töötab Mac-arvutis?
+# <a name="does-visio-work-on-a-mac"></a>Kas Visio mac-arvutis?
 
-Mac-arvuti jaoks Visio töölauaversiooni ei ole. Kui aga rakendust vajav kasutaja on [määranud Visio online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)' i litsentsi, saavad nad veebibrauseris Visio veebirakenduses [vaadata, luua ja redigeerida skeeme](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) .
+Mac-arvuti jaoks Visio töölauaversiooni ei ole. Kui aga kasutajale, kes rakendust vajab, [on määratud Visio Online'i](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)litsents, saab ta [veebibrauseris Visio Online'is](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) diagramme vaadata, luua ja redigeerida.
   
   

@@ -1,5 +1,5 @@
 ---
-title: SharePointi saidikogumis pole Project Web App puudu
+title: Project Veebirakendus puudub SharePoint saidikogumist
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973081"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>SharePointi saidikogumis pole Project Web App puudu
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Veebirakendus puudub SharePoint saidikogumist
 
-Project Web App võib puududa SharePointi saidikogumi järgmistest põhjustest.
+Project Web App ei pruugi SharePoint saidikogumist puududa järgmistel põhjustel.
 
-1. Organisatsioonidel on ainult Project Online Essentialsi litsents (ID). Administraatorid peavad lisama Project Online Professional ja/või Premium litsentsi. Sait tuleb sellest kohast kirjutuskaitstud. Lisateavet leiate teemast [projekti halduse lahenduste võrdlus](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Rentnik on tuvastanud ettevalmistamise probleemi, mille korral on Project Web Appi saidi ettevalmistamine edasi lükatud. Kui möödunud on rohkem kui 24 tundi ja teil on endiselt probleeme, logige sisse tugiteenuste pilet. Mõistame, et 24 tundi võib tunduda pikk aeg. Paljudel juhtudel oleme juba lahendusega töötanud. Lahenduse lõpetamiseks andke meile vähemalt 24 tundi.
+1. Ettevõtetel on Project Online Essentials litsents(id). Administraatorid peavad lisama Project Online Professional ja/või Premium litsentsi. Sait on sel hetkel kirjutuskaitstud. Lisateavet leiate teemast Project [Management Solutions](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
+2. Rentnikul on tekkinud ettevalmistamise probleem, mille korral Project Web Appi saidi ettevalmistamine on viibinud. Kui möödunud on rohkem kui 24 tundi ja teil on probleem alles, logige sisse tugiteenusepilet. Mõistame, et 24 tundi võib tunduda pika ajana. Paljudel juhtudel töötame juba lahenduse kallal. Lahenduse lõpuleviimiseks andke meile vähemalt 24 tundi.

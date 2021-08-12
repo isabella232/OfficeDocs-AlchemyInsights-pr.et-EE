@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5780"
 - "9002971"
-ms.openlocfilehash: b691b9a5136c0307a739064a2b36407e349a720b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6e3566649b275a723c6c9423fd0400a12b1c6ae02e8e712eb0acc611720c72d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940707"
 ---
 # <a name="task-list"></a>Tööülesannete loend
 
-SharePointi ülesandeloendis kuvatakse projektiga seotud ülesannete kogum. Pärast SharePointi ülesandeloendi loomine saate lisada tööülesandeid, määrata ülesannetele ressursse, värskendada ülesannete edenemist ja vaadata ülesandeteavet ajaskaalal kuvatavates ribades. Lugege [teemat Ülesandeloendi loomine ja haldamine.](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)  
+SharePoint ülesandeloendis kuvatakse projektiga seotud ülesannete kogum. Pärast ülesandeloendi SharePoint saate lisada tööülesandeid, määrata ülesannetele ressursse, värskendada ülesannete edenemist ja vaadata ülesandeteavet ajaskaalal kuvatavates ribades. Lugege [teemat Ülesandeloendi loomine ja haldamine.](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)  
 
 -   Ülesandeloend pole veel valmis, et seda nüüdisaegses kasutajaliideses kuvada, seega jätkake ülesandeloendite jaoks klassikalise kasutuskogemuse kasutamist, vt [Modernloendite ja teekide kasutamise maksimeerimine.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
--   SharePointiga sünkroonimise funktsiooni abil saab Project Manager jagada MPP-projektifaili Microsoft SharePointi kasutajatega. Project Manager peab kuuluma selle emasaidikogumi SharePointi omanike rühma (või vähemalt kujundajaõigused), kus uus või olemasolev sait asub. Lugege [teemat SharePointi tööülesannete loendi sünkroonimine Project Professionali kaudu.](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project)
+-   Funktsioon Sünkrooni SharePoint võimaldab Project halduril jagada MPP-projektifaili Microsoft SharePoint kasutajatega. Project Manager peab olema osa SharePoint omanike rühmast (või vähemalt kujundajaõigused) emasaidikogumis, kus uus või olemasolev sait asub. Lugege [teemat SharePoint ülesannete loendiga Project Professional](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project).

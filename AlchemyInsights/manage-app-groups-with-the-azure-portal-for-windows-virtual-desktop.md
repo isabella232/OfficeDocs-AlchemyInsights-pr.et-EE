@@ -1,5 +1,5 @@
 ---
-title: Rakenduse rühmade haldamine Windows Virtual Desktopi Azure ' i portaali abil
+title: Rakenduserühmade haldamine Azure'i portaali abil Windows Virtual Desktop
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912054"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Rakenduse rühmade haldamine Windows Virtual Desktopi Azure ' i portaali abil
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Rakenduserühmade haldamine Azure'i portaali abil Windows Virtual Desktop
 
-Uue Windowsi virtuaalse töölaua hosti kogumi jaoks loodud vaike-rakenduse rühm avaldab ka täieliku töölaua. Lisaks võimaldab Azure ' i portaali kaudu luua ühe või mitu RemoteAppi rakenduse rühma hosti puuli jaoks.
+Uue virtuaaltöölaua hostikausta jaoks loodud vaikerakenduserühm Windows avaldab ka täistöölaua. Lisaks saate Azure'i portaali abil luua hostikausta jaoks ühe või mitu RemoteAppi rakenduserühma.
 
-Juurutamise käigus tehakse järgmist.
+Juurutamine toimub järgmiselt.
 
-1. Saate luua RemoteAppi rakenduse rühma.
-2. Saate valitud rakendused lisada rakenduste rühma.
-3. Kasutajate või kasutajarühmade avaldamine rakenduste rühmas.
-4. Kui otsustate seda teha, registreerige rakenduse rühm.
-5. Looge link Azure Resource Manageri mallile vastavalt teie konfiguratsioonile, mille saate alla laadida ja salvestada.
+1. Looge RemoteAppi rakenduserühm.
+2. Lisage valitud rakendused rakenduserühma.
+3. Üksikute kasutajate või kasutajarühmade avaldamine rakenduserühmas.
+4. Registreerige rakenduserühm, kui otsustate seda teha.
+5. Looge azure'i ressursihalduri malli link vastavalt oma konfiguratsioonile, mille saate alla laadida ja salvestada.
 
-Windows Virtual Desktopi RemoteAppi rühma loomiseks järgige juhiseid jaotises [Manage app groups Azure ' i portaalis](https://go.microsoft.com/fwlink/?linkid=2129550).
+RemoteAppi rühma loomiseks virtuaalse Windows jaoks järgige juhiseid jaotises [Rakenduserühmade haldamine Azure'i portaali abil.](https://go.microsoft.com/fwlink/?linkid=2129550)

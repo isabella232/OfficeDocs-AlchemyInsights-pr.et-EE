@@ -1,5 +1,5 @@
 ---
-title: Klassikalise saidi vahetamine moodsa saidiga
+title: Klassikalise juursaidi vahetamine modernsaidiga
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940815"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klassikalise saidi vahetamine moodsa saidiga
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Klassikalise juursaidi vahetamine modernsaidiga
 
-Kui teie keskkond oli häälestatud enne 2019 aprillini, saate Microsoft PowerShelli abil muuta oma juure modernseks saidiks.
+Kui teie keskkond oli häälestatud enne 2019. aasta aprilli, saate juursaidi microsoft PowerShelli abil muuta modernsaidiks.
 
-- Kui teil on mõni muu sait, mida soovite kasutada oma juure saidina, saate selle [saidi asendada (swap)](https://docs.microsoft.com/sharepoint/modern-root-site) . 
-    - Kasutage [SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) , et vahetada saidi asukoht teise saidiga, arhiivides algse saidi. Saadaval nii meeskonnatöö saidi jaoks (pole rühmaga ühendatud) kui ka kommunikatsiooni saidil. 
+- Kui teil on muu sait, mida soovite juursaidina kasutada, saate juursaidi asendada [(vahetada).](https://docs.microsoft.com/sharepoint/modern-root-site) 
+    - Kasutage [invoke-SPOSiteSwapi,](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) et vahetada saidi asukoht teise saidiga algse saidi arhiivimise ajal. Saadaval nii meeskonnatöö saidi (pole rühmaga ühendatud) kui ka suhtlussaidi jaoks. 
 
-- Lisavõimalused võetakse kasutusele varsti, mis võimaldab teil saidil olevat sisu kasutada, kuid olemasoleva saidi saidiks teisendada. 
+- Peagi tutvustatakse täiendavaid võimalusi, mis võimaldavad teil saidi sisu edasi kasutada, kuid teisendada olemasoleva saidi suhtlussaidiks. 
 >[!Important]
->Need võimalused on järk-järgult rullitud. Jätkake värskenduste otsimist. 
+>Need võimalused on järk-järgult välja tõstnud. Jätkake sõnumikeskuse värskenduste otsimist. 
 
-## <a name="known-issues-with-swapping-sites"></a>Saidid vahetamise teadaolevad probleemid
+## <a name="known-issues-with-swapping-sites"></a>Teadaolevad probleemid saitide vahetamisega
 
-- Sihtkaust võib tagastada lühikese aja jooksul tõrketeate "ei leitud" (HTTP 404).
-- Otsingu indeksi värskendamiseks tuleb sisu uuesti analüüsida. Käsitsi tehtavaid juhiseid pole vaja – seda tehakse automaatselt.
-- Midagi, mis sõltub staatilisest lingist (nt failide sünkroonimine ja OneNote ' i failid), tuleb käsitsi parandada.
-- Kui lähteteksti sait oli ettevõtte uudiste sait, värskendage URL-i.Hankige kõigi organisatsiooniliste uudiste saitide loend.
-- Võimalik, et Project Serveri saidid peavad olema valideeritud, et veenduda, et need on endiselt õigesti seotud.
+- Sihtsaidil võib lühikese aja jooksul tagastada tõrke "ei leitud" (HTTP 404).
+- Otsinguregistri värskendamiseks tuleb sisu uuesti joonistada. Käsitsi pole vaja teha – seda tehakse automaatselt.
+- Kõik,mis sõltub "staatilistest" linkidest (nt failisünkroonimine OneNote failid), tuleb käsitsi parandada.
+- Kui lähtesaidiks oli organisatsiooni uudiste sait, värskendage URL-i. Hankige kõigi organisatsiooni uudistesaitide loend.
+- Project Võimalik, et serverisaidid tuleb valideerida, et veenduda, et need on endiselt õigesti seostatud.
