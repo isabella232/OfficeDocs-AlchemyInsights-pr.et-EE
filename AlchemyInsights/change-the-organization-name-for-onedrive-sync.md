@@ -1,5 +1,5 @@
 ---
-title: OneDrive'i sünkroonimisrakenduse ettevõtte nime muutmine
+title: Ettevõtte nime muutmine OneDrive'i sünkroonimisrakendus klientrakenduses
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 217998f1c2912d74c89c676e4375769d2c0eb3f5b8e5df303071bc3c51ef74d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916843"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>OneDrive'i sünkroonimisrakenduse ettevõtte nime muutmine
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Ettevõtte nime muutmine OneDrive'i sünkroonimisrakendus klientrakenduses
 
-OneDrive kasutab rentnikuadministraatori määratud ettevõtte nime.  Saate [muuta oma asutuse aadressi, tehnilist kontakti ja muud.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) Kui see muudatus on rentniku jaoks tehtud, ei kajasta OneDrive'i sünkroonimisrakendus uut nime enne, kui kasutajad on oma OneDrive'i konto linkimise tühistanud ja uuesti linkinud.
+OneDrive kasutab rentnikuadministraatori määratud organisatsiooni nime.  Saate [muuta oma asutuse aadressi, tehnilist kontakti ja muud.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) Kui rentniku jaoks on muudatus tehtud, OneDrive'i sünkroonimisrakendus klientrakendus uut nime enne, kui kasutajad on oma konto linkimise tühistanud ja OneDrive uuesti linkinud.
 
 Konto linkimise tühistamiseks:
 
-1. Valige tegumiribast paremal paremal sinine OneDrive'i pilveikoon ja seejärel  **valige Rohkem > Sätted > Konto**.
+1. Valige tegumiribast OneDrive paremal sinine pilveikoon ja seejärel valige **Rohkem > Sätted > Konto**.
 2. Otsige üles konto, mille soovite linkimise tühistada, ja valige Tühista selle arvuti  **linkimine** ja seejärel  **Tühista konto linkimine**.
 
-Konto uuesti linkimiseks **valige** menüü Konto  jaotises Sätted nupp Lisa konto ja logige uuesti OneDrive'i sisse.
+Konto uuesti linkimiseks **valige** menüü Konto  jaotises Konto nupp Lisa Sätted logige uuesti OneDrive.

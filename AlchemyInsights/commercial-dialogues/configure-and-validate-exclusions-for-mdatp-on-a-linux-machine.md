@@ -1,5 +1,5 @@
 ---
-title: Linuxi seadmes MDATP erandite konfigureerimine ja valideerimine
+title: MDATP välistamiste konfigureerimine ja valideerimine Linuxi seadmes
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746019"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916411"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Linuxi seadmes MDATP erandite konfigureerimine ja valideerimine
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>MDATP välistamiste konfigureerimine ja valideerimine Linuxi seadmes
 
-Saate välistada teatud failid, kaustad, protsessid ja protsessis avatud failid MDATP skannimise kaudu. Välistused aitavad vältida tarkvara ja failide vale tuvastamist, mis on teie asutuse jaoks kordumatu või kohandatud. Erandid aitavad leevendada ka MDATP põhjustatud jõudluse probleeme.
+Teatud failid, kaustad, protsessid ja protsessiga avatud failid saate MDATP-kontrollist välja jätta. Välistamised aitavad vältida teie asutuse jaoks kordumatute või kohandatud tarkvara ja failide valet tuvastamist. Välistamised aitavad leevendada ka MDATP-st tingitud jõudlusprobleeme.
 
-Lisateavet leiate teemast [MDATP jaoks mõeldud erandite konfigureerimine ja valideerimine](https://go.microsoft.com/fwlink/?linkid=2144517).
+Lisateavet leiate teemast [Välistuste konfigureerimine ja valideerimine Linuxi jaoks MDATP jaoks.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
 > [!IMPORTANT]
-> Selles artiklis kirjeldatud erandid ei kehti muude MDATP jaoks, sh lõpp-punkti tuvastamine ja reageerimine (EDR). Selles artiklis kirjeldatud meetodite abil välistavad failid võivad endiselt esile kutsuda ka EDR ning muid tuvastuse võimalusi.
+> Selles artiklis kirjeldatud välistamised ei kehti linuxi MDATP muude võimaluste (sh Lõpp-punkti ohutuvastus ja -kõrvaldus (lõpp-punkti ohutuvastus ja -kõrvaldus) kohta. Failid, mille välistate selles artiklis kirjeldatud meetodite abil, võivad siiski käivitada lõpp-punkti ohutuvastus ja -kõrvaldus ja muud tuvastamisvõimalused.

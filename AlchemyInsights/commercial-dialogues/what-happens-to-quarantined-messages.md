@@ -1,5 +1,5 @@
 ---
-title: Mis juhtub karantiinis olevate sõnumitega?
+title: Mis juhtub karantiini pandud sõnumitega?
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966573"
 ---
-# <a name="what-happens-to-quarantined-messages"></a>Mis juhtub karantiinis olevate sõnumitega?
+# <a name="what-happens-to-quarantined-messages"></a>Mis juhtub karantiini pandud sõnumitega?
 
-Kui otsustate midagi teha, kustutatakse sõnum Office 365 automaatselt pärast aegumist. Pidage meeles järgmist.
+Kui otsustate midagi teha, kustutab Office 365 automaatselt. Pange tähele järgmist.
 
-1. Vaikimisi hoitakse rämpsposti, hulgi-ja ründevara ning andmepüügi sõnumeid 15 päeva jooksul karantiinis.
-2. Karantiinis olev sõnum, mis vastab meilivoo reeglile, hoitakse 7 päeva karantiinis (te ei saa seda kohandada).
-3. Kui Office 365 kustutab sõnumi karantiinist, ei saa te seda enam tagasi.
-4. Kui soovite, saate muuta karantiinis olevate sõnumite ooteaeg, kasutades selleks funktsiooni Säilita rämpsposti (päevades), mis on teie sisu filtri poliitikas.
+1. Vaikimisi hoitakse rämpsposti, hulgi-, ründevara- ja andmepüügisõnumeid karantiinis 15 päeva.
+2. Karantiinis sõnumit, mis vastab meilivoo reeglile, hoitakse karantiinis 7 päeva (seda ei saa kohandada).
+3. Kui Office 365 kustutab sõnumi karantiinist, ei saa te seda tagasi.
+4. Soovi korral saate karantiinis sõnumite säilitusperioodi muuta, kasutades sisufiltri poliitikates sätet Säilita rämpsposti (päevade eest).
