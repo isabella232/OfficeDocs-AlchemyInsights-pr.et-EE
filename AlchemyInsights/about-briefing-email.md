@@ -1,5 +1,5 @@
 ---
-title: Meilisõnumite tutvustus
+title: Teave meilisõnumite briifingu kohta
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955854"
 ---
-# <a name="about-briefing-email"></a>Meilisõnumite tutvustus
+# <a name="about-briefing-email"></a>Teave meilisõnumite briifingu kohta
 
-Lisateavet koosoleku kohta leiate teemast [meilisõnumite ülevaate tutvustus](https://docs.microsoft.com/briefing/be-overview).  
+Lisateavet teabe briifingu kohta leiate teemast [Meiliülevaate ülevaade](https://docs.microsoft.com/briefing/be-overview).  
 
-See funktsioon on praegu rullitakse, nii et teie organisatsioon ei pruugi saada briefing e-posti isegi siis, kui teil on lubatud. Pange tähele, et kasutajad ei saa iga päev saada ülevaate meilisõnumeid. Meilisõnumeid saadetakse ainult siis, kui kasutajal on selle konkreetse päeva kohta vähemalt ühe toiminguga soovitus. Lisateavet leiate teemast [korduma kippuvad küsimused meilisõnumite saatmiseks](https://docs.microsoft.com/briefing/be-faqs).
+See funktsioon on praegu välja antud, nii et teie ettevõte ei pruugi saada briifingumeili isegi siis, kui teil on briifing lubatud. Pange tähele, et kasutajatele ei ole tagatud, et nad saavad iga päev briifingumeili. Meilisõnumid saadetakse ainult siis, kui kasutajal on selle päeva jaoks vähemalt üks toimingusoovitus. Lisateavet leiate teemast [Teabetunni meilisõnumi korduma kippuvad küsimused.](https://docs.microsoft.com/briefing/be-faqs)

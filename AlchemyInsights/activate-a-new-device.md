@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 85aa0ad68929eca77aa7adfb1031d91b0e9d46c77f6820ee52a7848cd4a19211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938475"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Windows 10-ga uue seadme aktiveerimine
+# <a name="activating-a-new-device-running-windows-10"></a>Uue seadme aktiveerimine, kus töötab Windows 10
 
-Kui ostsite uue seadme, milles töötab Windows 10, aktiveeritakse see automaatselt, kui ühendate oma seadme Internetiga. Kui aktiveerimisserverid on hõivatud, peate võib-olla ootama, kuni Windows aktiveeritakse.
+Kui ostsite uue seadme, kus Windows 10, aktiveeritakse see automaatselt, kui ühendate oma seadme Internetiga. Kui aktiveerimisserverid on hõivatud, peate võib-olla ootama, Windows aktiveerimiseks.
 
-Aktiveerimisoleku märkimiseks valige **Start** **Settings** Update  >  **& Security** Activation  >  **(Aktiveeri).**
+Aktiveerimisoleku märkimiseks valige **Start** **Sätted** Update & Security Activation  >  **(Turbeaktiveerimine).**  >  
 
 **Märkus.** Mõnel juhul peate võib-olla sisestama Windows 10 tootevõtme, mis oli kaasas seadme pakendiga või mis oli kaasas kaardina või seadmega ühendatud autentsussert (COA).
 
-[Lisateave Windows 10 aktiveerimise kohta](https://support.microsoft.com/help/12440)
+[Lisateave aktiveerimise kohta Windows 10](https://support.microsoft.com/help/12440)

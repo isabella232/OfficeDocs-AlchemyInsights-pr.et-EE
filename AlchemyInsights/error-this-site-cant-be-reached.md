@@ -1,5 +1,5 @@
 ---
-title: Selle saidiga ei saa ühendust luua – tõrge, kui proovite pääseda juurde SharePointi saidile Brauserist või meeskonnast
+title: Sellele saidile ei pääse juurde – tõrge, kui proovite brauserist või SharePoint saidilt Teams
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005378"
 - "9266"
-ms.openlocfilehash: 451544fb85522e0eececc9274825805699685ee9
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 5f8861e85df21082329273237679e26a1b31ce694e11ad6407d4690d7caf2fc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946647"
 ---
-# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Tõrketeade "selle saidiga ei saa ühendust luua", kui proovite pääseda juurde SharePointi saidile Brauserist või meeskonnast
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Tõrge "Sellele saidile ei pääse juurde", kui proovite brauserist või SharePoint saidilt Teams
 
-Kui proovite SharePointi saidile Brauserist või meeskonnast juurde pääseda, võidakse kuvada tõrketeade "selle saidiga ei saa ühendust luua". 
+Kasutajatele võidakse kuvada tõrketeade "Sellele saidile ei pääse juurde", kui nad proovivad SharePoint või brauseri kaudu Teams. 
 
-Probleemi lahendamiseks tehke järgmist. 
+Probleemi lahendamiseks: 
 
-1. Kontrollige, kas avalehel on prügikast või teise astme Prügikast ja leht taastada.
+1. Kontrollige, kas avaleht on prügikastis või teise astme prügikastis ja taastage leht.
 
-**Proovi otse** prügikasti URL: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**Otse-URL-i näidis prügikasti:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
 
-1. Kui avalehe eemaldatakse prügikastist jäädavalt, looge saidi lehtede teegist uus sait ja muutke see avaleheks. 
+1. Kui avaleht eemaldatakse prügikastist jäädavalt, looge teegis Saidilehed uus saidileht ja tehke sellest avaleht. 
 
-**Proovi otsest URL-i**: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**Otse-URL-i näidis:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx

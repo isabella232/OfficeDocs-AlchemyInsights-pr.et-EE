@@ -1,5 +1,5 @@
 ---
-title: Tellimuse/konto keelatud reegel
+title: Tellimus/konto keelatud reegel
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: 6a350c6bca18306e64f647cfa3a7f14fa204109b
-ms.sourcegitcommit: 9626d39e5891f83774ba31574a00b0bae92ad442
+ms.openlocfilehash: 8918b0da0172e0421ade6f0cca936e14d1d609896bc4c75c5a8491c0dbe75aff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48758578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938439"
 ---
-# <a name="azure-subscription-disabled"></a>Azure ' i tellimus on keelatud
+# <a name="azure-subscription-disabled"></a>Azure'i tellimus on keelatud
 
-Teie Azure ' i tellimust saab keelata, kuna teie krediit on aegunud, teie kulutuste limiit on ületatud, arve on ületatud, teie krediitkaardi limiit on täis või kuna konto administraator tühistas tellimuse. Vaadake allpool, kuidas saate oma tellimust uuesti lubada. Lisateave: [Azure ' i tellimuse uuesti aktiveerimine](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Teie Azure'i tellimust saab keelata, kuna teie krediit on aegunud, olete ületanud oma kulutuste limiidi, teil on tähtaja ületanud arve, olete krediitkaardi limiidi ületanud või konto administraator tühistas tellimuse. Lugege allolevat teavet selle kohta, kuidas saate tellimuse uuesti lubada. Lisateave: [Azure'i tellimuse uuesti aktiveerumine](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Azure ' i tellimuse uuesti lubamine (tellimus tühistati kogemata)** [Konto administraator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) saab konto keskuses tühistatud makse-ja-paketti uuesti aktiveerida.
+**Azure'i tellimuse uuesti lubamine (tellimus tühistati kogemata)** Konto [administraator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) saab kontokeskuses tühistatud pay-as-you-go tellimuse uuesti aktiveerida.
 
-1. Logige sisse [konto keskele](https://account.windowsazure.com/Subscriptions).
-2. Valige tühistatud tellimus. Klõpsake nuppu **Aktiveeri uuesti** .
+1. Logige sisse [kontokeskusesse.](https://account.windowsazure.com/Subscriptions)
+2. Valige tühistatud tellimus. Klõpsake **nuppu Aktiveeri uuesti.**
 
-Muude tellimuste tüüpide korral [võtke ühendust toega](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) , et teie tellimus oleks uuesti aktiveeritud.
+Muude tellimusetüüpide korral pöörduge [tellimuse](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) uuesti aktiveerimiseks tugiteenuste poole.
 
 **Aegunud krediitkaart**
 
-Kui registreerute **Azure ' i tasuta konto** kasutajaks, saate tasuta prooviversiooni tellimuse, mis pakub teile $200 Azure ' i krediitides 30 päeva ja 12 kuu jooksul tasuta teenuseid. 30 päeva lõpus keelab Azure teie tellimuse. Sinu pakett on keelatud, et kaitsta sind juhusliku kulumise eest, mis ületab krediidi ja sinu tellimusega kaasas olevad tasuta teenused. Azure ' i teenuste kasutamise jätkamiseks peate [oma tellimusele üleminekut](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)jätkama. Pärast üleminekut on sinu tellimusele endiselt juurdepääs 12 kuuks tasuta teenustele. Peale tasuta teenuste ja koguste saab tasuda ainult kasutuselt.  
-Lisateave: [aegunud krediitkaart](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
+Kui registreerute **Azure'i** tasuta konto kasutajaks, saate tasuta prooviversiooni tellimuse, mis annab teile Azure'i krediiti 30 päeva ja 12 kuu tasuta teenuste eest 200 $ eest. 30 päeva lõpus keelab Azure teie tellimuse. Teie tellimus on keelatud, et kaitsta teid kogemata tasu eest, mis on seotud teie tellimusega hõlmatud krediidi- ja tasuta teenustega. Azure'i teenuste kasutamise jätkamiseks peate [oma tellimust täiendama.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support) Pärast versioonitäiendust on teie tellimusel 12 kuu jooksul juurdepääs tasuta teenustele. Teilt võetakse tasu ainult tasuta teenuste ja koguste kasutamise eest.  
+Lisateave: [Aegunud krediitkaart](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
 
-**Kulutuste limiit on saavutatud**
+**Kulutuste piirmäär on saavutatud**
 
-Kui teie kasutus ulatub kulutuste limiidini, keelab Azure teie tellimuse ülejäänud selle arvelduse perioodi jaoks. Sinu pakett on keelatud, et kaitsta sind juhusliku kulumise eest, mis ületab sinu tellimusega kaasas olevat krediiti. Kui soovite oma kulutuste limiidi eemaldada, lugege teemat [Azure ' i kulutuste limiit](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
-Lisateave: [kulutuste limiidi ületamine](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
+Kui teie kasutuslimiit on ületatud, keelab Azure teie tellimuse ülejäänud arveldusperioodiks. Teie tellimus on keelatud, et kaitsta teid kogemata kasutustasude eest, mis ületavad teie tellimusega seotud krediiti. Kululimiidi eemaldamiseks lugege teemat [Azure'i kulutuste piirmäär.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)  
+Lisateave: [kululimiidini jõudmine](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
-**Arve tähtaja ületamine**
+**Tähtajast möödunud arve**
 
-Varasema tähtaja lahendamiseks lugege teemat [Azure ' i tellimuse pärast meilisõnumite hankimist Azure ' i tellimuse lahendamine](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support).
+Tähtaja möödunud saldo lahendamiseks lugege teemat Azure'i tellimuse tähtajast möödunud saldo lahendamine [pärast Azure'ilt meilisõnumi saamist.](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Arve ületab krediitkaardi limiiti**
+**Arve ületab teie krediitkaardi limiidi.**
 
-Probleemi lahendamiseks [aktiveerige mõni muu krediitkaart](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Kui esindate mõnda ärisuhet, saate [tasuda arve alusel](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
+Selle probleemi lahendamiseks [aktiveerige muu krediitkaart.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support) Kui esindate ettevõtet, saate [tasuda arve alusel.](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Märkus** : uue tellimuse aastapäeva (sa) kuupäev määratakse uuesti lubatud tellimustele. Tellimuse peatamise päeva (intervalli) päevade arv lisatakse algsele TARKVARAKINDLUSTUSE kuupäevale. Igal tähtpäeval, mis on seotud 29, 30 või 31-ga, lisatakse selle kuupäeva seisuga järgmise kuu 1.  
-Nt
+**Märkus.** Uus tellimuse aastapäeva (SA) kuupäev määratakse uuesti lubatud tellimustele. Päevade arv (intervall), mille jooksul tellimus peatati, lisatakse algsele SA-kuupäevale. 29., 30. või 31. aastapäevade kuupäevale määratakse järgmise kuu esimene kuupäev.  
+Näide:
 
-- Teie algne pakett-aastapäev on 25;
-- Pakett on peatatud 10/3 ja uuesti sisse lülitatud 10/9;
-- Pakett oli keelatud 6 päeva jooksul (intervall 6);
-- Seejärel lisatakse intervall algsele SA ja summa muutub uueks SA kuupäevaks (25 + 6 = 31). 
+- Teie algne tellimuse aastapäev on 25.
+- Tellimus peatati 10.03 ja lubati uuesti 10/9;
+- Tellimus keelati 6 päeva (6-intervalliga);
+- Seejärel lisatakse intervall algsesse SA-sse ja summast saab uus SA-kuupäev (25+6=31). 
 
-**Märkus** : selle näite puhul, kuna tarkvarakindlustuse kuupäev on nüüd suurem kui 28, on uus kuupäev järgmise kuu 1.
+**Märkus.** Selles näites, kuna SA-kuupäev on nüüd suurem kui 28, on uueKS KUUPÄEVAks järgmise kuu esimene kuupäev.
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Vaheta paketti](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Tellimuse vahetamine](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [Tellimuse tühistamine](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
-- [Azure ' i turuplats](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
-- [Konto administraatori](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) leidmine
-- [Mida teha, kui minu Azure ' I tellimus keelatakse?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure ' i kulutuste limiit](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure'i turuplats](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
+- [Kontoadministraatori administraator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- [Mida teha, kui Azure'i tellimus keelatakse?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure'i kulutuste piirmäär](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)

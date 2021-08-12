@@ -1,5 +1,5 @@
 ---
-title: 1815 ühiskasutatava postkasti mahu suurendamine
+title: 1815 Ühispostkasti mahu suurendamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912738"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a>Ühiskasutuses postkasti mahu suurendamine
+# <a name="increase-the-size-of-a-shared-mailbox"></a>Ühispostkasti mahu suurendamine
 
-Ühiskasutatava postkasti mahu suurendamiseks saate 50 GB kuni 100 GB suurust suurendada, kui määrate ühiskasutuses postkastile Exchange Online ' i P2 litsentsi (mis sisaldub E3 ja E5 litsentsides). Kui määrate [aktiivses kasutajate](https://portal.office.com/adminportal/home)ühiskasutatavale postkastile P2 litsentsi, suurendatakse selle suurust automaatselt 15 minuti jooksul.
+Ühispostkasti vaikemahust 50 GB kuni 100 GB saate suurendada, määrates ühispostkastile Exchange Online P2 litsentsi (mis sisaldub E3 ja E5 litsentsides). Kui määrate P2-litsentsi aktiivsete [](https://portal.office.com/adminportal/home)kasutajate ühispostkasti, suurendatakse mahtu automaatselt 15 minuti jooksul.

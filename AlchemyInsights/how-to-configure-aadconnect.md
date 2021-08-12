@@ -1,5 +1,5 @@
 ---
-title: 646 Aadconnecti konfigureerimine
+title: 646 AADConnecti konfigureerimine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,25 +13,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5fa5fd7586f999698fe43554fb9a2b205be3e25740c20763254a38d41297e0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963639"
 ---
-# <a name="configure-sync-features"></a>Sünkroonimise funktsioonide konfigureerimine
+# <a name="configure-sync-features"></a>Sünkroonimisfunktsiooni konfigureerimine
 
-Azure AD Connect sisaldab mitmeid funktsioone, mis on vaikimisi lubatud või mida saate hiljem lubada. Mõned funktsioonid vajavad teatud keskkondades täiendavat konfiguratsiooni.
+Azure AD Ühendus sisaldab mitut funktsiooni, mis on vaikimisi lubatud või mille saate hiljem lubada. Mõnede funktsioonide jaoks on vaja teatud keskkondades täiendavat konfigureerimist.
 
-- [Filtreerimine](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) piirab objektide sünkroonimist Azure AD-ga. Vaikimisi sünkroonitakse kõik kasutajad, kontaktid, rühmad ja Windows 10 arvuti kontod. Saate objekte lisada või välistada domeenide, objektide või muude atribuutide põhjal.
+- [Filtreerimine](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) piirab objektide sünkroonimist Azure AD-ga. Vaikimisi sünkroonitakse kõik kasutajad, kontaktid, rühmad Windows 10 kontod. Objekte saate kaasata või välistada domeenide, OU-de või muude atribuutide põhjal.
 
-- [Parool Hash sünkroonimine](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sünkroonib parool Hash kohapealse Active DIRECTORY Azure AD. See lubab ühes kohas kasutada parooli, kuid sama parooli kasutamine nii kohapealses kui ka pilveteenuse keskkonnas. Kuna Active Directory on autoriteetne allikas, saate kasutada oma parooli poliitikaid.
+- [Paroolisortsünkroonimine](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sünkroonib paroolisort asutusesiseseSt Active Directoryst Azure AD-ga. See võimaldab paroolihaldust ühes kohas, kuid sama parooli saab kasutada nii kohapeal kui ka pilvekeskkonnas. Kuna Active Directory on autoriteetne allikas, saate kasutada oma paroolipoliitikaid.
 
-- [Iseteeninduskeskuse parooli lähtestamine (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) võimaldab kasutajatel oma paroole pilve lähtestada, rakendades samal ajal ka kohapealset parooli poliitikat.
+- [Iseteeninduse parooli lähtestamine (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) võimaldab kasutajatel lähtestada oma paroolid pilveteenuses, rakendades samal ajal teie kohapealse paroolipoliitika.
 
-- [Seadme tagasikirjutusega](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) võimaldab Azure AD registreeritud seadmetel kirjutada tagasi kohapealsesse Active Directorys, et neid saaks kasutada tingimusjuurdepääsu jaoks.
+- [Seadme tagasikirjutus](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) võimaldab Azure AD registreeritud seadmetel uuesti asutusesisesesse Active Directorysse kirjutada, et neid saaks kasutada tingimusjuurdepääsuks.
 
-- [Juhuslike kustutamise vältimine](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) on vaikimisi lubatud, et vältida liiga palju üheaegsete objektide kustutamist (rohkem kui 500 objekti sünkroonimise kohta). Seda seadet saate muuta oma asutuse vajaduste täitmiseks.
+- [Juhuslike kustutamiste](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) keelamine on vaikimisi lubatud, et vältida liiga palju samaaegseid objektide kustutamist (üle 500 objekti sünkroonimise kohta). Seda sätet saate muuta vastavalt oma asutuse vajadustele.
 
-- [Automaatne täiendamine](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) on vaikimisi lubatud, sest see on mõeldud vaikimisi ja aitab tagada, et teie Azure AD Connecti versioon on alati aktiivne.
+- [Automaatne versioonitäiendus](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) on kiirinstallide korral vaikimisi lubatud ja see aitab tagada, et teie Azure AD Ühendus oleks alati ajas.

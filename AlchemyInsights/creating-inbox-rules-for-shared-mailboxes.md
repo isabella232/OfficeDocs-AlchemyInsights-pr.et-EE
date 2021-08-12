@@ -1,5 +1,5 @@
 ---
-title: Sisendkausta reeglite loomine ühiskasutuses postkastide jaoks
+title: Ühispostkastide sisendkaustareeglite loomine
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 6398367ac94a1d3cf4f03165c4d4decb7ff9beb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e5e4a0aabb76123ea98b91f84a76d56132695c2361f125b769a6f7fff7bdbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929265"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Sisendkausta reeglite loomine ühiskasutuses postkastide jaoks
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Ühispostkastide sisendkaustareeglite loomine
 
-Saate lisada ühiskasutatavale postkastile reegleid, millele pääsete juurde sarnaselt sellele, kuidas reegleid oma kontole lisada.
+Ühispostkasti reegleid saate lisada samamoodi nagu oma kontole reeglite lisamisega.
   
-Veenduge, et olete vastavas ühiskasutatavas postkastis, ja järgige selle artikli juhiseid: [ühiskasutatavale postkastile reeglite lisamine](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
+Veenduge, et olekste kõnealuse ühispostkasti liige, ja järgige selles artiklis toodud juhiseid. [Reeglite lisamine ühispostkasti](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
   

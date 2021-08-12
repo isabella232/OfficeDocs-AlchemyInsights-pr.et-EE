@@ -1,5 +1,5 @@
 ---
-title: Olemi tüüp, mis ei kuvata rakenduses Dynamics 365 Unified Interface kategoriseeritud või asjakohasuse otsingu tulemites
+title: Olemitüüp, mida ei kuvata Dynamics 365 Unified Interface'is kategoriseeritud või asjakohasuse otsingutulemite puhul
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709327"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946697"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Olemi tüüp, mida ei kuvata otsingutulemites
+# <a name="entity-type-not-showing-in-search-results"></a>Otsingutulemite puhul ei kuvata üksusetüüpi
 
-Kui soovite, et olemi tüüp kuvataks kategoriseeritud otsingu või asjakohasuse otsingus rakenduses Dynamics 365 Unified Interface, tuleb see esmalt lisada rakenduse moodulisse.
+Kui soovite, et olemitüüp kuvatakse Kategoriseeritud otsingus või asjakohasuse otsingus Dynamics 365 Unified Interface'is, tuleb see esmalt lisada rakendusemoodulisse.
 
-Märkus: kui otsite manuse otsimisel manust, tuleb manuse olem lisada rakenduse moodulisse isegi siis, kui tulemites kuvatakse peamine kirje.
+Märkus. Asjakohasuse otsingus manuste otsimisel tuleb manuse olem lisada rakendusemoodulisse, kuigi tulemustes kuvatakse emakirje.
