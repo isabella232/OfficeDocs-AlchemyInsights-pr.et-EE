@@ -1,5 +1,5 @@
 ---
-title: Jõudluse probleemid – SharePoint või OneDrive
+title: Jõudlusega seotud SharePoint või OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 921aae7eba8487c5600f290fd671ef2675372e6af0478b913e38354856cbaa22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911838"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePointi või OneDrive ' i aeglased, kättesaamatud või kättesaamatud mitme kasutaja jaoks
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint või OneDrive aeglane, juurdepääsmatu või pole saadaval mitme kasutaja jaoks
 
-SharePointis või OneDrive ' is võivad olla aeglased, kättesaamatud või kättesaamatud või kuvada mitu põhjust teenust kättesaamatuks või 503 tõrkeks.
+SharePoint või OneDrive võib olla aeglane, juurdepääsmatu või kättesaamatu või kuvada teenus pole saadaval või 503 tõrget mitmel põhjusel.
   
-- Kui teie SharePointi või OneDrive ' i sait on mitme kasutaja jaoks aeglane või hilinenud, võib esineda ajutine teenus, kus kasutajad saavad SharePointi saitidele või OneDrive ' i sisule juurdepääsul kasutada ajutisi viivitusi või navigeerimine. Kontrollige [teenuse tervise armatuurlauda](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et näha, kas teie ettevõte on mõjutatud.
+- Kui teie SharePoint või OneDrive sait on mitme kasutaja jaoks aeglane või viibib, võib ilmneda ajutine teenuseprobleem, mille korral kasutajatele ilmneb saitidele või sisule juurdepääsemisel SharePoint aeg-ajalt OneDrive navigeerimisvigu. Kontrollige [teenuse seisundi armatuurlauda,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) et näha, kas teie ettevõtet mõjutab.
   
-- Kui proovite liikuda SharePointi või OneDrive ' i saitidele, võivad kasutajad saada *503 serveriga hõivatud* tõrke. Selle tõrke põhjuseks võib olla SharePointi teenuse ahendamine. SharePoint Online kasutab SharePoint Online’i teenuste optimaalse jõudluse ja töökindluse säilitamiseks ahendamist. Ahendamine piirab kasutajate toimingute või samaaegsete kõnede arvu (skripti või koodi poolt), et ennetada ressursside ülekasutamist. Lisateavet ahendamise kohta leiate artiklist [SharePoint Online ' is ahendamise või blokeerimise vältimine](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- Kasutajatele võidakse kuvada *503-serveri* hõivatud tõrge, kui nad proovivad liikuda SharePoint või OneDrive saitidele. Selle tõrke põhjuseks võib olla ahendamine SharePoint teenuses. SharePoint Online kasutab SharePoint Online’i teenuste optimaalse jõudluse ja töökindluse säilitamiseks ahendamist. Ahendamine piirab kasutajate toimingute või samaaegsete kõnede arvu (skripti või koodi poolt), et ennetada ressursside ülekasutamist. Ahendamise kohta leiate lisateavet teemast Veebis [ahendamise](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)või blokeerimise SharePoint.
 
-- Kui teil ilmneb väike jõudlus **klassikalise** või **moodsa** SharePointi saidi või lehega, kasutage lehtede analüüsimiseks [lehte diagnostilist tööriista](https://aka.ms/perftool) .
+- Kui teil on klassikaline või **modernne** sait **või** leht SharePoint aeglane jõudlus, kasutage lehtede [analüüsimiseks](https://aka.ms/perftool) lehediagnostika tööriista.
   
-- Kui teil on endiselt üldine aegluse, vaadake selle artikli allosas olevaid ressursse: [SharePoint Online ' i jõudluse häälestamise tutvustus](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Kui üldine jõudlus on endiselt aeglane, vaadake selle artikli allservas olevad ressursid üle. SharePoint [Online'i jõudluse häälestamise tutvustus](https://go.microsoft.com/fwlink/?linkid=2024334)
   

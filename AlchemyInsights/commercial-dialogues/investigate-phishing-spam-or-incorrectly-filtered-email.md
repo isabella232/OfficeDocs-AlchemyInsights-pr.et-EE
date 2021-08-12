@@ -1,5 +1,5 @@
 ---
-title: Andmepüügi, rämpsposti või valesti filtreeritud meilisõnumite uurimine
+title: Andmepüügi, rämpsposti või valesti filtreeritud meilisõnumite uurimiseks
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2646a80ebcec959375c8fa938d420b5e11b0fdb8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746690"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948951"
 ---
-# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Andmepüügi, rämpsposti või valesti filtreeritud meilisõnumite uurimine
+# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Andmepüügi, rämpsposti või valesti filtreeritud meilisõnumite uurimiseks
 
-Sõnumi edastamiseks Microsoftile saate kasutada rakendust edastus Explorer. Saad kohe tagasisidet sõnumi filtreerimise ja probleemi põhjuse kohta. Siit leiate kokkuvõtte järgmistest etappidest.
+Kasutage Sõnumi Microsoftile edastamiseks Submission Explorerit. Saate kohe tagasisidet sõnumi filtreerimise ja probleemi põhjuse kohta. Siin on kokkuvõte juhistest.
 
-1. Avage [Office 365 turbe & nõuetele vastavuse keskus](https://go.microsoft.com/fwlink/p/?linkid=2077143), valige **ohustatud halduse**  >  **edastused** ja seejärel valige **+ Uus edastus**.
-2. Määrake **uue edastuse** hüpik üksikasjad.
-3. Teavitage kasutajaid sellest, et nad peaksid teavitama Microsofti kahtlastest meilisõnumitest ning et [teate lisandmoodul](https://go.microsoft.com/fwlink/?linkid=2092385) on tööriist, mida nad peaksid selleks otstarbeks kasutama.
+1. Avage Office 365 [turbekontrolli &](https://go.microsoft.com/fwlink/p/?linkid=2077143), valige **Ohuhalduse**  >  **edastused** ja seejärel **+Uus esitamine**.
+2. Määrake üksikasjad hüpiks **Uus esitamine.**
+3. Teavitage oma kasutajaid sellest, et nad [](https://go.microsoft.com/fwlink/?linkid=2092385) peaksid Microsoftile kahtlastest meilisõnumitest teatama ja et aruandesõnumi lisandmoodul on tööriist, mida nad peaksid selleks kasutama.

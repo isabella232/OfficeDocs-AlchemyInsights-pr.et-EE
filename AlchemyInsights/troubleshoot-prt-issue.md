@@ -1,5 +1,5 @@
 ---
-title: PRT probleemi tõrkeotsing
+title: PRT-probleemi tõrkeotsing
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972712"
 ---
-# <a name="troubleshoot-prt-issue"></a>PRT probleemi tõrkeotsing
+# <a name="troubleshoot-prt-issue"></a>PRT-probleemi tõrkeotsing
 
-Kui soovite autentimine uuesti sooritada, peab see olema täielikult registreeritud ja heas olekus ning hankima esmase värskendamise tõendi (PRT).
+Mis tahes seadme autentimise lõpuleviimiseks peab see olema täielikult registreeritud ja heas olekus ning saama hankida primaarvärskenduse tõend (PRT).
 
-Hübriid-Azure AD liitumise registreerimise protsess eeldab, et seadmed peavad olema ettevõtte võrgus. See toimib ka VPN-i kaudu, kuid selle jaoks on mõned piirangud. Oleme kuulnud kliente, kes vajavad abi seoses hübriid-Azure AD Jointi registreerimisega, mis on seotud Kaug-töö asjaoludega. Siin on jaotus, mis toimub "kapoti all" registreerimise käigus.
+Azure AD-ga liitumise hübriidjuurutuse registreerimine eeldab, et seadmed peavad olema ettevõtte võrgus. See toimib ka VPN-i kaudu, kuid selles on mõned piirangud. Oleme kuulnud, et kliendid vajavad abi Azure AD hübriidühenduse registreerimise tõrkeotsingul kaugtöö tingimustes. Siin on jaotus selle kohta, mis toimub registreerimise käigus "kapuutsi all".
 
-**Pilvepõhise autentimise keskkond (Azure AD Password Hash Synci või läbitud autentimise abil)**
+**Pilvautentimise keskkond (Azure AD parooli hash-sünkroonimise või läbimise autentimine)**
 
-Seda registreerimis voog on tuntud ka kui "Sünkrooni Liitu".
+Seda registreerimisvoogu nimetatakse ka "Sync Joiniks".
 
-1. Windows 10 avastas SCP-kirje kasutaja sisselogimise korral seadmesse.
-    1. Seade proovib kõigepealt rentniku teavet, mis on pärit kliendipoolse SCP-i registrist [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Lisateavet leiate sellest [dokumendist](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    2. Kui see ei õnnestu, suhtleb seade kohapealse Active Directoryga (AD), et saada rentniku teavet teenusest Connection Point (SCP). SCP-i kontrollimiseks lugege seda [dokumenti](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
-
-> [!NOTE]
-> Soovitame anda REKLAAMIle SCP ja kasutada seda ainult kliendipoolse SCP-i esmaseks kinnitamiseks.
-
-2. Windows 10 proovib Azure AD-ga suhelda süsteemi kontekstis, et autentida ennast Azure AD vastu. Saate kontrollida, kas seadmel on süsteemi konto kaudu juurdepääs Microsofti ressurssidele, kasutades funktsiooni test Device registreerimine ühenduvuse skripti.
-
-3. Windows 10 loob iseallkirjastatud serdi ja salvestab selle kohapeal asuvas arvutis asuvale objektile. See eeldab, et domeenikontroller on vaateväljas.
-
-4. Seadme objekt, mis on serdi saab sünkroonida Azure AD kaudu Azure AD Connect. Sünkroonimise tsükkel on vaikimisi iga 30 minuti järel, kuid sõltub Azure AD Connecti konfiguratsioonist. Lisateavet leiate sellest [dokumendist](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. Praeguses etapis peaks teil olema võimalus vaadata teema seadet jaotises "ootel" olekus Azure ' i portaalis Device Blade.
-
-6. Järgmise kasutaja sisselogimise korral versioonile Windows 10 on registreerimine lõpule viidud. 
+1. Windows 10 kasutaja seadmesse sisselogimisel SCP-kirje.
+    1. Seade proovib esmalt tuua rentnikuteavet kliendipoolsest SCP-st registris [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Lisateavet leiate sellest [dokumendist.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    2. Kui see nurjub, suhtleb seade kohapealse Active Directoryga (AD), et saada rentnikuteavet teenuseühenduspunktist (SCP). SCP kinnitamiseks vaadake seda [dokumenti.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> Kui kasutate VPN-i ja väljalogimine – sisselogimise protsess katkestab domeeni ühenduvuse, saate käivitada registreerimise käsitsi.
- 1. Väljastage dsregcmd/JOIN kohalikult administraatori viibale või PSExec kaudu teie ARVUTISSE. Näiteks PsExec-s \\ win10client01 cmd, dsregcmd/JOIN
+> Soovitame lubada SCP-d AD-s ja kasutada esmaseks valideerimiseks ainult kliendipoolset SCP-d.
 
- 2. Lisateavet hübriidiga liitumise probleemide kohta leiate teemast [seadmete probleemi tõrkeotsing](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
+2. Windows 10 azure AD-ga süsteemi kontekstis suhelda, et end Azure AD vastu autentida. Saate kontrollida, kas seade pääseb microsofti ressurssidele juurde süsteemikonto kaudu, kasutades seadme registreerimise ühenduvuse testimisskripti.
+
+3. Windows 10 loob ise allkirjastatud serdi ja talletab selle asutusesiseseS AD-s arvutiobjekti all. Selleks on vaja domeenikontrolleri vaatevälja.
+
+4. Serdiga seadmeobjekt sünkroonitakse Azure AD-ga Azure AD Ühendus. Sünkroonimistsükkel on vaikimisi iga 30 minuti järel, kuid see sõltub Azure AD Ühendus. Lisateavet leiate sellest [dokumendist.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. Selles etapis peaksite nägema teemaseadet olekus Ootel Azure'i portaali seadme laba all.
+
+6. Järgmisel kasutaja sisselogimisel Windows 10 registreerimine lõpule viidud. 
+
+> [!NOTE]
+> Kui kasutate VPN-i ja sisselogimisprotsess lõpetab domeeni ühenduvuse, saate registreerimise käivitada käsitsi.
+ 1. Probleem on dsregcmd /join locally on admin prompt or remotely via PSExec to your PC. Näiteks PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. Lisateavet hübriidjuurutusprobleemide kohta leiate teemast [Seadmete probleemi tõrkeotsing.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)
