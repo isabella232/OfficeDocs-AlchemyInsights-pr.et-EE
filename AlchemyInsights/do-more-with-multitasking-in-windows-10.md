@@ -1,5 +1,5 @@
 ---
-title: Windows 10 multitegumtegemise abil rohkem ära teha
+title: Multitegumtegemine on Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 18259192bd5e6aeb85abaf6aa988cfcbbebd88af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f980b93337d2a0d3af06876ac14015546b850f80205d66cdb5c4a6fce162c2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947984"
 ---
-# <a name="do-more-with-multitasking-in-windows-10"></a>Windows 10 multitegumtegemise abil rohkem ära teha
+# <a name="do-more-with-multitasking-in-windows-10"></a>Multitegumtegemine on Windows 10
 
 Rakenduste kuvamiseks või vaheldumisi aktiveerimiseks võite klõpsata tegumiribal nuppu Ülesandevaade või vajutada klaviatuuril **muuteklahvi (Alt).**  Nupp Ülesandevaade näeb välja selline.
 

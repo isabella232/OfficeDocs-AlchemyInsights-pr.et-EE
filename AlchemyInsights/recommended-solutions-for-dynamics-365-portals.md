@@ -12,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 701e7e74648ce09927f41b70945c7a2e9ba89e5d96a088343984c2054fda2343
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911046"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics 365 portaalid Soovitatavad lahendused
+# <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics 365 portaalide soovitatavad lahendused
 
-* [Minu portaalis kuvatava üksikasjaliku serveri tõrke kuvamine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Portaalis kuvatava üksikasjaliku serverivea vaatamiseks](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
 * [Portaali lähtestamine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [Portaali serveripoolse vahemälu tühjendamine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Kuidas muuta Dynamics 365 portaali sihtrühma ja tüüpi](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Dynamics 365 portaali sihtrühma ja tüübi muutmine](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Portaali baasi URL-i muutmine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Portaali põhi-URL-i muutmine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Välise identiteedi pakkuja konfigureerimine portaali abil](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Välise identiteedipakkuja konfigureerimine portaalis](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Korduma kippuvad küsimused](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Dynamics 365 portaali kasutamise alustamine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Minu Dynamics 365 portaaliga alustamine](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

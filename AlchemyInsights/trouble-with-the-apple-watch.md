@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bfb47bb53bbbe50258ad3f7022cd4f31b9f014a5d32c8a1b09da5e775abfcdc0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939987"
 ---
 # <a name="trouble-with-the-apple-watch"></a>Apple Watchi probleemid
 
-Kui teil on Probleeme Outlooki kasutamisega Apple Watchis, tehke järgmist. 
+Kui teil on probleeme Apple Watchi Outlook kasutamisega, tehke järgmist. 
 
-1. Avage iPhone'is rakendus Jälgi.
+1. Avage iPhone.
 
-2. Liikuge kerides Outlooki rakendusse.
+2. Liikuge kerides Outlook rakendusse.
 
 3. Desinstallimiseks lülitage säte "Kuva rakendus Apple Watch'is" **asendisse OFF.**
 
 4. Kella uuesti installimiseks lülitage  säte "Kuva rakendus Apple Watch'is" asendisse SEES.
 
-5. Käivitage Outlooki rakendus Apple Watch'is ja oodake, kuni andmed sünkroonitakse uusimaga. 
+5. Käivitage Outlook Apple Watch'is ja oodake, kuni andmed sünkroonitakse uusimaga. 
 
-Kui teie probleem ei lahene, aitab teid hea meelega tugimeeskond. Avage Sätted **> spikker & tagasiside > võtke ühendust tugiteenusega.** 
+Kui teie probleem ei lahene, aitab teid hea meelega tugimeeskond. Avage **Sätted > spikker & tagasiside > võtke ühendust tugiteenusega.** 

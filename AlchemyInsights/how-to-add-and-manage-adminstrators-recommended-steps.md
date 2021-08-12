@@ -1,5 +1,5 @@
 ---
-title: Administraatorite lisamine ja haldamine – Soovitatavad juhised
+title: Administraatorite lisamine ja haldamine – soovitatavad juhised
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,70 +13,70 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963783"
 ---
-# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Administraatorite lisamine ja haldamine – Soovitatavad juhised
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Administraatorite lisamine ja haldamine – soovitatavad juhised
 
-Teie probleemi kirjelduse põhjal oleme leidnud teile lahenduse. Enamik kliente suutsid oma probleemi lahendada pärast meie dokumentide järgimist.
+Teie probleemi kirjelduse põhjal oleme teie jaoks lahenduse leidnud. Enamik kliente suutis pärast meie dokumentatsiooni järgimist oma probleemi ise lahendada.
 
-**Tellimuse halduri või koostöö administraatori redigeerimine**
+**Tellimuse administraatori või kaasadministraatori redigeerimine**
 
-- Konto administraator saab redigeerida mõlemat rolli, samas kui tellimuse administraator saab [Azure ' i portaalis](https://ms.portal.azure.com/#home)ainult administraatoreid muuta.
-- [Azure ' i tellimuse administraatorite lisamine või muutmine](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
+- Kontoadministraator saab mõlemat rolli redigeerida, kuid tellimuse administraator saab muuta ainult Azure'i portaali [kaasadministraatoreid.](https://ms.portal.azure.com/#home)
+- [Azure'i tellimuse administraatorite lisamine või muutmine](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Tellimuse halduri või Co-Administrator sise (PÜSTI) tellimuste värskendamine**
+**Tellimuse administraatori või Co-Administrator (AIRS) tellimuste värskendamine**
 
-Teenuse administraator või administraator saab seda toimingut ise teenida järgmiste toimingute abil.
+Teenuseadministraator või kaasadministraator saab seda toimingut ise teha, järgides järgmisi juhiseid.
 
-1. Logige sisse [Azure ' i portaali](https://ms.portal.azure.com/#home) ja klõpsake vasakpoolsel Blade ' is nuppu **kulude haldus + arveldus** .
-2. Klõpsake oma tellimusel rea üksust. See avab teie tellimuse ülevaate.
-3. Klõpsake **tellimuse** laba nuppu **Atribuudid**. 
-4. Klõpsake nuppu **teenuse administraator** .
-5. Sisestage selle kasutaja meiliaadress, kelle soovite määrata teenuse administraatoriks, ja klõpsake nuppu **OK**.
+1. Logige sisse [Azure'i portaali ja](https://ms.portal.azure.com/#home) klõpsake vasakus **noas nuppu Kuluhaldus +** Arveldamine.
+2. Klõpsake tellimusega reaüksust. See avab tellimuse ülevaate.
+3. Klõpsake **laba Tellimus** nuppu **Atribuudid.** 
+4. Klõpsake nuppu **Teenuseadministraator.**
+5. Sisestage selle kasutaja meiliaadress, kelle soovite määrata teenuseadministraatoriks, ja klõpsake nuppu **OK**.
 
-**Lisa/Muuda/Eemalda kaas-administraator**
+**Kaasadministraatori lisamine/ muutmine/eemaldamine**
 
-1. Logige [Azure ' i portaali](https://ms.portal.azure.com/#home) sisse teenuse administraatorina.
-2. Avage [tellimused](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ja valige pakett. (Adminstrators saab määrata ainult tellimuse ulatuses.)
-3. Navigeerige **Accessi juhtelementi (iam)**  >  **klassikalised administraatorid**  >  **Lisa** kaas-  >  administraatori paani avamiseks lisa  **kaas-administraator** (kui suvand Lisa kaas-administraator on keelatud, tähendab see, et teil pole õigust).
-4. Valige kasutaja, kelle soovite lisada, ja klõpsake nuppu **Lisa**.
+1. Logige Azure'i [portaali sisse](https://ms.portal.azure.com/#home) teenuseadministraatorina.
+2. Avage [tellimused](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ja valige tellimus. (Kaasadministraatoreid saab määrata ainult tellimuse ulatuses.)
+3. Liikuge **Accessi juhtelemendi (IAM)** klassikaliste administraatorite juurde Lisa kaasadministraator, et avada paan Lisa kaasadministraator (Kui suvand Lisa kaasadministraator on keelatud, tähistab see, et teil  >    >    >   pole õigusi). 
+4. Valige kasutaja, kelle soovite lisada, ja klõpsake **nuppu Lisa.**
 
 **Lisateave:**
-- [Lisa kaas-administraator](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Administraatori eemaldamine](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Teenuse administraatori muutmine](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Konto halduri kuvamine](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Accessi haldamine RBAC ja Azure ' i portaali kaudu](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+- [Kaasadministraatori lisamine](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Kaasadministraatori eemaldamine](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Teenuseadministraatori muutmine](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Kontoadministraatori vaade](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Juurdepääsu haldamine RBAC-i ja Azure'i portaali abil](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Kasutajate lisamine ja kustutamine Azure Active Directory abil (AD)**
+**Kasutajate lisamine ja kustutamine Azure Active Directory (AD) abil**
 
-Saate lisada uusi kasutajaid või kustutada olemasolevaid kasutajaid oma Azure Active Directory (Azure AD) ettevõtte kaudu.
+Saate lisada uusi kasutajaid või kustutada olemasolevaid kasutajaid oma Azure Active Directory (Azure AD) organisatsioonist.
 
-1. Uue kasutaja lisamiseks logige [Azure ' i portaali](https://ms.portal.azure.com/#home) sisse organisatsiooni kasutaja administraatorina.
-2. Valige **Azure Active Directory**, valige **Kasutajad** ja seejärel klõpsake nuppu **Uus kasutaja**.
-3. Täitke lehel **kasutaja** nõutavad andmed. Klõpsake nuppu **Loo**. Kasutaja on loodud ja lisatud teie Azure AD rentniku jaoks.
+1. Uue kasutaja lisamiseks logige azure'i portaali sisse ettevõtte kasutajaadministraatorina. [](https://ms.portal.azure.com/#home)
+2. Valige **Azure Active Directory**, valige **Kasutajad ja** seejärel klõpsake nuppu Uus **kasutaja**.
+3. Sisestage **lehel** Kasutaja nõutav teave. Klõpsake **nuppu Loo**. Kasutaja luuakse ja lisatakse teie Azure AD rentnikule.
 
-**Lisateavet leiate** järgmistest teemadest.
+**Lisateave:**
 
 - [Uue kasutaja lisamine](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Kasutaja kustutamine](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Kasutaja profiili teabe lisamine või värskendamine Azure Active Directory abil](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Kasutaja profiiliteabe lisamine või värskendamine Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Mis on roll-Based Access Control (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-- [Azure ' i eri rollide mõistmine](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Administraatori rolli õigused Azure Active Directorys](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Õpetus: kasutajale RBAC ja Azure ' i portaali kaudu juurdepääsu andmine](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
-- [Azure ' i RBAC tõrkeotsing](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [Ressursside korraldamine Azure ' i halduse rühmadega](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Azure ' i arve koopia taotlemine meili teel](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
-- [Azure ' i krediidi-või deebetkaardi lisamine, värskendamine või eemaldamine](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Mis on rollipõhine juurdepääsukontroll (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
+- [Azure'i erinevate rollide mõistmine](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
+- [Administraatori rolliõigused Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Õppetükk: RBAC-i ja Azure'i portaali abil kasutajale juurdepääsu andmine](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [Azure'i RBAC-i tõrkeotsing](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
+- [Ressursside rühmi saab korraldada Azure'i haldusrühmade abil.](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [Azure'i arve koopia taotlemine meili teel](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Krediit- või deebetkaardi lisamine, värskendamine või eemaldamine Azure'ist](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Tellimuse haldamine (uuesti aktiveerimine/tühistamine/vahetamine)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 

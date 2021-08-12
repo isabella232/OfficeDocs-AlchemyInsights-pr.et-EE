@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 rakenduste juurutamine ja värskendamine Configuration Manageri nõustajaga
+title: Rakenduste juurutamine ja Microsoft 365 Configuration Manageri nõustaja abil
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 03c4b88ad4d962681cb71f39bf793500585dc0ff24b38f47890547781fc25f80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914215"
 ---
-# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>Microsoft 365 rakenduste juurutamine ja värskendamine Configuration Manageri nõustajaga
+# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>Rakenduste juurutamine ja Microsoft 365 Configuration Manageri nõustaja abil
 
-Configuration Manageri kasutavatele asutustele saate kasutada [microsoft 365 rakenduste juurutamist ja värskendamist Configuration Manageri nõustajaga](https://go.microsoft.com/fwlink/?linkid=2146549) , et luua skript, mis konfigureerib teie Microsoft 365 rakenduste juurutuse automaatselt, kasutades FastTrack inseneride soovitatud parimaid tavasid.
+Configuration Manageri kasutavate ettevõtete jaoks saate configuration [Manageri nõustaja Microsoft 365 rakendused](https://go.microsoft.com/fwlink/?linkid=2146549) juurutada ja värskendada, et luua skript, mis konfigureerib teie Microsoft 365 rakendused juurutamise fasttracki inseneride soovitatud parimate tavade abil.
 
-Selle juhendi abil saate koostada juurutuse rühmi, kohandada oma Office ' i rakendusi ja funktsioone, konfigureerida dünaamilisi või lahjaid installe ning seejärel käivitada skripti, et luua rakendused, automaatse juurutamise reeglid ja seadme kogud, mida soovite oma juurutusele suunata.
+Selle juhendi abil saate luua juurutamisrühmi, kohandada oma Office rakendusi ja funktsioone, konfigureerida dünaamilisi või säästlikke installe ning seejärel käivitada skripti rakenduste loomiseks, automaatse juurutamise reeglite ja seadmekogumite loomiseks, mida on vaja juurutamise sihtimiseks.

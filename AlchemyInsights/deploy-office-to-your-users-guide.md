@@ -1,5 +1,5 @@
 ---
-title: Office ' i juurutamine kasutajate saatekavas
+title: Kasutajate Office juurutamise juhend
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948087"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Office ' i juurutamine kasutajate saatekavas
+# <a name="deploy-office-to-your-users-guide"></a>Kasutajate Office juurutamise juhend
 
-Office ' i rakenduste juurutamine pilvega, mille abil saab Office ' i juurutamise tööriista abil oma installi kohandada.
+Juurutage Office rakendused pilvest, et kohandada oma installi, kasutades Office juurutamise tööriista.
 
-[Office ' i juurutamine kasutajate](https://go.microsoft.com/fwlink/?linkid=2146451) juhendis aitab teil luua kohandatud Office ' i konfiguratsiooni täpsemate sätetega või kasutada eelnevalt ehitatud soovitatavat konfiguratsiooni. See täiustatud viisard pakub üksikasjalikke juhiseid selle kohta, kuidas kasutajad saavad teie ettevõttele kohandatud Office ' i installi kohandada, kui kasutajad on ise installinud või juurutate kasutajatele eraldi või lahtiselt.
+Juhised [Office](https://go.microsoft.com/fwlink/?linkid=2146451) juurutamine aitab teil luua kohandatud Office täpsemate sätetega või kasutada eelinstalleeritud soovitatavat konfiguratsiooni. Olenemata sellest, kas teie kasutajad viivad läbi iseinstallimist või juurutate oma kasutajate jaoks eraldi või hulgi, pakub see täiustatud viisard teile juhiseid, mis annavad kasutajatele Office kohandatud installi.

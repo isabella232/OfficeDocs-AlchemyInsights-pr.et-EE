@@ -1,5 +1,5 @@
 ---
-title: Azure AD priviligeeritud identiteedi halduse juurutamine (PIM)
+title: Azure AD Privileged Identity Management (PIM) juurutamine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003895"
 - "6949"
-ms.openlocfilehash: 6c9bbd7e55a283e421f76ebbda70aa579cb8b60c
-ms.sourcegitcommit: 2ff035d33e3277a268a5d88f1209dca77a87d689
+ms.openlocfilehash: e7e52ebf7fdb6a7cb07cf1d960fc14263ad0dbfab00ea9968feabbfa4b05c975
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677667"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914179"
 ---
-# <a name="deploy-azure-ad-privileged-identity-management-pim"></a>Azure AD priviligeeritud identiteedi halduse juurutamine (PIM)
+# <a name="deploy-azure-ad-privileged-identity-management-pim"></a>Azure AD Privileged Identity Management (PIM) juurutamine
 
-Lisateavet selle kohta, kuidas kavandada privilegeeritud identiteedi haldust (PIM) Azure Active Directory (Azure AD) asutuses, leiate teemast [AZURE ad priviligeeritud identiteedi halduse (PIM) juurutamine](https://go.microsoft.com/fwlink/?linkid=2132095).
+Lisateavet selle kohta, kuidas kavandada Privileged Identity Management (PIM) juurutamist Azure Active Directory (Azure AD) ettevõttes, lugege teemat [Azure AD Privileged Identity Management (PIM) juurutamine.](https://go.microsoft.com/fwlink/?linkid=2132095)
