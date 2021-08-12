@@ -1,5 +1,5 @@
 ---
-title: Sõnumite automaatse teisaldamise takistamine automaatselt arhiivi
+title: Sõnumite automaatse arhiivile liikumise takistamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 2cb3e29dfd4f422e946b7887d4d44f373ff03794
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746327"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929949"
 ---
-# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Sõnumite automaatse teisaldamise takistamine automaatselt arhiivi
+# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Sõnumite automaatse arhiivile liikumise takistamine
 
-Säilituspoliitika kasutamise korral saate muuta selle poliitika säilituse vanust, et takistada sõnumite automaatset arhiivimist. Tehke järgmist.
+Kui kasutate säilituspoliitikat, saate selles poliitikas säilitusaja muuta, et peatada sõnumite automaatne arhiivimine. Tehke järgmist.
 
-1. Valige [Exchange ' i administreerimiskeskuses](https://go.microsoft.com/fwlink/?linkid=2059104) **vastavuse halduse**  >  **säilituse sildid**. Otsige üles oma liigutused, et arhiivida säilituse silt.
-2. Muutke säilituse perioodi (arhiivi periood), et **mitte kunagi** takistada üksuste automaatset arhiivimist säilituspoliitika abil.
+1. Valige [Exchange halduskeskuses](https://go.microsoft.com/fwlink/?linkid=2059104) **vastavushalduse**  >  **säilitussildid.** Otsige üles oma säilitussilt Teisalda arhiivi.
+2. Muutke säilitussildil säilitusperioodi (arhiiviperioodi)ks  Mitte kunagi, et peatada üksuste automaatset arhiivimist säilituspoliitika abil.
 
 > [!NOTE]
-> See muudab kõigi postkastide arhiivimise sätteid, millele on rakendatud selle säilituse silt.
+> See muudab kõigi postkastide arhiivimissätet, mille säilitussilt on neile rakendatud.

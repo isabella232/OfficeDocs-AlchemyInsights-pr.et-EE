@@ -1,5 +1,5 @@
 ---
-title: Intune ' i seadmete probleemide tõrkeotsing
+title: Intune'i seadmete probleemide tõrkeotsing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: 80d09a9ccb9f76d35a12e5cc70903aa03ca0819e
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: bd00f075f52227cfc44655b86c99a6668360bcbb840f8261ea777a78c21a2494
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920895"
 ---
-# <a name="troubleshooting-problems-with-intune-devices"></a>Intune ' i seadmete probleemide tõrkeotsing
+# <a name="troubleshooting-problems-with-intune-devices"></a>Intune'i seadmete probleemide tõrkeotsing
 
-Kui Intune ' i hallataval seadmel tekib probleeme, vaadake esmalt üle [Intune ' i seadmed](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) , et kinnitada põhikonfiguratsioon ja kontrollida seadme olekut.
+Kui Intune'i hallataval seadmel on probleeme, vaadake esmalt [läbi Intune'i dokumentatsiooniga](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) seadmete haldamine, et kinnitada põhikonfiguratsioon ja kontrollida seadme olekut.
 
-Probleemid, nagu puuduv või hilinenud poliitika, valed poliitikad, ootamatu juurdepääs või juurdepääsu puudumine võivad olla põhjustatud sellest, et seade muutub Intune ' iga sünkroonimisest välja. Lisateabe saamiseks vaadake [seadme sünkroonimise](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) dokumentatsiooni üle.
+Probleemid (nt puuduvad või hilinenud poliitikad, valed poliitikad, ootamatu juurdepääs või juurdepääsu puudumine) võivad olla tingitud sellest, et seade ei saa Intune'iga sünkroonida. Lisateavet leiate [seadme sünkroonimise](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) dokumentatsioonist.
 
-Levinud probleemid, mis on seotud seadme sissemöllimise, poliitika sünkroonimise ja seadme konfiguratsiooniga, leiate teemast [levinumad küsimused ja vastused](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) või [tõrkeotsingu poliitika](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) dokumentatsioon.
+Levinumad seadme sisseregistreerimise, poliitika sünkroonimise ja seadme konfiguratsiooniga seotud probleemid leiate levinud küsimustest [ja vastustest või](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) [poliitikadokumentatsiooni tõrkeotsingust.](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
