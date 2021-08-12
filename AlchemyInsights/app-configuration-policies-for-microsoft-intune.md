@@ -1,5 +1,5 @@
 ---
-title: Rakenduse konfiguratsioonipoliitikad Microsoft Intune'i jaoks
+title: Rakenduse konfiguratsioonipoliitikad Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,20 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc23546a6287300075f0dcbc120e4e09dded2b8e03899e98d8c27ff6c94b737e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931985"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Rakenduse konfiguratsioonipoliitikad Microsoft Intune'i jaoks
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Rakenduse konfiguratsioonipoliitikad Microsoft Intune
 
-Microsoft Intune'i rakenduse konfiguratsioonipoliitikaid kasutatakse iOS-i või Androidi rakenduste konfiguratsioonisätete esitamiseks. Nende konfiguratsioonisätete abil saab rakendust kohandada. Pange tähele, et on piiranguid selle kohta, millised opsüsteemi versioonid ja millised rakendused toetavad konfiguratsioonipoliitikate kasutamist.
+Rakenduse konfiguratsioonipoliitikaid Microsoft Intune iOS-i või Androidi rakenduste konfiguratsioonisätete jaoks. Nende konfiguratsioonisätete abil saab rakendust kohandada. Pange tähele, et on piiranguid selle kohta, millised opsüsteemi versioonid ja millised rakendused toetavad konfiguratsioonipoliitikate kasutamist.
 
 Lisateabe saamiseks vaadake läbi järgmine dokumentatsioon.
 
-[Microsoft Intune'i rakenduse konfiguratsioonipoliitikad](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+[Rakenduse konfiguratsioonipoliitikad Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
 
 [Hallatavate iOS-seadmete jaoks rakenduse konfiguratsioonipoliitikate lisamine](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
 

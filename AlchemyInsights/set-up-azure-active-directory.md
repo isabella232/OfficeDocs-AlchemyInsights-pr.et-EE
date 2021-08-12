@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory häälestamine
+title: Häälestage Azure Active Directory
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958185"
 ---
-# <a name="set-up-azure-active-directory"></a>Azure Active Directory häälestamine
+# <a name="set-up-azure-active-directory"></a>Häälestage Azure Active Directory
 
-[AZURE ad setup guide](https://go.microsoft.com/fwlink/?linkid=2134390) annab teavet tagamaks, et teie ettevõttel on tugev turva Sihtasutus. Selles juhendis saate häälestada algsed funktsioonid (nt Azure ' i rolli-põhise juurdepääsu juhtimise (Azure ' i RBAC) administraatoritele, Azure AD Connecti oma kohapealses kataloogis ja Azure AD Connecti Health, nii et saate jälgida oma hübriid-identiteedi tervist automatiseeritud sünkroonimisel.
+[Azure AD häälestusjuhend annab](https://go.microsoft.com/fwlink/?linkid=2134390) teavet selle kohta, et teie ettevõttel oleks tugev turbevundament. Selles juhendis saate häälestada administraatoritele azure'i rollipõhise juurdepääsu juhtelemendi (Azure RBAC), Azure AD Ühendus teie asutusesisese kataloogi jaoks ja Azure AD Ühendus Healthi, et jälgida hübriididentiteedi seisundit automaatse sünkroonimise ajal.
 
-See sisaldab ka olulist teavet selle kohta, kuidas lubada iseteeninduse parooli lähtestamine, tingimusjuurdepääsu ja integreeritud kolmanda osapoole sisselogimine, sh valikuline täiustatud identiteedi kaitse ja kasutaja ettevalmistamine automatiseerimine.
+Samuti sisaldab see olulist teavet iseteenindusliku parooli lähtestamise, tingimusjuurdepääsu ja integreeritud kolmanda osapoole sisselogimisteabe kohta, sh valikulist täiustatud identiteedikaitset ja kasutajate ettevalmistamise automatiseerimist.

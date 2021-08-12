@@ -1,5 +1,5 @@
 ---
-title: Ühiskausta juurdepääs mobiilsideseadmete kaudu
+title: Ühiskausta juurdepääs mobiilsideseadmetest
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "634"
 - "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 8be6ae5faec7bf2703dcd4582c60e5d98d7f87af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31a18174c92716b1e94396fea9a772fc8f2d3e655142029247e6e99dae18b03a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911262"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>Ühiskausta juurdepääs mobiilsideseadmete kaudu
+# <a name="public-folder-access-from-mobile-devices"></a>Ühiskausta juurdepääs mobiilsideseadmetest
 
-Juurdepääs avalikele kaustadele ei tööta mobiilsideseadmete abil, kasutage avalike kaustade juurde pääsemiseks rakendust OWA (Outlooki veebirakendus) või Outlooki Windowsi töölauale või Outlook for Maci klientidele.
+Juurdepääs avalikele kaustadele ei tööta mobiilsideseadmete abil, kasutage avalikele kaustadele juurdepääsemiseks OWA-d (Outlook veebis) või Outlook-Windows või Outlook for Maci klientrakendusi.
 
-Kui soovite, et teil oleks sarnaselt avalike kaustadega funktsioone ja et teil oleks mobiilsideseadmetes sisu juurde pääseda, lugege lisateavet [Microsoft 365 rühmade](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) kohta.
+Kui soovite kasutada avalike kaustadega sarnaseid funktsioone ja teil on mobiilsideseadmetes juurdepääsetav sisu, [lugege lisateavet Microsoft 365 kohta.](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
   

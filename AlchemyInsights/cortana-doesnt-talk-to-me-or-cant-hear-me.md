@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5a7cc013dc2e414306f9f8cb3eb0f3fd948b7e32438b82a71c31219b65a180e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965858"
 ---
 # <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana ei räägi minuga või ei kuule mind
 
-Kui proovite kasutada funktsiooni "Hey Cortana", mis võimaldab teil Cortanaga rääkida ilma Cortana nuppu tegumiribal või Cortana paneelil mikrofoni nuppu valimata, veenduge, et see funktsioon on lubatud.
+Kui proovite kasutada funktsiooni "Hey Cortana", mis võimaldab teil rääkida Cortana-ga ilma tegumiribal nuppu Cortana või mikrofoninuppu Cortana paanil, veenduge, et funktsioon on lubatud.
 
-1. Avage **Start** ja seejärel valige **[Sätted > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
-2. Lülitage **jaotises Hey Cortana (Tere, Cortana)** **tumblernupp Let Cortana respond to "Hey Cortana" (Tere, Cortana)** asendisse **Sees**.
+1. Avage **Start** ja seejärel **[valige Sätted > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
+2. Lülitage jaotises Hey Cortana Cortana (Hey **Cortana)**("Kuule Cortana" ("Kuule, **Cortana" vastamine)** asendisse **Sees**.
 
-![Tere, Cortana](media/hey-cortana.png)
+![Hey Cortana](media/hey-cortana.png)
 
-**Kas teie privaatsussätted takistavad Cortanal teid kuulmast?**
+**Kas teie privaatsussätted takistavad Cortana teie kuulmist?**
 
-Teie privaatsussätted võivad takistada Cortanal teie häälele reageerimast.
+Teie privaatsussätted võivad takistada Cortana teie häälele vastamist.
 - Veenduge, et võrgukõnetuvastus oleks sisse lülitatud.
-    - Avage **Start ja** seejärel klõpsake nuppu **[Sätted > Privaatsus ja > Kõne](ms-settings:privacy-speech?activationSource=GetHelp)**.
+    - Avage **Menüü Start** ja seejärel **[klõpsake nuppu Sätted > Privaatsus ja > Kõne](ms-settings:privacy-speech?activationSource=GetHelp)**.
     - Valige **jaotises Veebipõhine** kõnetuvastus säte **Sees**.
-- Kontrollige, kas Cortanal on teie mikrofonile juurdepääsemiseks õigus. 
-    - Avage Menüü Start ja seejärel valige **[Sätted > Privaatsus ja > Mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - Otsige **jaotises Valige, millised rakendused pääsevad teie** mikrofonile juurde, otsige rakenduste ja teenuste loendist **Cortanat** ja veenduge, et lüliti oleks asendis **Sees**.
+- Kontrollige, kas Cortana on õigus teie mikrofonile juurde pääseda. 
+    - Avage Menüü Start ja seejärel **[klõpsake nuppu Sätted > Privaatsus ja > Mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
+    - Otsige **jaotises Valige, millised rakendused pääsevad** teie mikrofonile **juurde, Cortana** rakenduste ja teenuste loendist pääsu ja veenduge, et lüliti oleks sisselülitatav **olekusse Sees.**
 
-Lisaks veenduge, et kõlarid või mikrofonid on cortanaga töötamiseks töökorras.
+Lisaks veenduge, et kõlarid või mikrofonid on töökorras, et nendega Cortana.

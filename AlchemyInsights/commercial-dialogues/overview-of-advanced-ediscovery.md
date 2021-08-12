@@ -1,5 +1,5 @@
 ---
-title: Täiustatud e-juurdluse ülevaade
+title: Ülevaade Advanced eDiscovery
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916159"
 ---
-# <a name="overview-of-advanced-ediscovery"></a>Täiustatud e-juurdluse ülevaade
+# <a name="overview-of-advanced-ediscovery"></a>Ülevaade Advanced eDiscovery
 
 Täiustatud e-juurdlus võimaldab teil analüüsida struktureerimata andmeid, mis aitavad teil e-juurdluse kulusid vähendada. Saate rakendada tekstianalüüsifunktsiooni, masinõpet ja asjakohasuse/ennustavat kodeerimist. Siin on mõned näpunäited.
 
-- Täiustatud e-juurdluse funktsioon nõuab teie asutuse jaoks E5-i tellimust või Office 365 E3 tellimust, kus on täiustatud nõuetele vastavuse lisandmoodul.
-- Uue täiustatud e-juurdluse Teenindusjuhtumi loomiseks avage [turbe & nõuetele vastavuse keskus](https://go.microsoft.com/fwlink/p/?linkid=2077143) **ja valige e-juurdluse**  >  **täiustatud** e-juurdlus.
-- Lisateavet leiate teemast [Microsoft 365 täiustatud e-juurdluse ülevaade](https://go.microsoft.com/fwlink/?linkid=2101588).
-- Täpsema e-juurdluse häälestamiseks vajalike toimingute kohta teabe saamiseks lugege teemat [Microsoft 365 täiustatud e-juurdluse häälestamine](https://go.microsoft.com/fwlink/?linkid=2122672).
+- Funktsiooni Advanced eDiscovery on vaja kas teie asutuse E5 tellimust või Office 365 E3 tellimust, mis on täiustatud nõuetele vastavuse lisandmoodul.
+- Uue juhtumi loomiseks Advanced eDiscovery minge turbekontrolli [& ja](https://go.microsoft.com/fwlink/p/?linkid=2077143) valige **e-juurdluse**  >  **Advanced eDiscovery**.
+- Lisateavet leiate teemast [Ülevaade Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101588).
+- Lisateavet selle kohta, mida on vaja Advanced eDiscovery häälestamiseks, [leiate teemast Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2122672).

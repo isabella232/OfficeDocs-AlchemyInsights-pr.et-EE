@@ -1,5 +1,5 @@
 ---
-title: API load ja nõusolek
+title: API-õigused ja nõusolek
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932093"
 ---
-# <a name="api-permissions-and-consent"></a>API load ja nõusolek
+# <a name="api-permissions-and-consent"></a>API-õigused ja nõusolek
 
-Microsoft Identity platformiga integreeritud rakendused järgivad loa mudelit, mis annab kasutajatele ja administraatoritele ülevaate sellest, kuidas andmeid saab kasutada. Loa mudeli rakendamine on Microsofti identiteedi platvormi lõpp-punktis uuendatud. See muudab viisi, kuidas rakendus peab Microsoft Identity platformiga suhtlema. [Microsofti identiteedi platvormi lõpp-punktides olevad load ja nõusolek](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) hõlmavad selle loa mudeli põhimõisteid (sh ulatused, load ja nõusolek).
+Rakendused, mis Microsofti identimisplatvorm, järgivad autoriseerimismudelit, mis annab kasutajatele ja administraatoritele õiguse andmetele juurde pääseda. Autoriseerimismudeli rakendamist on värskendatud Microsofti identimisplatvorm lõpp-punktis. See muudab seda, kuidas rakendus peab Microsofti identimisplatvorm. [Microsofti identimisplatvorm](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) lõpp-punkti õigused ja nõusolek hõlmab selle autoriseerimismudeli põhimõisteid (sh ulatused, õigused ja nõusolek).
 
-[Azure Active Directory (AZURE ad) nõusoleku raamistiku](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) abil on lihtne arendada mitme rentniku veebirakendust ja kohalikku klientrakendust. Need rakendused lubavad sisse logida kasutaja kontodelt Azure AD rentniku jaoks, mis erineb rakenduse registreerimisest. Lisaks on võimalik, et lisaks oma veebirakendusliidestele on neil vaja juurde pääseda ka veebi API-de (nt Microsoft Graph API) (Microsoft 365 Azure AD, Intune ' i ja teenuste jaoks) ning muude Microsofti teenuste API-de jaoks.
+Azure [AD Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) nõusoleku raamistik hõlbustab mitme rentnikuga veebi ja kohalike klientrakenduste välja töötamist. Need rakendused lubavad azure AD rentniku kasutajakontode sisselogimist, mis erineb sellest, kus rakendus on registreeritud. Lisaks teie veebi API-le võib neil olla vaja juurde pääseda veebi API Graph API-le (Azure AD,Intune'ile ja teenustele Microsoft 365-is) ja muudele Microsofti teenused'i API-le.
 

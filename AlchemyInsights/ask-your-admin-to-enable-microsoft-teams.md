@@ -1,5 +1,5 @@
 ---
-title: Paluge administraatoril lubada Microsoft Teams
+title: Paluge administraatoril Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8698136c5d5505bae0d38ca5d416ee0ca0e27461d92dc3b41ce029cb383abfb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950949"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Te jääte ilma! Paluge administraatoril lubada Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Te jääte ilma! Paluge administraatoril Microsoft Teams
 
-Kui teil on haridusasutuste (EDU) rentnikkeskkond, peate Microsoft Teamsi lubama käsitsi. Selleks avage Microsoft 365 halduskeskus, kus >Teenused ja  **lisandmoodulid > Microsoft Teams**. Kui kasutate uut Teamsi halduskeskust, peate teenuste **** ja lisandmoodulite otsimiseks välja lülitama funktsiooni Proovi uut    **halduskeskust.** 
+Kui teil on haridusasutuste (EDU) rentnikkeskkond, peate Microsoft Teamsi lubama käsitsi. Selleks avage Microsoft 365 halduskeskus > **teenused ja lisandmoodulid > Microsoft Teams**. Kui kasutate uut halduskeskust Teams peate teenuste ja lisandmoodulite **** otsimiseks välja lülitama funktsiooni Proovi uut    **halduskeskust.** 
 
 **TÄHTIS.** Võimalik, et peate muudatuste jõustumist ootama kuni 24 tundi.
