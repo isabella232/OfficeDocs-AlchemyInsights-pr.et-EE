@@ -1,5 +1,5 @@
 ---
-title: PO-numbri värskendamine Azure ' i EA portaalis – Soovitatavad toimingud
+title: Värskendage Azure EA portaalis ostutellimuse numbrit – soovitatavad juhised
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007174"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>PO-numbri värskendamine Azure ' i EA portaalis – Soovitatavad toimingud
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Värskendage Azure EA portaalis ostutellimuse numbrit – soovitatavad juhised
 
-KM/maksu ID või ostutellimuse (PO) numbri muudatused jõustuvad järgmisel arvel. Kui soovite käibemaksu/maksu ID-numbrit või PO-numbrit muuta juba loodud arveks, avage tugiteenuse pilet. Kui teil on probleeme oma käibemaksu-ja MAKSUDEGA ID-ga, võtke ühendust oma Microsofti litsentsimise partneriga (partner või tarkvara nõunik). Nad pöörduvad teie käibemaksu/maksu ID-ga seotud küsimuste üle regionaalsete operatsioonide keskuse (ROC) poole. 
+KÄIBEMAKSU-/MAKSU-ID või ostutellimuse (PO) numbri muudatused jõustuvad järgmisel arvel. Kui soovite muuta KM/TAX ID või OSTUTELLIMUSE numbri juba loodud arveks, avage tugipilet. Kui teil on käibemaksu-/maksu-ID-ga seotud probleeme, saate ühendust oma Microsofti litsentsimispartneriga (partner või tarkvaranõustaja). Nad pöörduvad teie KM/TAX ID-ga seotud küsimuste korral piirkondliku operatsioonide keskuse (ROC) poole. 
 
-Azure ' i EA portaal genereerib automaatselt vaikimisi kasutatava PO numbri, kui EA administraator ei saa seda enne arve kuupäeva. EA haldurina (otse registreerimine)/partneri administraatorina (kaudne registreerimine) saate uuendada oma PO-numbrit Azure ' i portaalis. Saate PO-numbrit värskendada igal ajal enne praeguse arvelduse perioodi jaoks loodud arvet ja kuni seitse päeva pärast automaatse arve teatamise meilisõnumi saamist.    
+Azure EA portaal loob automaatselt vaike-OSTUTELLIMUSE numbri, kui EA-administraator ei määra seda enne arve kuupäeva. EA administraatorina (otsene registreerimine) / partneradministraatorina (kaudne registreerimine) saate värskendada Azure EA portaalis ostutellimuse numbrit. Ostutellimuse numbrit saate värskendada igal ajal enne arve loomist praeguse arveldusperioodi kohta ja kuni seitse päeva pärast automaatse arveteatiste meilisõnumi saamist.    
 
-PO numbri värskendamiseks tehke järgmist.
+Ostutellimuse numbri värskendamiseks:
 
-1. Logige sisse [EA portaali](https://ea.azure.com/).
-1. Klõpsake vasakpoolsel paanil nuppu **aruanded**.
-1. Klõpsake lehe ülaosas nuppu **kasutuse Kokkuvõte** ja valige rippmenüüst sobiv ajavahemik.
-1. Valige **Kuva/Redigeeri po-numbreid**.
-1. Sisestage uus PO-number ja klõpsake nuppu **Salvesta**.
+1. Logige [SISSE EA portaali.](https://ea.azure.com/)
+1. Klõpsake vasakpoolsel paanil nuppu **Aruanded**.
+1. Klõpsake lehe ülaservas nuppu **Kasutuskokkuvõte** ja valige ripploendist soovitud periood.
+1. Klõpsake **nuppu Kuva/redigeeri ostutellimuse numbreid.**
+1. Sisestage uus OSTUTELLIMUSE number ja klõpsake **nuppu Salvesta**.
 
-**Soovitatavad dokumendid** 
+**Soovitatud dokumendid** 
 
-- [Azure Enterprise ' i liitumise arved](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Azure Enterprise ' i lepingu arve tutvustus](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
-- [Azure Enterprise ' i rollide mõistmine](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Loo teine Enterprise Administrator (EA administraator)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Azure'i ettevõtte registreerimise arved](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Azure'i arve Enterprise Agreement mõistmine](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Azure Enterprise'i rollide mõistmine](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
+- [Uue ettevõtteadministraatori loomine (EA Admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

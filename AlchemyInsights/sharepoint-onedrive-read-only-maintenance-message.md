@@ -1,5 +1,5 @@
 ---
-title: Kirjutuskaitstud, kui proovite kasutada SharePointi või OneDrive ' i
+title: Read-Only hooldusteade, kui proovite kasutada SharePoint või OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910542"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Kirjutuskaitstud, kui proovite kasutada SharePointi või OneDrive ' i
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only hooldusteade, kui proovite kasutada SharePoint või OneDrive
 
-Kui proovite SharePointi või OneDrive ' i kasutada mõnda järgmistest olukordadest, võivad kasutajad **lugeda** kirjutuskaitstud. 
+Kasutajad võivad saada **hooldusteenuste jaoks kirjutuskaitstud** sõnumi, kui nad proovivad SharePoint või OneDrive kasutada ühte järgmistest stsenaariumitest. 
 
--   Plaanitud või aktiivne hooldustööd.  Nende otsimiseks liikuge [sõnumikeskuse](https://portal.office.com/adminportal/home#/messagecenter)kaudu.
--   Kõrge prioriteediga aktiivne teenuse juhtum, mis võib toimuda. Saate otsida mis tahes nõuandjaid/intsidente, kui navigeerite [teenuse tervist](https://portal.office.com/adminportal/home#/servicehealth).
--   Väike automaatse tervendamise stsenaarium, mis võib toimuda ootamatute sündmuste tõttu serverites, mis võivad kesta vähem kui 30 min või nii. 
+-   Plaanitud või aktiivne hooldustegevus.  Kontrollige neid, liikudes [sõnumikeskusesse.](https://portal.office.com/adminportal/home#/messagecenter)
+-   Kõrge prioriteediga aktiivne teenusejuhtum, mis võib esineda. Nõustajate/juhtumite otsimiseks navigeerige teenuse [seisundisse.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Väike autoparanemise taastestsenaarium, mis võib juhtuda serverites toimunud ootamatute sündmuste tõttu, mis võivad kesta vähem kui 30 minutit või nii. 
     
-    Neid väiksemaid tagasinõudmised pole sõnumikeskuse või teenuse tervislikke ametikohti, kuid sa peaksid olema väga kiiresti tagasi normaalne.
+    Nende pisitagastuste jaoks pole teatekeskust ega teenuse seisundi postitusi, kuid peaksite peagi jälle normaalne olema.
 
-Väga vähestel juhtudel oleme täheldanud, et mõni eespool loetletud kolmest stsenaariumist on põhjus ja teenus on taastatud, kuid kasutajate brauseri vahemälu pole lahendatud.
+Väga vähestel juhtudel oleme täheldanud, et üks eespool loetletud kolmest stsenaariumist on olnud põhjuseks ja teenus on taastatud, kuid kasutajate brauserivahemälu pole kustutatud.
 
 Enne saidile navigeerimist proovige brauseri vahemälu tühjendada.
 
-1. Valige Microsoft Edge ' i brauseris **sätted**ja seejärel valige **Privaatsus ja turve**.
-2. Valige jaotises **Tühjenda sirvimine**käsk **Vali, mida soovite kustutada**.
-3. Valige **küpsised ja salvestatud veebisaitide andmed**ning valige **Kustuta**.
+1. Valige Microsoft Edge , valige **Sätted** ja seejärel Privaatsus **ja turve**.
+2. Valige **jaotises Sirvimise tühjendamine** **nupp Vali, mida soovite tühjendada.**
+3. Valige **Küpsised ja salvestatud veebisaidi andmed** ja seejärel **tühjendage**.
 
 >[!Note] 
-> Need toimingud võivad muude brauserite (nt Mozilla Firefoxi või Google Chrome ' i) kasutamisel erineda.
+> Need toimingud võivad muude brauserite (nt Mozilla Firefox või Google Chrome) kasutamisel erineda.
 
 >[!Note] 
-> Teine võimalus on avada SharePointi sait või OneDrive uues InPrivate-aknas.
+> Teine võimalus oleks avada oma SharePoint või OneDrive inPrivate-aknas.

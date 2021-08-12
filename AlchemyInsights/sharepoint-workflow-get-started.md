@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ' i kasutamise alustamine
+title: Veebipõhise SharePoint alustamine
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 241cd2616fdb1fa9d02d204655946eeb1c95691f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2eb6798456770450cb7231afc2b883ce9451eef2390955c16f9125014b41c489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910398"
 ---
-# <a name="workflows-in-sharepoint"></a>SharePointi töövood
+# <a name="workflows-in-sharepoint"></a>Töövood SharePoint
 
-SharePointi töövood võimaldavad teil äriprotsesse kujundada ja automatiseerida. SharePoint toetab kahte esmast töövoo arendamise keskkonda: SharePoint Designer ja Visual Studio. 
+SharePoint töövood võimaldavad äriprotsesse modelldada ja automatiseerida. SharePoint toetab töövoo loomiseks kahte peamist töövoo arenduskeskkonda: SharePoint Designer ja Visual Studio. 
 
-Lugege teemat SharePointi [töövoogude väljatöötamine SharePoint Designeris ja Visios](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) või [SharePointi töövoogude arendamine Visual Studio abil](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) , et hinnata iga funktsiooni eeliseid ja puudusi. 
+Vaadake [SharePoint töövoogude SharePoint kujundusriis](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) ja Visio või [SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) töövoogude Visual Studio ja miinuste hindamiseks. 
 
-Kui proovite kindlaks teha, kas töövood on teie SharePointi keskkonnas kasutamiseks või otsite üldist teavet töötamise kohta, lugege teemat [SharePointi töövoogude ülevaade](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).
+Kui proovite kindlaks teha, kas töövood on lahendus, mida SharePoint keskkonnas kasutada, või otsite üldist teavet alustamiseks, lugege teemat Ülevaade [töövoogudest SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).

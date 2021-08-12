@@ -1,5 +1,5 @@
 ---
-title: Makseviisi lisamine soovitatavate toimingute abil
+title: Makseviisi lisamine – soovitatavad juhised
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004284"
 - "7649"
-ms.openlocfilehash: 51045d4b35833ed72097d75ff1720a9d2604d196
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 7595b5676e3253600536d226774d20e5c5750d7c88f3b76d82d82c320fb295a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935765"
 ---
-# <a name="add-payment-method---recommended-steps"></a>Makseviisi lisamine soovitatavate toimingute abil
+# <a name="add-payment-method---recommended-steps"></a>Makseviisi lisamine – soovitatavad juhised
 
-Azure ' i portaalis tellimuse tühistamiseks peavad teil olema nii konto administraatori kui ka tellimuse omaniku õigused. 
+Azure'i portaalis tellimuse tühistamiseks peavad teil olema nii konto administraatori kui ka tellimuse omaniku õigused. 
 
-Azure ' i portaalis tellimuse tühistamiseks klõpsake nuppu [Loobu Azure ' i tellimusest](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ja see suunab teid Azure ' i portaali **tellimuse** lehele, et tellimus valida ja tühistada. 
+Azure'i portaalis tellimuse tühistamiseks klõpsake nuppu [Loobu Azure'i](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) tellimusest ja see suunab teid azure'i portaali tellimuse lehele tellimuse valimiseks ja tühistamiseks.  
 
 **Mis juhtub pärast tellimuse tühistamist?** 
 
-Tellimuse tühistamise korral lõpetatakse arveldus kohe. Kui soovite, et Azure ' i portaalis kuvataks tühistamise olek, võib kuluda kuni 10 minutit. Microsoft saadab viimase arve järgmise kuu arvel mis tahes osaliseks tarbimiseks või ostmiseks. Tellimuse tühistamise korral on tellimuses töötavad teenused keelatud. See tähendab, et virtuaalarvuti on eraldatud, ajutised IP-aadressid on vabad ja salvestusruum muutub **kirjutuskaitstuks**. 
+Tellimuse tühistamisel peatatakse arveldamine kohe. Tühistamise oleku kuvamiseks Azure'i portaalis võib siiski aega võtta kuni 10 minutit. Microsoft saadab lõpliku arve järgmise kuu arvele osalise tarbimise või ostu eest. Tellimuses töötavad teenused keelatakse tellimuse tühistamise korral. See tähendab, et virtuaalarvutid on eraldatud, ajutised IP-aadressid on vabad ja salvestusruum **muutub kirjutuskaitstuks.** 
 
-Pärast tellimuse tühistamist ootab Microsoft 30-90 päeva enne andmete jäädavalt kustutamist juhuks, kui teil on vaja sellele juurde pääseda või te muudate meelt. Microsoft ei nõua andmete säilitamist. Lisateavet leiate teemast [Microsoft Trust Center – andmete haldamine](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Kui tellimus on tühistatud, ootab Microsoft 30–90 päeva enne andmete jäädavalt kustutamist juhuks, kui peate sellele juurde pääsema või meelt muutma. Microsoft ei pea andmete säilitamise eest tasu. Lisateavet leiate teemast [Microsofti usalduskeskus – kuidas me teie andmeid haldame.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
 
 
 

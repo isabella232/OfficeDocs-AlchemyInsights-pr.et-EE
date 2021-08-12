@@ -1,5 +1,5 @@
 ---
-title: Poolelioleva teenuse juhtum
+title: Teenusejuhtum on pooleli
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -19,18 +19,18 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea17addde1b98b6f8b33909e126078266992a55e7eb6932443fc8f9d213c04a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061356"
 ---
-# <a name="service-incident-in-progress"></a>Poolelioleva teenuse juhtum
+# <a name="service-incident-in-progress"></a>Teenusejuhtum on pooleli
 
-Teid võidakse mõjutada teenuse intsident või nõustamine, mida praegu uuritakse. Uusimat olekut saate kontrollida, minnes [teenuse tervise](https://admin.microsoft.com/adminportal/home#/servicehealth) lehele.
+Teid võib mõjutada teenusejuhtum või nõuandev juhtum, mida praegu uuritakse. Uusimat olekut saate kontrollida, kui avad lehe [Teenuse](https://admin.microsoft.com/adminportal/home#/servicehealth) seisund.
   
-Teie mugavuse huvides leiate selle intsidendi kokkuvõtte.
+Teie mugavuse huvides leiate allpool selle juhtumi kokkuvõtte.
   
 > **Juhtumi number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     

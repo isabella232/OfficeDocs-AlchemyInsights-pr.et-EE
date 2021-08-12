@@ -1,5 +1,5 @@
 ---
-title: SharePointi kalendri lisamine
+title: Kalendri SharePoint lisamine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935153"
 ---
-# <a name="add-a-sharepoint-calendar"></a>SharePointi kalendri lisamine
+# <a name="add-a-sharepoint-calendar"></a>Kalendri SharePoint lisamine
 
-SharePointi kalendrid on klassikalised loenditüübid, mis on mõnikord segaduses Microsoft 365 rühmakalendritega.
+SharePoint Kalendrid on klassikalised loenditüübid, mis on mõnikord segamini Microsoft 365 rühmakalendritega.
  
-SharePointi kalendri loomiseks tehke järgmist.
+Kalendri loomiseks SharePoint tehke järgmist.
  
-1.  Valige ikoon **Sätted** hammasrattad ja seejärel **valige Lisa rakendus**.
+1.  Valige **Sätted** hammasratta ikoon ja seejärel **valige Lisa rakendus**.
 2.  Tippige otsinguväljale **Rakenduse otsimine** tekst Kalender **ja** vajutage sisestusklahvi (Enter).
 3.  Valige rakendus nimega **Kalender** ja seejärel sisestage oma kalendri nimi.
 
-Lisateavet Microsoft 365 rühmade kohta leiate teemast [Teave Microsoft 365 rühmade kohta.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+Lisateavet rühmade Microsoft 365 kohta leiate teemast Teave rühmade [Microsoft 365 kohta.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 
