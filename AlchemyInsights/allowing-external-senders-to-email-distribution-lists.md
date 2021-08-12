@@ -1,5 +1,5 @@
 ---
-title: 714 väliste saatjate meili leviloendite lubamine
+title: 714 Välistele saatjatele meili leviloendite lubamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 8f3511f0dc8c7951eaa7b0496797584efe2e7d4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1949558863eab3d81c6ef9fb575068e9b43957227d9d7edc91af71bd93364574
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933389"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Väliste saatjate lubamine leviloenditele sõnumite saatmiseks
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Luba välistel saatjatel levirühmadele sõnumeid saata
 
-Kui teie asutuses olevad kasutajad saavad teie leviloenditele sõnumeid saata või soovite veenduda, et teie levirühma on konfigureeritud meilisõnumeid vastu võtma välistelt saatjatelt, tehke järgmist.
+Kui kasutajad, kes ei kuulu teie ettevõttesse, saavad levirühmadele sõnumite saatmisel tõrketeateid või soovite veenduda, et levirühmad on konfigureeritud välistelt saatjatelt meilisõnumeid vastu võtta, tehke järgmist.
 
-1. Valige Microsoft 365 halduskeskus leht **rühmade**  >  [rühmad](https://portal.office.com/adminportal/home#/groups) .  
+1. Avage Microsoft 365 halduskeskus   >  [](https://portal.office.com/adminportal/home#/groups) rühmarühmad.  
 
-2. Valige levirühma ja valige paanil rühma atribuudid vahekaart **sätted** .
+2. Valige levirühm ja valige rühma atribuutide paanil **Sätted.**
 
-3. Märkige ruut **Luba välised saatjad sellele rühmale meilisõnumeid**saata ja seejärel valige **Salvesta**.
+3. Valige **Luba välistel saatjatel see rühm meilisõnumeid saata** ja seejärel valige **Salvesta**.
