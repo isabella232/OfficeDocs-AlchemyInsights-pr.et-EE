@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge'i lisandmoodulite poest Microsoft Edge'i laienduse lisamine
+title: Lisandmoodulite Microsoft Edge lisamine Microsoft Edge lisandmoodulite poest
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6919"
 - "8310"
 - "9004621"
-ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 0533c92d17fe39325f0067cebf96c3f63b0dcc9a7ed58557e2557ef75aad55e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51504992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936413"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Microsoft Edge'i lisandmoodulite poest Microsoft Edge'i laienduse lisamine
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Lisandmoodulite Microsoft Edge lisamine Microsoft Edge lisandmoodulite poest
 
-Microsoft Edge'i lisandmoodulite poest Microsoft Edge'i laienduse lisamiseks:
+Lisandmoodulite salvest Microsoft Edge laiendi Microsoft Edge.
 
 - Avage Microsoft Edge.
-- Valige **... > Laiendused > [Hankige Microsoft Edge'i laiendused](https://go.microsoft.com/fwlink/?linkid=2136408)**.
+- Valige **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
 - Valige laiend, mille soovite lisada, ja seejärel valige **Hangi**.
 - Vaadake kinnituse dialoogiboksis hoolikalt läbi muudatused, mida laiend võib teha, ja valige **Lisa laiend**.
 
