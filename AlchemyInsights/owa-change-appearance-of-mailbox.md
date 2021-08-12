@@ -1,5 +1,5 @@
 ---
-title: Postkasti ilme muutmine Outlooki veebirakenduses
+title: Postkasti ilme muutmine Outlooki veebirakendus
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 4e4c07296c1d4ae579757ad49f7ad8325ec45f57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b74777e03e059f069bfd0c4b51dd8f227e8f228742cfb415cc0bab8f9bd6201e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961407"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a>Outlooki postkasti ilme muutmine
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Postkasti ilme Outlook muutmine
 
-Saate muuta sõnumiloendi ja lugemispaani ilmet nii, et see näeks välja ja käitub nii, nagu soovite. Valige, kas sõnumid tuleks kuvada ükshaaval või vestluste, kui uued sõnumid kuvatakse sõnumiloendis üla-või allservas ja palju muud.
+Saate muuta sõnumiloendi ja lugemispaani ilmet nii, et see näeb välja ja käitub soovitud viisil. Valige, kas sõnumeid tuleks kuvada eraldi või vestlustena, kui sõnumiloendi üla- või allservas peaks kuvatama uusi sõnumeid ja palju muud.
 
-1. Valige käigukasti ikoon <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- paani sätted avamiseks lehe ülaosas.
-1. Valige oma sätted fookuses sisendkaust, Kuva tihedus, vestluse vaade ja Lugemispaan.
-1. Valige sõnumiloendis ülaosas nupp **Filtreeri**  >  **sortimine** , et valida, kuidas soovite meilisõnumeid sortida.
+1. Hammasrattaikooni valimine <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ lehe ülaservas, et avada Sätted paan.
+1. Valige sätted fookeeritud sisendkausta, kuvatiheduse, vestlusvaate ja lugemispaani jaoks.
+1. Meilisõnumite sortimisjärjestuse valimiseks valige sõnumiloendi ülaosas Filtreeri  >   sortimisjärjestust.
 
-Lisateavet leiate teemast [postkasti ilme muutmine](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Lisateavet leiate teemast [Postkasti ilme muutmine.](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c)

@@ -1,5 +1,5 @@
 ---
-title: Lisage või värskendage PO number – pärand WD Soovitatavad toimingud
+title: Ostutellimuse numbri lisamine või värskendamine – pärand-WD – soovitatavad toimingud
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677435"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953865"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Lisage või värskendage PO number – pärand WD Soovitatavad toimingud
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Ostutellimuse numbri lisamine või värskendamine – pärand-WD – soovitatavad toimingud
 
-Ostutellimuse (PO) numbri lisamist toetatakse ainult nende klientide puhul, kes [maksavad arve alusel](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) tšeki või pangaülekande kaudu. Juhised PO-numbri värskendamiseks sõltub teie [arvelduse konto tüübist](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts).
+Ostutellimuse (PO) numbri lisamist toetatakse ainult nende klientide puhul, kes tasuvad [arvega](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) tšeki või ülekandega. Ostutellimuse numbri värskendamise juhised olenevad [teie arvelduskonto tüübist.](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)
 
-PO numbri redigeerimiseks peab teil olema [konto administraatori](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) roll.
+Ostutellimuse numbri [redigeerimiseks peab](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) teil olema konto administraatori roll.
 
-1. Valige tellimus [lehelt tellimused](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) .
-2. Klõpsake vasakus servas nuppu **makseviisid** .
-3. Klõpsake tabelist **makseviisid** nuppu **arve**. 
-4. Sisestage uus PO-number ja klõpsake nuppu **Salvesta**.
+1. Valige oma tellimus lehelt [Tellimused.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Klõpsake **vasakus** servas valikut Makseviisid.
+3. Klõpsake **tabelis Makseviisid** nuppu **Arve.** 
+4. Sisestage oma uus OSTUTELLIMUSE number ja klõpsake nuppu **Salvesta**.
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Toetatud riigid/piirkonnad ja valuutad](https://azure.microsoft.com/en-us/pricing/faq/) 
-- [Kuidas maksta arve alusel?](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
-- [Azure ' i arvelduse konto kontaktteabe haldamine](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
+- [Toetatud riigid/regioonid ja valuutad](https://azure.microsoft.com/en-us/pricing/faq/) 
+- [Arve alusel maksmine](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Azure'i arvelduskonto kontaktteabe haldamine](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 

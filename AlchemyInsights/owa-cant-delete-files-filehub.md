@@ -1,5 +1,5 @@
 ---
-title: Ei saa kustutada faile või fotosid Outlooki veebirakenduses olevatest failidest
+title: Faile ega fotosid ei saa rakenduses Outlooki veebirakendus
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 10864e19efeee0e65845de8fff4e021813cde3d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d73662feb79496e8a0901588d35359ef6d878067d93adf2172504e4d96af1cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961444"
 ---
-# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Ei saa kustutada faile või fotosid Outlooki veebirakenduses olevatest failidest
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Faile ega fotosid ei saa rakenduses Outlooki veebirakendus
 
-**Failid** kuvatakse teie postkasti sõnumitele manustatud failid ja fotod. Failide ja fotode eemaldamiseks failidest peate kustutama need meilisõnumid, millega nad on seotud. Pärast sõnumite kustutamist peate need kustutama ka kaustast Kustutatud üksused.
+**Failides** kuvatakse teie postkasti sõnumitele manustatud failid ja fotod. Failide ja fotode eemaldamiseks failidest peate kustutama manustatud meilisõnumid. Pärast sõnumite kustutamist peate need kustutama ka kaustast Kustutatud üksused.

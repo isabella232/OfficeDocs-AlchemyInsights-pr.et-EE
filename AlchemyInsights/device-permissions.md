@@ -1,5 +1,5 @@
 ---
-title: Seadme load
+title: Seadmeõigused
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50713711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913963"
 ---
-# <a name="device-permissions"></a>Seadme load
+# <a name="device-permissions"></a>Seadmeõigused
 
-Windowsi seadme haldamiseks peate olema rühma kohalike administraatorite liige. Azure Active Directory (Azure AD) liitumise protsessi käigus uuendab Azure AD selle rühma liikmelisuse seadmes. Liikmestaatuse värskenduse kohandamiseks saate oma ärialased nõuded rahuldada. Liikmestaatuse värskendus on näiteks kasulik juhul, kui soovite lubada kasutajatoe töötajatel teha seadmes administraatori õigusi nõudvaid toiminguid.
+Seadme Windows peate olema kohalike administraatorite rühma liige. Azure AD Azure Active Directory (Azure AD) liitumise käigus värskendab Azure AD selle rühma liikmelisust seadmes. Liikmesuse värskendust saate kohandada nii, et see vastaks teie ettevõtte vajadustele. Liikmesuse värskendusest on abi näiteks juhul, kui soovite, et teie kasutajatoe töötajad saavad teha toiminguid, mis nõuavad seadmes administraatoriõigusi.
 
-Lisateavet kohalike administraatorite liikmestaatuse värskendamise ja selle kohta, kuidas seda Azure AD liitumise ajal kohandada, leiate teemast [kohalike administraatorite määramine seadmetele](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Selle artikli sisu ei kehti hübriid Azure AD liitunud seadmete kohta.
+Teavet selle kohta, kuidas kohalike administraatorite liikmesuse värskendus töötab ja kuidas seda Azure AD-ühenduse ajal kohandada, leiate teemast Kohalike [administraatorite määramine seadmetesse.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) Selle artikli sisu ei kehti Azure AD hübriidseadmete kohta.
