@@ -1,5 +1,5 @@
 ---
-title: Ühiskausta kasutusõiguste muutmine
+title: Avaliku kausta õiguste muutmine
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,27 +12,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c2fb89f8dd256afb7e922ca74976097501173bf605e6c5fccc73019a71edcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950184"
 ---
-# <a name="changing-public-folder-permissions"></a>Ühiskausta kasutusõiguste muutmine
+# <a name="changing-public-folder-permissions"></a>Avaliku kausta õiguste muutmine
 
-Ühiskausta kasutusõigusi saab muuta Outlooki kasutajate ja administraatorite poolt. Administraatorid saavad ka Exchange ' i administreerimiskeskuse (EAC) lube reguleerida, tehes järgmist.
+Avaliku kausta õigusi saavad muuta kasutajad ja administraatorid Outlook. Administraatorid saavad õigusi juhtida ka Exchange halduskeskuses (EAC), tehes järgmist.
   
-1. Valige Microsoft 365 halduskeskus **Admin centers** \> **Exchange ' i**halduskeskus.
+1. Avage Microsoft 365 halduskeskus Halduskeskused  \> **ja Exchange**.
 
-2. Valige **avalikud kaustad**.
+2. Valige **Avalikud kaustad**.
 
-3. Seal saate muuta üksikute avalike kaustade kasutusõigusi, määrates neile õigustele turvalisuse rühmad. Et lõppkasutaja saaks muuta avalike kaustade õigusi, peab kasutajal olema kausta omanikuõigused.
+3. Sealt saate üksikute avalike kaustade õigusi muuta, määrates õigustele turberühmad. Selleks et lõppkasutaja muudaks avaliku kausta õigusi, peab kasutajal olema kaustas omanikuõigused.
 
-Kui soovite avalike kaustade õiguste probleemide lahendamiseks [lahendada avalike kaustade lubamise probleemid](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) , järgige kirjeldatud juhiseid.
+Avalike kaustade õiguste probleemide [tõrkeotsinguks järgige](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) artiklis Avalike kaustade õiguste probleemide diagnoosimine ja lahendamine kirjeldatud protseduure.
 
-**Märkus**: avalike kaustade õiguse muutmise katsel võib ilmneda mitu teadaolevat probleemi. Lisateavet leiate järgmistest artiklitest.
+**Märkus.** Avalike kaustade õiguste muutmisel võib ilmneda mitu teadaolevat probleemi. Lisateavet leiate järgmistest artiklitest.
 
-- [EAC-s ei saa avalike kaustade alamkaustadele õigust rakendada](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [EAC-s ei saa ühiskausta alamkaustadele õigusi rakendada](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- [Tõrketeade "postkasti ei leita kohalikust metsast", kui avate ühiskaustu](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- [Avalikele kaustadele juurdepääsemisel kuvatakse tõrketeade "Postkasti ei leita kohalikust metsast".](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)

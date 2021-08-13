@@ -1,5 +1,5 @@
 ---
-title: Saatjate blokeerimine või blokeeringu tühistamine Outlooki veebirakenduses
+title: Saatjate blokeerimine või blokeeringu Outlooki veebirakendus
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: 0092ca78a075463c0574357861b41b15fefe59af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e572ac0d8f0316cd440aacf8ab3423fef6327bb104d5181fea51275bd1b4136d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924621"
 ---
-# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Saatjate blokeerimine või blokeeringu tühistamine Outlooki veebirakenduses
+# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Saatjate blokeerimine või blokeeringu Outlooki veebirakendus
 
-**Postkastist:**
+**Sisendkaustast:**
 
-- Valige sõnumiloendis sõnum ja seejärel valige **Rämpspost**  >  **Block**.
+- Valige sõnumiloendis sõnum ja seejärel valige  >  **Rämpspost**.
 
-**Sätete hulgast:**
+**Alates Sätted:**
 
-1. Valige lehe ülaservas nupp käik <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- sätete avamiseks ja seejärel valige **Kuva kõik Outlooki sätted**.
-2. Valige e- **posti**  >  **Rämpspost**.
-3. Klõpsake jaotises **Blokeeritud saatjad ja domeenid**nuppu **Lisa**.
-4. Tippige selle domeeni meiliaadress, mida soovite blokeerida, ja vajutage sisestusklahvi (ENTER).
+1. Valige lehe ülaservas hammasrattaikoon <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ ja seejärel valige Kuva kõik **Outlook sätted**.
+2. Valige **Meil**  >  **rämpspost**.
+3. Valige **jaotises Blokeeritud saatjad ja domeenid** **nupp Lisa**.
+4. Tippige selle domeeni meiliaadress, mille soovite blokeerida, ja vajutage sisestusklahvi (Enter).
 5. Valige **Salvesta**.
 
-Saatja blokeeringu tühistamiseks valige selle meiliaadressi või domeeni kõrval olev prügikast, mille blokeeringu soovite tühistada.
+Saatja blokeeringu tühistamiseks valige selle meiliaadressi või domeeni kõrval prügikastiikoon, millelt soovite blokeeringu eemaldada.
 
-Lisateavet leiate teemast [saatjate blokeerimine või blokeeringu tühistamine Outlooki veebirakenduses](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+Lisateavet leiate teemast [Saatjate blokeerimine või saatjate blokeeringu Outlooki veebirakendus.](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0)

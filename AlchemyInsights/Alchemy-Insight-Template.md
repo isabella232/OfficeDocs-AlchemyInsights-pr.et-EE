@@ -1,5 +1,5 @@
 ---
-title: sama, mis failinimi on parim
+title: sama, mis failinimi, on parim
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918891"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Nõutav alkeemia päis H1, H2's ei tööta."
-Alkeemia autorluse head tavad ja juhised.
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Nõutav Alchemy päis H1, H2 ei tööta".
+Alchemy autoriteedi head tavad ja juhised.
 
-1. **Ära pesasta alkeemia-ülevaadet kaustadesse**– See murrab URL-i struktuuri. Me otsime selle parandamist.
-1. Kaustas **AlchemyInsights** olevatel failidel peaks olema väiksed failinimed sidekriipsuga tühikute jaoks. ***Kuidas-to-enable-kohtuvaidlus-ootel***.
-    1. Lisage reegli ID või ämber ID andmebaasi [alkeemia partner portaalist](https://alchemyportal.azurewebsites.net) MS. custom. ex0. ***MS kohandatud: 100021***
-1. Kasutage mallina selle lehe ülaosas olevat ülejäänud metaandmeid.
-1. Jaotises [Alchemy partnerite portaal](https://alchemyportal.azurewebsites.net)saate liikuda jaotise **Kliendi ülevaate pealkiri:** ja kasutada seda, kui soovite, et teie H1 pealkiri oleks lähtepunkt. 
+1. **Ärge pesasta Alchemy Ülevaated kaustadesse**– see katkestab URL-i struktuuri. Me otsime selle parandamist.
+1. Kaustas **AlchemyInsights asuvatel failidel** peaks olema väiketäheline failinimi koos poolituskriipsudega(nt tühikud). **_how-to-enable-litigation-hold_**.
+    1. Lisage väljale ms.custom [alkeemia](https://alchemyportal.azurewebsites.net) partneri portaali reegli ID või salve ID. ex. ***ms.custom: 100021***
+1. Mallina saate kasutada ülejäänud selle faili ülaosas aetud metaandmeid.
+1. Liikuge [Alchemy partneri portaalis](https://alchemyportal.azurewebsites.net)jaotisse **Kliendiülevaate pealkiri:** ja kasutage seda ülevaate jaoks oma H1 pealkirja lähtepunktina. 
     > [!NOTE]
-    > Alkeemia-ülevaadetel peab ülaosas olema ainult üks H1 või see puruneb tootmisel. H2s ei saa muuta nii **paksude** kui ka muude konventsioonide abil eraldi jaotisi.
-1. Järgmiseks täitke jaotise "alkeemia Rule" (klientide ülevaated) jaotises Kliendi ülevaated olevate funktsioonide teksti kehatekst.
-    1. Täpploendid on head
-    1. Nummerdatud loendid on liiga
-    1. **Paks** ja *kursiiv* on a-OK
-    1. Lingid peavad alati olema kas **"lingid veebi"/External** või **sügavad lingid kasutajaliidese elementidele**, mitte sisemistele linkidele.
-    1. Pildid pole praegu ametlikult toetatud, kuid see on ka tegevuskavas.
+    > Alchemy Ülevaated peab ülaservas olema ainult üks H1 või need purunevad tootmises. H2-d ei renderda **nii,** et kasutage eraldi jaotiste allkirjastamiseks paksus kirjas või muid tavad.
+1. Järgmiseks täitke kehatekst alkeemiareegli lehe Customer Insights mustandimaterjali abil.
+    1. Täpploendid on korras
+    1. Ka nummerdatud loendid
+    1. **Paksud** *ja kursiivkirjad* on a-ok
+    1. Lingid peaksid alati olema kas **"veebilingid"/välised** VÕI **süvalingid kasutajaliidese elementidele,** mitte sisemistele linkidele.
+    1. Praegu ei toetata pilte ametlikult, kuid need on teekaardil.
 
-Ja see on tõesti juba liiga pikk. Head tavad on umbes 400 tähemärki---------------------------------
+Ja see on juba liiga pikk. Parim tava on umbes 400 ---------------------------------
 
-Kui teie sisu on valmis, tõmmake see otse Live ' i kontorisse. Seejärel avage [alkeemia partnerite portaal](https://alchemyportal.azurewebsites.net) ja sisestage failinimi väljale URL. 
+Kui sisu on valmis, tõmmake see reaalajas harusse. Seejärel avage [Alchemy partneri portaal ja](https://alchemyportal.azurewebsites.net) sisestage url-i väljale failinimi. 

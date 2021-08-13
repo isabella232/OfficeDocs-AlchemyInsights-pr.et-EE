@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "9686"
-ms.openlocfilehash: fe0bae35942af9925e8a5f90f966e204d7f84fd2
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 2aa9d325be0d507c72dd615a05529e99711cff968264c474820625f8fcc65bdc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51035747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969823"
 ---
 # <a name="troubleshoot-errors-related-to-application-proxy"></a>Rakenduse puhverserveriga seotud tõrgete tõrkeotsing
 
-- Lisateavet Levinumate tõrgete kohta, mis on pärit Kerberose häälestusest ja konfiguratsioonist, ning soovitusi lahendamise kohta leiate teemast [rakenduse puhverserveri probleemide ja tõrketeadete tõrkeotsing](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors).
-- Rakenduse puhverserver 404 tõrked leiate teemast rakenduse [puhverserveri rakenduse rakenduse puhverserveri jaoks õigesti kuvamine | Microsoft docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem).
-- Azure ' i Active Directorys (Azure AD) saab paljusid kohapealseid rakendusi hõlpsalt korrastada ja kasutusele võtta mittevajalikud ohud, kui paljud neist nõuavad samu sätteid. [AZURE ad Application proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy), saate selle probleemi lahendamiseks metamärkide rakenduse avaldamise abil saate avaldada ja hallata paljusid rakendusi korraga. Lisateavet leiate teemast [metamärkide rakendused rakenduses AZURE ad Application proxy | Microsoft docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard).
+- Lisateavet Levinumate Kerberose häälestamise ja konfigureerimise tõrgete ning lahendusesoovituste kohta leiate teemast Rakenduse puhverserveri probleemide [ja tõrketeadete tõrkeotsing.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors)
+- Rakenduse puhverserveri 404 tõrgete kohta leiate lisateavet teemast Rakenduse leht ei kuvata rakenduse puhverserveri rakenduse | [ Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem).
+- Azure Active Directory (Azure AD) korral võib suure hulga kohapealste rakenduste konfigureerimine muutuda kiiresti mittehallatavaks ja põhjustada konfiguratsioonitõrgete jaoks tarbetuid riske, kui paljud neist nõuavad samu sätteid. [Azure AD rakenduse puhverserveri abil](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy)saate selle probleemiga tegeleda metamärgiga rakenduse avaldamise abil, et avaldada ja hallata korraga paljusid rakendusi. Lisateavet leiate teemast [Metamärgirakendused Azure AD rakenduse puhverserveri | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard).

@@ -1,5 +1,5 @@
 ---
-title: Outlook Synci limiit 3,99 GB
+title: Outlook 3,99 GB sünkroonimislimiit
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 07a87b1f672108ed1dd8ff76cc7e571b0138314f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc8dd130a727551181b05657d35c2872214a7b159ef42f0e52d8464fc38967b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924585"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlooki sünkroonimise olekuribal jääb 3,99 GB.
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook olekuribal on 3,99 GB
 
-Proovige vähendada kausta sisu suurust või luua suurte kaustade sünkroonimise filter 4 GB või selle lähedal.
+Proovige vähendada kausta sisu mahtu või luua suurte kaustade sünkroonimisfilter 4 GB või selle läheduses.
 
-Lisateavet leiate teemast olekuriba edenemise kuvamine, mida ei kuvata enam kui 3,99 GB [suurte kaustade algsel sünkroonimisel](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Lisateavet leiate teemast Olekuriba edenemine ei kuva kunagi rohkem kui 3,99 GB, mis jääb algsesse suurte [kaustade sünkroonimisse.](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)

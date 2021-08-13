@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8619"
-ms.openlocfilehash: 601649f6e5212ca03df5fcc32cd1d02c133e9170
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 3cdde086e535d2397b4d1a8a66903121a5217015ca055fb9f8d025b0842f044b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960831"
 ---
 # <a name="password-synchronization"></a>Parooli sünkroonimine
 
-**Parooli Hash sünkroonimine ei tööta üldse**
+**Parooliga hashisünkroonimine ei tööta üldse**
 
-Mõned levinud probleemid klientidega, kui parooli Hash sünkroonimine ei tööta, on järgmised.
+Levinumad probleemid, mis ilmnevad klientidel, kui paroolisahisünkroonimine ei tööta, on järgmised.
 
-- Azure AD ' is kasutatava Active Directory kontoga suhtlemiseks kohapealse Active Directory abil pole antud **tiražeerimise kataloogi muudatusi** ja **tiražeerimise register muudab kõik** juurdepääsuõigused, mida on vaja parooli sünkroonimiseks – peate selle parandama, andes need juurdepääsuõigused Active Directory kontole.
-- Parooli Hash sünkroonimine on keelatud pärast seda, kui administraator muutis kasutaja Sign-In meetod **parooli sünkroonimise** teise variandi (nt **Föderatsioon AD FS** Azure AD Connecti viisardiga) – saate selle parandada, kui lubate Azure AD Connecti viisardis **parooli Hash sünkroonimise** funktsiooni.
-- Ühenduvuse probleem kohapealne Active Directoryga. Näiteks ei pääse mõned domeenikontrollerid Azure AD Connecti kaudu juurde või tulemüürid [on blokeeritud](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) , peate selle parandama, tagades, et Azure AD Connecti serveri ja kohapealse Active Directory vaheline Ühenduvus töötab õigesti.
-- Azure AD Connect server on praegu lavastuse režiimis, mille tulemusena server ei saa parooli hashes-probleemi tõrkeotsinguks, järgige jaotises kirjeldatud juhiseid, mida on kirjeldatud jaotises [tõrkeotsing parooliga sünkroonimisel AZURE ad Connecti sünkroonimine – paroole ei sünkroonita](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+- Active Directory kontole, mida Azure AD Ühendus kasutab asutusesisese Active Directoryga  suhtlemiseks,  ei anta paljundamiskataloogi muudatusi ega paljunda kataloogi muudatusi Kõik õigused, mis on vajalikud paroolisünkroonimiseks – peate selle lahendama, andes need õigused Active Directory kontole.
+- Paroolisorni sünkroonimine keelatakse pärast seda, kui  administraator on muutnud kasutaja Sign-In-meetodi paroolisünkroonimiseks mõneks muuks suvandiks (nt Azure  AD Ühendus viisardis **AD FS-iga FS-iga** liitumine) – probleemi lahendamiseks lubate Azure AD Ühendus viisardis uuesti paroolisorgisünkroonimise funktsiooni.
+- Ühenduvusprobleem asutusesisese Active Directoryga. Näiteks azure AD Ühendus ei pääse mõnedele domeenikontrolleritele [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) juurde või nõutavad pordid on tulemüüri poolt blokeeritud. Selle probleemi lahendamiseks peate tagama Azure AD Ühendus serveri ja asutusesisese Active Directory vahelise ühenduvuse.
+- Azure AD Ühendus server on praegu staging režiimis, mille tulemusena server ei saa parooliga seotud hashes - Probleemi tõrkeotsinguks järgige teemas Parooli sünkroonimise tõrkeotsing [Azure AD Ühendus sünkroonimist –](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)paroole ei sünkroonita.
 
-**Parooli Hash sünkroonimine ei tööta mõne kasutaja jaoks**
+**Parooliga hashisünkroonimine ei tööta mõnede kasutajate jaoks**
 
-1. Kui märkate, et parooli Hash ei sünkroonita kasutaja jaoks, kasutage probleemi uurimiseks ja lahendamiseks Azure AD ' i ülesande **tõrkeotsingut** . Tehke järgmised toimingud.
+1. Kui märkasite, et kasutaja paroolisort ei  sünkroonita, kasutage probleemi uurimiseks ja lahendamiseks Azure AD Ühendus tõrkeotsinguülesannet. Tehke järgmised toimingud.
 
-    loomine. [Viisardis tõrkeotsingu ülesande käivitamine](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
+    a. [Tõrkeotsinguülesande käivitamine viisardis](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
 
-    b. [Tõrkeotsingu cmdlet-käsu kasutamine konkreetsel otstarbel parooli räsi sünkroonimise probleemi uurimiseks](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+    b. [Tõrkeotsingu cmdlet-käsu abil saate uurida parooliga sünkroonimise probleemi konkreetses kasutuses](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-2. Kohapealne Active Directory User Object on lubatud **kasutaja peab parooli muutma järgmisel sisselogimise** suvandil. Kui see suvand on lubatud, määratakse kasutajale ajutine parool ja teil palutakse muuta järgmise sisselogimise parooli. Azure AD Connecti ei sünkroonita Azure AD ajutised paroolid.
+2. Kohapealne Active Directory kasutajaobjekt on lubatud, kui **kasutaja peab järgmisel sisselogimisel parooli** muutma. Kui see suvand on lubatud, määratakse kasutajale ajutine parool ja kasutajal palutakse järgmisel sisselogimisel parooli muuta. Azure AD Ühendus sünkroonida ajutisi paroole Azure AD-ga.
 
 Ülaltoodud probleemi lahendamiseks tehke ühte järgmistest toimingutest.
 
-- Paluge kasutajal sisse logida asutusesisesesse rakendusse (nt Windowsi töölauale) ja muuta parooli. Uus parool sünkroonitakse Azure AD-ga.
-- Kui administraator on kasutaja parooli värskendanud, siis peab kasutaja parooli **muutma järgmisel sisselogimisel parooli vahetama** ja kasutajaga uue parooli ühiskasutusse andma.
+- Paluge kasutajal sisse logida asutusesisesesse rakendusse (nt Windows Desktop) ja muuta parooli. Uus parool sünkroonitakse Azure AD-ga.
+- Kui administraator värskendab kasutaja parooli, ilma et lubaks suvandit **Kasutaja** peab järgmisel sisselogimisel parooli muutma, ja jagage uut parooli kasutajaga.
 
-3. Kohapealne Active Directory kasutaja objekt pole objekti sünkroonimiseks või parooli sünkroonimiseks **õigesti konfigureeritud** . Selle probleemi tõrkeotsingu sooritamiseks järgige juhiseid, mis on kirjeldatud jaotises [tõrkeotsing parooli räsi sünkroonimisel AZURE ad Connecti sünkroonimine](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+3. Kohapealne Active Directory kasutajaobjekt pole **objektisünkroonimise või** paroolisünkroonimise jaoks õigesti konfigureeritud. Selle probleemi tõrkeotsinguks järgige juhiseid, mida on kirjeldatud teemas Paroolisiga sünkroonimise tõrkeotsing [Azure AD Ühendus sünkroonimist.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
 
 

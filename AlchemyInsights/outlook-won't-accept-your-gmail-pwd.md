@@ -1,5 +1,5 @@
 ---
-title: Outlook ei aktsepteeri teie Gmaili parooli
+title: Outlook Gmaili parooli ei aktsepteerita
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924651"
 ---
 # <a name="outlook-wont-accept-your-gmail-password"></a>Outlook ei aktsepteeri teie Gmaili parooli
 
-Soovitame sisse lülitada kahe teguri autentimise ja kasutada rakenduse parooli.
+Soovitame sisse lülitada kahe teguriga autentimise ja kasutada rakenduseparooli.
 
-Kahe teguri autentimise sisselülitamiseks ja rakenduse parooli hankimiseks tehke järgmist.
+Kahe teguriga autentimise sisselülimiseks ja rakenduseparooli saamiseks tehke järgmist.
 
-1. Avage brauseris Gmail ja klõpsake Kuva paremas ülanurgas ikooni **Google ' i rakendused** .
+1. Avage brauseris Gmail ja klõpsake kuva **paremas** ülanurgas valikut Google'i rakenduste ikoon.
 1. Klõpsake vasakul nuppu **Turve**.
-1. Klõpsake jaotises Google ' i sisselogimine, kui kaheastmeline **kinnitamine** on **välja lülitatud**, klõpsake **>** selle sisselülitamiseks  **välja** järgmine. Vastasel juhul jätkake juhisega 4.
-1. Klõpsake esimesel kuval nuppu **Jätka**.
-1. Kui küsitakse, sisestage oma Gmaili parool ja seejärel klõpsake nuppu **edasi**.
-1. Sisesta oma telefoninumber ja vali, kas soovid saada oma kontrollkood tekstisõnumi või telefonikõne järgi.
-1. Klõpsake nuppu **edasi**.
-1. Sisestage saadud kood ja klõpsake nuppu **edasi**.
-1. Kaheastmelise kinnitamise häälestamise lõpuleviimiseks klõpsake nuppu **LÜLITA edasi** .
-1. Eelmisele kuvale naasmiseks klõpsake järgmise **kaheastmelise kinnitamise** kõrval kuva ülaosas olevat vasaknoolt.
-1. Valige **>** **rakenduse paroolide** rea parempoolses servas.
-1. Sisestage oma Google ' i parool ja klõpsake nuppu **Logi sisse**. Klõpsake järgmise Kuva allservas nuppu **Elektronpost** ja **Windowsi arvuti** ripploenditest ja seejärel nuppu **Loo**.
-Google kuvab teie jaoks rakenduse parooli. 
-13. Kopeerige see parool (tühikuteta) ja sisestage see parool, kui Outlook küsib teilt parooli.
+1. Kui jaotises Google'i sisselogimine **on kaheastmeline kinnitamine** **VÄLJAS,** klõpsake selle sisselülitamis väljalülitamiseks **>** välja kõrval nuppu **.**  Muul juhul jätkake 4. juhise juurde.
+1. Klõpsake esimesel kuval nuppu **JÄTKA**.
+1. Kui teilt küsitakse, sisestage gmaili parool ja seejärel klõpsake **nuppu NEXT**.
+1. Sisestage oma telefoninumber ja valige, kas soovite kinnituskoodid vastu võtta tekstsõnumi või telefonikõnega.
+1. Klõpsake **nuppu NEXT (EDASI).**
+1. Sisestage saadud kood ja klõpsake nuppu **NEXT**.
+1. Klõpsake **2-astmelise** kinnitamise lõpuleviimiseks nuppu LÜLITA SISSE.
+1. Eelmisele kuvale naasmiseks klõpsake nupu Kaheastmeline kinnitamine kõrval kuva ülaservas **olevat vasaknoolt.**
+1. Valige **>** rakenduseparoolide reast **paremal paremal soovitud** väärtus.
+1. Sisestage oma Google'i parool ja klõpsake **siis nuppu Logi sisse.** Klõpsake järgmise kuva allservas  nuppu Meil ja **Windows arvuti** ja seejärel nuppu **Loo**.
+Google kuvab teie eest rakenduseparooli. 
+13. Kopeerige see parool (ilma tühikuteta) ja sisestage see parool, Outlook teilt parooli küsite.
 
-Lisateavet leiate teemast [Gmaili konto lisamine Outlooki – Outlooki (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Lisateavet leiate teemast Gmaili konto lisamine Outlook [– Outlook (microsoft.com).](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)

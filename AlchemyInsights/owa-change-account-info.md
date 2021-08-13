@@ -1,5 +1,5 @@
 ---
-title: Kontoteabe muutmine Outlooki veebirakenduses
+title: Kontoteabe muutmine Outlooki veebirakendus
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 508b47d255612bf286992726ad0a6fe0c9477474
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e65d8ff1d86f0500821f35c74404a5dabee5eea2c7819978c6742355ba13000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924477"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Konto teabe muutmine Outlooki veebirakenduses
+# <a name="change-account-information-in-outlook-on-the-web"></a>Kontoteabe muutmine Outlooki veebirakendus
 
-1. Valige lehe ülaosas oma nimi või profiili pilt.
-1. Valige **minu konto**.
-1. Valige **isiklik teave**.
-1. Saate muuta või lisada teavet enda kohta.
+1. Valige lehe ülaservas oma nimi või profiilipilt.
+1. Valige **Minu konto**.
+1. Valige **Isiklik teave**.
+1. Saate enda kohta teavet muuta või lisada.
 
-*Märkus:* Mõned andmed (nt teie nimi ja ametinimetus) võivad anda teie IT-või inimressursside osakond. Kui soovite neid andmeid värskendada, võtke ühendust nende või oma administraatoriga.
+*Märkus.* Mõned üksikasjad (nt teie nimi ja ametinimetus) võib olla esitatud teie IT- või personaliosakonnas. Kui soovite neid üksikasju värskendada, võtke ühendust nende või oma administraatoriga.
 
-Lisateavet leiate teemast [fotode ja kontoteabe muutmine Outlooki veebirakenduses](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Lisateavet leiate teemast [Foto- ja kontoteabe muutmine Outlooki veebirakendus.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)
