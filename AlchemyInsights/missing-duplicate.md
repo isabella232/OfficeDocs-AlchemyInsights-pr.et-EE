@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: b17dd499accdbcc05fd50ffeaf275317148b255e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4a42eff05c07645eb4b691134ffa410fedcbbfabe904a74a9827fc4e1934d7a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51793208"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975134"
 ---
 # <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Puuduvate ja dubleeritud kalendriüksuste tõrkeotsing
 
-Microsoft Outlooki ja Microsoft Exchange Serveri kasutamisel puuduvate ja dubleeritud kohtumistega seotud probleemide tõrkeotsingu kohta leiate teavet teemast Puuduvate ja dubleeritud kohtumiste tõrkeotsing [Outlookis.](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)
+Lisateavet microsoft Outlook ja Microsoft Exchange Server kasutamisel puuduvate ja dubleeritud kohtumistega seotud probleemide tõrkeotsingu kohta leiate teemast [Outlook.](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)

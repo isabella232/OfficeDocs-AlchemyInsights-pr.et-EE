@@ -1,5 +1,5 @@
 ---
-title: Kustutatud Yammeri rühma taastamine
+title: Kustutatud rühma Yammer taastamine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 96457eded837e68a79226c32632ea8632cde56c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a8730116b58bfa2eb8b6bdf118a9d316b01f74c18383652c3c58bda5be15a7b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958761"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Kustutatud Yammeri rühma taastamine
+# <a name="restore-a-deleted-yammer-group"></a>Kustutatud rühma Yammer taastamine
 
-[Office 365 ühendatud](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) rühmi Yammeris saab taastada 30 päeva jooksul pärast kustutamist, järgides [kustutatud Microsoft 365 rühma taastamise juhiseid.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
-Mõnel juhul ei pruugi Yammeri rühm olla ühendatud Microsoft 365 rühmaga. Sel juhul ei saa rühma automaatselt taastada, kuid [kui](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) võrguandmete säilituspoliitika on seatud väärtusele Pehme [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) kustutamine, võib olla võimalik pääseda juurde Yammeri andmeekspordi kustutatud *andmetele.* Andmete [säilituspoliitika kontrollimiseks](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) või andmete eksportimiseks pöörduge oma Yammeri võrgu kinnitatud administraatori poole.
+[Office 365 rühmad Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) 30 päeva jooksul pärast kustutamist taastada, järgides kustutatud rühma [Microsoft 365 juhiseid.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
+Mõnel juhul ei pruugi Yammer rühm olla ühendatud Microsoft 365 rühmaga. Sel juhul ei saa rühma automaatselt taastada, kuid kui võrguandmete säilituspoliitika on seatud väärtusele [](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) Pehme kustutamine, [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) Yammer andmeekspordi kustutatud andmetele *juurde pääseda.* Andmete [säilituspoliitika kontrollimiseks](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) või andmete eksportimiseks pöörduge Yammer võrgu kinnitatud administraatori poole.

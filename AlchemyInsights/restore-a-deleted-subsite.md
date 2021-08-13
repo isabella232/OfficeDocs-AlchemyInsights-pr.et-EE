@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 1f5db1349d2029715e9994f2872bf85cac14646b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 458cba655675f9c1f06814a71fa97128786d1d9676c29aefdfd752c2d26917d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958725"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Kustutatud SharePointi alamsaidi taastamine
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Kustutatud alamsaidi SharePoint taastamine
 
-Kustutatud alamsaidid saadetakse saidikogumi prügikasti, kus neid säilitatakse 93 päeva jooksul. Kustutatud alamsaidi taastamiseks tehke järgmist.
+Kustutatud alamsaidid saadetakse saidikogumi prügikasti, kus neid hoitakse 93 päeva. Kustutatud alamsaidi taastamiseks:
   
-1. Otsige uues SharePointi administreerimiskeskuses üles sait, kust alamsait on kustutatud, ja veenduge, et olete saidikogumi administraator. 
+1. Otsige uues halduskeskuses SharePoint sait, kust alamsait kustutati, ja veenduge, et olete saidikogumi administraator. 
     
-2. Avage sait. Klõpsake vasakpoolsel paanil ikooni **Prügikast** . (Kui prügikasti ei kuvata, klõpsake ikooni sätted ja seejärel käsku **saidi sisu**. Prügikast asub ülaosas asuva käsuriba parempoolses servas.)
+2. Minge saidile. Klõpsake **vasakul paanil** nuppu Prügikast. (Kui prügikasti ei näe, klõpsake ikooni Sätted ja seejärel käsku **Saidi sisu**. Prügikast asub ülemises käsuribal paremal.)
     
-3. Klõpsake lehe allservas valikut **teise astme prügikast**.
+3. Klõpsake lehe allservas nuppu **Teise etapi prügikast.**
     
-4. Klõpsake alamsaidist vasakul ja seejärel klõpsake nuppu **Taasta**.
+4. Klõpsake alamsaidist vasakul ja seejärel nuppu **Taasta.**
     
 

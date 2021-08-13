@@ -1,5 +1,5 @@
 ---
-title: Outlookis kaitstud sõnumi vaatamise probleemi lahendamine
+title: Kaitstud sõnumi vaatamise probleemi Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967149"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Kaitstud sõnumi vaatamise probleemi lahendamine Outlookis
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Kaitstud sõnumi vaatamise probleemi Outlook
 
-Kui adressaadil on probleeme krüptitud sõnumi avamisega, siis veenduge, et adressaat klõpsab sõnumis olevat linki, et taotleda ühekordset pääsukoodi.
+Kui adressaadil on krüptitud sõnumi avamisel probleeme, veenduge, et adressaat klõpsab sõnumis linki, et taotleda ühekordset pääsukoodi.
 
-Krüptitud sõnumite avamiseks peavad kasutajad tegema järgmisi toiminguid.
+Krüptitud sõnumite avamiseks peavad kasutajad tegema järgmist.
 
-1. Olenevalt kasutatavast e-posti kliendist klõpsake nuppu **Loe sõnumit** või sarnast viipa. Kasutajaid suunatakse ümber lehele, kus nad saavad sisse logida ja saavad ühekordse koodi.
+1. Olenevalt kasutatavast meilikliendist klõpsake nuppu **Loe sõnumit või** sarnast viipa. Kasutajad suunatakse ümber lehele, kus nad saavad sisse logida ja saada ühekordse koodi.
 
 > [!NOTE]
-> Gmaili kasutajate jaoks palutakse neil Gmailiga sisse logida. Sõnum avatakse uues vahekaardis pärast nupu **Luba** klõpsamist.
+> Gmaili kasutajate jaoks palutakse neil Gmailiga sisse logida. Sõnum avatakse uuel vahekaardil pärast nupu Luba **klõpsamist.**
 
-2. Kontrollige oma e-posti kood ühekordse koodina ja seejärel sisestage see kood brauseriaknas.
+2. Kontrollige oma meilisõnumist ühekordset koodi ja sisestage see kood brauseriaknasse.
 
-3. Sõnumi lugemiseks klõpsake nuppu **Jätka** .
+3. Sõnumi **lugemiseks** klõpsake nuppu Jätka.
 
-Lisateavet leiate teemast [krüptitud sõnumite saatmine, kuvamine ja neile vastamine rakenduses Outlook for PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
+Lisateavet leiate teemast Krüptitud [sõnumite saatmine, Outlook vastamine.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
 
 
