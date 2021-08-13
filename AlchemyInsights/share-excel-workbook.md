@@ -1,5 +1,5 @@
 ---
-title: Exceli töövihiku ühiskasutus
+title: Töövihiku Excel ühiskasutus
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3c2a51afb1b376af4782e49e5b308c9811b5e61bfeea1f52852a79178e818968
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094314"
 ---
-# <a name="collaborate-on-excel-documents"></a>Koostöö Exceli dokumentides
+# <a name="collaborate-on-excel-documents"></a>Koostöö dokumentide Excel kallal
 
-Koostööks kolleegidega Exceli dokumentides kasutage **kaasautorlusfunktsiooni.** 
+Kolleegidega töökaaslastega Excel dokumentidega töötamiseks kasutage **kaasautorlusfunktsiooni.** 
 
-Lisateavet selle funktsiooni lubamise ja kasutamise kohta leiate lisaks korduma kippuvatele küsimustele ühiskasutus- ja kaasautorlusstsenaariumide kohta ka artiklis Koostöö Exceli töövihikutes koos [kaasautorlusega.](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
+Lisateavet selle funktsiooni lubamise ja kasutamise kohta leiate lisaks korduma kippuvatele küsimustele ühiskasutus- ja kaasautorlusstsenaariumide kohta ka artiklis [Excel](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)töövihikute koostöö koos kaasautorlusega.

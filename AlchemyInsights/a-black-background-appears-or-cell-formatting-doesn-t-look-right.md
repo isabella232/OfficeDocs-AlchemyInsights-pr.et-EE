@@ -1,5 +1,5 @@
 ---
-title: Kuvatakse musta tausta või lahtri vorming ei näi õige
+title: Kuvatakse must taust või lahtrivorming ei näe õige välja
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917851"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Kuvatakse musta tausta või lahtri vorming ei näi õige
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Kuvatakse must taust või lahtrivorming ei näe õige välja
 
-Rakenduses Excel 2016 võite näha ootamatut Musta tausta või kuvada lahtri vormingu, mida ei kuvata õigesti. See võib juhtuda siis, kui päise või jaluse lisamine küljendivaates ja lahtrile mustri täitmise rakendamine. See probleem on lahendatud versioonis 1708 (järk 8431,2094). Selle probleemi lahendamiseks värskendage Office ' i uusimat versiooni. Valige **File** nüüd suvand "Laadi \> **konto** \> **värskendamise suvandid** " \> **Update Now**.
+Kui Excel 2016, võidakse kuvada ootamatu must taust või võidakse kuvada lahtrivorming, mis ei kuvata õigesti. See võib juhtuda pärast päise või jaluse lisamist küljendivaates ja mustritäite rakendamist lahtrile. See probleem lahendati versioonis 1708 (järk 8431.2094). Probleemi lahendamiseks värskendage uusima versiooni Office. Valige  \> **Failikonto** \> **värskendussuvandid Värskenda** \> **kohe**.
   
 

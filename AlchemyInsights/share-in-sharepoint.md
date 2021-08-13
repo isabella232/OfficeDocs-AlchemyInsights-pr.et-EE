@@ -1,5 +1,5 @@
 ---
-title: SharePointi ühiskasutus
+title: Ühiskasutus SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ede8daf49acaf1ad67e840b02364a2978d7f18ef2f219b4938dd14d0ca7e231c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094278"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>SharePoint Online ' is ühiskasutusse andmine
+# <a name="how-to-share-in-sharepoint-online"></a>SharePoint Online'is ühiskasutus
 
-Saidi ühiskasutusse andmiseks tehke järgmist.
+Saidi jagamiseks:
   
 1. Avage sait veebibrauseris.
     
-2. Kui sait kuulub Microsoft 365 rühma, klõpsake paremas ülanurgas olevat ikooni sätted ja seejärel käsku **saidi õigused**. Klõpsake nuppu **Kutsu inimesi**ja seejärel valige Lisa liikmeid Microsoft 365 rühma või Jaga ainult saiti. 
+2. Kui sait kuulub rühma Microsoft 365, klõpsake paremas ülanurgas Sätted ikooni Ja seejärel klõpsake nuppu **Saidiõigused**. Klõpsake **nuppu Kutsu** inimesi ja seejärel valige liikmete lisamine Microsoft 365 või ainult saidi ühiskasutusse andmine. 
     
-    Klõpsake saidi saidi ühiskasutus paremas ülanurgas nuppu **Anna ühiskasutusse** , sisestage isiku nimi ja seejärel valige õigusetaseme (lugemine, redigeerimine või täielik reguleerimine). 
+    Suhtlussaidi puhul klõpsake paremas **ülanurgas** nuppu Anna sait ühiskasutusse, sisestage isiku nimi ja seejärel valige õigusetase (Lugemine, Redigeerimine või Täielik juhtimine). 
     
-    Klassikalise meeskonnatöö saidi jaoks klõpsake paremas ülanurgas nuppu **Anna ühiskasutusse** . Sisestage selle isiku nimi, keda soovite kutsuda, või tippige kõik oma asutuse kõigiga ühiselt. Klõpsake nuppu **Anna ühiskasutusse**.
+    Klassikalise meeskonnatöö saidi korral klõpsake **paremas ülanurgas** nuppu Anna ühiskasutusse. Sisestage selle inimese nimi, keda soovite kutsuda, või tippige kõik, keda soovite oma ettevõtte kõigiga jagada. Klõpsake **nuppu Anna ühiskasutusse**.
     
-[Saate teada, kuidas faili või kausta ühiskasutusse anda.](https://go.microsoft.com/fwlink/?linkid=511430)
+[Siit saate teada, kuidas faili või kausta ühiskasutusse anda](https://go.microsoft.com/fwlink/?linkid=511430)
   
 
