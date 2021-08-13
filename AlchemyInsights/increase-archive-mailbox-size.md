@@ -1,5 +1,5 @@
 ---
-title: 305 suurendada arhiivi postkasti mahtu
+title: 305 Arhiivipostkasti mahu suurendamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,26 +10,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 6bebc17eafd8615a6ffa95dbdf16f60768204aa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc968aba32645fd4433616618d096231ce4899e9e93335e802af5c05524a79
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778579"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926379"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Arhiivi postkasti mahu suurendamine
+# <a name="increase-the-archive-mailbox-size"></a>Arhiivipostkasti mahu suurendamine
 
 
-Kui soovite, et me käivitaks allpool mainitud sätete automatiseeritud kontrolli, valige nupp tagasi <--selle lehe ülaosas ja seejärel sisestage selle kasutaja meiliaadress, kellel on vaja arhiivi postkasti mahtu suurendada.
+Kui soovite, et käivitame allpool nimetatud sätete automaatsed kontrollid, valige selle lehe ülaservas < nupp Tagasi ja seejärel sisestage selle kasutaja meiliaadress, kes vajab arhiivipostkasti mahu mõõtu.
 
-Microsoft 365 [piirab](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) arhiivi postkastide suurust kasutajakontole määratud litsentsi alusel. Kui arhiivi postkast jõuab 90% ulatuses selle lubatud mahust, saab kasutaja meilisõnumi teatise. Kui arhiivi postkast jõuab mahupiiranguni, ei saa kasutaja arhiivi postkasti rohkem üksusi üle viia. Microsoft 365 ei suurenda arhiivi postkasti mahtu, kui mahupiirang on saavutatud. Selle asemel saavad kasutajad arhiivi postkastis ruumi vabastamiseks teha järgmisi toiminguid.
+Microsoft 365 piirab [](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) arhiivipostkastide mahtu vastavalt kasutajakontole määratud litsentsile. Kui arhiivipostkasti maht on 90% lubatud mahust, saab kasutaja meiliteatise. Kui arhiivipostkast jõuab mahupiiranguni, ei saa kasutaja arhiivipostkasti rohkem üksusi teisaldada. Microsoft 365 ei suurenda arhiivipostkasti mahtu, kui mahupiirang on saavutatud. Selle asemel saavad kasutajad arhiivipostkastis ruumi säästmiseks teha järgmist.
 
-- Eksportige üksused Outlooki abil PST-faili.
+- Eksportige üksused PST-faili, kasutades Outlook.
 
-- Kustutage üksused arhiivi postkastist.
+- Kustutage arhiivipostkasti üksused.
 
-Microsoft 365 pakub **piiramatult arhiivimist** Office 365 Enterprise E3 ja E5 litsentside jaoks. Administraator peab selle funktsiooni lubama, enne kui arhiivi postkast maksimaalse mahuni jõuab. Kui piiramatu arhiveerimine on lubatud, võib kuluda kuni 30 päeva enne, kui arhiivi postkasti lisatakse vaba ruum. Seetõttu soovitame administraatoritel kontrollida arhiivi postkastis vaba ruumi, mis võimaldab kasutajal selle laiendamisel jätkata arhiivi postkasti kasutamist. Lisateavet leiate teemast [piiramatu arhiivimise ülevaade microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) -s ja [Microsofti 365 piiramatu arhiivimise lubamine](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
+Microsoft 365 pakub **piiramatut arhiivimist** Office 365 Enterprise E3 ja E5 litsentside jaoks. Administraator peab selle funktsiooni lubama, enne kui arhiivipostkast jõuab maksimummahuni. Kui piiramatu arhiivimine on lubatud, võib arhiivipostkasti vaba ruumi lisamine võtta kuni 30 päeva. Seetõttu soovitame administraatoritel kontrollida arhiivipostkasti vaba ruumi, mis võimaldab kasutajal arhiivipostkasti laiendamise ajal edasi kasutada. Lisateavet leiate teemast Piiramatu [arhiivimise](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) ülevaade Microsoft 365 Luba piiramatu [arhiivimine Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
 
-Lisateavet Outlookist arhiivi postkastile juurdepääsemise kohta leiate teemast [Outlooki nõuded automaatse laiendatud arhiivi üksustele juurdepääsemiseks](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Säilituspoliitika konfigureerimiseks, mis teisaldab üksused automaatselt arhiivi postkasti, lugege teemat [Microsoft 365 asutuse postkastide arhiivimise ja kustutamise poliitika häälestamine](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Lisateavet arhiivipostkasti juurde pääsemise kohta Outlook teemast Outlook automaatarhiivi üksustele [juurdepääsu nõuded.](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive) Kui soovite konfigureerida säilituspoliitika, mis teisaldab üksused automaatselt arhiivipostkasti, lugege teemat Arhiivimis- ja kustutamispoliitika konfigureerimine teie [ettevõtte postkastide Microsoft 365 jaoks.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-**Märkus**: Exchange ' i 2010 ei toeta esmased postkastid automaatselt laienevaid arhiivi.
+**Märkus.** Automaatset laiendamist ei toetata 2010. Exchange.

@@ -1,5 +1,5 @@
 ---
-title: 1800001 profiili loomine või redigeerimine
+title: 1800001 Profiili loomine või redigeerimine
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965385"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Outlooki profiili loomine või redigeerimine
+# <a name="create-or-edit-an-outlook-profile"></a>Profiili loomine Outlook redigeerimine
 
-Uue Outlooki profiili loomiseks, profiili redigeerimiseks või profiili ümbernimetamiseks kasutage järgmisi juhiseid.
+Uue profiili loomiseks Outlook profiili redigeerimiseks või profiili ümbernimetamiseks tehke järgmist.
   
-1. Valige Outlookis suvand **File** \> **Kontosätted** \> **profiilide haldamiseks**.
+1. Valige Outlook **Failikonto** \> **ja Sätted** Halda \> **profiile**.
     
-2. Valige dialoogiboksis **meili häälestus** nupp **Kuva profiilid**.
+2. Valige dialoogiboksis **Meilihäälestus** nupp **Kuva profiilid**.
     
 3. Tehke ühte järgmistest.
     
@@ -33,6 +33,6 @@ Uue Outlooki profiili loomiseks, profiili redigeerimiseks või profiili ümberni
     
   - Profiili redigeerimiseks või ümbernimetamiseks valige **Atribuudid**.
     
-Kui teil on Outlooki profiili loomisel või redigeerimisel probleeme, saate kasutada probleemses arvutis [Outlooki profiili tööriista](https://aka.ms/SaRA-OutlookSetupProfile) . See sooritab mõned kontrollid ja kui olete valmis, luuakse teie meiliaadressi abil Outlooki profiil. 
+Kui teil on probleeme profiili loomise või redigeerimise Outlook, saate käivitada [Outlook seadmes](https://aka.ms/SaRA-OutlookSetupProfile) profiilitööriista. See teeb mõned kontrollid ja kui olete valmis, luuakse teie meiliaadressiga Outlook profiili. 
   
 

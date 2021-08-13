@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 2797c6d0f9de274e016523ae0e71f59eb1cfc742
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38a55a38e0a69334a60e8f1c84402e75eb5796035501d39c1f217fe194dae432
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965277"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Failide üleslaadimine OneDrive ' i või SharePointi
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload failide OneDrive või SharePoint
 
-1. Liikuge oma veebibrauseris kohta, kuhu soovite failid üles laadida.
+1. Avage veebibrauseris asukoht, kuhu soovite faile üles laadida.
     
-2. Avage fail Explorer ja liikuge sirvides failideni, mille soovite üles laadida.
+2. Avage File Explorer ja liikuge sirvides failideni, mille soovite üles laadida.
     
-3. Valige failid ja lohistage need OneDrive ' is või SharePointis asukohta. Märkus: kui kasutate Microsoft Edge ' i, Mozilla FireFox ' i või Google Chrome ' i, saate ka kausta ja kõik selle failid üles laadida.
+3. Valige failid ja lohistage need asukohta OneDrive või SharePoint. Märkus. Kui kasutate Microsoft Edge, Mozilla FireFox'i või Google Chrome'i, saate üles laadida ka kausta ja kõik selles soovitud failid.
     
-**Märkmete**
+**Märkmed:**
 
-- Saate üles laadida kuni 15 GB suuruseid faile. 
-- Faili täistee (sh faili nimi) ei tohi olla pikem kui 400 märki. 
-- Kui teil on vaja üles laadida rohkem kui 100 faili, [Kasutage OneDrive ' i sünkroonimise klientrakendust](https://go.microsoft.com/fwlink/?linkid=866427). 
+- Saate üles laadida kuni 15 GB mahuga faile. 
+- Faili täielik tee (sh faili nimi) ei tohi olla üle 400 märgi. 
+- Kui teil on vaja üles laadida rohkem kui 100 faili, [kasutage OneDrive'i sünkroonimisrakendus klientrakendust.](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 

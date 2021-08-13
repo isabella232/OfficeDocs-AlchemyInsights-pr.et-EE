@@ -1,5 +1,5 @@
 ---
-title: Puuduvate kaustade Outlook.com
+title: Outlook.com Puuduvad kaustad
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,19 +16,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ede5d5a7dede4356e20af57740440ce8773d27ddc97de699466ad05c1c7a4bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984061"
 ---
-# <a name="find-missing-folders"></a>Puuduvate kaustade otsimine
+# <a name="find-missing-folders"></a>Puuduvate kaustade otsige üles
 
-Mõnedel kasutajatel ei pruugi näha väikesel ekraanil kuval vasakpoolset paani.
+Võimalik, et mõned kasutajad ei näe väikesel kuval kuvamisel vasakpoolset kaustapaani.
 
-- Kui te ei näe paani kaustad, maksimeerige brauseriakna või liikuge vasakule, et kuvada Kaustaloend.
-- Kaustade paani laiendamiseks ainult siis, kui seda vajate. Valige vasakpoolsel ribal kolme rea ikoon kaustade kuvamiseks või peitmiseks.
-- Avage [paigutuse sätted](https://outlook.live.com/mail/options/mail/layout) ja valige **Peida lugemispaan** ning seejärel **Salvesta**. See annab ekraanile rohkem ruumi kaustade kuvamiseks.
+- Kui te ei näe kaustapaani, maksimeerige brauseriakent või kerige kaustaloendi kuvamiseks vasakule.
+- Laiendage kaustapaani ainult siis, kui seda vajate. Kaustade kuvamiseks või peitmiseks valige vasakus servas kolmerealine ikoon.
+- Avage [paigutuse sätted ja](https://outlook.live.com/mail/options/mail/layout) valige Peida **lugemispaan** ja seejärel **Salvesta**. See annab ekraanile rohkem ruumi kaustade näitamiseks.
 
-Kui kustutate kausta kogemata, saate selle taastada, kui see on endiselt teie kaustas Kustutatud üksused. Lisateavet leiate teemast [Kustutatud meilisõnumite taastamine Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
+Kui kustutasite kausta kogemata, saate selle taastada, kui see on endiselt kaustas Kustutatud üksused. Lisateavet leiate artiklist [Kustutatud meilisõnumite taastamine Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)
