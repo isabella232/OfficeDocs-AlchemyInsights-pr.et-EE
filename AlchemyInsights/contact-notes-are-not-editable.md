@@ -1,5 +1,5 @@
 ---
-title: Contact Notes pole redigeeritav
+title: Kontaktimärkmeid ei saa redigeerida
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915331"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Outlooki kontakti välja märkmed ei saa redigeerida
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Kontakti märkmevälja ei saa redigeerida Outlook
 
-See on teadaolev probleem. Töötame selle parandamiseks ja te näete, et viimane olek [ei saa kontakti märkmeid redigeerida](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+See on teadaolev probleem. Töötame selle probleemi lahendamise kallal ja uusima oleku leiate teemast Kontakti märkmevälja ei [saa redigeerida.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**Lahendus**: kui kasutate mõnda Microsoft 365 või Outlook.com kontot, saate oma kontakte veebi kaudu redigeerida. Kui kasutate IMAP-või POP-kontot, pole praegu saadaval ühtegi lahendust.
+**Lahendus.** Kui kasutate Microsoft 365 või Outlook.com-i kontot, saate kontakte redigeerida veebi kaudu. Kui kasutate IMAP- või POP-kontot, pole praegu lahendus saadaval.

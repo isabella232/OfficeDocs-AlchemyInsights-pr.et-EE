@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online'i kalendri ülekate
+title: SharePoint Veebikalendri ülekate
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 1cd18da6e7091153abeeadb83f6f9d95e615dea2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bf77ab7ea4fb497b3f2b0317f59d35f260b7b3921433d4d8dc76268db63f0f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093847"
 ---
-# <a name="sharepoint-online-calendar-overlay"></a>SharePoint Online'i kalendri ülekate
+# <a name="sharepoint-online-calendar-overlay"></a>SharePoint Veebikalendri ülekate
 
-Saate ülekattena kasutada mõnda muud SharePointi kalendrit seni, kuni mõlemad SharePointi kalendrid on samas saidikogumis. Exchange Online'ist toodud SharePoint Online'i või SharePoint Serveri kalendris kalendri ülekatte kasutamise võimalust ei toetata.
+Saate ülekatet SharePoint, kui mõlemad SharePoint on samas saidikogumis. Kalendri ülekatet ei toetata SharePoint Online'SharePoint serverikalendris, mis tuuakse Exchange Online serverist.
 
-SharePoint Online'is on microsoft 365 rühmakalendritega nüüdisaegne kasutuskogemus. Lisateavet leiate teemast [Rühmakalendri veebiosa kasutamine.](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce)
+SharePoint Online'is on nüüdisaegne Microsoft 365 rühmakalendritega. Lisateavet leiate teemast [Rühmakalendri veebiosa kasutamine.](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce)
