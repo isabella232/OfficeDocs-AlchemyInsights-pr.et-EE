@@ -1,5 +1,5 @@
 ---
-title: Failide ja kaustade salvestamine OneDrive'i
+title: Failide ja kaustade salvestamine OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003073"
 - "5903"
-ms.openlocfilehash: 2d6a1b2b7c0aafd539ba2aee24ef70605627b3c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dd3558c59ac1e634c670aa4ed1a42d18f8e75c0cc547d9650a84c918b77e056c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061608"
 ---
-# <a name="saving-files-and-folders-to-onedrive"></a>Failide ja kaustade salvestamine OneDrive'i
+# <a name="saving-files-and-folders-to-onedrive"></a>Failide ja kaustade salvestamine OneDrive
 
-Failide salvestamiseks ja OneDrive'i salvestamiseks on erinevaid meetodeid. Kui teil on probleeme failide oneDrive'i salvestamisega, proovige järgmist.
+Failide salvestamiseks ja failide salvestamiseks arvutisse on erinevad OneDrive. Kui teil on probleeme failide salvestamisega OneDrive, proovige järgmist.
 
 - Valige tegumiribal sinine pilv ja parandage hüpikaknas kuvatavad vead.
-- Salvestage failid mujale kui OneDrive'i kaust ja seejärel proovige failid oma OneDrive'i kausta tagasi teisaldada.
-- Taaskäivitage arvuti ja proovige uuesti salvestada. Paljudel juhtudel, kui rakendusel on fail avatud, ei saa OneDrive faili sünkroonida enne, kui rakendus seda enam ei kasuta.    
-- Proovige OneDrive'i linkimine tühistada ja uuesti linkida, valides tegumiribal sinise OneDrive'i ikooni > **Spikker & Konto** Tühista selle arvuti  >    >  **linkimine.** Valige tegumiribal uuesti sinine OneDrive'i ikoon ja logige sisse.
-- Kui teil on salvestusruumiga probleeme, lugege [teemat OneDrive'i haldamine töö- või koolisalvestusruumi jaoks.](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)
-- Lisateavet tõrkeotsingu kohta leiate teemast [OneDrive'i sünkroonimisprobleemide lahendamine.](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues)  
+- Salvestage failid mujale kui OneDrive ja seejärel proovige failid oma kausta OneDrive teisaldada.
+- Taaskäivitage arvuti ja proovige uuesti salvestada. Kui rakendusel on fail avatud, ei saa OneDrive sünkroonida enne, kui rakendus seda enam ei kasuta.    
+- Proovige linkimine tühistada ja uuesti OneDrive, valides tegumiribal sinise OneDrive ikooni > **Spikker & Sätted**  >  **Eemalda**  >  **selle arvuti linkimine**. Valige uuesti OneDrive ikoon ja logige sisse.
+- Kui teil on salvestusruumiga probleeme, lugege teemat OneDrive töö- või [koolisalvestusruumi jaoks.](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)
+- Lisateavet tõrkeotsingu kohta leiate teemast [OneDrive'i sünkroonimisrakendus probleemide lahendamine.](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues)  
 
-Kui soovite office'i ja OneDrive'i salvestusruumi kohandada, lugege [teemat Salvestuskogemuse kohandamine Office'is.](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b)
+Kui soovite oma salvestuskogemust kohandada Office ja OneDrive, lugege teemat [Salvestuskogemuse kohandamine Office](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b).

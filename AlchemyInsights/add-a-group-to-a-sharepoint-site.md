@@ -1,5 +1,5 @@
 ---
-title: Rühma lisamine SharePointi saidile
+title: Rühma lisamine SharePoint saidile
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,39 +12,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936953"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Rühma lisamine SharePointi saidile
+# <a name="add-a-group-to-a-sharepoint-site"></a>Rühma lisamine SharePoint saidile
 
-Mõnda SharePointi meeskonnatöö saiti (sh Microsoft Teamsi loodud) haldab Microsoft 365 Groupi omanikud. SharePointi saite ja sisu saab ühiskasutusse anda ka Microsoft 365 rühmadega ja SharePointi rühmadega. SharePointi rühm on kasutajate kogum, kellel kõigil on sama õigus saitidele ja sisule. Klassikalised saidid soovitame kasutada rühmasid, et määrata sama õigusetaseme korraga mitmele inimesele korraga, mitte määrata õigusi ühe inimesega korraga.
+Mõnda SharePoint meeskonnatöö saite (sh Microsoft Teams) haldavad Microsoft 365 omanikud. SharePoint ja sisu saab jagada ka Microsoft 365 rühmadega ja SharePoint rühmadega. Rühma SharePoint on kasutajate kogum, kellel kõigil on saitidele ja sisule samad õigused. Klassikaliste saitide korral soovitame kasutada rühmi, et määrata korraga paljudele inimestele mugavalt sama õigusetase, mitte määrata õigusi ühele inimesele korraga.
   
-Microsoft 365 rühma liikmete haldamine.
+Rühma Microsoft 365 haldamine.
   
-1. Avage [Microsoft 365 halduskeskus lehel rühmad](https://portal.office.com/adminportal/home#/groups).
+1. Avage lehe [Rühmad Microsoft 365 halduskeskus](https://portal.office.com/adminportal/home#/groups).
     
-2. Valige rühm, et näha selle omanikke ja liikmeid. Inimeste lisamiseks või eemaldamiseks klõpsake rea **omanike** või **liikmete** linki **Redigeeri** . 
+2. Valige rühm, et kuvada selle omanikud ja liikmed. Inimeste lisamiseks või eemaldamiseks klõpsake real **Omanikud** või Liikmed **linki** **Redigeeri.** 
     
-Microsoft 365 rühmaga suhtlemise saidi ühiskasutusse andmiseks tehke järgmist.
+Suhtlussaidi ühiskasutusse Microsoft 365 rühmaga.
   
-1. Liikuge brauseris saidile ja klõpsake paremas ülanurgas nuppu **Anna sait ühiskasutusse** . 
+1. Avage sait brauseris ja klõpsake paremas **ülanurgas** nuppu Anna sait ühiskasutusse. 
     
-2. Sisestage rühma nimi ja seejärel valige õigusetaseme (lugemine, redigeerimine või täielik juhtelement).
+2. Sisestage rühma nimi ja seejärel valige õigusetase (Lugemine, Redigeerimine või Täielik juhtimine).
     
-SharePointi rühma loomine klassikalise saidiga kasutamiseks.
+Klassikalise saidi SharePoint rühma loomine.
   
-1. Avage brauseris sait ja klõpsake paremas ülanurgas ikooni sätted.
+1. Avage sait brauseris ja klõpsake paremas ülanurgas Sätted ikooni.
     
-2. Klõpsake nuppu **saidi sätted**ja seejärel jaotises **kasutajad ja load**nuppu **saidi load**.
+2. Klõpsake **nuppu Saidi** sätted ja seejärel jaotises Kasutajad **ja** õigused nuppu **Saidiõigused.**
     
-3. Klõpsake menüüs permissions nuppu **Loo rühm**.
+3. Klõpsake menüü Õigused nuppu **Loo rühm**.
     
-[Klassikalise meeskonnatöö saidi ühendamine uue Microsoft 365 rühmaga](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Ühendus klassikalise meeskonnatöö saidi uutele Microsoft 365 rühmale](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Lisateave SharePointi rühmadega töötamise kohta](https://go.microsoft.com/fwlink/?linkid=874658)
+[Lisateave rühmadega SharePoint kohta](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

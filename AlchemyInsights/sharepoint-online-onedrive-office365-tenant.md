@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online või OneDrive ' i häälestamine
+title: SharePoint Võrgus või OneDrive "Häälestamine"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093594"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online või OneDrive "häälestamine"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Võrgus või OneDrive "Seadistamine"
 
-Kui kasutaja on lisatud olemasolevasse rentnikku, võivad nad näha SharePoint Online ' i või OneDrive for Businessi ikoone, mis on loetletud kui "häälestamine" või "Me töötame endiselt failide häälestamise kallal", kuni ettevalmistamine on lõpule viidud. Abi saamiseks järgige seda [tõrkeotsingu juhendit](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) .
+Kui kasutaja lisatakse olemasolevasse rentnikusse, võidakse kuvada SharePoint Online'i või OneDrive for Business-i ikoonid, mis on loetletud kui "Häälestamine" või "Töötame endiselt failide häälestamise kallal", kuni ettevalmistamine on lõpule viidud. Abi saamiseks [järgige seda tõrkeotsingujuhendit.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenuse juhtumi korral.
+Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenusejuhtum.
 
-Mõistame, et 24 tundi võib tunduda pikk aeg. Paljudel juhtudel oleme juba lahendusega töötanud. Lahenduse lõpetamiseks andke meile vähemalt 24 tundi.
+Mõistame, et 24 tundi võib tunduda pika ajana. Paljudel juhtudel töötame juba lahenduse kallal. Lahenduse lõpuleviimiseks andke meile vähemalt 24 tundi.
