@@ -1,5 +1,5 @@
 ---
-title: Yammeri kasutajate haldamine
+title: Kasutajate Yammer haldamine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,29 +12,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: db84609e28283da902d4a299bbf1fe164b74366f3818510eba5f10d2ebbdf4f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992908"
 ---
-# <a name="managing-yammer-users"></a>Yammeri kasutajate haldamine
+# <a name="managing-yammer-users"></a>Kasutajate Yammer haldamine
 
-1. Lisateavet Yammeri kasutajate haldamise kohta Microsoft 365-st leiate teemast [Yammeri kasutajate haldamine kogu elutsükli jooksul](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). See sisaldab üksikasju:
+1. Lisateavet kasutajate haldamise kohta Yammer kasutajate Microsoft 365 lugege [teemast Kasutajate Yammer haldamine kogu nende elutsükli jooksul.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle) See hõlmab järgmisi üksikasju.
 
   - Kasutaja loomine
 
   - Kasutajate kustutamine
 
-  - Yammeri kasutajate haldamine Microsoft 365
+  - Kasutajate Yammer haldamine Microsoft 365
 
-2. Lisateavet Yammeri konsooli kasutajate haldamise kohta leiate teemast [Yammeri kasutajate lisamine, blokeerimine või eemaldamine](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) . See hõlmab järgmist.
+2. Lisateavet [kasutajate haldamise kohta](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) Yammer, blokeerimise või eemaldamise kohta Yammer. See hõlmab järgmist.
 
   - Kasutajate kutsumine või eemaldamine
 
-  - Külaliste kutsumine
+  - Külaliskasutajate kutsumine
 
-  - Kasutajate loendi eksportimine
+  - Kasutajaloendi eksportimine
 
-3. Lisateavet Väliskasutajate lisamise, eemaldamise ja haldamise kohta leiate teemast [väliste sõnumite osalejate lisamine Yammeri võrku](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. Lisateavet väliskasutajate lisamise, eemaldamise ja haldamise kohta leiate teemast Väliste sõnumsides osalejate [lisamine oma Yammer võrku.](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)

@@ -1,5 +1,5 @@
 ---
-title: Teamsi PS mooduli installimine ja teatmematerjalid
+title: Teams PS-mooduli installimine ja viide
 ms.author: heidip
 author: heidip
 manager: serdards
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956541"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Mida saab täita Microsoft Teamsi PowerShelli mooduliga?
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Mida saate PowerShelli Microsoft Teams abil teha?
 
-Kui soovite teada, kuidas installida Teamsi PowerShelli moodulit, saate [selle blogi](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)vaadata.
+Kui soovite teada, kuidas PowerShelli Teams installida, saate selle ajaveebi [vaadata.](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)
 
 Lisateave
 
-- Vaadake üle [teamsi PowerShelli ülevaade](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) , et mõista [administraatori rolli võimalusi](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), [luua ja hallata meeskondi PowerShelli kaudu](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)ning [hallata poliitikaid](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) või [konfiguratsioone](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
-- Vaadake üle [Microsoft teamsi PowerShelli käskude viide](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) PowerShelli kaudu saadaolevate käskude loendile. 
+- Vaadake [powershelli Teams ülevaadet,](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) et mõista [administraatori rollivõimalusi,](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)luua ja hallata [powershelli](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)kaudu meeskondi ning [hallata poliitikaid](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) või [konfiguratsioone.](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) 
+- Vaadake [Microsoft Teams PowerShelli käsuviited](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) PowerShelli kaudu saadaoleva käsuloendi kohta. 

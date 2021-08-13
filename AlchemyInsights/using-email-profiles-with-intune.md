@@ -1,5 +1,5 @@
 ---
-title: E-posti profiilide kasutamine Intune ' i abil
+title: Meiliprofiilide kasutamine Intune'iga
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: b1653b73e7296e7eed411ae73c19342a1187b2eb7e287cff4339ea0ca32d75c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919419"
 ---
-# <a name="using-email-profiles-with-intune"></a>E-posti profiilide kasutamine Intune ' i abil
+# <a name="using-email-profiles-with-intune"></a>Meiliprofiilide kasutamine Intune'iga
 
-Intune ' i abil saab luua ja juurutada mitmekeelseid meilikontosid (sisseehitatud) meiliklient mitme seadme platvormidel.
+Intune'i saab kasutada meiliprofiilide loomiseks ja juurutamiseks kohaliku (sisseehitatud) meilikliendi jaoks mitmel seadmeplatvormil.
 
-Lisateavet e-posti profiilidega seotud piirangute kohta (sh olemasolevate profiilide olemasolu ja selle kohta, kuidas eemaldada e-posti profiilid) leiate teemast [meilikontode lisamine seadmetele, mis kasutavad Intune](https://docs.microsoft.com/intune/email-settings-configure)' i.
+Teavet meiliprofiilidega seotud piirangute (sh olemasolevate profiilide kasutamise ja meiliprofiilide eemaldamise kohta) kohta leiate teemast Meilisätete lisamine [Intune'i abil seadmetesse.](https://docs.microsoft.com/intune/email-settings-configure)
 
-Lisateavet iga seadme platvormi jaoks meiliprofiili loomise kohta leiate järgmistest teemadest.
+Lisateavet iga seadmeplatvormi jaoks meiliprofiilide loomise kohta leiate teemast
 
-[Androidi seadme sätted meili, autentimise ja sünkroonimise häälestamiseks Intune ' is](https://docs.microsoft.com/intune/email-settings-android)  
-[IOS-i ja iPadOS seadmete meilikontode lisamine Microsoft Intune ' is](https://docs.microsoft.com/intune/email-settings-ios)  
-[Microsoft Intune ' i meilikonto sätted Windows Phone ' i 8,1 seadmete jaoks](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
-[Microsoft Intune ' is Windows 10 kasutavatele seadmetele mõeldud meilikontode meilisätted](https://docs.microsoft.com/intune/email-settings-windows-10)
+[Androidi seadme sätted meili, autentimise ja sünkroonimise konfigureerimiseks Intune'is](https://docs.microsoft.com/intune/email-settings-android)  
+[Meilisätete lisamine iOS-i ja iPadOS-i seadmete jaoks Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
+[Meiliprofiili sätted Microsoft Intune seadmetes, kus töötab Windows Phone 8.1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[Meiliprofiili sätted seadmetes, kus Windows 10 Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
-**Levinud sünkroonimise probleem**
+**Levinud sünkroonimisprobleem**
 
-**Rakenduse KNOX Androidi meilikontos takistab kasutajate kontakte, kalendrit ja tööülesandeid, mida sünkroonitakse kasutaja seadmetega.**
+**Androidi meiliprofiili KNOX takistab kasutaja kontakte, kalendrit ja ülesandeid sünkroonida kasutaja seadmetega.**
 
-KNOX Android KNOXi meilikonto profiilis annab administraatorile võimaluse otsustada, milliseid sisutüüpe sünkroonitakse seadmesse, seades need lubatud.
+Android KNOX-i meiliprofiil KNOX pakub administraatorile võimalust otsustada, millised sisutüübid seadmega sünkroonitakse, määrates iga seadme jaoks lubatud.
 
-Kui mis tahes sisutüübi säte on seatud **pole konfigureeritud** (vaikesäte), ei sünkroonita seda sisutüüpi automaatselt. Kasutaja võib lubada sisutüübi, mida nad soovivad otse seadmele käsitsi lisada, kuid see konfiguratsioon kirjutatakse üle Intune ' i Poliitikasätte ja selle sisutüübi sünkroonimine peatub.
+Kui mõne sisutüübi sätteks on seatud **Pole konfigureeritud** (vaikesäte), siis seda sisutüüpi automaatselt ei sünkroonita. Kasutaja võib lubada soovitud sisutüübi otse seadmes käsitsi, kuid Intune'i poliitikasäte kirjutab selle konfiguratsiooni üle ja selle sisutüübi sünkroonimispeatused.
 

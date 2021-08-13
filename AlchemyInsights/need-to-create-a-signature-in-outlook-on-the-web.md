@@ -1,5 +1,5 @@
 ---
-title: 122 kas soovite Outlooki veebirakenduses signatuuri luua?
+title: 122 Kas teil on vaja luua Outlooki veebirakendus?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 122
 ms.assetid: 9468585d-e98e-4774-9176-44be073c54d0
-ms.openlocfilehash: 956b120a97b3266173ceaf0d385af13f931708e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ddf1d17afbc3f1167637d711afd5fe490aa44e4b158262cc891f0632c81c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986041"
 ---
-# <a name="need-to-create-an-email-signature"></a>Kas soovite luua meilisõnumi signatuuri?
+# <a name="need-to-create-an-email-signature"></a>Kas soovite luua meilisignatuuri?
 
-Kui teil on Outlooki konto või Outlooki veebirakenduse (töö või kooli) konto, saate luua signatuuri ja lisada selle automaatselt kõigile Väljaminevatele sõnumitele või valikuliselt lisada konkreetsetele Väljaminevatele sõnumitele. Pange tähele, et teie meilisõnumi signatuur on Outlookis ja Outlooki veebirakenduses erinev. Meilisõnumi signatuuri loomiseks lugege artiklit [Outlooki sõnumite signatuuri loomine ja lisamine](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) või [Outlooki veebirakenduses meilisõnumi signatuuri loomine ja lisamine](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).
+Kui teil on Outlook konto või Outlooki veebirakendus (töö- või koolikonto), saate luua signatuuri ja lisada selle automaatselt kõigile väljaminevatele sõnumitele või valikuliselt lisada selle kindlatele väljaminevatele sõnumitele. Võtke arvesse, et teie meilisignatuur on Outlook ja Outlooki veebirakendus. Meilisignatuuri loomiseks lugege [teemat Meilisõnumitele signatuuri](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) loomine ja Outlook või Meilisignatuuri loomine ja [Outlooki veebirakendus](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).
 
