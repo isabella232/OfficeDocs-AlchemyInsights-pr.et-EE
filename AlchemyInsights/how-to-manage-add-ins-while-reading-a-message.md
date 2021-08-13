@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 488799d66d9587f2ceaf763ef92e85ab4f19414f6e6fe3610f0f9ff84d5ce0a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977221"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>Lisandmoodulite haldamine sõnumi lugemise ajal
 
-1. Valige Outlook veebirakenduses soovitud sõnum.
+1. Valige Outlooki veebirakendus sõnum.
     
 2. Valige sõnumi ülaservas kolm punkti (veel toiminguid).
 
@@ -34,4 +34,4 @@ ms.locfileid: "52543996"
     
     Tasuste lisandmoodulite ja tasuta proovikatsete korral valige **Ostu alustamiseks** Hangi see.
     
-Lisateavet leiate teemast [Lisandmoodulite kasutamine Outlook veebirakenduses.](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)
+Lisateavet leiate teemast [Lisandmoodulite kasutamine](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)Outlooki veebirakendus.

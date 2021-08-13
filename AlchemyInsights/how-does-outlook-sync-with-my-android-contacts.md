@@ -1,5 +1,5 @@
 ---
-title: Kuidas Sünkroonib Outlook minu Androidi kontaktidega?
+title: Kuidas Outlook Androidi kontaktidega sünkroonida?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 917bea163c3a85f6e1ab193db44a1e1aefd80e19
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6f33ee5b131b6c0bf0aa1f07c6da9ada4f9c69eea949d55858f549b43ebd29a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926961"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Kuidas Sünkroonib Outlook minu Androidi kontaktidega?
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Kuidas Outlook Androidi kontaktidega sünkroonida?
 
-Kui koostate Outlookis meilisõnumi, otsime adressaate nii teie Androidi aadressiraamatust kui ka Outlooki aadressiraamatust. Lisaks anname teile võimaluse sünkroonida teie meilikontode kontaktid Androidi aadressiraamatuga, et neid teistes rakendustes kasutada. 
+Kui koostate meilisõnumi Outlook, otsime adressaate nii teie Androidi aadressiraamatust kui ka teie Outlook aadressiraamatust. Lisaks anname teile võimaluse sünkroonida teie meilikontode kontaktid Androidi aadressiraamatuga, et neid teistes rakendustes kasutada. 
  
 **Selle funktsiooni lubamiseks:**
  
-1. Avage seadmes **Sätted**.
+1. Avage seadmes Sätted **.**
 
 2. Puudutage **jaotises** Kontod kontot, millega soovite kontakte sünkroonida.
 
 3. Lülitage **liugur Sünkrooni kontaktid** sisse.
  
-**Märkus.** Kui proovite lubada kontaktide sünkroonimist rakenduses Microsoft Outlook for Android, kui suvand **Kontaktide** sünkroonimine on keelatud, võidakse kuvada teade, mis kuvatakse koos tekstiga, kontaktide sünkroonimine pole süsteemisätetes *sisse lülitatud.* See võib olla tingitud **sellest, et automaatsünkroonimisandmed** on süsteemisätetes keelatud. Probleemi lahendamiseks lubage **Androidi süsteemisätete** menüüs **Kontod** automaatsünkroonimine.  See suvand leitakse tavaliselt vertikaalsest kolmikpunktist (⋮) või kolmikribast (⫼). Menüü  **Kontod** võib olenevalt seadmest ja Androidi versioonist olla erinevates asukohtades. Enamikus uuemates **mudelites** saab kontosid otsida **jaotisest Sätted.**
+**Märkus.** Kui proovite rakenduses Microsoft Outlook for Android lubada kontaktide sünkroonimist, võidakse kuvada teade, mis kuvatakse koos tekstiga, kui kontaktide sünkroonimine pole süsteemisätetes *sisse lülitatud.*  See võib olla tingitud **sellest, et automaatsünkroonimisandmed** on süsteemisätetes keelatud. Probleemi lahendamiseks lubage Automaatse sünkroonimise andmed **Androidi** süsteemi **menüüs** Kontod Sätted **.** See suvand leitakse tavaliselt vertikaalsest kolmikpunktist (⋮) või kolmikribast (⫼). Menüü  **Kontod** võib olenevalt seadmest ja Androidi versioonist olla erinevates asukohtades. Enamikus uuemates **mudelites** saab kontosid otsida **Sätted.**

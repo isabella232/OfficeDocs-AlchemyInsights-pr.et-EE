@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teamsi täisversiooni täisversiooni üleminek
+title: Versioonitäiendus versioonile Microsoft Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919599"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Microsoft Teamsi täisversiooni täisversiooni üleminek
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Versioonitäiendus versioonile Microsoft Teams
 
-Kas teil on vaja Microsoft Teamsi tasuta täisversiooni üle minna? Lugege artiklit [Microsoft teamsi tasuta üleminek microsoft 365 tellimuse versioonile](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Kas teil on vaja tasuta versioonilt üle minna Microsoft Teams? Lugege [teemat Microsoft Teams tasuta tellimuse Microsoft 365 versiooniks](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Peate vastama järgmistele nõuetele.
+Peate täitma järgmisi nõudeid.
 
-- Oled see isik, kes registreerus töörühma praeguse tasuta versiooni jaoks.
-- Kui teil on oma domeen, ei saa seda juba Azure Active Directoryga seostada.
-- Ülemineku ajal andmete edastamiseks peate tellima versiooniuuenduse installimise käigus. Kui ostsite tellimuse väljaspool versiooniuuendust, ei saa te andmeid edastada.
+- Olete isik, kes registreerus praeguse tasuta versiooni kasutajaks Teams.
+- Kui teil on oma domeen, ei saa seda veel Azure Active Directory.
+- Andmete edastamiseks versioonitäienduse ajal peate versiooniuuenduse käigus tellima. Kui ostsite tellimuse väljaspool versioonitäiendusprotsessi, ei saa te andmeid edastada.

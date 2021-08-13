@@ -1,5 +1,5 @@
 ---
-title: Microsoft Search in Bingi otsinguvälja lisamine ettevõtte sisevõrgu saitidele ja lehtedele
+title: Otsinguvälja lisamine Microsofti otsing Bing ettevõtte sisevõrgu saitidele ja lehtedele
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9261"
-ms.openlocfilehash: 36ad8fe06b4bbbe107de981ec02f0b525bd4cbd7
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 129ec762b2667b216951c441165d75af0bddd57127351a8ff31fc2793e4479d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404506"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954477"
 ---
-# <a name="add-a-search-box-for-microsoft-search-in-bing-to-your-organizations-intranet-sites-and-pages"></a>Microsoft Search in Bingi otsinguvälja lisamine ettevõtte sisevõrgu saitidele ja lehtedele
+# <a name="add-a-search-box-for-microsoft-search-in-bing-to-your-organizations-intranet-sites-and-pages"></a>Otsinguvälja lisamine Microsofti otsing Bing ettevõtte sisevõrgu saitidele ja lehtedele
 
 Mõned otsinguvälja lisamise eelised on järgmised.
 
-1. Teie ettevõtte SharePointi ja sisevõrgu portaalides on otsimiseks tuttav ja usaldusväärne sisenemispunkt.
+1. Teie ettevõtte SharePoint ja sisevõrguportaalid saavad otsimiseks tuttava usaldusväärse sisenemispunkti.
 2. Otsinguväli toetab kõiki peamisi veebibrauseriid.
 3. Otsingutulemid on ettevõttesisesed ja välistavad teabe Internetist.
 4. Tulemite leht on reklaamidest vaba.

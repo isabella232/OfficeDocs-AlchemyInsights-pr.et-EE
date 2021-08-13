@@ -1,5 +1,5 @@
 ---
-title: PayNow/tee makse kohe
+title: PayNow/Make payment immediately
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 822f098967fbce4a80b96b232ae3e3c7ce5470b00e0a77737c090798ca6945fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944415"
 ---
-# <a name="paynowmake-payment-immediately"></a>PayNow/tee makse kohe
+# <a name="paynowmake-payment-immediately"></a>PayNow/Make payment immediately
 
-Teie probleemi kirjelduse põhjal oleme leidnud teile lahenduse. Enamik kliente suutsid oma probleemi lahendada pärast meie dokumentide järgimist.
+Teie probleemi kirjelduse põhjal oleme teie jaoks lahenduse leidnud. Enamik kliente suutis pärast meie dokumentatsiooni järgimist oma probleemi ise lahendada.
 
-Azure Enterprise ' i lepingu tellimuse korral ei toetata makseviisi Add/Update/Change. Kui soovite olemasoleva arve aadressi muuta, võtke ühendust oma Microsofti esindajaga.
+Azure'i ettevõttelepingu tellimuse korral ei toetata makseviisi Lisamine/värskendamine/muutmine. Kui soovite muuta olemasoleva arve aadressi, võtke ühendust oma Microsofti esindajaga.
 
-Kui soovid Azure ' i tarbimise ja/või ostude arveldamiseks kasutada Azure ' i ettemakseid, võta ühendust klienditoega. Pange tähele, et tasu arvestatud eraldi ja turuplatsi teenuseid ei saa kompenseerida Azure ' i ettemaksega. Kaudseks registreerimiseks veenduge, et teie partneritele teatatakse võimalikust mõjust arvetele. Otsestel klientidel võite soovi korral Bill-To kontakti kursis hoida.
+Kui soovite azure'i ettemaksu abil tasakaalustada arved Azure'i tarbimise ja/või ostudega, võtke ühendust klienditoega. Võtke arvesse, et eraldi arveldatud tasusid ja turuplatsi teenuseid ei saa Azure'i ettemaksuga tasakaalustada. Kaudse registreerimise korral veenduge, et teie partnereid teavitatakse võimalikust mõjust arvetele. Otseste klientide puhul võite soovida hoida oma Bill-To kursis.
 
 **Soovitatud dokumendid**
 
-- [Tasuge oma üle Azure ' i ettemaksega.](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [Üleliigaste tasumine Azure'i ettemaksuga](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)

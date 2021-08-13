@@ -1,5 +1,5 @@
 ---
-title: "' OneDrive ' i konto kustutatakse sõnumist"
+title: "'OneDrive konto kustutatakse' sõnum"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: b8e1a4617dc2560b5255b530c121324c5cfb4c1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a77fa39829a550935882f05ea174f9c9be942b074183aaef9c0e464c94cfb4ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985141"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>Teade "OneDrive ' i konto kustutatakse"
+# <a name="onedrive-account-will-be-deleted-message"></a>Sõnum "OneDrive konto kustutatakse"
 
-Kui saite meili email@mail.onedrive.com hoiatusest, et "teie OneDrive ' i konto kustutatakse", Pange tähele, et see on teie isiklik OneDrive.com konto, mitte teie OneDrive for Businessi konto. 
+Kui saite meili email@mail.onedrive.com, et "teie OneDrive konto kustutatakse", võtke arvesse, et see on teie isiklik OneDrive.com-i konto, mitte OneDrive for Business konto. 
   
-Kui te pole kindel, kas kasutate isiklikku OneDrive ' i, logige oma konto uuesti aktiveerimiseks sisse onedrive.com.
+Kui te pole kindel, kas kasutate isiklikke OneDrive, logige sisse onedrive.com uuesti aktiveerimiseks ja konto läbivaatamiseks.
   
-Lisateavet leiate teemast Miks kuvatakse meilisõnum selle kohta, [et teie konto kustutatakse?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Lisateavet leiate teemast Miks [sain meilisõnumi, mis ütleb, et teie konto kustutatakse?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 

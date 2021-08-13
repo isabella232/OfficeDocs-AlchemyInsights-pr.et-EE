@@ -1,5 +1,5 @@
 ---
-title: Windowsis Microsoft Edge ' i juurutamiseks, värskendamiseks ja haldamiseks Configuration Manageri kasutamine
+title: Configuration Manageri abil saate Microsoft Edge juurutada, värskendada Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919527"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Windowsis Microsoft Edge ' i juurutamiseks, värskendamiseks ja haldamiseks Configuration Manageri kasutamine
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Configuration Manageri abil saate Microsoft Edge juurutada, värskendada Windows
 
-Configuration Manageri versiooni 1910 abil saate Microsoft Edge ' i (versioonid 77 ja uuemad versioonid) juurutada PowerShelli skripti kaudu. Skript lülitab automaatvärskendused välja ja see võimaldab teil hallata värskendusi Configuration Manageri kaudu. Lisateavet selle ja muude lisandmoodulite kasutamise eeliste kohta leiate teemast [Microsoft Edge Management](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).
+Alates Configuration Manageri versioonist 1910 saate Microsoft Edge (versioonid 77 ja uuemad versioonid) PowerShelli skripti kaudu. Skript lülitab automaatvärskendused välja ja nii saate värskendusi hallata Configuration Manageri kaudu. Lisateavet selle ja muude Configuration Manageri kasutamise eeliste kohta leiate teemast [Microsoft Edge Haldus](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).

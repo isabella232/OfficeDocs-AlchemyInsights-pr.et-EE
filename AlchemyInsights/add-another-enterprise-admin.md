@@ -1,5 +1,5 @@
 ---
-title: Lisage teine Enterprise Administrator – Soovitatavad juhised
+title: Teise ettevõtte administraatori lisamine – soovitatavad juhised
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954667"
 ---
-# <a name="add-another-enterprise-administrator---recommended-steps"></a>Lisage teine Enterprise Administrator – Soovitatavad juhised
+# <a name="add-another-enterprise-administrator---recommended-steps"></a>Teise ettevõtte administraatori lisamine – soovitatavad juhised
 
-Teie probleemi kirjelduse põhjal oleme leidnud teile lahenduse. Enamik kliente suutsid oma probleemi lahendada pärast meie dokumentide järgimist.
+Teie probleemi kirjelduse põhjal oleme teie jaoks lahenduse leidnud. Enamik kliente suutis pärast meie dokumentatsiooni järgimist oma probleemi ise lahendada.
 
-Ettevõtte registreerimisel võib olla mitu ettevõtte administraatorit.
+Ettevõtte registreerimiseks võib olla mitu ettevõtte administraatorit.
 
-**Teise ettevõtte administraatori lisamiseks tehke järgmist.**
+**Teise ettevõtteadministraatori lisamiseks:**
 
-1. Logige sisse [Azure ' i ettevõtteportaali](https://ea.azure.com/).
-1. **Saate** navigeerida  >  **liitumise üksikasjade** haldamiseks.
-1. Klõpsake paremas ülanurgas nuppu **+ Lisa administraator** .
-1. Kirjutuskaitstud Accessi korral seadke Read-Only suvand **Jah** ja seejärel valige **Lisa**.
+1. Logige sisse [Azure Enterprise'i portaali.](https://ea.azure.com/)
+1. Liikuge **jaotisse**  >  **Registreerimise üksikasjade haldamine.**
+1. Klõpsake **paremas ülaservas** nuppu + Lisa administraator.
+1. Kirjutuskaitstud juurdepääsuks määrake suvandi Read-Only **Jah** ja seejärel valige **Lisa**.
 
-Veenduge, et teil oleks kasutaja meiliaadress ja eelistatud autentimise meetod (nt töö, kool või Microsofti konto). Kui te pole Enterprise ' i administraator, võtke ühendust ettevõtte administraatoriga ja paluge, et nad teid registreerimisele lisaks. Uued administraatorid lisatakse vaid olemasolevatele administraatoritele. Kui olete liitumisele lisatud, saate aktiveerimise meilisõnumi.
+Veenduge, et teil oleks kasutaja meiliaadress ja eelistatud autentimismeetod (nt töö-, kooli- või Microsofti konto). Kui te pole ettevõtte administraator, pöörduge ettevõtte administraatori poole ja taotlege, et ta teid registreeriminese lisaks. Uusi administraatoreid lisavad ainult olemasolevad administraatorid. Pärast registreerimisse lisamist saate aktiveerimismeili.
 
-**Osakonna administraatori lisamiseks tehke järgmist.**
+**Osakonna administraatori lisamiseks:**
 
-Pärast seda, kui Azure EA administraator loob osakonna, saab Azure ' i Enterprise ' i administraator lisada osakonna administraatorid ja seostada igaüks osakonnaga. Iga ettevõtte registreerimiseks võib olla mitu osakonna administraatorit.
+Kui Azure EA administraator on osakonna loob, saab Azure Enterprise'i administraator lisada osakonnaadministraatoreid ja seostada need osakonnaga. Teil võib iga ettevõtte registreerimise jaoks olla mitu osakonnaadministraatorit.
 
-1. Logige sisse [Azure ' i ettevõtteportaali](https://ea.azure.com/).
-1. Navigeerige   >  vahekaardi **osakonna** haldamine ja valige osakond.
+1. Logige sisse [Azure Enterprise'i portaali.](https://ea.azure.com/)
+1. Liikuge **vahekaardile**  >  **Osakonna** haldamine ja seejärel valige osakond.
 1. Valige **+ Lisa administraator** ja lisage nõutav teave.
-1. Kirjutuskaitstud Accessi korral seadke Read-Only suvand **Jah** ja seejärel valige **Lisa**.
+1. Kirjutuskaitstud juurdepääsuks määrake suvandi Read-Only **Jah** ja seejärel valige **Lisa**.
 
-**Administraatori värskendamiseks/eemaldamiseks tehke järgmist.**
+**Administraatori värskendamiseks/eemaldamiseks:**
 
-1. Liikuge üle EA administraatorile ja klõpsake ikooni sinine **X** .
-1. Veenduge, et valitud administraator oleks valitud, ja klõpsake nuppu **Jah**.
+1. Kui soovite eemaldada, hõljutage kursorit ÜLE EA Admini ja klõpsake sinist **X-ikooni.**
+1. Veenduge, et valitud on soovitud administraator, ja klõpsake **nuppu Jah.**
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Azure Enterprise ' i lepingu administratiivsed rollid Azure ' is](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
-- [Azure EA portaali Administreerimine](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)
+- [Azure'Enterprise Agreement haldusrollide mõistmine Azure'is](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
+- [Azure EA portaali haldamine](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)

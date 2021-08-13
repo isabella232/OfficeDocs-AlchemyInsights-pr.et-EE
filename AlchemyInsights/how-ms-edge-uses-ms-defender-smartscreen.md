@@ -1,5 +1,5 @@
 ---
-title: Kuidas Kasutab Microsoft Edge Microsoft Defender SmartScreeni?
+title: Kuidas Microsoft Edge kasutab Microsoft Defender SmartScreen?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "6897"
 - "8331"
 - "9004625"
-ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: b1b8125961c1033b58fa5d560de855e03c967718dffec65eba7ac59a66cd3f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926925"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Microsoft Edge'i kasutamine Microsoft Defender SmartScreenis
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Kuidas Microsoft Edge kasutab Microsoft Defender SmartScreen
 
-Selleks et hoida teid veebis turvalisena, kasutab Microsoft Edge Microsoft Defender SmartScreeni varajase hoiatamise süsteemina veebisaitide suhtes, mis on seotud andmepüügirünnakutega ja levitavad ründevara sihitud rünnakute kaudu.
+Veebis turvalisena hoidmiseks kasutab Microsoft Edge Microsoft Defender SmartScreen varajase hoiatamise süsteemi veebisaitide suhtes, mis vadastada andmepüügirünnakuid ja levitada ründevara fookeeritud rünnakute kaudu.
 
-Administraatorid saavad Konfigureerida Microsoft Defender SmartScreeni rühmapoliitika, Microsoft Intune'i või mobiilsideseadmete halduse (MDM) sätete abil. Microsoft Defender SmartScreeni häälestamise põhjal saate kasutajatele kuvada hoiatuslehe ja lasta neil saidiga edasi minna või saidi täielikult blokeerida.
+Administraatorid saavad Microsoft Defender SmartScreen rühmapoliitika, Microsoft Intune või mobiilsideseadmete halduse (MDM) sätete abil. Sõltuvalt sellest, kuidas Microsoft Defender SmartScreen, saate kasutajatele kuvada hoiatuslehe ja lasta neil saidiga edasi minna või saidi täielikult blokeerida.
 
-Lisateavet leiate teemast [Microsoft Defender SmartScreeni ja Microsoft Defenderi](https://go.microsoft.com/fwlink/?linkid=2133081) [rakendusekaitse Microsoft Edge'i tugi.](https://go.microsoft.com/fwlink/?linkid=2132839)
+Lisateavet leiate teemast [Microsoft Edge tugiteenuste Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).
