@@ -1,5 +1,5 @@
 ---
-title: 124 kas OWA-s ühiskasutatava postkasti avamisel loa tõrget hankida?
+title: 124 Kas OWA ühispostkasti juurdepääsul kuvatakse õigustõrge?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5281445378814dc9a50760420ae05815fc90836f5e66a14c00993afbb1921d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913495"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Kas teil on Outlooki veebirakenduses ühiskasutusse antud postkasti avamisel loa tõrge?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Kas ühispostkasti avamisel kuvatakse Outlooki veebirakendus?
 
-Kui ilmneb tõrge, **läks midagi valesti. Teil pole õigust seda postkasti avada.** Kui proovite avada ühiskasutusega postkasti Outlooki veebirakenduses, ei pruugi teie kontol olla ühiskasutusega postkastile juurdepääsu õigust. Teie asutuse administraator saab määrata teie konto õigused ühiskasutatavale postkastile, järgides teemas [ühiskasutatava postkasti loomise](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)juhiseid.
+Kui kuvatakse tõrketeade Midagi **läks valesti. Teil pole selle postkasti avamiseks õigust.** kui proovite ühispostkasti avada Outlooki veebirakendus, ei pruugi teie kontol olla ühispostkasti juurdepääsu õigust. Teie ettevõtte administraator saab määrata teie kontoõigused ühispostkasti, järgides teemas [Ühispostkasti loomine toodud juhiseid.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
   

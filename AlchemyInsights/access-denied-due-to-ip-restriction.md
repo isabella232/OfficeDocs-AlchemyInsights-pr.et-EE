@@ -1,5 +1,5 @@
 ---
-title: Juurdepääs on keelatud IP-piirangu tõttu
+title: IP-piirangu tõttu juurdepääs keelatud
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955377"
 ---
-# <a name="access-denied-due-to-ip-restriction"></a>Juurdepääs on keelatud IP-piirangu tõttu
+# <a name="access-denied-due-to-ip-restriction"></a>IP-piirangu tõttu juurdepääs keelatud
 
-IT-administraatorina saate Microsoft 365 juurdepääsu SharePointi ja OneDrive ' i ressurssidele reguleerida, võttes aluseks määratletud võrgukohad, mida usaldate. Seda tuntakse ka asukoha-põhise poliitikana. Lisateavet leiate teemast [juurdepääsu reguleerimine võrgu asukoha](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)alusel.
+IT-administraatorina saate määrata juurdepääsu SharePoint OneDrive ressurssidele Microsoft 365 usaldusväärsete võrgukohtade põhjal. Seda nimetatakse ka asukohapõhiseks poliitikaks. Lisateavet leiate teemast [Juurdepääsu juhtimine võrguasukoha alusel.](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 

@@ -1,5 +1,5 @@
 ---
-title: iOS-i ettevalmistamise profiilid reegel ID 1029
+title: iOS-i ettevalmistamise profiilireegli ID 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695789"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925701"
 ---
 # <a name="ios-provisioning-profiles"></a>iOS-i ettevalmistamise profiilid
 
-Apple iOS-i ärikasutajad kasutab profiili ettevalmistamiseks ja profiilis määratletud poliitikate kinnitamiseks kasutatava profiili kontseptsiooni. Need ettevalmistavad profiilid aeguvad 12 kuu pärast ja seetõttu tuleb rakendusega jätkamiseks kasutada uue profiiliga seotud rakendust.
+Apple'i iOS-i ärirakendus kasutab ettevalmistamise profiili mõistet, mida kasutatakse rakenduse tervikluse valideerimiseks ja profiilis määratletud poliitikate jõustamiseks. Need ettevalmistamise profiilid aeguvad 12 kuu pärast ja seega tuleb juurutatud rakendusega seostada uus profiil, et rakendused töötaks edasi.
   
-Järgmises artiklis kirjeldatakse, kuidas luua uue ettevalmistamise profiili, mille kaudu juurutatakse iOS-i rakendus, mida kasutatakse Intune ' i kaudu: [iOS-i rakenduste ettevalmistamine profiilide vältimiseks rakendused aeguvad](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+Järgmises artiklis kirjeldatakse, kuidas luua uue ettevalmistamise profiili seostamine Intune'i kaudu juurutatud iOS-i LOB-i rakendusega: [iOS-i](https://docs.microsoft.com/intune/app-provisioning-profile-ios) rakenduse ettevalmistamise profiilide kasutamine rakenduste aegumise vältimiseks
   

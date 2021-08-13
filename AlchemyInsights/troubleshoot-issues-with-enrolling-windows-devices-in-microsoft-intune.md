@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune'is Windowsi seadmete registreerimisega seotud probleemide tõrkeotsing
+title: Windows seadmete Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981037"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Microsoft Intune'is Windowsi seadmete registreerimisega seotud probleemide tõrkeotsing
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Windows seadmete Microsoft Intune
 
 Vaadake allpool loetletud ressursid üle, et probleem kohe lahendada.
   
@@ -35,7 +35,7 @@ Levinumad tõrketeated ja eraldusvõime juhised.
 
 -  Teine kasutaja on seadme juba registreerinud. Sel juhul eemaldage seade Azure Intune'i konsoolist või eemaldage seade enne uuesti proovimist käsitsi.
 
--  Seade on Windows 10 Home. Azure Active Directoryga saavad liituda ainult Windows 10 Pro, Education ja Enterprise SKUs.
+-  Seade on Windows 10 Home. Ainult Windows 10 Pro, haridusasutuste ja ettevõtete SSK-d saavad Azure Active Directory.
 
 Täiendavad ressursid probleemi lahendamiseks.
   
@@ -43,4 +43,4 @@ Täiendavad ressursid probleemi lahendamiseks.
 
 -  Vaadake need dokumendid üle, et saada ülevaade levinumatest vigadest, mis takistavad registreerimist ja lahendamist: tõrkeotsingu [juhend ja](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) [tõrkeotsingu dokument.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-[Saate teada, kuidas registreerida Windowsi seadmeid Microsoft Intune'is.](https://docs.microsoft.com/intune/windows-enroll)
+[Saate teada, kuidas Windows seadmetesse Microsoft Intune.](https://docs.microsoft.com/intune/windows-enroll)

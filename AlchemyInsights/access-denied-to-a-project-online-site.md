@@ -1,5 +1,5 @@
 ---
-title: Juurdepääs Project Web Appi saidile on keelatud
+title: Juurdepääs on keelatud Project Web Appi saidile
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955341"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Kasutajatele õiguse andmine Project Online ' is
+# <a name="give-users-permissions-in-project-online"></a>Kasutajatele õiguste andmine Project Online
 
-Kasutajatele juurdepääsu andmine Project Web Appi saidile SharePointi õiguse režiimi abil:
+Andke kasutajatele juurdepääs Project veebisaidile, kasutades SharePoint õigusrežiimi.
 
-1. Logige Project Online ' i administraatorina sisse.
-2. Valige Project Web Appi avalehel ülemises parempoolses nurgas nupp **Anna ühiskasutusse** .
-3. Tippige dialoogiboksis **Project Web Appi ühiskasutusse** andmiseks selle inimese kasutajanimi, kellele soovite anda juurdepääsu väljale **Kutsu inimesi** .
-4. Valige **Kuva suvandid**ja valige menüüst **õigusetaseme valimine** käsk Project **Managers for Project Web App**.
-5. Valige **ühiskasutus**.
+1. Logige sisse Project Online administraatorina.
+2. Valige Project veebirakenduse avalehel **nupp Anna** ühiskasutusse paremas ülanurgas.
+3. Tippige **Project Web Appi** ühiskasutus väljale Kutsu inimesi selle isiku kasutajanimi, kellele soovite **juurdepääsu** anda.
+4. Valige **Kuva suvandid** ja valige menüüs **Õigusetaseme** valimine Project Project **haldurid**.
+5. Valige **Anna ühiskasutusse**.
 
-Kui kasutate rakenduse Project permissions või lisateavet, lugege teemat [inimeste lisamine Project Online '](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)i.
+Kui kasutate Project õiguste režiimi või lisateavet, lugege teemat Inimeste lisamine [Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
