@@ -1,5 +1,5 @@
 ---
-title: Auditi sätete konfigureerimine
+title: Auditisätete konfigureerimine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 03889c763a8ae9a49c83ef4532bbe788d011d293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 464c0e8a37b5f572db319ee6f304bb2c6858f748ce8e6d58d155e458ce8517a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915475"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>SharePointi auditi sätete konfigureerimine
+# <a name="configure-sharepoint-audit-settings"></a>Auditisätete SharePoint konfigureerimine
 
-SharePointi saidikogumi administraatorid saavad jälgida kasutaja toiminguid sisu, konfigureerides auditi sätteid.
+SharePoint saidikogumi administraatorid saavad kasutajatoiminguid sisuga jälgida, konfigureerides auditisätted.
   
-1. Avage SharePointi sait.
+1. Avage SharePoint sait.
     
-2. Klõpsake ikooni sätted ja seejärel käsku **saidi sätted**. Kui te ei näe nuppu saidi sätted, klõpsake nuppu **saidi teave**ja seejärel käsku **Kuva kõik saidi sätted**.
+2. Klõpsake Sätted ja seejärel nuppu **Saidi sätted.** Kui valikut "Saidi sätted" ei näe, klõpsake nuppu **Saiditeave** ja seejärel käsku **Kuva kõik saidisätted.**
     
-3. Valige jaotises **Saidikogumi administreerimine**valik **saidikogumi auditi sätted**. (Kui te seda ei näe, klõpsake esmalt nuppu **Ava ülataseme saidi sätted** .) 
+3. Valige **jaotises Saidikogumi administreerimine** **suvand Saidikogumi auditisätted**. (Kui te seda ei näe, klõpsake esmalt **nuppu Ava ülataseme saidi** sätted.) 
     
-Lisateavet selle kohta, mis on lisatud SharePointi auditilogi aruannetes ja kuidas neid vaadata, leiate teemast [saidikogumi auditi sätete konfigureerimine](https://go.microsoft.com/fwlink/?linkid=404050).
+Lisateavet selle kohta, mida auditilogi SharePoint ja kuidas neid vaadata, leiate teemast [Saidikogumi auditisätete konfigureerimine.](https://go.microsoft.com/fwlink/?linkid=404050)
   
 

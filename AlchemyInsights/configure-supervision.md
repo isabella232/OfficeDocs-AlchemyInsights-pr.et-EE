@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915439"
 ---
-# <a name="configure-supervision-policies"></a>Juhendamise poliitikate konfigureerimine
+# <a name="configure-supervision-policies"></a>Järelevalvepoliitikate konfigureerimine
 
-Microsoft 365 järelevalvepoliitika võimaldab teil jälgida oma ettevõtte siseselt ja väljaspool Exchange ' i e-posti, Skype ' i ärirakenduse veebiväljaande, Microsoft Teamsi ja kolmanda osapoole suhtlus Määratud Läbivaatajad saavad jälgida jälgitud sõnumeid, et tagada nende vastavus teie asutuse poliitikale, riskijuhtimisele ja õigusnormide nõuetele vastavuse standarditele ning lahendada need klassifikatsiooni tüübiga.
+Microsoft 365 järelevalvepoliitikad võimaldavad teil jälgida Exchange, Skype'i ärirakendus Online'i, Microsoft Teams ja kolmanda osapoole teatisi, mis saadetakse nii ettevõttes kui ka sellest väljaspool. Määratud läbivaatajad saavad jälgitud sõnumeid läbi vaadata, et tagada nende vastavus teie ettevõtte poliitikatele, riskijuhtimisele ja regulatiivsetele nõuetele ning lahendada need liigitustüübiga.
 
-Asutuse järelevalve poliitikate kasutamiseks peate tegema järgmist.
+Ettevõttes järelevalvepoliitikate kasutamiseks peate tegema:
 
-- Määrata jälgimiseks teatised.
-- Saate otsustada, kes teostab suhtluse läbivaatust.
-- Häälestamise järelevalve poliitikad
+- Määrake kindlaks jälgimiseks kommunikatsioonid.
+- Otsustage, kes kommunikatsiooni üle vaatab.
+- Häälestusjärelevalve poliitikad
 
 Lisateave:
 
-- [Ülevaade järelevalve poliitikatest](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Juhendamise poliitikate konfigureerimine](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Järelevalvepoliitikate ülevaade](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Järelevalvepoliitikate konfigureerimine](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

@@ -1,5 +1,5 @@
 ---
-title: Windows 10 aktiveerimine esimest korda või pärast uuesti installimist
+title: Aktiveerige Windows 10 esimest korda või pärast uuesti installimist
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc10b443ef420184281a6872887ea0b9571c7dfb88c684d8399ca0c85e9f4ab3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937781"
 ---
-# <a name="activate-windows-10"></a>Windows 10 aktiveerimine
+# <a name="activate-windows-10"></a>Aktiveeri Windows 10
 
-**Windows 10 aktiveerimiseks pärast selle esmast installimist:**
+**Kui soovite Windows 10 aktiveerimiseks pärast selle esmast installimist, siis valige**
 
-- Windows 10 aktiveerimiseks seadmes, kus pole kunagi aktiveeritud Windows 10 eksemplari, peate kasutama kehtivat tootevõtit.
-- Kui installite Windows 10 versiooni, mida pole varem seadmes aktiveeritud, läheb teil vaja kehtivat tootevõtit. Näiteks Windows 10 Pro installimiseks ja aktiveerimiseks seadmesse, kus on installitud Windows 10 Home, on teil vaja kehtivat Windows 10 Pro tootevõtit.
-- Installimise ajal palutakse teil sisestada kehtiv tootevõti. Kui installimine on lõpule jõudnud, aktiveeritakse Windows 10 automaatselt võrgus. Windows 10 aktiveerimisoleku märkimiseks valige **Start** >  **Settings Update**& Security Activation  >    >  **(Aktiveerimissätted).**
+- Peate kasutama kehtivat tootevõtit, et aktiveerida Windows 10 seadmes, kus pole kunagi aktiveeritud Windows 10 koopiat.
+- Kehtivat tootevõtit läheb vaja ka juhul, kui installite seadmes Windows 10 pole varem aktiveeritud. Näiteks installige ja aktiveerige Windows 10 Pro seadmesse, mis on Windows 10 Home installitud, vajate kehtivat Windows 10 Pro tootevõtit.
+- Installimise ajal palutakse teil sisestada kehtiv tootevõti. Pärast installi lõpule viimist aktiveeritakse Windows 10 automaatselt võrgus. Aktiveerimisoleku märkimiseks Windows 10 **Start** >  **Sätted**  >  **Värskenda &**  >  **aktiveerimist**.
 
-**Aktiveerimiseks pärast Windows 10 uuesti installimist:**
+**Aktiveerimiseks pärast Windows 10.**
 
-- Kui aktiveerisite tasuta versioonitäienduse versioonile Windows 10 või ostsite ja aktiveerisite Windows 10 Microsoft Store'ist, on teil tootevõtme asemel oma seadme digitaallitsents. See tähendab, et saate sama Windows 10 väljaande uuesti installida, mille jaoks teie seadmel on digitaallitsents ilma tootevõtit sisestamata.
-- Kui teil palutakse uuesti installimisel sisestada tootevõti, valige **Jäta vahele**. Enamikul juhtudel, kui Windows 10 aktiveeriti teie seadmes enne uuesti installimist, aktiveeritakse see pärast võrguga lülitumist automaatselt.
+- Kui aktiveerisite tasuta versioonitäienduse Windows 10 või ostsite ja aktiveerisite Windows 10 seadmest Microsoft Store, on teil tootevõtme asemel teie seadme jaoks digitaallitsents. See tähendab, et saate sama Windows 10, mille jaoks teie seadmel on digitaallitsents ilma tootevõtit sisestamata.
+- Kui teil palutakse uuesti installimisel sisestada tootevõti, valige **Jäta vahele**. Enamasti, kui Windows 10 aktiveeriti teie seadmes enne uuesti installimist, aktiveeritakse see pärast võrguga lülitumist automaatselt.

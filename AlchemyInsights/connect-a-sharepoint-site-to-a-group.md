@@ -1,5 +1,5 @@
 ---
-title: SharePointi saidi ühendamine rühmaga
+title: Ühendus rühma SharePoint saidi loomine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915403"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>SharePointi saidi ühendamine rühmaga
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Ühendus rühma SharePoint saidi loomine
 
-SharePointi saidi ühendamiseks Microsoft 365 rühmaga kasutage rühmaühendusviisardit.
+Rühmaühenduse viisardi abil saate SharePoint saidi Microsoft 365.
 
-1. Valige saidil, millega soovite rühmaga ühenduse luua, nupp **Sätted (hammasrattaikoon).**
-2. Valige  **Loo ühendus uue Microsoft 365 rühmaga**.
+1. Valige saidil, millega soovite rühmaga ühenduse luua, Sätted **(hammasrattaikoon).**
+2. Valige **Ühendus uutele Microsoft 365 rühmale**.
 3. Ühenduse lõpuleviimiseks järgige viisardit.
 
-**Märkus.**  Kui ühendus uue Microsoft 365 rühmaga pole saadaval, ei toeta sait rühmaühendust.
+**Märkus.**  Kui Ühendus pole Microsoft 365 saadaval, ei toeta sait rühmaühendust.
 
-Lisateavet leiate teemast Office [365 rühmaga ühenduse loomine.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Lisateavet leiate teemast [Ühendus rühmale Office 365 .](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)

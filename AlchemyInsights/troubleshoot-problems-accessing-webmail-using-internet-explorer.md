@@ -1,5 +1,5 @@
 ---
-title: Veebipõhise juurdepääsuga seotud probleemide tõrkeotsing
+title: Veebipostile juurdepääsuga seotud probleemide tõrkeotsing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b38e953c69c3fbc0e1ac4771953b1777e7033286ea56554d42952c2df696bd70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007976"
 ---
-# <a name="troubleshoot-problems-with-accessing-webmail"></a>Veebipõhise juurdepääsuga seotud probleemide tõrkeotsing
+# <a name="troubleshoot-problems-with-accessing-webmail"></a>Veebipostile juurdepääsuga seotud probleemide tõrkeotsing
 
-ARVUTI vale kuupäeva ja kellaaja sätted võivad veebipõhiste e-posti serveritele juurdepääsu probleeme põhjustada. Kuupäeva ja kellaaja sätete õigeks tagamiseks tehke järgmist.
+Arvuti valed kuupäeva- ja kellaajasätted võivad põhjustada veebipõhistele meiliserveritele juurdepääsuga seotud probleeme. Kuupäeva- ja kellaajasätete õigeks muutmiseks tehke järgmist.
 
-1. Valige **Start**, tippige **kuupäev ja kellaaeg** ning seejärel valige **kuupäev ja kellaaeg**.
-2. Tehke aknas **kuupäeva & aeg** ühte järgmistest.
+1. Valige **Start**, tippige **kuupäev ja kellaaeg** ning seejärel valige Kuupäev ja **kellaaeg**.
+2. Tehke **&** kellaajaaknas ühte järgmistest.
 
-    - Lülitage **automaatselt säte Määra kellaaeg automaatselt** ja **seadke ajavöönd automaatselt**.
+    - Lülitage **sisse ruut Määra kellaaeg automaatselt** ja Määrake ajavöönd **automaatselt.**
 
-    - Hoidke automaatselt sätted alles, kuid valige nupp **Muuda** , valige dialoogiboksis kuupäeva **ja kellaaja muutmine** **kuupäev ja** **kellaaeg** ning seejärel klõpsake nuppu **Muuda**.
+    - Hoidke automaatsätted välja lülitatud, kuid valige  nupp  Muuda, valige dialoogiboksis Kuupäeva ja kellaaja **muutmine** sätted Kuupäev ja kellaaeg ning seejärel valige **Muuda**. 
 
-Lisateavet leiate teemast [veebirakenduse Internet Explorer kasutamisega webmail ' i juurdepääsu tõrkeotsing](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888).
+Lisateavet leiate teemast Internet [Exploreri abil veebipostile juurdepääsuga seotud probleemide tõrkeotsing.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)

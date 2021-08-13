@@ -1,5 +1,5 @@
 ---
-title: SharePointi uued funktsioonid on teada
+title: SharePoint uute funktsioonide välja kuulutamine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31d6370b3f9232efa282426799293a08a45c638077ef60ad00bd11140e4c3d1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800532"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093910"
 ---
-# <a name="sharepoint-new-features-announced"></a>SharePointi uued funktsioonid on teada
+# <a name="sharepoint-new-features-announced"></a>SharePoint uute funktsioonide välja kuulutamine
 
-Microsoft teatas, et süttib 2018 konverentsil SharePointis uued uuendused (sh kaasaegsete portaalide uued funktsioonid, uued veebiosad, arvukad täiustused jaoturi saitidele, uudiste link, sihtrühma sihtimine, uute Mobiilirakenduste kättesaadavus, võistkondadega ühendus ja muud...
+2018. aasta Ignite'i konverentsil andis Microsoft teada uutest uuendustest SharePoint jaoks, sh uued funktsioonid kaasaegsete portaalide, uute veebiosade, hubisaitide arvukate täiustuste, uudistelingi, sihtrühmade sihtimise, uute mobiilirakenduste kättesaadavuse, ühenduse Teams ja palju muud...
   
-Lisateavet nende funktsioonide kohta leiate teemast [Microsoft Office ' i uute uuenduste postitamine rakenduses SharePoint &amp; Microsoft 365 pakkuda sisu koostööks Power and lihtsust.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Lisateavet nende funktsioonide kohta leiate ajaveebipostitusest Uued SharePoint Microsoft 365 sisukoostöö [ &amp; jaoks.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Teie ettevõttel on võimalik liituda sihitud Väljalaske programmiga, et saada uusi funktsioone varajaseks juurdepääsuks. Lugege teemat [standardsete või sihtotstarbeliste Väljalaske-suvandite häälestamine rakenduses Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
+Teie ettevõte saab siht väljalaskeprogrammiga liituda, et saada varajane juurdepääs uutele funktsioonidele. Lugege [teemat Standard- või siht väljalaskesuvandite seadmine Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
