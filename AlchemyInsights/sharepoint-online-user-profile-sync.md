@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ' i kasutajaprofiili sünkroonimine
+title: SharePoint Võrgukasutajaprofiili sünkroonimine
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957465"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Online ' i kasutajaprofiili sünkroonimine
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Võrgukasutajaprofiili sünkroonimine
 
-Microsoft SharePoint kasutab Active Directory sünkroonimise tööd kasutaja ja rühma atribuudi teabe importimiseks kasutajaprofiili rakendusse (UPA).Lisateavet leiate allpool olevast artiklist.
+Microsoft SharePoint kasutab Active Directory sünkroonimistööd kasutaja- ja rühmaatribuuditeabe importimiseks kasutajaprofiili rakendusse (UPA).Lisateavet leiate allolevast artiklist.
 
-- [SharePoint Online ' i kasutajaprofiili sünkroonimine](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint Võrgukasutajaprofiili sünkroonimine](https://docs.microsoft.com/sharepoint/user-profile-sync)

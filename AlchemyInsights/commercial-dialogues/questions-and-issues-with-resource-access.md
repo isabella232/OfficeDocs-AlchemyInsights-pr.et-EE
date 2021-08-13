@@ -1,5 +1,5 @@
 ---
-title: Küsimused ja probleemid ressursside juurdepääsuga
+title: Ressursijuurdepääsuga seotud küsimused ja probleemid
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: d5278cfcf607c0722e02c2ca3cf421e0d492a9b7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db3140f94c6ab543133c29500552e529b0dc17b6d083cb729c5cf5857ffdbacf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967293"
 ---
-# <a name="questions-and-issues-with-resource-access"></a>Küsimused ja probleemid ressursside juurdepääsuga
+# <a name="questions-and-issues-with-resource-access"></a>Ressursijuurdepääsuga seotud küsimused ja probleemid
 
-Lisateavet selle kohta, millist tüüpi profiilide Intune toetab, et võimaldada kasutajate juurdepääsu ettevõtte infrastruktuurile ja ressurssidele, leiate järgmistest teemadest.
+Lisateavet profiilitüüpide kohta, mida Intune toetab kasutajate juurdepääsu võimaldamiseks ettevõtte taristule ja ressurssidele, leiate järgmisest teemast.
 
-- [Microsoft Intune seadmetes Wi-Fi sätete lisamine ja kasutamine](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
-- [Meilikontode lisamine seadmetele, mis kasutavad Intune ' i](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
-- [Microsoft Intune ' is autentimise sertide kasutamine](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
-- [VPN-profiilide loomine virtuaalse privaatvõrgu serveritega ühenduse loomiseks Intune abil](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
+- [Seadmetes Wi-Fi sätete lisamine ja kasutamine Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
+- [Meilisätete lisamine Intune'i abil seadmetesse](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
+- [Sertide kasutamine autentimiseks Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
+- [VPN-i profiilide loomine Intune'i VPN-serveritega ühenduse loomiseks](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
 
 [Lugege lisateavet...](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
