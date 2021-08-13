@@ -1,5 +1,5 @@
 ---
-title: Loendiüksuste kommentaarid
+title: Kommentaarid loendiüksuste kohta
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724150"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995474"
 ---
-# <a name="comments-on-list-items"></a>Loendiüksuste kommentaarid
+# <a name="comments-on-list-items"></a>Kommentaarid loendiüksuste kohta
 
-Kasutajad saavad vaadata kõiki loendiüksuse kommentaare ja filtreerida mõne üksusega seotud kommentaare või tegevust kuvavate vaadete vahel.
+Kasutajad saavad vaadata kõiki loendiüksuse kommentaare ja filtreerida vaadete vahel, kus kuvatakse üksusega seotud kommentaarid või tegevused.
 
-Enne kommentaaride lisamist ja kustutamist peavad kasutajad arvestama järgmist.
+Enne kommentaaride lisamiseks ja kustutamiseks peavad kasutajad teadma järgmist.
 
-- Kommentaarid järgivad SharePointis omaseid õiguste sätteid.
-- Klassikalised loendid, mis pole veel üles ehitatud, et kuvada moodsad kasutajaliidesed (nt tööülesannete loendid), ei avalda seda kommenteerimise funktsiooni.
-- Selle väljaandega pole saadaval kommenteerimine võistkondade loendites.
-- Kommentaarid pole otsingus indekseeritud.
+- Kommentaarid järgivad õiguste sätteid, mis on SharePoint.
+- Klassikalistes loendites, mis pole veel valmis, et neid kuvada kaasaegsetes kasutajaliidestes (nt ülesandeloendites), pole seda kommentaarifunktsiooni.
+- Selle väljaandega pole Teams loendite kommenteerimine saadaval.
+- Otsing ei indekseeri kommentaare.
 
-Administraatorid saavad selle funktsiooni keelata ettevõtte tasandil, muutes parameetrit **CommentsOnListItemsDisabled** cmdlet **-käsu Set-spotenantiga** PowerShell.
+Administraatorid saavad selle funktsiooni organisatsiooni tasemel keelata, muutes **cmdlet-käsu Set-SPOTenant** PowerShell parameetrit **CommentsOnListItemsDisabled.**
 
-Praegu ei saa saidi või loendi tasemel kommenteerida. Loodame, et need juhtelemendid on hilisemas värskenduses, tõenäoliselt esimese kvartali 2021.
+Praegu ei saa saidil või loenditasemel kommenteerimist keelata. Loodame, et need juhtelemendid on hilisemas värskenduses, tõenäoliselt 2021. aasta esimeses kvartalis.

@@ -1,5 +1,5 @@
 ---
-title: SharePointi loendi või teegi õiguse muutmine
+title: Loendi või teegi SharePoint õiguste muutmine
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b012606e5dadd0ea71eb68de9bc278faea41adbc99e662bfa3eea6653548c1a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979453"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePointi loendi või teegi õiguse muutmine
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Loendi või teegi SharePoint õiguste muutmine
 
-1. Avage veebibrauseris SharePointi sait ja avage loend või teek.
+1. Avage SharePoint ja avage loend või teek.
     
-2. Klõpsake paremas ülanurgas ikooni sätted ja seejärel klõpsake nuppu **teegi sätted** või **loendi sätted**. (Kui käsku ei kuvata, valige lindi avamiseks vahekaart **Teek** või **loend** ja seejärel klõpsake lindil nuppu **teegi sätted** või **loendi sätted** .) 
+2. Klõpsake Sätted paremas ülanurgas ikooni Ja seejärel klõpsake nuppu **Teegi sätted** või **Loendi sätted.** (Kui käsku ei näe, valige  lindi  avamiseks menüü Teek või Loend ja seejärel klõpsake **lindil nuppu Sätted** või **Sätted** loend.) 
     
-3. Klõpsake jaotises **permissions ja haldus**linki **selle loendi** või **selle dokumenditeegi õigustega**.
+3. Klõpsake **jaotises Õigused ja** haldus nuppu Selle loendi **õigused** või **Selle dokumenditeegi õigused.**
     
-Pange tähele, et SharePointi loendid ja teegid pärivad saidilt vaikimisi oma õiguste. Kui katkestate õiguste pärimise, kopeeritakse praegused õigused loendile või teegile ja kõik selle sees. Kui saidi kasutusõigusi muudetakse hiljem, siis muudatusi ei rakendata loendile või teegile ja selle sees olevatele üksustele.
+Pange tähele, et SharePoint loendid ja teegid pärivad oma õigused saidilt. Õiguste pärimise katkestamise korral kopeeritakse praegused õigused loendisse või teeki ja kõik selle sees. Kui saidi õigusi hiljem muudetakse, ei rakendata muudatusi loendisse ega teeki ega selles olevatele üksustele.
   
 

@@ -1,5 +1,5 @@
 ---
-title: Accessi keelatud sõnumite tõrkeotsing
+title: Juurdepääsu keelanud sõnumite tõrkeotsing
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,34 +9,34 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af0bc0215f8feacc28a0b9bdf6b2659778736d669f7a3ff17628401e23d5fb6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957969"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Accessi keelatud sõnumite tõrkeotsing
+# <a name="troubleshoot-access-denied-messages"></a>Juurdepääsu keelanud sõnumite tõrkeotsing
 
-Kui teil on SharePoint Online ' i saidi sirvimise katsel juurdepääs keelatud, lugege allpool olevaid artikleid.
+Kui sharepoint Online'i saidi sirvimise katsel kuvatakse juurdepääs keelatud, lugege alltoodud artikleid.
 
 **Kasutaja lisamine ja litsentsimine**
 
-Veenduge, et [määrate kasutajatele Microsoft 365 ettevõtetele litsentsid](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Veenduge, et [määrate litsentsid Microsoft 365 ettevõtetele.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-**Õiguse määramine**
+**Õiguste määramine**
 
-Kui kasutajale on määratud SharePointi litsents ja ta saab endiselt juurdepääsu keelava sõnumi, siis veenduge, et neil on [määratud õigusetasemed](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Kui kasutajale on määratud SharePointi litsents ja ta saab endiselt juurdepääsukeelu teate, veenduge, et talle on määratud [vastav õigusetase.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-**Accessi taotluse funktsiooni kasutamine**
+**Kaaluge juurdepääsutaotluse funktsiooni kasutamist**
 
-[Accessi taotluse](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funktsioon võimaldab inimestel taotleda juurdepääsu sisule, mida neil praegu ei ole. 
+Juurdepääsutaotluse [funktsioon](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) võimaldab inimestel taotleda juurdepääsu sisule, mida neil praegu pole. 
 
-**Kohandatud skripti lubamine võib põhjustada juurdepääsu keelatud probleemidele**
+**Kohandatud skripti lubamine võib põhjustada juurdepääsuga seotud keelatud probleeme**
 
-On teatud stsenaariumid, mille korral funktsioon "luba kohandatud skript" võib esitada juurdepääsu keelatud. Mõjutatud funktsioonide loendi, turvalisuse kaalutlused ja funktsiooni keelamise võimalus. Palun külasta, [Luba või Keela kohandatud skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+On teatud stsenaariume, kus funktsioon "Luba kohandatud skript" võib anda juurdepääsu keelatud. Mõjutatud funktsioonide loendi, turbekaalutluste ja funktsiooni keelamise võimaluse kohta. Külastage , [lubage või keelake kohandatud skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Märkus: kui OneDrive ' i või SharePointi sait pole saadaval mitmele kasutajale, kellel oli varem juurdepääs, võib olla ajutine teenuse probleem. [Kontrollige teenuse tervise armatuurlauda](https://portal.office.com/adminportal/home#/servicehealth).
+Märkus. Kui OneDrive või SharePoint pole saadaval mitmele kasutajale, kellel oli varem juurdepääs, võib esineda ajutine teenuseprobleem. [Kontrollige teenuse seisundi armatuurlauda.](https://portal.office.com/adminportal/home#/servicehealth)
 
 
   

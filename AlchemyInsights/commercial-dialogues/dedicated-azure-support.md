@@ -1,5 +1,5 @@
 ---
-title: Pühendatud Azure ' i tugi
+title: Spetsiaalne Azure'i tugi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: c882c08dd2e87db207161dc4c2fa8e88125e6420
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d165b7857703a535e8971fed71b1c83b9f753d5bf26fd5f1b76fe583a6c61578
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979237"
 ---
-# <a name="dedicated-azure-support"></a>Pühendatud Azure ' i tugi
+# <a name="dedicated-azure-support"></a>Spetsiaalne Azure'i tugi
 
-Lisateavet Azure ' i probleemide kohta leiate teemast Azure ' i toe hankimine [arveldusega seotud küsimustes, tehniline tugi ja helistage meile](https://go.microsoft.com/fwlink/?linkid=2081348).
+Azure'i probleemide kohta leiate abi jaotisest Azure'i toe saamine [jaotisest Arveldusküsimused, Tehniline tugi ja Helista meile.](https://go.microsoft.com/fwlink/?linkid=2081348)
