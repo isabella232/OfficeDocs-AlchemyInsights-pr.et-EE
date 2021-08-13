@@ -1,5 +1,5 @@
 ---
-title: Kausta loomine Outlooki veebirakenduses
+title: Kausta loomine Outlooki veebirakendus
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 85762dad63607ff9e141d275266233687d7bdad2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214f563f51d7e5d73145decb67a77e1cad201ab05098874145691e42b94c65e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671188"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961227"
 ---
 # <a name="create-a-folder"></a>Kausta loomine
 
-1. Valige Outlooki veebirakenduse paani allservas nupp **Uus kaust**. Nupu **Uus kaust** kuvamiseks peate võib-olla paanil Kaustaloend allapoole kerima.
-1. Sisestage tekstiväljale kausta nimi ja vajutage sisestusklahvi (ENTER).
+1. Valige kaustapaani allservas Outlooki veebirakendus Uus **kaust**. Võimalik, et nupu Uus kaust kuvamiseks peate kaustapaanil **kerima allapoole.**
+1. Sisestage tekstiväljale kausta nimi ja vajutage sisestusklahvi (Enter).
 
-Lisateavet leiate teemast [sõnumite kaustadega töötamine Outlooki veebirakenduses](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Lisateavet leiate teemast [Sõnumikaustade kasutamine](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)Outlooki veebirakendus.

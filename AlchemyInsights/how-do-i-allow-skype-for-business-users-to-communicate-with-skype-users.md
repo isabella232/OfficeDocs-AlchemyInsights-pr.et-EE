@@ -1,5 +1,5 @@
 ---
-title: Kuidas lubada Skype'i ärirakenduse kasutajatel Skype'i kasutajatega suhelda?
+title: Kuidas lubada kasutajatel Skype'i ärirakendus suhelda Skype kasutajatega?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f7eea73c49fec268c2bf2a44d0001cc4603fcd6331e5de0626862389f7cc04d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927717"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Luba Skype'i ärirakenduse kasutajatel lisada Skype'i kontakte
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Kasutajate Skype'i ärirakendus kontaktide Skype lubada
 
-Skype'i ärirakenduses saavad kasutajad otsida ja kiirsõnumsidet teha kõigi skype'i kasutajatega, kes kasutavad tasuta rakendust Skype! Selles artiklis selgitatakse, mida peate tegema, et nad saaksid Lisada Skype'i kontakte.
+Skype'i ärirakendus kasutajad saavad otsida ja kiirsõnumsidet teha kõigi kasutajatega, kes Skype tasuta rakendust! Selles artiklis selgitatakse, mida peate tegema, et nad saaksid Skype lisada.
 
-[Luba Skype'i ärirakenduse kasutajatel lisada Skype'i kontakte](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Kasutajate Skype'i ärirakendus kontaktide Skype lubada](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

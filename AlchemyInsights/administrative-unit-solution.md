@@ -1,5 +1,5 @@
 ---
-title: Administratiivse üksuse lahendus
+title: Haldusüksuse lahendus
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7896"
-ms.openlocfilehash: c32d0652642fa4143b037662809f3ca5dec079f0
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: 93b77f0a23bc53035d63e08869067aff25270aed559d7cddded04aaa92285302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952461"
 ---
-# <a name="administrative-unit-solution"></a>Administratiivse üksuse lahendus
+# <a name="administrative-unit-solution"></a>Haldusüksuse lahendus
 
-1. Veenduge, et administraatoriõigustega kasutaja ja rollide määramine oleks globaalne administraator või eesõiguse administraator.
-2. Veenduge, et määrate kasutajatele otse haldusüksused. Rühma määramine haldusüksusele ei määra kõiki rühma liikmeid haldus-üksusele.
-3. Kui soovite, et mõni haldusüksus oleks avatud, võib muudatuste tegemiseks KASUTAJALIIDESes aega võtta olenevalt mitmest tegurist (s) (nt praegune teenuse laadimine).
+1. Veenduge, et kasutaja, kes loob haldusüksusi ja määrab rolle, on üldadministraator või õiguste rolli administraator.
+2. Veenduge, et määrate kasutajad otse haldusüksustesse. Rühma määramine haldusüksusele ei määra kõiki rühma liikmeid haldusüksusele.
+3. Haldusüksuse hulgitoimingu korral võivad muudatused kasutajaliideses kajastamiseks võtta aega olenevalt mitmesugustest teguritest (nt praegune teenusekoormus).
 
-Lisateavet haldusüksuste kohta leiate teemast [rollide haldamine halduses](https://docs.microsoft.com/azure/active-directory/roles/administrative-units).
+Lisateavet haldusüksuste kohta leiate teemast [Rollide haldamine haldusüksuses.](https://docs.microsoft.com/azure/active-directory/roles/administrative-units)

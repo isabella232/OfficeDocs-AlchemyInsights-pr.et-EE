@@ -1,5 +1,5 @@
 ---
-title: Sissetulevatele meilisõnumitele vastamise reeglite häälestamine
+title: Sissetulevatele meilisõnumitele vastamise reeglite saatmine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 49b8aafe77aa6e31f8d724046c6fc0996294cc5d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3164959f33a42e518002e4c222a344d4f638d17a32a4959db2f903ce5cb14d81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915619"
 ---
-# <a name="set-up-rules-to-reply-to-incoming-emails"></a>Sissetulevatele meilisõnumitele vastamise reeglite häälestamine
+# <a name="set-up-rules-to-reply-to-incoming-emails"></a>Sissetulevatele meilisõnumitele vastamise reeglite saatmine
 
-Järgmiste juhiste abil saate luua meilisõnumitele vastamiseks malli ja seejärel häälestada Outlooki iga vastuvõetud sõnumile vastamiseks.
+Sõnumitele vastamiseks malli loomiseks tehke järgmist ja seejärel häälestage Outlook sõnumile vastamiseks.
 
-1. Looge Outlookis Uus meilisõnum ja sisestage oma kontorist väljasoleku malli teema ja sõnumi sisu.
-2. Valige **faili > Salvesta nimega**.
-3. Valige dialoogiboksi nimega **salvestamine** ripploendist **Salvestustüüp** väärtus **Outlooki mall (*. OFT).** Andke sellele sobiv nimi ja klõpsake nuppu **Salvesta**.
-4. Valige käsk   >  **Halda reegleid & teatisi**.
-5. Klõpsake dialoogiboksi **reeglid ja teatised** vahekaardil **e-posti reeglid** nuppu **Uus reegel**.
-6. Klõpsake dialoogiboksi **reegliviisardid** jaotises **Alusta tühjast reeglist** käsku **Rakenda reegel vastuvõetavatele sõnumitele** ja seejärel klõpsake nuppu **edasi**.
-7. Tingimuse korral valige **saadetud ainult mulle** ja seejärel klõpsake nuppu **edasi**.
-8. Toimingu jaoks valige **teatud malli abil vasta**, seejärel klõpsake allpaanil **mõnda kindlat malli**.
-9. Valige dialoogiboksis " **vasta malli valimine** " ripploendist **ilme** " **User templates in System**". Valige eelnevalt salvestatud Mall ja klõpsake nuppu **Ava**.
-10. Dialoogiboksi alumisel paanil kuvatakse mallifaili lisamine. Viisardi sulgemiseks ja dialoogiboksi **reeglid ja teatised** naasmiseks klõpsake nuppu **Lõpeta** . Pange tähele, et äsja loodud **saadeti ainult mulle** reegel. Klõpsake nuppu **OK**.
+1. Looge Outlook uus meilisõnum ning sisestage kontorist väljas office'i malli teema ja sõnumi sisu.
+2. Valige **Fail > Salvesta nimega**.
+3. Valige **dialoogiboksis Nimega** salvestamine ripploendist **Salvestustüüp** väärtus **Outlook Mall (*.oft).** Andke talle sobiv nimi ja klõpsake nuppu **Salvesta**.
+4. Valige fail **Halda**  >  **reegleid ja & teatised**.
+5. Klõpsake **dialoogiboksi Reeglid** ja teatised vahekaardil **Meilireeglid nuppu** **Uus reegel**.
+6. Valige **dialoogiboksi Reegliviisard** jaotises **Alusta tühjast** reeglist nuppu Rakenda reegel saadud **sõnumitele** ja seejärel klõpsake nuppu **Edasi**.
+7. Valige tingimuse jaoks ainult **minule saadetud ja** seejärel klõpsake nuppu **Edasi**.
+8. Valige toimingu jaoks **vastus kindla malli abil ja** seejärel klõpsake allpaanil kindlat **malli**.
+9. Valige **dialoogiboksi Vastusemalli** valimine **ripploendist Vt** suvand Kasutajamallid **failisüsteemis**. Valige eelnevalt salvestatud mall ja seejärel klõpsake nuppu **Ava.**
+10. Dialoogiboksi alumisel paanil kuvatakse mallifaili lisamine. Viisardi **sulgemiseks** ja dialoogiboksi Reeglid ja teatised **naasmiseks klõpsake nuppu** Valmis. Pange tähele, et äsja **loodud saadetud reegel on ainult mulle.** Klõpsake nuppu **OK**.

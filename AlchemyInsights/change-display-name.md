@@ -1,5 +1,5 @@
 ---
-title: 959 muuta kuvatav nimi
+title: 959 Kuvatava nime muutmine
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -12,25 +12,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: dea443384edf60028d3e4b25ed48388e335c0e0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7657935ca752744b6a53fbbff1e69b8642239a074376722cbb0b1fa4036650c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979417"
 ---
 # <a name="change-your-display-name"></a>Kuvatava nime muutmine
   
-Outlookis kuvatava nime muutmiseks kasutage järgmisi juhiseid.
+Kuvatava nime muutmiseks Outlook tehke järgmist.
   
-1. **Valige Outlookis** \> **Account Settings** \> **konto**sätete Kontosätted.
+1. Valige Outlook Fail  \> **Konto Sätted** \> **Konto Sätted**.
 
 2. Valige meilikonto ja seejärel valige **Muuda**.
 
     > [!NOTE]
-    > Kui te ei näe kuvatava nime muutmise võimalust, kasutate tõenäoliselt Microsoft Exchange ' i meilikontot. Sellisel juhul peate oma kuvatava nime muutmiseks pöörduma oma süsteemiülema poole. Vaadake teemat [kasutajanime ja meiliaadressi muutmine](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+    > Kui kuvatavat nime ei kuvata, kasutate tõenäoliselt Microsofti meilikontot Exchange. Sel juhul peate kuvatava nime muutmiseks pöörduma oma administraatori poole. Vaadake [teemat Kasutajanime ja meiliaadressi muutmine.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
-3. Kui olete oma kuvatavat nime muutnud, klõpsake muudatuste salvestamiseks nuppu **OK** . Muudatuste peegeldamiseks kogu ettevõttes võib kuluda mitu tundi.
+3. Pärast kuvatava nime muutmist klõpsake muudatuste salvestamiseks nuppu **OK.** Muudatuste kajastamiseks kogu ettevõttes võib aega võtta paar tundi.
 
-Lisateavet leiate teemast [meilisõnumi adressaadi kuvatava nime muutmine](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Lisateavet leiate teemast [Kuvatava nime muutmine, mida meilisõnumi adressaadid näevad.](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)
   
