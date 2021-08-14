@@ -1,5 +1,5 @@
 ---
-title: AutoSuggest kiire redigeerimine
+title: Automaatsuggesti kiir redigeerimine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "7232"
-ms.openlocfilehash: 7e6781347e96a794c45ae5508282d44c958d3187
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: cdb9541c4f5a23a3c4903d0586e5eca105f473a0ab0aca68a948fdcac2363edd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447260"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923091"
 ---
-# <a name="quick-edit-autosuggest"></a>AutoSuggest kiire redigeerimine
+# <a name="quick-edit-autosuggest"></a>Automaatsuggesti kiir redigeerimine
 
-Üksuse redigeerimiseks SharePointi loendis on kaks võimalust. Saate redigeerida ühte üksust loendi vaates, mis on vaikimisi kasutatav meetod. Või olla veelgi tootlikum, saate redigeerida mitut üksust vaates kiirotsing. Üksuste redigeerimiseks peab teil olema õigus anda vastava taseme õigused. Lisateavet leiate artiklist [SharePoint Online ' is Loendiüksuste redigeerimine](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).
+SharePointi loendis saab üksust redigeerida kahel viisil. Saate redigeerida loendi vaates ühte üksust, mis on vaikemeetod. Või olla veelgi produktiivsem ja redigeerida kiirredigeerimise vaates mitut üksust. Üksuste redigeerimiseks peab teil olema kaastöö tasemel õigus. Lisateavet leiate teemast [Loendiüksuste redigeerimine SharePoint Online' is.](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)

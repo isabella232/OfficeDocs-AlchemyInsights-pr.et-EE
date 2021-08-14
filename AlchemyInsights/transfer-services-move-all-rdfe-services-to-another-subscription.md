@@ -1,5 +1,5 @@
 ---
-title: Teenuste edastamine – kõigi RDFE teenuste teisaldamine teise tellimusse
+title: Transfer Services - Move all RDFE services to another subscription
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004116"
 - "7196"
-ms.openlocfilehash: d6744484fe42f09f03de562a00fd56712607d418
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 89217922b8b51f2548f9fff53bf80364c0e897b1d9b34bfb7016f0b0f197cf17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940034"
 ---
-# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Teenuste edastamine – kõigi RDFE teenuste teisaldamine teise tellimusse
+# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Transfer Services - Move all RDFE services to another subscription
 
-**Ressursside ümberpaigutamine**
+**Ressursside teisaldamine**
 
-Azure ' i ressursse saab teisaldada kas mõnele muule Azure ' i tellimusele või ressursirühma samale tellimusele, kasutades Azure ' i portaali, Azure PowerShelli, Azure ' i või REST API-d.
+Azure'i ressursse saab ressursside teisaldamiseks azure'i portaali, Azure PowerShelli, Azure CLI või REST API abil teisaldada sama tellimuse alusel teise Azure'i tellimusse või ressursirühma.
 
-Enne ressursside liikumist vaadake järgmisi teemasid:
+Enne ressursside teisaldamist lugege teemat
 
 - [Kontroll-loend enne ressursside teisaldamist](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
 - [Teenused, mida saab teisaldada](https://docs.microsoft.com/azure/azure-resource-manager/move-support-resources?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Liikumise kinnitamine](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
-- [Teenuste juhendamine](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Käigu valideerimine](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
+- [Teenuste juhiste teisaldamine](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Olemasolevate ressursside teise ressursirühma või tellimusele liikumiseks saate kasutada järgmist.
+Olemasolevate ressursside teisaldamiseks mõnda muusse ressursirühma või tellimusse saate kasutada:
 
-- [Azure ' i portaal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
+- [Azure'i portaal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
 - [Azure PowerShell](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-powershell)
 - [Azure CLI](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-cli)
 - [REST API](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
 
-Õpetus: [Azure ' i ressursside teise ressursirühma või tellimusele minek](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
+Õpetus: [Azure'i ressursside teisaldamine teise ressursirühma või tellimusse](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
 
-**Tõrkeotsing tõrgete korral Azure Resource Manageri abil**
+**Azure Resource Manageri tõrgete tõrkeotsing**
 
-Lisateavet levinud Azure ' i juurutamise tõrgete kohta leiate allpool olevatest artiklitest ja nende lahendamiseks saada teavet. Kui te ei leia oma juurutamise tõrke tõrkekoodi, lugege teemat [tõrkekoodi otsimine](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code).
+Lisateavet levinud Azure'i juurutustõrgete kohta leiate allpool toodud artiklitest ja saate nende lahendamiseks teavet. Kui te ei leia juurutamisvea tõrkekoodi, lugege teemat [Tõrkekoodi otsige.](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code)
 
-- [Juurutamise tõrgete tõrkeotsing](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
-- [Azure ' i ressursside uuele ressursirühma või tellimusele teisaldamise tõrkeotsing](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
+- [Juurutamistõrgete tõrkeotsing](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
+- [Azure'i ressursside uuele ressursirühmale või tellimusele teisaldamise tõrkeotsing](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
 
-Pange tähele, et kui soovite oma Azure ' i tellimust täiendada (nt minna tasuta tasulisele tellimusele), peate tellimuse muutma.
+Võtke arvesse, et kui soovite oma Azure'i tellimust täiendada (nt minna üle tasuta tellimuselt tasule), peate tellimuse teisendama.
 
-- Tasuta prooviversiooni värskendamiseks lugege artiklit [tasuta prooviversiooni uuendamine või Microsoft Imagine Azure ' i tellimuse maksmine-AS-You-Mine](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription).
-- Tasuliste kontode vahetamise kohta leiate lisateavet teemast [Azure ' i tasuliste pakettide muutmine teise pakkumise jaoks](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer).
+- Tasuta prooviversiooni täiendamiseks lugege teemat [Tasuta prooviversiooni või Microsoft Imagine Azure'i tellimuse täiendamine teenuseks Pay-As-You-Go.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription)
+- Vaadake teemat [Azure Pay-As-You-Go](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer)tellimuse muutmine muuks pakkumiseks.
 
-**Azure ' i tellimuse lisamiseks või seostamiseks Azure Active Directory rentniku jaoks tehke järgmist.**
+**Azure'i tellimuse lisamiseks või seostamiseks oma Azure Active Directory rentnikuga.**
 
-1. Logige sisse ja valige pakett, mida soovite [Azure ' i portaalis tellimuste lehel](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)kasutada.
+1. Logige sisse ja valige Azure'i portaali lehel Tellimused soovitud [tellimus.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
 2. Valige **Muuda kataloogi**.
-3. Vaadake üle kõik kuvatud hoiatused ja seejärel valige **Muuda**.
-4. Kataloogi muudetakse tellimuse jaoks ja teile kuvatakse edukas sõnum.
-5. Kasutage *kataloogi* vahetaja, et minna uude kataloogi. See võib võtta kuni 10 minutit, et kõik kuvataks õigesti.
+3. Vaadake kuvatavad hoiatused üle ja valige **Muuda**.
+4. Tellimust muudetakse ja teile kuvatakse eduteade.
+5. Uue *kataloogi* minemiseks kasutage kataloogilülitit. Kõige õigeks näitamine võib võtta kuni 10 minutit.
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Azure ' i tellimuse omandiõiguse üleandmine](https://docs.microsoft.com/azure/billing-subscription-transfer)
-- [Ressursside uude ressursirühma või tellimusesse paigutamine](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
-- [Ressursside haldamine Azure ' i portaali abil](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)
+- [Azure'i tellimuse omandiõiguse üleminek](https://docs.microsoft.com/azure/billing-subscription-transfer)
+- [Ressursside teisaldamine uude ressursirühma või tellimusse](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
+- [Ressursside haldamine Azure'i portaali abil](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)

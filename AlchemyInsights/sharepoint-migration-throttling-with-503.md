@@ -1,5 +1,5 @@
 ---
-title: SharePointi migreerimise ahendamine 503 tõrgetega
+title: SharePoint migreerimise ahendamine 503 tõrkega
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,22 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4e11cfddf5f2a684ba19d78ba825384853bec310f3301f1177971c0a04548c05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947444"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941400"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePointi migreerimise ahendamine 503 tõrgetega
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint migreerimise ahendamine 503 tõrkega
 
-Näib, et migreerite SharePoint Online ' i ja võtate 503 tõrkeid. Palun järgige alltoodud juhiseid, et saaksime teid võimalikult kiiresti aidata.
+Näib, et migreerite veebi SharePoint ja saate 503 tõrkeid. Järgige alltoodud juhiseid, et saaksime teid võimalikult kiiresti aidata.
 
-1. Klõpsake nuppu **Võta ühendust kasutajatoega** ja seejärel **uue teenuse taotlus**.
-2. Tiitli ja kirjelduse jaoks tippige **SharePointi migreerimise ahendamine koos 503**.
-3. Kui pilet on esitatud, värskendage seda järgmise teabega.
-    - Kui palju migreerimist alles jääb (nt mitu TBs)?
-    - Migreerimise algus-ja lõppkuupäev.
-    - Kirjeldage, kust migreerite sisu (nt SharePoint Server, kast, GDrive, failid jne).
-    - Hinnake ahendamise tõrgete arvu (nt x Throttle tunnis) ja millal ahendamine juhtus.
-    - Millist migreerimise tööriista te kasutate (nt SPMT või ShareGate)?
+1. Klõpsake **nuppu Võta ühendust klienditoega** ja seejärel käsku Uus **teenusetaotlus**.
+2. Tippige pealkirjale ja kirjeldusele **SharePoint migreerimise ahendamine 503-ga.**
+3. Kui pilet on esitatud, värskendage seda järgmise teabega:
+    - Kui palju on migreerimise järel (nt mitu TB-d)?
+    - Migreerimise algus- ja lõppkuupäev.
+    - Kirjeldage, kust te oma sisu migreerite (nt SharePoint Server, Box, GDrive, File shares jne).
+    - Hinnake ahendusvigade arvu (nt x ahendust tunnis) ja millal ahendamine juhtus.
+    - Millist migreerimistööriista kasutate (nt SPMT või ShareGate)?
