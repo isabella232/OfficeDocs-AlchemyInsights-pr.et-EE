@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630065"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868414"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Kustutatud meilisõnumite logide auditeerimine
 
@@ -32,8 +32,8 @@ Alates jaanuarist 2019 lülitab Microsoft postkasti auditilogi vaikimisi sisse. 
 
 4. Klõpsake **nuppu Otsi**.
 
-Valige tulemitest auditikirje. Klõpsake üksikasjade hüpiku jaotises nuppu **Lisateave.** Lisateavet kustutatud üksuse kohta (nt teemarida ja üksuse asukoht kustutamisel) kuvatakse väljal **AffectedItems.** Atribuut **ClientInfoString** kuvatakse, kui kustutamine toimus Outlook, Outlooki veebirakendus (varem Outlook Web App) või mis tahes muu seadmega.
+Valige tulemitest auditikirje. Klõpsake üksikasjade hüpiku jaotises nuppu **Lisateave.** Lisateavet kustutatud üksuse kohta (nt teemarida ja üksuse asukoht kustutamisel) kuvatakse väljal **AffectedItems.** Atribuut **ClientInfoString (ClientInfoString)** kuvatakse juhul, kui Outlook, Outlooki veebirakendus (varem tuntud kui Outlook Web App) või mis tahes muu seadmes.
 
-Lisateavet leiate teemast [Postkasti jaoks meilisõnumite edasisaatmise häälestaja määratlemine.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Lisateavet leiate teemast [Postkasti jaoks meilisõnumite edasisaatmise häälestaja määratlemine.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
 **Märkus.** Auditilogi funktsiooni abil ei saa kustutatud üksusi tuua. Kustutatud sõnumite toomiseks Outlooki veebirakendus lugege [teemat Kustutatud üksuste taastamine Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

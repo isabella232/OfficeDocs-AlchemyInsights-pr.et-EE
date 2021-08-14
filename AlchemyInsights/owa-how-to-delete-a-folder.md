@@ -14,18 +14,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: 7b53932df90e66cc2cee6482342100d7c7df01b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36eef08dc4706fabd068d63710e944eafd14b24a0913d9408496cffd2d0b0ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063228"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Kausta kustutamine Outlooki veebirakenduses
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Kausta kustutamine Outlooki veebirakendus
 
-1. Paremklõpsake paanil kausta või alamkausta, mille soovite kustutada.
+1. Paremklõpsake kaustapaanil kausta või alamkausta, mille soovite kustutada.
 2. Valige **Kustuta kaust**.
-3. Kinnitamiseks klõpsake **nuppu OK** .
+3. Kinnitamiseks **valige OK.**
 
-Lisateavet leiate teemast [sõnumite kaustadega töötamine Outlooki veebirakenduses](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Lisateavet leiate teemast [Sõnumikaustade kasutamine](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)Outlooki veebirakendus.
 

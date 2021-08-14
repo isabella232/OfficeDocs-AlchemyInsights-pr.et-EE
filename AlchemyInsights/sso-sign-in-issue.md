@@ -1,5 +1,5 @@
 ---
-title: Tõrgeteta ühekordse sisselogimise (SSO) sisselogimise probleemide tõrkeotsing
+title: Sujuva ühekordse sisselogimise (SSO) kasutaja sisselogimisprobleemide tõrkeotsing
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
-ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
+ms.openlocfilehash: ae31461b300fc262ea10233c628493e33371f18136d00e05755971c08d2ba3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50828687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009424"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Tõrgeteta ühekordse sisselogimise (SSO) sisselogimise probleemide tõrkeotsing
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Sujuva ühekordse sisselogimise (SSO) kasutaja sisselogimisprobleemide tõrkeotsing
 
-Tõrgeteta ühekordse sisselogimise (SSO) kasutajate sisselogimise probleemide lahendamiseks kasutage järgmisi soovitatavaid ressursse.
+Sujuva ühekordse sisselogimise (SSO) kasutaja sisselogimisprobleemide lahendamiseks kasutage järgmisi soovitatavaid ressursse.
 
-- [Ootamatu nõusoleku küsimine rakendusse sisselogimisel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
-- [Rakenduse nõusoleku andmisel ilmnes ootamatu tõrge](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
-- [Rakenduse Azure AD minu rakendused sisselogimisega seotud probleemide tõrkeotsing](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [Ootamatu nõusolekuviip rakendusesse sisselogimisel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [Ootamatu tõrge rakendusele nõusoleku andmisel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
+- [Azure AD minu rakendustest rakendusse sisselogimisega seotud probleemide tõrkeotsing](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
 - [Rakenduse lehel kuvatakse tõrketeade pärast seda, kui kasutaja on sisse loginud](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
 - [Microsofti rakendusse sisselogimisega seotud probleemid](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
-- [SAML-põhise ühekordse sisselogimise konfigureeritud rakendustes sisselogimisega seotud probleemid](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
+- [PROBLEEMID SAML-i-põhisesse ühekordse sisselogimisega konfigureeritud rakendustesse sisselogimisel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-Lisateabe saamiseks või tehniliste küsimuste esitamiseks õmblusteta SSO kohta lugege teemat [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).
+Funktsioonipäringute vaatamiseks või sujuva SSO kohta tehniliste küsimuste küsimiseks lugege [teemat Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).
 

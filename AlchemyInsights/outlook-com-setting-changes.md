@@ -1,5 +1,5 @@
 ---
-title: Outlook.com sätted
+title: Outlook.com-i sätted
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,31 +10,31 @@ ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 953bb7feec3099e7125c41b7177057ff40efa5be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d0fa87db304c2935f60848bf69c0fcc2217ac4414abd53718f418785e8804c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095244"
 ---
-# <a name="settings-in-outlookcom"></a>Outlook.com sätted
+# <a name="settings-in-outlookcom"></a>Sätted Outlook.com
 
-Kui adressaat on teie asutuses sees või väljas ning kui nad kasutavad Office ' i 365 või Outlook.com meilikontot, ei tohiks järgmised kliendid teha sõnumi avamiseks midagi erilist: **outlook 2016, Outlooki veebiversioon/Outlook Web App, Outlook Mobile** ' i rakendus
+Kui adressaat on ettevõttesisene või -väline ja kui ta kasutab Office 365- või Outlook.com-i meilikontot, ei pea järgmised kliendid sõnumi avamiseks midagi erilist tegema: **Outlook 2016, Outlooki veebirakendus / Outlook Web App, Outlook mobile app**
 
-Kaitstud meilisõnumeid saatnud kasutajate **delegaadid** ei saa avada kaitstud sõnumeid. Meilisõnumis olevat teavet saab vaadata ainult algsed adressaadid (isikul, kellele on saadetud kaitstud meilisõnum).
+**Kaitstud** meilisõnumeid saatvate kasutajate delegaadid ei saa kaitstud sõnumeid avada. Ainult algsed adressaadid (isik, kellele on saadetud kaitstud meilisõnumid), saavad teavet meilisõnumis vaadata.
 
-- Kui adressaat asub mõne muu Interneti-teenuse pakkuja juures ja nad ei &nbsp; saa sõnumit avada ja vaadata "rpmsg" manust, järgige alltoodud juhiseid.
+- Kui adressaat on teises Interneti-teenuse pakkujas ja ta ei saa sõnumit avada ja &nbsp; rpmsg-manust vaadata, järgige alltoodud juhiseid.
     
     - Valige **Loe** sõnumit.
     
-    - Need suunatakse ümber lehele, kus nad peaksid valima **ühekordse Pääsukoodiga sisselogimise**.
+    - Need suunatakse ümber lehele, kus nad peaksid valima sisselogimiseks ühe **korraga pääsukoodi.**
     
-    - Ühe kasutatava pääsukoodi saatmine samale meiliaadressile. Sisestage kood brauseriaknas ja seejärel klõpsake sõnumi lugemiseks nuppu **Jätka** .
+    - Ühekordselt pääsukood saadetakse samale meiliaadressile. Sisestage kood brauseriaknasse ja valige sõnumi **lugemiseks** Jätka.
 
-- Kui te ei saa mõnelt muult organisatsioonilt sõnumeid krüptida, järgige selles [artiklis](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)määratud eraldusvõime juhiseid.
+- Kui te ei saa krüptida sõnumeid teisest asutusest, järgige selles artiklis määratud eraldusvõime [juhiseid.](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)
 
-- Kui adressaadi postkast asub **Yahoos või Gmailis**, järgige </span> selles [artiklis](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)toodud juhiseid.
+- Kui adressaadipostkast on **Yahoos või Gmailis,** järgige selles </span> artiklis toodud [juhiseid.](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)
 
-- Kaitsepoliitika rakendub ainult [teadaolevatele failivormingutele](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). OneDrive for Businessi manused pole krüptimise jaoks toetatud.
+- Kaitsepoliitikad kehtivad ainult [teadaolevatele failivormingutele.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types) OneDrive for Business manuseid krüptimiseks ei toetata.
 
-- Ühiskasutatavad postkastid **ei saa praegu ühegi kliendi kaudu krüptitud sõnumeid avada**. 
+- Ühispostkastid **ei saa praegu ühegi kliendi kaudu krüptitud sõnumeid avada.** 
