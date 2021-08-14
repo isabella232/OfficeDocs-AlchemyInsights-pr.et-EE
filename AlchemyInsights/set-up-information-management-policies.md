@@ -1,5 +1,5 @@
 ---
-title: Teabehalduspoliitika häälestamine
+title: Teabehalduspoliitikate häälestamine
 ms.author: pebaum
 author: bentoncity
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 862dc76f71828ac727efcfe10656c218754ce25a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0e3de5591c064f7e121c206180b34ee34e985f872a5ee6209889ecad6eaa32c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921651"
 ---
-# <a name="set-up-information-management-policies"></a>Teabehalduspoliitika häälestamine
+# <a name="set-up-information-management-policies"></a>Teabehalduspoliitikate häälestamine
 
-1. Kui SharePointi saidil on alamsaidid, liikuge sirvides ülataseme saidile.
+1. Kui SharePoint saidil on alamsaite, liikuge sirvides ülataseme saidile.
     
-2. Klõpsake nuppu **sätted**ja seejärel nuppu **saidi sätted**. Kui sait on Microsoft 365 rühmaga ühendatud sait, klõpsake nuppu **sätted**, seejärel käsku **saidi sisu**ja siis nuppu **saidi sätted**.
+2. Klõpsake **Sätted** ja seejärel käsku **Saidi Sätted**. Kui sait on rühmaga Microsoft 365, klõpsake nuppu **Sätted**, klõpsake nuppu Saidi **sisu** ja seejärel käsku **Saidi Sätted**.
     
-3. Klõpsake jaotises **Saidikogumi administreerimine**linki **saidikogumi funktsioonid**.
+3. Klõpsake **jaotises Saidikogumi administreerimine** **nuppu Saidikogumi funktsioonid.**
     
-4. Klõpsake jaotises **Paiguta kirjete haldus**nuppu **Aktiveeri**.
+4. Klõpsake **jaotises Kohakirjete haldus** nuppu **Aktiveeri**.
     
-Lisateavet leiate teemast [teave halduse poliitikate tutvustus](https://go.microsoft.com/fwlink/?linkid=404239) ja [teabehalduspoliitika loomine ja rakendamine](https://go.microsoft.com/fwlink/?linkid=2003916).
+Lisateavet leiate teemast [Teabehalduspoliitikate tutvustus](https://go.microsoft.com/fwlink/?linkid=404239) ja [Teabehalduspoliitikate loomine ja rakendamist.](https://go.microsoft.com/fwlink/?linkid=2003916)
   
 

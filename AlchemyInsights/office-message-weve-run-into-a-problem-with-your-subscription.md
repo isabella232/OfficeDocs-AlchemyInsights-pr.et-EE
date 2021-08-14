@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 rakenduste sõnum – teie tellimusega on probleeme
+title: Microsoft 365 teade – meil on teie tellimusega probleeme
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 9c7907c43fcaa74146c379c2a1cae3f43416ae7d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5c3881aca1030d59211b9ec5a51530b90767096c7cb313bba7ed161a1b1ec2e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974197"
 ---
-# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 rakenduste sõnum – teie tellimusega on probleeme
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 teade – meil on teie tellimusega probleeme
 
 - Kui olete hiljuti üle läinud mõnele teisele tellimusele või lepingule, täitke Office’i uuesti installimiseks või värskendamiseks artiklis [Office’is kuvatakse pärast lepingu vahetamist teade „Kontoteatis“](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) toodud juhised.
 

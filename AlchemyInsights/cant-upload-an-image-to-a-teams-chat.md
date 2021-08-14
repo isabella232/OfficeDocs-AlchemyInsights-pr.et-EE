@@ -1,5 +1,5 @@
 ---
-title: Teamsi vestlusse ei saa pilti üles laadida
+title: Pilti ei saa üles laadida Teams vestlusse
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930797"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Teamsi vestlusse ei saa pilti üles laadida
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Pilti ei saa üles laadida Teams vestlusse
 
-Soovituste tõrkeotsing.
+Tõrkeotsingusoovitused.
 
-- Kui kasutate meeskonnatööd veebis, proovige mõnda muud brauserit. Toetatud brauserite loendi leiate [Microsoft teamsi piirangute ja spetsifikaatide](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)jaotisest "brauserid".
-- Kontrollige riistvara ja OPERATSIOONISÜSTEEMI ühilduvust. Lisateavet leiate teemast [Microsoft teamsi riistvara nõuded](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Veenduge, et teil oleks uusimad töörühma versioon. Lisateavet leiate teemast [meeskonnatöö värskendamise](https://docs.microsoft.com/microsoftteams/teams-client-update) üksikasjad.
+- Kui kasutate Teams, proovige muud brauserit. Toetatud brauserite loendi leiate jaotisest "Brauserid" jaotisest [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
+- Kontrollige riistvara ja opsüsteemi ühilduvust. Lisateavet leiate teemast [Riistvaranõuded](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)Microsoft Teams.
+- Kontrollige, kas teil on uusim Teams versioon. Lisateavet leiate teemast [Teams värskendusprotsess.](https://docs.microsoft.com/microsoftteams/teams-client-update)

@@ -1,5 +1,5 @@
 ---
-title: Microsofti teabe halduse häälestamine
+title: Microsofti teabehalduse häälestamine
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921615"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Microsofti teabe halduse häälestamine
+# <a name="set-up-microsoft-information-governance"></a>Microsofti teabehalduse häälestamine
 
-[Microsofti teabe halduse häälestamise juhend](https://go.microsoft.com/fwlink/?linkid=2146529) sisaldab teavet, mida teil on vaja oma asutuse juhtimise strateegia häälestamiseks ja haldamiseks, et tagada andmete klassifitseerimine ja haldamine vastavalt teie määratud elutsükli juhistele.
+[Microsofti teabehalduse](https://go.microsoft.com/fwlink/?linkid=2146529) häälestusjuhend annab teile teavet, mida on vaja ettevõtte juhtimisstrateegia häälestamiseks ja haldamiseks, et tagada teie andmete klassifitseerimine ja haldamine vastavalt teie määratud elutsükli juhistele.
 
-Selle juhendi abil saate teada, kuidas luua, automaatselt rakendada või avaldada siltide, siltide poliitikate ja säilituspoliitika sätteid, mida rakendatakse teie asutuse korduvkasutatavale sisule ja nõuetele vastavuse kirjetele. Samuti saate teavet CSV-failide importimise kohta, kui teil on olemas mahukate stsenaariumide või eraldi dokumentide jaoks käsitsi rakendamine.
+Sellest juhendist saate teada, kuidas luua, automaatselt rakendada või avaldada silte, sildipoliitikaid ja säilituspoliitikaid, mida rakendatakse ettevõtte taaskasutatavad sisu- ja vastavuskirjed. Samuti saate teavet CSV-failide importimise kohta koos failiplaaniga hulgistsenaariumide või nende käsitsi üksikutele dokumentidele rakendamise kohta.

@@ -1,5 +1,5 @@
 ---
-title: Teamsi klient on laadimisel kinni
+title: Teams klientrakendus on laadimisel kinni
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: e9a62890210d8f1867d864b021bef194384ef494b35ece4c1962e4f33ac53272
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50092972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981685"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>Teamsi klient on laadimisel kinni
+# <a name="teams-client-is-stuck-on-loading"></a>Teams klientrakendus on laadimisel kinni
 
-Microsoft on teadlik hiljutise Teamsi töölauarakenduse veast, mis takistab kasutajatel sisse logida. Mõjutatud kasutajatele kuvatakse Microsoft Teamsi sõnumi laadimine.
+Microsoft on teadlik hiljutises töölauarakenduse Teams veast, mis takistab kasutajatel sisse logimist. Mõjusad kasutajad näevad kuvatavat Microsoft Teams laadimise teadet.
 
-Kõige lihtsam lahendus on praegu meeskonnatöö veebirakenduse kasutamine veebisaidil <https://teams.microsoft.com/> .
+Kõige lihtsam lahendus praegu on kasutada Teams <https://teams.microsoft.com/> veebirakendust.
 
-Lisateavet ja praegust olekut leiate teenuse tervise armatuurlaua postitusest aadressil <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+Lisateavet ja praegust olekut leiate teenuse seisundi armatuurlaua postitusest <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
