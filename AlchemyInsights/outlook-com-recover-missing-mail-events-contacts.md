@@ -1,5 +1,5 @@
 ---
-title: Puuduvate või kustutatud meilisõnumite, kalendri sündmuste või Kontaktide otsimine ja taastamine
+title: Puuduvate või kustutatud meilisõnumite, kalendrisündmuste või kontaktide saatmine ja taastamine
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -21,19 +21,19 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 5a8bfc34bc5642be97c7c07dd933f7f98707855f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d550831af54105330bf4c08e6dad4dce34a9f679536f208bb5e037471cd0c50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063732"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Puuduvate või kustutatud meilisõnumite, kalendri sündmuste või kontaktide Outlook.com otsimine ja taastamine
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Puuduvate või kustutatud meilisõnumite, kalendrisündmuste või kontaktide saatmine ja taastamine Outlook.com
 
-- Rakenduses Elektronpost saate kasutada <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- **Otsingu** riba lehe ülaosas, et [otsida sõnumeid või kontakte](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy).
+- Kasutage meilis <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Otsinguriba** sõnumite või kontaktide otsimiseks [lehe ülaservas.](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
   
 - Kasutage kalendris <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- **Otsingu** riba lehe ülaosas [, et otsida sündmusi, mis kasutavad sõna, nime või fraasi](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy). Kui teil on avatud mitu kalendrit, siis fookuse otsing on praegu valitud kalendris.
+ **Otsinguriba** lehe ülaservas, et [otsida sündmusi sõna, nime või fraasi abil.](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy) Kui teil on avatud mitu kalendrit, keskendutakse otsingus parajasti valitud kalendrile.
   
-- Kui kustutate kogemata sõnumi, kalendri sündmuse või kontakti, saate [need üksused taastada, kui nad on endiselt teie kustutatud üksustes või rämpsposti kaustas](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+- Kui kustutate kogemata sõnumi, kalendrisündmuse või kontakti, saate need üksused taastada, kui need on endiselt kaustas Kustutatud [või Rämpspost.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)

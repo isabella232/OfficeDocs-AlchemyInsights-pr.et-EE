@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 rühmale saadetud meilisõnumite jaoks vastuvõetud AggregateGroupMailbox täielik NDR
+title: AggregateGroupMailboxi täielik NDR,mis on vastu võetud Microsoft 365 rühmale saadetud meilisõnumite jaoks
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 9de09ab4cbd2f09648305b11da6273ed990907cf
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 6655bbe9482400eeb3cfdf0b91bdc595e3d98fbff0f6d9244db8bb4dd958305e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951849"
 ---
-# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>Microsoft 365 rühmale saadetud meilisõnumite jaoks vastuvõetud AggregateGroupMailbox täielik NDR
+# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailboxi täielik NDR,mis on vastu võetud Microsoft 365 rühmale saadetud meilisõnumite jaoks
 
-Kasutage järgmisi EKSO Shell käsku Exchange ' i transpordi reegli loomiseks, et meilisõnumid saadetaks kokku rühma postkasti.
+Kasutage järgmist EXO Shelli käsku, et luua Exchange transpordireegel rühma koondpostkasti saadetud meilisõnumite vaikseks kukumiseks.
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
 > [!NOTE]
-> Asendage oma rentniku jaoks SMTP **-aadress SentTo SMTP-** aadressiga. Saate hankida kogu rühma postkasti SMTP-aadressi saadud NDR-ist.
+> Asendage smtp-aadress jaotises **-SentTo** oma rentniku koondrühma postkasti SMTP-aadressiga. Rühma koondpostkasti SMTP-aadressi saate kätte saadud NDR-i kaudu.
 
 
 

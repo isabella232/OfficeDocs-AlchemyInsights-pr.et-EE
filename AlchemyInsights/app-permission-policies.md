@@ -1,5 +1,5 @@
 ---
-title: Rakenduse õiguste poliitikad
+title: Rakenduse õigusepoliitikad
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951669"
 ---
-# <a name="app-permission-policies"></a>Rakenduse õiguste poliitikad
+# <a name="app-permission-policies"></a>Rakenduse õigusepoliitikad
 
-[Rakenduse õiguste poliitikate](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)abil saate teha järgmist.
-- Administraatorina saate hallata rakenduse häälestamise põhimõtteid [Microsoft teamsi administreerimiskeskuses](https://admin.teams.microsoft.com/policies/app-permission).
-- Saate määrata, millised rakendused on teie asutuse Microsoft Teamsi kasutajatele globaalse poliitika abil saadaval, või [luua ja määrata kohandatud poliitikaid](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) , et kohandada ja reguleerida kasutajate juurdepääsu rakendustele. 
+Rakenduse [õigusepoliitikate](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)abil saate teha järgmist.
+- Administraatorina saate hallata rakenduse häälestuspoliitikaid [Microsoft Teams halduskeskuses.](https://admin.teams.microsoft.com/policies/app-permission)
+- Saate määrata, millised rakendused Microsoft Teams teie ettevõtte kasutajatele saadaval, kasutades üldpoliitikat või luua ja määrata kohandatud poliitikaid, et kohandada ja juhtida kasutajate juurdepääsu rakendustele. [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) 
 > [!NOTE]
-> Organisatsiooni hõlmava rakenduse sätted alistavad globaalse poliitika ja kõik kohandatud poliitikad, mille loote ja kasutajatele määrate.
-- [Rakenduse häälestamise poliitikate](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) abil saate kohandada Microsoft teamsi, et esile tõsta kasutajate jaoks kõige olulisemaid rakendusi. 
+> Kogu organisatsiooni hõlmavad rakendusesätted alistavad üldpoliitika ja kõik kohandatud poliitikad, mille loote ja määrate kasutajatele.
+- Rakenduse [häälestuspoliitikate abil](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) saate Microsoft Teams kasutajate jaoks kõige olulisemate rakenduste esiletõstmiseks. 
 
 
-Lisateavet rentniku jaoks rakenduse poliitikate loomise kohta leiate järgmistest teemadest.
-- [Rakenduste haldamine Microsoft Teamsi halduskeskus](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Microsoft Teamsi rakenduse õiguste poliitikate haldamine](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Microsoft Teamsi kohandatud rakenduse poliitikate ja sätete haldamine](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Lisateavet rentniku jaoks rakendusepoliitikate loomise kohta leiate teemast
+- [Rakenduste haldamine Microsoft Teams halduskeskuses](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Rakenduse õigusepoliitikate haldamine Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Kohandatud rakendusepoliitikate ja -sätete haldamine Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
