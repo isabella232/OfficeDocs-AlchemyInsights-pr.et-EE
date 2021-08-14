@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947259"
 ---
 # <a name="webpage-html-web-resources-limitations"></a>Veebilehe (HTML) veebiressursside piirangud
 
-* HTML-veebiressurss ei tohi sisaldada koodi, mis tuleb serveris käivitada. ASP.NET lehti ei saa HTML-i veebiressurssidena üles laadida.
+* HTML-veebiressurss ei tohi sisaldada koodi, mis tuleb serveris käivitada. ASP.NET ei saa üles laadida HTML-veebiressurssidena.
 
-* HTML-veebiressursid võivad aktsepteerida ainult piiratud arvu päringustringi parameetreid. Lisateave: [parameetrite ülevaated HTML-i veebiressurssidele](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML-veebiressursid saavad aktsepteerida ainult piiratud arvu päringustringi parameetreid. Lisateave: [Parameetrite edastamine HTML-veebiressurssidele](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
 [Veebilehe (HTML) veebiressursid](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

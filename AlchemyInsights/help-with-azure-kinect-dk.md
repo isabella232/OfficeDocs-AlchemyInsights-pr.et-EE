@@ -1,5 +1,5 @@
 ---
-title: Azure Kinecti DK spikker
+title: Azure'i Kinect DK-ga seotud spikker
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9744"
 - "9005643"
-ms.openlocfilehash: e043a3eff39f9fcfd5adbea8a93a6c4ac792913a
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: HT
+ms.openlocfilehash: d5277cf2be141c1e0e650c1a80593cb7e3eead0b7d33f3c51f2325abfcf618b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945774"
 ---
-# <a name="help-with-azure-kinect-dk"></a>Azure Kinecti DK spikker
+# <a name="help-with-azure-kinect-dk"></a>Azure'i Kinect DK-ga seotud spikker
 
-Azure ' i Kinecti DK Kiirjuhend (häälestamine, arendaja spikker), juhendid ja tõrkeotsing leiate teemast [Azure ' i Kinecti DK dokumentatsiooni](https://docs.microsoft.com/azure/kinect-dk/).
+Azure Kinect DK lühijuhendite (häälestamine, arendaja spikker), juhendite ja tõrkeotsingu kohta leiate teavet [teemast Azure Kinect DK dokumentatsioon.](https://docs.microsoft.com/azure/kinect-dk/)
 
 
-Lisateavet Xboxi Kinecti kohta leiate teemast [Xboxi Kinecti tugi](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support).
+Xboxi Kinect kohta leiate abi teemast [Xboxi Kinect.](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support)

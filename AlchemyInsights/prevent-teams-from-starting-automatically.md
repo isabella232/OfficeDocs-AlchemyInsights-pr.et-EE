@@ -1,5 +1,5 @@
 ---
-title: Meeskondade automaatse käivitamise vältimine
+title: Automaatse Teams keelamine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923784"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Meeskondade automaatse käivitamise vältimine
+# <a name="prevent-teams-from-starting-automatically"></a>Automaatse Teams keelamine
 
-Vaikimisi avatakse meeskonnad seadme käivitamisel automaatselt.
+Vaikimisi avaneb Teams automaatselt, kui käivitate seadme.
 
-Selle sätte muutmiseks valige teamsi profiili pilt ja seejärel valige **sätted**  >   **Üldine**. Märkige jaotises  **rakendus**ruut kontrolli  **automaatse käivitamise rakendust**.
+Selle sätte muutmiseks valige oma Teams ja seejärel valige **Sätted**  >   **Üldine**. Tühjendage **jaotises** Rakendus ruut **Automaatne käivitamine.**
 
-Lisateavet leiate teemast  [töörühma sätete muutmine](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
+Lisateavet leiate teemast [Sätete muutmine Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).

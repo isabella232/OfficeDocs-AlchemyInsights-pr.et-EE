@@ -1,5 +1,5 @@
 ---
-title: DKIM lahendamise probleemide lahendamine
+title: DKIM-i häälestusprobleemide lahendamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 35e8023d26fe26211e27521ceb8751d2d7fc7a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a613321ed79e657350ec4d19b1f07ac0a091b227a8268c793a10edd9990d41f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945927"
 ---
-# <a name="fix-dkim-setup-issues"></a>DKIM lahendamise probleemide lahendamine
+# <a name="fix-dkim-setup-issues"></a>DKIM-i häälestusprobleemide lahendamine
 
-Kui teil ilmnevad probleemid, mis võimaldavad DKIM teie kohandatud domeeni jaoks, tehke järgmist.
+Kui teil on probleeme DKIM-i lubamisega oma kohandatud domeeni jaoks, tehke järgmist.
 
-- Enamik DKIM installimisega seotud probleemidest on seotud valede DNS-i kirjetega. Veenduge, et DKIM CNAME-kirje (**mitte** TXT-kirje) oleks õigesti vormindatud. Lisateavet leiate sellest [teemast](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+- Enamik DKIM-i häälestusprobleeme on seotud valede DNS-i kirjetega. Veenduge, et DKIM-i **CNAME-kirje** (mitte TXT-kirje) oleks õigesti vormindatud. Lisateavet leiate teemast [.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)
 
-- Pärast seda, kui olete oma domeeni DNS-i DKIM loonud või värskendanud DNS-i kirjeid (tavaliselt teie domeeni registripidaja), oodake, kuni DNS-i kirjed on paljundatud.
+- Pärast DKIM-i DNS-i kirjete lisamist või värskendamist domeeni DNS-hostiteenuses (tavaliselt teie domeeniregistraator) oodake, kuni DNS-i kirjed levivad.
 
-- Kui te ei saa DKIM DNS-i kirjeid luua, saate asendada \<CustomDomain\> kohandatud domeeniga (nt contoso.com) ja käivitada selle käsu [Exchange Online PowerShellis](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .
+- Kui te ei saa halduskeskuses DKIM-i DNS-i kirjeid luua, saate asendada kohandatud domeeniga (nt contoso.com) ja käivitada selle käsu \<CustomDomain\> [Exchange Online PowerShellis.](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`

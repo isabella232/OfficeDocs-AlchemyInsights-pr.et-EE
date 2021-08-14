@@ -1,5 +1,5 @@
 ---
-title: 2589 spikker teie asutuse meilisõnumite Winmail. dat manuste vältimine
+title: 2589 Aitab vältida winmail.dat manuseid teie asutuse meilisõnumites
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: f67c4146af419a590651c8e0673fd59fabd7eae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64212b0a8cb1ccd2158aaa84ea2725b879e608ab4fcada1fbf1032e896be12c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923808"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Teie asutuse meilisõnumite Winmail. dat manuste vältimine
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Winmail.dat-manuste takistamine teie asutuse meilisõnumites
 
 Administraatorina proovige järgmisi toiminguid.
 
-1. Avage [Exchange ' i halduskeskus](https://outlook.office365.com/ecp/).
+1. Avage [Exchange halduskeskus](https://outlook.office365.com/ecp/).
 
-2. Avage **meilivoo**  >  **serveri domeenid**.
+2. Avage **meilivoog**  >  **Kaugdomeenid.**
 
-3. Valige vaike-domeeni vaike- **nimi ja**klõpsake nuppu **Redigeeri**.
+3. Valige vaike-kaugdomeeni **nimi Vaikedomeen** ja seejärel klõpsake nuppu **Redigeeri**.
 
-4. Valige jaotises **Kasuta RTF-vormingut** **mitte kunagi**.
+4. Valige jaotises **Kasuta RTF-vormingut** väärtus **Mitte kunagi**.
 
-Lisateavet leiate teemast [serveri domeenide jaoks sõnumi vormingu määramine](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Lisateavet leiate teemast [Kaugdomeenide sõnumivormingu määramiseks.](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format)

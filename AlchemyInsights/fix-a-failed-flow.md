@@ -1,5 +1,5 @@
 ---
-title: Ebaõnnestunud voo parandamine
+title: Nurjunud voo lahendus
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945963"
 ---
-# <a name="fix-a-flow-that-failed"></a>Ebaõnnestunud voo parandamine
+# <a name="fix-a-flow-that-failed"></a>Nurjunud voo parandus
 
-1. Avage [Microsoft Flow](https://flow.microsoft.com/)ja klõpsake paremas ülanurgas ikooni teatised. (Või valige mobiilirakenduse kaudu vahekaart tegevus.) Valige vool, mis ei saanud üksikasju vaadata.
+1. Avage [Microsoft Flow](https://flow.microsoft.com/)ja klõpsake paremas ülanurgas ikooni Teatised. (Või valige mobiilirakenduses vahekaart Tegevus.) Valige voog, mis ei saanud üksikasju vaadata.
     
-2. Lisateavet selle kohta leiate teemast punase hüüumärk-i ikoon, kus kuvatakse voo tõrketeade.
+2. Leidke etapp punase hüüumärgiikooniga, et näha voo tõrketeadet.
     
-3. Olenevalt tõrketeatest peaks teil olema võimalik voogu redigeerida ja seda parandada. 
+3. Olenevalt tõrketeatest peaksite saama voogu redigeerida ja parandada. 
     
-[Levinud voo tõrked](https://go.microsoft.com/fwlink/?linkid=872110)
+[Levinumad vootõrked](https://go.microsoft.com/fwlink/?linkid=872110)
   
 
