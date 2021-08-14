@@ -1,5 +1,5 @@
 ---
-title: Levinud probleemide lahendamine DKIM kirje vorminguga
+title: Levinud probleemide lahendamine DKIM-kirjevormingus
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0a59ca1c93121cb4681c0d44b85a9b756c07895b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5b3dc2338843906fbc7151322b82f304b4ed04b28d8ceb349f2705c309cdeae8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930057"
 ---
-# <a name="fix-common-problems-with-dkim-record-formatting"></a>Levinud probleemide lahendamine DKIM kirje vorminguga
+# <a name="fix-common-problems-with-dkim-record-formatting"></a>Levinud probleemide lahendamine DKIM-kirjevormingus
 
-Enamik DKIM on seotud valede DNS-i kirjetega.
+Enamik DKIM-i häälestamisprobleeme on seotud valede DNS-i kirjetega.
 
-DKIM lahendamiseks veenduge, et DKIM CNAME-kirje (**mitte** TXT-kirje) oleks õigesti vormindatud. Lisateavet leiate teemast [mida peate tegema DKIM käsitsi häälestamiseks rakenduses Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+DKIM-i häälestamisprobleemide lahendamiseks veenduge, et DKIM-i CNAME-kirje **(mitte** TXT-kirje) oleks õigesti vormindatud. Lisateavet leiate teemast Mida on vaja teha [DKIM-i](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)käsitsi häälestamiseks Office 365.
 
-Kui vajate DNS-i kirjete üldist abi, lugege teemat [DNS-i kirjete loomine veebisaidil Office 365 DNS-i majutusteenuse pakkuja](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Kui vajate dns-i kirjetega üldiselt abi, lugege teemat DNS-i kirjete loomine mis [tahes DNS-hostiteenuse pakkuja juures Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
 > [!NOTE]
-> Pärast seda, kui olete oma domeeni DNS-i DKIM loonud või värskendanud DNS-i kirjeid, peate ootama, kuni DNS-i kirjed on paljundatud.
+> Pärast DKIM-i DNS-i kirjete lisamist või värskendamist oma domeeni DNS-hostiteenuses peate ootama, kuni DNS-i kirjed levivad.

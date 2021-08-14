@@ -1,5 +1,5 @@
 ---
-title: Google Chrome'i laienduste teisaldamine Microsoft Edge'i (Chromium)
+title: Google Chrome'i laienduste Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7102"
 - "8297"
 - "9004617"
-ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973693"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Google Chrome'i laienduste teisaldamine Microsoft Edge'i (Chromium)
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Google Chrome'i laienduste Microsoft Edge (Chromium)
 
-[Google Chrome'i laiendusi on lihtne Microsoft Edge'i (Chromium) portida.](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) Enamasti on nende laiendite käivitamiseks Microsoft Edge'is vaja teha vaid minimaalseid muudatusi.
+Google Chrome'i laiendusi on lihtne Microsoft Edge [(Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) Enamasti on nende laiendite käivitamiseks vaja ainult minimaalseid muudatusi Microsoft Edge.
 
-Google Chrome'i toetatud laiendi API-d ja manifestivõtmed ühilduvad Microsoft Edge'iga. Microsoft Edge ei toeta siiski laienduse API-sid chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken ja chrome.instanceID.
+Google Chrome'i toetatud laiendi API-d ja manifestivõtmed ühilduvad Microsoft Edge. Kuid Microsoft Edge ei toeta laiendi API-sid chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken ja chrome.instanceID.

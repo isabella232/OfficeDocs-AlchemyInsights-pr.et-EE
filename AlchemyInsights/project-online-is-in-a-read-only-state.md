@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 988d87ca43f5394728b77561edd8e26fa0668f4ad876a5fcd09cf739092a4d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063012"
 ---
 # <a name="project-online-is-in-a-read-only-state"></a>Project Online on kirjutuskaitstud olekus
 
-On kolm levinumat põhjust, miks Project Online võib jõuda kirjutuskaitstud olekuni.
+On kolm peamist põhjust, miks Project Online võib jõuda kirjutuskaitstud olekuni.
 
-1. Organisatsioonidel on ainult Project Online Essentialsi litsents (ID). Sellest ei piisa, et sait elus püsiks, ja lõpuks saab selle endale.Paneme saidi kirjutuskaitstud olekusse, et administraatorid teaksid, et midagi on valesti ja et nad saaksid hankida õiged litsentsid. Administraatorid peavad lisama Project Online Professional ja/või Premium litsentsi. Sait tuleb sellest kohast kirjutuskaitstud. Lisateavet leiate teemast [projekti halduse lahenduste võrdlus](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Määratud kvoot on saavutatud. Lisateavet leiate teemast [Project Web Appi kvoot](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Kui soovite teada saada, kuidas on võimalik kvoodi kasutamist mõjutada, märkige ruut [Konfigureeri ajajaotuse aruandluse andmeid Project Online ' is](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) .
-3. Kirjutuskaitstud võib olla väga ajutine tingimus, mis võib toimuda hooldustööde ajal. Enamikku hooldust pole meie kliendid isegi märganud ja te ei näe seda tihti, kuid on hetki, mil on esinenud lühikest aega kirjutuskaitstuna.
+1. Ettevõtetel on Project Online Essentials litsents(id). Sellest ei piisa saidi elus püsimiseks ja see de-ette ettevalmistamisest. Paigutame saidi kirjutuskaitstud olekusse, et administraatorid teaksid, et midagi on valesti ja saavad hankida õiged litsentsid. Administraatorid peavad lisama Project Online Professional ja/või Premium litsentsi. Sait on sel hetkel kirjutuskaitstud. Lisateavet leiate teemast Project [Management Solutions](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
+2. Määratud kvoot on saavutatud. Lisateavet leiate teemast [Project Web Appi kvoot](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Vaadake [teemat Ajafaasiliste aruandlusandmete konfigureerimine](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) Project Online, kuidas granulaarsus võib mõjutada kvoodikasutust.
+3. Kirjutuskaitstud võib olla väga ajutine tingimus, mis võib tekkida hoolduse ajal. Enamik hooldust ei märka isegi meie kliendid ja te ei näe seda sageli, kuid on aegu, mil on lühikest aega kirjutuskaitstud.

@@ -1,5 +1,5 @@
 ---
-title: Probleemide lahendamine OneDrive ' is ja SharePointis
+title: Probleemide ettevalmistamine OneDrive ja SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,16 +7,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: aee565878fe2d879f0d74cd20dcff044e08abc12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5b416da323c1c02bde2a85b52027ba582aca7dc49bcf4db7fcede5100d0ed7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943767"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Probleemide lahendamine OneDrive ' is ja SharePointis
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Probleemide ettevalmistamine OneDrive ja SharePoint
 
-Kui kasutaja on lisatud olemasolevasse rentnikku, võivad nad näha SharePoint Online ' i või OneDrive for Businessi ikoone, mis on loetletud kui "häälestamine", kuni ettevalmistamine on lõpule viidud. Vastloodud kontode jaoks peavad kasutajad oma kontoga sisse logima Microsoft 365 halduskeskus ja seejärel OneDrive ' i saidi sätte käsitsi käivitamiseks nuppu OneDrive.
+Kui kasutaja lisatakse olemasolevasse rentnikusse, võidakse kuvada SharePoint Online'i või OneDrive for Business "Häälestamine", kuni ettevalmistamine on lõpule viidud. Vastloodud kontode korral peavad kasutajad Microsoft 365 halduskeskus oma kontoga sisse logima ja seejärel klõpsama OneDrive saidi käsitsi OneDrive nuppu.
   
-Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenuse juhtumi korral. Paljudel juhtudel oleme juba lahendusega töötanud. Lahenduse lõpetamiseks andke meile vähemalt 24 tundi.
+Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenusejuhtum. Paljudel juhtudel töötame juba lahenduse kallal. Lahenduse lõpuleviimiseks andke meile vähemalt 24 tundi.
   

@@ -1,5 +1,5 @@
 ---
-title: Omanik ei saa Outlooki abil alamkausta luua
+title: Omanik ei saa alamkausta luua Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60190727e75c120ad3915da8b563b7f6b1a3238b46bb6e14cbf956365e1a84e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063120"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Omanik ei saa Outlooki abil alamkausta luua
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Omanik ei saa alamkausta luua Outlook
 
-**Avaliku kausta omanikel on käimas probleem alamkaustade loomisega Outlooki abil. Probleem lahendatakse peagi.**
+**Avalike kaustade omanikel on pidevalt probleem alamkaustade loomisega, kasutades Outlook. Probleem lahendatakse peagi.**
 
 Samal ajal kasutage ühte järgmistest lahendustest.
 
-1. Outlook for MAC-i abil alamkausta loomine, kuna probleem mõjutab ainult Outlooki töölauaaknaid (kõiki versioone)
+1. Kasutage Outlook for MAC alamkausta loomiseks, kuna probleem mõjutab ainult Outlook (kõik versioonid)
 2. Kas administraator loob alamkausta EXO Shelli või EAC abil
 3. Muutke kasutaja defaultPublicFolderMailbox/EffectivePublicFolderMailboxiks muuks postkastiks kui kausta sisupostkast, mis põhjustab probleemi  
     - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
