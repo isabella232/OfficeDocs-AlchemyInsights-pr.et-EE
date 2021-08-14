@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9abbff56570e27b2ad7308860be32ad6586cf4f7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 296ff78d6e285ed31f1fd3268b9078a2ffffc3515a59f367685d054fc76bcc4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821371"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932201"
 ---
 # <a name="banned-sending-ip"></a>KEELATUD IP-saatmine
 
-Office 365 adressaadile saatmisel võib see tõrge ilmneda saatjal. Saatja peab külastama [Office 365 rämpspostitõrje IP-delisti](https://sender.office.com/) portaali ning esitama oma meiliaadressi ja IP-aadressi, mis tuleb välja võtta. Kui nad ei saa portaalist kinnitusmeili, kontrollige rämpspostikausta ja/või proovige kasutada muud meiliaadressi. 
+Adressaadile saatmisel Office 365 see tõrge ilmneda. Saatja peab külastama [Office 365 rämpspostitõrje IP-delisti](https://sender.office.com/) portaali ning esitama oma meiliaadressi ja IP-aadressi, mis tuleb välja võtta. Kui nad ei saa portaalist kinnitusmeili, kontrollige rämpspostikausta ja/või proovige kasutada muud meiliaadressi. 
 
 - Üksikasjalikud juhised leiate [teemast Delist portal to remove yourself from the blocked senders list](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide)( Eemaldage end blokeeritud saatjate loendist).
