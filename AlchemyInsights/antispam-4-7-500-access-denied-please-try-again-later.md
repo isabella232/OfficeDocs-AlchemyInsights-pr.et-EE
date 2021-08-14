@@ -1,5 +1,5 @@
 ---
-title: 1051 antispam 4.7.500 juurdepääs on keelatud, proovi hiljem uuesti
+title: 1051 Rämpspostitõrje 4.7.500 Juurdepääs on keelatud, proovige hiljem uuesti
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: f5ee8db0239ad86501b175f069acf28211e3a323
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f783a4c931318003b36f38600e69918c43b474d0039d039da25684c865c5e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932669"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 juurdepääs on keelatud, Palun proovi hiljem uuesti
+# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 Juurdepääs on keelatud, proovige hiljem uuesti
 
-See tõrge ilmneb siis, kui allika IP-aadressilt saadud e-posti liikluse maht ületab allika IP-aadressi maine (või puuduva maine) piiri.
+See tõrge ilmneb siis, kui lähte-IP-aadressi meililiikluse maht ületab lähte-IP-aadressi mainel (või maine puudumisel) põhineva piirangu.
 
-Allika IP-aadressilt meilisõnumite blokeerimine aegub tunni jooksul. Kui allika IP-aadress on asutusesisene meiliserver, mis kuulub teile, kontrollige meilivoo konnektori konfiguratsiooni. Kui käitumine kestab rohkem kui tund, võtke ühendust toega, et taotleda allika IP-aadressi jaoks erandi tegemist.
+Lähte-IP-aadressilt pärit meilisõnumite blokeerimine aegub tunni jooksul. Kui lähte-IP-aadress on teile kuulub kohapealne meiliserver, kontrollige meilivoo konnektori konfiguratsiooni. Kui käitumine kestab üle tunni, pöörduge allika IP-aadressi erandi saamiseks tugiteenuse poole.

@@ -1,5 +1,5 @@
 ---
-title: Profiili nime muutmine rakenduses Outlook.com
+title: Profiili nime muutmine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 7727dcb552fbbd31d4bec57bf16ac188f6783006
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc5d0d93091cdd4c74b6703e4295bfac18c911f8ad630b8bd7db5a17b1ffb9d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962451"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Profiili nime muutmine rakenduses Outlook.com
+# <a name="change-your-profile-name-in-outlookcom"></a>Profiili nime muutmine Outlook.com-is
 
-1. Avage [oma Microsofti konto teave](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Avage [oma Microsofti konto teave.](https://go.microsoft.com/fwlink/p/?linkid=860841)
 2. Valige **Redigeeri nime**.
-3. Sisestage ees-ja perekonnanimi ning valige **Salvesta**.
+3. Sisestage ees- ja perekonnanimi ning valige **Salvesta**.
 
-Muudatuste jõustumiseks Lubage oma profiili nimi kuni 24 tundi.
+Lubage profiilinime muudatuste jõustumiseks kuni 24 tundi.

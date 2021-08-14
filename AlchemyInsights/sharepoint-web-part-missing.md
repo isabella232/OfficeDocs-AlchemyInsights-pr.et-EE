@@ -1,5 +1,5 @@
 ---
-title: Sisu redaktor või skripti redaktori veebiosad on puudu
+title: Sisuredaktor või skriptiredaktori veebiosad on puudu
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000207"
 - "1911"
-ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: a99f367396ce93e62ad677784d4aba033bb48a4d0442f593b81dfaa607739403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022603"
 ---
-# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Sisu redaktor või skripti redaktori veebiosad on puudu
+# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Sisuredaktor või skriptiredaktori veebiosad on puudu
 
-Kaks veebiosa, mis pole rakenduses SharePoint for Microsoft 365 moodsad lehed saadaval, on **skripti redaktori veebiosa** ja **sisu redaktori veebiosa**. Siiski on olemas [moodsad välised veebiosad](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) , mis saavad täita mõnda sama otstarvet. Samuti saate luua [kohandatud veebiosi või migreerida oma olemasolevad skripti redaktori veebiosad](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) SharePointi raamistikku.  
+Kaks veebiosa, mis pole SharePoint Microsoft 365 jaoks saadaval, on **skriptiredaktori** veebiosa ja **sisuredaktori veebiosa.** Siiski on olemas [tänapäevased out-of-the-box veebiosad,](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) mis võivad täita mõned samad eesmärgid. Samuti saate luua kohandatud [veebiosad või migreerida olemasolevad skriptiredaktori veebiosad](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) SharePoint Framework.  
 
-Lisateavet leiate teemast [kus on SharePointis sisu redaktor ja skripti redaktori veebiosad?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
+Lisateavet leiate teemast Kus [on sisuredaktor ja skriptiredaktori veebiosad SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)

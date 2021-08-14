@@ -1,5 +1,5 @@
 ---
-title: 1049 AntiSpam 4.5.3 liiga palju adressaate (AS780090)
+title: 1049 Rämpspostitõrje 4.5.3 Liiga palju adressaate (AS780090)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: deb57e6e872ce5769a339c7d130a63a8e90ab4c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f187674294a8fd64b164697946ac0366b41f30894478fba3f37843730f445d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717789"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932705"
 ---
-# <a name="453-too-many-recipients-as780090"></a>4.5.3 liiga palju adressaate (AS780090)
+# <a name="453-too-many-recipients-as780090"></a>4.5.3 Liiga palju adressaate (AS780090)
 
-See tõrge ilmneb siis, kui allika IP-aadressilt saadud e-posti liikluse maht ületab allika IP-aadressi maine (või puuduva maine) piiri.
+See tõrge ilmneb siis, kui lähte-IP-aadressi meililiikluse maht ületab lähte-IP-aadressi mainel (või maine puudumisel) põhineva piirangu.
 
-Allika IP-aadressilt meilisõnumite blokeerimine aegub tunni jooksul. Kui allika IP-aadress on asutusesisene meiliserver, mis kuulub teile, kontrollige meilivoo konnektori konfiguratsiooni. Kui käitumine kestab rohkem kui tund, võtke ühendust toega, et taotleda allika IP-aadressi jaoks erandi tegemist.
+Lähte-IP-aadressilt pärit meilisõnumite blokeerimine aegub tunni jooksul. Kui lähte-IP-aadress on teile kuulub kohapealne meiliserver, kontrollige meilivoo konnektori konfiguratsiooni. Kui käitumine kestab üle tunni, pöörduge allika IP-aadressi erandi saamiseks tugiteenuse poole.

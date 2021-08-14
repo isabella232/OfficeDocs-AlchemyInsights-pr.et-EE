@@ -1,5 +1,5 @@
 ---
-title: Yammeri administraatorid
+title: Teave Yammer administraatorite kohta
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003221"
 - "9714"
-ms.openlocfilehash: fd8534d44c44f2ea8e6b0de8c361109915566868
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a5d71f509b7006264b15549c7e8450d4ed7025b7dea3cfd80fe6f0fdf50b0b9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51035731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989695"
 ---
-# <a name="about-yammer-admins"></a>Yammeri administraatorid
+# <a name="about-yammer-admins"></a>Teave Yammer administraatorite kohta
 
-**Võrgu administraatorid**
+**Võrguadministraatorid**
 
-Globaalsed administraatorid edutatakse automaatselt Yammeri võrgus kinnitatud administraatori rolliks. Järgmistel juhtudel ei pruugi see edutamine õigesti juhtuda.
+Üldadministraatorid on automaatselt üle Yammer. Järgmistel juhtudel ei pruugi see kampaania õigesti toimuda.
 
-- On olemas mitu Yammeri võrku ja administraator on sisse logitud valesse. [Võrgu konsolideerimine](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) on vajalik ühe Yammeri võrgu juurde pääsemiseks.
-- Kasutatakse Azure PIM-i. Kasutaja ei pruugi olla edutatud üldisele administraatorile piisavalt kaua, et edutamine toimuks. Yammeri tulevane värskendus võib selle probleemi lahendada, kuid see on kõige parem, kui soovite kasutajad globaalsele administraatorile käsitsi lisada.
-- Yammeri võrguga on sünkroonimise probleem olemas. Sellisel juhul on täiendavaks uurimiseks vaja tugiteenuste taotlust.
+- On Yammer võrgud ja administraator logitakse sisse valesse võrku. [Võrgu konsolideerimine](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) on vajalik ühe võrgu Yammer pääsemiseks.
+- Kasutatakse Azure'i PIM-i. Kasutajat ei pruugita üldadministraatoriks üle anda piisavalt kaua, et kampaania toimuks. Edaspidine värskendus Yammer probleemi lahendada, kuid kõige parem on kasutajaid käsitsi üldadministraatoriks soodustada.
+- Sünkroonimisprobleem esineb Yammer võrguga. Sel juhul on edasiseks uurimiseks vaja tugiteenusetaotlust.
 
-Yammeri administraatori rollide kohta leiate lisateavet teemast [Yammeri administraatorite haldamine](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins).
+Lisateavet administraatorirollide Yammer kohta leiate teemast [Administraatorite Yammer haldamine.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)
 
-**Rühma administraatorid**
+**Rühmaadministraatorid**
 
-Rühma administraatorid Microsoft 365 ühendatud rühmadega sünkroonitakse Azure AD rühma liikmestaatusega. Suurte rühmade korral võib sünkroonimine võtta pikema aja.
+Rühmaadministraatorid Microsoft 365 ühendatud rühmade jaoks sünkroonitakse Azure AD rühmaliikmetega. Suurte rühmade korral võib sünkroonimine võtta pikema aja.

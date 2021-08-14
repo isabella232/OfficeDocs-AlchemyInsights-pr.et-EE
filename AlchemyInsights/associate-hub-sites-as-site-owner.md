@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: e08bed31171bfcb4420b86c225542515d5e1e819
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2859c6c02dfd7f593a935e413d580033aa182fda211e3a1489b43fddc067c6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979813"
 ---
 # <a name="associate-hub-sites-as-site-owner"></a>Jaoturisaitide seostamine saidi omanikuks
 
-[Sõnumikeskus 186626 jagas](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) seda, kuidas saidiomanikud saavad nüüd SharePointi jaoturiga liituda. Kui teie ettevõte sooviks hallata kindlaid isikuid, kes saavad jaoturiga seostada, tehke järgmist. 
+[Sõnumikeskus 186626,](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) kuidas saidiomanikud saavad SharePoint jaoturiga liitumist. Kui teie ettevõte sooviks hallata kindlaid isikuid, kes saavad jaoturiga seostada, tehke järgmist. 
 
 1. Logige sisse ( [https://portal.office.com](https://portal.office.com) ) administraatoriõigustega.
 2. Valige kuva **vasakus ülanurgas** rakendusekäiviti (üheksa ruuduga ikoon) ja seejärel valige **Administraator**.
-3. Valige **kuva vasakus** servas olevast menüüst Halduskeskus ja seejärel **Valige SharePoint**.
+3. Valige **kuva vasakus** servas olevast menüüst Halduskeskus ja seejärel valige **SharePoint**.
 4. Valige kuva ülaservas sinise ribana käsk Käivita rakendus kohe, **et** kuvada uus SharePointi halduskeskus.
 5. Valige kuva vasakus servas oleval kuval **menüüst** Saidid ja seejärel valige **Aktiivsed saidid**.
 6. Kontrollige jaoturi saiti, kus soovite sätteid muuta.
-7. Valige **kuva** ülaservas menüüst Keskus ja seejärel Käsk Redigeeri keskuse **saidisätteid**.
+7. Valige **kuva** ülaservas menüüst Keskus ja valige Käsk **Redigeeri keskussaidi Sätted**.
 8. Määrake kasutajad või turberühmad, kellega soovite lubada töötada üksuses "Kasutajad, kes saavad saidi selle jaoturiga seostada".
 9. Valige **kuva** allservas Käsk Salvesta.
 
-Lisateavet leiate teemast [SharePointi saidi seostamine jaoturisaidiga.](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) 
+Lisateavet leiate teemast [SharePoint saidi seostamine keskussaidiga.](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) 
