@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: f086bd7312772b399146cd81261f147364d64665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd3cb78ca96953403bd0acc7e36e8466face0efd230d64dabcf055185c8ab12a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095286"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Õiguste pärimise SharePointis töötamise viis
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Õiguste pärimise SharePoint
 
-Vaikimisi pärivad SharePointis olevad õiguste hierarhiast kõrgemad. Seega pärib faili kaustast oma juurdepääsuõigused, mis pärib teegist teegis olevad teegid, mis pärib saidilt saidilt oma õiguste, mis pärib selle saidikogumilt.
+Vaikimisi päritakse SharePoint õigused hierarhias kõrgemalt. Seega pärib fail oma õigused kaustast, mis pärib õigused teegist, mis pärib õigused saidilt, mis pärib selle õigused saidikogumist.
   
-Lisateavet kordumatute õiguste eemaldamise ja pärimise taastamise kohta leiate teemast [loendi või teegi õiguste redigeerimine ja haldamine](https://go.microsoft.com/fwlink/?linkid=869946).
+Lisateavet kordumatute õiguste eemaldamise ja pärimise taastamise kohta leiate teemast Loendi või teegi õiguste redigeerimine [ja haldamine.](https://go.microsoft.com/fwlink/?linkid=869946)
   
 

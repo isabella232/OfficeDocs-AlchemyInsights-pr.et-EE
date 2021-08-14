@@ -1,5 +1,5 @@
 ---
-title: Delegeeritud postkasti juurdepääsuõigused hübriid-keskkonnas
+title: Delegeeritud postkastiõigused hübriidkeskkonnas
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 84ce7c1a31ad3d44b10c892c1d6a1a5ef85de58d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e2b8e8948becbb1ac07ca340fb13038caf16f6093988a894e85e0cefb8a64a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948699"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Delegeeritud postkasti juurdepääsuõigused hübriid-keskkonnas
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Delegeeritud postkastiõigused hübriidkeskkonnas
 
-Olenevalt teie kohapealses asutuses installitud Exchange ' i versioonist, peate võib-olla tegema mõned lisatoimingud, et häälestada delegeeritud postkasti permissions asutusesisese asutuse ja Exchange Online ' i vahel Microsoft 365. Delegeeritud õiguse häälestamise kohta leiate lisateavet teemast [Exchange ' i konfigureerimine, et toetada delegeeritud postkasti kasutusõigusi hübriid-juurutuses](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
+Olenevalt teie asutuse Exchange installitud versioonist peate võib-olla tegema täiendavaid toiminguid, et häälestada delegeeritud postkastiõigused asutuse ja asutuse Exchange Online Microsoft 365. Delegeeritud õiguste häälestamise kohta leiate lisateavet teemast Exchange delegeeritud postkastiõiguste [tugi hübriidjuurutuses.](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx)
   
