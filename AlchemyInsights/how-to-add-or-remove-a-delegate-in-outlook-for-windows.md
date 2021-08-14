@@ -1,5 +1,5 @@
 ---
-title: Delegaadi lisamine või eemaldamine rakenduses Outlook for Windows
+title: Delegaadi lisamine või eemaldamine Outlook Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573421"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945333"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Delegaadi lisamine või eemaldamine rakenduses Outlook for Windows
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Delegaadi lisamine või eemaldamine Outlook Windows
 
-Delegaadi lisamiseks rakenduses Outlook for Windows tehke järgmist. 
+Delegaadi lisamiseks Outlook Windows. 
 
-1. Klõpsake menüüd **failid** , millele järgneb **konto sätted**, ja seejärel valige käsk **Delegaadi juurdepääs**.
-2. Klõpsake nuppu **Add (lisa**). Kui **Lisa** ei kuvata, ei pruugita Outlooki ja Exchange ' i vahel aktiivset ühendust. Outlooki olekuribal kuvatakse ühenduste olek.
-3. Tippige selle inimese nimi, kelle soovite määrata oma delegaadiks, või otsige ja valige loendist otsingutulemid soovitud nimi.
-
-    > [!NOTE]
-    > Volitatud esindaja peab olema teie asutuse Exchange ' i globaalse aadressiloendi (GAL) kasutaja.
-4. Klõpsake nuppu **Lisa** ja seejärel nuppu **OK**.
-5. Aktsepteerige dialoogiboksis **delegaadi õigused õiguste** vaikesätted või valige Exchange ' i kaustade kohandatud Accessi tasemed.
-
-    - Kui delegaadil on vaja õigusi ainult koosolekukutsete ja-vastustega töötamiseks, saab õiguste vaikesätted (nt **delegaadid) saata mulle saadetud koosolekuga seotud sõnumite koopiad** . **Sisendkausta** õiguse sätte saate jätta **mitte ühelgi** korral. Koosolekukutsed ja-vastused lähevad otse delegaadi sisendkausta.
+1. Klõpsake menüüd **Fail,** millele järgneb **konto Sätted** ja seejärel valige **Delegaadi juurdepääs**.
+2. Klõpsake nuppu **Lisa**. Kui **nuppu Lisa** ei kuvata, ei pruugi Outlook ja Exchange. Outlook olekuribal kuvatakse ühenduse olek.
+3. Tippige selle isiku nimi, kelle soovite delegaadiks määrata, või otsige ja valige otsingutulemite loendist soovitud nimi.
 
     > [!NOTE]
-    > Vaikimisi antakse delegaadile teie kausta **Kalender** õigused **(saab üksusi lugeda, luua ja muuta)** . Kui delegaadi vastab teie nimel koosolekule, lisatakse see automaatselt teie kausta **Kalender** .
+    > Volitatud esindaja peab olema teie asutuse globaalses aadressiloendis (GAL) Exchange isik.
+4. Klõpsake nuppu **Lisa ja** seejärel **nuppu OK.**
+5. Aktsepteerige **dialoogiboksis Volitatud** esindaja õigused vaikeõigusesätted või valige kohandatud pääsutasemed Exchange.
 
-5. Kui soovite saata teate muudetud õigustest delegaadile, märkige ruut **Saada sõnum automaatselt, kui delegaadid on need load summeerinud** .
-6. Soovi korral märkige ruut **Delegaat saab minu isiklikke üksusi vaadata** .
+    - Kui volitatud esindajal on vaja luba töötada ainult koosolekukutsete ja vastustega, piisab mulle saadetud koosolekuga seotud sõnumite vaikeõigusesätetest (nt volitatud **esindaja).** Saate jätta sisendkausta **õiguse sätteks** **Pole**. Koosolekukutsed ja vastused lähevad otse volitatud esindaja sisendkausta.
+
+    > [!NOTE]
+    > Vaikimisi on volitatud esindajal õigus teie **kalendrikaustas** üksusi lugeda, luua ja **muuta.** Kui volitatud esindaja vastab teie nimel koosolekule, lisatakse see automaatselt teie kausta **Kalender.**
+
+5. Volitatud esindajale muudetud õigustest teatamiseks sõnumi saatmiseks märkige ruut Saada volitatud esindajale automaatselt nende **õiguste kokkuvõte.**
+6. Soovi korral märkige ruut **Volitatud esindaja saab vaadata minu eraüksusi.**
 
     > [!IMPORTANT]
-    > See säte mõjutab kõiki Exchange ' i kaustu. See hõlmab kõiki meilisõnumeid, kontakte, kalendrit, tööülesandeid, märkmeid ja päevikute kaustu. Pole võimalik anda juurdepääsu ainult määratud kaustade privaatsetele üksustele.
+    > See säte mõjutab kõiki Exchange kaustu. See hõlmab kõiki kaustu Meil, Kontaktid, Kalender, Tööülesanded, Märkmed ja Päevik. Eraüksustele juurdepääsu andmine ainult määratud kaustades pole võimalik.
 
 7. Valige **OK**.
 
     > [!NOTE]
     >
-    > - Saatja nimel saatmiseks saadetud sõnumid hõlmavad nii delegaadi kui ka teie nimed **kõrval.** Kui sõnum on saadetud saatmiseks õigustega, kuvatakse ainult teie nimi.
-    > - Kui lisate kellegi delegaadiks, saavad nad lisada teie Exchange ' i postkasti oma Outlooki profiilile. Juhised leiate teemast [teise kasutaja meili-ja kalendriüksuste haldamine](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    > - Nimel saatmise õigustega saadetud sõnumid hõlmavad nii delegaadi kui ka teie nimesid välja **Alates kõrval.** Kui sõnum saadetakse koos õigusega Saada nimega, kuvatakse ainult teie nimi.
+    > - Kui olete kellegi delegaadiks loonud, saab ta lisada Exchange postkasti tema Outlook profiilile. Juhised leiate teemast [Teise isiku meili- ja kalendriüksuste haldamine.](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5)
 
-Delegaadi eemaldamiseks rakenduses Outlook for Windows tehke järgmist.
+Delegaadi eemaldamiseks Outlook Windows.
 
-1. Klõpsake menüüd **pilt** .
-2. Klõpsake nuppu **konto sätted** , millele järgneb **Delegaadi juurdepääs**.
-3. Valige delegaadi nimi, kelle jaoks soovite õiguseid muuta, ja seejärel klõpsake nuppu **Eemalda** , millele järgneb **OK**.
+1. Klõpsake **menüüd** Fail.
+2. Klõpsake nuppu **Konto Sätted** millele järgneb volitatud **esindaja juurdepääs.**
+3. Valige selle delegaadi nimi, kelle õigusi soovite muuta, ja seejärel klõpsake nuppu **Eemalda ja seejärel** nuppu **OK.**

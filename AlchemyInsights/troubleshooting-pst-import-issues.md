@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972415"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>PST importimise probleemide tõrkeotsing
 
-- Kui impordite Outlooki klientrakenduses endas, lugege teemat Outlooki [PST-faili importimisega seotud probleemide lahendamine.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+- Kui impordite klientrakenduses Outlook, lugege teemat [PST-faili Outlook probleemide lahendamine.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
 - Kui kasutate imporditeenust ja see on kinni jäänud, võtke arvesse, et iga PST-fail, mille azure'i salvestusruumi üles laadite, ei tohiks olla suurem kui 20 GB. PST-failid, mille maht on suurem kui 20 GB, võivad mõjutada PST-impordiprotsessi jõudlust. Lisateavet kinniste tööde tõrkeotsingu kohta leiate teemast [PST-imporditöid mõjutavad probleemid.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 

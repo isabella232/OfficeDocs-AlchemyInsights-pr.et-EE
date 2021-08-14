@@ -1,5 +1,5 @@
 ---
-title: 401 hübriid – hõivatuse olek
+title: 401 Hybrid - FreeBusy
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 401
 ms.assetid: 13bb2a1b-6433-4249-8b0f-c01e23e5d7f1
-ms.openlocfilehash: ce28f5612df65aeb909512d16c6ee9d423993ef1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aae8b25d4dd96ca63327a27e84b443a7e682fc6516b2f6b76820da6b125dc1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945297"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Kalendri vaba/hõivatud aja probleemid hübriid-keskkonnas
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Kalendri vaba/hõivatud aja probleemid hübriidkeskkondades
 
-Kui kasutajatel on probleeme, mis näevad kalendri vaba/hõivatud aja teavet hübriid-keskkonnas, käivitage hübriid-konfigureerimisviisard uuesti. Hübriid-konfigureerimisviisard kohta leiate lisateavet teemast [hübriid-konfiguratsiooni viisard](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Kui kasutajatel on probleeme kalendri vaba/hõivatud aja teabe nägemisega hübriidkeskkondades, käivitage hübriidkonfiguratsiooni viisard uuesti. Hübriidkonfiguratsiooni viisardi kohta leiate lisateavet teemast [Hübriidkonfiguratsiooni viisard.](https://go.microsoft.com/fwlink/p/?linkid=528149)

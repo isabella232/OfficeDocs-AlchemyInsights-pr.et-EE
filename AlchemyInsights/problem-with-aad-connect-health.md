@@ -1,5 +1,5 @@
 ---
-title: Probleem AAD Connecti tervisega
+title: Probleem AAD Ühendus Health
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923748"
 ---
-# <a name="problem-with-aad-connect-health"></a>Probleem AAD Connecti tervisega
+# <a name="problem-with-aad-connect-health"></a>Probleem AAD Ühendus Health
 
-- Veenduge, et teil on toimingu tegemiseks õigus. Globaalsetel administraatoritel on vaikimisi juurdepääs. Lisaks saate kasutada [rolli baasil juurdepääsu juhtelementi](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) , et anda delegaadile registreerimise õigused.
-- Veenduge, et nõutavad lõpp-punktid on lubatud ja tulemüüri tõttu blokeeritud. Lisateavet leiate teemast [nõuded](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Registreerimine võib nurjuda tänu sellele, et võrgu kiht teostab väljaminevat suhtlust SSL-i kaudu.
-- Veenduge, et olete Azure AD Connecti tervise teatiste sätteid kinnitanud. Vaadake oma säte üle. See [juhend](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) aitab teil aru saada, kuidas KONFIGUREERIDA Azure AD Notificationi teatiste sätteid.
-- Lisateavet AAD Connecti Health Synci aruannete ja selle allalaadimise kohta leiate teemast [objekti taseme sünkroonimise teatis](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Veenduge, et teil oleks õigus seda toimingut teha. Üldadministraatoritel on vaikimisi juurdepääs. Lisaks saate rollipõhise accessi juhtelemendi [abil delegeerida](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) kaasautorile registreerimisõigused.
+- Veenduge, et nõutavad lõpp-punktid on lubatud, mitte tulemüüri tõttu blokeeritud. Lisateavet leiate teemast [Nõuded.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install)
+- Registreerimine võib nurjuda, kuna võrgukiht läbib väljamineva suhtluse SSL-i kontrolli.
+- Veenduge, et olete kinnitanud Azure AD Ühendus olekusätted. Vaadake oma säte üle. Sellest [juhendist](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) saate teada, kuidas konfigureerida Azure AD-Ühendus olekuteatisi.
+- Lisateavet AAD-Ühendus seisundi sünkroonimise aruande ja selle allalaadimise kohta leiate teemast [Objektitaseme sünkroonimise aruanne.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Kui soovite, et AAD Connect Healthi teatised, järgige juhiseid, mis [on esitatud jaotises AAD ühenduse tervise andmete värskuse teatiste](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) ja korduma kippuvate küsimuste kohta leiate teavet teemast [Üldine AAD Connect Health Installation](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)
+AAD Ühendus Seisunditeatised tõrkeotsinguks järgige [AAD Ühendus Seisundiandmete](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) värskuse teatiste tõrkeotsingujuhist ja korduma kippuvaid küsimusi leiate teemast [Levinumad AAD Ühendus Healthi installiga](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)seotud küsimused .

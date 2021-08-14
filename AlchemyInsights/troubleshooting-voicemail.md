@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677321"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972379"
 ---
 # <a name="troubleshooting-voicemail"></a>Kõneposti tõrkeotsing
 
-Veenduge, et hõivatud hõivatud funktsioon oleks tahtlik.
+Veenduge, et funktsioon Hõivatud hõivatud oleks tahtlik.
 
-Kui see funktsioon pole selle kasutaja jaoks vajalik, tehke järgmist.
+Kui seda funktsiooni pole sellel kasutajal vaja, siis:
 
-1. Avage [meeskonnatöö halduskeskus](https://admin.teams.microsoft.com/policies/calling).
-1. Vasakpoolsel rööpal Navigeerige **kõnede**  >  **poliitika**  >  **poliitikate haldamiseks** . 
+1. Avage [Teams Halduskeskus](https://admin.teams.microsoft.com/policies/calling).
+1. Liikuge vasakpoolsel rööbastel **voice**  >  **calling policies** Manage  >  **Policies** on the Calling Policy **(Kõnepoliitika) poliitikate haldamine.**
 1. Valige **Halda kasutajaid**.
-1. Kasutaja otsimine ja kõnepoliitika muutmine selliseks, mis on hõivatud hõivatud olekuga **, on saadaval ka kõne** **ajal.**
+1. Kasutaja otsimine ja kõnepoliitika muutmine olekuks Hõivatud on saadaval, **kui** kõnes on **Väljas**.
 1. Klõpsake nuppu **Rakenda**.
 > [!NOTE]
-> Poliitikate muudatused võivad paljunemiseks kuluda kuni 24 tundi.
+> Poliitikate muudatuste paljunemiseks võib aega võtta kuni 24 tundi.
 
-Lisateavet selle funktsiooni kohta leiate järgmistest teemadest: [kõne ajal on saadaval hõivatud](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)hõivatud.
+Selle funktsiooni kohta leiate lisateavet teemast Hõivatud on kõne ajal [saadaval.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

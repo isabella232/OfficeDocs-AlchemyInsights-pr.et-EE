@@ -1,5 +1,5 @@
 ---
-title: Projekti häälestamine
+title: Project
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Sihi mitte üle 500 sõna artikli jaoks.
-ms.openlocfilehash: 4d3ca7c415227b8f299e4ae280c7e35c24a5e7db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Sihtida ei saa rohkem kui 500 sõna.
+ms.openlocfilehash: 1dc306a480cdc920b9f756090f972a844b434a3ba475e40a1fbb08c89f625c51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958005"
 ---
-# <a name="setting-up-project"></a>Projekti häälestamine
+# <a name="setting-up-project"></a>Project
 
- Microsoft Projecti häälestamiseks järgige [selle artikli](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)juhiseid.
+ Selle Microsoft Project järgige selles artiklis toodud [juhiseid.](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)
 
-**Teade Maci kasutajatele:** Projekti toode pole praegu MacOS-i jaoks saadaval. 
+**Teade Maci kasutajatele:** Praegu Project toode MacOS-i jaoks saadaval. 
   
-Kui installimisel ilmnevad tõrked, [installige Project toe-ja taastekonsooli kaudu](https://aka.ms/SaRA-ProjectSetupScenario).
+Kui installimise ajal ilmneb tõrkeid, [installige Project kasutades tugi- ja taasteteenuste abiline](https://aka.ms/SaRA-ProjectSetupScenario).

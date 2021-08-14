@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft avatud lähtekoodi käitumise
-See projekt on vastu [Microsoft avatud lähtekoodiga juhendi](https://opensource.microsoft.com/codeofconduct/). Lisateabe saamiseks lugege [KKK läbi koodi](https://opensource.microsoft.com/codeofconduct/faq/) või pöörduge [opencode@microsoft.com](mailto:opencode@microsoft.com) täiendavaid küsimusi või kommentaare.
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsofti avatud lähtekoodiga käitumiskoodeks
+See projekt on vastu võtnud [Microsofti avatud lähtekoodiga käitumiskoodeksi.](https://opensource.microsoft.com/codeofconduct/)
+Lisateavet leiate käitumisjuhendi [KKK-st või opencode@microsoft.com](https://opensource.microsoft.com/codeofconduct/faq/) [küsimuste](mailto:opencode@microsoft.com) või kommentaaridega.

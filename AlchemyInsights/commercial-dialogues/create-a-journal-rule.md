@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: b0b95f8b6460418d92314dede2ca8bc1326b033e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7b6d7fde295e963fb1e8a86171ed4b0e6e2ebc66b7136835d75f5f8c1b19f9de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988795"
 ---
 # <a name="create-a-journal-rule"></a>Päevikureegli loomine
 
 Tehke järgmist.
 
-1. [Exchange ' i administreerimiskeskuses](https://go.microsoft.com/fwlink/p/?linkid=2059104)Avage **nõuetele vastavuse haldamise**  >  **Töölehe reeglid** ja seejärel valige ikoon **Add (+) (+)** .
-2. Sisestage **uue töölehe reeglile** nimi ja seejärel konkureerige järgmiste väljadega.  
-    - **Saada töölehe aruanded**: sisestage selle žurnaali postkasti aadress, millele saadetakse kõik töölehe aruanded.  
-    - **Kui sõnum on saadetud või saadud**: määrake adressaat, kelle jaoks reegel on suunatud. Saate valida mõne kindla adressaadi või rakendada reegli kõigile sõnumitele.  
-    - **Tehke järgmist**: töölehe reegli ulatuse määramine. Saate töölehe ainult sisemisi sõnumeid, ainult välissõnumeid või kõiki sõnumeid, olenemata päritolust või sihtkohast.
-3. Klõpsake töölehe reegli loomiseks nuppu **Salvesta** .
+1. Avage [Exchange halduskeskuses](https://go.microsoft.com/fwlink/p/?linkid=2059104) **vastavushalduse** töölehe reeglid  >  ja seejärel valige ikoon **Lisa (+).**
+2. Sisestage **uuel töölehereeglil** töölehereegli nimi ja seejärel võistlege järgmiste väljadega.  
+    - **Saada töölehearuanded** aadressile: Sisestage selle päevikupostkasti aadress, mis saab kõik töölehearuanded.  
+    - **Kui sõnum on saadetud või** vastu võetud: Määrake adressaat, mida reegel sihib. Saate valida kindla adressaadi või rakendada reegli kõigile sõnumitele.  
+    - **Saate päevikusse märkida** järgmised sõnumid: määrake töölehereegli ulatus. Saate päevikusse sisestada ainult sisemisi sõnumeid, ainult välissõnumeid või kõiki sõnumeid olenemata lähte- või sihtpunktist.
+3. **Töölehereegli** loomiseks valige Salvesta.

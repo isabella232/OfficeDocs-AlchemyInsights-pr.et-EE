@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 570284765f32212b4ef2062db5b70f427b28c121
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f9a5f78c1a0eae2632fbf7c5132e520847feef415f7b6887d5d7796af720304
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958833"
 ---
 # <a name="restore-a-deleted-site"></a>Kustutatud saidi taastamine
 
-Kui administraator kustutab SharePointi saidi, paigutatakse see saidikogumi prügikasti, kus seda säilitatakse 93 päeva jooksul, enne kui see jäädavalt kustutatakse. Saidi taastamiseks tehke järgmist.
+Kui administraator kustutab SharePoint saidi, paigutatakse see saidikogumi prügikasti, kus seda hoitakse 93 päeva enne selle jäädavalt kustutamist. Saidi taastamiseks:
   
-1. Klõpsake uues SharePointi administreerimiskeskuses lindil nuppu **Prügikast** . 
+1. Klõpsake uues SharePoint lindil nuppu **Prügikast.** 
     
-2. Märkige selle saidikogumi kõrval olev ruut, mille soovite taastada.
+2. Märkige selle saidikogumi kõrval ruut, mille soovite taastada.
     
-3. Klõpsake nuppu **Taasta kustutatud üksused**.
+3. Klõpsake **nuppu Taasta kustutatud üksused.**
     
-Kustutatud suhtluse saidi taastamiseks saate kasutada uut SharePointi halduskeskus. Vastasel juhul peate kasutama Microsoft PowerShelli. Microsoft 365 rühma kuuluva saidi taastamiseks peate Exchange ' i administreerimiskeskuses rühma taastama. Rühmi saab taastada 30 päeva jooksul pärast kustutamist.
+Kustutatud suhtlussaidi taastamiseks saate kasutada uut SharePoint halduskeskust. Muul juhul peate kasutama Microsoft PowerShelli. Rühma kuuluva saidi taastamiseks Microsoft 365 peate rühma taastama Exchange halduskeskuses. Rühmi saab taastada 30 päeva jooksul pärast nende kustutamist.
   
 
