@@ -1,5 +1,5 @@
 ---
-title: Puhverserveri aadressi tõrge ühiskasutatava postkasti loomisel
+title: Puhverserveri aadressi tõrge ühispostkasti loomisel
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: ab491e883ab294f08d0b5d2e686dc059b468d29f
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: 7c15d5db5445fbe4c3ec22878f180f48d2da4f90369f2e6f223916646eb19c12
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062904"
 ---
-# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Puhverserveri aadressi tõrge postkasti või muu meili lubatud objekti loomisel
+# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Puhverserveri aadressi tõrge postkasti või muu meilis lubatud objekti loomisel
 
-Kui proovisite luua e-posti loaga objekti (postkast, ühiskasutuses postkast jne) ja sai tõrketeate "puhverserveri aadress" SMTP:alias@domain.com "on juba kasutusel...", on teie valitud meiliaadress juba mõne muu teie asutuse jaoks loodud e-posti toega objekt.
+Kui proovisite luua meiliga toega objekti (postkast, ühispostkast jne) ja saite tõrketeate "Puhveraadress "SMTP:alias@domain.com" on juba kasutusel...", on teie valitud meiliaadress juba võetud teie ettevõttes mõne muu meiliga toega objekti poolt.
   
-Peate leidma kasutaja, rühma, ühiskasutatava postkasti või ühiskausta, millel on see meiliaadress, ja kustutama või muutma selle meiliaadressi. Siis saad luua uue e-posti toega objekti koos vabanenud meiliaadressiga. Selle leidmiseks kasutage avalehel otsingut. Selle otsimiseks saate kasutada ka järgmist Exchange Online PowerShelli käsku.
+Peate selle meiliaadressiga kasutaja, rühma, ühispostkasti või avaliku kausta üles otsima ja selle kustutama või selle meiliaadressi muutma. Seejärel saate vaba meiliaadressiga luua uue meiliga toega objekti. Kasutage selle leidmiseks avalehel otsingut. Selle otsimiseks saate Exchange Online powerShelli käsu abil.
 
 `
     Get-EXORecipient -Filter "EmailAddresses -eq 'email@contoso.onmicrosoft.com'"
 `
   
-Kui te ei soovi olemasolevat meiliaadressi kustutada, valige loodava uue objekti jaoks uus meiliaadress.
+Kui te ei soovi olemasolevat meiliaadressi kustutada, valige uue objekti jaoks uus meiliaadress.
   

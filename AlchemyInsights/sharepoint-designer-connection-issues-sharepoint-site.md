@@ -1,5 +1,5 @@
 ---
-title: SharePoint Designeri ühenduste probleemid
+title: SharePoint Designer connection issues
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 997ba3de58485d4fe6d24b926c33348378af8cd3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d55f7c1902bb623900fa74bdae70695b6e04ad84ce7b6ea314db614283ec436d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942021"
 ---
-# <a name="sharepoint-designer-connection-issues"></a>SharePoint Designeri ühenduste probleemid 
+# <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer connection issues 
 
-Kui SharePoint Designeris esineb SharePointi saitidel probleeme, proovige järgmisi levinud lahendusi.
+Kui SharePoint kujundajal on probleeme SharePoint saitidega, proovige järgmisi levinud lahendusi.
 
-1. juhis: Veenduge, et SharePoint Designer 2013 oleks värskendatud SharePoint Designeri [hoolduspaketiga Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) ja sharepoint [Designer 2013, August 2, 2016 värskendus](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
+1. juhis: SharePoint Designer 2013 [värskendatakse SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) ja [SharePoint Designer 2013 2.](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721)augusti värskendusega.
 
 
 
-2. juhis: tühjendage kohaliku vahemälu failid.
+2. juhis. Tühjendage kohalikud vahemälufailid.
 
 1. Sulgege SharePoint Designer 2013.
 
-2. Eemaldage kohalikus arvutis kõik järgmistest kaustadest leitud failid.
+2. Eemaldage kohalikus arvutis kõik järgmistes kaustades olevad failid.
 
-    - %APPDATA%\Microsoft\Web serveri Extensions\Cache
+    - %APPDATA%\Microsoft\Web Server Extensions\Cache
     - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
     - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
 3. Avage SharePoint Designer 2013 ja sisestage konto uuesti, et näha, kas see töötab.
 
-3. juhis: [Windowsi seadmetes Office 2013 kaasaegse autentimise lubamine](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
+3. [juhis. Modernautentimise lubamine Office 2013 Windows seadmetes.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
 
-4. juhis: Administraatorid peavad **lubama kohandatud skripti** SharePointi administreerimiskeskuse sätetes, et lubada SharePoint Designeri ühendust. Lisateavet leiate teemast [kohandatud skripti lubamine või keelamine](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
+4. juhis. Administraatorid peavad SharePoint administraatorikeskuse sätetes lubama SharePoint.  Lisateavet [leiate teemast Kohandatud skriptide lubamine](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) või keelamine.
 
 

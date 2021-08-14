@@ -1,5 +1,5 @@
 ---
-title: Kasutajate eemaldamine SharePointi rühmast
+title: Kasutajate eemaldamine SharePoint rühmast
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 7a66c8440ba7eb1bb0794efd94ad4e707b9d2298
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b34042a48baa26a7e2a4b6a29ff864f2eed823893d76fb8837704769b0ce5166
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094560"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a>Kasutajate eemaldamine SharePointi rühmast
+# <a name="remove-users-from-a-sharepoint-group"></a>Kasutajate eemaldamine SharePoint rühmast
 
-SharePointi rühm on kasutajate kogum, kellel kõigil on saitidele ja sisule samad õigused. Selle asemel, et määrata õigusi ühele inimesele korraga, saate rühmade abil mugavalt määrata paljudele inimestele korraga sama õigusetaseme.
+Rühma SharePoint on kasutajate kogum, kellel kõigil on saitidele ja sisule samad õigused. Selle asemel, et määrata õigusi ühele inimesele korraga, saate rühmade abil mugavalt määrata paljudele inimestele korraga sama õigusetaseme.
 
 - [Kasutajate eemaldamine rühmast](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [Liikmete lisamine või eemaldamine Microsoft 365 rühmadest halduskeskuse abil](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Liikmete lisamine või eemaldamine Microsoft 365 rühmast halduskeskuse abil](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

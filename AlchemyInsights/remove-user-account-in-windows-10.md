@@ -1,5 +1,5 @@
 ---
-title: Kasutajakonto eemaldamine opsüsteemis Windows 10
+title: Kasutajakonto eemaldamine Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094602"
 ---
-# <a name="remove-an-account-in-windows-10"></a>Konto eemaldamine opsüsteemis Windows 10
+# <a name="remove-an-account-in-windows-10"></a>Konto eemaldamine Windows 10
 
-Konto eemaldamiseks opsüsteemist Windows 10 saate teha järgmist.
+Konto eemaldamiseks arvutist Windows 10.
 
-1. Kui kasutate **Opsüsteemi Windows**  >    >    >  10 **Enterprise, &** ava avakuva sätted Kontopere ( või Muud inimesed).
+1. Avage **menüü**  >  **Sätted**  >    >  **Kontopere & inimesed** (või Muud **inimesed**, kui kasutate Windows 10 Enterprise).
 2. Valige konto, mille soovite eemaldada, valige **Eemalda** ja seejärel valige **Kustuta konto ja andmed**.
  
 **Märkus.** Praegu sisse logitud kontot ei saa kustutada.  Kui teil on vaja asendada konto, millega olete sisse logitud, peate tegema järgmist.
