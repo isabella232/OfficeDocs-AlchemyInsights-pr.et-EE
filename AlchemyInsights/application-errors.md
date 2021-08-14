@@ -13,62 +13,62 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: ce4c89da79112726ed4fb25527edc8d082bd37f239595b9eab7279abeeecfd7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931445"
 ---
 # <a name="application-errors"></a>Rakenduse tõrked
 
-Kas otsite teavet Azure Active Directory (Azure AD) turbelubade teenusest (STS) tagastatud **AADSTS tõrkekoodidest** ? Lugege [AZURE ad autentimine ja autoriseerimise tõrkekoodid](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) , et leida AADSTS, parandusi ja muid soovitatud lahendusi.
+Kas otsite teavet **AADSTS-i** tõrkekoodide kohta, mis tagastatakse Azure Active Directory (Azure AD) turbelubade teenusest (STS)? AADSTS-i tõrkekirjelduste, paranduste ja mõne soovitatud lahenduse leidmiseks lugege [läbi Azure AD-autentimis-](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) ja autoriseerimistõrgete koodid.
 
-Autoriseerimise tõrked võivad olla tingitud mitmest erinevast probleemist, millest enamik tekitab 401 või 403 tõrke. Näiteks võib järgmine tõrketeade olla järgmine:
+Autoriseerimistõrked võivad tuleneda mitmest probleemist, millest enamik genereerib tõrkekoodi 401 või 403. Näiteks võivad autoriseerimistõrked olla järgmised.
 
-- Ebaõiged juurdepääsuluba [omandavad vood](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
-- Halvasti konfigureeritud [õiguste ulatused](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
-- [Nõusoleku](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent) puudumine
+- valed [pääsutõendi hankimisvood](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
+- kehvasti konfigureeritud [lubade ulatused](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
+- puuduv [nõusolek](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-Levinud autoriseerimise tõrgete lahendamiseks proovige allpool toodud juhiseid, mis vastavad kõige sagedamini teie saadud tõrkele. Rakendada võib ka rohkem kui ühte.
+Levinumate autoriseerimistõrgete lahendamiseks proovige allpool toodud juhiseid, mis vastavad kõige paremini teile ilmnevale tõrkele. Võidakse kohaldada rohkem kui ühte.
 
-**401 lubamatu tõrge: kas teie luba kehtib?**
+**Tõrketeade „401 Puuduvad volitused“: kas teie tõend kehtib?**
 
-Veenduge, et teie rakendus esitaks taotluse osana Microsoft Graphi kehtiva juurdepääsuluba. See tõrge tähendab sageli, et juurdepääsuluba võib olla puudu HTTP autentimine taotluse päises või et see on kehtetu või aegunud. Soovitame kasutada Accessi turbelubade omandamiseks [Microsofti autentimise teeki (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) . See tõrge võib ilmneda juhul, kui proovite kasutada isiklikule Microsofti kontole antud volitatud juurdepääsuluba, et pääseda juurde API-ile, mis toetab ainult töö-või kooli kontosid (organisatsioonilised kontod).
+Veenduge, et teie rakendus esitaks taotluse osana microsoft Graph kehtivat juurdepääsuluba. Sageli tähendab see tõrge, et pääsutõend on HTTP-autentimispäringu päisest puudu või et tõend on kehtetu või aegunud. Soovitame tungivalt kasutada microsofti [autentimisteegi (MSAL) juurdepääsulubade](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) omamiseks. Lisaks võib see tõrge ilmneda juhul, kui proovite kasutada isiklikule Microsofti kontole antud delegeeritud juurdepääsuluba, et pääseda juurde API-le, mis toetab ainult töö- või koolikontosid (organisatsioonikontosid).
 
-**403 keelatud tõrge: Kas olete valinud õige õiguste kogumi?**
+**Tõrge „403 Keelatud“: kas olete valinud õige õiguste komplekti?**
 
-Veenduge, et olete taotlenud rakenduse Microsoft Graph API-l põhinevaid õigeid kasutajaõigusi. Soovitatavad kõige vähem privilegeeritud õigused on saadaval kõigis Microsoft Graphi API standardmeetodites. Lisaks sellele peab kasutaja või administraator need õigused andma. Õiguse andmine toimub tavaliselt nõusoleku lehe kaudu või lubade andmisega Azure ' i portaali rakenduse registreerimiskood abil. Klõpsake rakenduse **sätete** Blade nuppu **nõutavad load** ja seejärel käsku **Anna õigustele**.
+Kontrollige, kas olete taotlenud õiget õiguste komplekti, võttes aluseks Microsoft Graph teie rakendusekõnede API-d. Soovitatavad vähima õigusega õigused on saadaval kõigis Microsoft Graph API viitemeetodi teemades. Lisaks peab kasutaja või administraator need õigused rakendusele andma. Õiguste andmine toimub tavaliselt nõusolekulehe kaudu või õiguste andmisel Azure'i portaali rakenduse registreerimise laba abil. Klõpsake rakenduse lehel **Settings** (Sätted) nuppu **Required Permissions** (Nõutavad õigused) ja seejärel nuppu **Grant Permissions** (Anna õigused).
 
-- [Microsoft Graphi load](https://docs.microsoft.com/graph/permissions-reference) 
-- [Azure AD kasutajaõiguste ja nõusoleku mõistmine](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- [Microsoft Graphi õigused](https://docs.microsoft.com/graph/permissions-reference) 
+- [Azure AD pääsuõiguste ja nõusoleku mõistmine](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
 
-**403 keelatud tõrge: kas teie rakendus omandas tõendi valitud õigustele vastamiseks?**
+**Tõrge „403 Keelatud“: kas teie rakendus hankis valitud pääsuõigustele vastava tõendi?**
 
-Veenduge, et taotletud või antud õiguse tüüp vastab teie rakenduse omandatava juurdepääsuloa tüübile. Võib-olla taotlete ja lubate rakenduse kasutusõigusi, kuid kasutate delegeeritud interaktiivse koodi voo märkide asemel kliendi mandaatide voogude märke või taotlete ja andes delegeeritud õiguseid, kuid kasutavad delegeeritud koodi voo asemel kliendi mandaatide voogude märke.
+Veenduge, et taotletud või antud õiguste tüüp vastaks teie rakenduse hangitud juurdepääsulubade tüübile. Võimalik, et taotlete ja annate rakendusele õigusi, kuid kasutate kliendi identimisteabe voo märkide asemel delegeeritud interaktiivse koodivoo tõendeid või taotlete ja annate delegeeritud õigusi, kuid kasutate delegeeritud koodivoo märkide asemel kliendi identimisteabevoo tõendeid.
 
-- [Juurdepääsu saamine kasutajate nimel ja delegeeritud õigustest](https://docs.microsoft.com/graph/auth_v2_user) 
-- [Azure AD v 2.0-OAuthi 2,0 loa koodi voog](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Juurdepääsu saamine kasutajata (Daemon Service) ja rakenduse kasutusõigused](https://docs.microsoft.com/graph/auth_v2_service) 
-- [Azure AD v 2.0-OAuthi 2,0 kliendi mandaatide voog](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
+- [Kasutajate nimel juurdepääsu saamine ja delegeeritud pääsuõigused](https://docs.microsoft.com/graph/auth_v2_user) 
+- [Azure AD v2.0 – OAuth 2.0 autoriseerimiskoodi voog](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Juurdepääsu saamine ilma kasutajata (deemoniteenus) ja rakenduseõigused](https://docs.microsoft.com/graph/auth_v2_service) 
+- [Azure AD v2.0 – OAuth 2.0 kliendi identimisteabe voog](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
 
-**403 keelatud tõrge: parooli ennistamine**
+**Tõrge „403 Keelatud“: parooli lähtestamine**
 
-Praegu ei ole rakenduse luba Daemon Service-to-teenuse õigusi, mis lubavad kasutaja paroole uuesti määrata. Neid API-sid toetatakse ainult interaktiivse delegeeritud koodi abil, millel on sisse logitud administraator.
+Praegu pole selliseid rakenduseõiguste deemoni teenustevahelisi õigusi, mis lubaksid kasutajate paroole lähtestada. Need API-d on toetatud üksnes sisselogitud administraatoriga interaktiivse delegeeritud koodi voogude kasutamisel.
 
-- [Microsoft Graphi load](https://docs.microsoft.com/graph/permissions-reference)
+- [Microsoft Graphi õigused](https://docs.microsoft.com/graph/permissions-reference)
 
-**403 keelatud: kas kasutajal on juurdepääs ja need on litsentsitud?**
+**Tõrge „403 Keelatud“: kas kasutajal on juurdepääs ja litsents?**
 
-Delegeeritud koodi voogude korral hindab Microsoft Graph, kas taotlus on lubatud vastavalt rakenduse antud õigustele ja sisselogitud kasutaja õigustele. Üldiselt näitab see tõrge, et kasutajal pole piisavalt õigusi taotluse tegemiseks või kui kasutaja ei ole litsentsitud andmetele juurdepääsetav. Taotlust saab edukalt teha ainult selliste kasutajatega, kellel on nõutavad load või litsentsid.
+Delegeeritud koodivoogude korral hindab Microsoft Graph, kas taotlus on lubatud rakendusele antud õiguste ja sisse logitud kasutaja õiguste põhjal. Üldiselt tähendab see tõrkekood, et kasutajal pole päringu jaoks piisavaid õigusi või kasutajal pole juurdepääsetavate andmete jaoks litsentsi. Päringu saavad edukalt teha ainult nõutavate pääsuõiguste või litsentsidega kasutajad.
 
-**403 keelatud: kas valisite õige ressursi API?**
+**Tõrge „403 Keelatud“: kas valisite õige ressursi API?**
 
-API-teenused (nt Microsoft Graph) kontrollivad, et saadud juurdepääsuluba (sihtrühm) vastab väärtusele, mida ta endale ootab, ja kui ei, siis tulemuseks on 403 keelatud tõrge. Sellest tõrkest tulenev levinud viga proovib kasutada Azure AD Graph API-de, Outlooki API-de või SharePointi/OneDrive ' i API-de jaoks saadud tõendit, et helistada Microsoft Graphile (või vastupidi). Veenduge, et teie rakenduse ressurss (või rakendusala) omandaks tõendi selle kohta, mis vastab rakenduse jaoks kasutatavale API-ile.
+API-teenused (nt Microsoft Graph) kontrollige, kas saadud juurdepääsuluba helinõue (publikule) vastab väärtusele, mida ta enda jaoks eeldab, ja kui ei, siis kuvatakse tõrge 403 Keelatud. Üks levinud viga, mis selle tõrke põhjustab, on katse kasutada Azure AD Graphi API-sid, Outlooki API-sid või SharePointi/OneDrive‘i API-sid Microsoft Graphi kutsumiseks (või vastupidi). Veenduge, et ressurss (või ulatus), mille jaoks teie rakendus tõendi hangib, vastaks API-le, mida rakendus kutsub.
 
-**400 halb taotlus või 403 keelatud: kas kasutaja täidab oma asutuse tingimusjuurdepääsu (CA) poliitika?**
+**Tõrge „400 Vigane päring“ või „403 Keelatud“: kas kasutaja järgib oma asutuse või ettevõtte tingimuspääsu poliitikaid?**
 
-Asutuse CA-i poliitika põhjal võidakse rakenduses Microsoft Graph ressurssidele juurdepääsuks teie rakenduse kaudu vaidlustada lisateavet, mida teie rakendus algselt soetatud juurdepääsuluba ei kasuta. Sellisel juhul saab teie rakendus 400, millel on *interaction_required* tõrge Accessi turbelubade omandamise ajal või 403, kus on Microsoft Graphi helistamisel *insufficient_claims* tõrge. Mõlemal juhul sisaldab tõrketeade lisateavet, mida saab autoriseerimise lõpp-punktina esitada, et esitada kasutajale lisateavet (nt mitme teguri autentimine või seadme registreerimine).
+Ettevõtte CA-poliitikate põhjal võidakse teie rakenduse kaudu Microsoft Graph ressurssidele juurdepääsev kasutaja esitada väljakutse lisateabe saamiseks, mida teie rakenduse algselt hangitud juurdepääsuluba ei esitata. Sel juhul saab teie rakendus pääsutõendi hankimisel tõrkekoodi 400 *interaction_required* („400: vaja on suhtlust“) või Microsoft Graphi kutsumisel tõrkekoodi 403 *insufficient_claims* („403: ebapiisavad väited“). Mõlemal juhul sisaldab tõrkevastus lisateavet, mida saab esitada lõpp-punktile, et kasutajat lisateabe saamiseks (nt mitmikautentimist või seadme registreerimist) esitada.
 
-- [MSAL abil tingimusjuurdepääsu probleemide käsitlemine ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
-- [Azure Active Directory rakenduse arendaja juhised tingimusjuurdepääsu jaoks](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
+- [Tingimusjuurdepääsu probleemide lahendamine MSAL-i abil ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [Arendusjuhised Azure Active Directory tingimuspääsu jaoks](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)

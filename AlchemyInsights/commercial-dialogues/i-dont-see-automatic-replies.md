@@ -1,5 +1,5 @@
 ---
-title: Ma ei näe automaatseid vastuseid
+title: Automaatvastused pole näha
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 239c4db4d3a0b4010d14c2fac63018e8ad817c93
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5f0e1b52e5a31d7bfd64ef40f9d8806358a6cad218b6a474b0d0e38aa051ac72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949455"
 ---
-# <a name="i-dont-see-automatic-replies"></a>Ma ei näe automaatseid vastuseid
+# <a name="i-dont-see-automatic-replies"></a>Automaatvastused pole näha
 
-Kui te ei näe pärast **faili** valimist automaatseid vastuseid, kasutate tõenäoliselt Gmaili, Yahoo või muud POP-või IMAP-kontot, mis ei toeta Outlooki automaatsete vastuste funktsiooni. Saate häälestada reegli, mis vastab sissetulevatele sõnumitele, kuid ainult siis, kui jätate Outlookis töötamise.
+Kui pärast nupu Fail valimist automaatvastused ei ole **näha,** kasutate tõenäoliselt Gmaili, Yahoot või muud POP- või IMAP-kontot, mis ei toeta Outlook automaatvastuste funktsiooni. Saate häälestada reegli, mis vastab sissetulevatele sõnumitele, kuid ainult siis, kui jätate Outlook.

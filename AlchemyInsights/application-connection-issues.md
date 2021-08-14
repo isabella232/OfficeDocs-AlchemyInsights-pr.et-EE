@@ -1,5 +1,5 @@
 ---
-title: Rakenduse loomise probleemid
+title: Rakenduse ühenduse probleemid
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931526"
 ---
-# <a name="application-connection-issues"></a>Rakenduse loomise probleemid
+# <a name="application-connection-issues"></a>Rakenduse ühenduse probleemid
 
-[Õpetused rakenduste integreerimiseks Azure Active Directoryga](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) – rakenduste integreerimiseks Azure Active Directory abil oleme koostanud õpikute kogumi, mis juhatavad teid läbi konfiguratsiooni.
+[Õppematerjalid rakenduste integreerimiseks Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) - Rakenduste integreerimiseks Azure Active Directory oleme välja töötanud õppematerjalid, mis aitavad teil konfiguratsioonis töötada.
 
 **Rakenduse puhverserveri agendi konnektori tõrkeotsing**
 
-Kui konnektori installimine nurjub, lugege teemat [rakenduse puhverserveri agendi konnektori installimise probleem](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem).
+Kui konnektori installimine nurjub, lugege teemat [Rakenduse puhverserveri agendi konnektori installimisega seotud probleem.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
 
-[Silumise rakenduse puhverserveri konnektori probleemid](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) aitavad teil Azure Active Directory (Azure AD) rakenduse puhverserveri konnektorid probleemide tõrkeotsing. Kui kasutate rakenduse puhverserveri teenust kohapealse veebirakenduse kaugjuurdepääsu jaoks, kuid teil on probleeme rakendusega ühenduse loomisega, kasutage seda vooskeemi konnektori probleemide silumiseks.
+[Rakenduse puhverserveri konnektori probleemide silumine](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) aitab teil Azure Active Directory (Azure AD) rakenduse puhverserveri konnektorite probleemide tõrkeotsingut. Kui kasutate rakenduse puhverserveri teenust asutusesisese veebirakenduse kaugjuurdepääsuks, kuid teil on probleeme rakendusega ühenduse loomisega, kasutage konnektoriprobleemide silumiseks seda vooskeemi.
 
-[Rakenduse puhverserveri rakenduse jaoks ei leitud ühtegi töötava konnektori rühma](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) , mis aitab lahendada levinud probleemid, mis ilmnevad siis, kui Azure Active Directoryga integreeritud rakenduse puhverserveri jaoks pole leitud ühenduspesa.
+[Rakenduse puhverserveri rakenduse jaoks ei leitud](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) ühtegi töö konnektorirühma, mis aitab lahendada levinumaid probleeme, mis ilmnevad siis, kui rakenduse puhverserveriga integreeritud rakenduse konnektorit pole Azure Active Directory.
 
-**Cisco AnyConnect integratsiooni tõrkeotsing**
+**Cisco AnyConnecti integreerimise tõrkeotsing**
 
-Lisateavet selle kohta, kuidas integreerida Cisco AnyConnect Azure Active Directoryga (Azure AD), leiate teemast [õpetus: Azure Active Directory ühekordse sisselogimise (SSO) integratsioon Cisco AnyConnect](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect).
+Lisateavet Cisco AnyConnecti integreerimise kohta Azure Active Directory (Azure AD) kohta leiate teemast [Azure Active Directory(SSO) integreerimine Cisco AnyConnectiga.](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)

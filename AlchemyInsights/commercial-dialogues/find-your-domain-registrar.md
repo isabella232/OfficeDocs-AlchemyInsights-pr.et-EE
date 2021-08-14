@@ -1,5 +1,5 @@
 ---
-title: Domeeni registripidaja otsimine
+title: Domeeniregistraatori teenusekomplekti id
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0a3f35489337e641ea0a300618c5336417262056
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3ed5fadebfe188c399cb80abf57f0a08033a0930e72bc7e77bd9ac889638fe60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949485"
 ---
-# <a name="find-your-domain-registrar"></a>Domeeni registripidaja otsimine
+# <a name="find-your-domain-registrar"></a>Domeeniregistraatori teenusekomplekti id
 
-Tehke teises brauseriaknas järgmist.
+Teises brauseriaknas tehke järgmist.
 
-1. Tippige väljale [intern Search (otsing](https://lookup.icann.org/)) väljale **WHOISi otsing** oma domeen. Näiteks **contoso.com**. Kahe tähe kombinatsiooniga (nt **. ca** või **. jp** ) lõppevad domeeninimed ei tööta selle tööriistaga.
-2. Valige suvand **Domain (Domeen** ) ja seejärel klõpsake nuppu **Edasta**.
-3. Leidke lehel **WHOISi otsingutulemused** registripidaja kirje. Selles kirjes loetletakse organisatsioonid, mis pakuvad teie domeeni registripidaja teenust.
+1. Tippige [lehel InterNIC search (InterNIC-i](https://lookup.icann.org/)otsing) **väljale Whois Search (Whois'i** otsing) oma domeen. Näiteks contoso.com **.** Selle tööriistaga ei tööta domeeninimed, mille lõpus on kahetäheline kombinatsioon (nt **.ca** või **.jp).**
+2. Valige **suvand Domain (Domeen)** ja seejärel klõpsake nuppu **Submit (Edasta).**
+3. Otsige **lehel Whois Search Results (Whoise** otsingutulemid) üles kirje Registrar (Registraator). Selles kirjes loetletakse asutused, mis pakuvad teie domeeni jaoks registraatoriteenust.

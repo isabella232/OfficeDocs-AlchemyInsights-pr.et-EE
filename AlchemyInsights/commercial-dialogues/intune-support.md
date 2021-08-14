@@ -1,5 +1,5 @@
 ---
-title: Intune tugi
+title: Intune'i tugi
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6fc37fc2c80387f8ea991bc3b3d1ae88618057cd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2f1ce5af0a37cfa32a798a63a4208c512f9c651a8103ad2402ee3dd592a952eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949419"
 ---
-# <a name="intune-support"></a>Intune tugi
+# <a name="intune-support"></a>Intune'i tugi
 
-See dialoog on osa Intune support protsessist. Kui teil pole Intune ' iga seotud probleemi, tehke ühte järgmistest.
+See dialoog on osa Intune'i tugiprotsessist. Kui teil pole Intune'iga seotud probleemi, tehke ühte järgmistest.
 
-- [Configuration Manageri või Co-Management toe saamiseks klõpsake seda linki ja valige vastav paan.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
-- [Mitte-Intune ' i, mitte-lõpp-punkti halduriga seotud probleemide korral Jälgige seda linki ja klõpsake siis administraatori portaali paremas ülanurgas nuppu Help (Spikker).](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
+- [Konfigureerimishalduri või Co-Management klõpsake seda linki ja valige vastav paan.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
+- [Mitte-Intune'i puhul järgige seda linki mitte-Lõpp-punktide halduriga seotud probleemide korral ja seejärel klõpsake haldusportaali paremas ülanurgas nuppu Spikker.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)

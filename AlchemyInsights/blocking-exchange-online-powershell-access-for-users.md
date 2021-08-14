@@ -1,5 +1,5 @@
 ---
-title: 763 Exchange Online PowerShelli juurdepääsu blokeerimine kasutajatele
+title: 763 PowerShelli Exchange Online blokeerimine kasutajatele
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931409"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Exchange Online PowerShelli juurdepääsu blokeerimine kasutajatele
-Administraatorina on teil võimalus blokeerida juurdepääs kasutajate jaoks mõeldud Exchange Online Powershellile. Lisateavet leiate järgmistest teemadest.
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Kasutajate Exchange Online PowerShelli juurdepääsu blokeerimine
+Administraatorina saate kasutajate jaoks blokeerida juurdepääsu Exchange Online PowerShelli. Lisateavet leiate teemadest.
 
-- [Exchange Online Powershellile juurdepääsu lubamine või keelamine](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [PowerShelli juurdepääsu lubamine Exchange Online keelamine](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Kliendipääsuserveri reeglid Exchange Online ' is](https://technet.microsoft.com/library/mt842508.aspx) (otsige **RemotePowerShell** protokolli) 
+- [Kliendipääsureeglid Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (otsige **RemotePowerShelli** protokolli) 
 
-**Märkus**: nagu teemas kirjeldatud, olge ettevaatlik, et te ei blokeeriks Exchange Online PowerShelli administraatoritele juurdepääsu.
+**Märkus.** Nagu teemas kirjeldatud, olge ettevaatlik, et te ei blokeeriks administraatoritele Exchange Online PowerShelli juurdepääsu.
