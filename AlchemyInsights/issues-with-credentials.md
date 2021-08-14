@@ -1,5 +1,5 @@
 ---
-title: Mandaadiga seotud probleemid
+title: Identimisteabega seotud probleemid
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,74 +12,74 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004330"
 - "7723"
-ms.openlocfilehash: e463e8181123277f3509c0b0bb6f871a1a09bed1
-ms.sourcegitcommit: c3574f574afe5a40a6ea2c6e399c58977d18bb73
+ms.openlocfilehash: 975d4850c1ecffae786dd19b7f4363e0c95378cff4f3ae6bb1968af33ef810b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986815"
 ---
-# <a name="issues-with-credentials"></a>Mandaadiga seotud probleemid
+# <a name="issues-with-credentials"></a>Identimisteabega seotud probleemid
 
-[Microsoft Identity Platform ja oauthi 2,0 Client mandaatide voog](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) kirjeldab, kuidas programmeerida otse OAuthi 2,0 kliendi mandaatide andmise voogu.
+[Microsofti identimisplatvorm ja OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) kliendi identimisteabe voog kirjeldab, kuidas otse OAuth 2.0 kliendi identimisteabe voo vastu programmeerida.
 
-**Kuidas hallata rakenduse parooli või serdi mandaati?**
+**Kuidas hallata rakenduse parooli või serdi identimisteavet?**
 
-Rakenduses Azure CLI saate kasutada [AZ AD Rakenduse mandaati](https://docs.microsoft.com/cli/azure/ad/app/credential) , et kustutada, loetleda või lähtestada rakenduse parooli või serdi mandaati.
+Azure'i CLI-s saate az [ad rakenduse](https://docs.microsoft.com/cli/azure/ad/app/credential) identimisteabe abil kustutada, loetleda või lähtestada rakenduse parooli või serdi identimisteavet.
 
-**Kuidas saavad kasutajad oma paroolid lähtestada?**
+**Kuidas kasutajad paroolid lähtestavad?**
 
-Kasutajad peavad oma paroolide lähtestamiseks [registreerima end teenuse parooli lähtestamiseks](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-reset-register) . Kui kasutaja on registreerunud, saavad nad oma parooli lähtestamiseks järgida selle artikli juhiseid: [töö või kooli parooli lähtestamine](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-reset-or-unlock-your-password-for-a-work-or-school-account).
+Enne [paroolide lähtestamist peavad kasutajad](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-reset-register) registreeruma iseteeninduse parooli lähtestamiseks. Kui kasutaja on registreerunud, saab ta parooli lähtestamiseks järgida selles artiklis toodud [juhiseid: Töö- või kooliparooli lähtestamine.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-reset-or-unlock-your-password-for-a-work-or-school-account)
 
 **Kuidas saavad kasutajad oma paroole muuta?**
 
-Kasutajad saavad selle artikli juhiseid järgides oma paroole muuta: [parooli muutmine](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-change-your-password).
-Nad saavad ka [hallata rakenduse paroole kaheastmeline kinnitamiseks](https://docs.microsoft.com/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords).
+Kasutajad saavad oma paroolide muutmiseks järgida selles artiklis toodud [juhiseid: Parooli muutmine.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-change-your-password)
+Samuti saavad nad [rakenduseparoolide haldamine kaheastmelise kontrollimise jaoks.](https://docs.microsoft.com/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords)
 
-**Kasutaja saab parooli muutmisel või lähtestamisel tõrketeate**
+**Mu kasutaja saab parooli muutmisel või lähtestamisel tõrketeate**
 
-See link annab teavet levinud probleemide kohta, mis võivad tekkida siis, kui kasutaja proovib lähtestada parooli: [levinud probleemid ja nende lahendused](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#common-problems-and-their-solutions)
+See link annab teavet levinumate probleemide kohta, mis võivad tekkida, kui kasutaja proovib parooli lähtestada: [levinumad probleemid ja nende lahendused](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#common-problems-and-their-solutions)
 
-**Mul on probleeme kasutaja parooli ennistamisega**
+**Mul on probleem kasutaja parooli lähtestamisel**
 
-- Veenduge, et teil on õigus paroole lähtestada. *Kasutaja paroole saab lähtestada ainult globaalsete, paroolide ja kasutajate administraatorite jaoks.* Globaalsed administraatorid saavad lähtestada ka muud privilegeeritud administraatori paroolid.
+- Veenduge, et teil oleks õigus paroolid lähtestada. *Kasutajaparoolid saavad lähtestada ainult üld-, parooli- ja kasutajaadministraatorid.* Üldadministraatorid saavad lähtestada ka muid õigustega administraatori paroole.
 
-- Veenduge, et mõistate litsentsimise nõudeid.
+- Veenduge, et mõistate litsentsimisnõudeid.
 
-  - Teie ettevõttes peab olema vähemalt ühe litsentsiga määratud litsents.
-    - **Ainult pilveteenuse kasutajad** – kõik Office 365 (O365) makstud SKU või Azure AD ' i põhifunktsioonid
-    - **Pilv ja/või kohapealsed kasutajad** – Azure AD Premium P1 või P2, Enterprise Mobility + Security (EMS) või Secure produktiivne Enterprise (SPE)
-    - Lisateavet litsentsimise nõuete kohta leiate teemast [AZURE ad iseteeninduskeskuse parooli lähtestamise litsentsimise nõuded](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing).
-- Kasutaja parooli lähtestamiseks otsige üles Azure AD kasutaja. Seejärel klõpsake selle kasutaja ülevaates nuppu "Lähtesta parool".
+  - Teie ettevõttes peab olema määratud vähemalt üks litsents.
+    - **Ainult pilveteenuse kasutajad** – Office 365 (O365) tasuline SKU või Azure AD Basic
+    - **Pilveteenuse ja/või kohapealne** kasutaja – Azure AD Premium P1 või P2, Enterprise Mobility + Security (EMS) või Secure Productive Enterprise (SPE)
+    - Lisateavet litsentsimisnõuete kohta leiate teemast [Azure AD iseteeninduse parooli lähtestamise litsentsimisnõuded.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
+- Kasutaja parooli lähtestamiseks otsige kasutaja üles Azure AD-s. Seejärel klõpsake selle kasutaja ülevaatesabas nuppu "Lähtesta parool".
 
-**Nupp "parooli lähtestamine" on Hall**
+**Parooli lähtestamise nupp on tuhm**
 
-Teil pole õigust **selle** kasutaja paroole lähtestada. *Kasutaja paroole saab lähtestada ainult globaalsete, paroolide ja kasutajate administraatorite jaoks.* Globaalsed administraatorid saavad lähtestada ka muud privilegeeritud administraatori paroolid.
+Teil pole õigust selle **kasutaja** paroole lähtestada. *Kasutajaparoolid saavad lähtestada ainult üld-, parooli- ja kasutajaadministraatorid.* Üldadministraatorid saavad lähtestada ka muid õigustega administraatori paroole.
 
-**Parooli lähtestamise tera ei kuvata**
+**Ma ei näe paroolilähtestussaaba**
 
-Teil pole õigust paroole lähtestada. *Kasutaja paroole saab lähtestada ainult globaalsete, paroolide ja kasutajate administraatorite jaoks.* Globaalsed administraatorid saavad lähtestada ka muud privilegeeritud administraatori paroolid.
+Teil pole õigust paroole lähtestada. *Kasutajaparoolid saavad lähtestada ainult üld-, parooli- ja kasutajaadministraatorid.* Üldadministraatorid saavad lähtestada ka muid õigustega administraatori paroole.
 
-**Ma ei näe kohapealset integratsiooni Blade parooli lähtestamisel**
+**Ma ei näe parooli lähtestamises kohapealst integreerimissaaga**
 
-- Kohapealne Integration Blade kuvatakse ainult hübriid-keskkonnas – see tähendab, et kasutate kohapealse kasutaja paroolide manipuleerimiseks parooli tagasikirjutusega.
+- Kohapealne integreerimisleht kuvatakse ainult hübriidkeskkondades, mis tähendab, et kasutate paroolide tagasikirjutust, et manipuleerida asutusesisese kasutaja paroole.
 
-- Te ei näe seda tera, kui:
+- Seda tera ei näe, kui:
 
-  - Te ei kasuta parooli tagasikirjutusega
-  - Parooli tagasikirjutusega installi/ühenduvusega on probleeme
-  - Azure AD Connecti installi/ühenduvusega on probleeme
-  - Lisateavet tagasikirjutusega seotud probleemide tõrkeotsingu kohta leiate teemast [parooli tagasikirjutusega tõrkeotsing](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+  - Te ei kasuta parooli tagasikirjutust
+  - Parooli tagasikirjutuse installimise/ühenduvusega on probleeme
+  - Azure AD Ühendus
+  - Lisateavet parooli tagasikirjutusega seotud probleemide tõrkeotsingu kohta leiate teemast [Parooli tagasikirjutuse tõrkeotsing](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
 
-**Kasutaja parooli lähtestamine**
+**Ma ei tea, kuidas kasutaja parooli lähtestada**
 
-1. Logige Azure ' i portaali sisse sobiva administraatorina.
-2. Valige **kasutajad ja rühmad** Blade, valige **Kõik kasutajad**.
+1. Logige Azure'i portaali sisse sobiva administraatorina.
+2. Avage **nuga Kasutajad ja rühmad,** valige **Kõik kasutajad**.
 3. Valige loendist kasutaja.
-4. Valitud kasutaja jaoks valige **Ülevaade** ja seejärel valige käsuriba käsk **Lähtesta parool**.
-5. Valige nupp **Lähtesta parool** ja järgige ekraanil kuvatavaid juhiseid.
-    - Lähtestatakse ainult **Azure ' i portaali** toe parooli tagasikirjutusega.
+4. Valige valitud kasutaja jaoks **Ülevaade** ja seejärel valige käsuribal Käsk **Lähtesta parool**.
+5. Valige **nupp Lähtesta** parool ja järgige ekraanil kuvatavaid juhiseid.
+    - Parooli tagasikirjutust toetavad ainult **Azure'i** portaali kaudu tehtud lähtestamised.
 
-**Ma lähtestan kohapealse kasutaja parooli Office 365 administraatori või Office 365 mobiilirakenduse kaudu, kuid kasutaja ei saa ikka sisse logida**
+**Lähtestan asutusesisese kasutaja parooli Office 365 haldusrakendus või Office 365 mobiilirakendusest**
 
-Selles portaalis pole parooli tagasikirjutusega toetatud. Lähtestage kasutaja parool uuesti Azure ' i portaalis.
+Selles portaalis ei toetata parooli tagasikirjutust. Lähtestage kasutaja parool Uuesti Azure'i portaalis.

@@ -13,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003632"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Auditilogi lubamine ja otsimine
 
 **Microsoft 365**
 
-Microsoft 365 auditilogi otsimiseks tehke [järgmist](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Auditilogist Microsoft 365 toimige [järgmiselt.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
-**Valuutavahetus**
+**Exchange**
 
-- Exchange ' i administraatori tegevusi auditeeritakse vaikimisi.
+- Exchange haldustoiminguid auditeeritakse vaikimisi.
 
-- Rakenduses Microsoft 365 on postkasti auditeerimine vaikimisi lubatud. Lisateavet leiate  [sellest artiklist](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
+- Postkasti auditeerimine on vaikimisi lubatud Microsoft 365. Lisateavet leiate sellest  [artiklist](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
-- Microsoft 365 rühma postkastid ja ühiskausta postkastid Exchange Online ' is ei toeta auditi logimist.
+- Microsoft 365 Rühmapostkastid ja avaliku kausta postkastid Exchange Online ei toeta auditilogimist.
 
 **SharePoint ja OneDrive**
 
-- SharePointi ja OneDrive ' i auditeerimise lubamiseks pole täiendavaid konfiguratsioone vaja.
+- Auditeerimise lubamiseks pole vaja lisakonfiguratsiooni SharePoint OneDrive.
 
-- SharePointi ja OneDrive ' i toetavad järgmist tüüpi tegevuste auditeerimist.
+- SharePoint ja OneDrive toetavad järgmist tüüpi tegevuste auditeerimist.
 
-    - Failid, kaustad ja lehe tegevused
-    - Ühiskasutuse ja juurdepääsu taotlemise toimingud
-    - Saidi halduse tegevused
-    - Failidega sünkroonimise toimingud
+    - Faili-, kausta- ja lehetegevused
+    - Ühiskasutus ja juurdepääsutaotlusega seotud tegevused
+    - Saidi administreerimistegevused
+    - Failisünkroonimistegevused
 
-- Lisateavet muude teenuste auditeeritud tegevuste kohta leiate  [selle artikli tabelist](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Teavet auditeeritud tegevuste kohta muudes teenustes leiate [selle artikli tabelist.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- Siit leiate korduma kippuvate küsimuste loendi, kus on korduma kippuvaid [küsimusi](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) auditi logist otsimise kohta.
+- Siin on esitatud korduma kippuvate küsimuste loend, [mis on korduma kippuvad küsimused](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) auditilogist otsimise kohta.

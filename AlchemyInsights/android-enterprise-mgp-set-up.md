@@ -1,5 +1,5 @@
 ---
-title: 'Android Enterprise registreerimine tõrge: MGP häälestamise tuvastamine'
+title: "Android Enterprise'i registreerimise tõrge: MGP häälestamise tuvastamine"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "8340"
-ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: 9493d4cede39b4fb5aa41638c0f709b9025b2468ade322be6991bdad17e97d5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932849"
 ---
-# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Android Enterprise registreerimine tõrge: MGP häälestamise tuvastamine
+# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Android Enterprise'i registreerimise tõrge: MGP häälestamise tuvastamine
 
-Oleme tuvastanud, et hallatav Google ' i esitus pole teie konto jaoks häälestatud või katkestatud. See võib põhjustada tõrget registreerimata seadmete registreerimisel Androidi Enterprise ' i olukordades, kus on vaja hallata Google Play ühendust.
+Oleme tuvastanud, et hallatud Google Play ei ole teie konto jaoks häälestatud ega katkestatud. See võib põhjustada seadmete registreerimise nurjumist Android Enterprise'i stsenaariumites, kus on vaja hallatavat Google Play ühendust.
 
-Saate kontrollida hallatavate Google Play ühenduse olekut jaotises **rentniku haldus > rentniku oleku > konnektori olekus** ja vaadake üle järgmised dokumendid, et teada saada, kuidas häälestada konto oma hallatavale Google ' i kontole: **[Ühendage oma Intune ' i konto oma hallatava Google Play kontoga](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)**.
+Hallatava Google Play ühenduse olekut saate kontrollida MEM-i konsoolis jaotises **Rentnikuhalduse > Rentniku olek >** Konnektori olek ja vaadake läbi järgmine dokumentatsioon, et saada teavet selle kohta, kuidas ühendada oma Intune'i konto hallatava Google'i kontoga: Ühendus intune'i konto oma **[Hallatava Google Play kontoga.](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)**

@@ -1,5 +1,5 @@
 ---
-title: SharePointi piirid ja mahukad failid
+title: Piirangud ja mahukad failid SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986698"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Failid, mida ei saa SharePoint Online ' i üles laadida
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Failid, mida ei saa SharePoint Online
 
-Kui faili ei laadita alla SharePoint Online ' i, siis veenduge, et:
+Kui faili ei laadita SharePoint Online'i, veenduge, et:
   
-- Maht on väiksem kui 15 GB.
+- See on väiksem kui 15 GB.
     
 - Kogu tee (sh faili nimi) on väiksem kui 400 märki.
     
-- Failinimi ei sisalda märke " \* : \< \> ? / \ | ja pole [sobimatute nimede](https://go.microsoft.com/fwlink/?linkid=866430)loendis.
+- Faili nimi ei sisalda märke " \* : \< \> ? / \ | ja seda ei ole kehtetute [nimede loendis.](https://go.microsoft.com/fwlink/?linkid=866430)
     
-Kui proovite faili üles laadida OneDrive ' i töölauarakenduse kaudu, lugege teemat [failide ja kaustade sünkroonimise piirangud ja piirangud](https://go.microsoft.com/fwlink/p/?LinkID=717734) ning [OneDrive ' i sünkroonimise probleemide lahendamine](https://go.microsoft.com/fwlink/?linkid=866431).
+Kui proovite faili üles laadida OneDrive töölauarakenduse abil, lugege [](https://go.microsoft.com/fwlink/p/?LinkID=717734) teemat Failide ja kaustade sünkroonimise piirangud ja [piirangud või OneDrive'i sünkroonimisrakendus probleemide lahendamine.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Installi Project Professional
+title: Installige Project Professional
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,20 +13,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: ed6f48c8a9efb53b193812e8e8b24c2a7e5044ec
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dfb664248234a0a9e8b7e46355f8d424523c131540245184459556dc100a4924
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014464"
 ---
-# <a name="install-project-professional"></a>Installi Project Professional
+# <a name="install-project-professional"></a>Installige Project Professional
 
-Lisateavet Project Online ' i tellimuse versiooni installimise ning Project 2019, 2016 või 2013 tellimuse tühistamise kohta leiate teemast Projecti [installimine](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) . 
+Lisateavet [Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) installimisversiooni ja Project Online 2019, 2016 või 2013 tellimuseta versiooni installimise kohta leiate teemast Project, 2016 või 2013. 
 
-Project 2010 või 2007 korral järgige [office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) või [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657)juhiseid. 
+Kui Project 2010 või 2007, järgige [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) või [Office 2007 juhiseid.](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
 
-Projekti müüakse eraldiseisva rakendusena, nii et kui sul seda veel pole, [osta või proovi projekti](https://www.microsoft.com/evalcenter/evaluate-project). 
+Project müüakse eraldiseisva rakendusena, nii et kui teil seda veel pole, ostke [või proovige Project.](https://www.microsoft.com/evalcenter/evaluate-project) 
 
 
 
