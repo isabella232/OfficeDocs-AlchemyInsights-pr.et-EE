@@ -1,5 +1,5 @@
 ---
-title: Laekumiste lugemine rakenduses Outlook.com
+title: Kviitungite lugemine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983413"
 ---
-# <a name="read-receipts"></a>Teatiste lugemine
+# <a name="read-receipts"></a>Lugemisteatised
 
-Te ei saa taotleda Outlook.com, kuid saate taotleda Outlook.com saadetud sõnumite lugemisteatist. Lisateavet leiate teemast [lugemisteatise ja kohaletoimetamise teatiste lisamine ja taotlemine](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Te ei saa taotleda lugemisteatist Outlook.com-is, kuid saate taotleda Outlook.com-i sõnumite lugemisteatisi, mis saadetakse Outlook Windows. Lisateavet leiate teemast [Lugemisteatiste ja vastuvõtuteatiste lisamine ja taotlemine.](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Kui soovite valida, kuidas Outlook.com vastab lugemisteatise taotlustele, lugege teemat lugemisteatise [sätted](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Selleks et valida, kuidas Outlook.com lugemisteatise taotlustele vastab, valige [Lugemisteatise sätted.](https://outlook.live.com/mail/options/mail/handling/readReceipts)

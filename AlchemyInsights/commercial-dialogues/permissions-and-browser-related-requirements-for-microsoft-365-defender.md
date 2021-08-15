@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Defenderi juurdepääsuõigused ja brauseriga seotud nõuded
+title: Õigused ja brauseriga seotud nõuded Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016588"
 ---
-# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Microsoft 365 Defenderi juurdepääsuõigused ja brauseriga seotud nõuded
+# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Õigused ja brauseriga seotud nõuded Microsoft 365 Defender
 
-- Õigus: Microsoft 365 Defenderi sisselülitamiseks peate olema Azure ' i Active Directorys globaalne administraator või administraator. Microsoft 365 Defenderile lisatavate rollide loendi vaatamiseks ja andmete reguleerimise kohta leiate teavet artiklist [microsoft 365 Defenderile juurdepääsu haldamine](https://go.microsoft.com/fwlink/?linkid=2143626).
+- Õigused. Microsoft 365 Defender sisse lülitamiseks peate olema üldadministraator või Azure Active Directory. Kui soovite vaadata nende rollide loendit, mis Microsoft 365 Defender kasutada, ja teavet selle kohta, kuidas andmetele juurdepääs on reguleeritud, lugege teemat Juurdepääsu [haldamine Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626).
 
-- Brauseriga seotud nõuded: Microsoft 365 Defenderile Microsoft 365 Turvakeskuse kasutamiseks kasutage Microsoft Edge ' i, Internet Explorer 11 või mis tahes HTML 5 – ühilduvat veebibrauserit.
+- Brauseriga seotud nõuded. Microsoft 365 Defender turbekeskuses Microsoft 365 kasutage Microsoft Edge, Internet Explorer 11 või mis tahes HTML 5-ga ühilduvat veebibrauserit.

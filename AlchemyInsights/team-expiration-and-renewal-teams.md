@@ -1,5 +1,5 @@
 ---
-title: Töörühmade aegumine ja pikendamine Microsoft Teamsis
+title: Meeskonna aegumine ja pikendamine Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6666"
 - "9003760"
-ms.openlocfilehash: 8b82ef216903502e589c6b01cd7fe946e84cd54c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cca9fb78d740e868b05e391f82d7fd44efe2fad20f9cdd0801ae05dbfa410a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956655"
 ---
-# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Töörühmade aegumine ja pikendamine Microsoft Teamsis
+# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Meeskonna aegumine ja pikendamine Microsoft Teams
 
-Meeskonna aegumine ja pikendamine Microsoft Teamsis aitab hallata kasutamata meeskondi. Administraatorina saate kasutamata töörühmade automaatseks puhastamiseks kasutada  [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  rühma aegumispoliitikat. Kuna töörühmad on rühmade toestatud, rakenduvad rühma aegumispoliitikad automaatselt ka töörühmadele.
+Meeskonna aegumine ja pikendamine Microsoft Teams aitab hallata kasutamata meeskondi. Administraatorina saate kasutada Microsoft 365 [aegumispoliitikat kasutamata](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy) töörühmade automaatseks puhastamiseks. Kuna töörühmad on rühmade toestatud, rakenduvad rühma aegumispoliitikad automaatselt ka töörühmadele.
 
 Juhusliku kustutamise vältimiseks lubatakse rühma aegumispoliitikas automaatselt meeskonna automaatne pikendamine. Kui rühma aegumispoliitika on häälestatud, pikendatakse automaatselt mis tahes töörühma liiget, kes külastab vähemalt ühte kanalit enne selle aegumiskuupäeva ilma meeskonna omaniku käsitsi sekkumiseta.  
 
-Lisateavet [leiate teemast Töörühma aegumine ja pikendamine Microsoft Teamsis.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)
+Lisateavet [leiate teemast Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal) aegumine ja pikendamine.

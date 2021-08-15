@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038108"
 ---
 # <a name="upn-sync-disabled"></a>UPN-i sünkroonimine on keelatud
 
@@ -27,6 +27,6 @@ Kui alustasite Azure AD-ga sünkroonimist enne 30. märtsi 2016, käivitage jär
   
 UPN-i pehme vaste on automaatselt sisse lülitatud nende ettevõtete jaoks, kes hakkasid Azure AD-ga sünkroonima 30. märtsil 2016 või hiljem.
   
-Lisateavet UPN-i ja muude sünkroonimisfunktsiooni pehme vastete lubamise kohta leiate teemast [Azure AD Connecti sünkroonimisteenuse funktsioonid.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
+Lisateavet UPN-i ja muude sünkroonimisfunktsiooni pehme vastete lubamise kohta leiate teemast [Azure AD Ühendus sünkroonimisteenuse funktsioonid.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 
