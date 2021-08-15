@@ -1,5 +1,5 @@
 ---
-title: Kausta kustutamine rakenduses Outlook.com
+title: Kausta kustutamine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 231ea7b7afb167190d8952c621f593c48233cf1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5168de60b90e06bff119af5753e52047749681d2b7d1d3e7b632afe5607713a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024778"
 ---
-# <a name="delete-a-folder-in-outlookcom"></a>Kausta kustutamine rakenduses Outlook.com
+# <a name="delete-a-folder-in-outlookcom"></a>Kausta kustutamine Outlook.com-is
 
-1. Paremklõpsake vasakpoolsel paanil kausta või alamkausta, mille soovite kustutada, ja klõpsake käsku **Kustuta kaust**.
-2. Kinnitamiseks klõpsake **nuppu OK** .
+1. Paremklõpsake vasakpaanil kausta või alamkausta, mille soovite kustutada, ja valige **Käsk Kustuta kaust.**
+2. Kinnitamiseks **valige OK.**
 
-Lisateavet leiate teemast [sõnumite kaustadega töötamine rakenduses Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate teemast [Sõnumikaustade kasutamine Outlook.com-is.](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)

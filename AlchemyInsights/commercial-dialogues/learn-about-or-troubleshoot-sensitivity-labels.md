@@ -1,5 +1,5 @@
 ---
-title: Teave tundlikkuse siltide kohta või tõrkeotsing
+title: Teave tundlikkussiltide kohta või nende tõrkeotsing
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 27c08c071b2feb8458f03d2b01017a6c348111a3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: 898f1fcd189e2656dbdb9921f0c34a5d30976ac210766ca28284c455053dae50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016804"
 ---
-# <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Teave tundlikkuse siltide kohta või tõrkeotsing
+# <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Teave tundlikkussiltide kohta või nende tõrkeotsing
 
-Tundlikkuse siltide ülevaate leiate teemast [teave tundlikkuse siltide kohta](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Tundlikkussiltide ülevaate leiate teemast Teave [tundlikkussiltide kohta.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Kui olete konfigureerinud oma tundlikkuse sildid, kuid neid ei kuvata Office ' i rakendustes, tehke järgmist.
+Kui konfigureerite oma tundlikkussildid, kuid neid ei kuvata Office rakendustes, tehke järgmist.
 
-- Veenduge, et Office 365 E3 või E5 litsents on määratud.
+- Veenduge, Office 365 E3 või E5 litsents on määratud.
 
-- Kontrollige, kas tundlikkuse silt on teie soovitud kasutajatele ja rühmadele avaldatud.
+- Veenduge, et tundlikkuse silt on avaldatud soovitud kasutajatele ja rühmadele.
 
-- Veenduge, et kasutaja kasutab tundlikke silte toetavat rakendust. Lisateavet leiate teemast [Office ' i sisesele dokumentidele ja meilile tundlikkuse siltide rakendamine](https://support.microsoft.com/topic/apply-sensitivity-labels-to-your-files-and-email-in-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9).
+- Veenduge, et kasutaja kasutab rakendust, mis toetab tundlikkussilte. Lisateavet leiate teemast [Tundlikkussiltide](https://support.microsoft.com/topic/apply-sensitivity-labels-to-your-files-and-email-in-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)Office.
 
-- Kui soovite migreerida Azure ' i teabe kaitse silte, lugege teemat [Azure ' i teabe kaitse siltide migreerimine ühendatud tundlikkuse siltidele](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+- Kui soovite migreerida Azure'i teabekaitse sildid, lugege teemat [Azure'i teabekaitse siltide migreerimine ühendatud tundlikkuse siltidele.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)
 
-- Veenduge, et Azure ' i teabeõiguste kaitse klient oleks installitud. Lisateavet leiate teemast [Azure Information Protection Unified labeling Client](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history).
+- Veenduge, et Azure'i teabekaitse klient on installitud. Lisateavet leiate teemast [Azure'i teabekaitse ühendatud sildistusklient.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)
 
-Kui ülaltoodud toimingud ei aita teil lahendada probleeme tundlikkuse siltidega, lugege teemat [teadaolevad probleemid Office ' i tundlikkuse siltidega](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Kui ülaltoodud ülesanded ei aita teil tundlikkussiltide abil probleeme lahendada, lugege teemat Tundlikkussiltide teadaolevad probleemid [Office](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

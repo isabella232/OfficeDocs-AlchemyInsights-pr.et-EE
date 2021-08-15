@@ -1,5 +1,5 @@
 ---
-title: Microsoft Flow spetsialiseeritud tugi
+title: Microsoft Flow Eritugi
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975925"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow spetsialiseeritud tugi
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Eritugi
 
-Microsofti spetsialiseeritud voo toe saamiseks minge uuele [Power Platformi administreerimiskeskusele](https://aka.ms/flowadminsupport). Uues portaalis on Microsofti voo-ja muude Power Platformi toodete jaoks optimeeritud tugiteenuste jaoks rohkem otsest teed.
+Eriteenuste Microsoft Flow avage uus [Power platformi halduskeskus.](https://aka.ms/flowadminsupport) Uus portaal pakub otsesema tee tugiteenustele, mis on optimeeritud Microsoft Flow ja muude Power'i platvormide toodete jaoks.
 
 Lisateave:
-- [Teave Microsoft Flow tasuta litsentside kohta](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Teie asutuse KKK-s liikumine](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Teave tasuta Microsoft Flow kohta](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow kkk](https://go.microsoft.com/fwlink/?linkid=2072608)
 - [Microsoft 365 ja Dynamics 365 lepingud, mis sisaldavad Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Microsoft Flow arveldus-ja mõõtmisprotsessi küsimused](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Microsoft Flow arveldamine ja mõõtmine](https://go.microsoft.com/fwlink/?linkid=2072612)
