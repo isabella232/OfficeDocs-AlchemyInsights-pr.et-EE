@@ -14,24 +14,24 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ee9a7b58f36137f0bc5647c14c01dff9e2e6d49b9c2eac5fa5996c258fbafbb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010092"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Printimine paberi mõlemale poolele (kahepoolselt printimine)
 
 **Kas minu printer on võimeline kahepoolseks printimiseks?**
 
-Printeri funktsiooni kokkuvõte või juhend peaks teile ütlema, kas see on võimeline printima paberi mõlemale poolele ehk kahepoolseks printimiseks. Kui teil on Microsoft Office, on teine võimalus teada saada, kui avate Mõne Office'i rakenduse (nt Wordi või Exceli), valige **Fail > Prindi**, veenduge, et õige printer on valitud ja otsite jaotisest Sätted soovitud võimalust. Näide. 
+Printeri funktsiooni kokkuvõte või juhend peaks teile ütlema, kas see on võimeline printima paberi mõlemale poolele ehk kahepoolseks printimiseks. Kui teil on Microsoft Office, on teine võimalus teada saada, kui avate mõne Office'i telefonirakendus (nt Word või Excel), valige **Fail > Prindi**, veenduge, et valitud on õige printer, ja otsige jaotises Sätted võimalusi. Näide. 
 
 ![Printeri sätted](media/print-settings.png)
 
-**Kahepoolne printimine Microsoft Office'is**
+**Kahepoolne printimine Microsoft Office**
 
-Kui teie printer suudab printida mõlemale poolele, kuvatakse **Office'i rakenduses menüü Fail >** Printimine valimisel suvand "Mõlemale küljele printimine", nagu on näidatud ülaltoodud näites.  Valige soovitud kahepoolse printimise tüüp (pöörake pikale servale või pöörake ümber lühikesele servale) ja **klõpsake väljaprinti** käivitamiseks nuppu Prindi.
+Kui teie printer on võimeline mõlemale poolele printima, kuvatakse > prinditava faili Office'i telefonirakendus suvandi "Print on Both Sides" (Mõlemale poolele printimine) suvand, nagu on näidatud ülaltoodud näites.   Valige soovitud kahepoolse printimise tüüp (pöörake pikale servale või pöörake ümber lühikesele servale) ja **klõpsake väljaprinti** käivitamiseks nuppu Prindi.
 
 **Kahepoolne printimine mis tahes rakendusest**
 
