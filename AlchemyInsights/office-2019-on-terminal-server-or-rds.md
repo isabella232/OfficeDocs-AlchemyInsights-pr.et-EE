@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24691e0b523fad22f0b6ee3ed07ff08afd5b81d12c787f843aa94c5b6835915b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011548"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Office 2019 juurutamine ühiskasutuseks RDS-i, Terminal Serveri või VDI-s
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Juurutamine Office 2019 ühiskasutuseks RDS-i, Terminal Serveri või VDI-s
 
-Kui Office on RDS-i serverisse juba installitud mis tahes muude Office'i lepinguid kasutades, desinstallige see. Näiteks avage Juhtpaneel **Programmi**  >  **desinstallimine.** Kui teil on probleeme, desinstallige Microsofti [tugi- ja taasteteenuste abilise abil.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
+Kui Office on juba RDS-i serverisse installitud mõne muu Office abil, desinstallige see. Näiteks avage Juhtpaneel **Programmi**  >  **desinstallimine.** Kui teil on probleeme, desinstallige Microsoft [tugi- ja taasteteenuste abiline](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
 
-Office'i installimiseks kasutage Office'i juurutamise tööriista (ODT). Üksikasjalikud juhised leiate teemast [Office 2019 juurutamine.](https://docs.microsoft.com/deployoffice/office2019/deploy)
+Kasutage Office (ODT) Office. Üksikasjalikud juhised leiate teemast [Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
-Aktiveerimise kohta leiate [teavet teemast Office'i hulgiaktiveerimise ülevaade.](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)
+Aktiveerimise kohta leiate [teavet teemast Hulgiaktiveerimise Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).

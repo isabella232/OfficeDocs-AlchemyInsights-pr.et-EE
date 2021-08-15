@@ -1,5 +1,5 @@
 ---
-title: Lisage või värskendage käibemaksu/maksu ID-pärand WD + MCA CL _ Soovitatavad toimingud
+title: Käibemaksu/maksu ID lisamine või värskendamine – pärand WD + MCA CL _ Soovitatavad juhised
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953685"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Lisa või uuenda km/maksu ID-pärand WD + MCA CL-Soovitatavad juhised
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Käibemaksu/maksu ID lisamine või värskendamine – pärand WD + MCA CL – soovitatavad juhised
 
-Maksu-ID-i kasutatakse maksuvabastuse arvutamiseks ja see kuvatakse teie arvel.
+Maksu ID-d kasutatakse maksuvabastuse arvutamiseks ja see kuvatakse teie arvel.
 
-1. Avage leht [kulude haldus + arveldus](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) . 
-2. Klõpsake vasakus servas nuppu **Atribuudid** . 
-3. Klõpsake paanil **maksu ID** -d nuppu **Halda maksu** -ID-sid ja sisestage oma uus maksukohuslase ID.
-4. Klõpsake nuppu **Värskenda**. 
+1. Avage leht [Kuluhaldus + arveldamine.](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) 
+2. Klõpsake **vasakus** servas nuppu Atribuudid. 
+3. Klõpsake **paanil Maksu ID-d** nuppu Halda maksu ID-sid ja sisestage oma uus maksu-ID. 
+4. Klõpsake **nuppu Värskenda**. 
 
-Kui te ei näe paani **maksu ID-d** , tähendab see seda, et teie piirkonna jaoks pole käibemaksu ID-sid veel kogutud või teie kontol ei toetata teie kontol olevate maksude ID-sid.
+Kui te ei näe paani **Maksu-ID-d,** tähendab see, et teie piirkonna maksu-ID-sid ei koguta veel või teie kontol ei toetata portaali maksu-ID-de värskendamist.
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-[Toetatud riigid/piirkonnad ja valuutad](https://azure.microsoft.com/pricing/faq/)
+[Toetatud riigid/regioonid ja valuutad](https://azure.microsoft.com/pricing/faq/)
 

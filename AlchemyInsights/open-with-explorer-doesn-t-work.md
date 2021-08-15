@@ -1,5 +1,5 @@
 ---
-title: Avamine Exploreris ei tööta
+title: Ava Exploreris ei tööta
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 5bf28982533d8ca9998605cf3592f317c0ef99b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 164d5fe8c992df825d1f52f19792e1623526c35c58ff2f1e1ab601fdcf5f0f53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011332"
 ---
-# <a name="open-with-explorer-isnt-working"></a>Avamine Exploreris ei tööta
+# <a name="open-with-explorer-isnt-working"></a>Ava Exploreris ei tööta
 
-Kui **Open with Explorer** või **Vaade failis Explorer** ei tööta, siis veenduge, et webclienti teenus oleks seatud toimima **, järgides** allolevaid juhiseid. Näiteks võib kuluda pikk aeg, et avada SharePointi või OneDrive ' i teek, kui teenus ei tööta. 
+Kui **käsk Ava Exploreris** **või Vaade File Exploreris** ei tööta, veenduge, et WebClienti teenuse väärtuseks **oleks määratud Töötab,** järgides alltoodud juhiseid. Näiteks võib võtta kaua aega, et avada SharePoint või OneDrive teenus ei tööta. 
   
-1. Tippige Windowsi otsinguväljale tekst Käivita, valige Käivita töölauarakendus, tippige tekst Services. msc ja seejärel valige **sisestusklahv (ENTER)**.
+1. Tippige Windows käivitamine, valige käsk Käivita töölauarakendus, tippige services.msc ja seejärel valige **Sisestusklahv (Enter).**
     
-2. Liikuge kerides Webclienti teenuse juurde ja kontrollige veergu **olek** . Kui Webclienti teenuse olek ei **tööta**, topeltklõpsake teenust, klõpsake nuppu **Start**ja seejärel nuppu **OK**. Vajadusel teenuse lubamiseks valige väljal **Käivitustüüp** kas **käsitsi** või **Automaatne** . 
+2. Liikuge kerides allapoole teenuseni WebClient ja kontrollige **veergu Olek.** Kui Teenuse WebClient olek ei **tööta,** topeltklõpsake teenust, klõpsake nuppu **Start** ja seejärel nuppu **OK**. Vajaduse korral lubage teenus, valides  väljal **Käivitustüüp** kas Käsitsi **või** Automaatne. 
     
 > [!NOTE]
-> Faili Exploreris avamisega seotud probleemide tõrkeotsingu kohta leiate teavet teemast [Ava Exploreris](https://go.microsoft.com/fwlink/?linkid=871665). Uurige sünkroonimist parema alternatiivina: [SharePointi failide sünkroonimine uue OneDrive ' i sünkroonimise klientrakendusega](https://go.microsoft.com/fwlink/?linkid=871666). 
+> File Exploreris avamisega seotud probleemide tõrkeotsinguks lugege [teemat Ava Exploreris.](https://go.microsoft.com/fwlink/?linkid=871665) Sünkroonimisega tutvumine on parem alternatiiv: [SharePoint sünkroonida faile uue OneDrive'i sünkroonimisrakendus klientrakendusega.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Mitme üksuse delegaadi õiguse haldamine rakenduses Outlook for Mac
+title: Mitme üksusetüübi delegaadiõiguste haldamine mac Outlook-arvutis
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 4c965ba7909fa78dea38bdd78907dcfdd9152ef7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962883"
 ---
-# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Mitme üksuse delegaadi õiguse haldamine rakenduses Outlook for Mac
+# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Mitme üksusetüübi delegaadiõiguste haldamine mac Outlook-arvutis
 
-1. Valige menüü **Tööriistad** käsk **kontod** ja valige konto, mille kasutusõigusi soovite muuta.
-2. Klõpsake nuppu **Täpsemalt** ja seejärel käsku **delegaadid**.
-3. Valige jaotises **delegaadid**, kus kuvatakse volitatud esindajate loend, kes saavad teie nimel toimida, ja valige volitatud esindaja.
-4. Klõpsake nuppu **toiming** , siis käsku **Sea õigused** ja tehke soovitud muudatused.
+1. Valige **menüü Tööriistad** käsk **Kontod** ja valige konto, mille õigusi soovite muuta.
+2. Klõpsake **nuppu Täpsemalt** ja seejärel nuppu **Delegaadid.**
+3. Valige **jaotises Delegaadid** delegaatide loend, kes saavad nimel tegutseda, delegaat.
+4. Klõpsake nuppu **Toiming,** klõpsake **nuppu Sea** õigused ja tehke soovitud muudatused.
 
 > [!NOTE]
-> Kui määrate õigusetaseme väärtuseks **pole**, jääb delegaat loendile, mis võimaldab teil õigused hiljem taastada.
+> Kui määrate õigusetasemeks **Pole,** jääb delegaat loendisse, mis võimaldab teil õigused hiljem uuesti määrata.
