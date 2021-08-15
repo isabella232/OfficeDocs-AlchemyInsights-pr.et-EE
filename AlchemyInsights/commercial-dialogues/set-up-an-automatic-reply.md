@@ -1,5 +1,5 @@
 ---
-title: Automaatse vastuse häälestamine
+title: Automaatvastuse häälestamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994933"
 ---
-# <a name="set-up-an-automatic-reply"></a>Automaatse vastuse häälestamine
+# <a name="set-up-an-automatic-reply"></a>Automaatvastuse häälestamine
 
-Kasutage automaatseid vastuseid iga kord, kui soovite anda inimestele, kes teile meili saadavad, teada, et te ei vasta kohe nende sõnumitele. Kui automaatsed vastused on sisse lülitatud, saadetakse need iga saatja jaoks üks kord.
+Automaatvastuste kasutamine iga kord, kui soovite teile meilisõnumeid saatnud inimestele teada, et te ei vasta nende sõnumitele kohe. Kui automaatvastused on sisse lülitatud, saadetakse need üks kord igale saatjale.
 
-1. Logige sisse Outlook.com.
-2. Valige navigeerimisribal **sätted**  >  **automaatsete vastuste seadmine**. Kui **automaatsete vastuste määramist** ei kuvata, valige **sätted**  >  **Suvandid**  >  **automaatsed vastused**.
-3. Siin saate muuta oma automaatsete vastuste sätteid, kaasa arvatud ainult teatud ajaperioodiga seotud automaatsete vastuste saatmise, saata vastuse ühe korra kõigi oma asutuse liikmetele või saata vastuse ainult liikmetele, kes ei kuulu teie ettevõttesse.
+1. Logige sisse Outlook.com-i.
+2. Valige navigeerimisribal nupp **Sätted**  >  **Määra automaatvastused**. Kui **käsku Määra automaatvastused** ei kuvata, valige **Sätted**  >  **Suvandid**  >  **Automaatvastused**.
+3. Siin saate muuta automaatvastuste sätteid( sh ainult teatud ajaperioodi automaatvastuste saatmist, kõigile ettevõtte liikmetele ühe korra vastuse saatmist või vastuse saatmist ainult organisatsioonivälisele liikmele).

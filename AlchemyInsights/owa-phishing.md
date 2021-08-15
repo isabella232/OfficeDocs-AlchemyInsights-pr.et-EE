@@ -1,5 +1,5 @@
 ---
-title: Outlook.com andmepüügiga tegelemine
+title: Andmepüügiga tegelemine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: b84527f58cfd5101c5a63510cc46bb115ab862cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0b797e22a95a5ea532cd6497dd647adf608e52d09bdaf2a13124ecdfe15d5bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982657"
 ---
-# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Outlooki veebirakenduse andmepüügiga seotud meilisõnumite lahendamine
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Andmepüügimeiliga tegelemine Outlooki veebirakendus
 
-Phishing kelmuse on meilisõnum, mis kuvatakse õiguspäraselt, kuid tegelikult proovib varastada teie isiklikke andmeid või raha. Scammers saab kasutada ka meetodit, mida nimetatakse kelmuseks, et see oleks kuvatud nii, nagu oleksite saanud endale meili.
+Andmepüügipettus on meilisõnum, mis näib olevat seaduslik, kuid tegelikult üritatakse varastada teie isikuandmeid või raha. Petturid saavad kasutada ka võtet, mida nimetatakse tüssamiseks, et see kuvataks nii, nagu oleks teilt saadud meilisõnum.
 
-Kui saate meilisõnumi, mis näeb välja nagu Andmepüügifilter, saate sellest teatada, valides sõnumi ja valides **rämpsposti**  >  **andmepüügi**.
+Kui saate meilisõnumi, mis näeb välja nagu andmepüügipettus, saate sellest teatada, valides sõnumi ja valides seejärel Käsu  >  **Rämpspost.**
 
-*Märkus:* Kui märgite sõnumi andmepüügiks, teatab see ainult saatjale.See ei takista saatjal teile tulevikus sõnumeid saata. Saatja blokeerimiseks peate lisama saatja blokeeritud saatjate loendisse. Lisateavet leiate teemast [saatjate blokeerimine või blokeeringu tühistamine Outlooki veebirakenduses](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+*Märkus.* Kui märgite sõnumi andmepüügiks, teatab see ainult saatjale. See ei blokeeri seda saatjat teile tulevikus sõnumeid saatmast. Saatja blokeerimiseks peate lisama saatja blokeeritud saatjate loendisse. Lisateavet leiate teemast [Saatjate blokeerimine või saatjate blokeeringu Outlooki veebirakendus.](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0)
 
-Lugege lisateavet selle kohta, kuidas [tuvastada kahtlasi sõnumeid Outlooki veebirakenduses](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
+Lisateave kahtlaste sõnumite [tuvastamise kohta](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206)Outlooki veebirakendus.

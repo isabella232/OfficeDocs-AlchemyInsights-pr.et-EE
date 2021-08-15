@@ -1,5 +1,5 @@
 ---
-title: 1800001 kustutamise profiil
+title: 1800001 Kustuta profiil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005518"
 ---
 # <a name="delete-a-profile"></a>Profiili kustutamine
 
 Profiili kustutamiseks tehke järgmist.
   
-1. Valige Outlookis suvand **File** \> **Kontosätted** \> **profiilide haldamiseks**.
+1. Valige Outlook **Failikonto** \> **ja Sätted** Halda \> **profiile**.
 
 2. Valige **Kuva profiilid**.
 
-3. Valige dialoogiboksis **Elektronpost** profiil, mille soovite kustutada, ja seejärel klõpsake nuppu **Eemalda**.
+3. Valige **dialoogiboksis Elektronpost** profiil, mille soovite kustutada, ja seejärel klõpsake nuppu **Eemalda**.
 
     > [!NOTE]
-    > Outlook võib teid hoiatada, et profiili kustutamise korral eemaldatakse ühenduseta andmed. Te ei kaota oma Outlooki andmefailide (. pst) ega teie veebikontol talletatavat teavet (nt Outlook.com, Exchange või Microsoft 365 Accounts) salvestatud teavet.
+    > Outlook võib hoiatada, et profiili kustutamisel eemaldatakse võrguühenduseta andmed. Te ei kaota oma Outlook andmefailides (.pst) talletatud teavet ega teie veebikontodel talletatud teavet (nt Outlook.com, Exchange või Microsoft 365 kontosid).
   
-**Rakenduse Outlook for Mac** profiilide haldamise kohta leiate teavet teemast [profiilide või Identiteetide haldamine rakenduses Outlook for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) või järgmiste toimingute abil.
+Lisateavet **Outlook mac-arvuti** profiilihalduse kohta leiate teemast Profiilide või identiteetide haldamine [mac Outlook-arvutis](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) või tehke järgmist.
   
-1. Avage Finderist kaust **Applications (rakendused** ).
+1. Avage Finderis **kaust Rakendused.**
 
-2. CTRL + Click või paremklõpsake käsku **Microsoft Outlook**ja seejärel valige **Kuva paketi sisu**.
+2. Ctrl+klõpsake või paremklõpsake **microsoft Outlook** ja seejärel valige **Kuva paketi sisu**.
 
-3. Valige **sisu** \> **ühiskasutuses tugi**ja seejärel käivitage **Outlook Profile Manager**.
+3. Valige **Sisu** \> **ühistugi** ja seejärel käivitage **Outlook Profiilihaldur**.

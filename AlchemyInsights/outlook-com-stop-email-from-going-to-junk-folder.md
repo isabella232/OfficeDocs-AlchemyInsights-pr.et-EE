@@ -1,5 +1,5 @@
 ---
-title: Sõnumite peatamine Outlook.com kausta Rämpspost minemisel
+title: Sõnumite saatmise takistamine kausta Rämpspost Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c4d223d25e77562b60c516a149183aab83444d011a504f71424479792c97cfa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041114"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Sõnumite peatamine kausta Rämpspost saatmisel
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Sõnumite kausta Rämpspost saatmise takistamine
 
-Kui avastate, et Outlook.com kaustas Rämpspost pole rämpsposti, siis tehke järgmist.
+Kui avastate, et teie rämpspostikaustas Outlook.com pole rämpspost, tehke järgmist.
 
-1. Avage [kaust Rämpspost](https://outlook.live.com/mail/junkemail).
-1. Valige sõnum. (*Märkus:* kaustas Rämpspost olevad üksused kustutatakse 30 päeva pärast.)
-1. Valige sõnumiloendi kohal **mitte**  >  **Rämpspost**.
+1. Avage [kaust Rämpspost.](https://outlook.live.com/mail/junkemail)
+1. Valige sõnum. *(Märkus.* Kausta Rämpspost üksused kustutatakse 30 päeva pärast.)
+1. Valige sõnumiloendi kohal Pole   >  **rämpspost.**
 
-Kui soovite vältida, et saatja sõnumid ei läheks rämpsposti kausta, lisage saatja turvaliste saatjate loendisse.
+Kui soovite takistada saatjalt pärit sõnumite kausta Rämpspost avamiseks, lisage saatja oma turvaliste saatjate loendisse.
 
-1. Avage oma [rämpsposti sätted](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Valige jaotises **Turvalised saatjad ja domeenid**nupp **Lisa**, Sisestage meiliaadress või domeen, mille soovite lisada, ja klõpsake nuppu **Salvesta**.
+1. Avage rämpsposti [sätted.](https://go.microsoft.com/fwlink/?linkid=2035804)
+1. Valige **seif saatjate ja domeenide** loendis **Lisa**, sisestage lisatav meiliaadress või domeen ja valige **Salvesta**.
 
-Lisateavet leiate teemast [meilisõnumite rämpspostiks märkimine rämpspostina või Outlook.com saatjate blokeerimine](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate artiklist [Meilisõnumite märkimine rämpspostiks või saatjate blokeerimine Outlook.com-is.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

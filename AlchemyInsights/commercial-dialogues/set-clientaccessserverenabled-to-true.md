@@ -1,5 +1,5 @@
 ---
-title: ClientAccessServerEnabled seadmine True
+title: Seadke ClientAccessServerEnabled väärtuseks True (Tõene).
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746411"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994861"
 ---
-# <a name="set-clientaccessserverenabled-to-true"></a>ClientAccessServerEnabled seadmine True
+# <a name="set-clientaccessserverenabled-to-true"></a>Seadke ClientAccessServerEnabled väärtuseks True (Tõene).
 
-Kui te ei saa krüptitud meilisõnumit avada ja selle asemel vaadata **rpmsg** manust, tehke järgmist.
+Kui krüptitud meilisõnumit ei saa avada ja selle asemel kuvatakse **rpmsg-manus,** tehke järgmist.
 
-1. Ühenduse loomine Exchange Online PowerShelliga.
+1. Ühendus Exchange Online PowerShelli.
 
 > [!NOTE]
-> Exchange Online PowerShelliga ühenduse loomiseks peate sisse logima üldise administraatori või Exchange ' i administraatori konto abil.
+> PowerShelliga ühenduse Exchange Online peate sisse logima üldadministraatori või administraatorikonto Exchange kaudu.
 
-   loomine. Avage Windows PowerShell ja käivitage järgmine käsk. `$UserCredential = Get-Credential`
-b. Sisestage dialoogiboksis **Windows PowerShelli mandaadi taotlus** oma töö-või kooli konto ja parool, c. Klõpsake nuppu **OK**. 
+   a. Avage Windows PowerShell ja seejärel käivitage järgmine käsk.`$UserCredential = Get-Credential`
+b. Sisestage **Windows PowerShell Identimisteabe** taotlus oma töö- või koolikonto ja parool c. Klõpsake nuppu **OK**. 
 
 2. Uue seansi loomiseks käivitage järgmine käsk.
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    loomine. Käivitage järgmine käsk:
+    a. Käivitage järgmine käsk:
     
     `Import-PSSession $Session -DisableNameChecking`
 
-3. `Get-IRMConfiguration`Käsk Käivita.
+3. Käsk `Get-IRMConfiguration` Käivita.
 
-4. Märkige **ClientAccessServerEnabled** säte. 
+4. Kontrollige **sätet ClientAccessServerEnabled ( ClientAccessServerEnabled).** 
 
-    loomine. Kui **ClientAccessServerEnabled** säte on seatud väärtusele **FALSE**, käivitage järgmine cmdlet-käsk. `Set-IRMConfiguration -ClientAccessServerEnabled $True`
+    a. Kui **sätte ClientAccessServerEnabled** väärtuseks on **seatud False (Väär),** käivitage järgmine cmdlet-käsk: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
 > [!TIP]
-> Sulgege oma PowerShelli seanss alati järgmise käsuga: `Remove-PSSession $Session`
+> Sulgege powershelli seanss alati järgmise käsuga. `Remove-PSSession $Session`
 
 Lisateavet leiate teemast [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 

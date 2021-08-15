@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017812"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Kohaliku konto või Microsofti konto nime muutmine
 
-Kui kasutate windows 10 sisselogimiseks ainult kasutajanime ja parooli, kasutate kohalikku kontot. 
+Kui kasutate sisselogimiseks ainult kasutajanime ja parooli Windows 10 kasutate kohalikku kontot. 
 
 **Kohaliku konto nime muutmiseks:**
 
