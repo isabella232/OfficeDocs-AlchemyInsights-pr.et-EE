@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813180"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029800"
 ---
 # <a name="file-open-read-only"></a>Fail on avatud kirjutuskaitstuna
 
@@ -36,20 +36,20 @@ Failiasuvaid atribuute saate kontrollida, paremklõpsades faili ja valides käsu
   
 Internetist ja muudest potentsiaalselt ebaturvalistest asukohtadest pärit failid võivad sisaldada viirusi, ussviirusi või muud tüüpi ründevara, mis võivad teie arvutit kahjustada. See kehtib tavaliselt ka meilimanuste või allalaaditud failide korral. Arvuti kaitsmiseks avatakse kaitstud vaates failid nende potentsiaalselt ebaturvaliste asukohtade eest. Kaitstud vaate abil saate lugeda faili ja vaadata selle sisu, vähendades samal ajal riske. Lisateavet kaitstud vaate ja sätete muutmise kohta leiate sellest artiklist Mis on [kaitstud vaade?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **Kas OneDrive on täis?**
+ **Kas OneDrive täis?**
   
-Kui fail on salvestatud OneDrive'i ja teie OneDrive'i salvestusruum on täis, ei saa te dokumenti salvestada enne, kui olete eraldatud ruumi all. Saate oneDrive'is vaba ruumi kontrollida, klõpsates teavituskeskuses OneDrive'i ikooni ja valides käsu Halda salvestusruumi või saate avada , sisse logida ja märkida ekraani vasakus allnurgas kasutatud [https://onedrive.live.com](https://onedrive.live.com) ruumi.
+Kui fail on talletatud OneDrive teie OneDrive salvestusruum on täis, ei saa te dokumenti salvestada enne, kui olete eraldatud ruumi all. Vaba ruumi registreerimisel OneDrive klõpsake teavituskeskuses ikooni OneDrive ja valige Halda salvestusruumi või avage , logige sisse ja märkige ekraani vasakus allnurgas üles kasutatud ruumi [https://onedrive.live.com](https://onedrive.live.com) hulk.
   
- **Kas Office on aktiveeritud?**
+ **Kas Office aktiveeritud?**
   
-Kui Office pole aktiveeritud või teie tellimus on aegunud, võite olla kirjutuskaitstud vähendatud funktsionaalsusega režiimis. Lisateavet Office'i aktiveerimise kohta leiate teemast [Litsentsimata toote- ja aktiveerimistõrked Office's.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+Kui Office pole aktiveeritud või kui teie tellimus on aegunud, võite olla kirjutuskaitstud vähendatud funktsionaalsusega režiimis. Lisateavet selle kohta, kuidas aktiveerida Office, leiate teemast [Litsentsimata toote- ja aktiveerimistõrked Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Kui kõik muu nurjub...**
   
 - Proovige arvuti taaskäivitada
     
-- Office'i värskenduste installimine
+- Värskenduste Office installimine
     
-- Office'i parandamine võrgus
+- Tehke Office
     
 

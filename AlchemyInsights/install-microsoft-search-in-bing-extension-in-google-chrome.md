@@ -1,5 +1,5 @@
 ---
-title: Microsoft Searchi installimine Bingi laienduses Google Chrome'is
+title: Installige Microsofti otsing Bing Google Chrome'i laiendusse
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014608"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Microsoft Searchi installimine Bingi laienduses Google Chrome'is
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Installige Microsofti otsing Bing Google Chrome'i laiendusse
 
-Microsoft Searchi installimiseks Google Chrome'i Bingi laiendusse tehke järgmist.
+Google Chrome Microsofti otsing i Bing installimiseks tehke järgmist.
 
 1. Veenduge, et seade vastaks [laienduse](https://go.microsoft.com/fwlink/?linkid=2152236) installimise kriteeriumidele.
-2. Kui soovite laienduse installida, konfigureerige microsoft 365 halduskeskuse jaotises Microsoft **Search** vastavad sätted.
-3. Installige kasutaja seadmesse Microsoft Searchi taustteenus Bingis. See taustateenus sisaldub microsoft 365 ettevõtterakendustes.
+2. Kui soovite laienduse installida, konfigureerige jaotise **Microsofti otsing** vastavad Microsoft 365 halduskeskus.
+3. Installige kasutaja seadmesse Microsofti otsing Bing. See taustateenus on lisatud Microsoft 365 suurettevõtterakendused.
 
-Lisateavet leiate teemast Kuidas [installitakse Google Chrome'i microsoft search Bingi laienduses?](https://go.microsoft.com/fwlink/?linkid=2150992)
+Lisateavet leiate teemast Kuidas Microsofti otsing Bing [Chrome'i laiendus?](https://go.microsoft.com/fwlink/?linkid=2150992)
