@@ -1,5 +1,5 @@
 ---
-title: Erinevate sadamate Accessi probleemide diagnostika
+title: Diagnostika erinevate portide juurdepääsuprobleemide jaoks
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9035"
 - "9005220"
-ms.openlocfilehash: 3673067cad7ac55f3820422dc2ec09942c393149
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 07c108d5292965d20340da039b67744d93c0a4fc61edb8115796671f2f7f1552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030898"
 ---
-# <a name="diagnostics-for-different-ports-access-issues"></a>Erinevate sadamate Accessi probleemide diagnostika
+# <a name="diagnostics-for-different-ports-access-issues"></a>Diagnostika erinevate portide juurdepääsuprobleemide jaoks
 
-Erinevate pordi juurdepääsu probleemide lahendamiseks tehke järgmist.
+Erinevate portide juurdepääsuprobleemide lahendamiseks tehke järgmist.
 
-1. Peatage/eraldage virtuaalarvuti (VM) portaalist, taaskäivitage VM ja testige uuesti. 
-2. Kontrollige oma VM-i võrgusätteid, et kindlaks teha, kas teil on võrgu turvalisuse rühmad (NSGs) liikluse blokeerimine. Saate kasutada ka [Network watcheri IP-voo kinnitamise tööriista](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) , et kontrollida NSGs, User-Defined marsruute (UDRs), marsruudid liiklust tagasi kohapealsesse ("vaikeprotsessi" 0.0.0.0/0) või võrguseadmesse.
-Kui teil ilmneb pärast ülaltoodud juhiste järgimist endiselt probleeme, esitage VM-i nimi ja TCP-port, mida proovite saata meiliga edasiseks diagnoosimiseks.
+1. Peatage/jaotage virtuaalarvuti (VM) portaalist, taaskäivitage VM ja testige uuesti. 
+2. Kontrollige oma VM-i võrgusätteid, et teha kindlaks, kas võrguturberühmad (NSGs) blokeerivad liiklust. Samuti saate [](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) võrguvahiku IP-voo kontrollimise tööriista abil kontrollida, kas NSG-d blokeerivad liiklust, User-Defined Marsruudid (UDR- id) suunavad teie liikluse tagasi kohapealse (vaikemarsruudi 0.0.0.0/0) või võrguseadmesse.
+Kui teil esineb pärast ülaltoodud juhiste proovimist endiselt probleeme, sisestage vm-nimi ja TCP-port, mida proovite edasiseks diagnoosimiseks meili saata.
 
 **Soovitatud dokumendid**
 
-[Piirangud ja soovitused Väljamineva meili saatmiseks porti 25 kaudu](https://docs.microsoft.com/azure/virtual-network/troubleshoot-outbound-smtp-connectivity)
+[Piirangud ja soovitused väljaminevate meilisõnumite saatmiseks üle pordi 25](https://docs.microsoft.com/azure/virtual-network/troubleshoot-outbound-smtp-connectivity)

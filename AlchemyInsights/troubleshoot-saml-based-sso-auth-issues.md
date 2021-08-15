@@ -1,5 +1,5 @@
 ---
-title: SAML-põhiste SSO autentimise probleemide tõrkeotsing
+title: SAML-i-põhiste SSO-põhiste autentimisprobleemide tõrkeotsing
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "9409"
-ms.openlocfilehash: c053e252edfcc51c95214c4bff4aded2bded2e23
-ms.sourcegitcommit: 60c504f3ac187eaf1141b3ba701d9e0633bdd968
+ms.openlocfilehash: f64d668c01640c65e7c58940b54e98d6d2aa3c09ab11b55e4fd560874740e3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039386"
 ---
-# <a name="troubleshoot-saml-based-sso-authentication-issues"></a>SAML-põhiste SSO autentimise probleemide tõrkeotsing
+# <a name="troubleshoot-saml-based-sso-authentication-issues"></a>SAML-i-põhiste SSO-põhiste autentimisprobleemide tõrkeotsing
 
-Enamik kasutajaid suudab lahendada oma SAML SSO autentimise probleemid, kasutades järgmisi soovitatavaid juhiseid.
+Enamik kasutajaid saab SAML-i-põhiste SSO-põhiste autentimisprobleemide lahendamiseks teha järgmist.
 
-**Soovitatavad toimingud**
-1. [Praeguse tõrke koodi teabe](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#lookup-current-error-code-information)otsimine.
-1. Autentimise tõrgete lahendamiseks lugege artiklit [debug SAML põhinev Ühekordne sisselogimine Azure Active Directory rakendustes](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) .
-1. Lisateavet SAML 2,0 autentimise taotluste ja vastuste kohta, mida Azure Active Directory (Azure AD) toetab üksikule Sign-On (SSO), leiate artiklist, [ühe Sign-On SAML protokollist](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol) .
+**Soovitatavad juhised**
+1. Praeguse [tõrkekoodi teabe otsimine.](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#lookup-current-error-code-information)
+1. [Autentimistõrgete lahendamiseks lugege teemat SAML-i-põhise ühekordse Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) rakenduste silumine.
+1. Lisateavet SAML 2.0 autentimi Sign-On staotluste ja vastuste kohta, mida Azure Active Directory (Azure AD) toetab, leiate artiklist Single [Sign-On SAML-i](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol) protokoll.
 
 
