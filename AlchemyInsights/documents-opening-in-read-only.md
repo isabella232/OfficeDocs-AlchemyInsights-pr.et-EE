@@ -1,5 +1,5 @@
 ---
-title: Dokument avatakse kirjutuskaitstud režiimis
+title: Dokumendi avamine kirjutuskaitstuna
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
-ms.translationtype: HT
+ms.openlocfilehash: f286aff794325b82679e59cd152189dc65b23e4d3c06b0b3da65851cd767bbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030349"
 ---
-# <a name="documents-opening-in-read-only"></a>Dokumendid avatakse kirjutuskaitstud režiimis
+# <a name="documents-opening-in-read-only"></a>Dokumentide avamine kirjutuskaitstuna
 
-Vahel võib juhtuda, et avatavad failid on kirjutuskaitstud. Mõnel juhul on see funktsioon lisatud turbekaalutlustel, näiteks kui avate Internetist pärinevaid faile. Vahel aga on faili kirjutuskaitstuks muutnud säte, mida saate ise muuta.
+Võimalik, et leiate, et avatav fail on kirjutuskaitstud. Mõnel juhul on see tingimus lisatud turbeks (nt failide avamisel Internetist) ja muudel aegadel võib see tingimus olla tingitud sättest, mida saab muuta.
 
-- [SharePointi failid avanevad kirjutuskaitstuna](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint failide avamine kirjutuskaitstuna](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Kui klient arvab, et põhjus on milleski muus, mitte näiteks artiklis [SharePointi failid avanevad kirjutuskaitstuna](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out) toodud stsenaariumides (turvalisust toetav mehhanism või muutmata jäänud säte), leiate siit muud levinumad lahendused dokumentide avanemisele kirjutuskaitstud režiimis.
+Kui klient on veendunud, et kirjeldatud põhjused (nt turbet suurendav mehhanism või muutmata säte) ei ole [üks SharePoint-failides](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)kirjeldatud kirjutuskaitstud failidest, leiate siit muud levinud lahendused kirjutuskaitstud režiimis avavatele dokumentidele.
 
 - Taaskäivitage arvuti.
-- Installige Office’i värskendused.
-- Kontrollige seadmes viirusetõrjet.
-- Veenduge, et sait oleks Internet Exploreri usaldusväärsete saitide tsoonis.
+- Installige Office värskendused.
+- Kontrollige arvutis viirusetõrjet.
+- Veenduge, et sait oleks Internet Exploreris usaldusväärsete saitide tsoonis.
 - Parandage Office.
-- Tühjendage [Office’i dokumendivahemälu](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Tühjendage [Office dokumendivahemälu](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
 
