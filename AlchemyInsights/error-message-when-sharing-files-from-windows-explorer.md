@@ -1,5 +1,5 @@
 ---
-title: Windows Explorerist failide ühiskasutusse andmisel kuvatakse tõrketeade
+title: Tõrketeade failide ühiskasutusel Windows Exploreris
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030088"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Windows Explorerist failide ühiskasutusse andmisel kuvatakse tõrketeade
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Tõrketeade failide ühiskasutusel Windows Exploreris
 
-Kui proovite Windows Explorerist ühiskasutusse anda, võidakse kuvada järgmine tõrketeade:
+Kui proovite Windows Exploreri kaudu ühiskasutusse anda, võidakse kuvada järgmine tõrketeade:
   
-"Vabandust, me ei saa praegu serveriga ühendust. Palun proovi hiljem uuesti. "
+"Kahjuks ei saa me praegu serveriga ühendust. Proovige hiljem uuesti.
   
-Tõrketeate lahendamiseks **Valige Internet Exploreris** \> **Suvandid Interneti-suvandid** \> , klõpsake vahekaarti **Täpsemalt** ja tühjendage ruut **ära Salvesta krüptitud lehti kettale**.
+Tõrketeate lahendamiseks avage Internet Exploreris Menüü Tööriistad  Interneti-suvandid ja seejärel tühjendage ruut Ära salvesta krüptitud lehti \>  \> **kettale.** 
   
- **Märkus**. Selleks, et säte jõustuks, peate võib-olla brauseri uuesti käivitama. Lisateavet leiate teemast [failide ühiskasutamise korral tõrketeade "praegu ei jõua serverisse kohe"](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Märkus.** Võimalik, et peate sätte jõustumiseks brauseri taaskäivitama. Lisateavet leiate teemast Failide jagamisel kuvatakse tõrketeade "Serveriga praegu ühendust [ei saa".](https://go.microsoft.com/fwlink/?linkid=2022914)
   

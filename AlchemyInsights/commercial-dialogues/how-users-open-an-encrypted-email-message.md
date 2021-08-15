@@ -1,5 +1,5 @@
 ---
-title: Kuidas kasutajad krüptitud meilisõnumid avavad?
+title: Kuidas kasutajad krüptitud meilisõnumi avavad?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: c48c71b9084354bf5a56794795c7653b8d8e5b4c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c376447f5ca87d793d8b96617ac58706f2377e1b640270c9f861c4475b85cf72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979057"
 ---
-# <a name="how-users-open-an-encrypted-email-message"></a>Kuidas kasutajad krüptitud meilisõnumid avavad?
+# <a name="how-users-open-an-encrypted-email-message"></a>Kuidas kasutajad krüptitud meilisõnumi avavad?
 
-Järgnevalt on toodud mõned stsenaariumid, mis kirjeldavad, kuidas krüptitud meilisõnumeid saavad kasutajad avada.
+Järgnevalt on esitatud mõned stsenaariumid, mis kirjeldavad, kuidas krüptitud meilisõnumi saanud kasutajad selle avavad.
 
-- Kui kasutaja kasutab Office 365 meilikontot, saavad nad seda vaadata sarnaselt mis tahes muu sõnumiga.
-- Kui kasutaja kasutab Gmaili, klõpsab ta **teie sõnumi** saatmiseks nuppu siin ja seejärel logib sisse ja klõpsake sõnumi vaatamiseks nuppu **Luba** .
-- Kui kasutaja kasutab Yahoot või mõnda muud Interneti-teenuse pakkujat, klõpsake sõnumi lugemiseks nuppu **Loe sõnumit** või **klõpsake siin**. kuvatakse link ühekordse pääsukoodi saamiseks. Pääsukoodi hankimiseks peate klõpsama linki ja seejärel sisestama pääsukoodi. Siis saavad nad sõnumit vaadata veebibrauseris.
-- Kui kasutajad ei saa krüptitud meilisõnumeid, peavad nad kontrollima **rämpsposti** või **rämpsposti** kausta.
+- Kui kasutaja kasutab Office 365 meilikontot, saab ta seda vaadata nagu mis tahes muud sõnumit.
+- Kui kasutaja kasutab Gmaili, klõpsab ta sõnumi vaatamiseks nuppu Klõpsa siia ja  seejärel logib sisse ja sõnumi kuvamiseks klõpsake nuppu Luba. 
+- Kui kasutaja kasutab Yahoo-d või muud Interneti-teenuse pakkujat, klõpsake sõnumi lugemiseks nuppu Loe sõnumit või Klõpsake siin sõnumi **lugemiseks**;  nad näevad linki, et saada üks kordne pääsukood. Nad peavad pääsukoodi toomiseks linki klõpsama ja seejärel sisestama pääsukoodi. Seejärel saavad nad sõnumit veebibrauseris vaadata.
+- Kui kasutajad ei saa krüptitud meilisõnumeid, peavad nad kontrollima oma **rämpsposti- või** **rämpspostikausta.**
 
-Lisateavet leiate teemast [kaitstud sõnumi avamine](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+Lisateavet leiate teemast [Kaitstud sõnumi avamine.](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)

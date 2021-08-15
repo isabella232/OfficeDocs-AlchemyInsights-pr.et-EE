@@ -1,5 +1,5 @@
 ---
-title: Teave karantiinis olevate sõnumite vaatamise kohta
+title: Teave karantiinis sõnumite vaatamise kohta
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1027243d90562a9ad7389400b206a6d29845f71a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fb3c7afafab80f5f1801f30d6a1d16a7a8ea2ce5a268369cbfb41787e7a2cbc4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978913"
 ---
-# <a name="info-about-viewing-quarantined-messages"></a>Teave karantiinis olevate sõnumite vaatamise kohta
+# <a name="info-about-viewing-quarantined-messages"></a>Teave karantiinis sõnumite vaatamise kohta
 
-Organisatsiooni kõigi karantiini pandud sõnumite vaatamiseks kasutage Microsoft 365 halduskeskus. Siin on mõned näpunäited.
+Kõigi ettevõtte karantiini pandud sõnumite vaatamiseks kasutage Microsoft 365 halduskeskus. Siin on mõned näpunäited.
 
-- Teie postkastile saadetud karantiinis olevate sõnumite puhul ei saa iga päev või iganädalane aruanne olla.
-- Saate siiski häälestada Microsoft 365, et saata oma kasutajatele Digest, mille kohta nende meilisõnumid on karantiinis.
-- Rämpsposti, hulgi-ja andmepüügiga sõnumid paigutatakse vaikimisi 15 päevaks karantiini. Meilivoo reeglile vastavad sõnumid on karantiinis 7 päeva jooksul (seda ei saa kohandada). Kui Microsoft 365 kustutab karantiinist sõnumi, ei saa te seda enam tagasi.
+- Postkasti saadetud karantiini pandud sõnumite kohta ei saa saata päeva- ega nädalaaruannet.
+- Saate siiski häälestada Microsoft 365, et saata kasutajatele seedimismasin selle kohta, millised nende meilisõnumid on karantiinis.
+- Vaikimisi pannakse rämpsposti-, hulgi- ja andmepüügisõnumid karantiini 15 päevaks. Meilisõnumid, mis vastavad meilivoo reeglile, pannakse karantiini 7 päevaks (seda ei saa kohandada). Kui Microsoft 365 kustutab sõnumi karantiinist, ei saa te seda tagasi.

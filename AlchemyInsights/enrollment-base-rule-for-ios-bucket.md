@@ -1,5 +1,5 @@
 ---
-title: Liitumise baasi reegel iOS-i ämbri jaoks
+title: Registreerimise alusreegel iOS-i salve jaoks
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030052"
 ---
-# <a name="intune-device-enrollment"></a>Seadme liitumise Intune
+# <a name="intune-device-enrollment"></a>Intune'i seadme registreerimine
 
-[Teave seadme liitumise kohta Intune ' iga](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Teave intune'i seadmega liitumise kohta](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[IOS-i seadme liitumise häälestamine Intune ' i abil](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[iOS-i seadme registreerimise häälestamine Intune'i abil](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Androidi seadme liitumise häälestamine Intune ' i abil](https://docs.microsoft.com/intune/android-enroll)
+[Androidi seadme registreerimise häälestamine Intune'i abil](https://docs.microsoft.com/intune/android-enroll)
 
-[Windowsi seadmesse liitumise häälestamine Intune ' i abil](https://docs.microsoft.com/intune/windows-enroll)
+[Seadme Windows registreerimine Intune'iga](https://docs.microsoft.com/intune/windows-enroll)
 
-Seadme liitumise tõrkeotsing
+Seadme registreerimise tõrkeotsing
 
-1. Saate kasutada [Intune tõrkeotsingu portaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   levinud liitumise tõrgete diagnoosimiseks ja lahendamiseks. Lisateabe saamiseks vaadake [seda dokumenti](https://docs.microsoft.com/intune/help-desk-operators) üle.
+1. [Levinumate registreerimistõrgete](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnoosimiseks ja lahendamiseks kasutage Intune'i tõrkeotsinguportaali. Lisateavet [leiate sellest](https://docs.microsoft.com/intune/help-desk-operators) dokumendist.
 
-2. Tutvuge nende dokumentidega, mis on seotud registreerimise ja eraldusvõimet takistavate levinud tõrgete loendiga.
-    - [Veaotsingu juhend](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Dokumendi tõrkeotsing](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
+2. Vaadake need dokumendid üle, et saada loend levinumatest vigadest, mis takistavad registreerimist ja lahendamist.
+    - [Tõrkeotsingu juhend](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
+    - [Doc'i tõrkeotsing](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

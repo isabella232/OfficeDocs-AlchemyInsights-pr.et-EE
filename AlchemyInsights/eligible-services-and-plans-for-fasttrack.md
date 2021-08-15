@@ -1,5 +1,5 @@
 ---
-title: FastTrack abikõlblikud teenused ja lepingud
+title: FastTracki jaoks sobilikke teenuseid ja plaane
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030232"
 ---
-# <a name="eligible-services-and-plans-for-fasttrack"></a>FastTrack abikõlblikud teenused ja lepingud
+# <a name="eligible-services-and-plans-for-fasttrack"></a>FastTracki jaoks sobilikke teenuseid ja plaane
 
-Office 365 FastTrack Centeri eeliste korral töötate FastTrack spetsialistide kaudu ilma lisatasuta – Office 365 keskkonna kasutamiseks valmis. FastTrack spetsialistid saavad teid aidata, kui ostate vähemalt 150 litsentsi.
+FastTracki keskuse Office 365 saate fasttracki spetsialistidega ilma lisatasuta töötada, et Office 365 kasutusvalmis. FastTracki spetsialistid saavad teid aidata, kui ostate vähemalt 150 litsentsi.
 
-FastTrack portaali kaudu abi saamiseks logige sisse [FastTrack portaali](https://go.microsoft.com/fwlink/?linkid=2125443) ja järgige juhiseid, et täita **abi taotlus Microsoft 365** formiga.
+FastTracki portaali kaudu abi saamiseks logige [FastTracki](https://go.microsoft.com/fwlink/?linkid=2125443) portaali sisse ja täitke juhised, et täita **Microsoft 365.**
 
 > [!NOTE]
-> Kui teil on probleeme sisselogimisega või vajate täiendavat abi, saatke meilisõnum aadressile [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+> Kui teil on sisselogimisega probleeme või vajate täiendavat abi, saatke meilisõnum ftcrfa@microsoft.com [.](mailto:ftcrfa@microsoft.com)
 
-Erinevate tööstusharude jaoks on olemas erinevad FastTrack, mis on pärit ettevõtte ettevõtetest haridusasutustele.
+FastTracki tingimustele vastavad plaanid on saadaval mitmesugustes tööstusharudes alates ettevõtetest kuni haridusasutusteni.
 
-Lisateavet leiate teemast [abikõlblikud Microsoft 365 lepingud](https://go.microsoft.com/fwlink/?linkid=2125459).
+Lisateavet leiate teemast Microsoft 365 [lepingud.](https://go.microsoft.com/fwlink/?linkid=2125459)
 
-Teenuse kõlblike teenuste valik on Exchange Online ' ist Microsoft Teamsi, Microsoft 365 ja Windows 10.
+Saadaval on valik kõlblikke teenuseid alates Exchange Online Microsoft Teams, Microsoft 365 ja Windows 10.
 
-Kõlblike teenuste täieliku loendi leiate teemast [abikõlblikud teenused](https://go.microsoft.com/fwlink/?linkid=2125636).
+Tingimustele vastavate teenuste täieliku loendi leiate teemast Tingimustele [vastavad teenused.](https://go.microsoft.com/fwlink/?linkid=2125636)

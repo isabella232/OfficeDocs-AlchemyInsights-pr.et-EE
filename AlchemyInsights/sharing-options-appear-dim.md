@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 217c18ddaf12d688f61f030f4c650183aa1e2a2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a337e958ad140e15cd669441d771a2f50964069a43ec18bd537f0a105ae60b6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022348"
 ---
 # <a name="sharing-options-appear-dim-or-are-not-available"></a>Ühiskasutussuvandid kuvatakse tuhmina või pole saadaval
 
-Kui sharePoint Online'is või OneDrive'is ühiskasutusse anda üritades on mõned ühiskasutussuvandid saadaval või pole saadaval, lugege teemat Ühiskasutussuvandid on SharePoint Online'is või OneDrive'is ühiskasutuse [korral tuhmid.](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+Kui mõni ühiskasutussuvandeid pole SharePoint Online'is või OneDrive'is ühiskasutusse anda, lugege teemat Ühiskasutuse suvandid on [SharePoint Online'is](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)või OneDrive.

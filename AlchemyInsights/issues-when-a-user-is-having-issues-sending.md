@@ -1,5 +1,5 @@
 ---
-title: 322 probleemid, kui kasutajal on probleeme saatmisega
+title: 322 Probleemid, kui kasutajal on probleeme saatmisega
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
@@ -12,13 +12,13 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: e32347b4ad49b05ee34e21482f3e7d491290ad6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b51593d9d288dd6cdcdf39c0788e378a24197b8cd9f8780759af6d7462843a75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001268"
 ---
 # <a name="a-user-is-having-issues-sending-email-messages"></a>Kasutajal on probleeme meilisõnumite saatmisega
 
-Näib, et teil on meilivoo probleem. Meil on diagnostika, mis aitab tuvastada paljusid levinud meilivoo probleeme. Klõpsake allpool nuppu **Käivita diagnostika** .
+Näib, et teil on meilivooga seotud probleem. Meil on diagnostika, mis aitab tuvastada palju levinumaid meilivooga seotud probleeme. Klõpsake **allpool nuppu Käivita diagnostika.**

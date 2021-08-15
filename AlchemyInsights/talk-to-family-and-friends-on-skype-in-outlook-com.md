@@ -1,5 +1,5 @@
 ---
-title: 8000049 räägi pere ja sõpradega Skype ' is Outlook.com
+title: 8000049.com-is pere ja sõpradega Skype Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f1f7e8d0aa59fa3951ae9b3b974a42935976dbff1fbeda7d58fcc52bb39de98a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956727"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Räägi Skype ' is Outlook.com pere ja sõpradega
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Pere ja sõpradega Skype Outlook.com
 
-Outlook.com kliendid saavad rääkida sõprade ja pereliikmetega Skype ' i vestluse, hääle ja video funktsioonidega. Kui [ühendate oma Microsofti ja Skype ' i kontod](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), pääsete automaatselt juurde Skype ' i veebirakenduses Outlook.com.
+Outlook.com-i kliendid saavad sõpradega ja perega vestelda vestlus-, kõne- ja videofunktsiooniga Skype. Microsofti [ja Skype kontode](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)ühendamisel on teil Skype.com-is automaatselt Outlook.
   
-Uuri lähemalt, kuidas [rääkida pere ja sõpradega Skype ' is Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Lugege lisateavet selle kohta, kuidas [pere ja sõpradega Skype Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409)
   
 

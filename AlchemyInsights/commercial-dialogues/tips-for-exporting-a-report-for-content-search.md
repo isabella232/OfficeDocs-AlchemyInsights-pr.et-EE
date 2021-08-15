@@ -1,5 +1,5 @@
 ---
-title: Näpunäited, kuidas eksportida teatist sisu otsimiseks
+title: Näpunäited sisuotsingu aruande eksportimiseks
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978877"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Näpunäited, kuidas eksportida teatist sisu otsimiseks
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Näpunäited sisuotsingu aruande eksportimiseks
 
-Võimalik, et peate kuvama otsingutulemite eksportimise asemel otsingutulemite ettekande. Sellisel juhul saate eksportida ainult otsingutulemite aruandeid. Siin on mõned näpunäited.
+Võimalik, et peate täieliku otsingutulemite eksportimise asemel kuvama sisuotsingu aruande. Sel juhul saate eksportida ainult otsingutulemite aruande. Siin on mõned näpunäited.
 
-- Veenduge, et teie kontole määratakse vastavuse otsingu juhtimise roll.
-- Veenduge, et teie arvuti on täitnud kõik [eeltingimused](https://go.microsoft.com/fwlink/?linkid=2102407). Kõiki brausereid ei toetata (nt Chrome).
-- Eksportimise tulemuste kitsendamine vähem kui 20TB, nii et eksportimine nurjub. Proovige kasutada väiksemat kuupäevavahemiku või vähemal hulgal otsingu kohti.
-- Aruande eksportimisel arvestatakse korraga korraga käivitatavate aruannete maksimumarvu.
+- Veenduge, et teie kontole oleks määratud vastavusotsingu haldusroll.
+- Veenduge, et teie arvuti oleks täidetud [kõigi eeltingimustega.](https://go.microsoft.com/fwlink/?linkid=2102407) Kõiki brausereid (nt Chrome) ei toetata.
+- Vähendage eksporditulemeid vähem kui 20 TB-ni, et eksport ei nurjuks. Proovige kasutada väiksemat kuupäevavahemikku või vähem otsingukohti.
+- Aruande eksportimine loendab korraga käivituda võiva suurima arvu aruandeid.
 
-Lisateavet leiate teemast [sisu otsimise aruannete eksportimine](https://go.microsoft.com/fwlink/?linkid=2102409)
+Lisateavet leiate teemast [Sisuotsingu aruande eksportimine](https://go.microsoft.com/fwlink/?linkid=2102409)

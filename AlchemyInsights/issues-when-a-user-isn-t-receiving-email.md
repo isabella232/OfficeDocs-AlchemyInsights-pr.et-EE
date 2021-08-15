@@ -1,5 +1,5 @@
 ---
-title: 321 probleemid, kui kasutaja ei saa meilisõnumeid vastu võtta
+title: 321 Probleemid, kui kasutaja ei saa meilisõnumeid
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 321
 ms.assetid: 2a1f6f67-d69f-4cbf-b0f2-5f10998b5ba1
-ms.openlocfilehash: b0534c8eef97c1e2ba3a92a243b089905a395fd4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d54c945b71eead1d05f30aa90c84bab87cec162bcffeec836471b5a25c5055e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001360"
 ---
-# <a name="a-user-isnt-receiving-email-messages"></a>Kasutaja ei saa meilisõnumeid vastu võtta
+# <a name="a-user-isnt-receiving-email-messages"></a>Kasutaja ei saa meilisõnumeid
 
-Näib, et teil on meilivoo probleem. Meil on diagnostika, mis aitab tuvastada paljusid levinud meilivoo probleeme. Klõpsake allpool nuppu **Käivita diagnostika** .
+Näib, et teil on meilivooga seotud probleem. Meil on diagnostika, mis aitab tuvastada palju levinumaid meilivooga seotud probleeme. Klõpsake **allpool nuppu Käivita diagnostika.**
  
