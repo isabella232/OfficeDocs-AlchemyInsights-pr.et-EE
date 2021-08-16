@@ -1,5 +1,5 @@
 ---
-title: Kliendi autentimise serdi juurutamise tõrkeotsing
+title: Kliendiautentimise serdi juurutamise tõrkeotsing
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78520b416a72a3c93a3d2e7726948d59f83e681d4f09078c2a3cefac7bf1db3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020800"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Kliendi autentimise serdi juurutamise tõrkeotsing
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Kliendiautentimise serdi juurutamise tõrkeotsing
 
-Intune ' i NDES/SCEP ja PKCS/PFX-i kliendi sertide profiile kasutatakse tavaliselt koos muude profiilidega (nt WiFi, VPN ja meiliaadress), et kasutajad saaksid autentida ettevõtte ressursse. Kui need profiili tüübid on lingitud kliendi serdi profiiliga, sõltub selle profiili edukas rakendamine.
+Intune'i NDES-i/SCEP-i ja PKCS-i/PFX-i kliendisertide profiile kasutatakse tavaliselt koos muude profiilitüüpidega (nt Wifi, VPN ja meil), et võimaldada kasutajatel ettevõtte ressurssidega autentida. Kui need profiilitüübid on lingitud kliendi sertimisprofiiliga, sõltub see profiili edukast juurutamisest.
 
-Kliendi serdi profiili algse infrastruktuuri häälestus ja seotud konfiguratsioon nõuavad sageli tõrkeotsingut. Üksikasjalikud juhised NDES konnektori edukaks häälestamiseks ja tõrkeotsingu juhised serdi juurutusega seotud probleemide isoleerimiseks leiate järgmistest teemadest. 
+Esialgne taristu häälestamine ja sellega seotud kliendiserdi profiili konfiguratsioon nõuavad sageli tõrkeotsingut. Juhised NDES-konnektori eduka häälestamise ja tõrkeotsingujuhiste kohta serdijuurutusega seotud probleemide lahendamiseks leiate järgmisest teemast. 
 
-- [Konfigureeri infrastruktuur, et toetada SCEP Intune ' i abil](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Microsoft Intune ' i SCEP serdi profiilide tõrkeotsingu ülevaade](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Intune'i abil SCEP-i toe konfigureerimine](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [Scep-serdiprofiilide tõrkeotsingu ülevaade Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-Kasutage konfiguratsiooni kinnitamiseks viidatud PowerShelli skripte. Lisateavet leiate artiklist [Intune ' i serdi konnektori kinnitamise skriptid](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+Kasutage konfiguratsiooni kinnitamiseks viidatud powerShelli skripte. Lisateavet leiate teemast [Intune'i serdi konnektori kinnitusskriptid.](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority)
 
   
-**Muud levinud probleemid**
+**Muud levinumad probleemid**
 
-**Kui proovin installida Intune ' i serdi konnektori NDES konnektori serverisse, kuvatakse teade "serdi taotluses olevat parooli ei saa kontrollida. Võimalik, et seda on juba kasutatud. Hankige selle päringuga esitamiseks uus parool. "**  
+**Kui proovite installida Intune'i serdi konnektorit NDES-konnektoriserverisse, kuvatakse teade "Serditaotluse parooli ei saa kontrollida. Võimalik, et seda on juba kasutatud. Hankige selle taotlusega esitamiseks uus parool."**  
 
-See sõnum tähendab, et peate käivitama serdi konnektori installi administraatorina.
+See teade tähendab, et peate käivitama serdi konnektori installimise administraatorina.
 
-Mõnes keskkonnas peavad Intune ' i serdiga serverid kasutama Intune ' iga ühenduse loomiseks puhverserverit ja seega peab serdi konnektor kasutama puhverserverit. Mõnel juhul ignoreerib NDES konnektor konfigureeritud puhverserveri sätteid ja võib olla vajalik puhverserveri sätete konfigureerimine LocalSystem turbe kontekstis. 
+Mõnes keskkonnas peavad Intune'iga ühenduse loomiseks kasutama puhverserverit serverid, kus Intune'i sert töötab, ja seega peab serdi konnektor kasutama puhverserverit. Mõnel juhul eirab NDES-konnektor konfigureeritud puhverserveri sätteid ja võib-olla on vaja konfigureerida puhverserveri sätted localSystemi turbekontekstis. 
  
-Lahenduseks on Internet Exploreri käivitamine SÜSTEEMIna ja puhverserveri konfigureerimine IE-s. Pärast Intune Connector Service ' i taaskäivitamist loob NDES konnektor Intune ' i.
+Lahendus on käivitada Internet Explorer süsteemina ja konfigureerida puhverserveri IE-s. Pärast Intune'i konnektoriteenuse taaskäivitamist loob NDES-konnektor ühenduse Intune'iga.
 
-**NDES ei saa kasutaja seadmeid enam SCEP sertidest.**
+**Kasutajaseadmed ei saa enam SCEP-serte NDES-ilt.**
 
-On võimalik, et NDES serverile väljastatud kliendi autentimine, mis on määratud NDES konnektori installimisel, on aegunud või on puudu. Lahendamiseks tehke järgmist. 
+On võimalik, et NDES-serverile välja antud ja NDES-i konnektori installimisel määratud kliendiautentimise sert on aegunud või puudub. Probleemi lahendamiseks: 
  
-1. Desinstallige NDES konnektor.  
-2. Kasutage järgmisi andmeid uue kliendi autentimise või serveri autentimise serdi taotlemiseks. 
+1. Desinstallige NDES-konnektor.  
+2. Nende üksikasjade abil saate taotleda uut kliendiautentimist või serveri autentimiserti. 
  
-    - Teema nimi: CN = väline FQDN  
-    - Teema alternatiivne nimi (mõlemad on nõutavad): DNS = väline FQDN, DNS = sisemine FQDN 
+    - Teema nimi: CN=external fqdn  
+    - Teema alternatiivne nimi (mõlemad on nõutavad): DNS=external fqdn, DNS=internal fqdn 
  
-3. Installige NDES konnektor uuesti uue serdiga.
+3. Installige NDES-konnektor uue serdiga uuesti.

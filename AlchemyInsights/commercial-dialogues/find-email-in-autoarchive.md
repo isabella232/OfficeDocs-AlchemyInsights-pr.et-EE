@@ -1,5 +1,5 @@
 ---
-title: Meili otsimine automaatarhivaari kaudu
+title: Meilisõnumite saatmine automaatarhivaaris
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: ce969ca2d3e07d6b7548cf7a553e8b5bee4799be
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a6a6a311708fc23a63656f5b8ccf572e30bc13dab1728bc3be48ad36aeb35077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017272"
 ---
-# <a name="find-email-in-autoarchive"></a>Meili otsimine automaatarhivaari kaudu
+# <a name="find-email-in-autoarchive"></a>Meilisõnumite saatmine automaatarhivaaris
 
-Arhiivi fail on Outlooki andmefaili (. pst) tüüp. Automaatarhivaari esmakordsel käivitamisel luuakse arhiivifaili automaatselt: C:\Users\YourUserName\Documents\Outlook Files\archive.pst.
+Arhiivifail on teatud tüüpi Outlook andmefail (.pst). Automaatarhivaari esmakordsel käitamisel luuakse arhiivifail automaatselt kaustas C:\Kasutajad\Teiekasutajanimi\Dokumendid\Outlook Failid\archive.pst.
 
-Automaatarhivaari kuvamiseks tehke järgmist.
+Automaatarhivaari vaatamiseks:
 
-1. Valige Outlookis menüü **failid** > **Ava**  >  **Outlooki andmefail**.
-2. Sirvige PST-faili asukohta ja avage see. See lisab PST-faili kaustaloendis.
-3. Saate otsida kaustast varasemaid meilisõnumeid.
+1. Klõpsake Outlook menüü Fail **nuppu** > **Ava**  >  **Outlook Andmefail**.
+2. Liikuge sirvides PST-faili asukohani ja avage see. See lisab PST-faili kaustaloendisse.
+3. Saate kaustast otsida varasemaid meilisõnumeid.

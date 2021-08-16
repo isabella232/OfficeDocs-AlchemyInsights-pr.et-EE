@@ -1,5 +1,5 @@
 ---
-title: Meilisõnumite migreerimine G Suite'ist Microsoft 365-sse
+title: Meilisõnumite migreerimine G Suite'i Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 2940a9667a52b50a502497b716480c50fa3850ba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8ac14dd4bf73f69ab340ceb7ae1dbeeb7c8b8c021d4a3a53151ab8c62eb268f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066001"
 ---
-# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>Meilisõnumite migreerimine G Suite'ist Microsoft 365-sse
+# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>Meilisõnumite migreerimine G Suite'i Microsoft 365
 
-Meilisõnumite migreerimiseks G Suite'ist Microsoft 365-sse kasutage meie migreerimistööriistu meilisõnumite, kalendri ja kontaktide migreerimiseks: [G Suite'i migreerimine.](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
+Meilisõnumite migreerimiseks G Suite'Microsoft 365 migreerimiseks kasutage meie migreerimistööriistu meilisõnumite, kalendri ja kontaktide migreerimiseks: [G Suite'i migreerimine.](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
   

@@ -1,5 +1,5 @@
 ---
-title: Rakenduste väljatöötamise probleemid
+title: Rakenduste arendamisega seotud probleemid
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,49 +13,49 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 065ff6d965063e44c4d1771821985058c9d020fbbabb0d381f30b6a11132c4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013420"
 ---
-# <a name="issues-developing-applications"></a>Rakenduste väljatöötamise probleemid
+# <a name="issues-developing-applications"></a>Rakenduste arendamisega seotud probleemid
 
-Azure Active Directory (AD) rakenduste loomisel kõige levinumate probleemide tõrkeotsinguks lugege järgmisi artikleid.
+Levinumate probleemide tõrkeotsinguks Azure Active Directory (AD) rakenduste loomiseks lugege järgmisi artikleid.
 
-- [Näen probleeme ainult Chrome ' i brauseri kaudu sisselogimisel rakendusse (desse)](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
-- [Ma ei tea, kuidas muuta rakenduse turbelubade kasutuse vaikesätteid](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
-- [Olen segaduses selle pärast, kuidas rakenduse nõusolek töötab](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
-- [Ma ei tea, kuidas oma rakendusele lube anda](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
-- [Ma ei saa aru delegeeritud ja rakenduse kasutusõiguste erinevusest](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
+- [Mul on probleeme ainult Chrome'i brauseri abil rakendusse (rakendustesse) sisselogimisega](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
+- [Ma ei tea, kuidas muuta rakenduse lubade kasutusaja vaikesätet](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
+- [Olen segaduses selle pärast, kuidas rakenduse nõusolek toimib](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
+- [Ma ei tea, kuidas anda oma rakendusele õigusi](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
+- [Ma ei mõista delegeeritud õiguste ja rakenduseõiguste erinevust](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***Azure Active Directory autentimise teegi (ADAL) ja AZURE ad Graph API (AAD Graph) _ toe lõppemine**
+***Autentimisteegi (ADAL) Azure Active Directory Azure AD Graph API (AAD Graph) tugi***
 
-- Alates 30 juunist 2020 ei lisa me enam Azure Active Directory autentimise teeki (ADAL) ja Azure AD Graph API-d (AAD Graph) uusi funktsioone. Jätkame tehnilise toe ja turvavärskenduste esitamist, kuid ei paku enam funktsioonide värskendusi.
+- Alates 30. juunist 2020 ei lisa me enam uusi funktsioone Azure Active Directory autentimisteeki (ADAL) ja Azure AD Graphi API-sse (AAD Graphi). Pakume endiselt tehnilist tuge ja turbevärskendusi, ent mitte enam funktsioonivärskendusi.
 
-- Alates 30 juunist 2022, lõpetame ADAL ja AAD graafiku toe ning ei paku enam tehnilist tuge ega turvavärskendusi. Selle tingimuse tulemusena on järgmised tagajärjed.
+- Alates 30. juunist 2022 lõpetame ADAL-i ja AAD Graphi tootetoe ega paku enam tehnilist tuge ega turbevärskendusi. Selle tingimuse tõttu on järgmised tagajärjed.
 
-    - Rakendused, mis kasutavad ADAL olemasolevatel OPERATSIOONISÜSTEEMI versioonidel, jätkavad tööd ka pärast seda, kuid ei saa tehnilist tuge ega turvavärskendusi.
+    - Olemasolevates opsüsteemiversioonides ADAL-i kasutavad rakendused töötavad edasi ka pärast seda, ent ei saa enam tehnilist tuge ega turbevärskendusi.
 
-    - Rakendused, mis kasutavad AAD Graph ' i, ei pruugi enam saada vastuseid AAD Graph Endpoint
+    - Rakendused, mis kasutavad AAD Graph i pärast seda aega, ei pruugi enam AAD-Graph vastuseid
 
-_ *ADAL migreerimine**
+**ADAL-migreerimine**
 
-Kui kasutate Microsofti rakendusi, soovitame värskendada Microsoft Authenticationi teeki (MSAL), kus on uusimad funktsioonid ja turvavärskendused. See soovitus on Microsofti kontekstis, mille käigus alustatakse selle rakenduste migreerimist MSAL lõpptähtpäeva järgi. 
+Kui kasutate Microsofti rakendusi, soovitame üle võtta Microsofti autentimisteegi (MSAL), mis sisaldab uusimaid funktsioone ja turbevärskendusi. See soovitus on Seotud Microsoftiga, kes algatab oma rakenduste MSAL-i migreerimise toe lõpu tähtajaks. 
 
-Microsoft oma rakenduste migreerimine MSAL tagab, et rakendused saavad kasu MSAL pidevast turbest ja funktsioonide täiustustest.
+Microsofti rakenduste migreerimine MSAL-i tagab, et rakendused saavad msal-i turbe- ja funktsioonitäiustustest kasu.
 
-1. [Lugege ADAL KKK-sid](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-2. [Vaadake, kuidas rakendusi ühe platvormi põhjal migreerida](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-3. Kui vajate abi selle mõistmisel, mida teie rakendused kasutavad ADAL, soovitame teil kõigi rakenduste lähtekoodi üle vaadata ja vajaduse korral jõuda kõigi sõltumatute tarkvara tarnijate (tarkvaratoode) või rakenduste pakkujatega. Microsofti tugiteenused võivad anda teile ka kõigi teie rentniku jaoks mitte-Microsofti ADAL rakenduste loendi.
+1. [Lugege ADAL-i KKK-d.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+2. [Lugege lisateavet rakenduste platvormipõhise migreerimise kohta.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+3. Kui vajate abi selle mõistmisel, milline teie rakendus ADAL-i kasutab, soovitame teil läbi vaadata kõik rakenduste lähtekoodid ja vajaduse korral ühendust võtta mis tahes sõltumatu tarkvara tarnija (ISV) või rakendusepakkujaga. Samuti saab Microsofti tugi anda teile nimekirja kõigist neist mitte-Microsofti rakendustest teie rentnikkeskkonnas, mis kasutavad ADAL-i.
 
 **AAD Graphi migreerimine**
 
-Kui teil on rakenduses AAD Graph kasutatavaid rakendusi, järgige meie juhiseid AAD Graph ' i rakenduste migreerimiseks Microsoft Graphi.
+Rakenduste puhul, mis kasutavad AAD-Graph, järgige meie juhiseid AAD-Graph migreerimiseks Microsofti Graph.
 
-1. [Meie migreerimise kontroll-loend on](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)alustamine. 
-2. Teie Azure ' i rakenduse registreerimise portaal näitab, millised rakendused kasutavad AAD graafikut. Soovitame üle vaadata kõik rakenduste lähtekoodi ja vajaduse korral jõuda iseseisvate tarkvara tarnijate (tarkvaratoode) või rakenduste pakkujatega. Microsofti tugiteenused võivad anda teile teavet ka teie rentniku AAD Graphi kasutamise kohta.
+1. [Meie migreerimise kontroll-loend on hea koht alustamiseks](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+2. Azure‘i rakenduste registreerimisportaalis näete, millised rakendused kasutavad AAD Graphi. Soovitame läbi vaadata kõik rakenduste lähtekoodid ja vajaduse korral ühendust võtta mis tahes sõltumatu tarkvara tarnija (ISV) või rakendusepakkujaga. Microsofti tugiteenuste abil saate teavet ka rentniku Graph kasutamise kohta.
 
 
 

@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e4aa70aa22696bea42516b698d109a0c115d024468d4d8ab070b9c337c3e91fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066216"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>Microsoft Streami litsentsimise ülevaade
 
-Microsoft Stream on pilveteenus, mis on litsentsitud kasutajatellimuse alusel. See on saadaval microsoft 365 tingimustele vastavate tellimuste osana. Iga tellimusetüübi kohta leiate teavet teemast Microsoft 365 hinnad.
+Microsoft Stream on pilveteenus, mis on litsentsitud kasutajatellimuse alusel. See on saadaval Microsoft 365 osana. Iga Microsoft 365 kohta leiate teavet teemast Microsoft 365 hinnad.
 
 - [Microsoft Streami litsentsimise ülevaade](https://docs.microsoft.com/stream/license-overview)
