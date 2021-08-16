@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams – juurdepääs külastajatele
+title: Microsoft Teams - Külalisjuurdepääs
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012304"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft Teams – juurdepääs külastajatele
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Külalisjuurdepääs
 
-Kui vajate abi kasutajate suhtlemisel väljaspool asutust töörühmades, peate otsustama, kas soovite kasutada [Guest Access ' i või välise juurdepääsu (Föderatsiooni)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)või kasutada mõlemat.
+Kui vajate abi oma organisatsiooniväliste kasutajatega suhtlemisel Teams, peate otsustama, kas soovite kasutada külalisjuurdepääsu või välisjuurdepääsu [(Föderatsioon)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)või mõlemat.
 
-Vaadake kindlasti üle [erinevused](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , et mõista iga funktsiooni jaoks saadaolevaid funktsioone.  Näiteks võimaldab väline juurdepääs (Föderatsioon) 1:1 suhtlust (nt vestlus ja kohalolek).  Väliskasutajad ei saa siiski osaleda meeskonnatöö koostöös.  Kui soovid, et väline kasutaja liituks ja osaleks Teamsi kanalite vestlustes või jagaks faile, pead sisse lülitama külalise juurdepääsu.
+Vaadake kindlasti [erinevused üle, et](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) mõista iga jaoks saadaolevaid funktsioone.  Näiteks välisjuurdepääs (liitmine) võimaldab 1:1 suhtlust (nt Vestlus ja Võrgusolek).  Liitkasutajad ei saa Teams koostöös osaleda.  Kui soovite, et väline kasutaja liituks ja osaleks Teams kanalivestlustes või ühiskasutusfailides, peate külalisjuurdepääsu sisse lülitama.
 
-**Variant 1: külaliskonto juurdepääsu sisselülitamine** Avage meeskonnatöö administreerimiskeskuses suvand " [organisatsiooni üldsätted" > juurdepääs külastajatele](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) ja lülitage sisse säte "luba külastajatele juurdepääs võistkondadele".  Kõigi muude vaikesätetega rentniku jaoks peaks see olema kõik, mida pead tegema.  Külaliste juurdepääsu konfiguratsiooni kohandamiseks veenduge, et järgite kõiki [Guest Accessi kontrollnimekirja](https://docs.microsoft.com/microsoftteams/guest-access-checklist)juhiseid. Kui olete täiesti valmis, peate sätete jõustumiseks [ootama kuni 24 tundi](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) .
+**1. võimalus: külalisjuurdepääsu sisse lülitumine** Avage Teams Organisatsiooni lai ja külalisjuurdepääs [Sätted >](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) "Luba külalisjuurdepääs Teams".  Kõigi muude vaikesätetega rentniku puhul peaks see olema kõik, mida peate tegema.  Külalisjuurdepääsu konfiguratsiooni kohandamiseks järgige kindlasti kõiki külalisjuurdepääsu [kontroll-loendi juhiseid.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Kui olete täielikult lõpetanud, peate sätete jõustumist ootama kuni [24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) tundi.
 
-Kui olete kindel, et olete täitnud kontroll-loendi kõik toimingud, mida on rohkem kui 24 tundi, jätkake ja proovige [lisada oma meeskonnale külaline](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Kui olete kindel, et olete kõik kontroll-loendis toodud toimingud lõpule viinud ja aega on olnud üle 24 tunni, proovige oma töörühma lisada [külaline.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Lisateavet (sh videote kohta) leiate teemast [Guest Access Microsoft teamsi](https://docs.microsoft.com/microsoftteams/guest-access).
+Lisateavet (sh õppevideote kohta) leiate teemast [Külalisjuurdepääs Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Valik 2: välise juurdepääsu sisselülitamine (Föderatsioon)** Kui soovite ka lülitada sisse välise juurdepääsu (Föderatsiooni), avage meeskonnatöö administreerimiskeskuses [> väline juurdepääs](https://admin.teams.microsoft.com/company-wide-settings/external-communications) ja lülitage sisse suvand "kasutajad saavad Skype ' i ärirakenduse ja teamsi kasutajatega suhelda" ja seejärel järgige kõiki juhiseid, et [meeskonnad saaksid vestelda ja suhelda mõne muu asutuse kasutajatega](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**2. võimalus. Lülitage sisse välisjuurdepääs (Föderatsioon)** Kui soovite sisse lülitada ka välisjuurdepääsu (Föderatsioon), avage Teams halduskeskuses organisatsiooni hõlmav [Sätted > Väline juurdepääs](https://admin.teams.microsoft.com/company-wide-settings/external-communications) ja lülitage sisse "Kasutajad saavad suhelda Skype'i ärirakendus ja Teams kasutajatega", seejärel järgige kõiki juhiseid jaotises Teams kasutajate vestlemine ja suhtlemine teiste organisatsiooni [kasutajatega.](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)

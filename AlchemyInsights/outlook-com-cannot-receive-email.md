@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "9000252"
 - "1842"
-ms.openlocfilehash: b126b7b266bb50c121130872071e7ce2231df547
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd99b54dde2c838e527381a0acff0f62f575fa33d11ef406b005761399b969a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064488"
 ---
 # <a name="unable-to-receive-email"></a>Meilisõnumeid ei saa vastu võtta
 
-Kui teil on probleeme Outlook.com, kontrollige kõigepealt [teenuse olekut](https://go.microsoft.com/fwlink/p/?linkid=837482).
+Kui teil on probleeme Outlook.com-iga, kontrollige esmalt [teenuse olekut.](https://go.microsoft.com/fwlink/p/?linkid=837482)
 
-1. Kontrollige oma **muud** sisendkausta. Teavet fookuses oleva sisendkausta väljalülitamise kohta leiate teemast [fookuses sisendkausta](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2)väljalülitamine. 
-2. Vaadake oma [ **rämpsposti** kausta](https://outlook.live.com/mail/junkemail). Kui teie sisendkaust on täis, ei saa te uusi sõnumeid. Sisendkaustas ruumi tegemiseks proovige kausta Rämpspost tühjendada, kui paremklõpsate käsku **rämpsposti**  >  **kustutamine**.
-3. Kontrollige oma **sisendkausta filtreid**. 
-    1. Filtreerimise kohta leiate sõnumite loendi ülaservast ja valige **Filtreeri**  >  **Kõik**.
-    2. Sortimiseks valige **Filtreeri**  >  **sortimine**  >  **kuupäeva** või **saatja**järgi.
-4. Kontrollige oma [blokeeritud saatjate](https://outlook.live.com/mail/options/mail/junkEmail) ja turvaliste saatjate loendeid.
-5. Kontrollige oma [sisendkausta reegleid](https://outlook.live.com/mail/options/mail/rules).
-6. Võimalik, et teie konto on ajutiselt blokeeritud, sest märkasime mõnda ebatavalist sisselogimise toimingut. Vaadake teemat [minu Outlook.com konto blokeerimine](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Kontrollige **oma muud** sisendkausta. Fookeeritud sisendkausta väljalülitamise kohta leiate teavet teemast [Fookeeritud sisendkausta väljalülitamine.](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2) 
+2. Vaadake kausta [ **Rämpspost.**](https://outlook.live.com/mail/junkemail) Kui teie sisendkaust on täis, ei saa te uusi sõnumeid. Sisendkausta ruumi avamiseks proovige oma rämpspostikausta tühjendada, paremklõpsades käsku **Rämpspost**  >  **Kustuta kõik**.
+3. Kontrollige **sisendkausta filtreid.** 
+    1. Filtreerimiseks minge sõnumiloendi ülaserva ja valige **Filtreeri**  >  **kõik**.
+    2. Sortimiseks valige Filtreeri  >  **sortimine kuupäeva järgi**  >  **või** **Alates**.
+4. Kontrollige [oma blokeeritud saatjaid](https://outlook.live.com/mail/options/mail/junkEmail) ja seif saatjate loendeid.
+5. Kontrollige [sisendkausta reegleid.](https://outlook.live.com/mail/options/mail/rules)
+6. Teie konto võib olla ajutiselt blokeeritud, kuna märkasime ebatavalist sisselogimistegevust. Vaadake [teemat Outlook.com-i konto blokeeringust.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)
 
-Lugege lisateavet selle kohta, kuidas [lahendada Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Lugege lisateavet selle kohta, kuidas [lahendada Outlook.com-i meilisünkroonimise probleeme.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)

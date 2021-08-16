@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987391"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295903"
 ---
-# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>PST-faili importimine Outlook for Windows Outlook for Mac 
+# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>PST-faili importimine opsüsteemist Outlook for Windows Outlook for Mac 
 
 Sõnumite ja muude üksuste edastamiseks Windows-põhisest arvutist Mac-arvutisse saab Outlook for Mac importida Outlook andmefailid (.pst), mis on loodud Outlook jaoks Windows.
 
 **Uuemates versioonides – PST-faili importimine Windows Mac-arvutisse**
 
-1. Valige Outlook for Maci **fail** käsk **Impordi**.
+1. Valige Outlook for **Maci** fail käsk **Impordi**.
 
 2. Valige **Outlook jaoks Windows (.pst) ja** seejärel klõpsake nuppu **Jätka.**
 
@@ -53,8 +53,7 @@ Sõnumite ja muude üksuste edastamiseks Windows-põhisest arvutist Mac-arvutiss
 
    Imporditud üksused kuvatakse navigeerimispaanil jaotises **Minu arvuti**.
 
-> [!NOTE]
-> Outlook for Mac saab importida ainult Unicode'i-põhiseid PST-faile, mis on Outlook (Windows) ja uuemate versioonide erakaustafailide standardvorming. ANSI-vormingus PST-failid ehk Outlook 97–2002 erakaustafailid olid standardne erakaustavorming andmete salvestamiseks Outlook-Windows versioonides 97–2002. Seda failivormingut ei saa mac-arvutisse Outlook importida. Kui teil on ANSI-vormingus PST-faili vanem versioon, pole selle faili uuemaks failivorminguks teisendamiseks automaatset protseduuri. Siiski saate rakenduses Microsoft Outlook Windows 2003 või uuemate versioonide jaoks luua uue Outlook andmefaili (.pst) ja seejärel importida üksused vanemast failist uude faili. Seejärel saate uue PST-faili importida rakendusse Outlook for Mac. PST-failide loomise ja üksuste importimise kohta leiate  lisateavet teemast Outlook Windows.
+**Märkus.** Outlook for Mac saab importida ainult Unicode'i-põhiseid PST-faile, mis on Outlook(for Windows) 2003 ja uuemate versioonide erakaustafailide standardvorming. ANSI-vormingus PST-failid ehk Outlook 97–2002 erakaustafailid olid standardne erakaustavorming andmete salvestamiseks Outlook-Windows versioonides 97–2002. Seda failivormingut ei saa mac-arvutisse Outlook importida. Kui teil on ANSI-vormingus PST-faili vanem versioon, pole selle faili uuemaks failivorminguks teisendamiseks automaatset protseduuri. Siiski saate rakenduses Microsoft Outlook Windows 2003 või uuemate versioonide jaoks luua uue Outlook andmefaili (.pst) ja seejärel importida üksused vanemast failist uude faili. Seejärel saate uue PST-faili importida rakendusse Outlook for Mac. PST-failide loomise ja üksuste importimise kohta leiate  lisateavet teemast Spikrit oma pst-failide Outlook Windows.
 
 **Avage Outlook andmefail (.pst või .olm)**
 
@@ -72,8 +71,7 @@ Saate importida Outlook jaoks Windows andmefaili (.pst) või Outlook mac-andmefa
 
 Imporditud üksused kuvatakse navigeerimispaanil jaotises **Minu arvuti**.
 
-> [!NOTE]
-> Outlook for Mac saab importida ainult Unicode'i-põhiseid PST-faile, mis on Outlook-i (Windows) ja uuemate versioonide erakaustafailide standardvormingus. ANSI-vormingus PST-faile (ehk Outlook 97–2002 erakaustafaile) ei saa importida rakendusse Outlook for Mac. Kui teil on ANSI-vormingus PST-faili vanem versioon, pole selle faili uuemaks failivorminguks teisendamiseks automaatset protseduuri. Siiski saate rakenduses Microsoft Outlook Windows 2003 või uuema versiooni jaoks luua uue Outlook andmefaili (.pst) ja seejärel importida üksused vanemast failist uude faili. Seejärel saate uue PST-faili importida rakendusse Outlook for Mac. PST-failide loomise ja üksuste importimise kohta leiate lisateavet teemast Outlook Windows. 
+**Märkus.** Outlook for Mac saab importida ainult Unicode'i-põhiseid PST-faile, mis on Outlook (for Windows) 2003 ja uuemate versioonide erakaustafailide standardvormingus. ANSI-vormingus PST-faile (ehk Outlook 97–2002 erakaustafaile) ei saa importida rakendusse Outlook for Mac. Kui teil on ANSI-vormingus PST-faili vanem versioon, pole selle faili uuemaks failivorminguks teisendamiseks automaatset protseduuri. Siiski saate rakenduses Microsoft Outlook Windows 2003 või uuema versiooni jaoks luua uue Outlook andmefaili (.pst) ja seejärel importida üksused vanemast failist uude faili. Seejärel saate uue PST-faili importida rakendusse Outlook for Mac. PST-failide loomise ja üksuste importimise kohta leiate lisateavet teemast Spikrit oma pst-failide Outlook Windows. 
 
 **Entourage'i üksuste avamine arhiivist või varasemast versioonist**
 
@@ -83,12 +81,12 @@ Saate importida üksusi (nt meilisõnumeid, kontakte ja sündmusi) rakendusest E
 
 2. Klõpsake **arhiivist või varasemast versioonist nuppu Entourage'i** teave, klõpsake paremnoolt ja järgige juhiseid.
 
-> [!NOTE]
-- Kui kasutasite Microsoft Exchange kontot koos Entourage'iga, laaditakse Exchange konto kõik üksused Exchange serverist alla pärast impordiprotsessi lõpetamist. Kõik kontoga seotud Exchange reeglid või ajakavad tuleb Outlook.
+**Märkus:**
+- Kui kasutasite Microsoft Exchange kontot Entourage'is, laaditakse Exchange-konto kõik üksused Exchange serverist alla pärast impordiprotsessi lõpetamist. Kõik kontoga seotud reeglid Exchange ajakavad tuleb Outlook.
 
-- Kui impordite üksusi teenusest Entourage 2004 või Entourage 2008, ei impordita Exchange konto üksuste kategooriateavet Outlook. Kuid entourage 2008 veebiteenuste väljaandes laaditakse kategooriateave alla Exchange serverist.
+- Kui impordite üksusi teenusest Entourage 2004 või Entourage 2008, ei impordita Exchange konto üksuste kategooriateavet Outlook. Ent entourage 2008 veebiteenuste väljaandes laaditakse kategooriateave alla Exchange serverist.
 
-- Outlook ei sisalda Project Center. Kui kasutasite Entourage'Project centert ja seejärel importisite entourage'i teabe Outlook, teisendatakse Project Centeri seosed kategooriateks. Näiteks kui lisasite entourage'is üksuseid projektile, mis oli pealkirjaga "Uurimistöö paber", määratakse neile üksustele kategooria, mille nimi on "Uurimistöö Outlook.
+- Outlook ei sisalda Project Centeri. Kui kasutasite Entourage'Project centert ja seejärel importisite entourage'i teabe Outlook, teisendatakse Project Centeri seosed kategooriateks. Näiteks kui lisasite üksused projektile, mille pealkiri oli Entourage'is "Uurimistöö raamat", määratakse neile üksustele kategooria, mille nimi on "Uurimistöö" Outlook.
 
 - Entourage'i kohandatud vaateid, otsingusätteid ja sündmuse reisiaja teavet ei impordita Outlook. Outlook ei sisalda reisiajateavet.
 
@@ -100,8 +98,7 @@ Saate importida üksusi (nt meilisõnumeid, kontakte ja sündmusi) rakendusest E
 
 3. Sisestage otsinguväljale teisaldamiseks soovitud kausta nimi ja klõpsake nuppu **Teisalda**.
 
-> [!TIP]
-> Üksuse kopeerimiseks arhiivikaustast teise kausta Outlook lohistage üksus lihtsalt kausta, kuhu soovite koopia panna.
+   **Näpunäide.** Üksuse kopeerimiseks arhiivikaustast teise kausta Outlook lohistage üksus lihtsalt kausta, kuhu soovite koopia panna.
 
 **Vt ka**
 
