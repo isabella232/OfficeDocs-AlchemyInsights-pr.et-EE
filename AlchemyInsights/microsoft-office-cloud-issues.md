@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e80bfd24c319a411493e88c6bac31365c347a2e67f8ecb2dc9ba52fb24fc5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012412"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Kas teil on probleeme pilveteenuse teenusega?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Kas teil on probleeme pilveteenusega?
 
-Kui teil on probleeme pilveteenuse teenusega, saate Microsoft 365 halduskeskus kontrollida [teenuse tervist](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , et teha kindlaks, kas tegemist on teadaoleva probleemiga, mis on poolelioleva eraldusvõimega, enne kui helistate tugiteenusele või veedate aja tõrkeotsingu. Probleem võib olla väga ajutine ja Microsoft on selle juba tuvastanud, kuid probleemi tuvastamise ja teenuse tervise armatuurlauale sisestamise vahel võib aeg-ajalt aeguda. Täiendavate värskenduste saamiseks jätkake teenuse armatuurlaua kontrollimist.
+Kui teil on probleeme pilveteenusega, saate [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) enne tugiteenusele helistamist või tõrkeotsingule helistamist kontrollida teenuse seisundi Microsoft 365 halduskeskus, kas tegemist on teadaoleva probleemiga, mille lahendamine on pooleli. Probleem võib olla väga ajutine ja Microsoft on selle juba tuvastanud, kuid probleemi tuvastamise ja teenuse seisundi armatuurlauale postitamise vahel võib olla ajaline vahe. Jätkake teenuse armatuurlaual edasiste värskenduste otsimist.
 
-**Teatise poliitika**
+**Teatisepoliitika**
 
-Teenuse sündmuse toimumisel tuvastab Microsoft, et õigeaegne, sihitud ja täpne suhtlus on klientide jaoks kriitilise tähtsusega. Microsoft teatab administraatoritele, värskendades rentniku-spetsiifilise [teenuse tervise armatuurlauda (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Microsoft 365 administraatori portaalis. Teenuse juhtumite värskendused on saadaval tundide sagedusega või kui on vaja teistsugust väntamissagedust, märgitakse see SHD teatise sisestamises. Lisateavet leiate teemast [Microsoft 365 teenuse tervise kontrollimine](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Teenusejuhtumi ilmnemisel tuvastab Microsoft, et õigeaegne, sihipärane ja täpne suhtlus on klientide jaoks ülioluline. Microsoft teavitab administraatoreid rentnikupõhise teenuse seisundi armatuurlaua [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) värskendamisest Microsoft 365 haldus. Teenusejuhtumivärskendusi pakutakse tunnitasuna või kui on nõutav teistsugune sagedus, esitatakse see SHD-suhtluse postitamises. Lisateavet leiate teemast [Teenuse seisundi Microsoft 365 kontrollimine.](https://docs.microsoft.com/office365/enterprise/view-service-health)
 

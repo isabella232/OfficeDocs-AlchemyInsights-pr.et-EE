@@ -1,5 +1,5 @@
 ---
-title: Juurdepääs Intune ' i tingimustega
+title: Tingimusjuurdepääs Intune'iga
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c24451fba8b8ab8fe7a1778bb292dec6678e1ef487076d27458c9aeb4963c683
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069708"
 ---
-# <a name="conditional-access-with-intune"></a>Juurdepääs Intune ' i tingimustega
+# <a name="conditional-access-with-intune"></a>Tingimusjuurdepääs Intune'iga
 
-Intune  **' i**  kasutamine Intune ' i abil nõuab kolme toimingut.
+**Tingimusjuurdepääsu** kasutamine Intune'iga nõuab 3 etappi.
 
-- Saate luua  **nõuetele vastavuse poliitika**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)), et määratleda sätted, mis peavad olema täidetud enne, kui seade on nõuetele vastavaks loetud. Näiteks peab seadmel olema vähemalt 6-kohaline PIN-kood, enne kui seda loetakse nõuetele vastavaks.
-- Saate luua **tingimusjuurdepääsu poliitika**  , mis määratleb, milliseid ressursse kaitstakse, ja milliseid tingimusi tuleb nendele ressurssidele juurdepääsuks täita.  [Näiteks](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  peab seade olema ühilduv enne ettevõtte e-postile juurdepääsu.
-- Veenduge, et nii **nõuetele vastavuse poliitikad**  kui ka  **tingimusjuurdepääsu poliitikad**  on suunatud soovitud kasutajate rühmadele. See võib nõuda Azure Active Directorys teatud kasutajate rühmade loomist.
+- Looge **vastavuspoliitika** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) sätete määratlemiseks, mis peavad olema täidetud enne, kui seade loetakse nõuetele vastavaks. Näiteks peab seadmel olema vähemalt 6-kohaline pin-kood, enne kui seda peetakse nõuetele vastavaks.
+- Looge **tingimusjuurdepääsu poliitika,**  mis määratleb, millised ressursid on kaitstud ja millistele tingimustele tuleb nendele ressurssidele juurdepääsemiseks täita.  [Näiteks peab seade](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  enne ettevõtte meilide kasutamist vastama nõuetele.
+- Veenduge, et nii **vastavuspoliitikad** kui ka tingimusjuurdepääsu poliitikad on suunatud soovitud kasutajarühmadele.  See võib nõuda teatud kasutajarühmade loomist Azure Active Directory.
 
 **Kasulikud lingid:**
 
 [Seadme nõuetele vastavuse ülevaade](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Tõrkeotsing CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Ca tõrkeotsing](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Tõrkeotsingu poliitika](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+[Tõrkeotsingupoliitika](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-Meili (Exchange Online) ' i kaitsmiseks lubamatute seadmete kaudu juurdepääsu eest tuleb järgida mõlemat dokumenti.
+Meiliteenuse (Exchange veebiversioon) kaitsmiseks mittepädevate seadmete juurdepääsu eest tuleb järgida mõlemat dokumenti.
 
-1. [E-posti kaitse kasutamine EAS-i kasutavates seadmetes](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Meilikontode kaitsmine seadmete kaudu, mis kasutavad kaasaegseid autentimise kliente (nt Outlook)](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [Meilijuurdepääsu kaitsmine seadmetes EAS-i abil](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [Meilijuurdepääsu kaitsmine seadmetes, kus kasutatakse modernautentimise kliente (Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)

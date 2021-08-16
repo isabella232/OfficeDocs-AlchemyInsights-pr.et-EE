@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graphi REST API viide
+title: Microsoft Graph REST API reference
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447239"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012520"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>Microsoft Graphi REST API viide
+# <a name="microsoft-graph-rest-api-reference"></a>Microsoft Graph REST API viide
 
-V 1.0 lõpp-punkti graafik API-komplektid on üldise kättesaadavuse (GA) olekus ja on läbinud range läbivaatuse ja tagasiside protsessi klientidega, et rahuldada praktilisi, tootmise vajadusi.
+V1.0 Graph API-komplektid on üldiselt saadaval (GA) olekus ja on läbinud range läbivaatus- ja tagasisideprotsessi klientidega, et rahuldada praktilisi tootmisvajadusi.
 
-- Lisateavet Graph API v 1.0 kohta leiate teemast [Microsoft Graph Rest API v 1.0 viide](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Lisateavet graafiku API beetaversiooni kohta leiate teemast [Microsoft Graph beeta lõpp-punkti viide](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Lisateavet api v1.0 Graph kohta leiate teemast [Microsoft Graph REST API v1.0 viide.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true) 
+- Lisateavet api beetaversiooni Graph kohta leiate teemast [Microsoft Graph lõpp-punkti viide.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-Lisateavet Microsoft Graphi kohta leiate teemast [Microsoft Graphi dokumentatsioon](https://docs.microsoft.com/graph/).
+Lisateavet Microsoft Graph kohta leiate teemast [Microsoft Graph dokumentatsioon.](https://docs.microsoft.com/graph/)
 
-Ühtsed ja Premieri kasutajatoe kliendid saavad selle portaali kaudu hankida tugiteenuste piletit. Kui teil pole ühtset või Premieri tuge, pääsete Microsoft Graphi Microsoft Office ' i rakenduses Microsoft Q&A kasutada tasuta arendajate tuge. Palun Postita oma küsimus siia: https://aka.ms/AskGraph
+Selle portaali abil saavad ühtse ja premier-toe kliendid tõsta tugiteenusepileti. Kui teil pole Ühtset või Premier'i tuge, pääsete Microsoft Graph microsofti K ja V&tugiteenustele juurde. Postitage oma küsimus siia: https://aka.ms/AskGraph

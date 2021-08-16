@@ -1,5 +1,5 @@
 ---
-title: Remote Work setup guide
+title: Kaugtöö häälestamise juhend
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023986"
 ---
-# <a name="remote-work-setup-guide"></a>Remote Work setup guide
+# <a name="remote-work-setup-guide"></a>Kaugtöö häälestamise juhend
 
-Üha enam tööd tehakse kaugelt. Teie org peab olema varustatud selleks, et hallata suuremat nõudlust serveri töö järele.
+Palju tööd tehakse eemalt. Teie organisatsioonil peab olema varustus, et hallata suurenenud kaugtöö nõudlust.
 
-Kasutage [Kaugtöölaua töö häälestamise juhendit](https://go.microsoft.com/fwlink/?linkid=2142062) , et lubada olulisi turvaelemente ja vaadata üle turvalisuse tagamise soovitusi. Te saate juhiseid oma VPN-i infrastruktuuri koormuse vähendamiseks ja soovi korral häälestada kaugtöölaua ja rakenduste jaoks kaugjuurdepääsu. Seejärel vaadake üle Microsoft Teamsi ja Office ' i rakenduste juurutamise võimalused.
+Oluliste [turbefunktsioonide lubamiseks ja täiendavate](https://go.microsoft.com/fwlink/?linkid=2142062) turbesoovituste vaatamiseks kasutage kaugtöö häälestamise juhendit. Teile antakse juhiseid VPN-taristu pinge vähendamiseks ning soovi korral saate häälestada kaugjuurdepääsu lauaarvutitele ja rakendustele. Seejärel saate vaadata oma rakenduste juurutamise Microsoft Teams Office.

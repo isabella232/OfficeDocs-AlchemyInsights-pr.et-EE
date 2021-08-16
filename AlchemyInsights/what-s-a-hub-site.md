@@ -1,5 +1,5 @@
 ---
-title: Mis on jaoturi sait?
+title: Mis on keskussaidid?
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d2523832f91c98c452ef1c21586888da236082ff551b3b1a349757b48f6e99d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989803"
 ---
-# <a name="whats-a-hub-site"></a>Mis on jaoturi sait?
+# <a name="whats-a-hub-site"></a>Mis on keskussaidid?
 
-Jaoturi sait aitab teil korraldada saite ja anda neile levinud navigeerimise ja branding. Globaalsed või SharePointi administraatorid saavad luua jaoturi saite ja määrata, millised kasutajad saavad oma saidid jaoturi saidiga seostada. Lisateavet leiate teemast [SharePointi jaoturi saidid](https://go.microsoft.com/fwlink/?linkid=869388).
+Keskussait aitab teil saite korraldada ning anda neile ühise navigeerimise ja kaubamärgi. Üldadministraatorid SharePoint saavad luua keskussaite ja määrata, millised kasutajad saavad oma saidid jaoturisaidiga seostada. Lisateavet leiate teemast SharePoint [jaoturisaidid](https://go.microsoft.com/fwlink/?linkid=869388).
   

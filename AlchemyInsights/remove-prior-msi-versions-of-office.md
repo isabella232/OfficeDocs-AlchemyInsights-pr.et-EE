@@ -1,5 +1,5 @@
 ---
-title: Office ' i eelnevate MSI-versioonide eemaldamine
+title: Varasemate MSI-versioonide eemaldamine Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023770"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>Office ' i eelnevate MSI-versioonide eemaldamine
+# <a name="remove-prior-msi-versions-of-office"></a>Varasemate MSI-versioonide eemaldamine Office
 
-Soovitame enne Office 365 ProPlus installimist eemaldada Office ' i varasemad Windows Installeri (MSI) versioonid. Selleks tehke järgmist.
+Enne Windows installimist soovitame Office installeri (MSI) Office 365 ProPlus. Selleks tehke nii.
 
-1. Kui kasutasite Office ' i installimiseks MSI-d, saate Office ' i juurutamise tööriista (ODT) kasutada Office ' i desinstallimiseks. RemoveMSI elementi saate kasutada **configuration.xml** failis.
-1. Järgige selle artikli juhiseid: [Office 365 turbe & nõuetele vastavuse keskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Kui kasutasite MSI-d Office installimiseks, saate Office (ODT) abil Office. Saate oma failis kasutada elementi RemoveMSI **configuration.xml.**
+1. Järgige selles artiklis esitatud juhiseid: [Office 365 turbe- & vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
