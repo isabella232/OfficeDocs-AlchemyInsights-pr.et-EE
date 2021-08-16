@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teamsi koos režiim
+title: Microsoft Teams Koos režiim
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799848"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012232"
 ---
-# <a name="microsoft-teams-together-mode"></a>Microsoft Teamsi koos režiim
+# <a name="microsoft-teams-together-mode"></a>Microsoft Teams Koos režiim
 
-Üheskoos režiim ühendab aastakümneid uurimistöö ja tootearenduse osalejaid, kes on koos virtuaalses ruumis (nt auditoorium, Koosolekuruum või kohvik). 
+Koos režiim ühendab kümneid uurimis- ja tootearendusi, et videokõnes osalejad näivad virtuaalses ruumis (nt auditooriumis, koosolekuruumis või kohvikus) koos. 
 
-Uues funktsioonis on ära toodud traditsioonilised ruudustikud, mis loovad keskkonna, kus kasutajad ütlevad, et on avaldanud mõju video konverentsile ning annab rühmale suurema ühtekuuluvuse. Lisateavet koos režiimide kohta leiate teemast [Kuidas hankida üheskoos režiim](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Uus funktsioon kraavib traditsioonilise ruudustiku, luues keskkonna, mida kasutajad ütlevad, mõjutab oluliselt videokonverentsi ja pakub rühmale rohkem ühtsust. Lisateavet koosrežiimi kohta leiate teemast Kuidas kasutada koos [režiimi kõige tõhusamalt.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496)  
 
-Lisateavet selle kohta, millal koos on teie asutuse jaoks saadaval režiim, leiate teemast Microsoft 365 ' i teejuht, [Microsoft teamsi koos režiim](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+Lisateavet selle kohta, millal koos režiim on teie ettevõtte jaoks saadaval, leiate teemast Microsoft 365 Teejuht, [Microsoft Teams – koos režiim](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

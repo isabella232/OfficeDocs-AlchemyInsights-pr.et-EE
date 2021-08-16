@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049340"
 ---
 # <a name="teams-admin-center"></a>Teamsi halduskeskus
 
@@ -32,5 +32,5 @@ Kui kasutajad ei ilmu Teamsi halduskeskuses, kontrollige järgnevat.
 
 - Kas olete kasutajad loonud või määranud itsentsid viimase 24 tunni jooksul? Veenduge, et ootaksite vähemalt 24 tundi enne tugiteenusetaotluse avamist.
 - Veenduge, kas olete määranud sobivad litsentsid.
-- Kui teil on kohapealne Active Directory, veenduge, et kohaliku Active Directory väljal [ProxyAddresses oleva msRTCSIP-PrimaryUserAddressi](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) või SIP-aadressi väärtus on kordumatu ja vorming vastab **sip:** Kasutaja kasutajanimi [Microsoft 365 halduskeskusest](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Kui kavatsete säilitada Skype'i ärirakenduse serveri juurutuse ning kasutajad on kodus kohapeal ja veebis, järgige Skype'i ärirakenduse serveri juhtpaneelil linki "Hübriidrakenduse loomine Teamsi ja Skype'i ärirakenduse **veebiväljaandega"** ja teisaldage kasutajad veebiväljaandes.
+- Kui teil on kohapealne Active Directory, veenduge, et kohaliku Active Directory väljal [ProxyAddresses oleva msRTCSIP-PrimaryUserAddressi](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) või SIP-aadressi väärtus on kordumatu ja vorming vastab **sip:** kasutaja kasutajanimi [Microsoft 365 halduskeskus](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Kui kavatsete säilitada Skype'i ärirakenduse server juurutuse ning kasutajad on kodus kohapeal ja võrgus: järgige oma Skype'i ärirakenduse server juhtpaneelil linki **"Teams** ja Skype'i ärirakendus Online'iga hübriidjuurutus" ja teisaldage kasutajad võrgus.

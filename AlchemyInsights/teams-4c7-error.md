@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea3e8f23c07103e604fc6b264047582b9c3e26b6b73237adc30eba574e06cfd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049304"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>4c7 tõrge Microsoft Teamsis
+# <a name="4c7-error-in-microsoft-teams"></a>Tõrge 4c7 Microsoft Teams
 
-See tõrge ilmneb seetõttu, et Microsoft Teams nõuab vormide autentimist. Teenuse Active Directory Federation Services (AD FS) juurutamisel pole vormide autentimine sisevõrgu jaoks vaikimisi lubatud. Kui Windowsi integreeritud autentimine nurjub, palutakse teil vormide autentimise abil sisse logida.
+See tõrge ilmneb seetõttu, Microsoft Teams nõuab vormide autentimist. Teenuse Active Directory Federation Services (AD FS) juurutamisel pole vormide autentimine sisevõrgu jaoks vaikimisi lubatud. Kui Windows nurjub, palutakse teil vormide autentimise abil sisse logida.
 
 Probleemi lahendamiseks lubage vormide autentimine AD FS-i Microsofti halduskonsooli (MMC) lisandmooduli abil arvutis, kus on Active Directory kohalik koopia. Selleks tehke järgmist. 
 

@@ -1,5 +1,5 @@
 ---
-title: SharePointi või OneDrive ' i salvestusruumi haldamine
+title: Salvestusruumi SharePoint või OneDrive haldamine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077790"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>SharePointi või OneDrive ' i salvestusruumi haldamine
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Salvestusruumi SharePoint või OneDrive haldamine
 
- **SharePoint Online**
+ **SharePoint Võrgus**
   
-Enamikus organisatsioonides hallatakse SharePointi salvestusruumi automaatselt, nii et teil pole vaja seada piiranguid saidikogumi kohta. SharePointi salvestusruumi kontrollimiseks tehke järgmist.
+Enamikus ettevõtetes SharePoint salvestusruumi hallatakse automaatselt, nii et te ei pea saidikogumi jaoks piiranguid häälestama. Salvestusruumi SharePoint registreerimine.
   
-- Otsige uues SharePointi administreerimiskeskuses lehe saidid paremas ülanurgas üles oma saadaolev ja täielik salvestusruum.
+- Otsige uues SharePoint saidilehe paremas ülanurgas oma saadaolevat salvestusruumi ja kogu salvestusruumi.
     
-Lisateavet limiidi arvutamise kohta leiate teemast [SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113)' i piirangud. Lisasalvestusruumi ostmiseks lugege artiklit [tellimuse salvestusruumi muutmine](https://go.microsoft.com/fwlink/?linkid=866428).
+Lisateavet limiidi arvutamise kohta leiate teemast SharePoint [Võrgulimiidid](https://go.microsoft.com/fwlink/p/?LinkID=856113). Lisateavet salvestusruumi ostmise kohta leiate [teemast Tellimuse salvestusruumi muutmine.](https://go.microsoft.com/fwlink/?linkid=866428)
   
  **OneDrive**
   
-Uute ja olemasolevate OneDrive ' i kasutajate jaoks vaikimisi salvestusruumi muutmiseks tehke järgmist.
+Uute ja olemasolevate kasutajate vaikesalvestusruumi OneDrive.
   
-- Avage [OneDrive ' i administreerimiskeskuse leht "salvestusruum](https://admin.onedrive.com/?v=StorageSettings)" ja sisestage uus summa GB-s.
+- Avage [halduskeskuse OneDrive leht](https://admin.onedrive.com/?v=StorageSettings)Salvestusruum ja sisestage uus summa GB-s.
     
-Kui soovite kontrollida, kui palju salvestusruumi te oma OneDrive ' is kasutate, lugege teemat [OneDrive for Businessi salvestusruumi haldamine](https://go.microsoft.com/fwlink/?linkid=866429). Lisateavet iga kavaga kaasas oleva salvestusruumi kohta leiate teemast [OneDrive for Businessi teenuse kirjeldus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Kui soovite kontrollida, kui palju salvestusruumi te oma seadmes kasutate OneDrive [lugege teemat Salvestusruumi OneDrive for Business haldamine.](https://go.microsoft.com/fwlink/?linkid=866429) Teavet iga plaani salvestusruumi kohta leiate teemast [OneDrive for Business kirjeldus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 
