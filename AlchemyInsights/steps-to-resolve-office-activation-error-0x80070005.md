@@ -1,5 +1,5 @@
 ---
-title: Office ' i aktiveerimise tõrke 0x80070005 lahendamise juhised
+title: Office'i aktiveerimistõrgete 0x80070005
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 086c2db7775baabeb5c66eda9e767362fef20f98237021a0b348d8e5d50392b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021412"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Office ' i aktiveerimise tõrke 0x80070005 lahendamise juhised
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Office'i aktiveerimistõrgete 0x80070005
 
-Kui 0x80070005 tõrge algas pärast Windowsi värskendamist, saate probleemi lahendada registri värskendamise kaudu.
+Kui 0x80070005 pärast Windows värskendamist, saate probleemi lahendada registri värskendamisega.
   
-Laadige alla ja installige [tugiteenuste ja taaskasutuse assistent](https://aka.ms/SARA-OfficeActivation-Alchemy) ning käivitage **aktiveerimise tõrkeotsija**.
+Laadige alla ja [installige tugi- ja taasteteenuste abiline](https://aka.ms/SARA-OfficeActivation-Alchemy) käivitage **aktiveerimistõrkeotsija**.
   
-Lisateavet leiate teemast [Office ' i tõrkekood 0X80070005 Office ' i aktiveerimisel](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865) .
+Lisateavet leiate teemast Office [aktiveerimisel 0x80070005 tõrkekoodi Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
   
