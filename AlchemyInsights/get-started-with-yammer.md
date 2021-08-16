@@ -1,5 +1,5 @@
 ---
-title: Yammeri kasutamise alustamine
+title: Alustage Yammer
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677370"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002248"
 ---
-# <a name="get-started-with-yammer"></a>Yammeri kasutamise alustamine
+# <a name="get-started-with-yammer"></a>Alustage Yammer
 
-Yammeri on parim-klassi-, turva-ja erasektori sotsiaalne võrgustik. Yammeri kaudu saate Androidi ja iOS-i seadmete jaoks hõlpsalt kasutatavat ja hõlpsalt kasutatavat kogemust kasutada veebis ja Yammeri rakenduses. Yammeri saab integreerida Microsoft Teamsi ja Outlookiga. Yammeri kaudu leiate ka SharePoint Online ' is värskendatud integratsiooni kogemuse.
+Yammer on parim, turvaline ja privaatne ettevõtte suhtlusvõrgustik. Yammer pakub huvitavat ja hõlpsat kasutuskogemust nii veebis kui ka Androidi ja iOS-Yammer rakenduses. Yammer saab integreerida Microsoft Teams ja Outlook. Yammer pakub ka värskendatud integreerimiskogemust SharePoint Online'is.
 
-Yammeri juurutamise nõustaja abil saate oma Yammeri võrgu ette valmistada, lisades domeenid, määratledes administraatorid ja ühendades Yammeri võrgud. Juurutage Yammeri ja seejärel Kohandage ilmet, konfigureerige turvet ja ühilduvust ning täpsustage sätteid.
+Kasutage Yammer nõustajat, et valmistada oma Yammer võrku ette, lisades domeene, määratledes administraatoreid ja kombineerides Yammer võrke. Juurutage Yammer ja seejärel kohandage ilmet, konfigureerige turve ja vastavus ning piiritlege sätted.

@@ -1,5 +1,5 @@
 ---
-title: Väljamineva meili rämpsposti kausta saatmine
+title: Väljaminevad meilisõnumid kausta Rämpspost
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096654"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Väljamineva meili rämpsposti kausta saatmine
+# <a name="outbound-email-to-junk-email-folder"></a>Väljaminevad meilisõnumid kausta Rämpspost
 
-Kui näete väljaminevaid sõnumeid, mis on märgitud rämpspostiks, tehke järgmist.
+Kui näete, et väljaminevad sõnumid on märgitud rämpspostiks, tehke järgmist.
 
-- Kui te pole seda veel teinud, kaaluge [Väljamineva rämpsmeili poliitika teatiste konfigureerimist](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Kui te pole seda veel teinud, kaaluge väljamineva [rämpspostipoliitika teatiste konfigureerimist.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)
 
-- Kasutage funktsiooni [Message trace](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) , et näha, kas Väljamineva meili sõnum sisaldab lisateabega sündmuse väärtuse **rämpsposti** . **Kasuta suurt riski kohaletoimetamise basseini**.
+- [Sõnumijälitus](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) abil saate vaadata, kas väljamineva sõnumi sündmuse väärtus **on Rämpspost** koos täiendava üksikasjaga: **Kasutage suure riskiga kohaletoimetamiskausta.**
 
-  Nende sõnumite korral vaadake sõnumi sisu, et näha, mida võidakse lugeda rämpspostiks. Näiteks võivad allkirjad mõnikord tekitada paljudele kasutajatele probleeme.
+  Nende sõnumite korral kontrollige sõnumi sisu, et näha, mida võib pidada rämpspostiks. Näiteks võivad signatuurid põhjustada probleeme paljude kasutajate jaoks.
 
-  Kui teil on mitu näidet usaldusväärsetest väljaminevatest sõnumitest, mis on märgitud rämpspostiks, avage kasutajatugi ja paluge tugiteenuste agendil saata oma sõnumid meie rämpsposti analüütikutele valede positiivsete tulemustena. Olge valmis andma kõigi sõnumite päiseid sisaldavaid näidiseid.
+  Kui teil on mitu näidet rämpspostiks märgitud legitiimse väljaminevate sõnumite kohta, avage tugipilet ja paluge tugiagendil saata teie sõnumid meie rämpspostianalüütikutele valepositiivsetena. Olge valmis esitama näidissõnumeid, mis sisaldavad kõiki sõnumipäisi.

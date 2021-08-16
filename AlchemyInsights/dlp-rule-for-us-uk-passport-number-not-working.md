@@ -1,5 +1,5 @@
 ---
-title: DLP reegel US/UK passi number ei tööta
+title: DLP-reegel USA/UK passinumbri jaoks ei tööta
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004942"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Probleemid DLP-US/UK Passporti numbritega
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Probleemid DLP-ga – USA/UK passinumbrid
 
 **Tähtis**! Nende enneolematude aegade jooksul võtame kasutusele meetmed, et säilitada SharePoint Online’i ja OneDrive’i teenuste hea kättesadavus. Lisateabe saamiseks vaadake teemat [SharePoint Online’i ajutised funktsioonide muudatused](https://aka.ms/ODSPAdjustments).
 
-**DLP probleemid US/UK Passporti numbritega**
+**DLP-probleemid USA/Ühendkuningriigi passinumbritega**
 
-Kas teil on probleeme **andmete kaotsimineku vältimisega (DLP)** , mis ei tööta, kui teil on DLP tundliku teabe tüüpi O365 kasutamisel **US/UK Passporti numbrit** sisaldav sisu? Kui jah, siis veenduge, et teie sisu sisaldaks vajalikku teavet selle kohta, mida DLP poliitika selle hindamisel otsib.
+Kas teil on probleeme andmete kaotsimineku **vältimisega (DLP),** mis ei tööta O365-s DLP-tundliku teabe tüübi kasutamisel **USA/Ühendkuningriigi** passinumbrit sisaldava sisu korral? Sel juhul veenduge, et teie sisu sisaldaks vajalikku teavet selle kohta, mida DLP-poliitika selle hindamise ajal otsib.
   
-Näiteks kui **US/UK Passporti kood** , mis on konfigureeritud 75% usalduse tasemega, hinnatakse ja seda tuleb reegli käivitamiseks tuvastada
+Näiteks **usa/Ühendkuningriigi** passinumbripoliitika puhul, mis on konfigureeritud usaldustasemega 75%, hinnatakse järgmist ja see tuleb tuvastada, et reegel käivitaks
   
 - **[Vorming:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Üheksa numbrit
 
 - **[Muster:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Üheksa järjestikust numbrit
 
-- **[Kontrollsumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ei, pole kontrollsummat
+- **[Kontrollsumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ei, kontrollsummat pole
 
-- **[Definitsioon:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** DLP poliitika on 75% kindel, et see on tuvastanud seda tüüpi tundliku teabe, kui 300 märkide lähedusse jääb:
+- **[Definitsioon:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** DLP-poliitika on 75% kindel, et tuvastatakse seda tüüpi tundlik teave, kui 300 märgi läheduses:
 
-  - Funktsioon Func_usa_uk_passport otsib mustriga kattuvat sisu.
+  - Funktsioon Func_usa_uk_passport sisu, mis vastab mustrile.
 
   - Leitakse Keyword_passport märksõna.
 
-    Näiteks käivitab järgmine valim **USA/Ühendkuningriigi passi numbripoliitika** : USA passi number 123456789
+    Näiteks käivitaks USA/Ühendkuningriigi  passinumbripoliitika järgmine näidis: USA passide number 123456789
 
-Lisateavet selle kohta, mida on vaja teie sisu tuvastamiseks US/UK Passporti numbri kohta, leiate selle artikli jaotisest [mis on tundlikud ANDMETÜÜBID meie/Ühendkuningriigi passi numbri](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number) järgi.
+Lisateavet selle kohta, mida on vaja teie sisu tuvastamiseks USA/Ühendkuningriigi passinumbri tuvastamiseks, leiate selle artikli järgmisest jaotisest: Mis on tundliku sisuga teabetüübid [USA/Ühendkuningriigi passinumbri jaoks?](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   
-Mõne muu sisseehitatud tundliku teabe tüübi abil leiate lisateavet selle kohta, mida on vaja muude tüüpide jaoks: [millist tüüpi tundlikud teabe tüübid otsivad](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Muu tundliku loomuga teabetüübi kasutamise kohta leiate teavet selle kohta, mida muud tüüpi tundliku sisuga teabetüübid [on nõutavad.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
