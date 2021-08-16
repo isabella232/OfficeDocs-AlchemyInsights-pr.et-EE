@@ -1,5 +1,5 @@
 ---
-title: 1800005 Lahendage otsingu probleemid, luues oma kiirotsingu kataloogi uuesti
+title: 1800005 Otsinguprobleemide lahendamine kiirotsingu kataloogi uuesti ülesehitamise abil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,26 +13,26 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: d9f0048b9c79345714f8e9ab3d5a593ea13771de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a51c7c24e63820a5abbfdc9d72f9f18554b9a9f42c5c804e944137df928efa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068514"
 ---
-# <a name="troubleshoot-search-issues"></a>Otsingu probleemide tõrkeotsing
+# <a name="troubleshoot-search-issues"></a>Otsinguprobleemide tõrkeotsing
 
-Kui teil on Outlookis otsinguga probleeme, lugege allolevaid linke Spikri ja tõrkeotsingu jaoks.
+Kui teil on probleeme otsinguga Outlook, lugege abi ja tõrkeotsingu kohta allpool toodud linke.
 
-Need on kõige levinumad probleemid ja need on Alustuseks hea paik.
+Need on kõige levinumad probleemid ja need on hea koht alustamiseks.
 
-- [Outlooki otsing annab tulemiks tulemid](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Outlooki otsingul tagastatakse mittetäielikud tulemid](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Outlooki otsing ei leia vanemaid meilisõnumeid](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Outlook ei tagasta tulemiid](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook tagastab mittetäielikud tulemid](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook otsing ei leia vanemaid meilisõnumeid](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-Võimalikud lahendused vähem levinud probleemidele leiate siit:
+Vähem levinud probleemide võimalikud lahendused leiate siit.
 
-- [Ainult Outlook 2016: vahekaart otsing on tuhm](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [Ühiskasutuses postkast: otsingutulemite probleemid](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [Tõrge: otsingu jõudlus mõjutab Outlooki konfigureerimise probleemi tõttu](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [Otsingukaustad näitavad ootamatuid PersonMetadata üksusi, millel pole teemat](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [Outlook 2016 ainult: vahekaart Otsing on tuhm](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Ühispostkast: otsingutulemitega seotud probleemid](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Tõrge. Otsingu jõudlust mõjutab probleem selle kohta, kuidas Outlook on konfigureeritud](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Otsingukaustad kuvavad ootamatuid Isikumetadata üksusi ilma teemata](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
