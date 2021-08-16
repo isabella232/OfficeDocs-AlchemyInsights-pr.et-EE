@@ -1,5 +1,5 @@
 ---
-title: Suhtluse vastavuse alustamine
+title: Suhtluse nõuetele vastavusega alustamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 704091ede595bfa7e721f8059241825daddb20db
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034678"
 ---
-# <a name="get-started-with-communication-compliance"></a>Suhtluse vastavuse alustamine
+# <a name="get-started-with-communication-compliance"></a>Suhtluse nõuetele vastavusega alustamine
 
-Enne alustamist peab teie ettevõttel olema mõni järgmistest tellimustest või lisandmoodulitest.
+Enne alustamist peab teie ettevõttel olema üks järgmistest tellimustest või lisandmoodulitest.
 
-* Microsoft 365 E5 tellimus (makstud või prooviversiooni)
-* Microsoft 365 E3 tellimus + Microsoft 365 E5 nõuetele vastavuse lisandmoodul
-* Microsoft 365 E3 tellimus + Microsoft 365 E5 Insideri riskide halduse lisandmoodul
-* Microsoft 365 a5 tellimus (makstud või prooviversiooni)
-* Microsoft 365 a3 tellimus + Microsoft 365 a5 nõuetele vastavuse lisandmoodul
-* Microsoft 365 a3 tellimus + Microsoft 365 a5 Insideri riskide halduse lisandmoodul
-* Microsoft 365 G5 tellimus (makstud või prooviversiooni)
-* Microsoft 365 G5 tellimus + Microsoft 365 G5 sobivuse lisandmoodul
-* Microsoft 365 G5 tellimus + Microsoft 365 G5 Insideri riskide halduse lisandmoodul
-* Office 365 Enterprise E5 tellimus (tasulise või prooviversiooni versioon)
-* Office 365 Enterprise E3 tellimus + Office 365 täiustatud nõuetele vastavuse lisandmoodul (pole uute tellimuste jaoks enam saadaval, vt märkust)
+* Microsoft 365 E5 (tasuline või prooviversioon)
+* Microsoft 365 E3 tellimus + Microsoft 365 E5 Compliance lisandmoodul
+* Microsoft 365 E3 tellimus + Microsoft 365 E5 Insideri riskijuhtimise lisandmoodul
+* Microsoft 365 A5 (tasuline või prooviversioon)
+* Microsoft 365 A3 tellimus + Microsoft 365 A5 vastavuse lisandmoodul
+* Microsoft 365 A3 tellimus + Microsoft 365 A5 Insideri riskijuhtimise lisandmoodul
+* Microsoft 365 G5 tellimus (tasuline või prooviversioon)
+* Microsoft 365 G5 tellimus + Microsoft 365 G5 vastavus lisandmoodul
+* Microsoft 365 G5 tellimus + Microsoft 365 G5 Insideri riskijuhtimise lisandmoodul
+* Office 365 Enterprise E5 tellimus (tasuline või prooviversioon)
+* Office 365 Enterprise E3 tellimus + Office 365 täiustatud nõuetelevastavus (pole enam saadaval uutele tellimustele, vt märkust)
 
     > [!NOTE]
-    > Kui teil pole olemasolevat Office 365 Enterprise E5 lepingut ja soovite proovida Insideri riskijuhtimist, saate [lisada Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) oma olemasolevale tellimusele või registreeruda Office 365 Enterprise E5 prooviversiooni kasutajaks.
+    > Kui teil pole olemasolevat E5 Office 365 Enterprise ja soovite proovida insideri riskijuhtimist, saate [lisada Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) olemasolevale tellimusele või registreeruda Office 365 Enterprise E5 prooviversiooni.

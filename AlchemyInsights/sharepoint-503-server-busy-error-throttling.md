@@ -13,20 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 38cd588e9f5388579e4e8c2064d1390091425254effd3aa7c50c4f2cbc80ce53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051482"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online ' i ahendamine
+# <a name="sharepoint-online-throttling"></a>SharePoint Veebipõhine ahendamine
 
 SharePoint Online kasutab SharePoint Online’i teenuste optimaalse jõudluse ja töökindluse säilitamiseks ahendamist. Ahendamine piirab kasutajate toimingute või samaaegsete kõnede arvu (skripti või koodi poolt), et ennetada ressursside ülekasutamist. 
 
-Lisateavet ahendamise kohta leiate teemast [SharePoint Online ' is ahendamise või blokeerimise vältimine](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Ahendamise kohta leiate lisateavet teemast SharePoint Online'is ahendamise [või blokeerimise SharePoint.](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-Kui arvate [, et see](https://portal.office.com/adminportal/home#/MessageCenter)tõrge pole seotud ahendamisega, saate kontrollida, kas teie Rentnik on teie rentniku jaoks aktiivset hooldust otsinud.
+Kui arvate, et see tõrge pole seotud ahendamisega, saate kontrollida, kas teie rentnikus toimub aktiivne hooldus, liikudes [sõnumikeskusesse.](https://portal.office.com/adminportal/home#/MessageCenter)
 
- Lõpetuseks veenduge, et külastate [teenuse Health](https://portal.office.com/adminportal/home#/servicehealth) lehte, et kontrollida mis tahes nõuandjaid/juhtumeid, mis võivad toimuda.
+ Lõpuks veenduge, et külastate [lehte Teenuse](https://portal.office.com/adminportal/home#/servicehealth) seisundi, et kontrollida mis tahes nõustajate/juhtumite esinemist.
 

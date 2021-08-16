@@ -1,5 +1,5 @@
 ---
-title: Kasutajate poliitikate/postkasti sätete parandamine
+title: Kasutajapoliitika/postkasti sätete parandus
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034714"
 ---
-# <a name="fix-user-policymailbox-settings"></a>Kasutajate poliitikate/postkasti sätete parandamine
+# <a name="fix-user-policymailbox-settings"></a>Kasutajapoliitika/postkasti sätete parandus
 
-Postkasti rämpsmeili sätted mõjutasid seda sõnumit. Sätete läbivaatamiseks tehke järgmist.
+Seda sõnumit mõjutasid postkasti rämpspostisätted. Sätete läbivaatamiseks tehke järgmist.
 
-1. Käivitage Exchange Management shell. Lisateavet leiate teemast [Exchange ' i halduse kesta avamine](https://go.microsoft.com/fwlink/?linkid=2101432).
-2. Käivitage see käsk (kasutaja meiliaadressi kasutamine):  **Get-mailboxjunkmailconfiguration-Identity "User@domain.com"**
-3. Kontrollige, kas saatja meiliaadress on osa **TrustedSendersAndDomains** või **BlockedSendersAndDomains**. Kui meiliaadress on ühes loenditest, peate selle võib-olla eemaldama. Lisateavet leiate teemast [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
+1. Käivitage Exchange Management Shell. Lisateavet leiate teemast [Halduskesta Exchange avamine.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Käivitage see käsk (kasutades kasutaja meiliaadressi):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. Kontrollige, kas saatja meiliaadress on **osa TrustedSendersAndDomainsist** või **BlockedSendersAndDomainsist.** Kui meiliaadress on ühes loendis, peate selle võib-olla eemaldama. Lisateavet leiate teemast [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
