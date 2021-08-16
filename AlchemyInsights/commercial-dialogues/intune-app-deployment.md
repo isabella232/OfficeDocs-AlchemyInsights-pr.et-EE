@@ -1,5 +1,5 @@
 ---
-title: Rakenduse juurutamise Intune
+title: Intune'i rakenduse juurutamise protsess
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034426"
 ---
-# <a name="intune-app-deployment-process"></a>Rakenduse juurutamise Intune
+# <a name="intune-app-deployment-process"></a>Intune'i rakenduse juurutamise protsess
 
-Rakenduste juurutamine Intune ' i abil järgib allolevat protsessi.
+Rakenduste juurutamine Intune'iga järgib järgmist protsessi.
 
-- Rakenduse lisamine – saate lisada App Store ' i rakenduse või laadida alla ärirakenduse.
-- Rakenduse määramine – saate määrata rakenduse juurutuse ulatuse.
-- Rakenduste jälgimine – saate vaadata rakenduste installimise olekut, loendit avastatud rakendused ja hallata rakenduste poodidest ostetud rakendusi.
-- [Rakendus on rakendanud INTUNE SDK. SDK-ga toetatud rakenduste loendi leiate teemast Microsoft Intune ' i kaitstud rakendused](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Rakenduse lisamine – saate lisada App Store'i rakenduse või laadida üles ärirakenduse.
+- Rakenduse määramine – määratlege rakenduse juurutamise ulatus.
+- Rakenduste jälgimine – saate vaadata rakenduste installiolekut, leitud rakenduste loendit ja hallata rakendusepoodidest ostetud rakendusi.
+- [Rakendus on rakendanud Intune SDK. SDK-d toetavate rakenduste loendi leiate teemast Microsoft Intune rakendused.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[Lugege lisateavet rakenduse juurutuse ja halduse Intune ' i kohta...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Lisateavet Intune'i rakenduse juurutamise ja haldamise kohta...](https://docs.microsoft.com/mem/intune/apps/app-management)

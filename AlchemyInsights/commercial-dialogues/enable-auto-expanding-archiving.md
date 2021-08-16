@@ -1,5 +1,5 @@
 ---
-title: Luba automaatselt laieneva arhiivimine
+title: Automaatse arhiivimise lubamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: cbc856a76d811c09aefcada962376ae4e9469c3b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 85a494918d65cc026a85bdfd6348d5c3c190ef919fa88a15ffcd4e7e790b8737
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035146"
 ---
-# <a name="enable-auto-expanding-archiving"></a>Luba automaatselt laieneva arhiivimine
+# <a name="enable-auto-expanding-archiving"></a>Automaatse arhiivimise lubamine
 
-Kui arhiivi postkast on täis (kvoot on täis) või soovite suurendada arhiivi mahtu, saate lubada kasutajate jaoks piiramatu arhiivimise.
+Kui arhiivipostkast on täis (kvoot on täis) või soovite arhiivimahtu suurendada, saate lubada kasutajatele piiramatu arhiivimise.
 
-- Juhised leiate teemast [piiramatu arhiivimise lubamine](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
-- KKK-sid leiate teemast [automaatne laiendamine ARHIIVI KKK](https://blogs.technet.microsoft.com/exchange/2018/04/09/office-365-auto-expanding-archives-faq/).
+- Juhised leiate teemast [Piiramatu arhiivimise lubamine.](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)
+- KKK leiate teemast [Arhiivide automaat laiendamise KKK.](https://blogs.technet.microsoft.com/exchange/2018/04/09/office-365-auto-expanding-archives-faq/)
 
 > [!TIP]
 >
-> - Pärast automaatse laiendamise sisselülitamist võib täiendavaks ladustamiseks ette võtta kuni 30 päeva.
-> - Kui postkast on ootel või määratud Office 365 säilituspoliitika jaoks, suureneb arhiivi postkasti salvestusruum kokku **110 GB** , kui piiramatud arhiivid on lubatud.
-> - Arhiivi postkastis ruumi vabastamiseks, kui see pole olemas, saavad kasutajad [arhiivitud postkasti üksused eksportida PST-faili, kasutades Outlooki](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) või kustutage arhiivi postkastist mittevajalikud üksused.
+> - Pärast automaatse laiendamise sisselülitamist võib täiendava salvestusruumi ettevalmistamine võtta kuni 30 päeva.
+> - Kui postkast on ootel või määratud Office 365 säilituspoliitikale, suureneb arhiivipostkasti salvestusruum **kokku 110 GB-ni,** kui piiramatu arhiivimine on lubatud.
+> - Kui arhiivipostkastis ruumi ei ole, saavad kasutajad arhiivipostkasti üksused [pst-faili](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) eksportida, kasutades Outlook või kustutada arhiivipostkastis mittevajalikke üksusi.
