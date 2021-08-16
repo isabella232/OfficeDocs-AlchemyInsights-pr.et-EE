@@ -1,5 +1,5 @@
 ---
-title: Edasilükatud saatmine rakenduses Outlook.com
+title: Edasilükatud saatmine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041402"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Meilisõnumite saatmise viivitamine või ajastamine
+# <a name="delay-or-schedule-sending-email-messages"></a>Meilisõnumite saatmise edasilükkamine või ajastamine
 
-Vabandame, kuid te ei saa meilisõnumite saatmisel mobiilsideseadmes või veebibrauseris edasi lükata ega ajastada. Selleks kasutage [rakendust Outlook for Windows või Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Kahjuks ei saa te mobiilsiderakenduses või veebibrauseris meilisõnumeid edasi saata ega ajastada. Selleks kasutage Outlook [Windows Outlook for Mac.](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
-**Võta saatmine tagasi**
+**Võta saatmise tagasi**
 
-Saate muuta oma Outlook.com sätteid, et viivitada sõnumi saatmist kuni kümneks sekundiks. Saate selle perioodi jooksul sõnumi saatmisest loobuda. Selle funktsiooni sisselülitamiseks avage [tagasivõtmise saatmise](https://outlook.live.com/mail/options/mail/messageContent/undoSend) sätted.
+Saate muuta oma Outlook.com-i sätteid, et viivitada sõnumi saatmisega kuni 10 sekundit. Saate selle perioodi jooksul sõnumi saatmise tühistada. Selle funktsiooni sisselülimiseks avage saatmise [tagasivõtmine](https://outlook.live.com/mail/options/mail/messageContent/undoSend) sätted.
 
-Lugege lisateavet [meilisõnumite tagasihelistamise kohta Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Lugege lisateavet [meilisõnumite tagasivõtmise kohta Outlook.com-is.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)

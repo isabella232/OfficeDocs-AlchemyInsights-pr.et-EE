@@ -1,5 +1,5 @@
 ---
-title: Arvelduse konto teabe värskendamine
+title: Arvelduskonto teabe värskendamine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015328"
 ---
-# <a name="how-to-update-billing-account-information"></a>Arvelduse konto teabe värskendamine
+# <a name="how-to-update-billing-account-information"></a>Arvelduskonto teabe värskendamine
 
-Enne tasuliste teenuste ostmiseks peate lisama või värskendama oma ettevõtte aadressi, võtma kontakti meiliaadressi ja kontakti nime.
+Enne tasuga teenuste ostmist peate lisama või värskendama oma ettevõtte äriaadressi, kontaktmeiliaadressi ja kontakti nime.
 
-Kasutame äriaadressi käibemaksu ja käibemaksu arvutamiseks. Kui soovite oma käibemaksu-või käibemaksu numbrit uuendada, saab teie Microsofti kliendi lepingu arvelduse konto omanik teha järgmist.
+Kasutame müügimaksu ja käibemaksu arvutamiseks äriaadressi. Kui soovite oma MAKSU-/KÄIBEMAKSUnumbrit värskendada, saab teie Microsofti kliendilepingu arvelduskonto omanik seda teha, järgides järgmisi juhiseid.
 
-**Arvelduse konto teabe värskendamiseks ja oma maksu ID värskendamiseks tehke** järgmist.
+**Arvelduskonto teabe värskendamiseks ja MAKSU ID värskendamiseks** tehke järgmist.
 
-1. Logige sisse [Microsoft Store ' i ärirakendusse](https://businessstore.microsoft.com/).
-1. Klõpsake käsku **Halda**  >  **arvelduse kontosid**.
-1. Klõpsake jaotises **Ülevaade** nuppu **Redigeeri arvelduse kontoteavet**.
-1. Tehke oma värskendused ja klõpsake nuppu **Salvesta**. 
+1. Logige sisse Microsoft Store'i ettevõtteportaal [.](https://businessstore.microsoft.com/)
+1. Klõpsake **nuppu Halda**  >  **arvelduskontosid.**
+1. Klõpsake **jaotises Ülevaade** nuppu Redigeeri **arvelduskonto teavet.**
+1. Tehke värskendused ja klõpsake nuppu **Salvesta.** 
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Saage aru oma MCA arvest](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [MCA-arve mõistmine](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [Azure ' i arvele maksualaste dokumentide vaatamine ja allalaadimine](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [Azure'i arve maksudokumentide vaatamiseks ja allalaadimiseks](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [Arvelduse konto sätete värskendamine](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Arvelduskonto sätete värskendamine](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

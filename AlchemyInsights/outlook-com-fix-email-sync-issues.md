@@ -1,5 +1,5 @@
 ---
-title: Outlook.com lahendamise probleemide lahendamine
+title: Meili Outlook.com-i sünkroonimisprobleemide lahendamine
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.custom:
 - "8000048"
-ms.openlocfilehash: f66e1365339d2a6939299b1fe05364a04ccea9af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d0aa87fb3b4907108a9a5cd418d447cdaac920b4e5f96754dec2d0bd354b92d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041366"
 ---
-# <a name="fix-outlookcom-email-sync-issues"></a>Outlook.com lahendamise probleemide lahendamine
+# <a name="fix-outlookcom-email-sync-issues"></a>Meili Outlook.com-i sünkroonimisprobleemide lahendamine
 
-Kui te ei saa meilisõnumeid saata ega vastu võtta, kontrollige kõigepealt [teenuse olekut](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).
+Kui te ei saa meilisõnumeid saata ega vastu võtta, kontrollige esmalt [teenuse olekut.](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409)
   
-Kui te ei saa teatud saatjalt meilisõnumeid (nt paroolilähtestusketast), veenduge esmalt, et saatja poleks teie [blokeeritud saatjate ja domeenide loendis](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains).
+Kui te ei saa kindlalt saatjalt meilisõnumeid (nt paroolilähtestussõnumeid), veenduge esmalt, et saatja poleks blokeeritud saatjate ja [domeenide loendis.](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains)
   
-Kui saatja pole blokeeritud saatjate loendis, peate kontaktiga saatjaga ühendust võtma ja andma neile teada, et te ei saa oma Outlook.com kontol meilisõnumeid vastu võtta. Palun viidake saatjale [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409) , kus nad saavad leida teavet heade tavade, soovitatava tõrkeotsingu ja lingi kohta, et võtta ühendust Outlook.com saatja kasutajatoega.
+Kui saatja pole blokeeritud saatjate loendis, peate saatjaga ühendust võtma ja neile teada andma, et te ei saa oma Outlook.com-i kontolt meilisõnumeid. Suunake saatja aadressile , kust ta leiab teavet parimate tavade, soovitatava tõrkeotsingu ja lingi kohta, et võtta ühendust [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409) Outlook.com-i saatja tugimeeskonnaga.
   
-Kui te pole üldse meilisõnumeid saanud, lugege teemat [Outlook.com lahendamine](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+Kui te ei saa üldse meilisõnumeid, lugege teemat [Outlook.com-i meilisünkroonimise probleemide lahendamine.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)

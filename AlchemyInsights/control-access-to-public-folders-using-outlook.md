@@ -1,5 +1,5 @@
 ---
-title: Avalikele kaustadele juurdepääsu juhtimine Outlooki abil
+title: Avalikele kaustadele juurdepääsu Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: f528044ca7f6f2ee2812f9f831093c44eca26fe1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1386b97f804e63455094abf64b9d9e2541d57dafa36535813b0d7689e0ce2966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032554"
 ---
-# <a name="control-access-to-public-folders-using-outlook"></a>Avalikele kaustadele juurdepääsu juhtimine Outlooki abil
+# <a name="control-access-to-public-folders-using-outlook"></a>Avalikele kaustadele juurdepääsu Outlook
 
-Selleks et määrata, millistele kasutajatele outlooki abil avalikele kaustadele juurde pääsevad:
+Selleks et määrata, millistele kasutajatele pääsevad avalikud kaustad Outlook.
 
 1. Kasuta `Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true or $false`
 
-$true: Luba kasutajatel Outlookis avalikele kaustadele juurde pääseda  
-$false: Keela kasutaja juurdepääs Outlooki avalikele kaustadele. See on vaikeväärtus.  
+$true: kasutajate juurdepääsu võimaldamine ühiskaustadele Outlook  
+$false: Kasutaja juurdepääsu takistamine ühiskaustadele Outlook. See on vaikeväärtus.  
 
 2. `Set-OrganizationConfig -PublicFolderShowClientControl $true`
 
-Märkus. See protseduur saab juhtida ainult ühendusi Outlooki töölauarakenduses Windowsi klientrakendustega. Kasutajad pääsevad avalikele kaustadele juurde OWA või Outlook for Maci kaudu.
+Märkus. See protseduur saab juhtida ainult Outlook klientrakenduste Windows ühendusi. Kasutajad pääsevad edasi avalikele kaustadele juurde OWA või Outlook for Maci kaudu.
 
-Lisateavet leiate teemast [Outlookis avalike kaustadega](https://aka.ms/controlpf) seotud kontrollitud ühendused.
+Lisateavet leiate teemast [Kontrollitud ühendused ühiskaustadega Outlook](https://aka.ms/controlpf) lisateavet.

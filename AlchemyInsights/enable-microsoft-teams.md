@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teamsi lubamine
+title: Luba Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -16,15 +16,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 0b638f12ca90edba3150c6e75d9653cf507e37af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 161e7e1b4a682b2e60c40b2a53b5b10da2904b351de40803f8b9d8a580fc49af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002944"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>Microsoft Teamsi lubamine ja kasutamine
+# <a name="enable-and-use-microsoft-teams"></a>Luba ja kasuta Microsoft Teams
 
-Kui teil pole Microsoft Teamsi üldse juurdepääsu, vaadake, kuidas microsoft [Teamsi juurde pääseda.](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
+Kui teil pole juurdepääsu Microsoft Teams, vaadake, kuidas saan juurdepääsu [Microsoft Teams.](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
 
-Kui teil on Microsoft Teams juba olemas ja teil on vaja teada, kuidas seda konfigureerida ja hallata, lugege [teemat Microsoft Teamsi sätete haldamine oma asutuse jaoks.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)
+Kui teil on Microsoft Teams ja teil on vaja teada, kuidas seda konfigureerida ja hallata, [lugege teemat Microsoft Teams ettevõtte sätete haldamine.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)
