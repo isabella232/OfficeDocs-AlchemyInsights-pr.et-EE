@@ -1,5 +1,5 @@
 ---
-title: Eelmise faili versiooni taastamine
+title: Eelmise failiversiooni taastamine
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720606"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039566"
 ---
-# <a name="restore-a-previous-file-version"></a>Eelmise faili versiooni taastamine
+# <a name="restore-a-previous-file-version"></a>Eelmise failiversiooni taastamine
 
-Veebiversioonide ajaloos saate vaadata ja taastada failide vanemaid versioone OneDrive ' is või SharePointis. Versiooniajalugu töötab kõigi failitüüpide (sh PDF-failide, CAD-failide, fotode ja videote korral). Eelmise faili versiooni taastamiseks tehke järgmist.
+Veebiversioonide ajaloo abil saate vaadata ja taastada oma failide vanemaid versioone OneDrive või SharePoint. Versiooniajalugu töötab kõigi failitüüpidega (sh PDF-id, CAD-failid, fotod ja videod). Eelmise failiversiooni taastamiseks:
   
-1. Avage SharePointi dokumenditeek või OneDrive ' i asukoht.
+1. Avage SharePoint dokumenditeek või OneDrive asukoht.
     
-2. Klõpsake selle valimiseks fail vasakul ja seejärel klõpsake nuppu **versiooniajalugu**. Kui te ei näe käsuriba versiooni ajalugu, klõpsake nuppu veel ( **..** .). 
+2. Klõpsake faili valimiseks failist vasakul ja seejärel klõpsake käsku **Versiooniajalugu.** Kui käsuribal pole valikut Versiooniajalugu, klõpsake nuppu Rohkem ( **...** ). 
     
-3. Klõpsake versiooni, mida soovite vaadata, või klõpsake nuppu veel ( **...** ) ja seejärel klõpsake nuppu **Taasta**.
+3. Klõpsake versiooni, mida soovite vaadata, või klõpsake versioonist paremal nuppu Rohkem ( **...** ) ja seejärel käsku **Taasta**.
     
 

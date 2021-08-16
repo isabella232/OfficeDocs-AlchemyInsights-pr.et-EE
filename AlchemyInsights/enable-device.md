@@ -1,5 +1,5 @@
 ---
-title: Seadme lubamine
+title: Luba seade
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8278"
-ms.openlocfilehash: 9e4b03dcba7a2c98a5d63213ee49f9ba8f91d670
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4722ccf6847fc6c02616dbc62d59a2a87c089f77ae79c0a916211af6c5f2a6d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003471"
 ---
-# <a name="enable-device"></a>Seadme lubamine
+# <a name="enable-device"></a>Luba seade
 
 **Seadme lubamine PowerShelli käsu abil**
 
 Käivitage järgmised käsud.
 
-- Seadme objekti hankimiseks tehke järgmist. `Get-MsolDevice -Name <Name>`
-- Seadme lubamiseks tehke järgmist. `Enable-MsolDevice -DeviceId <DeviceId>`
+- Seadmeobjekti toomiseks: `Get-MsolDevice -Name <Name>`
+- Seadme lubamiseks: `Enable-MsolDevice -DeviceId <DeviceId>`
 
-Lisateavet hallatavate domeenide hübriidiga liitumise kohta leiate teemast [hübriidiga liitumise konfigureerimine](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains).
+Lisateavet hallatavate domeenide hübriidjuurutuse konfigureerimise kohta leiate teemast [Hübriidjuurutuse konfigureerimine.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains)

@@ -1,5 +1,5 @@
 ---
-title: Saidi tuvastamine
+title: Saidituvastuse leidmine
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
-ms.translationtype: MT
+ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50692935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030754"
 ---
-# <a name="do-site-discovery"></a>Saidi tuvastamine
+# <a name="do-site-discovery"></a>Saidituvastuse leidmine
 
-Kui teie ettevõte kasutab endiselt pärandist veebirakendusi ja plaanib kasutada Internet Exploreri režiimi (mida enamik kliente ei kasuta), peaksite tegema mõne muu saidi tuvastamise.
+Kui teie ettevõte kasutab endiselt pärandveebirakendusi ja -plaane Internet Exploreri režiimi (mida enamik kliente teeb), peaksite tegema täiendavaid saidituvastusi.
 
-**Olete juba juurutanud Microsoft Edge ' i varasema versiooni**
+**Olete juba juurutanud vanema versiooni Microsoft Edge**
 
-Kui olete oma ettevõtte saidi loendi juba konfigureerinud töötama Microsoft Edge ' i Legacy-versioonis, on teie saidi tuvastus peaaegu valmis. Võimalik, et peate lisama neutraalseid saite.
+Kui olete ettevõttesaidiloendi juba konfigureerinud töötama Microsoft Edge versiooni jaoks. Võimalik, et peate lisama neutraalsed saidid.
 
-Neutraalsed saidid on tavaliselt saidid, mis pakuvad ühekordse sisselogimise (SSO). Kui lähete Microsoft Edge ' i neutraalsele saidile, soovite autentida Microsoft Edge ' i. Kui lähete Internet Exploreri režiimis neutraalsele saidile, siis soovite autentida Internet Exploreri režiimis.
+Neutraalsed saidid on tavaliselt saidid, mis pakuvad ühekordset sisselogimist (SSO). Kui lähete neutraalsele saidile Microsoft Edge, siis soovite jääda Microsoft Edge autentimiseks. Kui lähete Internet Exploreri režiimis neutraalsele saidile, siis soovite autentimiseks internet Exploreri režiimis püsida.
 
-Tuvastage kõik SSO või muud neutraalsed saidid, mida kasutate, ja lisage need oma ettevõtte saidi loendisse.
+Tuvastage kõik SSO-d või muud neutraalsed saidid, mida kasutate, ja lisage need ettevõttesaitide loendisse.
 
 **Internet Explorer on teie vaikebrauser**
 
-Kui kasutate praegu ainult Internet Explorerit, ei pruugi te teada saada, millised saidid on täiendatud moodsate veebistandarditega ja mis vajavad endiselt Internet Explorerit. Te soovite leida ja lisada need saidid ettevõtte saidi loendisse, et saaksite kasutada Internet Exploreri režiimi ainult nende saitide jaoks.
+Kui kasutate praegu ainult Internet Explorerit, ei pruugi te teada, millised saidid on nüüd kasutusele võtnud tänapäevased veebistandardid ja mis nõuavad endiselt Internet Explorerit. Soovite need saidid ettevõttesaitide loendisse üles leida ja lisada, et internet Exploreri režiimi saaks kasutada ainult nende saitide jaoks.
 
 > [!NOTE]
-> [Enterprise Site Discovery](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) avastab saidid, mis võivad vajada Internet Exploreri režiimi. See võib koguda andmeid arvutites, kus töötab Windows Internet Explorer 8 Internet Explorer 11 kaudu opsüsteemis Windows 10, Windows 8,1 või Windows 7.
+> [Ettevõttesaidi tuvastuse](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) abil tuvastatakse saidid, mis võivad vajada Internet Exploreri režiimi. See võib koguda andmeid arvutites, kus töötab Windows Internet Explorer 8 internet Explorer 11 Windows 10, Windows 8.1 või Windows 7.
 
 **Andmete analüüsimine**
 
-Kui olete saidi andmed kogunud, soovitame andmete analüüsimiseks järgmisi nelja-etapilisi toiminguid.
+Pärast saidiandmete kogumist soovitame andmete analüüsimiseks teha järgmist neljaastmelise protsessi.
 1. Sortige andmed domeeni järgi ja seejärel URL-i järgi.
-2. Saate määratleda Internet Exploreri režiimi konfigureerimiseks kasutatava rakenduse piirid. Soovite kaasata kõik rakenduse määratlevad saidid ja veebihaldused, kuid te ei soovi lisada täiendavaid saite ja juhtelemente. Mõned saidid võivad olla nii lihtsad, kui *https://contoso.com/app1* teised võivad nõuda mitme saidi ja lehe määratlemist.
-3. Testige rakendust, et veenduda, et see ei tööta algupäraselt. Paljud saidid pakuvad moodsat brauserit, kui nad avastavad modernse brauseri ja pakuvad Internet Exploreri tuvastamisel ainult pärandist sisu.
-4. Lisage rakendus oma ettevõtte saidi loendisse, kui test nurjub.
+2. Määratlege Rakenduse piirid Internet Exploreri režiimi jaoks konfigureerimiseks. Soovite kaasata kõik saidid ja veebi juhtelemendid, mis rakenduse määratlevad, kuid te ei soovi lisada täiendavaid saite ega juhtelemente. Mõned saidid võivad olla sama lihtsad, *https://contoso.com/app1* kui teised võivad nõuda mitme saidi ja lehe määratlemist.
+3. Testige rakendust veendumaks, et see ei tööta oma emakeelena. Paljud saidid pakuvad modernse sisuga sisu, kui nad tuvastavad tänapäevase brauseri ja pakuvad pärandsisu ainult Internet Exploreri tuvastamisel.
+4. Lisage rakendus ettevõttesaidi loendisse, kui see testimine nurjub.
 
 > [!NOTE]
-> Parima tavana rühmitage kõik saidid, mis moodustavad rakenduse. Nii on rakenduse täiendamisel hõlpsam eemaldada kogu sait Internet Exploreri režiimist ja alustada selle rakenduse jaoks moodsate brauserite kasutamist.
+> Parima tavana saate rühmitada kõik saidid, mis sisaldavad rakendust. Nii on rakenduse versioonitäienduse korral hõlpsam eemaldada kogu sait Internet Exploreri režiimist ja hakata kasutama selle rakenduse jaoks kaasaegset brauserit.
 
-Kui olete saidi tuvastamisega lõpetanud ja olete andmed analüüsinud, olete valmis alustama oma kanali strateegiat.
+Kui olete saidituvastuse lõpetanud ja olete andmed analüüsinud, saate hakata oma kanalistrateegiat otsima.
 

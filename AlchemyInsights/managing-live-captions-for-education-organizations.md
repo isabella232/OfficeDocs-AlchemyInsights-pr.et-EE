@@ -1,5 +1,5 @@
 ---
-title: Haridusasutustes Live ' i tiitrite haldamine
+title: Haridusasutuste reaalajas pealdiste haldamine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066684"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Haridusasutustes Live ' i tiitrite haldamine
+# <a name="managing-live-captions-for-education-organizations"></a>Haridusasutuste reaalajas pealdiste haldamine
 
-Soovitame, et haridusasutuste administraatorid kaaluksid üliõpilaste ja koolitajate turvalisuse ja kasvatajate poliitika pakettide kasutamist. Lisateavet leiate järgmistest artiklitest:  
+Soovitame haridusasutuste administraatoritel kaaluda poliitikapakettide kasutamist õppurite ja haridustöötajate turvalisuse ja haridustöötajate jaoks. Lisateavet leiate järgmistest artiklitest:  
 
-- [Microsoft teamsi poliitika paketid](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Poliitikapaketid Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Poliitika, mis tuleks omistada õppurite ohutusele](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Poliitikad, mis tuleks määrata õppurite turvalisuse tagamiseks.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-- [Poliitika, mis tuleks õpetajatele määrata](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Haridustöötajatele määratavad poliitikad.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-Kui soovite hallata ainult Live ' i pealdiste lubamise võimalust, lugege teemat [reaalajas tiitrite lubamine](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Lisateavet leiate teemast [koosolekute poliitikate haldamine töörühmades](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Kui soovite hallata ainult reaalajas pealdiste lubamise võimalust, lugege teemat [Reaalajas pealdiste lubamine.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions) Lisateavet leiate teemast [Koosolekupoliitikate haldamine Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

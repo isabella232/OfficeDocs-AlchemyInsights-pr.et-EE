@@ -1,5 +1,5 @@
 ---
-title: Hübriid-võtme hankimine
+title: Hübriidvõtme saamine
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056522"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Exchange ' i hübriid-võtme hankimine
+# <a name="getting-an-exchange-hybrid-key"></a>Hübriidvõtme Exchange saamine
 
-Asutusesisese organisatsiooni ühendamiseks Microsoft 365 Exchange Online ' iga peate oma kohapealses asutuses häälestama vähemalt ühe Exchange ' i serveri. Seda serverit kasutatakse hübriid-juurutuse loomiseks, mis ühendab teie asutusesisest Exchange ' i organisatsiooni Exchange Online ' iga. Selle serveri jaoks hübriid-võtme hankimiseks järgige [Exchange ' i hübriid-tootevõtme levitamise viisardi](https://aka.ms/hybridkey)juhiseid.
+Asutusesisese asutuse ühendamiseks Exchange Online Microsoft 365 peate häälestama vähemalt ühe Exchange serveri oma asutusesiseses organisatsioonis. Seda serverit kasutatakse hübriidjuurutuse loomiseks, mis ühendab teie asutuse Exchange ja Exchange Online. Selle serveri hübriidvõtme toomiseks järgige Exchange tootevõtme levitamise [viisardi juhiseid.](https://aka.ms/hybridkey)
   

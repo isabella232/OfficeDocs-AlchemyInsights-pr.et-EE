@@ -1,5 +1,5 @@
 ---
-title: Projecti levinumad probleemid ja lahendused
+title: Project levinumad probleemid ja lahendused
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 36d504120b5d81b06294afbfb1be4c6e73f0f696c4ea7118c6867e56ccb46b70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830830"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039674"
 ---
-# <a name="project-common-issues-and-resolutions"></a>Projecti levinumad probleemid ja lahendused
+# <a name="project-common-issues-and-resolutions"></a>Project levinumad probleemid ja lahendused
 
-Siin on mõned sageli soovitud teemad Projecti kohta.
+Siin on mõned sageli soovitud teemad, Project.
 
-1. **Project Online'i kasutamise alustamine:**[alustage Project Online'i](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) kasutamist ja saate teada, kuidas project Online'i keskkonnas kavandada, juurutada ja hallata. [](https://docs.microsoft.com/projectonline/project-online)   [Oluliste piirangute vaatamiseks kontrollige Project Online'i](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) tarkvarapiiranguid ja -piire.
+1. **Alustage Project Online kasutamist.**[Alustage Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) ja saate teada, kuidas oma keskkonnas Project Online kavandada, juurutada ja hallata. [](https://docs.microsoft.com/projectonline/project-online)   Oluliste [piirangute Project Online vaadake üle tarkvarapiirangud](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) ja -piirid.
 
-2. **Andke kasutajatele juurdepääs Project Online'ile.** Saate [lisada inimesi, rühmi, ressursse ja jagada Project](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) Online'i, et teha koostööd teistega. 
+2. **Andke kasutajatele juurdepääs Project Online.** Saate [lisada inimesi, rühmi, ressursse Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) teistega koostööd teha. 
 
-3. **Project Web Appi (PWA) jõudluse häälestamine Project Online'is** Vaadake üle [mõne levinuma](https://docs.microsoft.com/projectonline/tune-project-online-performance) Project Web Appi sätete jõudlusmõju ja väljaostmised.
+3. **Häälestage Project Web Appi (PWA) jõudlust Project Online.** Vaadake üle [mõne levinuma](https://docs.microsoft.com/projectonline/tune-project-online-performance) veebirakenduse sätete jõudlusmõju ja Project väljaostmised.
 
-4. **Project Online'iga ühenduse loomine Project Desktop Clientiga** Project [Online'i töölauarakenduse abil](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) saate microsoft 365 keskkonnas luua ühenduse Project Online'i versiooniga. 
+4. **Ühendus Project Online töölauakliendiga Project teha.** Töölauarakenduse [Project Online saate](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) luua ühenduse Project Online oma Microsoft 365 keskkonnas. 
 
-5. **Project Professionali installimine:** [Project Professionali](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) installimine ja kasutamine Project Online'i tellimuse versioonides ja project 2019, 2016 või 2013 tellimuseta versioonides.
+5. **Installige Project Professional:** [](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) Project Professional installige ja kasutage Project Online'i tellimusversioone ja Project 2019, 2016 või 2013 tellimusväliseid versioone.

@@ -1,5 +1,5 @@
 ---
-title: Vaadake, kes häälestas postkastis edasisaatmise ja kuidas
+title: Uurige, kes on postkastis edasisaatmise häälestanud ja kuidas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6a1a1376758024339939d10a7d17520faa8505ea
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 6243e787bb6b51f26cf22782d9ec80f946430b864f53de7ea626b7166a674d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988176"
 ---
-# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Vaadake, kes häälestas postkastis edasisaatmise ja kuidas
+# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Uurige, kes on postkastis edasisaatmise häälestanud ja kuidas
 
-Kui postkastis on määratud väline edasisaatmine, auditeeritakse tegevust Set-Mailbox cmdlet-käsu osana. Auditilogi tegevuse leidmiseks tehke järgmist.
+Kui väline edasisuunamine oli postkastis määratud, auditeeritakse tegevust cmdlet-käsu Set-Mailbox osana. Tegevuste leidmiseks auditilogist saate teha nii:
 
-1. Avage [Office 365 turbe & täitmise keskus](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Valige **Otsingu** >  **auditilogi otsing**.
+1. Avage Office 365 [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Valige **Otsi** >  **auditilogi otsingut**.
     > [!NOTE]
-    > Kui kuvatakse teade selle kohta, et teil on vaja auditit lülitada, jätkake ja lülitage see kohe välja. Kui see funktsioon pole sisse lülitatud, ei saa otsingutulemused eelmistest kuupäevadest andmeid tõmmata.
-1. Veenduge, et välja **Tegevused** väärtuseks on seatud **kõigi tegevuste tulemid** (vaikeväärtus). Määrake kuupäevavahemik. Te ei pea kasutajanime määrama.
-1. Valige **Otsi**. Tegevused kuvatakse jaotises **tulemid**.
-1. Valige **Filtreeri tulemid** ja seejärel sisestage väljale **tegevuse** filter väärtus **Set-postkast** . See funktsioon annab tulemuseks kõik **postkasti** toimingud.
-1. Üksikasjade kuvamiseks valige tegevus ja seejärel valige **rohkem teavet**. Jaotises **Parameetrid** saate vaadata postkastis määratud edasisaatmise meiliaadressi. **Kasutajanimi** tähistab kasutajat, kes häälestas postkastis välise edasisaatmise.
-Lisateavet leiate teemast [Office 365 auditilogi otsimine levinud stsenaariumide tõrkeotsinguks](https://go.microsoft.com/fwlink/?linkid=2103944).
+    > Kui näete teadet, et peate auditeerimise sisse lülitama, lülitage see kohe sisse. Kui see funktsioon pole sisse lülitatud, ei saa otsingutulemid eelmistest kuupäevadest andmeid tõmmata.
+1. Veenduge, et **välja Tegevused** väärtuseks oleks määratud Kuva kõigi **tegevuste tulemid** (vaikesäte). Määrake kuupäevavahemik. Kasutajanime pole vaja määrata.
+1. Valige **Otsi**. Tegevused kuvatakse jaotises **Tulemid.**
+1. Valige **Filtreeri tulemid** ja seejärel **sisestage väljale** Tegevuse filter väärtus **Sea** postkast. See tagastab kõik **Set-Mailboxi tegevused.**
+1. Üksikasjade kuvamiseks valige soovitud tegevus ja seejärel valige **Lisateave**. Jaotises **Parameetrid** näete postkastis määratud edasisaatmismeiliaadressi. **UserID** tähistab kasutajat, kes häälestas postkastis välise edasisaatmise.
+Lisateavet leiate teemast Office 365 [auditilogist levinumate stsenaariumide tõrkeotsinguks.](https://go.microsoft.com/fwlink/?linkid=2103944)

@@ -1,5 +1,5 @@
 ---
-title: Mida teha, kui te ei saa Microsoft teamsi töörühma luua?
+title: Mida teha, kui te ei saa töörühma Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003963"
 - "7019"
-ms.openlocfilehash: 287416aac9034104272b4ddb453be04b2488f2f7
-ms.sourcegitcommit: e25893be57e1c4ced8e646d0fa3d0e8489880d7a
+ms.openlocfilehash: 439f00147f7d643fbb77fc4107c3664a4f4e0d6a58d31d2a5a33599fab16185f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048584"
 ---
-# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Mida teha, kui te ei saa Microsoft teamsi töörühma luua?
+# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Mida teha, kui te ei saa töörühma Microsoft Teams
 
-Paluge oma töörühma administraatoril teha järgmist.
+Paluge Teams administraatoril teha järgmist.
 
-1. Saate luua või muuta Microsoft 365 asutuse turberühma sätteid.
-2. Lisage see turberühma.
+1. Looge või muutke ettevõtte turberühma sätteid Microsoft 365.
+2. Lisage teid turberühma.

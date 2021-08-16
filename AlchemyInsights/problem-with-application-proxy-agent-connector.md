@@ -1,5 +1,5 @@
 ---
-title: Mul on probleeme rakenduse puhverserveri agendi konnektoriga
+title: Mul on rakenduse puhverserveri konnektoriga probleeme
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7802"
-ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: 26c2823a980b7c5112355b33499489f3d2fad9f4033c4a665a0e423a80ef85c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49884879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039710"
 ---
-# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Mul on probleeme rakenduse puhverserveri agendi konnektoriga
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Mul on rakenduse puhverserveri konnektoriga probleeme
 
-1. Microsoft Azure Active Directory rakenduse puhverserveri konnektor on sisemine domeeni komponent, mis kasutab väljaminevaid ühendusi, et luua Ühenduvus pilvest saadaoleva lõpp-punkti kaudu sisemisele domeenile.
-1. Kui teil on rakenduse puhverserveri agendi konnektori installimisega probleeme, tehke [tõrkeotsingu tegemiseks järgmist.](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview)
-1. Kui kasutate rakenduse puhverserveri teenust kohapealse veebirakenduse kaugjuurdepääsu jaoks, kuid teil on probleeme rakendusega ühenduse loomisega, saate [seda artiklit](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) kasutada Azure Active Directory (Azure AD) rakenduse puhverserveri konnektorid probleemide tõrkeotsinguks.
+1. Microsoft Azure Active Directory Rakenduse puhverserveri konnektor on sisemine domeenikomponent, mis kasutab väljaminevaid ühendusi pilvepõhise lõpp-punkti ja sisedomeeni ühenduvuse loomiseks.
+1. Kui teil on rakenduse puhverserveri agendi konnektori installimisel probleeme, [tehke tõrkeotsinguks](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) järgmist.
+1. Kui kasutate rakenduse puhverserveri teenust kaugjuurdepääsuks asutusesisesele veebirakendusele, kuid teil on probleeme [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) rakendusega ühenduse loomisega, kasutage seda artiklit, et aidata teil Azure Active Directory (Azure AD) rakenduse puhverserveri konnektorite probleemide tõrkeotsingut.

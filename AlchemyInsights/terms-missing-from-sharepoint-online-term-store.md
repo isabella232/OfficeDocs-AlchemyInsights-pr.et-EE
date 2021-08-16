@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ' i Termini salvest puuduvad terminid
+title: Terminid puuduvad SharePoint veebitermini poest
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: fd2824521d41eac892bf3a9cd4d8093751ccaf5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c596cf02128cbe58cd97ea802bf9ca1d0ce5b3b0a4334c4423754d86661c525a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669424"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039602"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>SharePoint Online ' i Termini salvest puuduvad terminid
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Terminid puuduvad SharePoint veebitermini poest
 
-SharePoint Online ' i terminite salves olevad terminid, mida ootate, ei kuvata või kuvatakse vahelduvalt.
+Terminite SharePoint veebitermini poes termineid ei kuvata või kuvatakse aeg-ajalt.
   
-Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenuse juhtumi korral. Mõistame, et 24 tundi võib tunduda pikk aeg. Paljudel juhtudel töötame juba lahenduse kallal, nii et palun anna meile vähemalt 24 tundi.
+Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenusejuhtum. Mõistame, et 24 tundi võib tunduda pika ajana. Paljudel juhtudel töötame juba lahenduse kallal, seega andke meile vähemalt 24 tundi.
   

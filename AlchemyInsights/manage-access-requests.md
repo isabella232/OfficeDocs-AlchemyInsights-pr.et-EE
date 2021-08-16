@@ -1,5 +1,5 @@
 ---
-title: Accessi päringute haldamine
+title: Juurdepääsutaotluste haldamine
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8674f8612dc2310b622f9324a515bb5d88b43271ac9d1a474eefa1be3cae750
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066828"
 ---
-# <a name="manage-access-requests"></a>Accessi päringute haldamine
+# <a name="manage-access-requests"></a>Juurdepääsutaotluste haldamine
 
-Kui kasutaja proovib SharePointi üksusele juurde pääseda ja neil pole õigust, kuvatakse neile teade, et nad vajavad üksusele juurdepääsuks vajalikku õigust. Kasutaja saab taotleda juurdepääsu (teatud juhtudel teatud üksusele või rühmaga liitumiseks) ja saidi omanik saab taotluse heaks kiita või sellest keelduda. Kui keegi, kes ei ole saidi omanik, jagab saidi teise inimesega, saab saidi omanik ka uue kasutaja jaoks Accessi taotluse. Accessi taotluste kinnitamiseks või tagasilükkamiseks tehke järgmist.
+Kui kasutaja proovib üksusele juurde pääseda SharePoint tal pole õigusi, kuvatakse talle teade, et tal on vaja üksusele juurdepääsu õigust. Kasutaja saab taotleda juurdepääsu (mõnel juhul konkreetsele üksusele või rühmaga liitumiseks) ja saidi omanik saab taotluse kinnitada või tagasi lükata. Kui keegi, kes pole saidi omanik, jagab saiti teise inimesega, saab saidi omanik ka uue kasutaja juurdepääsutaotluse. Juurdepääsutaotluste kinnitamiseks või tagasilükkamiseks:
   
-1. Minge saidile, klõpsake paremas ülanurgas olevat ikooni sätted ja seejärel klõpsake käsku **saidi sätted**. (Kui te ei näe saidi sätteid, klõpsake nuppu **saidi õigused**ja siis käsku **Täpsemad õiguse sätted**. Otsige bännerit, millel on link nimega "Kuva Accessi päringud ja kutsed.")
+1. Avage sait, klõpsake paremas ülanurgas Sätted ikooni Ja seejärel klõpsake käsku **Saidi Sätted**. (Kui te ei näe käsku Saidi Sätted, klõpsake nuppu **Saidiõigused** ja seejärel nuppu **Täpsemad õigusesätted.** Otsige ribareklaami, mille link on "Show access requests and invitations" ("Kuva juurdepääsutaotlused ja kutsed").
     
-2. Klõpsake jaotises **kasutajad ja load**nuppu **Accessi päringud ja kutsed**. (Kui seda ei kuvata, pole Accessi taotlusi esitatud.)
+2. Klõpsake **jaotises Kasutajad ja õigused** nuppu **Accessi taotlused ja kutsed.** (Kui seda ei kuvata, pole juurdepääsutaotlusi esitatud.)
     
-3. Kui soovite anda kasutajale loa ükshaaval, klõpsake nuppu **Kinnita** või **keeldu**. Kindla õigusetaseme valimiseks klõpsake esmalt isiku nime kõrval olevat kolmikpunkt (...). Teise võimalusena lisage kasutaja rühma, millel on saidi õigused. Saitide ja klassikaliste meeskonnatöö saitide korral saate seda teha lehel saidi sätted. Microsoft 365 rühma kuuluvate saitide jaoks saate lisada kasutaja rühma.
+3. Kasutajale eraldi õiguse andmiseks klõpsake nuppu Kinnita **või** **Keeldu**. Kindla õigusetaseme valimiseks klõpsake esmalt isiku nime kõrval kolmikpunkti (...). Teise võimalusena saate lisada kasutaja rühma, kus on saidi jaoks õigused. Suhtlussaitide ja klassikaliste meeskonnatöö saitide korral saate seda teha lehel Sätted. Saidid, mis kuuluvad Microsoft 365 rühma, saate kasutaja rühma lisada.
     
-    [Accessi päringute haldamine ](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Juurdepääsutaotluste haldamine ](https://go.microsoft.com/fwlink/?linkid=2008747)
     
-    [Lisateavet õiguste tasemete kohta](https://go.microsoft.com/fwlink/?linkid=867071)
+    [Lisateave õigusetasemete kohta](https://go.microsoft.com/fwlink/?linkid=867071)
     
 

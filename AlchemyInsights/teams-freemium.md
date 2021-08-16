@@ -1,5 +1,5 @@
 ---
-title: Teamsi Freemium
+title: Teams Freemium
 ms.author: heidip
 author: heidip
 ms.date: 04/21/2020
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9ee8e58510ec8ca550de60ff7b07855427633bae055b738eeef3e838edd7c609
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708202"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048800"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Ma sooviksin registreeruda Teamsi tasuta
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Soovin registreeruda tasuta Teams jaoks
 
-Teams on saadaval tasuta paari eri programmi kaudu. Kuna võtate ühendust tugiteenusega selle taotlusega, on teil juba olemasolev Microsoft 365 rentnik, mis tähendab, et teil on juba Microsoft Teams.
+Teams on saadaval tasuta paari eri programmi kaudu. Kuna pöördute selle taotlusega tugiteenuse poole, on teil juba Microsoft 365 rentnik, mis tähendab, et teil on Microsoft Teams.
 
-Enamikul juhtudel on meeskonnad kõigi kasutajate jaoks vaikimisi sisse lülitatud. Kui see on sisse lülitatud, saavad kasutajad töörühmasid käitada kas [töölaua](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   -ja [mobiilsete](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) klientide installimisega või [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)    [Microsoft teamsi](https://www.microsoft.com/microsoft-teams/teams-for-work)brauseri kaudu.
+Enamasti on Teams kõigi kasutajate jaoks vaikimisi sisse lülitatud. Kui see on sisse lülitatud, saavad kasutajad käivitada [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)Teams, installides töölaua- ja mobiilikliendid või brauseri kaudu    [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)  [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)    [Microsoft Teams](https://www.microsoft.com/microsoft-teams/teams-for-work).
 
-Erandiks on Microsoft Teams for Education (EDU). Kui teil on EDU litsents, peate Microsoft Teamsi käsitsi lubama. Selleks avage Microsoft 365 halduskeskus **> teenused ja lisandmoodulid > Microsoft Teams**. Kui kasutate uut töörühma halduskeskus, peate välja lülitama **uue administreerimiskeskuse**,   et otsida **teenuseid ja lisandmooduleid**. OLULINE: muudatuste jõustumiseks peate võib-olla ootama kuni 24 tundi.
+Erandiks on Microsoft Teams haridusasutustele (EDU). Kui teil on EDU-litsents, peate selle Microsoft Teams käsitsi. Selleks avage Microsoft 365 halduskeskus> ja lisandmoodulite **> Microsoft Teams.** Kui kasutate uut halduskeskust Teams peate teenuste ja lisandmoodulite **** otsimiseks välja lülitama funktsiooni Proovi uut    **halduskeskust.** TÄHTIS. Muudatuste jõustumist peate võib-olla ootama kuni 24 tundi.
 
-Ära jäta kõiki meie juhiseid, mis on mõeldud [Kaug-töötajate toetamiseks võistkondadega](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Ärge jääge ilma meie juhistest [kaugtööliste](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)Teams.

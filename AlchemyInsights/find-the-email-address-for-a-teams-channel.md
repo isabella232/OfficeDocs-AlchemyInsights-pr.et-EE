@@ -1,5 +1,5 @@
 ---
-title: Teamsi kanali meiliaadressi saatmine
+title: Kanali meiliaadressi Teams saatmine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5580"
-ms.openlocfilehash: 0a146728b6bd2d57bd299c7f17993a82d7ccef9e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9042d372e88391b02b91f9eee2121963c60a437abfc39c818adcfcb76a17357b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988163"
 ---
-# <a name="find-the-email-address-for-a-teams-channel"></a>Teamsi kanali meiliaadressi saatmine
+# <a name="find-the-email-address-for-a-teams-channel"></a>Kanali meiliaadressi Teams saatmine
 
-Kui soovite Teamsis saata meili kanalile, kasutage kanali meiliaadressi. Kui meilisõnum on kanali osa, saavad kõik sellele vestluse alustamiseks vastata.
+Kui soovite saata meilisõnumi kanalile Teams, kasutage kanali meiliaadressi. Kui meilisõnum on kanali osa, saavad kõik sellele vestluse alustamiseks vastata.
 
-Märkus. Kui suvandit Hangi  meiliaadress ei näe, kontrollige, kas Teamsi meiliintegratsioon on lubatud, selleks valige **Teamsi halduskeskus** Organisatsiooni lai sätted Teamsi sätted >  >  > **Teamsi meiliintegratsioon**
+Märkus. Kui te ei  näe suvandit Hangi meiliaadress, kontrollige, kas Teams meiliintegratsioon on lubatud, selleks valige **Teams halduskeskus** > **Org wide Sätted** > **Teams Sätted** Teams > **email integration**
 
 Meiliaadressi otsimiseks avage kanali nimi ja klõpsake nuppu Rohkem suvandeid **> Hangi meiliaadress**.
 
-Lisateavet leiate teemast [Teamsis kanalile meilisõnumi saatmine.](https://support.office.com/article/send-an-email-to-a-channel-in-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e)
+Lisateavet leiate teemast Meili [saatmine kanalile](https://support.office.com/article/send-an-email-to-a-channel-in-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e)Teams.
 
-Administraatorid saavad Teamsi halduskeskuses hallata, kas kasutajad saavad Teamsis kanalile meilisõnumeid saata. Lugege lisateavet meiliintegratsiooni [haldamise kohta.](https://docs.microsoft.com/microsoftteams/enable-features-office-365#email-integration)
+Administraatorid saavad halduskeskuses Teams, kas kasutajad saavad saata meilisõnumeid kanalile Teams. Lugege lisateavet meiliintegratsiooni [haldamise kohta.](https://docs.microsoft.com/microsoftteams/enable-features-office-365#email-integration)
