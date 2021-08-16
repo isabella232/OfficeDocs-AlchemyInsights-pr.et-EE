@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101298"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kas te ei saa e-juurdluse ekspordi tööriista installida või käivitada?
 
@@ -28,7 +28,7 @@ Kui te ei saa otsingutulemite allalaadimiseks e-juurdluse ekspordi tööriista i
   
 - Arvuti, mida kasutate, vastab rekvisiitide nõuetele.
 
-  - Windows 7 ja uuemate versioonide 32- või 64-bitised versioonid
+  - 32- või 64-bitised versioonid Windows 7 ja uuemates versioonides
 
   - Microsoft .NET Framework 4.7
 
@@ -44,7 +44,7 @@ Kui te ei saa otsingutulemite allalaadimiseks e-juurdluse ekspordi tööriista i
 
 - Teie ettevõte saab luua ühenduse Azure'i lõpp-punktiga, **\* mis on .blob.core.windows.net** (metamärk tähistab teie eksporditöö kordumatut identifikaatorit).
 
-- Teile määratakse Microsoft 365 turbenõuete keskuses &amp; ekspordiroll. Vaikimisi määratakse see roll ainult e-juurdluse halduri rollirühmale. Lugege [teemat E-juurdluse õiguste määramine.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- Teile määratakse ekspordiroll Microsoft 365 &amp; turbenõuete keskuses. Vaikimisi määratakse see roll ainult e-juurdluse halduri rollirühmale. Lugege [teemat E-juurdluse õiguste määramine.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 Lisateavet leiate teemast [Sisuotsingu tulemite eksportimine.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 

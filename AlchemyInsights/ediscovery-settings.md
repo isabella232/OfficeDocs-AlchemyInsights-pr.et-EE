@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101226"
 ---
 # <a name="ediscovery-settings"></a>E-juurdluse sätted
 
-e-juurdluse/sisu otsingud võimaldavad otsida, hoida ja eksportida sisu Exchange Online ' i postkastidest, SharePoint Online ' ist ja OneDrive for Businessi saitidest, Skype ' i ärirakenduse vestlusi, Microsoft 365 Teamsi
+e-juurdluse/sisuotsingute abil saate otsida, hoida ja eksportida sisu Exchange Online postkastidest, SharePoint Online'ist ja OneDrive for Business saitidelt, Skype'i ärirakendus vestlustest, Microsoft Teams ja Microsoft 365 rühmadest.
 
-- Kui otsite e-juurdluse või sisu otsimise menüü suvandeid, lugege teemat e- [juurdluse probleemid](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Siit leiate teavet selle kohta, millised on e [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)-juurdluse jaoks vajalikud juurdepääsuõigused e-juurdluse otsingu
-- Kui teie otsing ei tagasta oodatud tulemeid, lugege teemat [Otsi oodatud tulemeid ei tagasta](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Kui otsite e-juurdluse või sisuotsingu menüüsuvandeid, lugege teemat [e-juurdluse probleemid](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Siit leiate teavet e-juurdluse otsingute sooritamiseks vajalike õiguste kohta [e-juurdluse otsingute jaoks vajalikest õigustest.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Kui teie otsing ei tagasta oodatud tulemeid, lugege teemat [Otsing, mis ei tagasta oodatud tulemeid.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-E-juurdluse kohta leiate lisateavet teemast e- [juurdlus](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Lisateavet e-juurdluse kohta leiate teemast [E-juurdlus.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
