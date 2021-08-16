@@ -1,5 +1,5 @@
 ---
-title: Exchange Serveri värskenduste installimisel on probleeme
+title: Probleemid värskenduste Exchange Server installimisel
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6d454a78feca7ece7c3d7d6c93f8eb5d343106b68029b96839b5ff28077d0f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013024"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Exchange Serveri värskenduste installimisel on probleeme
+# <a name="issues-when-installing-exchange-server-updates"></a>Probleemid värskenduste Exchange Server installimisel
 
-Kui teil on vaja värskendada Exchange Serveri uusimale koondvärskendusele (CU), saate saada üksikasjalikud juhised praeguse CU värskendamiseks [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) siht-CU-ks.
+Kui teil on vaja värskendada uusimat koondvärskendust (CU) Exchange Server, saate saada üksikasjalikud juhised praeguse cu-lt [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) siht-CU-le värskendamiseks.
 
-Kui Exchange Serveri värskenduste installimisel või pärast seda ilmneb tõrkeid, lugege artiklit Exchange'i täiendamine [uusimaks koondvärskenduseks](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates)artikli "Head tavad". Turvavärskendused tuleb installida kõrgendatud CMD-viiba abil (kui Microsoft Update'i kaudu värskendusi ei installita).
+Kui värskenduste installimise ajal või pärast seda Exchange Server ilmneb tõrkeid, lugege artikli "Exchange koondvärskenduse versioonitäiendus" jaotist ["Head tavad".](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Turvavärskendused tuleb installida kõrgendatud CMD-viiba abil (kui Microsoft Update'i kaudu värskendusi ei installita).
 
-Kui turvavärskenduse installimisel või pärast värskenduse installimist ilmneb tõrkeid, lugege [teemat Exchange'i koond-](https://aka.ms/exupdatefaq)ja turbevärskenduste nurjunud installide parandamine.
+Kui turvavärskenduse installimisel või pärast värskenduse installimist ilmneb tõrkeid, lugege teemat Exchange [ja Turbevärskenduste nurjunud installide parandamine.](https://aka.ms/exupdatefaq)
