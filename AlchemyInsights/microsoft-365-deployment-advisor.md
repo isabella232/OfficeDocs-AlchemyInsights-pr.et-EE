@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 juurutamine
+title: Juurutage Microsoft 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004194"
 - "7374"
-ms.openlocfilehash: 6d5c7042d2d8b2a113a8f2047b6d776d9247dd99
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 16bdbfaf95ee3744027ce03d591518db86cad0c9b86a227244a908245501eb6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677539"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027379"
 ---
-# <a name="deploy-microsoft-365"></a>Microsoft 365 juurutamine
+# <a name="deploy-microsoft-365"></a>Juurutage Microsoft 365
 
-[Microsoft 365 Deployment Advisor](https://go.microsoft.com/fwlink/?linkid=2072646) pakub äriklientidele juhiseid tööviljakuse tööriistade, turbepoliitika ja seadmete haldamise võimaluste häälestamisel. Microsoft 365 Business Premiumi või Microsoft 365 Enterprise ' i tellimuse jaoks saate kasutada seda nõustajat ettevõtte seadmete häälestamiseks ja konfigureerimiseks.
+[Juurutusnõustaja Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646) äriklientidele juhiseid tööviljakuse tööriistade, turbepoliitikate ja seadmehalduse võimaluste häälestamisel. Ettevõtte Microsoft 365 Business Premium või Microsoft 365 tellimuse korral saate selle nõustaja abil oma ettevõtte seadmeid häälestada ja konfigureerida.
 
-Saate juhiseid ja juurdepääsu ressurssidele, et lubada oma pilveteenuse teenuseid, värskendada seadmeid uusimale Windows 10 versioonile ja ühendada seadmed Azure Active Directoryga (Azure AD), mis on kõik ühes keskses asukohas.
+Saate juhiseid ja juurdepääsu ressurssidele, et lubada oma pilveteenused, värskendada seadmeid uusima toetatud Windows 10 versiooniga ja ühendada seadmed Azure Active Directory (Azure AD) ühte kesksesse asukohta.

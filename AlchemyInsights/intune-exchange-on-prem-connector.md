@@ -1,5 +1,5 @@
 ---
-title: Asutusesisese konnektori Intune ' i häälestamine
+title: Intune Exchange on-premise Connector
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013960"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Asutusesisese konnektori Intune ' i häälestamine
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange on-premise Connector
 
-Lisateavet kohapeal majutatud Intune ' i ja Exchange ' i vahelise konnektori häälestamise kohta leiate järgmistest dokumentidest.
+Lisateavet intune'i ja Exchange vahel konnektori häälestamise kohta leiate järgmistest dokumentidest.
 
-[Microsoft Intune Azure ' i häälestamine asutusesisese Exchange ' i konnektori häälestamiseks](https://docs.microsoft.com/intune/exchange-connector-install)
+[Intune'i asutusesisese Exchange konfiguratsiooni Microsoft Intune Azure'is](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**KKK**
+**KKK:**
 
-K: Exchange Connectori häälestamise katsel kuvatakse tõrketeade "Exchange Connectori versiooni pole toetatud". Mis võiks olla põhjus?
+K. Kuvatakse tõrketeade "Exchange Konnektori versiooni ei toetata", kui proovite häälestada Exchange konnektorit. Mis võib olla põhjuseks?
 
-V: konto, mida kasutate, on litsentsitud asjakohaselt – sellel peab olema aktiivne Intune ' i litsents.
+A. Konto, mida kasutate, on litsentsitud sobival viisil – sellel peab olema aktiivne Intune'i litsents
 
-K: Kas on võimalik kasutada mitut Exchange ' i konnektorit?
+Küsimus. Kas mitme konnektori Exchange?
 
-V: saate häälestada ühe Exchange ' i konnektori ühe Exchange ' i asutuse rentniku kohta. Konnektori saab installida ainult ühte serverisse mitme serveri Exchange ' i organisatsioonis.
+A. Saate häälestada ainult ühe Exchange intune'i rentniku kohta ühe Exchange kohta. Konnektori saab installida ainult ühte serverisse mitme serveriga exchange'i organisatsioonis.
 
-Samuti ei saa teil olla ühendatud samasse rentniku jaoks konfigureeritud nii Exchange ' i kohapealsete kui ka Exchange Online ' i jaoks.
+Samuti ei saa konnektorid konfigureerida nii Exchange kui ka Exchange Online rentniku jaoks.
 
-K: kas konnektor kasutab Exchange ' iga ühendust CAS-massiivina?
+K. Kas konnektor saab kasutada CAS-massiivi selle ühendamiseks Exchange?
 
-V: CAS-massiivi määramine pole konnektori häälestamisel toetatud konfiguratsioon. Ainult üks server tuleks määrata ja see peaks olema kõva konnektori konfiguratsioonifaili, mida võib leida
+V. CAS-massiivi määramine pole konnektori häälestuses toetatud konfiguratsioon. Määrata tuleks ainult üks server, mis peaks olema konnektori konfiguratsioonifailis raske kodeerida, mille leiate
 
-programmi data\microsoft\microsoft Intune for Exchange Connector \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premise Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Otsige üles järgmine kirje ```<ExchangeWebServiceURL />``` ja asendage URL Exchange ' i serveriga.
+Otsige üles järgmine kirje ```<ExchangeWebServiceURL />``` ja asendage URL exchange'i serveriga.
 
-**Nt**
+**Näide:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Lisateavet leiate järgmistest dokumentidest: [asutusesisese Exchange Connectori Intune ' i tõrkeotsing](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Lisateavet leiate järgmisest dokumentatsioonist: [Intune'i asutusesisese](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune) Exchange tõrkeotsing
 
-**Exchange Connectori verbose logimise lubamine**
+**Verbose logimise lubamine Exchange konnektori jaoks**
 
-1. Avage redigeerimise jaoks Exchange Connectori jälgimise konfiguratsioonifail.  
-See toimik asub aadressil:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Avage Exchange konnektori jälgimise konfiguratsioonifail.  
+Faili asukoht on : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Nt**
+**Näide:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Leidke TraceSourceLine, millel on järgmine võti: OnPremisesExchangeConnectorService  
+2. Leidke traceSourceLine järgmise võtmega: OnPremisesExchangeConnectorService  
   
-3. SourceLevel muutmine ActivityTracing (vaikeväärtus) väärtuseks verbose ActivityTracing  
+3. Muutke lähtetaseme sõlme väärtus väärtuseks Information ActivityTracing (vaikesäte) väärtuseks Verbose ActivityTracing (Tegevuse jälgimine)  
 
-**Nt**
+**Näide:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ See toimik asub aadressil:%ProgramData%\Microsoft\Windows Intune Exchange Connec
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Microsoft Intune ' i Exchange ' i teenuse taaskäivitamine  
-5. Täielik sünkroonimine Intune ' i portaalis, kuni see on lõpule jõudnud, ja seejärel muutke XML tagasi "teabe ActivityTracing" ja taaskäivitage Microsoft Intune Exchange ' i teenus.  
-6. Logide asukoht: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`
+4. Taaskäivitage Microsoft Intune Exchange teenus  
+5. Täielik sünkroonimine Intune'i portaalis, kuni see lõpetatakse, ja seejärel muutke XML-iks "Teabetegevuse jälgimine" ja taaskäivitage Microsoft Intune Exchange teenus.  
+6. Logide asukoht on: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

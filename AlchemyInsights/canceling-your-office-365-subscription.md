@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996590"
 ---
 # <a name="canceling-your-subscription"></a>Kas tühistate tellimuse?
 
 Meil on kahju, et teid kaasatakse, kuid kui soovite tellimuse tühistada, saate teha järgmised valikud.
   
 - Kui teile on määratud vähem kui 25 litsentsi, saate tellimuse veebis tühistada. Avage leht  \> **[Toodete arveldamine](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja otsige üles tellimus, mille soovite tühistada. Valige kolm punkti (veel toiminguid) ja seejärel valige **Tühista tellimus.**
-- Kui teile on määratud rohkem kui 25 litsentsi, [helistage tellimuse tühistamiseks tugiteenusele.](https://go.microsoft.com/fwlink/p/?linkid=518322)
+- Kui teile on määratud rohkem kui 25 litsentsi, vähendage tellimuse tühistamiseks või tellimuse tühistamiseks tugiteenuseid helistamiseks vähem kui 25 [litsentsini.](/microsoft-365/business-video/get-help-support)
   
 **Tagasimakse. Iga prorated credit tagastatakse teile järgmise arveldustsükli jooksul.**
 

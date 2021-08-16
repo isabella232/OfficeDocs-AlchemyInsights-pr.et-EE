@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996662"
 ---
 # <a name="buy-azure-active-directory-premium-p2"></a>Osta Azure Active Directory Premium P2
 
-Azure Active Directory Premium P2 proovimiseks või ostmiseks tehke järgmist.
+P2 proovimiseks või Azure Active Directory Premium ostmiseks tehke järgmist.
 
-1. Avage **arvelduse**  >  **ostmise teenuste**  >  [**Turve ja identiteet**](https://go.microsoft.com/fwlink/?linkid=2131946)ning seejärel klõpsake valikut **Azure Active Directory Premium P2**.
-Kui olete valinud tasuta prooviversiooni, viige toiming lõpule, järgides lehel toodud juhiseid. Vastasel juhul jätkake juhisega 2.
-1. Sisestage järgmisel lehel kasutaja litsentside arv ja maksetähtaeg ning seejärel klõpsake nuppu **Mölli kohe välja**.
-1. Vaadake lehel **Checkout** üle hindade teave ja klõpsake siis nuppu **edasi**.
-1. Järgmisel lehel sisestage oma makse-ja kontaktaadress ning seejärel esitage tellimus.
-1. Sisestage oma telefoninumber ja klõpsake siis nuppu **tekst mina** või **Helista mulle**.
-1. Sisestage kinnitamise kood, mille saatsime teile, ja seejärel lõpetage protsess, järgides lehel toodud juhiseid.
+1. Avage **Arveldamine**  >  **Teenuste ostmine**  >  [**Turve ja identiteet**](https://go.microsoft.com/fwlink/?linkid=2131946)ning seejärel klõpsake nuppu Azure Active Directory Premium **P2**.
+Kui olete valinud tasuta prooviversiooni, järgige lehel toodud juhiseid. muul juhul jätkake 2. juhise juurde.
+1. Sisestage järgmisel lehel kasutajalitsentside arv ja makseperiood ning klõpsake seejärel nuppu **Väljamregistreeri kohe.**
+1. Vaadake **lehel Väljaregistreerimine** läbi hinnateave ja seejärel klõpsake nuppu **Edasi**.
+1. Järgmisel lehel sisestage makse- ja aadressiteave ning sisestage tellimus.
+1. Sisestage oma telefoninumber ja klõpsake siis nuppu **Tekst mulle või** Helista **mulle**.
+1. Sisestage kinnituskood, mille oleme teile saatnud, ja seejärel täitke toiming, järgides lehel kuvatavaid juhiseid.

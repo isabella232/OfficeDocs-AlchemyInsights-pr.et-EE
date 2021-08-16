@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988399"
 ---
 # <a name="enable-the-audit-log"></a>Auditilogi lubamine
 
-Teatiste järgimine eeldab, et auditilogid kuvataks teatisi ja jälitavad läbivaatajate võetud parandusmeetmeid. Auditi logid on kõigi määratletud organisatsiooni poliitikaga seotud tegevuste kokkuvõte, sealhulgas iga kord, kui teatise vastavuse poliitika muutub. Auditi Logimise sisselülitamiseks tehke järgmist.
+Suhtluse nõuetele vastavuse tagamiseks peavad auditilogid kuvama teatised ja jälitama läbivaatajate tehtud parandamise toiminguid. Auditilogid on kokkuvõte kõigi määratletud organisatsioonipoliitikaga seotud tegevustest( sh iga kord, kui suhtluspoliitika muutub). Auditilogi sisselülitamiseks:
 
-1. Valige [turbe & täitmise keskuses](https://go.microsoft.com/fwlink/?linkid=2101341) **Otsingu**  >  **auditi Logi otsing**.
-2. Valige **Lülita audit**.
+1. Avage [turbe- & vastavuskeskuses](https://go.microsoft.com/fwlink/?linkid=2101341)Otsing   >  **auditilogi otsing**.
+2. Valige **Lülita auditeerimine sisse.**
 
-    Pärast auditeerimise sisselülitamist kuvatakse teade, mis ütleb, et auditilogi valmistatakse ette ja te saate mõne tunni pärast ettevalmistuse lõpuleviimist otsingu käivitada. Seda toimingut tuleb teha ainult üks kord.
+    Pärast auditeerimise sisselülitamist kuvatakse teade, mis ütleb, et auditilogi on ette valmistatud ja saate otsingu käivitada paari tunni jooksul pärast ettevalmistuse lõpule viimist. Seda toimingut tuleb teha ainult üks kord.
 
-Lisateavet leiate teemast [auditilogi otsingu sisse-või väljalülitamine](https://go.microsoft.com/fwlink/?linkid=2129077) ja [auditilogi otsimine](https://go.microsoft.com/fwlink/?linkid=2123729).
+Lisateavet leiate teemast Auditilogi [otsingu sisse- või väljalülitamine ja](https://go.microsoft.com/fwlink/?linkid=2129077) [Auditilogist otsimine.](https://go.microsoft.com/fwlink/?linkid=2123729)

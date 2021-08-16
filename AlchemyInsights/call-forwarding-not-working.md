@@ -1,5 +1,5 @@
 ---
-title: Kõnede suunamine, kõnede rühmad ja üheaegsed rõngad meeskondades
+title: Kõnede suunamine, kõnerühmad ja samaaegne helisemine Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996410"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Kõnede suunamine, kõnede rühmad ja üheaegsed rõngad meeskondades
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Kõnede suunamine, kõnerühmad ja samaaegne helisemine Teams
 
-Kõnede suunamise häälestamine
+Kõnede edasisaatmise häälestamine
 
-1. Klõpsake Teamsi klientrakenduses töörühma ülaosas oma profiili pilti ja valige siis **sätted > kõned**.
-2. Valige jaotises **kõnede vastamise reeglid** käsk **Edasta minu kõned** ja seejärel valige koht, kuhu soovite oma edasisaadetud kõned saata: Kõnepost, teine isik või kõne rühm.
+1. Klõpsake Teams klientrakenduse ülaosas oma profiilipilti ja Teams valige **Sätted > Kõned**.
+2. Valige **jaotises Kõnepostireeglid** käsk Suuna mu **kõned** edasi ja seejärel valige koht, kuhu soovite edasi saadetud kõned edasi saata: kõnepost, teine isik või kõnerühm.
 
-Kõnede ümbersuunamise häälestamine rühmale
+Kõne suunamise häälestamine kõnerühmale
 
-1. Valige jaotises **kõnede vastamise reeglid** käsk **Saada minu kõned edasi**.
-2. Valige menüü **edasi to** **Call Group**.
-3. Lisage jaotises **inimeste lisamine** oma kõnede rühma soovitud inimesed. Saad lisada kuni 25 inimest. Lisatavad kõik saavad teate.
+1. Valige **jaotises Kõne vastamise reeglid** käsk Suuna mu **kõned edasi**.
+2. Valige **menüüs Saada edasi** käsk **Helista rühmale**.
+3. Lisage **jaotises Inimeste** lisamine soovitud inimesed oma kõnerühma. Saate lisada kuni 25 inimest. Kõik, keda lisate, saavad teatise.

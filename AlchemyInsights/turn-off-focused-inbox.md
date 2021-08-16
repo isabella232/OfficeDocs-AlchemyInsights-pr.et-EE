@@ -1,5 +1,5 @@
 ---
-title: 8000001 fookuses oleva sisendkausta väljalülitamine
+title: 8000001 Fookeeritud sisendkausta väljalülitamine
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038693"
 ---
-# <a name="turn-off-focused-inbox"></a>Fookuses oleva sisendkausta väljalülitamine
+# <a name="turn-off-focused-inbox"></a>Fookeeritud sisendkausta väljalülitamine
 
-1. Valige **sätted** \> **fookuses sisendkaust**.  
+1. Valige **Sätted** \> **Fookeeritud sisendkaust**.  
 
-2. Valige jaotises **meilisõnumi vastuvõtmisel**käsk **ära sordi sõnumeid**.
+2. Valige **jaotises Meilisõnumite saatmisel** **suvand Ära sordi sõnumeid.**
 
 3. Valige **OK**.
 
-Lisateavet leiate teemast [fookuses olev sisendkaust Outlooki jaoks](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate teemast [Fookeeritud sisendkaust Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).

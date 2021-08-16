@@ -1,5 +1,5 @@
 ---
-title: Windows Virtual Desktopi peamised võimalused
+title: Virtual Desktopi Windows võimalused
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067116"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Windows Virtual Desktopi peamised võimalused
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Virtual Desktopi Windows võimalused
 
-Windows Virtual Desktop on töölaua virtualiseerimise ja rakenduste virtualiseerimise teenus, mis töötab pilves. Kui käivitate Azure ' i Windowsi virtuaalse töölaua, saate teha järgmist.
+Windows Virtuaaltöölaud on töölaua virtualiseerimis- ja rakenduse virtualiseerimisteenus, mis töötab pilves. Azure'is virtuaalse töölaua Windows saate teha nii:
 
-- Windows 10 juurutuse häälestamine, kus on Windows 10 terviklik kogemus koos tagiga
-- Virtualiseerimiseks määrab Microsoft 365 rakendused ja optimeerige see mitme kasutajaga virtuaalsete stsenaariumide käitamiseks
-- Windows 7 virtuaalsetele lauaarvutitele tasuta laiendatud turvavärskenduste andmine (ESÜD)
-- Olemasolevate kaugtöölaua teenuste (RDS) ja Windows Serveri lauaarvutite ja rakenduste toomine igasse arvutisse
-- Operatsioonisüsteemi Windows 10, Windows Server ja Windows 7 töölauad ja rakendused, millel on ühendatud juhtimise kogemus
-- Saate Azure ' i tellimuses luua täieliku töölaua virtualiseerimise keskkonna, ilma et peaksite käivitama täiendavaid lüüsi servereid.
-- Avalda nii palju Host basseinid, kui vaja, et mahutada oma mitmekesiseid töökoormusi
-- Tehke Azure ' i galeriist oma pildid tootmise töökoormuste ja testide jaoks.
-- Kulude vähendamine puulitud, mitme seansi ressursside abil
-- Isikliku (püsiva) lauaarvutite kaudu individuaalse kuuluvuse andmine
+- Mitmeseansilise juurutuse Windows 10, mis pakub täielikku Windows 10 skaleeritavust.
+- Virtualiseerige Microsoft 365 rakendused ja optimeerige see mitme kasutajaga virtuaalstsenaariumide jaoks.
+- Pakume Windows 7 virtuaaltöölauda tasuta laiendatud turbevärskendustega (ESU)
+- Tooge olemasolevad kaugtöölaua teenused (RDS) ja Windows serveri töölauad ja rakendused mis tahes arvutisse
+- Saate Windows 10, Windows serverit ja Windows 7 töölauda ja rakendust ühtse halduskogemusega
+- Azure'i tellimuses täieliku töölaua virtualiseerimiskeskkonna loomine ilma täiendavaid lüüsiservereid käivitamata
+- Avaldage nii palju hostikaustu, kui vaja, et mahutada oma erinevaid töökoormusi
+- Tooge Azure'i galeriist oma pildid töökoormuste ja testide jaoks.
+- Kulude vähendamine ühendatud mitmeseansiliste ressursside abil
+- Isikliku omandi esitamine isiklike (püsivate) töölaudade kaudu
 
-Lisateavet leiate teemast [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) ja [peamised võimalused](https://go.microsoft.com/fwlink/?linkid=2127033).
+Lisateavet leiate teemast [Windows Virtual Desktop Essentialsi ja](https://go.microsoft.com/fwlink/?linkid=2127033) [võtmefunktsioonid.](https://go.microsoft.com/fwlink/?linkid=2127033)
 

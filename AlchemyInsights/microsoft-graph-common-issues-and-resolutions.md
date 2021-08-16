@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graphi levinud probleemid ja lahendused
+title: Microsoft Graph levinud probleemid ja lahendused
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027262"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graphi levinud probleemid ja lahendused
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph levinud probleemid ja lahendused
 
-Microsoft Graphiga teadaolevate probleemide kohta leiate lisateavet teemast [teadaolevad probleemid Microsoft Graphiga](https://docs.microsoft.com/graph/known-issues). Muude küsimuste ja ressursside kohta leiate lisateavet artiklist [Microsoft Graphi dokumentatsiooni](https://docs.microsoft.com/graph/) leht.
+Microsoft Graph teadaolevate probleemide täieliku loendi leiate teemast [Teadaolevad](https://docs.microsoft.com/graph/known-issues)microsoft Graph . Muude küsimuste ja ressursside kohta leiate teavet [Microsoft Graph dokumentatsiooni põhilehelt.](https://docs.microsoft.com/graph/)
 
-- [Microsoft GRAPHI Rest API v 1.0 viide](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Siit leiate teavet [selle kohta,](https://docs.microsoft.com/graph/changelog)mida on Microsoft Graphi API-s muudetud. 
-- [Küsige küsimusi või Andke tagasisidet graafiku API-de ja docs-i kohta](https://aka.ms/GraphDeveloperSupport) arendaja kasutajatoe meeskonnaga.
+- [Microsoft Graph REST API v1.0 viide](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
+- Siit saate teada, mis on Microsoft Graph API-s muutunud, [changelogi kaudu.](https://docs.microsoft.com/graph/changelog) 
+- [Esitage küsimusi või andke arendajate tugimeeskonnale Graph](https://aka.ms/GraphDeveloperSupport) ja dokumentide kohta tagasisidet.
 
-Unified Support ja Premieri kliendid saavad selle portaali kaudu hankida tugiteenuste piletit. Teised saavad Microsoft Graphi Microsoft [Q&A](https://aka.ms/AskGraph)-s kasutada tasuta arendajate tuge.
+koondtugiteenused ja Premier Customers saavad selle portaali abil tugiteenusepileti tõsta. Teised pääsevad Microsoft Graph microsofti K ja [V&juurde.](https://aka.ms/AskGraph)

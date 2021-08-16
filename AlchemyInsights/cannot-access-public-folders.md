@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996626"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ei saa avalike kaustadega ühendust luua
 
 Kui ühiskausta juurdepääs ei tööta mõne kasutaja jaoks, proovige järgmist.
 
-Looge ühendus EXO PowerShelliga ja konfigureerige probleemse kasutajakonto parameeter DefaultPublicFolderMailbox nii, et see vastaks töökonto parameetrile.
+Ühendus exo PowerShelli ja konfigureerige probleemse kasutajakonto parameeter DefaultPublicFolderMailbox nii, et see vastaks töökonto parameetrile.
 
 Näide:
 
@@ -33,18 +33,18 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 Muudatuse jõustumist oodake vähemalt üks tund.
 
-Kui probleem ei kordu, järgige [seda protseduuri](https://aka.ms/pfcte) avaliku kausta juurdepääsu probleemide tõrkeotsinguks Outlooki abil.
+Kui probleem ei kordu, järgige avaliku [kausta](https://aka.ms/pfcte) juurdepääsu probleemide tõrkeotsinguks seda Outlook.
  
-**Selleks, et määrata, millistele kasutajatele pääsevad Outlooki abil juurde ühiskaustadele:**
+**Selleks et määrata, millistele kasutajatele on juurdepääs avalikele kaustadele Outlook.**
 
 1.  Kasutage Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true või $false  
       
-    $true: Luba kasutajatel Outlookis avalikele kaustadele juurde pääseda  
+    $true: kasutajate juurdepääsu võimaldamine ühiskaustadele Outlook  
       
-    $false: Keela kasutaja juurdepääs Outlooki avalikele kaustadele. See on vaikeväärtus.  
+    $false: Kasutaja juurdepääsu takistamine ühiskaustadele Outlook. See on vaikeväärtus.  
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Märkus** See protseduur saab kontrollida ühendusi ainult Outlooki töölauarakenduses Windowsi klientrakendustes. Kasutaja saab avalikele kaustadele juurde pääseda ka OWA või Outlook for Maci abil.
+**Märkus** See protseduur saab juhtida ühendusi ainult Outlook töölauarakenduste Windows kaudu. Kasutaja saab jätkata avalikele kaustadele juurdepääsu OWA või Outlook for Maci abil.
  
-Lisateavet leiate teemast Outlookis avalike kaustadega seotud kontrollitud [ühenduste tugiteenustest teatamine.](https://aka.ms/controlpf)
+Lisateavet leiate teemast [Ühiskaustade](https://aka.ms/controlpf)kontrollitud ühenduste toe Outlook.
