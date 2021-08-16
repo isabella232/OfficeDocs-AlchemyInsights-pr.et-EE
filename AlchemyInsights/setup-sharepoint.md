@@ -1,5 +1,5 @@
 ---
-title: SharePointi häälestamine
+title: Häälesta SharePoint
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023446"
 ---
-# <a name="set-up-sharepoint"></a>SharePointi häälestamine
+# <a name="set-up-sharepoint"></a>Häälesta SharePoint
 
-[SharePointi häälestamise juhend](https://go.microsoft.com/fwlink/?linkid=2071425) aitab teil häälestada SharePointi dokumendi salvestusruumi ja sisu haldust, luua saite, konfigureerida välise ühiskasutuse, migreerida andmeid ja konfigureerida täpsemaid sätteid ning juhtida kasutajate kaasatust ja suhtlust teie ettevõttes.
+SharePoint [aitab](https://go.microsoft.com/fwlink/?linkid=2071425) teil häälestada oma SharePoint ja sisuhaldust, luua saite, konfigureerida välist ühiskasutust, migreerida andmeid ja konfigureerida täpsemaid sätteid ning juhtida kasutaja kaasamist ja suhtlust oma asutuses.
 
-Saate juhiseid sisu ühiskasutuse õiguste poliitikate konfigureerimiseks, valida migreerimise sünkroonimise tööriistad ja lubada SharePointi keskkonna turvasätteid.
+Järgige sisujagamise õigusepoliitikate konfigureerimiseks juhiseid, valige migreerimise sünkroonimisriistad ja lubage oma SharePoint turbesätted.

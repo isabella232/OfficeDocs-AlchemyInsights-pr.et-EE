@@ -1,5 +1,5 @@
 ---
-title: Meilisõnumite viivitused Office 365 saatmisel
+title: Meilisõnumite saatmisega seotud viivitused Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004158"
 - "7249"
-ms.openlocfilehash: 0f33b4987e11680e5e853b7b747b93767094b8ac
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: 06ee2c529795b165b3ace6bf0aac993410ed0776902155b511f920a09d133d84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099174"
 ---
-# <a name="mail-delays-when-sending-to-office-365"></a>Meilisõnumite viivitused Office 365 saatmisel
+# <a name="mail-delays-when-sending-to-office-365"></a>Meilisõnumite saatmisega seotud viivitused Office 365
 
-Kui suunate meili ProofPoint või muude SendMail sõnumsidesüsteemi kaudu ja teil esineb viivitusi meilisõnumite saatmisel Exchange Online ' i, lugege seda artiklit: [ProofPoint meilikonto konfigureerimine Exchange Online ' iga](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange).
+Kui marsruudite meilisõnumeid ProofPointi või muude SendMaili sõnumsidesüsteemide kaudu ja teil esineb viivitusi meilisõnumite saatmisel Exchange Online, lugege järgmist artiklit: [Proofpointi](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange)meilikaitse konfigureerimine Exchange Online .
 
-Kasutage seda muudatuste konfigureerimiseks, et aidata lahendada meilisõnumite viivitusega seotud probleeme.
+Selle abil saate konfigureerida muudatusi, mis aitavad lahendada meiliga seotud viivitusprobleeme.

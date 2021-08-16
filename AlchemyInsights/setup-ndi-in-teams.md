@@ -1,5 +1,5 @@
 ---
-title: NDI tehnoloogia sisselülitamine
+title: NDI-tehnoloogia sisselülitamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935099"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023518"
 ---
-# <a name="turn-on-ndi-technology"></a>NDI tehnoloogia sisselülitamine
+# <a name="turn-on-ndi-technology"></a>NDI-tehnoloogia sisselülitamine
 
-NDI tehnoloogia peab kasutaja jaoks sisse lülitama kaks toimingut.
+NDI-tehnoloogia kasutamiseks peab kasutaja jaoks olema sisse lülitatud kaks etappi.
 
-1. Rentniku administraator peab lubama atribuudi "AllowNDIStreaming" CsTeamsMeetingPolicy.
+1. Rentnikuadministraator peab CsTeamsMeetingPolicys lubama atribuudi "AllowNDIStreaming".
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. Pärast seda, kui see muudatus on asustatud, peab lõppkasutaja NDI® tehnoloogiale oma konkreetse kliendi jaoks **> õigustest sätetest** välja lülitama.
+2. Kui see muudatus on asustatud, peab lõppkasutaja NDI® oma konkreetse kliendi jaoks sisse lülitama **Sätted > õigused**.
 
-Lisateavet leiate teemast [Microsoft teamsi NDI tehnoloogia kasutamine](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings).
+Lisateavet leiate teemast [NDI tehnoloogia kasutamine Microsoft Teams.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)
