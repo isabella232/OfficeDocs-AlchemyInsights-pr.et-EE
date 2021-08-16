@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 rakendustega Bingis Microsofti otsingu takistamine
+title: Saate Microsofti otsing Bing installimise Microsoft 365 rakendused
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040106"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Microsoft 365 rakendustega Bingis Microsofti otsingu takistamine
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Saate Microsofti otsing Bing installimise Microsoft 365 rakendused
 
-Rakenduses Microsoft 365 Enterprise ' i jaoks mõeldud Microsoft rakenduste jaoks mõeldud Microsofti otsingu taustal kasutamise takistamiseks kasutage ühte järgmistest suvanditest.
+Kui soovite, et Microsofti otsing Bing rakendusega Microsoft 365 suurettevõtterakendused, kasutage ühte järgmistest suvanditest.
 
-- Office ' i juurutamise tööriist või rühmapoliitika
-- Microsoft Endpoint Configuration Manager (praegune filiaal) või Microsoft Intune
+- Office juurutamise tööriist või rühmapoliitika
+- Microsoft Endpoint Configuration Manager (praegune haru) või Microsoft Intune
 
-Lisateavet leiate teemast [Microsoft Office ' i rakenduste jaoks mõeldud microsoft 365 rakenduste jaoks mõeldud Microsoft Office ' i rakenduste jaoks mõeldud Microsoft Searchi taustal teenuse kasutamise takistamine](https://go.microsoft.com/fwlink/?linkid=2151946)
+Lisateavet leiate teemast Kuidas [takistada](https://go.microsoft.com/fwlink/?linkid=2151946)Microsofti otsing Bing installimist Microsoft 365 suurettevõtterakendused.

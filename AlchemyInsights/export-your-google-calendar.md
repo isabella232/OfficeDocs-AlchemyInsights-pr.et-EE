@@ -1,5 +1,5 @@
 ---
-title: Google ' i kalendri eksportimine
+title: Google'i kalendri eksportimine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 409f34d01c7d81a81cf7594237e2c0163bdd8c85
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: 7f0786fd83eb0e31e0b0803a1c924cad37c4b2b47baf6f3495175c8a7bd7b91d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068988"
 ---
-# <a name="export-your-google-calendar"></a>Google ' i kalendri eksportimine
+# <a name="export-your-google-calendar"></a>Google'i kalendri eksportimine
 
-1. Logige sisse oma Google Gmaili kontosse ja seejärel klõpsake nuppu **Kalender**.
-1. Klõpsake nuppu **minu kalendri**  >  **sätted**.
-1. Klõpsake käsku **ekspordi kalendrid** ja valige ekstraktitud faili salvestamiseks asukoht.
-1. Valige asukohas salvestatud ZIP-failid ja klõpsake nuppu **ekstrakti kõik**.
-   Kui teil on mitu Google ' i kalendrit, kuvatakse iga ühe ICS-i toimik.
+1. Logige sisse oma Google Gmaili kontole ja seejärel klõpsake nuppu **Kalender**.
+1. Klõpsake **nuppu Minu**  >  **Sätted**.
+1. Klõpsake **nuppu Ekspordi kalendrid** ja valige ekstraktitud faili salvestamiseks asukoht.
+1. Valige asukohas salvestatud zip-fail ja klõpsake nuppu **Ekstrakti kõik**.
+   Kui teil on mitu Google'i kalendrit, näete iga kalendri jaoks ICS-faili.
 
-Nüüd olete valmis oma Google ' i kalendri Outlooki importimiseks.
+Nüüd saate oma Google'i kalendri importida Outlook.

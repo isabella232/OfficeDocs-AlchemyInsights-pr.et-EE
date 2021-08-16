@@ -1,5 +1,5 @@
 ---
-title: 204 kuidas leida puudust või taastada puuduvaid Outlooki meilisõnumeid, kalendrit või kontakte
+title: 204 Kuidas leida puuduvaid või puuduvaid Outlook, kalendrit või kontakte?
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029152"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Puuduvate sõnumite, kontaktide või kalendriüksuste otsimine ja taastamine Outlookis
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Puuduvate sõnumite, kontaktide või kalendriüksuste saatmine ja taastamine Outlook
 
-1. Avage Outlookis oma e-posti Kaustaloend ja seejärel valige **Kustutatud üksused**. **Oluline**: kui kausta **Kustutatud üksused** ei kuvata, kuid selle asemel kuvatakse kaust **Prügikast** , ei toeta teie konto enam teie **Kustutatud üksuste** kaustas oleva üksuse taastamist.
+1. Avage Outlook oma meilikaustade loend ja seejärel valige **Kustutatud üksused**. **Tähtis.** Kui kausta Kustutatud  ei näe, kuid selle  asemel näete kausta Prügikast, ei toeta teie konto üksuse taastamist, mis pole enam **kaustas Kustutatud** üksused.
 
-2. Klõpsake menüüs **Avaleht** nuppu **Taasta kustutatud üksused serverist**. **Oluline**: Kui menüüs pole käsku **Taasta kustutatud üksused serverist** , ei toeta teie konto enam üksust, mis pole enam kaustas **Kustutatud** .
+2. Klõpsake menüüs **Avaleht** käsku Taasta **kustutatud üksused serverist.** **Tähtis.** Kui menüüs **pole** käsku Taasta kustutatud üksused serverist, ei toeta teie konto üksuse taastamist, mis pole enam **kaustas Kustutatud üksused.**
 
-3. Valige üksused, mida soovite taastada, klõpsake nuppu **Taasta valitud üksused**ja seejärel klõpsake nuppu **OK**.
+3. Valige üksused, mille soovite taastada, klõpsake nuppu **Taasta valitud üksused** ja seejärel klõpsake nuppu **OK**.
 
-**Kuhu läksid taastatud üksused?** Kui taastate üksused kaustast Taastatavad üksused, teisaldatakse need kausta **Kustutatud üksused** . Kui olete üksuse taastanud, saate selle otsida kaustast **Kustutatud üksused** ja seejärel saate selle mõnda teise kausta üle viia.
+**Kuhu taastatud üksused lähevad?** Kui taastate üksused kaustast Taastatavad üksused, teisaldatakse need kausta **Kustutatud üksused.** Pärast üksuse taastamist leiate selle kaustast **Kustutatud üksused** ja seejärel saate selle teisaldada teise kausta.
 
-Samuti saate kasutada funktsiooni mul on probleeme **mõjutatud seadmes**meilisõnumite [saatmise, vastuvõtmise või leidmise probleemiga](https://aka.ms/SaRA-OutlookSendReceive) . Selle tööriistaga kontrollitakse mitmeid probleeme ning soovitatakse teha võimalikud lahendused.
+Samuti saate kasutada mõjutatud seadmes meilisõnumite [saatmisel,](https://aka.ms/SaRA-OutlookSendReceive) vastuvõtmisel või leidmisel probleeme. See tööriist kontrollib mitmeid probleeme ja soovitab võimalikke lahendusi.

@@ -1,5 +1,5 @@
 ---
-title: Parooli ennistamise probleem
+title: Probleem parooli lähtestamisel
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,65 +13,65 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50694380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039962"
 ---
-# <a name="problems-resetting-password"></a>Parooli ennistamise probleemid
+# <a name="problems-resetting-password"></a>Parooli lähtestamise probleemid
 
-Järgnevalt on toodud mõned probleemid, mis võivad parooli ennistamisel ja võimalike lahenduste leidmisel tekkida.
+Järgnevalt on toodud mõned probleemid, mis võivad parooli lähtestamisel ja võimalikele lahendustele vastu aimata.
 
-**Mul on probleem, mille parooli lähtestamine pole muudes kategooriates kaetud**
+**Mul on probleem parooli lähtestamisega, mida ei hõlma muud kategooriad**
 
-- Veenduge, et teil on õigus paroole lähtestada. Kasutaja paroole saab lähtestada ainult globaalsete, paroolide ja kasutajate administraatorite jaoks. Globaalsed administraatorid saavad lähtestada ka muud privilegeeritud administraatori paroolid.
-- Veenduge, et mõistate litsentsimise nõudeid.
-    - Teie ettevõttes peab olema vähemalt ühe litsentsiga määratud litsents.
-        - Ainult pilveteenuse kasutajad – kõik Office 365 (O365) makstud SKU või Azure AD ' i põhifunktsioonid
-        - Pilv ja/või kohapealsed kasutajad – Azure AD Premium P1 või P2, Enterprise Mobility + Security (EMS) või Secure produktiivne Enterprise (SPE)
-        - Lisateavet litsentsimise nõuete kohta leiate artiklist [litsentsimise nõuded AZURE ad iseteeninduskeskuse parooli lähtestamiseks](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Veenduge, et teil oleks õigus paroolid lähtestada. Kasutajaparoolid saavad lähtestada ainult üld-, parooli- ja kasutajaadministraatorid. Üldadministraatorid saavad lähtestada ka muid õigustega administraatori paroole.
+- Veenduge, et mõistate litsentsimisnõudeid.
+    - Teie ettevõttes peab olema määratud vähemalt üks litsents
+        - Ainult pilveteenuse kasutajad – Office 365 (O365) tasuline SKU või Azure AD Basic
+        - Pilveteenuse ja/või kohapealne kasutaja – Azure AD Premium P1 või P2, Enterprise Mobility + Security (EMS) või Secure Productive Enterprise (SPE)
+        - Lisateavet litsentsimisnõuete kohta leiate artiklist [Azure AD iseteeninduse parooli lähtestamise litsentsimisnõuded.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Mul on probleeme parooli lähtestamise poliitika seadmisega**
+**Mul on probleeme minu määratud paroolilähtestuspoliitika testimisega**
 
-- Hiljuti rakendatud poliitikad võivad võtta mitu minutit, et dubleerida kogu andmekeskuste ja lõpp-punkte. Kehaline kaugus andmekeskuse mõjutab ka seda, kui kiiresti muudatusi rakendatakse.
-- Test lõppkasutajaga, mitte administraatoriga ja väikese kasutajate kogumiga piloot. Azure ' i portaalis konfigureeritud poliitikad rakenduvad ainult lõppkasutajatele, mitte administraatoritele. Microsoft jõustab iga Azure ' i administraatori rolli jaoks tugeva vaike-kahe värava parooli lähtestamise poliitika (nt globaalne administraator, kasutajatoe administraator, paroolide haldur jne).
-    - Lugege lisateavet [administraatorite poliitikate](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)kohta.
+- Hiljuti rakendatud poliitikate paljunemiseks kõigis andmekeskustes ja lõpp-punktides võib aega võtta mitu minutit. Füüsiline kaugus andmekeskusest mõjutab ka seda, kui kiiresti muudatusi rakendatakse.
+- Testige lõppkasutajat, mitte administraatorit ja katseprojekti väikese kasutajakomplektiga. Azure'i portaalis ainult konfigureeritud poliitikad kehtivad lõppkasutajatele, mitte administraatoritele. Microsoft jõustab mis tahes Azure'i administraatorirolli jaoks tugeva kahe väravaga parooli lähtestamise poliitika (näide: üldadministraator, kasutajatoe administraator, parooliadministraator jne).
+    - Lisateave [administraatorite poliitikate kohta.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 
-**Soovin juurutada parooli lähtestamise, kuid ma ei soovi, et kasutajad ei saaks täiendavat turbeteavet registreerida**
+**Soovin juurutada parooli lähtestamise, kuid ma ei soovi, et kasutajad registreeriks täiendavat turbeteavet**
 
-Andmete eelasustamine kasutajate jaoks, et nad ei peaks seda tegema! -Administraatorina saate määrata oma kasutajatele telefoni ja meili atribuudid enne, kui käivitate oma organisatsioonile parooli lähtestamise. Seda saate teha API, PowerShelli või Azure AD Connecti abil. Lisateavet leiate siit:
-- [Parooli lähtestamise juurutamine, mis ei nõua kasutajatelt registreerumist](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
+Kasutajate andmete eelasustamine, et nad ei peaks! - Administraatorina saate määrata oma kasutajatele telefoni- ja meiliasuvaid atribuute enne oma ettevõttesse parooli lähtestamist. Selleks saate kasutada API-d, PowerShelli või Azure AD-Ühendus. Lisateavet leiate siit.
+- [Parooli lähtestamise juurutamine ilma kasutajaid registreerimata](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 - [Milliseid andmeid parooli lähtestamine kasutab?](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Nupp "parooli lähtestamine" on Hall**
+**Parooli lähtestamise nupp on tuhm**
 
-Teil pole õigust selle kasutaja paroole lähtestada. Kasutaja paroole saab lähtestada ainult globaalsete, paroolide ja kasutajate administraatorite jaoks. Globaalsed administraatorid saavad lähtestada ka muud privilegeeritud administraatori paroolid.
+Teil pole õigust selle kasutaja paroole lähtestada. Kasutajaparoolid saavad lähtestada ainult üld-, parooli- ja kasutajaadministraatorid. Üldadministraatorid saavad lähtestada ka muid õigustega administraatori paroole.
 
-**Parooli lähtestamise tera ei kuvata**
+**Ma ei näe paroolilähtestussaaba**
 
-Teil pole õigust paroole lähtestada. Kasutaja paroole saab lähtestada ainult globaalsete, paroolide ja kasutajate administraatorite jaoks. Globaalsed administraatorid saavad lähtestada ka muud privilegeeritud administraatori paroolid.
+Teil pole õigust paroole lähtestada. Kasutajaparoolid saavad lähtestada ainult üld-, parooli- ja kasutajaadministraatorid. Üldadministraatorid saavad lähtestada ka muid õigustega administraatori paroole.
 
-**Ma ei näe kohapealset integratsiooni Blade parooli lähtestamisel**
+**Ma ei näe parooli lähtestamises kohapealst integreerimissaaga**
 
-- Kohapealne Integration Blade kuvatakse ainult hübriid-keskkonnas – see tähendab, et kasutate kohapealse kasutaja paroolide manipuleerimiseks parooli tagasikirjutusega.
-- Te ei näe seda tera, kui:
-    - Te ei kasuta parooli tagasikirjutusega
-    - Parooli tagasikirjutusega installi/ühenduvusega on probleeme
-    - Azure AD Connecti installi/ühenduvusega on probleeme
-    - Lisateavet tagasikirjutusega probleemide lahendamise kohta leiate teemast [parooli tagasikirjutusega tõrkeotsing](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Kohapealne integreerimisleht kuvatakse ainult hübriidkeskkondades, mis tähendab, et kasutate paroolide tagasikirjutust, et manipuleerida asutusesisese kasutaja paroole.
+- Seda tera ei näe, kui:
+    - Te ei kasuta parooli tagasikirjutust
+    - Parooli tagasikirjutuse installimise/ühenduvusega on probleeme
+    - Azure AD Ühendus
+    - Lisateavet parooli tagasikirjutusega seotud probleemide tõrkeotsingu kohta leiate teemast Parooli [tagasikirjutuse tõrkeotsing](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Kasutaja parooli lähtestamine**
+**Ma ei tea, kuidas kasutaja parooli lähtestada**
 
-1. Logige Azure ' i portaali sisse sobiva administraatorina.
-1. Valige kasutajad ja rühmad Blade, valige **Kõik kasutajad**.
+1. Logige Azure'i portaali sisse sobiva administraatorina.
+1. Avage nuga Kasutajad ja rühmad, valige **Kõik kasutajad**.
 1. Valige loendist kasutaja.
-1. Valitud kasutaja jaoks valige **Ülevaade** ja seejärel klõpsake menüüribal käsku **Lähtesta parool**.
+1. Valige valitud kasutaja jaoks **Ülevaade** ja seejärel klõpsake käsuribal nuppu **Lähtesta parool.**
 1. Järgige ekraanil kuvatavaid juhiseid.
-    - Lähtestatakse ainult Azure ' i portaali toe parooli tagasikirjutusega.
+    - Parooli tagasikirjutust toetavad ainult Azure'i portaali kaudu tehtud lähtestamised.
 
-**Ma lähtestan kohapealse kasutaja parooli Office 365 administraatori või Office 365 mobiilirakenduse kaudu, kuid kasutaja ei saa ikka sisse logida**
+**Lähtestan asutusesisese kasutaja parooli Office 365 haldusrakendus või Office 365 mobiilirakendusest**
 
-Selles portaalis pole parooli tagasikirjutusega toetatud. Lähtestage kasutaja parool uuesti Azure ' i portaalis – portal.azure.com
+Selles portaalis ei toetata parooli tagasikirjutust. Lähtestage kasutaja parool uuesti Azure'i portaalis – portal.azure.com
 
