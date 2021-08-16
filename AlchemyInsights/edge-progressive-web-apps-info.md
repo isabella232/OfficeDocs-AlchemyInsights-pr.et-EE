@@ -1,5 +1,5 @@
 ---
-title: Teave progressiivsete veebirakenduste (PWAs) kohta Microsoft Edge ' is (kroom)
+title: Teave progressiivsete veebirakenduste (PWA) kohta Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101442"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Teave progressiivsete veebirakenduste (PWAs) kohta Microsoft Edge ' is (kroom)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Teave progressiivsete veebirakenduste (PWA) kohta Microsoft Edge (Chromium)
 
-PWAs on veebisaidid, mis on järk-järgult täiustatud, et neid toetavatel platvormidel toimida. PWAs kombineerida veebirakenduste ja kohalike rakenduste parimaid omadusi.
+PWA-d on veebisaidid, mida täiustatakse järk-järgult nii, et need toimivad nagu kohalikud rakendused platvormidel, mis neid toetavad. PWA-d kombineerivad veebi ja kohalike rakenduste parimaid omadusi.
 
-Veebiplatvormi vaatenurgast põhinevad [PWAs Microsoft Edge ' is (kroom)](https://go.microsoft.com/fwlink/?linkid=2135193) standarditel. Nad lasevad kasutajatel installida rakendusi otse brauserist ning nad ei nõua Microsoft Store ' i-põhine juurutus või registreerimine. Töölaua PWAs toetavad kõik platvormid, kus Microsoft Edge (kroom) on saadaval.
+Veebiplatvormi seisukohast põhinevad Microsoft Edge [(Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) PWA-d. Nad lasevad kasutajatel installida rakendusi otse brauserist ja nad ei nõua Microsoft Store juurutamist ega registreerimist. Töölaua-PWA-sid toetatakse mis tahes platvormil, Microsoft Edge (Chromium) on saadaval.

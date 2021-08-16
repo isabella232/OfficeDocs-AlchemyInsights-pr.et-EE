@@ -1,5 +1,5 @@
 ---
-title: 8000077 ei saa Hotmaili või Outlook.com sisse logida?
+title: 8000077 Kas te ei saa Hotmaili või Outlook.com-i sisse logida?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: 851694cd42cf8ab0bcdf1d343c5fc268128779b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de094f65a216d6d3548d3a222511e0b750e578071c506319f838550a69e02d29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683830"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071760"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Kas te ei saa Hotmaili või Outlook.com sisse logida?
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Kas te ei saa Hotmaili või Outlook.com-i sisse logida?
 
-Outlook.com konto aktiivsena hoidmiseks peate kontole sisse logima vähemalt kord iga 365 päeva jooksul. Pärast 365 päeva tegevusetust kustutatakse teie meilisõnum ja seda ei saa taastada.
+Kui soovite Outlook.com-i konto aktiivsena hoida, peate kontole sisse logima vähemalt kord 365 päeva jooksul. Pärast 365 päeva passiivsust kustutatakse teie meilisõnumid ja seda ei saa taastada.
   
-Kui olete 365 päeva jooksul sisse loginud, kuid te ei pääse endiselt oma Hotmaili või Outlook.com kontole juurde, lugege [teemat Outlook.com sisse-ja väljalogimine](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Kui olete sisse loginud 365 päeva jooksul, kuid ei pääse siiski teie Hotmaili või Outlook.com-i kontole juurde, lugege teavet selle kohta, kuidas [Outlook.com-i](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)sisse või välja logida.
   

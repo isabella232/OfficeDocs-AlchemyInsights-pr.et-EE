@@ -1,5 +1,5 @@
 ---
-title: Probleemide lahendamine Windows 10 seadmetes Microsoft Defenderi täiustatud ohtude kaitsega
+title: Microsoft Defenderi täiustatud ohutõrje Windows 10 kaugjuurdepääsu probleemide lahendamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5473d090f6d4680f9a62f34f943ac6cea53b2079
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034030"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Probleemide lahendamine Windows 10 seadmetes Microsoft Defenderi täiustatud ohtude kaitsega
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Microsoft Defenderi täiustatud ohutõrje Windows 10 kaugjuurdepääsu probleemide lahendamine
 
-Kui teil on juurdepääs kaugarvutiga, tehke järgmist.
+Kui pääsete juurde kaugarvutile, tehke järgmist.
 
-1. Laadige alla [klientarvuti ühenduvuse analüsaatori](https://go.microsoft.com/fwlink/?linkid=2143466) diagnostiline tööriist.
-2. Ekstraktige ja käivitage MDATPAnalyzer. cmd.
-3. Otsige üles kaust MDATPClientAnalyzerResult, mis on sama kaust, kus analüsaatori tööriist alla laaditi.
-4. Kui soovite otsida probleeme ühenduvuse või Interneti-puhverserveri sätetega, vaadake logifaili MDATPClientAnalyzer.txt.
+1. Laadige alla [klientrakenduse ühenduvuse analüsaatori](https://go.microsoft.com/fwlink/?linkid=2143466) diagnostikatööriist.
+2. Ekstraktige ja käivitage MDATPAnalyzer.cmd.
+3. Otsige diagnostikalogi üles kaustast MDATPClientAnalyzerResult, mis on sama kaust, kuhu analüsaatori tööriist alla laaditi.
+4. Ühenduvuse või Interneti-puhverserveri sätetega seotud probleemide leidmiseks vaadake logifaili MDATPClientAnalyzer.txt.
 
-Lisateavet leiate teemast [masinate pardal](https://go.microsoft.com/fwlink/?linkid=2143634)olevad probleemid.
+Lisateavet leiate teemast [Probleemid pardaseadmetega.](https://go.microsoft.com/fwlink/?linkid=2143634)
