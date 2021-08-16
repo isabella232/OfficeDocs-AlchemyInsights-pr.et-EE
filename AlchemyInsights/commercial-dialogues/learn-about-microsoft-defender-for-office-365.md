@@ -1,5 +1,5 @@
 ---
-title: Teave Office 365 Microsoft Defenderi kohta
+title: Lisateave Microsoft Defenderi Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9eac6f1b666f7b8031fe3ff7b439c5c5ddf9e998
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d384b1d0aaba2faca60870dd04727985f9e13cda43687bc6f7bc53da90db4b9e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016948"
 ---
-# <a name="learn-about-microsoft-defender-for-office-365"></a>Teave Office 365 Microsoft Defenderi kohta
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Lisateave Microsoft Defenderi Office 365
 
-Siit leiate teavet Microsoft Defenderi for Office 365 kohta.
+Siit leiate teavet Microsoft Defenderi Office 365.
 
 - **Mis on Microsoft Defender Office 365?**  
-    Office 365 kaitsja on pilvepõhise meili filtreerimise teenus, mis aitab kaitsta organisatsioone tundmatu ründevara ja viiruste eest, tagades tugeva null-päevase kaitse. See sisaldab funktsioone, et kaitsta organisatsioone reaalajas kahjulike linkide eest.
-- **Kuidas aktiveerida Microsoft Defender for Office 365?**  
-    Turvalised manused, turvalised lingid ja andmepüügid on osa Office 365 kaitsjast. Enterprise E5, Education a5 ja Microsoft 365 ' i ettevõtted sisaldavad Office 365 sisseehitatud Defenderi funktsioone. Kõik muud lepingud nõuavad Office 365 tellimuse lisandmooduli kaitsjat. Peate määrama kasutajate jaoks sobivad litsentsid, mida kaitstakse Office 365 kaitsjana. Office 365 Defenderile juurdepääsuks peab teil olema *üldadministraator* või *turvalisuse administraatori* õigused. Lisateavet selle kohta, kuidas rakendada kasutajatele hulgi litsentse, leiate teemast [Office 365 ettevõtetele litsentside määramine](https://go.microsoft.com/fwlink/?linkid=2093435).
-- **Kuidas hallata Office 365 kaitsjat või selle kohta lisateavet?**  
-  - Valige [häälestamine](https://go.microsoft.com/fwlink/p/?linkid=2075721).  
-  - Jaotises **sisselogimine ja turvalisus** Leia **täpsemate ohtude eest kaitse suurendamine** ja seejärel valige [Kuva](https://go.microsoft.com/fwlink/?linkid=2109302).
+    Defender for Office 365 on pilvepõhine meilifiltreerimisteenus, mis aitab kaitsta ettevõtteid tundmatu ründevara ja viiruste eest, pakkudes töökindlat nullpäevakaitset. See hõlmab funktsioone, mis kaitsevad ettevõtteid reaalajas kahjulike linkide eest.
+- **Kuidas aktiveerida Microsoft Defenderi Office 365?**  
+    seif Manused, seif lingid ja andmepüügitõrje on osa Office 365. Enterprise E5, Education A5 ja Microsoft 365 Business sisaldavad sisseehitatud Defenderit Office 365 funktsioonide jaoks. Kõigi muude plaanide jaoks on vaja Office 365 Defenderit. Peate määrama oma kasutajatele vastavad litsentsid, mida Defender peab kaitsma Office 365. Teil peavad olema *üldadministraatori või* *turbeadministraatori* õigused, et pääseda juurde Office 365. Lisateavet selle kohta, kuidas kasutajatele hulgilitsentse rakendada, leiate teemast Office 365 [litsentside määramine.](https://go.microsoft.com/fwlink/?linkid=2093435)
+- **Kuidas hallata Defenderit Office 365 selle kohta lisateavet?**  
+  - Avage [Häälestus](https://go.microsoft.com/fwlink/p/?linkid=2075721).  
+  - Otsige **jaotises Sisselogimine ja turve välja** Suurenda kaitset **täiustatud ohtude eest ja** seejärel valige [Kuva](https://go.microsoft.com/fwlink/?linkid=2109302).

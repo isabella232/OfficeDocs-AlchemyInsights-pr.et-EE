@@ -1,5 +1,5 @@
 ---
-title: Office ' i võrguühenduseta Installeri kasutamine
+title: Ühenduseta Office kasutamine
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfd666ddb0aa5edb4d0f4fc0a03c6442b201d331da7d2193e7ad8615790c36a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037928"
 ---
-# <a name="use-the-office-offline-installer"></a>Office ' i võrguühenduseta Installeri kasutamine
+# <a name="use-the-office-offline-installer"></a>Ühenduseta Office kasutamine
 
-Installeri failide allalaadimiseks peab teil olema Interneti-ühendus, kuid kui see on tehtud, saate Office ' i juurutamise tööriista (ODT) abil installida Office ' i võrguühenduseta arvuti.
+Installerifailide allalaadimiseks peab teil olema Interneti-ühendus, kuid kui see on tehtud, saate Office arvutisse mugavalt installida, kasutades Office juurutustööriista (ODT)
 
-ODT on mõeldud kasutamiseks Enterprise ' i keskkondades ja töötab käsureal, nii et toimingud on keerulisem – kuid nad töötavad endiselt ühes seadmes. Lugege artiklit [Office ' i võrguühenduseta Installeri kasutamine](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+ODT on mõeldud ettevõtte keskkondade jaoks ja töötab käsurealt, nii et toimingud on keerulisemad, kuid need töötavad siiski ainult ühte seadmesse installimisel. Lugege [teemat Ühenduseta Office kasutamine.](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
   

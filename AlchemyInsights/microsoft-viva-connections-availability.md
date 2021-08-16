@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva ühenduste kättesaadavus
+title: Microsoft Viva töösuhtluskeskkond Kättesaadavus
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: b8bdb514949750f6041019bcbb725934b76e68f4
-ms.sourcegitcommit: 0fc6005bbe351a861be1805a2e15b52438c914c9
+ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000460"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva ühenduste kättesaadavus
+# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva töösuhtluskeskkond Kättesaadavus
 
-Microsoft Viva ühendused on saadaval 2021 esimese poole töölaua jaoks ja mobiiliga 2021 suvel. Lisafunktsioonid pööratakse üle 2022 käigus.
+Microsoft Viva töösuhtluskeskkond on saadaval töölaua jaoks 2021. aasta esimesel poolel ja mobiilirakenduse jaoks 2021. aasta suvel. Lisafunktsioonid kuvatakse 2022. aasta jooksul.
 
-Lisateavet leiate teemast [Microsoft Viva Connections aitab kõigil end sisse lülitada ja teavitada](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009).
+Lisateabe saamiseks vaadake, kuidas [Microsoft Viva töösuhtluskeskkond aitab kõigil kursis püsida.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)

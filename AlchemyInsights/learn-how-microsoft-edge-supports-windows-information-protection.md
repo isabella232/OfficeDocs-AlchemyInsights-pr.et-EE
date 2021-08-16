@@ -1,5 +1,5 @@
 ---
-title: Teave selle kohta, kuidas Microsoft Edge toetab Windowsi teabeõiguste kaitset (WIP)
+title: Siit saate teada Microsoft Edge kuidas Windows toetab wip-kaitse (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054282"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Teave selle kohta, kuidas Microsoft Edge toetab Windowsi teabeõiguste kaitset (WIP)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Siit saate teada Microsoft Edge kuidas Windows toetab wip-kaitse (WIP)
 
-Kuna Kaug-töötajate arv suureneb, on ka ettevõtte seadmetes esinevate isiklike ja tööga seotud tegevuste arv. See suurendab ka riski, et ettevõtte andmed võivad saada ühiskasutusse väljaspool töökohta. Selle riski leevendamiseks toetab Microsoft Edge (versioon 81 või uuem versioon) Windowsi teabeõiguste kaitset (WIP): Windows 10 funktsioon, mis aitab ettevõtte andmeid kaitsta autoriseerimata ja juhuslike andmete avaldamise eest.
+Kuna kaugtöötajate arv kasvab, kasvab ka ettevõtte seadmetes isiklike ja tööga seotud tegevuste arv. See omakorda suurendab ohtu, et ettevõtte andmeid võidakse jagada väljaspool töökohta. Selle riski vähendamiseks toetab Microsoft Edge (versioon 81 või uuem) Windows(WIP): Windows-10 funktsioon, mis aitab kaitsta ettevõtte andmeid volitamata ja tahtmatu avaldamise eest.

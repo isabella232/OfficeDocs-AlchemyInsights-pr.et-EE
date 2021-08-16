@@ -1,5 +1,5 @@
 ---
-title: Teie MDM-i autoriteet pole määratud
+title: Teie MDM-i asutus pole määratud
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046676"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Teie MDM-i autoriteet pole määratud
+# <a name="your-mdm-authority-is-not-set"></a>Teie MDM-i asutus pole määratud
 
-Selle rentniku mobiilsideseadmete halduse (MDM) autoriteet pole määratud. Peate määrama MDM-i asutuse, enne kui registreerite ja haldate seadmeid Intune MDM kaudu. MDM-i autoriteeti seadmata ei saa te kasutada Intune ' i MDM-i funktsioone. MDM-i asutuse säte määrab, kuidas seadmeid hallata.
+Selle rentniku mobiilsideseadme halduse (MDM) asutust pole määratud. Enne intune MDM-i kaudu seadmete registreerimist ja haldust peate määrama MDM-i asutuse. MDM-i asutust määramata ei saa te Intune'i MDM-i funktsioone kasutada. MDM-i asutuse säte määrab, kuidas oma seadmeid hallata.
 
 Soovitatavad juhised.
-1. MDM-i asutuse määramiseks Navigeerige lehele Intune liitumise ülevaade Blade.
-2. Valige oma administratiivsete vajaduste järgi sobiv asutus. Lisateavet leiate teemast [mobiilsideseadme halduse asutuse artikli määramine](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Liikuge MDM-i asutuse häälestamiseks intune'i registreerimise ülevaate terale.
+2. Valige oma haldusvajaduste põhjal sobiv asutus. Lisateavet leiate artiklist [Mobiilsideseadmete haldusasutuse artikli mine.](https://docs.microsoft.com/intune/mdm-authority-set)

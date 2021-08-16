@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge ' i kasutamine kasutajate kaitsmiseks PUAs vastu
+title: Kasutajate Microsoft Edge kasutamine PUA-de eest
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000496"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Microsoft Edge ' i kasutamine kasutajate kaitsmiseks PUAs vastu
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Kasutajate Microsoft Edge kasutamine PUA-de eest
 
-Microsoft Edge ' i versioonid 80.0.361.50 ja hiljem blokeerivad potentsiaalselt soovimatute rakenduste (PUAs) ja nendega seotud URL-ide allalaadimised. Selle funktsiooni sisselülitamiseks tehke järgmist.
+Microsoft Edge 80.0.361.50 ja uuemad versioonid blokeerivad potentsiaalselt soovimatute rakenduste (PUA-de) ja seotud URL-ide allalaadimised. Selle funktsiooni sisselülimiseks tehke järgmist.
 
-1. Avage brauseris **sätted**  >  **Privaatsus ja teenused** .
+1. Avage **Sätted**  >  **privaatsus ja teenused** brauseris.
 
-2. Liikuge kerides jaotisse **teenused** ja veenduge, et **Microsoft Defender SmartScreen** ja **blokeerida potentsiaalselt soovimatud rakendused** on sisse lülitatud.
+2. Liikuge kerides jaotiseni **Teenused** ja veenduge, et **Microsoft Defender SmartScreen** ja **Blokeeri potentsiaalselt soovimatud rakendused** oleks sisse lülitatud.
 
-    Järgmine kord, kui Microsoft Defender SmartScreen tuvastab PUA, blokeeritakse see ja teavitab teid sellest.
+    Järgmine kord, Microsoft Defender SmartScreen tuvastab PUA, blokeerib see selle ja teavitab teid sellest.
 
-    Lisateavet leiate teemast [PUA seotud URL-ide blokeerimine](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Lisateavet leiate teemast [PUA-ga seotud URL-ide blokeerimine.](https://go.microsoft.com/fwlink/?linkid=2133024)

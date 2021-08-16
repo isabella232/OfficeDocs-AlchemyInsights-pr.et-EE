@@ -1,5 +1,5 @@
 ---
-title: Täpsemate jahipidamise päringute alustamine
+title: Täiustatud jahinduspäringutega alustamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0dce5a6ac69994c8953401aba06aefb2d3761ff2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1819720b1c7dd1b5a0b5822f2ba7f9e6a6b7c2fec6d962ea411b8a3a350cc758
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016984"
 ---
-# <a name="get-started-with-advanced-hunting-queries"></a>Täpsemate jahipidamise päringute alustamine
+# <a name="get-started-with-advanced-hunting-queries"></a>Täiustatud jahinduspäringutega alustamine
 
-Microsoft Security teadlased jagavad regulaarselt [päringuid github](https://go.microsoft.com/fwlink/?linkid=2144624).
+Microsofti turbetöötajad jagavad regulaarselt [täiustatud GitHub.](https://go.microsoft.com/fwlink/?linkid=2144624)
 
-Teadlased pakuvad ka täpsemaid jahi päringuid [esilekerkivate ohtudega](https://go.microsoft.com/fwlink/?linkid=2145808)seotud tegevuste ja näitajate leidmiseks. Need päringud on esitatud Microsoft Defenderi Turvakeskuse aruandes "ohu analüüsi aruanded".
+Samuti pakuvad uurijad täiustatud jahipidamispäringuid tekkivate ohtudega seotud tegevuste ja [näidikute otsimiseks.](https://go.microsoft.com/fwlink/?linkid=2145808) Need päringud esitatakse ohuanalüüsi aruannete osana Microsoft Defenderi turbekeskus.

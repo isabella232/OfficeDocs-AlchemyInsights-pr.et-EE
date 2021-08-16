@@ -1,5 +1,5 @@
 ---
-title: Kuidas uuendada ostutellimuse numbrit Azure ' i portaalis
+title: Ostutellimuse numbri värskendamine Azure'i portaalis
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7293"
-ms.openlocfilehash: df35af1925e9389fff810bed17f580f087e88e20
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 2873afabc5320fd69d219886187231b64569dd3bedf0ffe34a8ed2485456f966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677340"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028792"
 ---
-# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Kuidas uuendada ostutellimuse numbrit Azure ' i portaalis
+# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Ostutellimuse numbri värskendamine Azure'i portaalis
 
-Saate uuendada Azure ' i portaalis ostutellimuse (PO) numbrit. Selle tegemiseks peab teil olema Microsofti kliendi lepingu (MCA) arvelduskontol omanik või kaastööline roll. 
+Ostutellimuse (PO) numbrit saate värskendada Azure'i portaalis. Selleks peab teil olema Microsofti kliendilepingu (MCA) arvelduskontol omaniku- või kaasautoriroll. 
 
-Oma tootjaorganisatsiooni numbri värskendamiseks tehke järgmist.
-1. Logige sisse Azure ' i portaali ja navigeerige **kulude halduse + arveldusega**.
-1. Klõpsake nuppu **arvelduse profiilid** ja valige väärtus arvelduse profiil, et värskendada po-numbrit.
-1. Klõpsake nuppu **Atribuudid** ja seejärel nuppu **Värskenda po-number**. 
+Ostutellimuse numbri värskendamiseks:
+1. Logige Sisse Azure'i portaali ja liikuge lehele **Kuluhaldus + Arveldamine.**
+1. Klõpsake **nuppu Arveldusprofiilid** ja valige ostutellimuse numbri värskendamiseks arveldusprofiil.
+1. Klõpsake **nuppu Atribuudid** ja valige Värskenda ostutellimuse **numbrit.** 
 
 **Soovitatavad dokumendid**
 
-- [Saage aru oma MCA arvest](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
-- [Arvelduse konto sätete värskendamine](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [MCA-arve mõistmine](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Arvelduskonto sätete värskendamine](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

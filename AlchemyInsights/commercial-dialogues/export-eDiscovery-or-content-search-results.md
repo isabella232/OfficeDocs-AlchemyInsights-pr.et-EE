@@ -1,5 +1,5 @@
 ---
-title: E-juurdluse/sisu otsingutulemite eksportimine
+title: E-juurdluse/sisuotsingu tulemite eksportimine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988084"
 ---
-# <a name="export-ediscoverycontent-search-results"></a>E-juurdluse/sisu otsingutulemite eksportimine
+# <a name="export-ediscoverycontent-search-results"></a>E-juurdluse/sisuotsingu tulemite eksportimine
 
-Võimalik, et peate otsingutulemid PST-faili (meilisõnumist) või Office ' i dokumentidest (SharePointi ja OneDrive for Businessi saitidelt) eksportima. Kui jah, siis tehke järgmist.
+Võimalik, et peate otsingutulemid eksportima PST-faili (meilist) või Office dokumentidesse (SharePoint ja OneDrive for Business saitidelt). Sel juhul tehke järgmist.
 
-- Veenduge, et teie kontole on määratud ekspordiks vajalikud kasutusõigused. Lisateavet leiate teemast e- [juurdluse loa määramine](https://go.microsoft.com/fwlink/?linkid=2102406).
-- Veenduge, et teie arvuti on täitnud kõik [eeltingimused](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Kõiki brausereid ei toetata (nt Chrome).
-- Sisu otsingust eksportimiseks tehke järgmist. Avage [turbe & nõuetele vastavuse keskus](https://protection.office.com/contentsearch) ja klõpsake nuppu **Otsi** ning seejärel valige **sisu otsing**. Valige lehel **sisu otsimine** salvestatud otsing.
-    b. Klõpsake paanil üksikasjad jaotises **ekspordi tulemid arvutisse** nuppu **Alusta eksportimist**. Kui ekspordite rohkem kui 100K postkaste, peate eksportimise tulemite allalaadimiseks kasutama PowerShelli. Lisateavet leiate teemast [tulemite eksportimine enam kui 100k postkastist](https://go.microsoft.com/fwlink/?linkid=2143861).
+- Veenduge, et teie kontole oleks määratud ekspordiõigused. Lisateavet leiate teemast [E-juurdluse õiguse määramine.](https://go.microsoft.com/fwlink/?linkid=2102406)
+- Veenduge, et teie arvuti oleks täidetud kõigi [eeltingimustega.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Kõiki brausereid (nt Chrome) ei toetata.
+- Sisuotsingust eksportimiseks tehke järgmist. Avage [turbekontrolli & ja](https://protection.office.com/contentsearch) klõpsake nuppu **Otsi** ja seejärel valige **Sisuotsing**. Valige **lehel Sisuotsing** salvestatud otsing.
+    b. Klõpsake paani Üksikasjad jaotises **Tulemite eksportimine arvutisse** nuppu **Alusta eksportimist.** Kui ekspordite rohkem kui 100 K postkasti, peate eksporditulemite allalaadimiseks kasutama PowerShelli. Lisateavet leiate teemast [Tulemite eksportimine rohkem kui 100K-postkastidest.](https://go.microsoft.com/fwlink/?linkid=2143861)
 
-Lisateavet leiate teemast [sisu otsingutulemite eksportimine](https://go.microsoft.com/fwlink/?linkid=2102118).
+Lisateavet leiate teemast [Sisuotsingu tulemite eksportimine.](https://go.microsoft.com/fwlink/?linkid=2102118)

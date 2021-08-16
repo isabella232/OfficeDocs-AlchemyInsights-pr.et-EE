@@ -1,5 +1,5 @@
 ---
-title: 597 Microsofti broneeringute rakendus
+title: 597 Microsoft Bookingsi rakendus
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,31 +14,31 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: 61eb90f0d9dcb257b969c08cbd9e7901402ca08d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c72869a70725ca3010a4fde9c08be2326f45ca9a4339014ae34f092747cd5876
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000532"
 ---
-# <a name="microsoft-bookings-app"></a>Microsofti broneeringute rakendus
+# <a name="microsoft-bookings-app"></a>Microsoft Bookingsi rakendus
 
-- [Ettevõttele Microsoft broneeringute sisselülitamine](https://support.microsoft.com/office/c27537fa-525e-47a8-aadf-9b07ee75c227)
+- [Microsofti broneeringute sisse- või väljalülitamine ettevõttes](https://support.microsoft.com/office/c27537fa-525e-47a8-aadf-9b07ee75c227)
 - [Microsoft Bookingsi juurdepääs](https://support.microsoft.com/office/5382dc07-aaa5-45c9-8767-502333b214ce)
-- [Office ' i kalendri avaldamine veebis koos Microsofti broneeringutega](https://support.microsoft.com/office/47403d64-a067-4754-9ae9-00157244c27d)
-- [Äriteabe sisestamine](https://support.microsoft.com/office/828a17db-956a-401e-bb62-d153b6dffd53)
-- [Ajastamise poliitikate määramine](https://support.microsoft.com/office/4b2c84ec-64d3-4027-af4c-40f69e7b37c9)
-- [Teenuse pakkumise määratlemine](https://support.microsoft.com/office/4a1c391e-524f-48e0-bef8-185df3a9634b)
-- [Töötajate loendi loomine](https://support.microsoft.com/office/298c529b-407b-4a2b-b2c5-6e77a9d1f07f)
-- [Töötaja tööaja määramine](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
-- [Äriandmete sulgemine, ajalõpp ja puhkuste ajastamine](https://support.microsoft.com/e3c0a4ee-e3d8-4fbe-bd8f-16d1c712d1f4)
-- [Microsofti broneeringute ühendamine Facebooki lehega](https://support.microsoft.com/office/858db050-3d10-4bb5-82f1-df6ebeda2685)
-- [Broneeringu lehe avaldamine või avaldamise tühistamine](https://support.microsoft.com/office/4fb0235c-01e7-4447-bf91-0915c21b84ad)
-- [Oma broneeringute loomine ja töötajad](https://support.microsoft.com/office/03a9acc9-f29c-456b-9fb2-0f49474b2708)
-- [Microsofti broneeringute rakenduse hankimine](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
-- [Töötajate isikliku kalendri sünkroonimine Microsofti broneeringutega](https://support.microsoft.com/office/23ee9b4c-0241-40ff-b663-67a309c378f8)
-- [Kohandage oma broneeringu lehte](https://support.microsoft.com/office/116d7a84-a7a0-4911-a1e9-debb2cca7c43)
-- [Broneeringute jaoks määratavate kohtumiste jaoks puhvri aja määramine](https://support.microsoft.com/office/271f43e4-b8f7-4d63-8059-b5747679bb7e)
-- [Teabe edastamine Microsofti broneeringute kohta](https://support.microsoft.com/office/e150b415-d335-4818-93ac-acff4797a1b1)
-- [Keele-ja ajavööndi määramine](https://support.microsoft.com/office/94af3e22-aca6-4e91-8b91-1cd5a02a9ea8)
-- [PowerShelli kasutamine broneeringute kalendri kustutamiseks](https://support.microsoft.com/office/8c3a913c-2247-4519-894d-b6263eeb9920)
+- [Ettevõttekalendri avaldamine veebis Microsoft Bookingsi abil](https://support.microsoft.com/office/47403d64-a067-4754-9ae9-00157244c27d)
+- [Sisestage oma äriteave](https://support.microsoft.com/office/828a17db-956a-401e-bb62-d153b6dffd53)
+- [Plaanimispoliitikate mine](https://support.microsoft.com/office/4b2c84ec-64d3-4027-af4c-40f69e7b37c9)
+- [Teenuse pakkumiste määratlemine](https://support.microsoft.com/office/4a1c391e-524f-48e0-bef8-185df3a9634b)
+- [Personaliloendi loomine](https://support.microsoft.com/office/298c529b-407b-4a2b-b2c5-6e77a9d1f07f)
+- [Töötaja tööaja seadke](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
+- [Äri sulgemis-, eemal- ja puhkuseplaanimine](https://support.microsoft.com/e3c0a4ee-e3d8-4fbe-bd8f-16d1c712d1f4)
+- [Ühendus Microsofti broneeringud Facebooki lehele](https://support.microsoft.com/office/858db050-3d10-4bb5-82f1-df6ebeda2685)
+- [Broneerimislehe avaldamine või avaldamise tühistamiseks](https://support.microsoft.com/office/4fb0235c-01e7-4447-bf91-0915c21b84ad)
+- [Broneeringute loomine ja personal](https://support.microsoft.com/office/03a9acc9-f29c-456b-9fb2-0f49474b2708)
+- [Hankige rakendus Microsoft Bookings](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
+- [Personali isikliku kalendri sünkroonimine Microsoft Bookingsiga](https://support.microsoft.com/office/23ee9b4c-0241-40ff-b663-67a309c378f8)
+- [Broneerimislehe kohandamine](https://support.microsoft.com/office/116d7a84-a7a0-4911-a1e9-debb2cca7c43)
+- [Kohtumiste puhveraja määramine broneeringutes](https://support.microsoft.com/office/271f43e4-b8f7-4d63-8059-b5747679bb7e)
+- [Microsoft Bookingsi aruandlusteave](https://support.microsoft.com/office/e150b415-d335-4818-93ac-acff4797a1b1)
+- [Keele- ja ajavööndite seadke](https://support.microsoft.com/office/94af3e22-aca6-4e91-8b91-1cd5a02a9ea8)
+- [PowerShelli abil broneeringukalendri kustutamine](https://support.microsoft.com/office/8c3a913c-2247-4519-894d-b6263eeb9920)

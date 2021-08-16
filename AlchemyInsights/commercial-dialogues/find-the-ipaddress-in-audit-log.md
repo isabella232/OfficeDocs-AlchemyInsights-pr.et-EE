@@ -1,5 +1,5 @@
 ---
-title: IP-aadressi otsimine auditi logist
+title: IP-aadressi otsige auditilogist
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7a01aa3cc0d875e6534435f3e8f90a24f2832dc3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017128"
 ---
-# <a name="find-the-ip-address-in-audit-log"></a>IP-aadressi otsimine auditi logist
+# <a name="find-the-ip-address-in-audit-log"></a>IP-aadressi otsige auditilogist
 
-1. Kasutaja või administraatori teostatud tegevus vastab IP-aadressile, mis on kuvatud auditi logides. Kliendiinfo on ka logitud. IP-aadressi tuvastamiseks tehke järgmist.
+1. Ip-aadress, mis vastab kasutaja või administraatori tegevusele, kuvatakse auditilogides. Klienditeave logitakse ka. IP-aadressi tuvastamiseks tehke nii.
 
-1. Avage [Office 365 turbe & täitmise keskus](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Valige **Otsingu**  >  **[auditilogi otsing](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Avage Office 365 [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Valige **Otsi**  >  **[auditilogi otsingut](https://go.microsoft.com/fwlink/?linkid=2103759)**.
     > [!NOTE]
-    > Kui kuvatakse teade selle kohta, et teil on vaja auditit lülitada, jätkake ja lülitage see kohe välja. Kui see funktsioon pole lubatud, siis ei saa otsingutulemused eelmistest kuupäevadest andmeid tõmmata.
-1. Kui olete huvitatud konkreetsest tegevusest, valige see loendist **Tegevused** ; Vastasel juhul tagastatakse valitud kasutajale vaikimisi kõik tegevused. Pange tähele, et teatud tegevused ei pruugi olla menüüs **Tegevused** valiku jaoks saadaval. need auditi üksused tagastatakse siis, kui valitud on **kõigi tegevuste tulemid** (vaikesäte).
-1. Määrake kuupäevavahemik ja valige väljal **Kasutajad** selle kasutaja kasutajanimi, keda soovite uurida.
-1. Valige **Otsi**. Tegevused kuvatakse jaotises **tulemid**. Iga tegevuse IP-aadressi saab vaadata.
-1. Üksikasjade kuvamiseks valige tegevus ja seejärel valige **rohkem teavet**.
+    > Kui näete teadet, et peate auditeerimise sisse lülitama, lülitage see kohe sisse. Kui see funktsioon pole lubatud, ei saa otsingutulemid eelmistest kuupäevadest andmeid tõmmata.
+1. Kui olete huvitatud konkreetsest tegevusest, valige see loendist **Tegevused.** vastasel korral tagastatakse valitud kasutaja jaoks vaikimisi kõik tegevused. Arvestage, et teatud tegevused ei pruugi menüüs Tegevused valiku **avamiseks saadaval** olla; Kui valitud on suvand Kuva kõigi tegevuste **tulemid** (vaikesäte), tagastatakse need auditiüksused.
+1. Määrake kuupäevavahemik ja valige **väljal Kasutajad** selle kasutaja kasutajanimi, mida soovite uurida.
+1. Valige **Otsi**. Tegevused kuvatakse jaotises **Tulemid.** Saate vaadata iga tegevuse IP-aadressi.
+1. Üksikasjade kuvamiseks valige tegevus ja seejärel **valige Lisateave**.
 
-Lisateavet leiate teemast [Office 365 auditilogi otsimine levinud stsenaariumide tõrkeotsinguks](https://go.microsoft.com/fwlink/?linkid=2103944).
+Lisateavet leiate teemast [Auditilogist Office 365 levinud stsenaariumide tõrkeotsinguks.](https://go.microsoft.com/fwlink/?linkid=2103944)

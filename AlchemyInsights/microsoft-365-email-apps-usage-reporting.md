@@ -1,5 +1,5 @@
 ---
-title: Saada ülevaade oma asutuse rakenduste kasutamisest
+title: Ettevõtte meilirakenduste kasutamise ülevaade
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003962"
 - "7018"
-ms.openlocfilehash: 37a1c97793558c3842f62e43616a022d194611fb
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 67c2cbbb8b66cd4d1f6bce908569cc6a42a860e09f4b17f2d564aba724d0fc41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000568"
 ---
-# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Saada ülevaade oma asutuse rakenduste kasutamisest
+# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Ettevõtte meilirakenduste kasutamise ülevaade
 
-Microsoft 365 aruannete armatuurlaud kuvab ülevaate teie asutuse toodetega seotud tegevustest. Saate süvitsi minna üksikutele toodete taseme aruannetele, et saada ülevaade igas tootes teostatavatest tegevustest. Näiteks saate armatuurlaua abil vaadata, kuidas Microsoft 365 rakendusi eri platvormidel kasutatakse. Aruannete kuvamiseks peate olema Microsoft 365 üldadministraator, globaalne Reader või Microsoft Exchange ' i administraator või Microsoft Exchange ' i, SharePointi, Teamsi teenuse, Teamsi suhtluse või Skype ' i ärirakenduse administraator.
+Microsoft 365 aruannete armatuurlaud annab ülevaate ettevõtte toodete tegevustest. Saate süvitsi minna üksikutesse tootetaseme aruannetesse, et saada ülevaade igas tootes tehtud tegevustest. Näiteks saate armatuurlaua abil kontrollida, kuidas Microsoft 365 rakendusi platvormidel kasutatakse. Aruannete kuvamiseks peate olema Microsoft 365 i üldadministraator, üldadministraator või aruannete lugeja või Microsoft Exchange, SharePoint, Teams Service'i, Teams Communicationsi või Skype'i ärirakendus.
 
-Meilirakendus *on* osa armatuurlauast ja kuvab Microsoft Exchange Online ' iga ühendatud meilikontode arvu. Selles kuvatakse ka kasutusel olevate Microsoft Outlooki rakenduste versiooni teave, et kasutajad ei saaks Outlooki toetatud versioonide korral abi saada.
+Meilirakenduse *kasutusaruanne* on armatuurlaua osa ja kuvab meilirakenduste arvu, mis on Microsoft Exchange Online. Samuti kuvatakse selles kasutusel microsoft Outlook versiooniteave, nii et saate taotleda, et kasutajad vahetaks toetuseta üle Outlook.
 
-Rakenduse meilikonto kasutamise aruannete avamiseks tehke järgmist.
+Meilirakenduse kasutusaruandele juurdepääsemiseks tehke järgmist.
 
-1. Valige Microsoft 365 halduskeskus **aruanded**  >  [kasutus](https://go.microsoft.com/fwlink/?linkid=2140342).
-2. Valige rippmenüüst **Valige aruanded** suvand **Exchange ' i**  >  **meilikonto kasutamine**.
+1. Valige Microsoft 365 halduskeskus **Aruanded**  >  [kasutus](https://go.microsoft.com/fwlink/?linkid=2140342).
+2. Valige **rippmenüüst Aruande** valimine nupp Exchange  >  **Meilirakenduse kasutus**.
 
-Lisateavet leiate teemast [e-posti rakenduste aruannete tõlgendamine](https://go.microsoft.com/fwlink/?linkid=2140508).
+Lisateavet leiate teemast [Meilirakenduste aruande tõlgendamine.](https://go.microsoft.com/fwlink/?linkid=2140508)
