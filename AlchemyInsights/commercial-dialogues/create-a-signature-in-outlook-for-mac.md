@@ -1,5 +1,5 @@
 ---
-title: Signatuuri loomine rakenduses Outlook for Mac
+title: Signatuuri loomine mac Outlook-arvutis
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b970c008268d15f39a8d37a5ea44488198a21070
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 00db7b59e5a3d81c46d28cb919564ae99dca00b09c12f85388f5c419647dad01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070716"
 ---
-# <a name="create-a-signature-in-outlook-for-mac"></a>Signatuuri loomine rakenduses Outlook for Mac
+# <a name="create-a-signature-in-outlook-for-mac"></a>Signatuuri loomine mac Outlook-arvutis
 
-1.  Klõpsake **Outlooki** menüüs nuppu **eelistused**.
-2.  Klõpsake jaotises **e-post** nuppu **allkirjad**.
-3.  Klõpsake nuppu **Add (lisa** ) **+** .
-4.  Topeltklõpsake **Tiitlita** ja tippige allkirja nimi.
-5.  Tippige parempoolsel paanil tekst, mille soovite signatuuri kaasata.
-6.  Sulgege leht **allkirjad** .
-7.  Vormingu (nt font, Fondi laad, fondi suurus, fondi värv või esiletõstmine) rakendamiseks valige tekst ja seejärel klõpsake menüüs Vorming soovitud suvandit.
-8.  Sulgege leht **allkirjad** .
+1.  Klõpsake **Outlook** **eelistused**.
+2.  Klõpsake **jaotises Meil** nuppu **Signatuurid**.
+3.  Klõpsake **nuppu Lisa** **+** .
+4.  Topeltklõpsake **käsku Untitled**(Nimetamata) ja seejärel tippige signatuuri nimi.
+5.  Tippige parempaanile tekst, mille soovite signatuuri kaasata.
+6.  Sulgege **leht Allkirjad.**
+7.  Vormingu (nt font, fondi laad, fondi suurus, fondi värv või esiletõstmine) rakendamiseks valige tekst ja seejärel klõpsake soovitud suvandit menüüs Vorming.
+8.  Sulgege **leht Allkirjad.**

@@ -1,5 +1,5 @@
 ---
-title: Office ' i juurutamine kaugtöölaua kasutajate viisardi abil
+title: Kaugkasutajate Office juurutamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031438"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Office ' i juurutamine kaugtöölaua kasutajate viisardi abil
+# <a name="deploy-office-to-remote-users-wizard"></a>Kaugkasutajate Office juurutamine
 
-Nüüd, kui kaugelt töötamine on norm, peavad kasutajad saama teie organisatsioonide Office ' i sätted, kui nad ei ole ühendatud teie võrguga või kui kasutate oma seadmeid.
+Nüüd, kui kaugtöö on norm, peavad kasutajad saama teie asutuse Office sätted, kui nad pole ühendatud teie sisevõrguga või kui nad kasutavad oma seadmeid.
 
-Office ' [i juurutamise](https://go.microsoft.com/fwlink/?linkid=2149564) viisardi abil saate luua kohandatud Office ' i installi ja seejärel saata kasutajatele genereeritud PowerShelli skripti, mis installib Office ' i sujuvalt teie konfiguratsiooniga.
+Viisardi ["Office](https://go.microsoft.com/fwlink/?linkid=2149564) kaugkasutajatele" abil saate luua kohandatud Office ja seejärel saata kasutajatele genereeritud PowerShelli skripti, mis installib Office sujuvalt.

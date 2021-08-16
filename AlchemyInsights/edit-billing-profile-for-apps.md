@@ -1,5 +1,5 @@
 ---
-title: Rakenduste arvelduse profiili redigeerimine
+title: Rakenduste arveldusprofiili redigeerimine
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100830"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Rakenduste arvelduse profiili redigeerimine
+# <a name="edit-billing-profile-for-apps"></a>Rakenduste arveldusprofiili redigeerimine
 
-**Arvelduse profiilide redigeerimine**
+**Arveldusprofiilide redigeerimine**
 
-1. Avage leht **arvelduste**  >  **[arved & maksed](https://go.microsoft.com/fwlink/p/?linkid=848039)** ja seejärel klõpsake nuppu **arvelduse profiilid**.
+1. Avage leht   >  **[Arveldusarved & ja seejärel](https://go.microsoft.com/fwlink/p/?linkid=848039)** klõpsake nuppu **Arveldusprofiilid**.
 
-2. Valige arvelduse profiilide loendist arveldamise profiil, mida soovite redigeerida.
+2. Valige arveldusprofiilide loendist arveldusprofiil, mida soovite redigeerida.
 
-**Arvelduse profiili muutmine rakendustes**
+**Arveldusprofiili muutmine rakendustes**
 
-1. Avage leht **Arveldamine**  >  **[oma tooted](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel klõpsake vahekaarti **rakendused** .
+1. Avage leht **Toodete**  >  **[arveldamine](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja seejärel klõpsake **vahekaarti** Rakendused.
 
 2. Otsige üles ja valige rakendus, mida soovite hallata.  
 
-3. Klõpsake valiku **arvelduse profiil** kõrval nuppu **Redigeeri** ja valige arveldamise profiil, mida soovite rakendusega seostada.
+3. Klõpsake jaotises **Arveldusprofiil** nuppu **Redigeeri** ja valige arveldusprofiil, mida soovite rakendusega seostada.

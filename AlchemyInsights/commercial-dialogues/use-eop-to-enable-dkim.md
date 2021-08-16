@@ -1,5 +1,5 @@
 ---
-title: Exchange Online PowerShelli kasutamine konkreetse domeeni DKIM lubamiseks
+title: PowerShelli Exchange Online DKIM-i lubamine konkreetse domeeni jaoks
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2f2b60a63b512bde794ba588852db11423e766f3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ba627c6da96624914b858aa09d6eff9de709134c2c986fe363845c5ab2b66434
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070292"
 ---
-# <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>Exchange Online PowerShelli kasutamine konkreetse domeeni DKIM lubamiseks
+# <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>PowerShelli Exchange Online DKIM-i lubamine konkreetse domeeni jaoks
 
-Kui te ei saa DKIM DNS-i kirjeid luua, proovige kasutada rakendust Exchange Online PowerShell. 
+Kui te ei saa halduskeskuses DKIM-i DNS-i kirjeid luua, proovige kasutada Exchange Online PowerShelli. 
 
-DKIM DNS-i kirje loomiseks Exchange Online PowerShelli abil tehke järgmist.
+PowerShelli abil DKIM-i DNS-Exchange Online loomiseks tehke järgmist.
 
-1. Avage Windows PowerShell administraatorina ja kasutage kirjeldatud järjestuses järgmisi käske.
+1. Avage Windows PowerShell administraatorina ja käivitage kirjeldatud järjestuses järgmised käsud.
 
-    loomine. `$UserCredential = Get-Credential`
+    a. `$UserCredential = Get-Credential`
 
     b. `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
     c. `Import-PSSession $Session -DisableNameChecking`
     
-Kui teil on Exchange Online PowerShelliga ühenduse loomisega probleeme, lugege teemat [ühenduse loomine Exchange Online PowerShelliga](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
+Kui teil on PowerShelliga ühenduse Exchange Online probleeme, [lugege teemat Ühendus powershelli Exchange Online kohta.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 
-2. Kui olete ühendatud Exchange Online PowerShelliga, käivitage järgmine käsk.
+2. Kui olete PowerShelliga Exchange Online ühendatud, käivitage järgmine käsk.
 
     `New-DkimSigningConfig -DomainName < CustomDomain > -Enabled $true`
 
-3. Kui ülaltoodud käsk on edukalt täidetud, käivitage Exchange Online PowerShelli seansi lõpetamiseks järgmine käsk:
+3. Kui ülaltoodud käsk on edukalt täidetud, käivitage PowerShelli seansi lõpetamiseks Exchange Online käsk:
 
     `Remove-PSSession $Session` 
 

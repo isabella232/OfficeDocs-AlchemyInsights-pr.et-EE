@@ -1,5 +1,5 @@
 ---
-title: Office ' i installimisel kuvatav tõrkekood 30125-4 või 30125-1011
+title: Tõrkekood 30125-4 või 30125-1011 Office
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 26e4ba40a5517212fbd82308668e5a57e8d5be51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbb11eb5b4b8c0489cf0b496decdf7493f5b545656a38806a29a0a252903e000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100686"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Office ' i installimisel kuvatav tõrkekood 30125-4 või 30125-1011
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Tõrkekood 30125-4 või 30125-1011 Office
 
-See tõrge võib ilmneda juhul, kui teie viirusetõrjetarkvara, tulemüür, puhverserveri sätted või ühendused takistavad teil Office ' i installimist. Probleemi lahendamiseks võite proovida järgmisi toiminguid.
+See tõrge võidakse kuvada juhul, kui teie viirusetõrjetarkvara, tulemüür, puhverserveri sätted või ühendus ei luba teil Office. Probleemi lahendamiseks võite proovida järgmisi asju.
   
-- Arvuti taaskäivitamine ja Office ' i uuesti installimine
+- Taaskäivitage arvuti ja installige Office
 
-- Office ' i installimine [Office ' i võrguühenduseta Installeri](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) kaudu
+- Installige Office võrguühenduseta [installeri Office abil](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
 - Puhverserveri sätete ajutine väljalülitamine
 
@@ -33,5 +33,5 @@ See tõrge võib ilmneda juhul, kui teie viirusetõrjetarkvara, tulemüür, puhv
 
 - Tulemüüri ajutine väljalülitamine
 
-Lisateavet leiate artiklist [tõrkekood 30125-4 või 30125-1011 Office ' i installimisel](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+Lisateavet leiate teemast [Tõrkekood 30125-4 või 30125-1011 Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   
