@@ -1,5 +1,5 @@
 ---
-title: 9000071 ei saa Mac-arvutisse tippida @ sümbolit
+title: 9000071 Ei saa Macis @-sümbolit tippida
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: a682ad3ebb196df818e894c129ded59cd0e2880a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01d4a3a2a59afe797d8b43c86bbe382ab19ba029a64b0f66be11201201b9d319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984565"
 ---
 # <a name="how-to-type-special-characters-on-a-mac"></a>Erimärkide tippimine Mac-arvutisse
 
-Mac-arvutis erimärkide tippimiseks avage menüü **erimärgid** ja klõpsake käsku kiirklahvi ⌘ **Command**  +  **Control**  +  **Space**.
+Erimärkide tippimiseks Mac-arvutisse avage menüü **Erimärgid** kiirklahviga ⌘ **Command**  +  **Control**  +  **Space**.
 
-Kiire otsetee @ jaoks on ka **alt**  +  **64**.
+Kiirklahv @ on ka **ALT**  +  **64**.

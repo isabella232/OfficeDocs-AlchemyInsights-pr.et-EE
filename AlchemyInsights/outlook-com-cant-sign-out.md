@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984637"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Outlook.com ei saa välja logida
+# <a name="unable-to-sign-out-of-outlookcom"></a>Teenusest Outlook.com ei saa välja logida
 
-Outlook.com väljalogimiseks valige Kuva paremas ülanurgas oma nimi või pilt ja seejärel valige **Logi välja**.
+Välja logimiseks Outlook.com-ist valige ekraani paremas ülanurgas oma nimi või pilt ja seejärel valige **Logi välja**.
 
-Kui te ei näe pilti ekraani ülaosas, siis kontrollige, kas reklaami blokeerimine on sisse lülitatud. Mõnikord võib see takistada pildi kuvamist.
+Kui teie pilti ekraani ülaservas ei näe, kontrollige, kas see on sisse lülitatud. Mõnikord võib see takistada pildi kuvamist.
 
-Kui te ikka ei saa Outlook.com välja logida, klõpsake nuppu  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) Sule kõik brauseri aknad.
+Kui te ei saa ikka Outlook.com-ist välja logida, [https://login.live.com/logout.srf](https://login.live.com/logout.srf) klõpsake käsku Sule kõik brauseriaknad.

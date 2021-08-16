@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com kalendri beetaversioon
+title: 9000198 Outlook.com-i kalendri beetaversioon
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064560"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Outlook.com uued kalendrite kogemused
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Uued kalendrikogemused, mis on Outlook.com-i
 
-Uues ilmes tuuakse kalendrisse parim kujundus ja õppijate kogemus.
+Uus ilme toob parimad kujundused ja õppivad meilikeskkonnast kalendrisse.
 
-Naudite kaasaegset kujundust, mis vähendab visuaalseid segadusi ja annab teile kiiremaid võimalusi kalendris navigeerimiseks. Samuti on hõlpsam leida huvitavaid kalendreid oma lemmikute tegevuste jaoks – alates TELESAADETEst kuni spordiklubide ja üritusteni.
+Saate nautida kaasaegset kujundust, mis vähendab visuaalset segadust ja annab teile kiiremad võimalused kalendris navigeerimiseks. Samuti on lihtsam leida huvitavaid kalendreid oma lemmiktegevuste jaoks – telesaadetest spordimeeskondade ja üritusteni.
 
-Oleme laiendanud sündmuste ikoonide kogumist ja värskendanud olemasolevate ilmet ja olemasolevaid ning nüüd lisame teie sündmustele automaatselt asjakohaseid ikoone, et saaksite hõlpsalt vaadata, mis toimub pilguga.
+Laiendasime oma sündmuste ikoonide kogumeid ja värskendasime olemasolevate ikoonide ilmet ja ilmet ning lisame nüüd teie sündmustele automaatselt asjakohased ikoonid, nii et saate kiiresti vaadata, mis toimub.
 
-Saate anda tagasisidet uute funktsioonide kohta [Outlook.com Calendar UserVoice kanali](https://go.microsoft.com/fwlink/?linkid=2103075)kaudu.
+Uute funktsioonide kohta saate tagasisidet anda [Outlook.com-i kalendri uservoice kanali kaudu.](https://go.microsoft.com/fwlink/?linkid=2103075)
