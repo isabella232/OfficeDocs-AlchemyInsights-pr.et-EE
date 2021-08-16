@@ -1,5 +1,5 @@
 ---
-title: 1800014 Outlook Mobile ' i häälestamise tõrkeotsing ühiskasutuses postkasti jaoks
+title: 1800014 ühispostkasti Outlook mobiilihäälestuse tõrkeotsing
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
-ms.openlocfilehash: 856560dbe7e66460fd2c6690aed1f32174d5dd7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78e015918f7b1ebfea3898a7ede5518b847c7be19971d5ef59854da8b005667f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020692"
 ---
-# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Ühiskasutuses postkasti Outlook Mobile ' i häälestamise tõrkeotsing
+# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Ühispostkasti Outlook mobiilihäälestuse tõrkeotsing
 
-Te ei pääse juurde ühiskasutatavale postkastile, mis on mobiilsideseadmesse installitud Outlooki rakendus. Kas soovite seda funktsiooni? Laske Outlook Engineering teamil teada. [Hääletage siit](https://go.microsoft.com/fwlink/?linked=862116)!
+Ühispostkasti ei pääse juurde mobiilsideseadmesse Outlook rakenduse kaudu. Kas soovite seda funktsiooni? Andke Outlook tehnilisele töörühmale teada. [Hääletage siin!](https://go.microsoft.com/fwlink/?linked=862116)
   
-Saate kasutada ainult mobiilsideseadmes ühiskasutatavat postkasti, avades brauseri, sisse logides ja seejärel Outlooki veebirakenduses. Juhised leiate teemast [ühiskasutuses postkasti lisamine Outlooki veebirakenduses](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207). Outlooki veebirakenduses pääsete juurde ühiskasutatavale postkastile.
+Ühispostkasti saate kasutada ainult mobiilsideseadmes, avades brauseri, logides sisse ja seejärel Outlooki veebirakendus. Juhised leiate teemast [Ühispostkasti lisamine Outlooki veebirakendus.](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207) Alates Outlooki veebirakendus pääsete ühispostkasti juurde.
   
-Lisateave: [rakenduse Outlook iOS-i ja Androidi rakenduse spikker](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Lisateave: [iOS-i ja Androidi jaoks mõeldud Outlook rakenduse spikker](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
 

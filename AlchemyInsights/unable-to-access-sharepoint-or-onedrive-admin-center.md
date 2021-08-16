@@ -1,5 +1,5 @@
 ---
-title: SharePointile või OneDrive'i halduskeskusele ei pääse juurde
+title: Ei pääse juurde SharePoint või OneDrive halduskeskusele
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: 7ba4a9c6995c03dd21e0e1aa387e407d41a08fb1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: afb28ccae2c9f087f1e1417cb6594cedc908e1cf759a5d1e6d92c4ee9a75527d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824431"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020440"
 ---
-# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>SharePointile või OneDrive'i halduskeskusele ei pääse juurde
+# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Ei pääse juurde SharePoint või OneDrive halduskeskusele
 
-- Kui teie SharePointi või OneDrive'i halduskeskuse saidile ei pääse juurde või see pole saadaval, võib ilmneda ajutine teenuseprobleem, mille korral kasutajatel esineb SharePointi saitidele või OneDrive'i sisule juurdepääsemisel aeg-ajalt viivitusi või navigeerimistõrkeid. Kontrollige [teenuse seisundi armatuurlauda,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) et näha, kas teie ettevõtet mõjutab.
+- Kui teie SharePoint või OneDrive halduskeskuse sait pole juurdepääsetav või pole saadaval, võib ilmneda ajutine teenuseprobleem, mille korral kasutajatel ilmneb saitidele või sisule juurdepääsemisel SharePoint aeg-ajalt OneDrive navigeerimisvigu. Kontrollige [teenuse seisundi armatuurlauda,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) et näha, kas teie ettevõtet mõjutab.
 
-- Üld- ja SharePointi administraatoritele tuleb määrata SharePointi litsents. Äsja loodud kontod, millele on äsja määratud SharePointi litsents või administraatoriroll, võivad sharePointile juurdepääsul ilmneda probleemid, näiteks "juurdepääs keelatud" või "kasutajat ei leitud". Meie süsteemides sünkroonimise lõpuleviimiseks andke vähemalt 24 tundi. Mõistame, et 24 tundi võib tunduda pika ajana. Paljudel juhtudel töötame juba lahenduse kallal.
+- Üld- ja SharePoint administraatoritele tuleb määrata SharePoint litsents. Äsja loodud kontod, millele on määratud SharePoint litsentsi või administraatori roll, võivad ilmneda probleemid, mis SharePoint juurdepääsule (nt "juurdepääs keelatud" või "kasutajat ei leitud". Meie süsteemides sünkroonimise lõpuleviimiseks andke vähemalt 24 tundi. Mõistame, et 24 tundi võib tunduda pika ajana. Paljudel juhtudel töötame juba lahenduse kallal.
 
-- Õigustega identiteedihaldus[(PIM) kasutajatele](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user?tabs=new)võidakse juurdepääs keelata, kui lubatud juurdepääsuaja aken on väga väike, lugege teemat [PIM-i kontodele juurdepääs keelatud.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)
+- Privileged Identity Management ([PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user?tabs=new)) kasutajatele võidakse juurdepääs keelata, kui lubatud juurdepääsuaja aken on väga väike, lugege teemat [PIM-i kontodele juurdepääs keelatud.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)

@@ -1,5 +1,5 @@
 ---
-title: Kuidas saavad kasutajad otsida oma veebiarhiivist sõnumeid?
+title: Kuidas kasutajad saavad veebiarhiivist sõnumeid otsida?
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034498"
 ---
-# <a name="how-users-can-search-their-online-archive-for-messages"></a>Kuidas saavad kasutajad otsida oma veebiarhiivist sõnumeid?
+# <a name="how-users-can-search-their-online-archive-for-messages"></a>Kuidas kasutajad saavad veebiarhiivist sõnumeid otsida?
 
-Veebiarhiiv on Office 365 Enterprise ' i klientidele mõeldud funktsioon, millel on aeg-ajalt suured postkastid. Kasutaja Veebiarhiiv toimib mõnevõrra sarnaselt teise kontoga Outlooki ja oma kausta struktuuri kaudu. Veebiarhiivist meilisõnumi leidmiseks tehke järgmist.
+Veebiarhiiv on funktsioon Office 365 klientidele, kellel on aeg-ajalt suuri postkaste. Kasutaja veebiarhiiv toimib mõnevõrra nagu teine konto Outlook oma kaustastruktuuriga. Veebiarhiivist meilisõnumite otsimiseks:
 
-1. Veebiarhiiv ei kuulu sisendkaustas tehtud otsingute sisse. Peate minema veebiarhiivi ja seejärel sooritama otsingu.
-2. Outlooki veebirakenduses nimetatakse *arhiivi arhiivimiseks.* Avage In-Place arhiivi postkast ja seejärel Sooritage otsing.
-3. Rakenduses Outlook 2016 nimetatakse seda *Veebiarhiiviks `name` > – <*. Avage võrgus arhiivi postkast ja seejärel Sooritage otsing.
+1. Veebiarhiivi ei kaasata sisendkaustast tehtud otsingute hulka. Peate minema veebiarhiivi ja seejärel otsingut tegema.
+2. Outlooki veebirakendus arhiivi nimetatakse *kohaarhiiviks.* Avage In-Place arhiivpostkast ja seejärel tehke oma otsing.
+3. In Outlook 2016, seda nimetatakse *Online Archive - <`name` >*. Avage veebiarhiivi postkast ja seejärel tehke oma otsing.
 
 > [!TIP]
-> Kasutajad ei pääse oma veebiarhiivi postkastile juurde, kasutades Outlooki mobiilsideseadmes (nt nutikas telefon).
+> Kasutajad ei pääse oma veebiarhiivi postkastile juurde Outlook mobiilsideseadmes (nt nutitelefon).

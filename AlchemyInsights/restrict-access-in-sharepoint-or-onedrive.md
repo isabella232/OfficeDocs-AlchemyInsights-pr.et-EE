@@ -1,5 +1,5 @@
 ---
-title: Juurdepääsu piiramine SharePointis või OneDrive ' is
+title: Juurdepääsu piiramine SharePoint või OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7b68df2ae24b09fe9b01bd67c31a89e37f284a512bc1ecb097ef52fae5ae7d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075036"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Juurdepääsu piiramine SharePointis või OneDrive ' is
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Juurdepääsu piiramine SharePoint või OneDrive
 
-SharePointis ja OneDrive ' is saate piirata juurdepääsu üksustele (nt failid, kaustad ja loendid), andes juurdepääsu ainult rühmadele või isikutele, kellele soovite juurde pääseda. Vaikimisi pärivad SharePointis olevad õiguste hierarhiast kõrgemad. Seega pärib faili kaustast oma juurdepääsuõigused, mis pärib teegist teegis olevad teegid, mis pärib saidilt selle õiguste.
+Kui SharePoint ja OneDrive, saate piirata juurdepääsu üksustele (nt failidele, kaustadele ja loenditele), andes juurdepääsu ainult rühmadele või üksikisikutele, millele soovite juurde pääseda. Vaikimisi päritakse SharePoint õigused hierarhias kõrgemalt. Seega pärib fail oma õigused kaustast, mis pärib selle õigused teegist, mis pärib selle õigused saidilt.
   
-Saate ühiskasutusse anda kõrgemal tasemel (nt kogu saidi ühiskasutusse andmise kaudu) ja seejärel katkestada pärandi, kui te ei soovi kõiki saidil olevaid üksusi ühiskasutusse anda. Kuid me ei soovita seda, sest see muudab paremate ja segavate lubade säilitamise tulevikus. Selle asemel saate teha järgmist.
+Saate anda ühiskasutusse kõrgemal tasemel (nt jagada tervet saiti) ja seejärel päranduse murda, kui te ei soovi kõiki saidi üksusi ühiskasutusse anda. Kuid me ei soovita seda, kuna see muudab õiguste säilitamise keerulisemaks ja tulevikus segadusse ajavamaks. Selle asemel saate teha nii:
   
-- Kui soovite näiteks ühiskasutada kausta kogu sisu, välja arvatud üks fail, teisaldage see fail uude asukohta, mida pole ühiskasutusse antud.
+- Kui soovite näiteks anda ühiskasutusse kogu kausta sisu( v.a üks fail), teisaldage see fail uude asukohta, mida pole ühiskasutusse antud.
     
-- Kui teil on kaustas kaks alamkausta ja soovite jagada ühe alamkausta rühmadega A ja B ning lubada ainult rühmale juurdepääsu teise alamkausta, Jagage emakausta rühmaga A ja lisage rühm B esimesse alamkausta.
+- Kui teil on kaustas kaks alamkausta ja soovite jagada ühte alamkausta rühmadega A ja B ning lubada ainult rühma A juurdepääsu teisele alamkaustale, jagage emakausta rühmaga A ja lisage rühm B esimesele alamkaustale.
     
-[Faili või kausta ühiskasutuse peatamine ](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Faili või kausta ühiskasutuse peatamiseks ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 
