@@ -1,5 +1,5 @@
 ---
-title: Outlook.com olevatest failidest ei saa fotosid või faile kustutada
+title: Te ei saa kustutada fotosid ega faile Outlook.com-ist
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064308"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Failide või fotode kustutamine failist
+# <a name="cant-delete-files-or-photos-from-files"></a>Failidest faile ega fotosid ei saa kustutada
 
-Rakenduses Outlook.com kuvatakse **failidele** postkastis olevatele sõnumitele manustatud failid ja fotod. Failide ja fotode eemaldamiseks failidest peate kustutama need meilisõnumid, millega nad on seotud. Pärast sõnumite kustutamist peate need kustutama ka kaustast Kustutatud üksused.
+Outlook.com-is **kuvatakse** failides teie postkasti sõnumitele manustatud failid ja fotod. Failide ja fotode eemaldamiseks failidest peate kustutama manustatud meilisõnumid. Pärast sõnumite kustutamist peate need kustutama ka kaustast Kustutatud üksused.
 
-Lisateavet leiate teemast [failide või fotode kustutamine Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate artiklist [Failide või fotode kustutamine Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)

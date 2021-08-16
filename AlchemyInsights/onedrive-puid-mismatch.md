@@ -1,5 +1,5 @@
 ---
-title: OneDrive ' i PUID lahknevus
+title: OneDrive PUID lahknevus
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096726"
 ---
-# <a name="onedrive-puid-mismatch"></a>OneDrive ' i PUID lahknevus
+# <a name="onedrive-puid-mismatch"></a>OneDrive PUID lahknevus
 
-Näib, et teil esineb OneDrive for Businessis [ID-mittevastavus](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) . Kui soovite, et saaksime teid esimesel võimalusel aidata, tehke järgmist.
+Näib, et teil esineb [ID-OneDrive for Business.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) Kui soovite, et aitame teid kõige varem, tehke järgmist.
 
-1. Klõpsake nuppu  **Võta ühendust kasutajatoega** ja seejärel  **uue teenuse taotlus**.
-2. Jätke pealkiri ja kirjeldus  **OneDrive ' i saidi kasutaja ID-ga sobimatuks**.
+1. Klõpsake  **nuppu Võta ühendust klienditoega** ja seejärel käsku Uus  **teenusetaotlus**.
+2. Jätke pealkiri ja kirjeldus OneDrive **saidi kasutaja ID lahknevus .**
 3. Kui pilet on esitatud, värskendage seda järgmise teabega.
-    - See mõjutab OneDrive ' i saidi URL-i.
-    - Mõjutatud kasutaja peamine nimi (UPN).
+    - OneDrive mõjutatud saidi URL-i.
+    - Mõjutatud kasutaja kasutajanimi (UPN).

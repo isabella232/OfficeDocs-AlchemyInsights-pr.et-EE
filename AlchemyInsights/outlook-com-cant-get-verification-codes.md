@@ -1,5 +1,5 @@
 ---
-title: Outlook.com ei saa vastu võtta
+title: Outlook.com ei saa kinnituskoode vastu võtta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064200"
 ---
-# <a name="cant-get-verification-codes"></a>Kontrolli koode ei saa hankida
+# <a name="cant-get-verification-codes"></a>Kinnituskoode ei saa kätte
 
-Kui te ei pääse oma alternatiivsele meiliaadressile või telefoninumbrile juurde, avage leht Microsofti konto [turvalisuse põhitõed](https://account.microsoft.com/security) , valige suvand **mul ei ole ühtegi neist** sisselogimise lehel ja järgige turbeteabe asendamiseks juhiseid.
+Kui te ei pääse juurde alternatiivsele meiliaadressile või telefoninumbrile, avage leht Microsofti [konto](https://account.microsoft.com/security) turbe põhitõed, valige sisselogimislehel Suvand Mul **pole** ühtegi neist ja järgige turbeteabe asendamiseks juhiseid.
 
-*Märkus:* [Microsofti autentimise rakendusel](https://go.microsoft.com/fwlink/?linkid=2016117) pole vaja Interneti-ühendust, et anda teile kontrollkood.
+*Märkus.* Microsoft Authenticator [ei](https://go.microsoft.com/fwlink/?linkid=2016117) nõua kinnituskoodi kontrollimiseks Interneti-ühendust.
 
-Lisateavet leiate teemast [Microsofti konto turbeteabe ja koodide](https://support.microsoft.com/help/12428/)lugemine.
+Lisateavet leiate teemast Microsofti [konto turbeteave ja kinnituskoodid.](https://support.microsoft.com/help/12428/)

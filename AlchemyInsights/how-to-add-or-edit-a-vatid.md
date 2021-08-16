@@ -15,12 +15,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868378"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502172"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID lisamine või redigeerimine
 
@@ -34,4 +34,4 @@ ms.locfileid: "57868378"
 3. Valige tellimuse üksikasjade lehel jaotises **Teenuse kasutusaadress** käsk **Redigeeri teenuse kasutusaadressi.**
 4. Tippige **paanil Teenuse kasutusaadressi** redigeerimine väljale KM-kood oma **KM-i** ID ja seejärel valige **Salvesta**. Pärast seda ei võeta teie järgmiselt arvelt käibemaksu.
 
-Lisateavet leiate teemast [Millist maksu tuleb tasuda Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Lisateavet leiate teemast [Millist maksu tuleb tasuda Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
