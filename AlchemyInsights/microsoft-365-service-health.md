@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 teenuse seisundi
+title: Microsoft 365 Teenuse seisundi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098454"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 teenuse seisundi
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Teenuse seisundi
 
 
 Kontrollige teenuse seisundi armatuurlaua kaudu mis tahes [teenuse seisundit.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Kui **valite paremas ülanurgas** uue halduskeskuse, näete uusi teenuse seisundi suvandeid.
@@ -30,4 +30,4 @@ Kontrollige teenuse seisundi armatuurlaua kaudu mis tahes [teenuse seisundit.](h
 
 - Ettevõtte **teenuse** seisundi ajaloo vaatamiseks valige Ajalugu. 
 
-Lisateavet leiate teemast Microsoft [365 teenuse seisundi kontrollimine.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
+Lisateavet leiate teemast Teenuse seisundi [Microsoft 365 kontrollimine.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
