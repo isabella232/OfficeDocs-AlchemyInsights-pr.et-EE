@@ -1,5 +1,5 @@
 ---
-title: Outlook.com BitLockeri taastamine
+title: Outlook.com-i BitLockeri taaste
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 802a37239467624a856393b9909170c3f3b2233cfa238508fd0515749a71d1a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025102"
 ---
-# <a name="bitlocker-recovery"></a>BitLockeri taastamine
+# <a name="bitlocker-recovery"></a>BitLockeri taaste
 
-BitLockeri taastevõtme kuvamiseks avage [seadmed](https://account.microsoft.com/devices/recoverykey) .
+[BitLockeri](https://account.microsoft.com/devices/recoverykey) taastevõtmete vaatamiseks avage seadmed.
 
-Lisateavet leiate teemast [BitLockeri taastevõtme otsimine](https://support.microsoft.com/help/4026181)   .
+Lisateavet [leiate teemast BitLockeri](https://support.microsoft.com/help/4026181) taastevõtme avamiseks.
