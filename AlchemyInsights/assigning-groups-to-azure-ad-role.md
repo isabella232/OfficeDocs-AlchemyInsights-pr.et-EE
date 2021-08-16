@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036236"
 ---
 # <a name="assigning-groups-to-azure-ad-role"></a>Rühmade määramine Azure AD rollile
 
-Azure AD rühma määramiseks, kus on Azure AD ' i asutuse allikas Azure AD rollis, tehke järgmist.
+Azure AD-rollile Azure AD-rühma määramiseks azure AD-ga tehke järgmist.
 
-1. Uue rühma loomine – uue rühma loomiseks tehke järgmist.
+1. Uue rühma loomine – uue rühma loomiseks:
 
-    loomine. Logige sisse Azure AD halduskeskus, millel on **priviligeeritud rollide administraator** või **üldadministraatori** õigused.
-    b. Valige **Azure Active Directory > rühmad > kõik rühmad > uus rühm**.
+    a. Logige sisse Azure AD halduskeskusesse **õigustega rolliadministraatori või** **üldadministraatori õigustega.**
+    b. Valige **Azure Active Directory > Rühmad > Kõik rühmad > Uus rühm**.
     c. Looge rühm.
 
-2. Määrake rühmale roll rühma loomise ajal või pärast rühma loomist.
+2. Määrake rühmale roll kas rühma loomise ajal või pärast rühma loomist.
 
-    loomine. Rühmale rolli määramiseks rühma loomise ajal lülitage sisse lüliti **AZURE ad rollid** , mida saab rühmale määrata ja rühma luua.
-    b. Kui soovite rühmale rolli määrata pärast selle loomist, liikuge vastloodud rühma jaoks menüüsse **määratud rollid** ja määrake roll rühmale.  
+    a. Rühmale rolli määramiseks rühma loomise ajal saab azure **AD rollid** sisse lülitada ja rühma luua.
+    b. Rühmale rolli määramiseks pärast selle loomist liikuge  äsja loodud rühma vahekaardile Määratud rollid ja määrake sellele roll.  
 
-**Azure AD rollile määratud rühma liikmelisuse haldamine**
+**Azure AD rollile määratud rühma liikmesuse haldamine**
 
-Õiguste suurendamise vältimiseks saab vaikimisi kasutada ainult privilegeeritud rolli administraatorid ja globaalsed administraatorid rollile määratud rühma liikmestaatust. Nad saavad siiski määrata sellise rühma omaniku ja selle ülesande delegeerida.
+Õiguste tõstmise vältimiseks saavad rollile määratud rühma liikmelisust muuta ainult õigustega rolliadministraatorid ja üldadministraatorid. Siiski saavad nad määrata sellisele rühmale omaniku ja delegeerida selle ülesande.
 
-Lisateavet pilve rühmade Azure AD rollide määramise kohta leiate teemast [ad rollide määramine pilve rühmale](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Lisateavet pilveteenuste jaoks määratud rollide tõrkeotsingu kohta leiate teemast [pilve rühmade jaoks määratud rollide tõrkeotsing](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting).
+Lisateavet Azure AD rollidele pilverühmade määramise kohta leiate [teemast AD-rollide määramine pilverühmale.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Lisateavet pilverühmadele määratud rollide tõrkeotsingu kohta leiate teemast [Pilverühmadele määratud rollide tõrkeotsing.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
 
 
 
