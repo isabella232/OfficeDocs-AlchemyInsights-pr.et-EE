@@ -1,5 +1,5 @@
 ---
-title: _Vti_rpc avamiseks korduv sisselogimine
+title: Korduva sisselogimise _vti_rpc
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -15,14 +15,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 019fb0675a4a8b38e4d9a4012b8398291150940b34fcc81a2bbf96942d3fa9ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053030"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>_Vti_rpc avamiseks korduv sisselogimine
+# <a name="repeated-login-to-open-_vti_rpc"></a>Korduva sisselogimise _vti_rpc
 
-Kui töötate OneDrive ' i failidega Office 2016 abil, võidakse kuvada teade: "andke meile konto, mida soovite _vti_rpc avamiseks kasutada." See probleem on lahendatud versioonis 1708 (16.0.8431.2094). Selle probleemi lahendamiseks värskendage Office ' i uusimat versiooni. Valige **File** nüüd suvand "Laadi \> **konto** \> **värskendamise suvandid** " \> **Update Now**.
+Kui töötate OneDrive failidega Office 2016, võidakse kuvada teade "Öelge meile konto, mida soovite _vti_rpc". See probleem lahendati versioonis 1708 (16.0.8431.2094). Probleemi lahendamiseks värskendage uusima versiooni Office. Valige  \> **Failikonto** \> **värskendussuvandid Värskenda** \> **kohe**.
   

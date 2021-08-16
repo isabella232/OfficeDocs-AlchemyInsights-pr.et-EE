@@ -1,5 +1,5 @@
 ---
-title: Azure AD lepingute võrdlus
+title: Azure AD-plaanide võrdlus
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045632"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory lepingute võrdlus
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory võrdlus
 
-Azure Active Directory sisaldab nelja versiooni: tasuta, Office 365 apps, Premium P1 ja Premium P2.
+Azure Active Directory on saadaval neljas väljaandes: Tasuta, Office 365 Rakendused, Premium P1 ja Premium P2.
 
-Tasuta väljaanne sisaldab Azure ' i tellimust. Premium-väljaanded on saadaval Microsofti esindaja, [avatud hulgilitsentsimise programmi](https://go.microsoft.com/fwlink/?linkid=2110873)ja [pilve lahenduste pakkujate programmides](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409).
+Tasuta väljaanne sisaldub Azure'i tellimuses. Premium versioonid on saadaval teie Microsofti esindaja, [avatud hulgilitsentsiprogrammi ja](https://go.microsoft.com/fwlink/?linkid=2110873)pilvelahenduste [pakkujate programmide kaudu.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Azure ' i ja Office 365 tellijad saavad osta ka Azure Active Directory Premium P1 ja P2 online. Lisateavet leiate teemast [Azure Active Directory funktsioonid ja hinnad](https://go.microsoft.com/fwlink/?linkid=2081447).
+Azure'i ja Office 365 saavad tellijad osta ka Azure Active Directory Premium P1 ja P2 veebist. Lisateavet leiate teemast [Azure Active Directory funktsioonid ja hinnad.](https://go.microsoft.com/fwlink/?linkid=2081447)

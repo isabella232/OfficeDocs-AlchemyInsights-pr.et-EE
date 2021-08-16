@@ -1,5 +1,5 @@
 ---
-title: Auditi logide ooteaeg
+title: Teave auditilogide säilitusperioodide kohta
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006310"
 ---
-# <a name="about-audit-logs-retention-periods"></a>Auditi logide ooteaeg
+# <a name="about-audit-logs-retention-periods"></a>Teave auditilogide säilitusperioodide kohta
 
-Auditi logide ooteaeg sõltub teie asutuse Office ' i 365 tellimusest.
+Auditilogide säilitusperiood sõltub teie asutuse Office 365 tellimusest.
 
 - **Office 365 E3**: 90 päeva.
-- **Office 365 E5**: 365 päeva. 1-aastane kinnipidamine on praegu eelvaates.
-- **E3 ja Office 365 täiustatud nõuetele vastavuse lisandmoodul**: 365 päeva. 1-aastane kinnipidamine on praegu eelvaates.
-- Kui soovite registreeruda eelvaate programmi, siis esitage taotlus Microsoft support ja lisage järgmine kirjeldus selle kohta, mida vajate abi: **pikaajaline Office 365 audit log Private Preview**.
+- **Office 365 E5**: 365 päeva. Üheaastane säilitamine on praegu eelvaates.
+- **E3 ja Office 365 täiustatud nõuetelevastavus :** 365 päeva. Üheaastane säilitamine on praegu eelvaates.
+- Eelvaateprogrammis registreerumiseks lisage Microsofti tugiteenuste kasutajatoega taotlus ja lisage abi vajava teabe kirjeldusena järgmine: pikaajaline **Office 365 auditilogi privaatne eelvaade**.
 > [!NOTE]
-> Ooteaeg põhineb kasutaja litsentsil. Kui teie ettevõtte kasutajal on näiteks E3 litsents, säilitatakse selle kasutaja toimingute auditi kirjed 90 päeva jooksul. Kui mõnel teisel kasutajal on E5-litsents, säilitatakse nende auditi kirjed ühe aasta jooksul.
+> Säilitusperiood põhineb kasutajapõhisel litsentsil. Näiteks kui teie ettevõtte kasutajal on E3 litsents, säilitatakse selle kasutaja tehtud tegevuste auditikirjeid 90 päeva. Kui ühel kasutajal on E5 litsents, säilitatakse tema auditikirjeid üheks aastaks.
 
-Lisateavet leiate teemast [KKK](https://go.microsoft.com/fwlink/?linkid=2115336).
+Lisateavet leiate sellest [KKK-st.](https://go.microsoft.com/fwlink/?linkid=2115336)

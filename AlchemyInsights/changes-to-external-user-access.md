@@ -1,5 +1,5 @@
 ---
-title: Väliste kasutajate juurdepääsu muutmine
+title: Väliskasutaja juurdepääsu muudatused
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
-ms.openlocfilehash: 1be2a05efdf46a1ec05992963a3e03519dc2c3d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3c3ccbd8dd4f43a5f927f727e8757ded3612c630158cf045b4e6c0f93bb75ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045668"
 ---
-# <a name="changes-to-external-user-access"></a>Väliste kasutajate juurdepääsu muutmine
+# <a name="changes-to-external-user-access"></a>Väliskasutaja juurdepääsu muudatused
 
-Alates märtsist 23, 2018 ei saa väliskasutajad enam kasutada sisu, mis on ühiskasutusse antud kõigi, kõigi autenditud kasutajate või kõigi vormide kasutajatega, isegi kui need on kutsutud või lisatud volitatud rühmadesse. Väliskasutajad saavad juurdepääsu ainult kasutajale ühiskasutusse antud sisule või rühmadele, millesse kasutaja kuulub. Kui soovite olemasolevad sätted alles jätta, lugege järgmisi teemasid. https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+Alates 23. märtsist 2018 ei pääse väliskasutajad enam juurde kõigile ühiskasutusse antud sisule, kõigile autenditud kasutajatele ega kõigile vormide kasutajatele, isegi kui nad on kutsutud või lisatud volitatud rühmadesse. Väliskasutajad pääsevad juurde ainult kasutajale ühiskasutusse antud sisule või rühmadele, kuhu kasutaja kuulub. Kui soovite olemasolevad sätted alles jätta, lugege teemat https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 

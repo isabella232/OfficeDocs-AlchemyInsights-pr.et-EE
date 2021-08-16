@@ -1,5 +1,5 @@
 ---
-title: Voo tingimuste või täpsemate valemite kasutamine
+title: Tingimuste või täpsemate valemite kasutamine voos
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
-ms.openlocfilehash: e025535333bb66f0adc52fc9849f015ddf301cb3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79f60fae01e3bc5dd72575ffe4e2b779b0474ffd1ea6d11d632365cd63c5bf81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990559"
 ---
-# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Voo tingimuste või täpsemate valemite kasutamine
+# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Tingimuste või täpsemate valemite kasutamine voos
 
-Microsoft Flow ' s saate kohandada voogu nii, et see sooritab toiminguid ainult juhul, kui tingimus on tõene. Lisateavet leiate teemast [tingimuse lisamine voolule](https://go.microsoft.com/fwlink/?linkid=872112).
+Kui Microsoft Flow, saate voogu kohandada nii, et see täidab ülesandeid ainult siis, kui tingimus on tõene. Lisateavet leiate teemast [Tingimuse lisamine voole.](https://go.microsoft.com/fwlink/?linkid=872112)
   
-Täpsema valemi loomiseks lugege artiklit [töövoo definitsiooni keele skeem Azure ' i loogika rakenduste jaoks](https://aka.ms/logicexpressions).
+Täpsema valemi loomiseks lugege teemat [Töövoomääratluse keeleskeem Azure'i loogikarakenduste jaoks.](https://aka.ms/logicexpressions)
   
 
