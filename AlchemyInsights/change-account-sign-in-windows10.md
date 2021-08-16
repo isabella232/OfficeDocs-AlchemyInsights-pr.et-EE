@@ -1,5 +1,5 @@
 ---
-title: Windows 10 ARVUTISSE sisselogimiseks kasutatava konto muutmine
+title: Konto muutmine, mida kasutate oma arvutisse Windows 10
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,56 +13,56 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: c2f2c1de72db3c5c33d24473420f2581d8466d83
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 578cf67ee951966ad05f2680609712ce53ac98920c609f557542c2164fd7aa36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018604"
 ---
-# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Windows 10 ARVUTISSE sisselogimiseks kasutatava konto muutmine
+# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Konto muutmine, mida kasutate oma arvutisse Windows 10
 
-**Märkus** Kui müüte või annetate oma arvutit, kaaluge selle asemel täielikku lähtestamist, et eemaldada kõik isiklikud andmed. Kõigi failide, sätete ja rakenduste eemaldamiseks lugege [enne Windows 10 seadme või Xbox One ' i müümist või kingitust](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one).
+**Märkus** Kui müüte või annetate oma arvutit, kaaluge selle täielikku lähtestamist, et eemaldada kogu isiklik teave. Kõigi failide, sätete ja rakenduste eemaldamiseks lugege teemat Enne oma seadme või [Windows 10 müümist või Xbox One](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one).
 
-Olemasoleva kasutaja asendamiseks uue kontoga tehke järgmist.
+Olemasoleva kasutaja asendamiseks uue kontoga saate teha järgmist.
 
-1. Lisa uus kasutaja.
+1. Uue kasutaja lisamine.
 
-1. Muutke uus kasutaja oma ARVUTIS administraatoriks.
+1. Tehke uus kasutaja oma arvuti administraatoriks.
 
 1. Kustutage vana kasutaja.
 
 **Märkus** Kasutaja kustutamisel kaotate jäädavalt kõik selle kasutajaga seotud sätted, failid ja andmed. Varundage kõik, mida soovite salvestada.
 
-**Mõne muu Kasutajakonto aktiveerimine**
+**Muule kasutajakontole üleminek**
 
-1. Valige tegumiribal **Start** (Windowsi logo nupp Start). 
+1. Valige **tegumiribal** Windows Start (nupp Start). 
 
-1. Valige menüü Start vasakus servas konto nimi ikoon (või pilt) > Vaheta kasutajat > teine kasutaja.
+1. Valige menüü vasakus servas menüü Start konto nimeikoon (või pilt) > vahetage > kasutajat.
 
 **Sisselogimiseks kasutatava konto tüübi muutmine**
 
-- Microsofti kontolt kohaliku konto muutmine
+- Microsofti kontolt kohalikule kontole muutmine
 
-    1. Valige nupp Start, valige **sätted**  >  **kontode** > teie teave.
+    1. Valige nupp Start, valige **Sätted**  >  **kontod** > Teie teave.
 
-    1. Kui kasutate kohalikku kontot, mis pole meiliaadressiga lingitud, kuid soovite kasutada Microsofti kontot, valige **selle asemel logige sisse Microsofti kontoga**.
+    1. Kui kasutate kohalikku kontot, mis pole meiliaadressiga lingitud, kuid soovite kasutada Microsofti kontot, valige selle asemel Logi sisse **Microsofti kontoga.**
 
-    1. Kui kasutate Microsofti kontot, mis on lingitud meiliaadressiga, kuid soovite kasutada kohalikku kontot, valige **selle asemel logige sisse kohaliku kontoga**.
+    1. Kui kasutate meiliaadressiga lingitud Microsofti kontot, kuid soovite kasutada kohalikku kontot, valige selle asemel Logi **sisse kohaliku kontoga.**
 
-    1. Vajadusel sisestage oma parool ja seejärel valige **edasi**.
+    1. Vajaduse korral sisestage parool ja seejärel valige **Edasi**.
 
-    1. Taaskäivitage oma seade. Järgmine kord, kui sisse logite, kuvatakse konto, millesse olete sisse lülitanud.
+    1. Taaskäivitage seade. Järgmine kord, kui sisse logite, kuvatakse konto, mille olete aktiveerinud.
 
-- Tavalise konto muutmine administraatoriks
+- Tavakontolt administraatorile vahetamine
 
-    1. Valige Start ja seejärel valige **sätted**  >  **konto**  >  **pere & teised inimesed** (või **muud inimesed**, kui kasutate opsüsteemi Windows 10 Enterprise).
+    1. Valige Start ja **seejärel Sätted**  >  **kontopere**& inimesed (või Muud inimesed , kui kasutate  >   Windows 10 Enterprise). 
 
     1. Valige konto, mille soovite administraatoriks muuta, ja valige **Muuda kontot**.
 
-    1. Valige jaotises **Konto tüüp** käsk **administraator** ja seejärel klõpsake **nuppu OK**.
+    1. Valige **jaotises Konto** tüüp väärtus **Administraator** ja seejärel valige **OK**.
 
-Lisateavet leiate teemast Microsofti tugi:
+Lisateavet leiate teemast Microsofti tugiteenused.
 
-[Uue kasutaja lisamine ja selle kontoga](https://support.microsoft.com/windows/add-or-remove-accounts-on-your-pc-104dc19f-6430-4b49-6a2b-e4dbd1dcdf32) 
- sisselogimine [Sisselogimiseks kasutatava meiliaadressi muutmine](https://support.microsoft.com/account-billing/change-the-email-address-or-phone-number-for-your-microsoft-account-761a662d-8032-88f4-03f3-c9ba8ba0e00b)
+[Uue kasutaja lisamine ja selle kontoga sisselogimine](https://support.microsoft.com/windows/add-or-remove-accounts-on-your-pc-104dc19f-6430-4b49-6a2b-e4dbd1dcdf32) 
+ [Sisselogimiseks kasutatava meiliaadressi muutmine](https://support.microsoft.com/account-billing/change-the-email-address-or-phone-number-for-your-microsoft-account-761a662d-8032-88f4-03f3-c9ba8ba0e00b)

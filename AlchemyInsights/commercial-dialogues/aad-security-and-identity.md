@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory (Turvalisus ja identiteet
+title: Azure Active Directory (turve ja identiteet)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995437"
 ---
-# <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (Turvalisus ja identiteet)
+# <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (turve ja identiteet)
 
-Valige mõni järgmistest häälestamise juhistest.
+Valige üks järgmistest häälestusjuhenditest.
 
-- **Azure Active Directory – ühendage** [sünkroonimise kasutajad oma kataloogiga](https://go.microsoft.com/fwlink/?linkid=2071310) , konfigureerige parooli Hash sünkroonimine või läbiv autentimine, et kasutajad saaksid oma meilisõnumisse sisse logida ja teie kohapealne Active Directory (domeenikontroller) sama parooliga kasutada. Saate häälestada ka Föderatsiooni sisselogimise Active Directory Federationi teenustega (AD FS).
+- **Azure Active Directory Ühendus** [Sünkroonige](https://go.microsoft.com/fwlink/?linkid=2071310) kasutajad kataloogiga Konfigureerige parooliga hashisünkroonimine või läbiv autentimine, et kasutajad saaksid sama parooli abil sisse logida oma meilisõnumitesse ja teie asutusesisesesse Active Directorysse (domeenikontrollerisse). Samuti saate häälestada liitumise sisselogimise teenusega Active Directory Federation Services (AD FS).
 
-- Azure ' i **funktsioonide** [Azure AD setup guide](https://go.microsoft.com/fwlink/?linkid=2134390) häälestamine Azure Active Directory Premiumis saadaolevate täpsemate funktsioonide (nt mitme teguri autentimine, seadme registreerimine ja turbe jälgimine) häälestamine.
+- **Azure'i funktsioonide** [häälestamise Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) häälestusjuhend Saate häälestada Azure Active Directory Premium saadaolevad täpsemad funktsioonid (nt mitmikautentimine, seadme registreerimine ja turbe jälgimine).

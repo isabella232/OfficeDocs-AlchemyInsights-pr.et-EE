@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: 30127beda85dd9824f7e3a7a4744d109e7ea874b
-ms.sourcegitcommit: aeb15e206865f61ff61a1e55c407e34eaa89b6d1
+ms.openlocfilehash: 3ce5b04469eb655c9d682f5830d9f906529aa40f706ee594b670708426d48769
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044984"
 ---
 # <a name="configure-and-customize-applications"></a>Rakenduste konfigureerimine ja kohandamine
 
 **Rakenduste konfigureerimine**
 
-1. [Kiirjuhend: rakenduse atribuutide konfigureerimine Azure Active Directory (AZURE ad) rentniku jaoks](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) kuvab rakenduse atribuutide konfigureerimine.
-2. Rakenduste integreerimiseks Azure Active Directoryga oleme koostanud [õpikute kogumi](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) , mis juhatavad teid läbi konfiguratsiooni.
-3. [Rakenduse puhverserveri rakenduse konfigureerimine](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) aitab teil aru saada, kuidas konfigureerida rakenduse puhverserveri rakendust Azure AD-s, et teie kohapealseid rakendusi pilve paljastada.
-4. [Laadige alla PingAccess ja konfigureerige oma rakendus](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application): JÄRGIGE *Azure AD PingAccess konfigureerimise juhiseid, et kaitsta* Microsoft Azure AD Application puhverserveri kaudu avaldatud rakendusi ping identiteedi veebisaidil ja laadida alla PingAccess uusim versioon.
+1. [Lühiülevaated. Rakenduse atribuutide konfigureerimine Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) rentnikus näitab, kuidas konfigureerida mõnda rakenduse atribuuti.
+2. Teie rakenduste integreerimiseks Azure Active Directory välja töötatud õppematerjalid, [mis](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) aitavad teil konfiguratsioonis töötada.
+3. [Rakenduse puhverserveri rakenduse konfigureerimine aitab](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) teil mõista, kuidas konfigureerida Azure AD-s rakenduse puhverserver, et teie asutusesisesed rakendused pilveteenusesse paljastada.
+4. [Laadige alla PingAccess ja konfigureerige](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application)rakendus. Järgige juhiseid jaotises *PingAccessi* konfigureerimine Azure AD-le, et kaitsta rakendusi, mis on avaldatud pingiidentiteedi veebisaidil Microsoft Azure AD Rakenduse puhverserver ja laadige alla PingAccessi uusim versioon.
 
 **Valesti konfigureeritud rakenduse (AADSTS650056) tõrked**
 
-1. Veenduge, et pääsete rakendusele juurde rakenduse omaniku antud sisselogimise aadressilt. Muus tähenduses logige rakendusse sisse selle tavalise protsessi kaudu. Enamikel juhtudel saab see automaatselt lahendada loomulikult. Kui seda ei juhtu, saab see postitus aidata selle tõrkeotsingul ja lahendamisel.
-2. **Kui teie ettevõte omab rakendust** (mis tähendab, et rakenduse registreerimine on teie asutuses):
-    - Vähemalt soovitame `User.Read` `openid` lisada **Microsoft Graphi** või delegeeritud õigused.
-    - Veenduge, et rakendus ja kõik selle load on nõus. Seda saab kontrollida, kui otsite API-i **õigustes** rakenduse registreerimise veeru **olekut** .
-    - Mõnel juhul võib rakendus olla kolmanda osapoole konto, kuid see võib olla teie asutuses registreeritud. Kinnitage, kas see rakendus on teie rakenduse registreerimistes (mitte Enterprise Applications) loetletud.
-    - Kui jätkate selle tõrketeate kuvamist. Seejärel peate võib-olla koostama **juhises 4** kirjeldatud nõusoleku URL-i.
-3. **Kui teie asutus pole rakenduse omanik ja kasutate seda kolmanda osapoole rakendusena, tehke** järgmist.
-    - Kui olete globaalne/ettevõtte administraator, peaksite nägema nõusoleku Kuva. Veenduge, et märgite ruudu **"nõusolek organisatsiooni nimel"**.
-    - Kui te ei näe nõusoleku Kuva, kustutage ettevõtte rakendus ja proovige uuesti.
-    - Kui jätkate selle tõrketeate kuvamist. Seejärel peate võib-olla koostama **juhises 4** kirjeldatud nõusoleku URL-i.
-4. Saate **käsitsi luua kasutatava nõusoleku URL-i**: kui rakendus on mõeldud juurdepääsuks kindlale ressursile, ei pruugi teil olla võimalik kasutada Azure ' i portaalis nõusoleku nuppe, peate käsitsi looma oma nõusoleku URL-i ja kasutama seda.
-    - Peate hankima `{App-Id}` `{App-Uri-Id}` rakenduse omaniku ja selle rakenduse omanikult. `{Tenant-Id}` on teie rentniku identifikaator. See on kas `yourdomain.onmicrosoft.com` või teie kataloogi ID.
-    - Kui rakendus kasutab ressurssi ise, siis on see `{App-Id}` `{App-Uri-Id}` sama.
-5. Lisateavet leiate teemast Sisselogimine [SAML-põhisesse ühekordse sisselogimise konfigureeritud rakendusse](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application).
+1. Veenduge, et pääsete rakendusele juurde rakenduse omaniku esitatud sisselogimisaadressilt. Muul juhul tähendab see, et logige rakendusse sisse tavalise protsessi kaudu. Enamasti lahendatakse see automaatselt. Kui seda ei tee, aitab see postitus tõrkeotsingut ja probleemi lahendada.
+2. **Kui rakendus kuulub teie ettevõttele** (see tähendab, et rakenduse registreerimine on teie ettevõttes):
+    - Soovitame vähemalt Microsoft Graph `User.Read` `openid` delegeeritud  õigusi.
+    - Veenduge, et rakendus ja kõik selle õigused on selleks nõusoleku saanud. Seda saate kontrollida, kui vaatate **API-õigustes** rakenduse registreerimise veergu **Olek.**
+    - Mõnel juhul võib rakendus olla kolmandast osapoolest, kuid võib olla registreeritud teie asutuses. Kontrollige, kas see rakendus on teie rakenduse registreerimistes (mitte Enterprise'i rakendustes) loetletud.
+    - Kui see tõrketeade kuvatakse ka edaspidi. Seejärel peate võib-olla 4. juhises **kirjeldatud nõusoleku URL-i üles ehitama.**
+3. **Kui teie ettevõte pole rakenduse omanik ja kasutab seda kolmanda osapoole rakendusena,** siis:
+    - Kui olete üld-/ettevõtteadministraator, peaksite nägema nõusoleku kuva. Veenduge, et märgite ruudu **"Consent on for your organization"**("Nõusolek ettevõtte nimel".
+    - Kui te ei näe nõusolekukuva, kustutage Enterprise'i rakendus ja proovige uuesti.
+    - Kui see tõrketeade kuvatakse ka edaspidi. Seejärel peate võib-olla 4. juhises **kirjeldatud nõusoleku URL-i üles ehitama.**
+4. **Koostage kasutatav** nõusoleku URL käsitsi. Kui rakendus on loodud konkreetsele ressursile juurde pääsemiseks, ei pruugi teil olla võimalik Azure'i portaali nupud Nõusolek kasutada, peate ise ise oma nõusoleku URL-i genereerima ja seda kasutama.
+    - Peate saama rakenduse omanikult selle ja `{App-Id}` `{App-Uri-Id}` selle. `{Tenant-Id}` on teie rentniku identifikaator. See on kas `yourdomain.onmicrosoft.com` teie kataloogi ID.
+    - Kui rakendus pääseb ressursile juurde ise, siis on `{App-Id}` `{App-Uri-Id}` see sama ja sama.
+5. Lisateavet leiate teemast [PROBLEEMID SAML-i-põhisesse ühekordse sisselogimisega konfigureeritud rakendustesse sisselogimisel.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application)
 
 **Rakenduste kohandamine**
 
-- [Oma ettevõtte Azure Active Directory ' i sisselogimise lehe lisamine](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) – saate kasutada oma asutuse logo ja kohandatud värviskeeme, et anda oma Azure Active Directory (Azure AD) sisselogimise lehtedele järjepidev ilme ja tunne.
-- [Kohandatud domeeninime lisamine Azure Active Directory portaali abil](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) – iga uus Azure AD rentnik sisaldab algset domeeninime. Te ei saa algset domeeninime muuta või kustutada, kuid saate lisada oma asutuse nimed. Kohandatud domeeninimede lisamine aitab luua kasutajate tuttavaid kasutajanimesid.
+- [Lisage ettevõtte](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) Azure Active Directory sisselogimislehele margitoodete lisamine . Kasutage oma asutuse logo ja kohandatud värviskeeme, et pakkuda oma Azure Active Directory (Azure AD) sisselogimislehtedele ühtse ilme.
+- [Lisage kohandatud domeeninimi portaali Azure Active Directory –](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) igal uuel Azure AD rentnikul on algne domeeninimi. Algset domeeninime ei saa muuta ega kustutada, kuid saate lisada oma asutuse nimesid. Kohandatud domeeninimede lisamine aitab teil luua kasutajatele tuttavaid kasutajanimesid.
