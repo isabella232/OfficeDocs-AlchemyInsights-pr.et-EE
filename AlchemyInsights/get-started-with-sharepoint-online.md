@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ' i kasutamise alustamine
+title: Veebipõhise SharePoint alustamine
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4920ee43afd20d6e4a6ebfca10eff75b2a86faf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48142ab68f3478c9becd51e658bd07255803f47f00611e0f1f8ab1757fdc984d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707239"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029476"
 ---
-# <a name="get-started-with-sharepoint-online"></a>SharePoint Online ' i kasutamise alustamine
+# <a name="get-started-with-sharepoint-online"></a>Veebipõhise SharePoint alustamine
 
-Saate oma SharePoint Online ' i [video koolitusega](https://go.microsoft.com/fwlink/?linkid=866438) ja [lühijuhendega](https://go.microsoft.com/fwlink/?linkid=866437)töötamisest alustada. Kui otsite põhjalikumat, järgige üksikasjalikke juhiseid [SharePoint Online ' i juurutamise nõuniku](https://portal.office.com/onboarding/sharepointonline#/) juhiste järgi.
+Tutvuge meie [veebivideokoolituse SharePoint ja](https://go.microsoft.com/fwlink/?linkid=866438) [lühijuhendiga.](https://go.microsoft.com/fwlink/?linkid=866437) Kui otsite põhjalikumaid, samm-sammult juhiseid, järgige [SharePoint online'i juurutusnõustaja juhiseid.](https://portal.office.com/onboarding/sharepointonline#/)
   
 

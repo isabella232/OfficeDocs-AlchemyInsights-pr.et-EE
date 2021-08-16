@@ -1,5 +1,5 @@
 ---
-title: Tõrgeteta SSO integreerimise probleemid kohapealsete rakendustega
+title: Sujuva SSO ja minu kohapealste rakenduste integreerimisega seotud probleemid
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028288"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Tõrgeteta SSO integreerimise probleemid kohapealsete rakendustega
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Sujuva SSO ja minu kohapealste rakenduste integreerimisega seotud probleemid
 
-Tõrgeteta SSO integreerimise probleemide lahendamiseks kohapealsete rakendustega tehke järgmist.
+Tõrgeteta SSO integreerimise ja kohapealste rakendustega seotud probleemide tõrkeotsinguks tehke järgmist.
 
-**Soovitatavad toimingud**
+**Soovitatavad juhised**
 
-1. **Kohapealse rakenduse** konfigureerimiseks **ühekordse sisselogimise rakenduse puhverserveri kaudu** leiate teavet teemast [paroolide häälestamine ühekordse sisselogimise jaoks rakenduse puhverserveriga](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Rakenduse puhverserveri probleemide tõrkeotsing**: Soovitame alustada läbivaatust tõrkeotsingu voo, [siluda rakenduse puhverserveri konnektori probleeme](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), et kindlaks teha, kas rakenduse puhverserveri konnektorid on õigesti konfigureeritud. Kui teil on endiselt probleeme rakendusega ühenduse loomisega, järgige tõrkeotsingu juhiseid rakenduses [debug rakenduse puhverserveri probleemid](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). [Cors probleemide tuvastamiseks](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) saate kasutada järgmisi brauseri debug tööriistu.
-    1. Käivitage brauser ja liikuge sirvides veebi rakendusse.
-    1. Debug konsooli kuvamiseks vajutage klahvi **F12** .
-    1. Proovi reprodutseerida tehing ja vaadata konsooli sõnum. CORS rikkumine tekitab konsooli tõrke päritolu kohta.
-    1. Mõnda CORS probleemi ei saa lahendada (nt kui teie rakendus suunab autentimiseks login.microsoftonline.com ja juurdepääsuluba aegub). CORS kõne nurjub. Selle stsenaariumi lahendus on pikendada juurdepääsuluba, et takistada selle kehtivust kasutaja seansi ajal. Lisateavet selle kohta leiate teemast [Konfigureeritav turbelubade eluiga Microsoft Identity Platform ' is](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+1. Rakenduse puhverserveri **kaudu** ühekordse sisselogimise jaoks asutusesisese rakenduse konfigureerimise kohta leiate lisateavet teemast Ühekordse sisselogimise paroolhoidla rakenduse [puhverserveriga](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
+1. **Rakenduse puhverserveri probleemide tõrkeotsing.** Soovitame alustada tõrkeotsinguvoo [ülevaatamist,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)rakenduse puhverserveri konnektori probleemide silumist, et teha kindlaks, kas rakenduse puhverserveri konnektorid on õigesti konfigureeritud. Kui teil on endiselt probleeme rakendusega ühenduse loomisega, järgige tõrkeotsingu juhiseid jaotises Rakenduse puhverserverirakenduse probleemide [silumine.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) [CORS-i probleemide tuvastamiseks](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) saate kasutada järgmisi brauseri silumistööriistu.
+    1. Käivitage brauser ja liikuge sirvides veebirakenduseni.
+    1. Silumiskonsooli säästmiseks vajutage klahvi **F12.**
+    1. Proovige tehing taasesitada ja vaadake konsooliteade läbi. CORS-i rikkumine annab lähtekohta konsoolivea.
+    1. Mõnda CORS-i probleemi ei saa lahendada (nt kui teie rakendus login.microsoftonline.com autentimiseks ümber ja juurdepääsuluba aegub). SEEJÄREL NURJUB CORS-kõne. Selle stsenaariumi lahendus on pikendada juurdepääsuluba, et takistada selle aegumist kasutaja seansi ajal. Lisateavet selle kohta leiate teemast Konfigureeritava loa kasutusajad [Microsofti identimisplatvorm](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
-**Soovitatavad dokumendid**
+**Soovitatud dokumendid**
 
-- [Ühekordse sisselogimise konfigureerimine rakenduse puhverserveri rakendusse](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [SAML ühekordse sisselogimise rakendused rakenduse puhverserveriga](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Azure Active Directory rakenduse puhverserveri CORS probleemide mõistmine ja lahendamine](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Kerberose piiratud delegeerimise konfiguratsioonide tõrkeotsing rakenduse puhverserveri korral](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Rakenduse puhverserveri rakenduse ühekordse sisselogimise konfigureerimine](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [SAML-i ühekordne sisselogimine rakenduse puhverserveri abil kohapealste rakenduste jaoks](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Rakenduse puhverserveri CORS Azure Active Directory probleemide mõistmine ja lahendamine](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Kerberose piiratud delegeerimiskonfiguratsioonide tõrkeotsing rakenduse puhverserveri jaoks](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)

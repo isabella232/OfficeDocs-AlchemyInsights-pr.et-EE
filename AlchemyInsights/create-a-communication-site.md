@@ -1,5 +1,5 @@
 ---
-title: Saidi loomine
+title: Suhtlussaidi loomine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0c4f1e7cf54950190d60b35bc3ea320de9b49e7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d11227a7fd58bd6320c2eafa4c204840c5a63a1e66ef1734dd781a3c1c0d3131
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069562"
 ---
-# <a name="create-a-communication-site"></a>Saidi loomine
+# <a name="create-a-communication-site"></a>Suhtlussaidi loomine
 
-SharePoint Online ' i saidi loomiseks tehke järgmist. 
+Suhtlussaidi loomiseks SharePoint Online'is tehke järgmist. 
   
-1. Klõpsake lehe vasakus ülanurgas rakenduse käivitajat ja valige SharePointi paan. Kui SharePointi paani pole näha, klõpsake nuppu **saidid** või **Kõik rakendused** , kui SharePoint pole nähtaval. 
+1. Klõpsake lehe vasakus ülanurgas rakendusekäivitit ja valige paan SharePoint. Kui te ei näe paani SharePoint, klõpsake nuppu **Saidid** **või Kõik rakendused,** kui SharePoint pole nähtav. 
     
-2. Klõpsake SharePointi lehe ülaosas nuppu **Loo sait** ja valige sait **suhtlus**. Järgige saidi loomise viisardi juhiseid. 
+2. Klõpsake lehe SharePoint nuppu Loo sait **ja** valige **Suhtlussaidid**. Järgige saidi loomise viisardi juhiseid. 
     
- **Märkus**: kui te ei näe **saidi loomise**võimalust, võib iseteenindusega saidi loomine olla keelatud. Meeskonnatöö saidi loomiseks pöörduge oma asutuse töötaja poole, kes haldab teie asutuses Microsoft 365. Kui olete rentniku administraator, lugege teemat [saidi loomise haldamine SharePoint Online ' is, et luua oma asutuse jaoks iseteenindusega saidi loomine.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Märkus.** Kui te ei näe saidi loomise suvandit, **võib** iseteeninduse saidi loomine olla keelatud. Meeskonnatöö saidi loomiseks Microsoft 365 oma asutuse kasutajaga ühendust. Kui olete rentnikuadministraator, lugege teemat Saidi loomise haldamine SharePoint Online'is, et lubada oma asutuse [jaoks iseteenindusega saidi loomine.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Märkus:** Kui proovite luua kommunikatsiooni saiti ja URL-i saab lisada juhuslike numbritega, on tõenäoline, et sama URL-i sait on SharePointi keskkonnas juba olemas või on kustutatud (Prügikast) ja see on endiselt kustutatud. Kasutatakse [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) prügikasti hindamiseks ja saidi prügikastist [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) eemaldamiseks. 
+ **Märkus.** Kui proovite luua suhtlussaiti ja URL lisatakse juhuslike numbritega, on tõenäoline, et sama URL-iga sait on SharePoint keskkonnas juba olemas või kustutati ja see on endiselt kustutatud saitidel (prügikastis). Kasutage [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) prügikasti hindamiseks ja [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) saidi prügikastist eemaldamiseks. 
   
 

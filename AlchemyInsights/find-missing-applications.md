@@ -1,5 +1,5 @@
 ---
-title: Puuduvate rakenduste otsimine
+title: Puuduvate rakenduste otsige üles
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068916"
 ---
-# <a name="find-missing-applications"></a>Puuduvate rakenduste otsimine
+# <a name="find-missing-applications"></a>Puuduvate rakenduste otsige üles
 
-- [Kiirjuhend: saate vaadata nende rakenduste loendit, mis kasutavad teie Azure Active Directory (AZURE ad) rentniku identiteedi halduseks](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) , näitab teile, kuidas vaadata rakendusi, mida nimetatakse ka rakendusteks, mis on juba häälestatud kasutama teie Azure AD rentnikku oma identiteedi pakkujana (idp).
-- Konkreetse rakenduse otsimiseks avage menüü **Application Type (rakenduse tüüp** ), valige **Kõik rakendused** ja valige **Rakenda**.
-  - Sisestage otsitava rakenduse nimi. Kui rakendus on teie Azure AD rentniku lisatud, kuvatakse see otsingutulemite põhjal. Saate sisestada ka rakenduse nime esimesed tähed.
-- [Levinud probleemide tõrkeotsing Azure Active Directory rakenduse lisamise või eemaldamise](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) abil aitab teil mõista levinud probleeme, mida inimesed saavad Azure ' i Active Directorys vaadata.
+- [Kiirülevaade.](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) Kuva nende rakenduste loend, mis kasutavad teie Azure Active Directory (Azure AD) rentnikku identiteedihalduse jaoks, näitab teile, kuidas vaadata rakendusi ehk rakendusi, mis on juba häälestatud kasutama teie Azure AD rentnikku oma identiteedipakkujana (IdP).
+- Konkreetse rakenduse otsimiseks avage menüü **Rakenduse** tüüp, valige **Kõik rakendused ja** valige **Rakenda**.
+  - Sisestage otsitud rakenduse nimi. Kui rakendus on lisatud teie Azure AD rentnikule, kuvatakse see otsingutulemite loendis. Samuti saate sisestada rakenduse nime esimesed tähed.
+- [Levinud probleemide tõrkeotsing rakenduse lisamisel või eemaldamisel Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) aitab teil mõista levinumaid probleeme, millega inimesed rakenduste vaatamisel Azure Active Directory.
