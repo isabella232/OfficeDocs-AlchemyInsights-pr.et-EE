@@ -1,5 +1,5 @@
 ---
-title: Kõigi karantiinis olevate sõnumite kuvamine
+title: Kuva kõik karantiinis sõnumid
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2fe193cebfb00b22eda54f2dc0b264db7b9b84cb
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045128"
 ---
-# <a name="view-all-quarantined-messages"></a>Kõigi karantiinis olevate sõnumite kuvamine
+# <a name="view-all-quarantined-messages"></a>Kuva kõik karantiinis sõnumid
 
-1. Avage halduskeskus [turbe & täitmise keskuses.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Valige **ohustatud halduse**  >  **Ülevaade**  >  **karantiinist**.
-3. Vaikimisi sorditakse sõnumid uusimast kuni vanimani, võttes aluseks sõnumi vastuvõtmise kuupäeva. Väljal saate sortida, klõpsates päist.
-4. Saate teha ainult kuni 100 üksustega seotud toiminguid, seega võib filtreerimine aidata vähendada ka teie tulemikomplekti, kui teil on rohkem kui 100 üksust.
+1. Avage halduskeskuses turbekontrolli [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+2. Avage **ohuhalduse**  >  **läbivaatuse**  >  **karantiin.**
+3. Vaikimisi sorditakse sõnumid uusimast vanimani vastavalt sõnumi vastuvõtmise kuupäevale. Välja sortimiseks klõpsake päist.
+4. Hulgitoiminguid saate teha ainult kuni 100 üksusega, seega võib filtreerimine aidata vähendada ka tulemikomplekti, kui teil on üle 100 üksuse.

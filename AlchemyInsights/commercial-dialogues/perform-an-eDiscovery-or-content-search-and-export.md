@@ -1,5 +1,5 @@
 ---
-title: E-juurdluse/sisu otsingu ja ekspordi teostamine
+title: E-juurdluse/sisuotsingu ja -ekspordi sooritamine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016624"
 ---
-# <a name="perform-an-ediscoverycontent-search-and-export"></a>E-juurdluse/sisu otsingu ja ekspordi teostamine
+# <a name="perform-an-ediscoverycontent-search-and-export"></a>E-juurdluse/sisuotsingu ja -ekspordi sooritamine
 
-Oma asutuses sisu otsimiseks ja eksportimiseks tehke järgmist.
+Ettevõttes sisu otsimiseks ja eksportimiseks saate teha nii:
 
-1. Avage [turbe & täitmise keskus](https://go.microsoft.com/fwlink/?linkid=2086958) ja liikuge **otsingusse**  >  **sisu otsing**  >  **+ Uus otsing**.
+1. Avage turbekontrolli [& ja liikuge](https://go.microsoft.com/fwlink/?linkid=2086958) jaotisse **Sisuotsing**  >    >  **+ Uus otsing**.
 1. Sisestage märksõnad ja tingimused, mida soovite otsida.
-1. Määrake lehe allosas otsitavad asukohad (nt e-post, Teamsi sõnumid, SharePointi saidid) või klõpsake nuppu **Kõik asukohad**.
-1. Klõpsake nuppu **salvesta & Käivita**. Pange oma otsingupäringu nimi ja klõpsake nuppu **Salvesta**. Päring käivitatakse ja kuvatakse tulemid.
+1. Määrake lehe allservas otsingukohad (nt meil, Teams, SharePoint **saidid).**
+1. Klõpsake **nuppu Salvesta & käivitada.** Sisestage otsingupäringule nimi ja seejärel klõpsake **nuppu Salvesta**. Päring käivitatakse ja kuvatakse tulemid.
 
-Otsingutulemite eksportimise kohta leiate teavet teemast [sisu otsingutulemite eksportimine](https://go.microsoft.com/fwlink/?linkid=2102118).
+Otsingutulemite eksportimise kohta leiate teavet teemast [Sisuotsingu tulemite eksportimine.](https://go.microsoft.com/fwlink/?linkid=2102118)
 

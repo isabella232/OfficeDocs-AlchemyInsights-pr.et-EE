@@ -1,5 +1,5 @@
 ---
-title: Kettaruumi säästmine OneDrive'i nõudmisel failidega Mac-arvuti jaoks
+title: Kettaruumi säästmine OneDrive mac-arvuti nõudmisel failidega
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: e5f3b268867637a6a9d4d753a77dd599dab495aab53bb143f4bb74b35487d7e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074352"
 ---
-# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Kettaruumi säästmine OneDrive'i nõudmisel failidega Mac-arvuti jaoks
+# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Kettaruumi säästmine OneDrive mac-arvuti nõudmisel failidega
 
-OneDrive'i nõudmisel failid aitavad teil oneDrive'is kõigile failidele juurde pääseda, ilma et peate need kõik alla laadima ja seadmes salvestusruumi kasutama.  
+OneDrive Nõudmisel failid aitavad teil kasutada kõiki oma faile OneDrive, ilma et peate need kõik alla laadima ja seadmes salvestusruumi kasutama.  
 
-Mac OS Mojave'is või uuemas opsüsteemis uute OneDrive'i kontode korral on nõudmisel failid OneDrive'i häälestamisel vaikimisi sisse lülitatud. Olemasolevad kasutajad peavad OneDrive'i eelistustes sisse lülitama nõudmisel failid.  
+Uute OneDrive mac OS Mojave'is või uuemas opsüsteemis on nõudmisel failid vaikimisi sisse lülitatud, kui häälestate OneDrive. Olemasolevad kasutajad peavad sisse lülitama OneDrive.  
 
 [Lisateave Mac OS-i nõudmisel failide kohta.](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0)

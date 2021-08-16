@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 75a9d02793498715a0f75528ef01fb59d5015f72ea11949267f2a7d36ff19550
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074316"
 ---
 # <a name="self-service-purchase"></a>Iseteenindusega ostmine
 
 **Millised võimalused on administraatoril iseteeninduse ostude jaoks?**
 
-Administraatorid saavad microsoft 365 halduskeskuses vaadata kõiki oma ettevõttes tehtud iseteenindusega oste. Nad näevad iga iseteenindusega ostu jaoks toodet, ostja nime, ostetud tellimusi, aegumiskuupäeva, tellimuste ajalugu, ostuhinda ja määratud kasutajaid.  Kui see on organisatsiooni jaoks nõutav, saavad administraatorid PowerShelli kaudu iseteeninduse ostud toote kohta välja lülitada.  Administraatoritel on samad andmehaldus- ja juurdepääsupoliitikad toodete suhtes, mis on ostetud iseteeninduse kaudu või keskselt.
+Administraatorid saavad vaadata kõiki oma ettevõttes tehtud iseteenindusega oste Microsoft 365 halduskeskus. Nad näevad iga iseteenindusega ostu jaoks toodet, ostja nime, ostetud tellimusi, aegumiskuupäeva, tellimuste ajalugu, ostuhinda ja määratud kasutajaid.  Kui see on organisatsiooni jaoks nõutav, saavad administraatorid PowerShelli kaudu iseteeninduse ostud toote kohta välja lülitada.  Administraatoritel on samad andmehaldus- ja juurdepääsupoliitikad toodete suhtes, mis on ostetud iseteeninduse kaudu või keskselt.
 
 [Iseteeninduse ostu KKK](https://aka.ms/self-service-purchase-faq)
 

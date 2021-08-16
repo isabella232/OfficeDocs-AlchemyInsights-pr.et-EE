@@ -1,5 +1,5 @@
 ---
-title: Seadme laoseisu häälestamine
+title: Intune'i seadme inventuur
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014068"
 ---
-# <a name="intune-device-inventory"></a>Seadme laoseisu häälestamine
+# <a name="intune-device-inventory"></a>Intune'i seadme inventuur
 
-Seadmete Blade annab haldurile ülevaate halduses olevatest seadmetest, mida saab seadme põhjal häälestada. Kuvatud teave sisaldab: riistvara, avastatud rakendusi, seadme nõuetele vastavuse olekut ja seadme konfigureerimise olekut.
+Seadmesaba annab administraatorile ülevaate Intune'i halduses olevast seadmest seadme kohta. Kuvatava teabe hulka kuuluvad riistvara, leitud rakendused, seadme nõuetele vastavuse olek ja seadme konfiguratsiooni olek.
 
-Riistvara ja avastatud rakenduste laoseisu andmed kogutakse seitsme päeva jooksul. Teatatud riistvara rakendused ja konkreetsed elemendid erinevad olenevalt seadme opsüsteemist ja sellest, kas seade on ise või ettevõtte omanduses.
+Riistvara ja avastatud rakenduste laoandmeid kogutakse seitsme päeva jooksul. Teatatud riistvararakendused ja konkreetsed elemendid erinevad olenevalt seadme opsüsteemist ja sellest, kas seade kuulub isiklikult või ettevõttele.
 
-Lisateavet leiate teemast [seadme üksikasjade kuvamine Intune ' is](https://docs.microsoft.com/intune/device-inventory).
+Lisateavet leiate teemast [Intune'i seadme üksikasjade kuvamine.](https://docs.microsoft.com/intune/device-inventory)
 
 **KKK**
 
-K: ma ei saa täieliku laoseisu taotluste loendit Windowsi seadmetes. Miks mitte?
+Küsimus. Ma ei saa intune'i registreeritud seadmetes Windows. Miks mitte?
 
-V: praegu on ainult moodsad rakendused loetletud Windows 10 arvutites, mis on tähistatud ettevõtte seadmetena. Intune ei kogu teavet nendesse seadmetesse installitud Win32 rakenduste kohta.
+A. Praegu loetletakse ettevõtte seadmetena Windows 10 arvutite jaoks ainult tänapäevased rakendused. Intune ei kogu teavet nendesse seadmetesse installitud Win32 rakenduste kohta.
 
-K: Miks ei koguta telefoninumbreid kõigilt seadmetelt?
+Küsimus. Miks ei koguta telefoninumbreid kõigilt seadmetelt?
 
-V: telefonid, mis on kategoriseeritud kui ettevõtte seadmed Intune ' is, ei ole määratud nende täieliku telefoninumbriga, kui käivitate näiteks mobiilsideseadme laovarude aruandeid. Bring-you-oma-seadme telefoninumbrid on alati osaliselt maskid tärnide (* * * *) ja näidata ainult neli viimast numbrit.
+A. Intune'is ettevõtte seadmeteks liigitatud telefone ei tuvastata täistelefoninumbriga, kui käivitate näiteks mobiilsideseadme varude aruande. Oma seadme telefoninumbrite toomine on alati osaliselt maskeeritud tärnidega (****) ja kuvatakse ainult neli viimast numbrit.

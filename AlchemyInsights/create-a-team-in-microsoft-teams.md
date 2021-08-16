@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teamsi töörühma loomine
+title: Töörühma loomine Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9828"
 - "9004618"
-ms.openlocfilehash: 53e69c5ec5428da7d1469d3b25e242af9d659092
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 4889efc0a86ce7d7b4eeb8595160c0e3e3bb397e5f0d6c5395a54daece512465
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032194"
 ---
-# <a name="create-a-team-in-microsoft-teams"></a>Microsoft Teamsi töörühma loomine
+# <a name="create-a-team-in-microsoft-teams"></a>Töörühma loomine Microsoft Teams
 
-Microsoft teamsi töörühma loomiseks tehke järgmist.
+Meeskonna loomiseks Microsoft Teams tehke järgmist.
 
-1. Klõpsake meeskondade vasakus servas nuppu **töörühmad**.
-2. Klõpsake rühmade loendi allservas nuppu **Liitu** või **Loo rühm**.
-3. Klõpsake nuppu **Loo uus rühm**.
+1. Klõpsake menüü Teams nuppu **Teams**.
+2. Klõpsake töörühmade loendi allservas nuppu Liitu **või** **loo meeskond**.
+3. Klõpsake **nuppu Loo uus meeskond.**
 
-Kui teil on töörühma loomisega probleeme, võib olla rakendatud poliitika. Lisateavet leiate teemast [Microsoft 365 rühmade loomise võimalus](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups).
+Kui teil on töörühma loomisega probleeme, võidakse rakendada poliitika. Lisateavet leiate teemast Rühmade [loomise õiguse Microsoft 365 haldamine.](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups)
