@@ -1,5 +1,5 @@
 ---
-title: Kaasaegne sait juure saidina
+title: Modernne sait juursaidina
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b42cf276a76547584c8cfd87b5a28f31d51ea7f8ca56621b22aeef01e4613ce6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000383"
 ---
-# <a name="modern-site-as-root-site"></a>Kaasaegne sait juure saidina
+# <a name="modern-site-as-root-site"></a>Modernne sait juursaidina
 
-Oleme alustanud uue funktsiooni väljatöötamist, mis võimaldab teil [vahetada oma klassikalist saidi juurt modernse](https://docs.microsoft.com/sharepoint/modern-root-site)saidiga. Kasutage [SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) , et vahetada saidi asukoht teise saidiga, arhiivides algse saidi. Saadaval nii meeskonnatöö saidi jaoks (pole rühmaga ühendatud) kui ka kommunikatsiooni saidil.
+Oleme alustanud uue funktsiooni väljajuurimist, mis võimaldab teil klassikalise saidi juursaidi [modernsaidiga vahetada.](https://docs.microsoft.com/sharepoint/modern-root-site) Kasutage [invoke-SPOSiteSwapi,](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) et vahetada saidi asukoht teise saidiga algse saidi arhiivimise ajal. Saadaval nii meeskonnatöö saidi (pole rühmaga ühendatud) kui ka suhtlussaidi jaoks.
 
 >[!Important]
-> Ärge kustutage oma klassikalist juurt, et luua kaasaegne kommunikatsiooni sait. Microsoft ei toeta seda. Juurte saidi kustutamine muudab kõik teie organisatsioonis olevad SharePointi saidid kõigile kasutajatele juurdepääsetavaks, kuni taastate saidi või loote sama URL-is uue saidi. Edastame selle funktsiooni teateriba kaudu. Peate eeldama, et funktsioon on rentniku jaoks peagi sisse lülitatud.
+> Modernse suhtlussaidi loomiseks ärge kustutage klassikalist juursaidi. Microsoft ei toeta seda. Juursaidi kustutamisel ei pääse SharePoint kõik teie ettevõtte saidid kõigile kasutajatele, kuni taastate saidi või loote samal URL-il uue saidi. Edastame selle funktsiooni sõnumikeskuse kaudu. Peaksite eeldama, et funktsioon on peagi teie rentnikus sisse lülitatud.
 
-## <a name="known-issues-with-swapping-sites"></a>Saidid vahetamise teadaolevad probleemid
-- Sihtkaust võib tagastada lühikese aja jooksul tõrketeate "ei leitud" (HTTP 404).
-- Otsingu indeksi värskendamiseks tuleb sisu uuesti analüüsida. Siin pole käsitsi vajalikku juhiseid, seda tehakse automaatselt.
-- Midagi, mis sõltub staatilisest lingist (nt failide sünkroonimine ja OneNote ' i failid), tuleb käsitsi parandada.
-- Võimalik, et Project Serveri saidid peavad olema valideeritud, et veenduda, et need on endiselt õigesti seotud. 
+## <a name="known-issues-with-swapping-sites"></a>Teadaolevad probleemid saitide vahetamisega
+- Sihtsaidil võib lühikese aja jooksul tagastada tõrke "ei leitud" (HTTP 404).
+- Otsinguregistri värskendamiseks tuleb sisu uuesti joonistada. Siin pole vaja käsitsi teha, see tehakse automaatselt.
+- Kõik,mis sõltub "staatilistest" linkidest (nt failisünkroonimine OneNote failid), tuleb käsitsi parandada.
+- Project Võimalik, et serverisaidid tuleb valideerida, et veenduda, et need on endiselt õigesti seostatud. 

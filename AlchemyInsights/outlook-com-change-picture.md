@@ -1,5 +1,5 @@
 ---
-title: Pildi muutmine rakenduses Outlook.com
+title: Pildi muutmine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.assetid: 81ce6c8b-6f73-4489-9539-f14680168a8e
 ms.custom:
 - "8000036"
 - "793"
-ms.openlocfilehash: 9b3f884bc30f2d61bab47cacbf0188f05e00c343
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9cec3fd3c2902c8dfd6742c63d02f0a5591838cd253054e18052cf67648ec1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063984"
 ---
 # <a name="change-your-microsoft-account-picture"></a>Microsofti konto pildi muutmine
 
-1. Avage [oma Microsofti konto teave](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Avage [oma Microsofti konto teave.](https://go.microsoft.com/fwlink/p/?linkid=860841)
 2. Valige **Muuda pilti**.
-3. Valige **uus pilt**.
-4. Valige pilt, mida soovite kasutada, ja klõpsake nuppu **Ava**.
-5. Lohistage või muutke väli pilt ja klõpsake nuppu **Salvesta**.
+3. Valige **Uus pilt**.
+4. Valige pilt, mida soovite kasutada, ja valige **Ava**.
+5. Lohistage või muutke pildivälja suurust ja valige **Salvesta**.
 
-Palun luba oma profiili foto muudatuste jõustumiseks kuni 24 tundi.
+Lubage profiilifoto muudatuste jõustumiseks kuni 24 tundi.

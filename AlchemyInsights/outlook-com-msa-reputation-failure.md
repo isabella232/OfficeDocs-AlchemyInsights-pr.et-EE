@@ -1,5 +1,5 @@
 ---
-title: Outlook.com konto lukustatud
+title: Outlook.com-i konto on lukus
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 5ea4e9b9c25aa6c8136c7b8f9de682d6d741688a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ff6abac5ed18750767f76aca158779c5cb3bba1324b0a451987cc37b4b0e239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063912"
 ---
-# <a name="account-locked"></a>Konto lukustatud
+# <a name="account-locked"></a>Konto on lukus
 
-Kui kuvatakse teade "teie konto on lukustatud", kui proovite Outlook.com sisse logida, siis Sellepärast oleme teie kontol ebatavalist tegevust märganud. Et kaitsta teid võimalike pettuste või kuritarvituste eest, oleme teie konto ajutiselt lukustanud. Me teame, et see on heidutav, kuid me saame aidata Sul oma kontoga uuesti sisse minna vaid mõne toiminguga.
+Kui teile kuvatakse teade "Teie konto on lukus", kui proovite sisse logida Outlook.com-i, on see nii seetõttu, et märkasime teie kontol ebatavalist tegevust. Selleks et teid võimalike pettuste või kuritarvituste eest kaitsta, oleme teie konto ajutiselt lukustanud. Teame, et see on masendav, kuid aitame teil vaid mõne sammuga oma kontole tagasi minna.
 
-1. Avage [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) ja logige sisse oma lukustatud kontole.Konto vabastamiseks peate sisestama Microsofti tekstisõnumi kaudu antud turbekoodi. Tekstisõnumi hankimiseks peab teil olema SMS-i toetav telefon. Kui teie telefon ei toeta tekstisõnumeid, võite paluda sõbral või pereliikmel oma telefoni kasutada. Microsoft ei Salvesta seda telefoninumbrit, seega ei pea selle tekstsõnumi vastuvõtmiseks kasutatavat telefoninumbrit teie kontoga seostama.
-2. Kui kuvatakse teade "kasutuse limiit on ületatud", avage [konto taastamine](https://go.microsoft.com/fwlink/?linkid=2090483)   ja mõni meie agentidest vaatab teie konto üle.
+1. Avage [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) ja logige sisse oma lukustatud kontole. Konto avamiseks peate sisestama Microsofti tekstsõnumis toodud turbekoodi. Tekstsõnumi toomiseks peab teil olema tekstsõnumsidet toetav telefon. Kui teie telefon ei toeta tekstsõnumsidet, võite paluda sõbral või pereliikmel oma telefoni kasutada. Microsoft ei salvesta seda telefoninumbrit, seega ei pea selle tekstsõnumi saamiseks salvestatud telefoninumbrit teie kontoga seostama.
+2. Kui kuvatakse teade "Kasutuslimiit on ületatud", avage [konto ennistamine](https://go.microsoft.com/fwlink/?linkid=2090483) ja üks meie agentidest vaatab teie konto üle.
 
-Lisateabe saamiseks lugege teemat [minu Outlook.com konto blokeeringu tühistamine](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+Lisateavet leiate artiklist Konto [blokeeringu Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

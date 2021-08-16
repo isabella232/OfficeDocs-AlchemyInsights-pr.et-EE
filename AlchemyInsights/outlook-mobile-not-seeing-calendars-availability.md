@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile ei näe kalendreid, kui valite suvandi kättesaadavus
+title: Outlook Mobiilirakendus ei näe kättesaadavust valides kalendreid
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000316"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Ma ei näe kalendrit, mida ootan oma kättesaadavuse valimisel
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Kättesaadavust valides ei näe ma eeldatud kalendreid
 
-Kui te ei näe soovitud kalendreid, avage Kalender, puudutage kuva vasakus ülanurgas menüünuppu ja veenduge, et kuvatavad kalendrid on valitud. Kui valite saatmiseks aega, kuvatakse ainult selles menüüs lubatud kalendrid.
+Kui te ei näe eeldatud kalendreid, avage kalender, puudutage kuva vasakus ülanurgas menüünuppu ja veenduge, et kalendrid, mida soovite näha, on valitud. Saada saadavuse aja valimisel kuvatakse ainult selles menüüs lubatud kalendrid.

@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50694395"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002080"
 ---
 # <a name="how-to-manage-an-app"></a>Rakenduse haldamine
 
-Rakenduse haldamiseks tehke järgmist.
+Rakenduse haldamiseks:
 
-- Alustage rakenduse [Halda rakendusi](https://admin.teams.microsoft.com/policies/manage-apps) Microsoft teamsi administreerimiskeskuses, et lisada oma asutuse jaoks rakendus.
-- Microsoft Teamsi administreerimiskeskuses saate rakenduse lubamiseks või blokeerimiseks ja kasutajatele määramiseks kasutada [rakenduse õiguste poliitikaid](https://admin.teams.microsoft.com/policies/app-permission) .
-- Rakenduse tellimuse muutmiseks kasutajatele või rakenduse kinnitamiseks kasutage rakenduse Microsoft Teamsi administreerimiskeskuses [rakenduse häälestamise põhimõtteid](https://admin.teams.microsoft.com/policies/app-setup) .
+- Ettevõtte [jaoks rakenduse lisamiseks](https://admin.teams.microsoft.com/policies/manage-apps) alustage Microsoft Teams halduskeskuses rakenduste haldamisega.
+- Rakenduse [õigusepoliitikaid saate Microsoft Teams](https://admin.teams.microsoft.com/policies/app-permission) lubada või blokeerida ja kasutajatele määrata.
+- Rakenduse järjestuse muutmiseks kasutajatele või rakenduse kinnitamiseks [](https://admin.teams.microsoft.com/policies/app-setup) kasutage rakenduse häälestuspoliitikaid Microsoft Teams halduskeskuses.
 
-Organisatsioonile rakenduse poliitikate loomise kohta leiate lisateavet järgmistest teemadest.
+Lisateavet ettevõtte jaoks rakendusepoliitikate loomise kohta leiate teemast
 
-- [Rakenduste haldamine Microsoft Teamsi halduskeskus](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Microsoft Teamsi rakenduse õiguste poliitikate haldamine](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Rakenduse häälestamise poliitikate haldamine Microsoft Teamsi rakenduses](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+- [Rakenduste haldamine Microsoft Teams halduskeskuses](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Rakenduse õigusepoliitikate haldamine Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Rakenduse häälestuspoliitikate haldamine Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)

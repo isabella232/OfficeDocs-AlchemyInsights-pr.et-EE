@@ -1,5 +1,5 @@
 ---
-title: Outlook.com blokeeritud saatjate meilisõnumite vastuvõtmine
+title: Blokeeritud saatjate meilisõnumite vastuvõtmine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,21 +14,21 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: 63ebc8d0b950fff1c1c18c26172436246341bbc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cf6ab817a49a058635eee1721f4605f29a01df088b6400d8c90f5137efd30c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063840"
 ---
-# <a name="receiving-email-from-blocked-senders"></a>Meilisõnumite vastuvõtmine blokeeritud saatjatelt
+# <a name="receiving-email-from-blocked-senders"></a>Blokeeritud saatjatelt meilisõnumite vastuvõtmine
 
-Kui blokeeritud saatja meilisõnum kuvatakse endiselt teie Outlook.com sisendkaustas, võib saatja oma tõelist meiliaadressi peita. Saatja tegeliku meiliaadressi kontrollimiseks tehke järgmist.
+Kui blokeeritud saatja meilisõnumid kuvatakse endiselt teie Outlook.com-i sisendkaustas, võib saatja peita oma tõelise meiliaadressi. Saatja tõelise meiliaadressi registreerimine
   
-1. Kolme punkti valimine <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- Klõpsake sõnumi akna ülaosas nuppu **Kuva sõnumi allikas**.
-2. Liikuge aknas **sõnumi allikas** allapoole, kuni leiate **väljalt väli.**
-3. Tõstke esile suletud meiliaadress \< \> ja paremklõpsake seda. **Copy**
-4. Kasutage saatja blokeerimiseks kopeeritud aadressi. Lisateavet saatjate blokeerimise kohta leiate teemast [meilisõnumite märkimine rämpspostiks või Outlook.com saatjate blokeerimine](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. Valige kolm dots <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ ja valige Kuva sõnumi **allikas**.
+2. Kerige **aknas Sõnumi allikas** allapoole, kuni leiate **väljaLt.**
+3. Tõstke esile sees soovitud meiliaadress \< \> ja paremklõpsake käsku **Kopeeri**
+4. Kasutage saatja blokeerimiseks kopeeritud aadressi. Lisateavet saatjate blokeerimise kohta leiate teemast Meilisõnumite märkimine rämpspostiks [või saatjate blokeerimine Outlook.com-is.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Lisateavet leiate teemast [meilisõnumite saamine blokeeritud saatjatelt Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate teemast Blokeeritud [saatjate meilisõnumite vastuvõtmine Outlook.com-is.](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy)
