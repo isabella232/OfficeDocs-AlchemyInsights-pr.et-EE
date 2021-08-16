@@ -1,5 +1,5 @@
 ---
-title: Üksuste eksportimine arhiivifaili rakenduses Outlook for Mac
+title: Üksuste eksportimine arhiivifaili mac Outlook-arvutis
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 8e363cafbf913cb26b130b9a73d9e9c1bf8bfea5
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100398"
 ---
-# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Üksuste eksportimine arhiivifaili rakenduses Outlook for Mac
+# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Üksuste eksportimine arhiivifaili mac Outlook-arvutis
 
-Sisendkausta mahu vähendamiseks on meilisõnumite, kontaktide ja muude üksuste käsitsi arhiivimine Outlooki for Mac-andmefaili (. OLM). OLM faili saate salvestada mis tahes kohta Mac-arvutis või mõnes muus seadmes.
+Sisendkausta mahu vähendamiseks arhiivige meilisõnumid, kontaktid ja muud üksused käsitsi mac-Outlook andmefaili (.olm). Olm-faili saate salvestada mac-arvutis mis tahes kohta või mõnda muusse seadmesse.
 
-1. Klõpsake menüüs **Tööriistad** nuppu **ekspordi**.
+1. Klõpsake **menüüs Tööriistad** nuppu **Ekspordi.**
 
 > [!NOTE]
-> Kas te ei näe nuppu **ekspordi** ? Veenduge, et teil on Outlooki uusim versioon. Klõpsake Outlooki menüü **Spikker** nuppu Otsi **värskendusi**. Kui kõik Outlooki värskendused on rakendatud ja te ei näe endiselt nuppu **ekspordi** , otsige Outlooki menüü **pilt** käsku **ekspordi** .
+> Kas nuppu Ekspordi **ei näe?** Veenduge, et teil oleks uusim Outlook. Klõpsake Outlook **nuppu** **Otsi värskendusi.** Kui Outlook värskendusi rakendatakse ja nuppu Ekspordi ikka **ei** näe, otsige **menüüst** Fail Outlook **ekspordi.**
 
-2. Märkige väljal **ekspordi arhiivimiseks (. OLM)** üksused, mida soovite eksportida, ja klõpsake nuppu **Jätka**.
+2. Märkige **dialoogiboksis Ekspordi arhiivifaili (.olm)** üksused, mida soovite eksportida, ja klõpsake nuppu **Jätka.**
 
-3. Valige väljal **Salvesta nimega** jaotises **Lemmikud** kaust **allalaaditud failid** ja klõpsake nuppu **Salvesta**.
+3. Valige **boksi Nimega** salvestamine **jaotises Lemmikud** kaust **Allalaaditavad** failid ja klõpsake nuppu **Salvesta**.
 
-4. Kui teie andmed on eksporditud ja teile kuvatakse teatis, klõpsake nuppu **valmis**.
+4. Kui andmed on eksporditud ja saate teatise, klõpsake nuppu **Valmis**.
 
-Lisateavet rakenduse Outlook for Mac andmefailis (. OLM) salvestatud andmetele juurdepääsemise kohta leiate teemast [meilisõnumite, kontaktide ja muude üksuste importimine rakendusse outlook 2016 for Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
+Lisateavet mac-arvuti andmefailis (.olm) Outlook salvestatud andmetele juurdepääsemise kohta leiate teemast Meilisõnumite, kontaktide ja muude üksuste importimine [mac Outlook 2016 for Maci.](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)
 
-**Soovin eksportida iCloudis või mõnda muud tüüpi arhiivifaili**
+**Soovin eksportida iCloudi või mõnda muud tüüpi arhiivifaili**
 
-Ainus eksportimise võimalus on praegu saadaval. OLM arhiivimise failid. Täiendavate eksportimise võimaluste taotlemiseks minge tagasiside andmiseks [väljale Outlooki soovitus](https://outlook.uservoice.com/) . Outlooki meeskond jälgib seda foorumit aktiivselt.
+Praegu on saadaval ainult OLM-arhiivifail. Täiendavate ekspordisuvandite küsimiseks külastage [oma tagasiside Outlook välja](https://outlook.uservoice.com/) Soovitus. Meeskond Outlook foorumit aktiivselt jälgib.
 
 **Vt ka**
 
-- [PST-faili importimine rakendusse Outlook for Windows for Mac Outlook 2016](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [PST-faili importimine Outlook 2016 for Maci Outlook Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
-- [Rakenduse Outlook 2016 for Mac üksuste automaatne arhiivimine või varundamine ajamasinas](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Ajamasina abil üksuste automaatne arhiivimine või varundamine opsüsteemis Outlook 2016 for Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

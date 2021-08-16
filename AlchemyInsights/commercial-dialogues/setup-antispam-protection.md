@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058502"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874571"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Rämpspostitõrje häälestamine
 
-Selleks tehke nii.
+1. Avage Microsoft 365 Defender portaal jaotises Poliitikad & Meilipoliitikad & Reeglid ohupoliitikad <https://security.microsoft.com/>  \>  \>  \>  Rämpspostitõrje. 
 
-1. Avage Office 365 [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Liikuge **jaotisse**  >  **Ohuhalduspoliitika** ja klõpsake **[nuppu Rämpspostitõrje.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Lülitage **vahekaardil** Kohandatud sisse **kohandatud** sätted.
-1. Laiendage **rämpspostifiltri vaikepoliitikat,** klõpsake **nuppu Redigeeri** poliitikat ja seejärel määrake järgmised sätted.
-    1. Määrake **jaotises Rämpspost ja** hulgitoimingud läve väärtuseks 5 või 6.
-1. Klõpsake nuppu **Salvesta**.
+   Otse rämpspostitõrje **poliitikate lehele minemiseks** kasutage funktsiooni <https://security.microsoft.com/antispam> .
 
-Lisateavet rämpspostitõrje poliitikasuvandite kohta leiate teemast [Rämpspostitõrjepoliitikate konfigureerimine.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. Tehke **lehel Rämpspostitõrje** poliitikad ühte järgmistest.
+   - Uue poliitika lisamiseks valige **+ Loo** \> **sissetulev**. Poliitikasätete määratlemiseks käivitatakse viisard.
+   - Olemasoleva poliitika redigeerimiseks valige poliitika, klõpsates poliitika nime **(Tüüp** on Kohandatud **rämpspostitõrjepoliitika** või **Nimi** on rämpspostitõrje sissetulevate tõrje **poliitikate (vaikesäte).** Klõpsake kuvatavas üksikasja hüpikmenüüs **jaotises,** kus on sätted, mida soovite konfigureerida, nuppu Redigeeri.
+
+3. Pärast sätete läbivaatamist valige Edasta **(uus)** või **Salvesta** (redigeeri).
+
+Lisateavet leiate teemast [Rämpspostitõrjepoliitikate konfigureerimine EOP-s.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)
