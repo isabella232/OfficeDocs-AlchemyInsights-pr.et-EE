@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069996"
 ---
 # <a name="whats-a-domain"></a>Mis on domeen?
 
-Domeen on osa teie meiliaadressist, mis on pärast sümbolit @. Näiteks on rob@contoso.com aadress domeeni **contoso.com**. Enamik ettevõtteid eelistab kasutada oma domeeninime oma meiliaadressile.
+Domeen on teie meiliaadressi osa, mis järgib sümbolit @. Näiteks aadressiloendis rob@contoso.com domeen on **contoso.com**. Enamik ettevõtteid eelistab meiliaadressil kasutada oma domeeninime.
 
-Järgnevalt on toodud mõned näpunäited domeenide kohta.
+Järgmised näpunäited domeenide kohta.
 
-- Microsoftilt saate osta domeeninime. Nii on sul kohandatud meiliaadress.
-- Samuti saate lisada domeeni, mille olete juba Office 365 lisanud.
+- Domeeninime saate osta Microsoftilt. Sel viisil on teil kohandatud meiliaadress.
+- Samuti saate lihtsalt lisada domeeni, mis on teile juba Office 365.
 
-Lisateabe saamiseks [vaadake seda suurepärast videot](https://www.youtube.com/watch).
+Lisateavet leiate sellest [suurepärasest videost.](https://www.youtube.com/watch)
