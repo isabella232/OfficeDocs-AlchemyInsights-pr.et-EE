@@ -1,5 +1,5 @@
 ---
-title: Hübriid-konfigureerimisviisard
+title: Hübriidkonfiguratsiooni viisard
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afb38121fdfbd244da39377a19f6756a5f0370f6707fade98eaf53def6981696
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015040"
 ---
-# <a name="hybrid-configuration-wizard"></a>Hübriid-konfigureerimisviisard
+# <a name="hybrid-configuration-wizard"></a>Hübriidkonfiguratsiooni viisard
 
-Hübriid-konfigureerimisviisard on rakendus, mis aitab teil häälestada teie kohapealse Exchange ' i asutuse ja Microsoft 365 vahel uue hübriidi juurutuse. Kui teil on juba hübriidi juurutus häälestatud, aitab viisard teil oma hübriid-juurutuse sätteid värskendada. Lisateavet leiate järgmistest teemadest.
+Hübriidkonfiguratsiooni viisard on rakendus, mis aitab teil häälestada uue hübriidjuurutuse oma asutuse Exchange ja Microsoft 365. Kui teil on hübriidjuurutus juba häälestatud, aitab viisard teil hübriidjuurutussätteid värskendada. Lisateavet leiate teemast
   
-- [Hübriid-konfiguratsiooni viisardi käivitamine](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Hübriidkonfiguratsiooni viisardi käivitamine](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [Hübriid-konfigureerimisviisard](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [Hübriidkonfiguratsiooni viisard](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [Hübriid-konfigureerimisviisard KKK](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Hübriidkonfiguratsiooniviisardi KKK](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)

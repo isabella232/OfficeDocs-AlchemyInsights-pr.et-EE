@@ -1,5 +1,5 @@
 ---
-title: Suhtluse nõuetele vastavuse lubamine
+title: Suhtluse nõuetele vastavuse õiguste lubamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c841232525dd2eabc068494a1e22975d428705dc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a845e9c51741f69edba328fbf147847d44690a211af0c091fe29733414f771b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744112"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058718"
 ---
-# <a name="enable-permissions-for-communication-compliance"></a>Suhtluse nõuetele vastavuse lubamine
+# <a name="enable-permissions-for-communication-compliance"></a>Suhtluse nõuetele vastavuse õiguste lubamine
 
 Tehke järgmist.
 
-1. Logige sisse, et [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) kasutada Microsoft 365 asutuse administraatori konto mandaati.
-2. Valige [turbe & täitmise keskuses](https://go.microsoft.com/fwlink/?linkid=2101341) **permissions (õigus**). Valige Office 365 rollide vaatamiseks ja haldamiseks link ja seejärel valige **\+ Loo**.
-3. Sisestage väljale **nimi** uuele rollile sõbralik nimi. Valige **edasi**.
-4. Valige käsk **Vali rollid** ja seejärel valige **Lisa**. Märkige ruut **järelevalve läbivaatuse halduri**, **teenindusjuhtumite haldamise**, **vastavuse halduri** ja **läbivaatuse** jaoks, valige **Lisa** ja seejärel valige **valmis**. Valige **edasi**.
-5. Valige Vali **liikmed** ja seejärel valige **Lisa**. Märkige ruut kõigi kasutajate ja rühmade jaoks, kelle jaoks soovite poliitikaid luua, ja hallata sõnumeid poliitika vastetega, valige **Lisa** ja seejärel valige **valmis**. Valige **edasi**.
-6. Valige lõpuleviimiseks nupp **Loo rollirühma** .
+1. Logige sisse [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) oma ettevõtte administraatorikonto identimisteabe Microsoft 365.
+2. Avage [turbe- & vastavuskeskuses](https://go.microsoft.com/fwlink/?linkid=2101341) **Õigused**. Valige link rollide vaatamiseks ja haldamiseks Office 365 seejärel valige **\+ Loo**.
+3. Sisestage **väljale** Nimi uuele rollirühmale sõbralik nimi. Valige **Edasi**.
+4. Valige **Vali rollid** ja seejärel **lisa**. Märkige ruut Järelevalve administraator **,** **Juhtumihaldus**, Nõuetele **vastavuse administraator** ja **Läbivaatus**, valige **Lisa** ja seejärel valige **Valmis**. Valige **Edasi**.
+5. Valige **Vali liikmed** ja seejärel **lisa**. Märkige ruut kõigi nende kasutajate ja rühmade jaoks, kelle jaoks soovite poliitikaid luua ja poliitikavastetega sõnumeid hallata, **valige Lisa** ja seejärel valige **Valmis**. Valige **Edasi**.
+6. Lõpetamiseks **valige Loo** rollirühm.
 
-Lisateavet rollirühma ja-lubade kohta leiate teemast [turbe & nõuetele vastavuse keskuse funktsioonide kasutamiseks vajalikud load](https://go.microsoft.com/fwlink/?linkid=2114184).
+Lisateavet rollirühmade ja -õiguste kohta leiate teemast Turbe- ja vastavuskeskuse [funktsioonide & õigused.](https://go.microsoft.com/fwlink/?linkid=2114184)

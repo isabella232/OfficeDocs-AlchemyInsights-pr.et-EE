@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defenderi kasutamine Office 365 anti-phishing Policy
+title: Microsoft Defenderi näide Office 365 andmepüügitõrje poliitika jaoks
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035002"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Microsoft Defenderi kasutamine Office 365 anti-phishing Policy
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Microsoft Defenderi näide Office 365 andmepüügitõrje poliitika jaoks
 
-Need sätted võimaldavad poliitika nimega *domeen ja tegevjuht*. See poliitika tagab nii kasutaja-kui ka domeeni kaitse ja rakendab seejärel poliitika kõigi domeenis kasutajate vastu võetud meilisõnumite kohta. Esmalt lisage poliitika loomiseks järgmine teave.
+Need sätted võimaldavad poliitika nimega *Domeen ja ceo*. See poliitika pakub nii kasutaja- kui ka domeenikaitset isikustamise eest ja rakendab seejärel poliitika kõigile domeeni kasutajatele vastu võetud meilisõnumitele. Esmalt lisage poliitika loomiseks järgmine teave.
 
-- **Nimi**: Domain and CEO **Kirjeldus**: tagab, et tegevjuht ja teie domeeni ei kehastata.
-  **Rakendatud**: valige **adressaadi Domeen**. Valige **mõnest** jaotisest nupp **Vali** ja seejärel valige Domeen. Valige **+ Lisa**. Märkige loendis selle domeeni nimi (nt *contoso.com*) kõrval olev ruut ja seejärel valige **Lisa**. Valige **valmis**.
-- Kui poliitika on loodud, saate poliitika viimistleda järgmiste suvandite abil.
-  - **Kasutajate lisamine kaitsmiseks tehke järgmist.** Selles näites lisage tegevjuhi meiliaadress vähemalt.
-  - **Domeenide lisamine, mida soovite kaitsta**: saate lisada ettevõtte tegevjuhti sisaldava domeeni.
-  - Valige **toimingud**: meilisõnumi **saatmisel kehastanud kasutaja poolt** valige **suuna sõnum ümber teisele** meiliaadressile ja seejärel sisestage selle turvalisuse halduri meiliaadress (nt *securityadmin@contoso.com*). **Kui meilisõnumid saadetakse kehastava domeeni kaudu**, valige **sõnum karantiinis**.
-  - **Postkasti luure**: Vaikimisi on see suvand valitud, kui loote uue andmepüügi poliitika. Jätke **see säte parimate** tulemuste saamiseks.
-  - **Usaldusväärsete saatjate ja domeenide lisamine.** Selles näites ära Määratle ühtegi alistamist.
-- Kui olete oma sätted üle vaadanud, valige **Loo see poliitika** või **Salvesta** vastavalt vajadusele.
+- **Nimi**: Domain and CEO **Description**: Tagab, et ceo ja teie domeeni ei esineks kehastus.
+  **Rakendus:** valige **Adressaadi domeen on**. Valige **jaotises Mõni neist** nupp **Vali** ja seejärel valige domeen. Valige **+ Lisa**. Märkige loendis domeeni nime (nt contoso.com *)* kõrval ruut **.** Valige **Valmis**.
+- Pärast poliitika loomist saate poliitika viimistlemiseks kasutada järgmisi suvandeid.
+  - **Kasutajate lisamine kaitsmiseks.** Selles näites lisage vähemalt ceo meiliaadress.
+  - **Domeenide lisamine kaitsmiseks:** lisage ettevõtte domeen, mis sisaldab tegevjuhi kontorit.
+  - **Valige toimingud.** **Kui** meilisõnumi on saatnud jäljendatud kasutaja , valige Suuna sõnum ümber teisele meiliaadressile ja sisestage turbeadministraatori meiliaadress *(nt securityadmin@contoso.com).* Kui **meilisõnumi on saatnud impersoneeritud** domeen, valige Pane sõnum **karantiini.**
+  - **Postkasti jälitusteave.** Vaikimisi valitakse see suvand uue andmepüügitõrjepoliitika loomisel. Jätke see säte **parimate tulemuste saamiseks** sisse.
+  - **Lisage usaldusväärseid saatjaid ja domeene.** Selles näites ärge määratlege ühtegi alistamist.
+- Kui olete sätted läbi vaadanud, valige **vastavalt vajadusele** Käsk Loo see poliitika **või** Salvesta.
 
-Lisateavet leiate teemast [Microsoft 365 anti-andmepüügi poliitikad](https://go.microsoft.com/fwlink/?linkid=2092235).
+Lisateavet leiate teemast [Andmepüügivastased poliitikad Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)

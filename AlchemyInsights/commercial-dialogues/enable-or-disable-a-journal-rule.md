@@ -1,5 +1,5 @@
 ---
-title: Töölehe reegli lubamine või keelamine
+title: Töölehereegli lubamine või keelamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 8cbb675b8a290dae5a0a161296a7be95b5259711
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058826"
 ---
-# <a name="enable-or-disable-a-journal-rule"></a>Töölehe reegli lubamine või keelamine
+# <a name="enable-or-disable-a-journal-rule"></a>Töölehereegli lubamine või keelamine
 
 Tehke järgmist.
 
-1. Valige [Exchange ' i administreerimiskeskuses](https://go.microsoft.com/fwlink/p/?linkid=2059104) **vastavuse haldamise**  >  **Töölehe reeglid**.
-2. Märkige loendi vaates reegli nime **kõrval oleval veerul** ruudud, et reeglid lubada või reegli keelamiseks tühjendada.
+1. Avage [Exchange halduskeskuses](https://go.microsoft.com/fwlink/p/?linkid=2059104) **vastavushalduse**  >  **töölehe reeglid.**
+2. Märkige loendivaates reegli nime kõrval olevas veerus **SEES** ruut reeglite lubamiseks või reegli keelamiseks tühjendage see.

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teamsi tutvustav kasutuskogemus
+title: Microsoft Teams Uuriv kogemus
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 96bcd589e03a67acd61e231e777f0d26aae9687dd2c9284babe3e2669343ca5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027046"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teamsi tutvustav kasutuskogemus
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Uuriv kogemus
 
-- Mis on [Teamsi uurimuslik?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Microsoft Teamsi uuriv kasutuskogemus võimaldab teie asutuse kasutajatel, kellel pole Teamsi litsentsi, käivitada Teamsi tutvumiskogemuse. Lisateavet leiate teemast [Teamsi](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)uurimiskogemus.
-- [Kui kaua Teamsi uurimuslik kogemus kestab?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Microsoft Teamsi uurimuslik kasutuskogemus on saadaval 12 kuu jooksul (alates algsest kasutaja registreerumisest) ja täiendava 30-päevase ajapikendusperioodi eest.
-- Administraatorina saate teamsi uurimusliku litsentsi [kasutajaid](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) täiendada, ostes Teamsi kaasava tellimuse, eemaldades teamsi uurimusliku tellimuse kasutajalt ja määrates äsja ostetud litsentsi.
-- Lisateavet leiate teemast [Teamsi uurimusliku litsentsi haldamine.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
+- Mis on [Teams exploratory?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Uuriv Microsoft Teams võimaldab teie ettevõtte kasutajatel, kellel pole litsentsi Teams, alustada Teams. Lisateavet leiate teemast Uuriv [Teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Kui kaua Teams uurimuslik kogemus kestab?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Uuriv Microsoft Teams on saadaval ilma lisatasuta 12 kuu jooksul (alates algsest kasutaja registreerumisest) ja täiendava 30-päevase ajapikendusperioodi eest.
+- Administraatorina saate kasutajaid Teams [exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) litsentsilt üle minna, ostes tellimuse, mis sisaldab Teams, eemaldades Teams tellimuse kasutajalt ja määrates äsja ostetud litsentsi.
+- Lisateavet leiate teemast [Uuriva Teams haldamine.](https://docs.microsoft.com/microsoftteams/teams-exploratory)

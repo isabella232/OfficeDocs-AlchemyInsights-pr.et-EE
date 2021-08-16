@@ -1,5 +1,5 @@
 ---
-title: Google Chrome ' is ei saa Outlook.com meilisõnumeid lugeda AdBlock
+title: Google Chrome'is ei saa Outlook.com-i meilisõnumeid lugeda AdBlocki abil
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: c5bc85855f5d2634c085ef093ab71c98093931a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f494d71b26e6e62215c979dcdd7fd8e4ad2c20774e15641b42f1f6208eaa2922
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984709"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>AdBlock ei saa Google Chrome ' is meilisõnumeid lugeda
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>AdBlocki abil ei saa Google Chrome'is meilisõnumeid lugeda
 
-Kui te ei saa Google Chrome ' i kasutades AdBlock laiendiga meilisõnumit lugeda ega koostada, tehke järgmist.
+Kui te ei saa Google Chrome'i kasutamisel AdBlocki laiendiga meilisõnumeid lugeda ega koostada, siis:
 
-- Kasutage [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ' i või mõnda muud brauserit.
-- Välistage Outlook.com AdBlock sätetest. Valige Google Chrome ' i paremas ülanurgas **AdBlock** ja seejärel klõpsake käsku **ära Käivita selle domeeni lehtedel**. Outlook.com uuesti laadimiseks värskendage brauserit.
+- Kasutage [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) või mõnda muud veebibrauserit.
+- Jätke Outlook.com AdBlocki sätetest välja. Valige Google Chrome'i paremas ülanurgas **AdBlock** ja seejärel valige Ära tööta selle domeeni **lehtedel.** Värskendage brauserit, et Outlook.com uuesti laadida.

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams lõpetab töötamise Internet Explorer 11 alates 30 nov
+title: Microsoft Teams lõpetab Internet Explorer 11 kasutamise alates 30.
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: b9558864ea632be3a69dc8af98dc4d47e19bee30
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
-ms.translationtype: MT
+ms.openlocfilehash: 339a179e1be88d80dc9df377eb06853f9184b4305b9fd029f565ba54fd30e546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026938"
 ---
-# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams lõpetab töötamise Internet Explorer 11 alates 30 nov
+# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams lõpetab Internet Explorer 11 kasutamise alates 30.
 
-Microsoft Teamsi veebirakendus ei toeta enam Internet Explorerit (IE) 11, nagu on toodud MC225570, alates novembrist 30, 2020. 
+Nagu on edastatud mc225570-s alates 30. novembrist 2020, ei toeta Microsoft Teams veebirakendus enam Internet Explorerit (IE) 11. 
 
-Soovitame teil värskendada uut [Microsoft Edge](https://www.microsoft.com/edge) ' i turvalisema ja uuenduslikuma veebipõhise kogemuse jaoks. 
+Soovitame teil uuele veebikeskkonnale [Microsoft Edge](https://www.microsoft.com/edge) turvalisema ja uuenduslikuma veebikeskkonna. 
 
-Lisateavet leiate teemast [microsoft 365 apps hüvasti Internet Explorer 11 ja Windows 10 päikeseloojangud Microsoft Edge Legacy-Microsoft Tech kogukond](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
+Lisateavet leiate teemast Microsoft 365 rakenduste hüvastijätmine [Internet Explorer 11](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) ja Windows 10 päikeseloojangute Microsoft Edge'i pärandversioon – Microsofti tehnika kogukond
 

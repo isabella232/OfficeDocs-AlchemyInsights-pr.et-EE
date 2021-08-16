@@ -1,5 +1,5 @@
 ---
-title: OneDrive ' i ja PST-failid
+title: OneDrive ja PST-failid
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6002"
 - "9003081"
-ms.openlocfilehash: 16dfc5b39be7967a6de7967edee28bc7f08d216b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de6de2c7483280143b8bed51d0af1048d39137a5c72a22c09131d32326b8e447
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984853"
 ---
-# <a name="onedrive-and-pst-files"></a>OneDrive ' i ja PST-failid 
+# <a name="onedrive-and-pst-files"></a>OneDrive ja PST-failid 
 
-OneDrive toetab Outlook. pst-faile, kuid neid sünkroonitakse võrreldes teiste failitüübitega ka võrguliikluse vähendamiseks harvemini. Kui soovite, et OneDrive ' i sünkroonimise rakendus ei saaks PST-faile üles laadida, lugege teemat [teatud tüüpi failide sünkroonimise blokeerimine](https://docs.microsoft.com/onedrive/block-file-types). 
+OneDrive toetab Outlook PST-faile, kuid võrguliikluse vähendamiseks sünkroonitakse neid teiste failitüüpidega võrreldes harvem. Pst-OneDrive'i sünkroonimisrakendus üleslaadimise vältimiseks lugege teemat [Teatud failitüüpide sünkroonimise blokeerimine.](https://docs.microsoft.com/onedrive/block-file-types) 
 
-Kui soovite PST-faile OneDrive ' ist eemaldada, lugege teemat [Outlooki PST-andmefaili eemaldamine OneDrive ' ist](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e). 
+PST-failide teisaldamiseks välja OneDrive lugege teemat [PST-Outlook faili eemaldamine](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e)OneDrive . 
 
-Kui kasutajad saavad arvuti kausta varunduse käsitsi lubada, kuvatakse tõrketeade, kui neil on PST-fail ühes oma teadaolevatest kaustadest.
+Kui kasutajad lubavad pc-kausta varukoopia käsitsi ilma rühmapoliitikata, ilmneb tõrge, kui neil on PST-fail ühes nende teadaolevatest kaustadest.
 
-Kui kasutate OneDrive for töö või kooli, võivad teatud failitüübid olla blokeerinud organisatsiooni SharePointi saidi administraator.
+Kui kasutate OneDrive või kooli jaoks, võib organisatsioon või saidiadministraator mõne failitüübi SharePoint blokeerida.
