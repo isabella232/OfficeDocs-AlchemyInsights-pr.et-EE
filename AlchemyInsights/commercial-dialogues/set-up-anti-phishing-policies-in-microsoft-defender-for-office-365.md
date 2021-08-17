@@ -1,5 +1,5 @@
 ---
-title: Andmepüügitõrjepoliitikate häälestamine rakenduses Microsoft Defender for Office 365
+title: Andmepüügitõrjepoliitikate häälestamine Microsoft Defenderi Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313423"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895079"
 ---
-# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Andmepüügitõrjepoliitikate häälestamine rakenduses Microsoft Defender for Office 365
+# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Andmepüügitõrjepoliitikate häälestamine Microsoft Defenderi Office 365
 
-1. Avage Microsoft 365 Defender portaal jaotises Poliitikad & Meilipoliitikad & Reeglid <https://security.microsoft.com/>  \>  \>  \>  ohupoliitikad Andmepüügitõrje. 
+1. Avage Microsoft 365 Defender portaal jaotises Poliitikad & Meilipoliitikad & Reeglid ohupoliitikad <https://security.microsoft.com/>  \>  \>  \>  Andmepüügitõrje. 
 
    Otse lehele **Andmepüügivastane minek** kasutage funktsiooni <https://security.microsoft.com/antiphishing> .
 

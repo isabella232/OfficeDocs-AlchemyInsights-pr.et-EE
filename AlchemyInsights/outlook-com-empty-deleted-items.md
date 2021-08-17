@@ -1,5 +1,5 @@
 ---
-title: Kustutatud üksuste kausta tühjendamine rakenduses Outlook.com
+title: Kausta Kustutatud üksused tühjendamine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111792"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Kustutatud üksuste kausta tühjendamine
+# <a name="empty-the-deleted-items-folder"></a>Kausta Kustutatud tühjendamine
 
-1. Avage kaust Kustutatud üksused ja valige käsk **Tühjenda kaust**.
-2. Valige lehe ülaosas **Taastatavad üksused** ja klõpsake uuesti nuppu **Tühjenda kaust** .
+1. Avage kaust Kustutatud üksused ja valige **Tühi kaust.**
+2. Valige **lehe ülaservas** Taastatavad üksused ja valige **uuesti Tühi** kaust.
 
-**Kustutatud üksuste kausta ei saa tühjendada**
+**Kausta Kustutatud ei saa tühjendada**
 
-- Kui olete palju meilisõnumeid kustutanud, võib nende üksuste teisaldamiseks või kustutamiseks olla vaja mõnda aega. Jätke brauseriakna kustutamise ajal avatuks.
-- Kui meilisõnum ei kustuta endiselt õigesti, Valige kustutatav väiksem pakett.
-- Kui kustutatud meilisõnum tuleb tagasi, võib põhjuseks olla see, et olete hiljuti palju meilisõnumeid kustutanud. Palun proovi hiljem uuesti.
+- Kui olete palju meilisõnumeid kustutanud, võib nende üksuste teisaldamine kausta Kustutatud või sealt kustutamine võtta veidi aega. Kui kustutamine toimub, jätke brauseriaken avatuks.
+- Kui meilisõnumit ikka ei kustutata õigesti, valige kustutamiseks väiksem pakett.
+- Kui kustutatud meilisõnumid tulevad tagasi, võib see olla seotud sellega, et olete hiljuti palju meilisõnumeid kustutanud. Proovige hiljem uuesti.

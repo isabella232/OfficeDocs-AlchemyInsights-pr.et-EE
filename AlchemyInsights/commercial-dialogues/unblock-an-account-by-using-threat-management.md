@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081426"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895003"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Konto blokeeringu tühistamiseks ohuhalduse abil
 
-Selleks tehke nii. 
+Selleks tehke nii.
 
-1. Avage Office 365 [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Valige **Ohuhalduse**  >  **läbivaatus**. Valige **lehel Läbivaatus** suvand Piiratud **[kasutajad](https://go.microsoft.com/fwlink/?linkid=2103514)**.
-1. Kui loendis kuvatakse ohustatud konto, klõpsake nuppu **Tühista konto blokeering.** Kontol peaks olema võimalik sõnumeid uuesti saata, tavaliselt tunni jooksul.
+1. Avage Microsoft 365 Defender <https://security.microsoft.com> \> **meiliportaalis & Koostöö** \> **ülevaade Piiratud** \> **kasutajad.**
+
+   Otse lehele Piiratud kasutajad **minemiseks** kasutage funktsiooni <https://security.microsoft.com/restrictedusers> .
+
+2. Kui kasutaja on loendis, valige kasutaja ja seejärel valige **Tühista blokeering**. Järgige hüpikpaanil olevaid juhiseid ja seejärel valige **kinnitamiseks Jah.**
+
+   Kontol peaks olema võimalik sõnumeid uuesti saata, tavaliselt tunni jooksul.
+
+Lisateavet leiate teemast [Blokeeritud kasutajate eemaldamine piiratud kasutajate portaalist.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

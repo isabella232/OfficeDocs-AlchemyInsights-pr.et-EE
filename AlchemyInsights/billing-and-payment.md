@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893051"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314912"
 ---
 # <a name="billing-and-payment"></a>Arveldamine ja maksmine
 
-Arved leiate vahekaardilt &  >  [arved.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Vaikimisi kuvatakse arvete viimased 3 kuud.  Vanemate arvete kuvamiseks reguleerige filtrit.  Arve **vaatamiseks klõpsake linki** Laadi arve PDF alla.
+Arved leiate vahekaardilt   >  [Arveldusarved ja & arved.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Vaikimisi kuvatakse arvete viimased 3 kuud.  Vanemate arvete kuvamiseks reguleerige filtrit.  Arve **vaatamiseks klõpsake linki** Laadi arve PDF alla.
 
 **Arvete saamine meilisõnumiga**
 
@@ -38,7 +38,7 @@ Krediitkaardi või pangakontoga maksmisel võetakse teie tellimuse(te)ga seotud 
 
 Kui olete lisanud uue kaardi ja saate vana krediitkaardi kohta endiselt keeldumisteate, peate võib-olla selle uue kaardi tellimusega seostama.
 
-1. Avage halduskeskuses leht **Arveldusarved**  >  **ja &**  >  [makseviisid.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. Avage halduskeskuses leht   >  **Arveldusarved ja &**  >  [makseviisid.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Valige asendatav makseviisi rida. Parempoolsel paanil on loetletud kõik arveldusprofiilid ja üksikud tellimused, mis kasutavad valitud makseviisi.
 
@@ -46,8 +46,7 @@ Kui olete lisanud uue kaardi ja saate vana krediitkaardi kohta endiselt keeldumi
 
 4. Olemasoleva makseviisi kasutamiseks valige ripploendist üks ja seejärel valige **Asenda**.
 
-    > [!NOTE]
-    > Kui teil on arveldusprofiiliga seotud tellimused, saate nende eest maksta ainult krediit- või deebetkaardiga. Kui teil on lehel  Makseviisid loetletud pangakontod, pole need ripploendist valimiseks saadaval.
+    **Märkus.** Kui teil on arveldusprofiiliga seotud tellimused, saate nende eest maksta ainult krediit- või deebetkaardiga. Kui teil on lehel  Makseviisid loetletud pangakontod, pole need ripploendist valimiseks saadaval.
 
 5. Uue makseviisi lisamiseks valige **Lisa makseviis**.
 
