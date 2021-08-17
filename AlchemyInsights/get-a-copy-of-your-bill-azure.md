@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116904"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Arve või kasutuse koopia saamine
 
@@ -25,9 +25,9 @@ ms.locfileid: "51812373"
 
 1. Valige oma tellimus [Azure'i portaali lehel](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Tellimused, kui [kasutajal on juurdepääs arvetele, seejärel](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) valige **Arved**
 2. **PDF-arve** koopia kuvamiseks klõpsake nuppu Laadi arve alla. Kui seal **on kirjas Pole** saadaval, lugege teemat Miks ma ei näe viimase [arveldusperioodi arvet?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Samuti saate vaadata oma igapäevast kasutust, klõpsates arveldusperioodi Arve PDF-i hankimiseks ja üksikasjaliku igapäevase kasutusfaili koopia (. CSV): [arve- ja kasutusandmete toomine](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+3. Igapäevast kasutust saate vaadata ka arveldusperioodi klõpsates. Arve PDF-faili ja üksikasjaliku igapäevase kasutusfaili koopia (.CSV): arve- [ja kasutusandmete hankimine](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Arve toomine meili teel (.pdf)**
+**Arve toomine meilisõnumiga (.pdf)**
 
 1. Valige oma tellimus lehelt [Tellimused.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Klõpsake **valikut Arved ja** seejärel saatke arve **meiliga**
 2. Klõpsake **nuppu Loobu ja** nõustuge tingimustega. Teil tuleb valida iga tellimus, mis kuulub teile. Märkus. Kui te ei saa pärast juhiste järgimist meilisõnumit, veenduge, et teie meiliaadress on profiili [suhtluseelistustes õige.](https://account.windowsazure.com/profile)
@@ -47,7 +47,7 @@ Kui teil on Microsofti [kliendileping, saate](https://docs.microsoft.com/azure/c
 
 Kui teil on Microsofti kliendileping, saate oma arve meiliga saata. Kõik arveldusprofiili omanikud, kaasautorite, lugejate ja arvehaldurid saavad arve meili teel. Lugejad ei saa e-posti arve eelistust värskendada
 
-- Otsige üksust **Kuluhaldus ja arveldus**. Valige **arveldusprofiil.** Valige jaotises Sätted suvand **Atribuudid**
+- Otsige üksust **Kuluhaldus ja arveldus**. Valige **arveldusprofiil.** Valige Sätted **Atribuudid**
 - Valige jaotises Meiliarve suvand **Värskenda meiliarve eelistusi.** Valige opt in (Opt in). Klõpsake nuppu **Värskenda**
 
 **Enterprise Agreement (EA)**

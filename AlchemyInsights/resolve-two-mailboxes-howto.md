@@ -1,5 +1,5 @@
 ---
-title: 1374 lahenda kahe postkasti Howto-ga
+title: 1374 Kahe postkasti lahendamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110064"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Kasutajal on kaks postkasti
 
-Hübriid-keskkonnad, mis kasutavad Azure Active Directory ühendust (AAD Connect) või Dirsynci võivad kogemata tekitada kasutajal kaks postkasti: üks kohapealne ja teine pilves. Duplikaate saab luua mõlemas asukohas.
+Hübriidkeskkonnad, mis kasutavad Azure Active Directory Ühendus (AAD Ühendus) või DirSynci, võivad kogemata põhjustada kasutajal kaks postkasti: üks kohapealne ja teine pilveteenuses. Duplikaatpostkasti saab luua mõlemas kohas.
 
-Selle probleemi lahendamiseks vaadake, [Kuidas taastada, kui postkast on olemas nii Exchange Online ' is kui](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)ka kohapealses ruumis. Kui soovite rohkem teada saada, kuidas seda tulevikus vältida, vaadake teemat [minu kasutajal on postkast nii kohapealses kui ka Exchange Online ' is. Abi!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Selle probleemi lahendamiseks lugege [teemat Kuidas taastada, kui postkast on nii Exchange Online kui ka kohapealne.](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises) Kui soovite lisateavet selle kohta, kuidas seda tulevikus vältida, lugege teemat Minu kasutajal on postkast nii kohapeal kui [ka Exchange Online. Abi!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

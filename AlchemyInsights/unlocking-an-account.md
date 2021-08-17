@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: a154856693a8a87ccf9f832d33ee46df7414af23f03aa043b38e6a6c64d5ebaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a356b9907bb1b76ea753aac29eb176005bb45e22d8e1279dffd09af2cda9642b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972271"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899240"
 ---
 # <a name="unlocking-an-account"></a>Konto lukust vabastamine
 
@@ -25,7 +25,7 @@ Võib juhtuda, et kehvade paroolikatsete või muude turvalisuse ohustamiste tõt
 
 **Meilisõnumid piiratud**
 
-Administraatorina saate juhul, kui ühele teie kasutajatest on meilisõnumite saatmine keelatud, [konto blokeeringu ise eemaldada](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Kasutaja saab meilisõnumeid jälle saata hiljemalt tund pärast piirangu eemaldamist.
+Administraatorina saate juhul, kui ühele teie kasutajatest on meilisõnumite saatmine keelatud, [konto blokeeringu ise eemaldada](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Kasutaja saab meilisõnumeid jälle saata hiljemalt tund pärast piirangu eemaldamist.
 
 **Kasutaja parooli lähtestamine**
 
@@ -39,6 +39,6 @@ Administraatorina saate juhul, kui ühele teie kasutajatest on meilisõnumite sa
 
 2. Valige kasutaja ja klõpsake kolme punkti (veel toiminguid), seejärel klõpsake käsku **Redigeeri sisselogimisolekut.**
 
-Täiendavate parooli lähtestamise stsenaariumide (sh iseteeninduse paroolilähtestus) kohta leiate teavet teemast [Microsoft 365 Businessi paroolide lähtestamine](/microsoft-365/admin/add-users/reset-passwords).
+Täiendavate parooli lähtestamise stsenaariumide (sh iseteeninduse paroolilähtestus) kohta leiate teavet teemast [Microsoft 365 Businessi paroolide lähtestamine](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords).
 
-Teenus ei luba kasutajal saata meilisõnumeid, kui on tuvastatud andmeid konto sattumisest ründe ohvriks ja/või väljaminevast rämpspostist. Ettevaatusabinõuna täitke kasutaja jaoks artiklis [Turberikkega meilikontole reageerimine Microsoft 365-s](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) toodud juhised.
+Teenus ei luba kasutajal saata meilisõnumeid, kui on tuvastatud andmeid konto sattumisest ründe ohvriks ja/või väljaminevast rämpspostist. Ettevaatusabinõuna täitke kasutaja jaoks artiklis [Turberikkega meilikontole reageerimine Microsoft 365-s](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) toodud juhised.
