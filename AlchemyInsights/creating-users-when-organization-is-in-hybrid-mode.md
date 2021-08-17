@@ -1,5 +1,5 @@
 ---
-title: 744 kasutajate loomine, kui ettevõte on hübriid-Re žiimis
+title: 744 Kasutajate loomine, kui ettevõte on hübriidrežiimis
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8365e8687939e8759b5e9e0ae3b321b5e0a21c5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce3e4698f19c882ac0034aacb3a1455973e7eeeb3bd38d4c28a0070d739405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102936"
 ---
-# <a name="create-users-in-hybrid-deployments"></a>Kasutajate loomine hübriid-juurutustes
+# <a name="create-users-in-hybrid-deployments"></a>Kasutajate loomine hübriidjuurutustes
 
-Kui teie ettevõte on asutusesisese keskkonna ja Microsoft 365 hübriidide juurutus, peate looma kõik objektid asutusesiseses Active Directorys. Loote objektid vastavas organisatsiooniüksuse (OU), et nad oleksid teie ettevõttesse sünkroonitud.
+Kui teie ettevõte on hübriidjuurutus asutusesisese keskkonna ja Microsoft 365 vahel, peate looma kõik kasutajaobjektid oma asutusesiseses Active Directorys. Loote kasutajaobjektid sobivas organisatsiooniüksuses (OU), et need sünkroonitakse teie ettevõttega.

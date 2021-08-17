@@ -1,5 +1,5 @@
 ---
-title: Office ' i valmisoleku tööriistakomplekti kasutamine
+title: Office tööriistakomplekti kasutamine
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa6677c9d811b863462ae720e722735fd544ef568e6e10a95cff35e54948735e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072912"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>Office ' i valmisoleku tööriistakomplekti kasutamine
+# <a name="using-the-office-readiness-toolkit"></a>Office tööriistakomplekti kasutamine
 
-Lisateavet Office ' i valmisoleku tööriistakomplekti kasutamise kohta leiate teemast [valmisoleku tööriistakomplekti kasutamine rakenduse ühilduvuse hindamiseks Microsoft 365 rakendustes](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
+Lisateavet Office tööriistakomplekti kasutamise kohta leiate teemast [Valmidustööriistakomplekti](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps)kasutamine rakenduse ühilduvuse hindamiseks Microsoft 365 rakendused.
 
-Kui teil on tagasiside või küsimused valmisoleku tööriistakomplekti kohta, saatke meile meilisõnum aadressil ReadyForOffice@microsoft.com.
+Kui teil on Valmidustööriistakomplekti kohta tagasisidet või küsimusi, saatke meile ReadyForOffice@microsoft.com.
