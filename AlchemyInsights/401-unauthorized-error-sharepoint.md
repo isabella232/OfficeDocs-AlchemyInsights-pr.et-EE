@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 8935f461aaf24cb100516311203ef642f5dbed931e472df944c1cd7e72a8cf4e
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 04f56dfc7ebe7de91bc64a5e6d2b480b07741c6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890262"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314344"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>401 Volitamata tõrge SharePoint
 
-Kui kuvatakse tõrketeade "(401) Volitamata" SharePoint see võib olla seotud TLS 1.0/1.1 deprecationiga. Lisateavet leiate järgmistest artiklitest:
+Kui teile kuvatakse tõrketeade "(401) Volitamata" SharePoint see võib olla seotud TLS 1.0/1.1 deprecationiga. Lisateavet leiate järgmistest artiklitest:
 
 - [TLS 1.2 ettevalmistamine Office 365 ja Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 

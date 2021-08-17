@@ -1,5 +1,5 @@
 ---
-title: Tarkvara värskendusi ei juurutata
+title: Tarkvaravärskendusi ei juurutata
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bc1832dcfbd885f01c88c632f6cf2bad61363900e11ce0e00f99a7a2dcd9f3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084522"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Tarkvara värskendusi ei juurutata
+# <a name="software-updates-are-not-being-deployed"></a>Tarkvaravärskendusi ei juurutata
 
-Kui olete konfigureerinud tarkvarauuendused Windows 10 värskenduse helisemise kaudu, kuid värskendusi ei juurutata, proovige teha järgmist.  
+Kui olete konfigureerinud tarkvaravärskendused Windows 10 kaudu, kuid värskendusi ei juurutata, proovige järgmist.  
 
-- Kaaluge Windowsi hooldust  **pool-aastasest kanali**  vabastamise tüübist, mis on rangemad ja sagedasem väljalase.
-- Kontrollige  **kvaliteedi värskendamise**  ja  **värskendamise**edasilükkamise perioodi. Edasilükkamise periood võib põhjustada värskenduste hilinemist kuni 180 päeva jooksul.
+- Kaaluge Windows teenuse muutmist **poolaastakanali** väljalasketüübilt rangemale ja sagedasemale väljalasketüübile.
+- Kontrollige **kvaliteedivärskenduse** ja **funktsioonivärskenduse** edasilükkamise perioodi. Edasilükkamisperiood võib viia värskenduste viivituseni kuni 180 päeva jooksul.

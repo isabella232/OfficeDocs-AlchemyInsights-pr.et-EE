@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948951"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894391"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Andmepüügi, rämpsposti või valesti filtreeritud meilisõnumite uurimiseks
 
 Kasutage Sõnumi Microsoftile edastamiseks Submission Explorerit. Saate kohe tagasisidet sõnumi filtreerimise ja probleemi põhjuse kohta. Siin on kokkuvõte juhistest.
 
-1. Avage Office 365 [turbekontrolli &](https://go.microsoft.com/fwlink/p/?linkid=2077143), valige **Ohuhalduse**  >  **edastused** ja seejärel **+Uus esitamine**.
-2. Määrake üksikasjad hüpiks **Uus esitamine.**
-3. Teavitage oma kasutajaid sellest, et nad [](https://go.microsoft.com/fwlink/?linkid=2092385) peaksid Microsoftile kahtlastest meilisõnumitest teatama ja et aruandesõnumi lisandmoodul on tööriist, mida nad peaksid selleks kasutama.
+1. Avage Microsoft 365 Defender <https://security.microsoft.com> e-posti &  \> **edastused**.
+
+   Otse lehele **Edastused minemiseks** kasutage nuppu <https://security.microsoft.com/reportsubmission> .
+
+2. Veenduge **lehel Edastused,** et **valitud** on vahekaart Esitatud analüüsiks, ja seejärel klõpsake analüüsimiseks nuppu **+ Edasta Microsoftile.**
+
+3. Hüpik kuvatakse koos meili, URL-i või faili esitamise võimalusega. Lisateavet leiate teemast Administraatorite [edastuse kasutamine arvatavate rämpsposti, andmepüügi, URL-ide ja failide edastamiseks Microsoftile.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+4. Teavitage kasutajaid, et nad peaksid oma sisendkaustas kahtlastest sõnumitest teatama, kasutades lisandmoodulit Teata sõnumist või Teata [andmepüügi lisandmoodulist.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

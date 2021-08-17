@@ -1,5 +1,5 @@
 ---
-title: SSO-ühendusega seotud probleemid
+title: SSO-ühenduse probleemid
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7810"
-ms.openlocfilehash: 33074d70377866332feeccfb8b6400eff2de5a73
-ms.sourcegitcommit: e188ec7a583837a3e07880d05b3607b8bdac729c
+ms.openlocfilehash: 8fb93bc40c6cd5a7c0e3d259fe3be8d1bab3187dd5aa023eb49977555fd930de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084342"
 ---
-# <a name="sso-connection-issues"></a>SSO-ühendusega seotud probleemid
+# <a name="sso-connection-issues"></a>SSO-ühenduse probleemid
 
-1. Järgige Kiirjuhend: rakenduse konfigureerimiseks [rakenduste juhendi atribuutide konfigureerimine](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) .
-2. Olenevalt teie valitud rakendusest ja [ühekordsest sisselogimise suvandist](https://docs.microsoft.com/azure/active-directory/manage-apps/sso-options) järgige allpool olevaid asjakohaseid juhiseid.
-    - **Kohapealse rakenduse** konfigureerimiseks **SAML ühekordse sisselogimise** jaoks lugege teemat kohapealsete [rakenduste SAML rakenduse puhverserveriga](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps).
-    - **Parooli alusel ühekordse sisselogimise** **pilve rakenduse** konfigureerimiseks vaadake teemat [parooli ühekordse sisselogimise konfigureerimine](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-password-single-sign-on-non-gallery-applications).
-    - **Kohapealse rakenduse** konfigureerimiseks **ühekordse sisselogimise rakenduse puhverserveri kaudu** leiate teavet teemast [paroolide häälestamine ühekordse sisselogimise jaoks rakenduse puhverserveriga](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-3. **Rakenduse puhverserveri probleemide tõrkeotsing**: Soovitame alustada läbivaatust tõrkeotsingu voo, [siluda rakenduse puhverserveri konnektori probleeme](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), et kindlaks teha, kas rakenduse puhverserveri konnektorid on õigesti konfigureeritud. Kui teil on endiselt probleeme rakendusega ühenduse loomisega, järgige rakenduse [puhverserveri rakenduse puhverserveri tõrkeotsing probleeme](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). [Cors probleeme saate tuvastada](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) brauseri silumise tööriistade abil.
-    - Käivitage brauser ja liikuge sirvides veebi rakendusse.
-    - Debug konsooli kuvamiseks vajutage klahvi **F12** .
-    - Proovi reprodutseerida tehing ja vaadata konsooli sõnum. CORS rikkumine tekitab konsooli tõrke päritolu kohta.
-    - Mõnda CORS probleemi ei saa lahendada (nt kui teie rakendus suunab autentimiseks login.microsoft.com ja juurdepääsuluba aegub). CORS kõne nurjub. Selle stsenaariumi lahendus on pikendada juurdepääsuluba, et takistada selle kehtivust kasutaja seansi ajal. Lisateavet selle kohta leiate teemast [Konfigureeritav turbelubade eluiga Microsoft Identity Platform ' is](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
-4. **SAML põhinev Ühekordne sisselogimine**: soovitame kontrollida probleeme, mis [logivad sisse SAML-põhisesse ühekordse sisselogimise konfigureeritud rakendusse](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery), et leida lahendused probleemidele, mida tõenäoliselt tõenäoliselt koged.
-5. **Parool põhinev Ühekordne sisselogimine**: soovitame kontrollida [Azure AD ' is parooli põhise ühekordse sisselogimise tõrkeotsingut](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso), et leida lahendused probleemidele, mida tõenäoliselt kogete.
-6. Lisateavet VPN-i kasutamise ajal leiate teemast [ühekordse sisselogimise (SSO) kasutamine VPN-i ja Wi-Fi ühenduste kaudu](https://docs.microsoft.com/windows/security/identity-protection/vpn/how-to-use-single-sign-on-sso-over-vpn-and-wi-fi-connections).
+1. Rakenduse [konfigureerimiseks järgige quickstart:](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) konfigureerige rakendusejuhendi atribuudid.
+2. Olenevalt valitud rakendusest ja ühekordse sisselogimise [suvandist](https://docs.microsoft.com/azure/active-directory/manage-apps/sso-options) järgige alltoodud juhiseid.
+    - **SAML-i-põhise** ühekordse sisselogimise jaoks asutusesisese rakenduse konfigureerimiseks lugege teemat SAML-i ühekordne sisselogimine rakenduse [puhverserveriga kohapealste rakenduste jaoks.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+    - Pilverakenduse **konfigureerimiseks** **paroolipõhise ühekordse** sisselogimise jaoks lugege teemat [Parooli ühekordse sisselogimise konfigureerimine.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-password-single-sign-on-non-gallery-applications)
+    - Rakenduse puhverserveri **kaudu** ühekordse sisselogimise jaoks asutusesisese rakenduse konfigureerimise kohta leiate lisateavet teemast Ühekordse sisselogimise paroolhoidla rakenduse [puhverserveriga](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
+3. **Rakenduse puhverserveri probleemide tõrkeotsing.** Soovitame alustada tõrkeotsinguvoo ülevaatamist, [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)rakenduse puhverserveri konnektori probleemide silumist, et teha kindlaks, kas rakenduse puhverserveri konnektorid on õigesti konfigureeritud. Kui teil on endiselt probleeme rakendusega ühenduse loomisega, järgige tõrkeotsinguvoogu rakenduses Rakenduse puhverserveri rakenduse probleemide [silumine.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) [CORS-i probleemide tuvastamiseks](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) saate kasutada brauseri silumistööriistu.
+    - Käivitage brauser ja liikuge sirvides veebirakenduseni.
+    - Silumiskonsooli säästmiseks vajutage klahvi **F12.**
+    - Proovige tehing taasesitada ja vaadake konsooliteade läbi. CORS-i rikkumine annab lähtekohta konsoolivea.
+    - Mõnda CORS-i probleemi ei saa lahendada (nt kui teie rakendus login.microsoft.com autentimiseks ümber ja juurdepääsuluba aegub). SEEJÄREL NURJUB CORS-kõne. Selle stsenaariumi lahendus on pikendada juurdepääsuluba, et takistada selle aegumist kasutaja seansi ajal. Lisateavet selle kohta leiate teemast Konfigureeritava loa kasutusajad [Microsofti identimisplatvorm](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+4. **SAML-i-põhise** ühekordse sisselogimise tõrkeotsing. Soovitame kontrollida, kas [SAML-i-põhisesse](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)ühekordse sisselogimisega rakendustesse sisselogimisel ilmnevad probleemid, et leida lahendused probleemidele, millega kõige tõenäolisemalt kokku puutute.
+5. **Paroolipõhise ühekordse sisselogimise** tõrkeotsing. Soovitame kontrollida teemat Paroolipõhise ühekordse sisselogimise tõrkeotsing [Azure AD-s,](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)et leida lahendused probleemidele, millega kõige tõenäolisemalt kokku puutute.
+6. Vpn-i kasutamise ajal ühendusega seotud probleemide kohta leiate teavet teemast Ühekordse sisselogimise [(SSO)](https://docs.microsoft.com/windows/security/identity-protection/vpn/how-to-use-single-sign-on-sso-over-vpn-and-wi-fi-connections)kasutamine VPN-i ja Wi-Fi kaudu.

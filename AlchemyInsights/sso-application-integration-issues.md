@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004344"
 - "7758"
-ms.openlocfilehash: bba3c30c7123f946f38ef559b31397f5464b9880
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 5652a3dd5acd95cf1007a6e0cc6b37d7bb7ed9423cab15946983cc2f28bc450c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084414"
 ---
 # <a name="sso-application-integration-issues"></a>SSO rakenduste integreerimise probleemid
 
-Otsige konkreetset rakendust, mille soovite integreerida sujuva ühekordse sisselogimise (SSO) abil meie [kollektsioonist rakenduste integreerimiseks Azure Active Directoryga](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) ja järgige juhiseid oma integratsiooni tõrkeotsinguks.
+Otsige meie õppematerjalist konkreetset rakendust, mida soovite integreerida sujuva ühekordse sisselogimisega (SSO), et integreerida rakendused [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) ja järgige integreerimise tõrkeotsingu juhiseid.

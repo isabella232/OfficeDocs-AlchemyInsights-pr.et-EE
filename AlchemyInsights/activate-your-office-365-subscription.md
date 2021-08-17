@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889310"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314272"
 ---
 # <a name="activate-your-subscription"></a>Oma tellimuse aktiveerimine
 
@@ -25,7 +25,7 @@ ms.locfileid: "57889310"
 
 - Kasutajatele teenusele juurdepääsu andmiseks määrake neile litsents. Juhised leiate teemast [Litsentside määramine kasutajatele.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Kui teil on litsents juba määratud, leiate allalaaditavad rakendused lehelt [Minu konto.](https://portal.office.com/account/#installs) Sellelt lehelt leiate teile määratud litsentside põhjal allalaadimiseks saadaval olevate rakenduste loendi.
-- Kui olete need rakendused Office juba alla laadinud, peate võib-olla oma töö- või koolikontoga rakendustesse sisse logima. Seda saate teha mis tahes Office rakenduses (Word, Excel jne), valides **menüü Fail > Konto** (allservas). Valige jaotises Kasutajateave nupp **Vaheta kontot**. Lisateavet leiate artiklist [Office’i rakenduste installimine](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Kui olete need rakendused Office juba alla laadinud, peate võib-olla oma töö- või koolikontoga rakendustesse sisse logima. Seda saate teha mis tahes Office rakenduses (Word, Excel jne), **valides menüü Fail >** (allservas). Valige jaotises Kasutajateave nupp **Vaheta kontot**. Lisateavet leiate artiklist [Office’i rakenduste installimine](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Tellimuse uuesti aktiveerimine**
 
@@ -40,5 +40,5 @@ Lisateavet leiate artiklist [Tellimuse uuesti aktiveerimine](https://docs.micros
 
 **Uue tellimuse aktiveerimine tootevõtme abil**
 
-- Uue tellimuse aktiveerimiseks Microsoft 365 tootevõtmega lugege teemat Kuhu oma [tootevõti Office sisestada.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Uue tootevõtmega Microsoft 365 aktiveerimiseks lugege teemat Kuhu oma [tootevõti Office sisestada.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 - Sisestage oma Microsoft 365 tootevõti ja järgige juhiseid tellimuse aktiveerimiseks. Kui teil on aktiveerimisega probleeme, vaadake seda [loendit levinumate tootenumbriga seotud probleemide ja nende lahenduste](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) kohta.

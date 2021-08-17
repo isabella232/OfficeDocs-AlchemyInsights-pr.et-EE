@@ -13,20 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07fa4a64fb64233f88cfbf0a681d6f2ab586c88
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951669"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313920"
 ---
 # <a name="app-permission-policies"></a>Rakenduse õigusepoliitikad
 
 Rakenduse [õigusepoliitikate](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)abil saate teha järgmist.
 - Administraatorina saate hallata rakenduse häälestuspoliitikaid [Microsoft Teams halduskeskuses.](https://admin.teams.microsoft.com/policies/app-permission)
-- Saate määrata, millised rakendused Microsoft Teams teie ettevõtte kasutajatele saadaval, kasutades üldpoliitikat või luua ja määrata kohandatud poliitikaid, et kohandada ja juhtida kasutajate juurdepääsu rakendustele. [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) 
-> [!NOTE]
-> Kogu organisatsiooni hõlmavad rakendusesätted alistavad üldpoliitika ja kõik kohandatud poliitikad, mille loote ja määrate kasutajatele.
+- Saate määrata, millised rakendused on Microsoft Teams kasutajatele teie [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) ettevõttes saadaval, kasutades üldpoliitikat või luua ja määrata kohandatud poliitikaid, et kohandada ja juhtida kasutajate juurdepääsu rakendustele. 
+**Märkus.** Kogu organisatsiooni hõlmavad rakendusesätted alistavad globaalse poliitika ja kõik kohandatud poliitikad, mille loote ja määrate kasutajatele.
 - Rakenduse [häälestuspoliitikate abil](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) saate Microsoft Teams kasutajate jaoks kõige olulisemate rakenduste esiletõstmiseks. 
 
 

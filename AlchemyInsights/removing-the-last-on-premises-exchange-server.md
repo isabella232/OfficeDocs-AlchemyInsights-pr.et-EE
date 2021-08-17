@@ -1,5 +1,5 @@
 ---
-title: Viimase kohapealse Exchange ' i serveri eemaldamine
+title: Viimase asutusesisese serveri Exchange eemaldamine
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 77dcc8d5396807f581c96ed79321a24ffe929d66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4980f3089305ce589cc8b205fe073c0d1328cdf289d18a15669c081e0ab4aa5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110721"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>Viimase kohapealse Exchange ' i serveri eemaldamine
+# <a name="removing-the-last-on-premises-exchange-server"></a>Viimase asutusesisese serveri Exchange eemaldamine
 
-Enne viimase Exchange ' i serveri eemaldamist kohapealsest organisatsioonist peaksite veenduma, et te mõistate selle tagajärgi, et saaksite otsustada, kas teil on vaja, et viimane server oleks mõnel muul otstarbel. Lisateavet leiate teemast [asutusesisese Exchange ' i serverite sulgemiseks hübriidi juurutuses](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+Enne viimase serveri eemaldamist Exchange asutusest peaksite veenduma, et mõistate selle mõju, mis aitab teil otsustada, kas vajate seda viimast serverit mis tahes muul otstarbel. Lisateavet leiate teemast Kuidas [ja millal](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)Exchange hübriidjuurutuses.
   

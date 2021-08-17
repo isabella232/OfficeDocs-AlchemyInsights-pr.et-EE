@@ -1,5 +1,5 @@
 ---
-title: Koopia komplekt
+title: Koopiakomplekt
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50713747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110676"
 ---
-# <a name="replica-set"></a>Koopia komplekt
+# <a name="replica-set"></a>Koopiakomplekt
 
-AADDS nimetatakse ka hallatavaks domeeniks. See on tegelikult kaks domeenikontrollerit, mida tagaserveris käitab ja hooldab. Kaks DCs sisaldavad ühte peamist DC-d ja ühte replikatsiooni DC-d. Varundid AADDS (hallatav Domeen) on Azure ' i platvormi hallatav automatiseeritud protsess. Kui probleem on teie hallatavas domeenis, aitab Azure ' i tugi teil taastada varukoopia põhjal.
+AADDS-i nimetatakse ka hallatavaks domeeniks. See on tegelikult kaks domeenikontrollerit, mida käitab ja haldab tagaprogramm. Kaks DCS-i sisaldavad ühte peamist DC-d ja ühte tiražeerimise DC-d. AADDS-i (hallatava domeeni) varukoopiad on Azure'i platvormi hallatav automaatne protsess. Hallatava domeeniga seotud probleemi korral aitab Azure'i tugi teil varukoopiast taastada.
 
-Loote iga koopia virtuaalses võrgus. Iga virtuaalne võrk peab olema ühendatud kõigi muude virtuaalsete võrkudega, mis majutavad hallatava domeeni koopia komplekti. Selle konfiguratsiooniga luuakse võrgusilma võrgu topoloogia, mis toetab kataloogi replikatsiooni. Virtual Network saab toetada mitut koopia komplekti, kui iga koopia komplekt on mõnes muus virtuaalses alamvõrgus.
+Iga koopiakomplekti saate luua virtuaalvõrgus. Iga virtuaalvõrk peab olema võrdõigusvõrguga igas teises virtuaalvõrgus, mis majutab hallatava domeeni koopiakomplekti. Selle konfiguratsiooniga luuakse võrgu topoloogia, mis toetab kataloogi paljundust. Virtuaalvõrk saab toetada mitut koopiakomplekti, eeldusel et iga koopiakomplekt asub teises virtuaalses alamvõrgus.
 
-Lisateavet koopiakomplekti kohta leiate teemast [Concepts replica komplektid](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).
+Lisateavet koopiakomplekti kohta leiate teemast [Mõistete koopiakomplektid.](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)

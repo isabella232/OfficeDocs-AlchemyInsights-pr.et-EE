@@ -1,5 +1,5 @@
 ---
-title: Failide ja kaustade ühiskasutuse aruanne SharePointi saitidel
+title: Failide ja kaustade ühiskasutuse aruanne SharePoint saitidel
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: ccf53ac09e6f5ad5bc48dcd8b31fb27b3a7c7b95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a4c2b4aedaa0ac88262e6c4f0c91af952441b6904971eabf774c2a8b7b58042
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110640"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Failide ja kaustade ühiskasutuse aruanne SharePointi saitidel
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Failide ja kaustade ühiskasutuse aruanne SharePoint saitidel
 
-Saate luua CSV-faili, mis sisaldab iga kordumatut faili, kasutajat, õigusi ja linki antud SharePointi saidil või OneDrive'i teegis. See aitab teil mõista, kuidas ühiskasutust kasutatakse ja kas faile või kaustu jagatakse külalistega.
+Saate luua CSV-faili, mis sisaldab iga kordumatut faili, kasutajat, õigusi ja linki antud SharePoint või OneDrive teegis. See aitab teil mõista, kuidas ühiskasutust kasutatakse ja kas faile või kaustu on ühiskasutusse antud ka külalistele.
 
-Lisateavet leiate teemast [SharePointi saidi failide ja kaustade ühiskasutusest teatamine.](https://docs.microsoft.com/sharepoint/sharing-reports)
+Lisateavet leiate teemast [Faili- ja kausta ühiskasutusest teatamine SharePoint saidil.](https://docs.microsoft.com/sharepoint/sharing-reports)
 
 > [!NOTE]
 > See funktsioon on praegu juurutatud esma väljaande rentnikele ja järk-järgult kasutusele võetakse kõik tootmis rentnikud.
