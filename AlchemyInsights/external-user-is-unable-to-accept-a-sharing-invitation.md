@@ -1,5 +1,5 @@
 ---
-title: Väline kasutaja ei saa ühiskasutuse kutset aktsepteerida
+title: Väline kasutaja ei saa ühiskasutuskutset aktsepteerida
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 44980fd6f0667160082e57084e810ca8ebe7ae7875a5df873f7a367629924cc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043616"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Väline kasutaja ei saa ühiskasutuse kutset aktsepteerida
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Väline kasutaja ei saa ühiskasutuskutset aktsepteerida
 
-Kui väline kasutaja ei saa aktsepteerida SharePointi või OneDrive ' i ühiskasutuse kutset, proovige külastada allolevaid linke. 
+Kui väline kasutaja ei saa aktsepteerida SharePoint või OneDrive, proovige külastada järgmisi linke. 
 
-- [SharePoint Online ' i ja OneDrive for Businessi tõrked on "juurdepääs keelatud", "teil on vaja õigusi sellele saidile juurdepääsuks" või "kasutajat ei leitud kataloogist".](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [SharePoint Online ' is või OneDrive for Businessis üksuse või saidi ühiskasutusse andmisel kuvatakse tõrketeade "teie asutuse poliitika ei võimalda neid kasutajaid ühiskasutusse anda"](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Ühiskasutuse suvandid on SharePoint Online ' i või OneDrive ' i ühiskasutuse korral hallid](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Tõrketeade, kui väline kasutaja aktsepteerib SharePoint Online ' i kutset mõne muu konto kaudu](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [OSE ühiskasutuse tõrked rakenduses SharePoint ja OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Tõrked "Juurdepääs keelatud", "Teil on vaja sellele saidile juurdepääsu õigust" või "Kasutajat ei leitud kataloogist" SharePoint Online'is ja OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [Tõrge "Teie asutuse poliitikad ei luba teil neid kasutajaid ühiskasutusse anda" üksuse või saidi ühiskasutusel SharePoint Online'is või OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Ühiskasutussuvandid on võrgust või veebist ühiskasutuse SharePoint tuhm OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Tõrketeade, kui väline kasutaja aktsepteerib SharePoint Online'i kutset mõne muu konto abil](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [OSE ühiskasutustõrked SharePoint ja OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

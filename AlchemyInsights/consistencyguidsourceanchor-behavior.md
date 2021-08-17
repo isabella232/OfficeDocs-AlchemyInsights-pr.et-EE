@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: eafe1ec9636cddc9d73a88beb7ae3ad9f6fad660
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9b5765ff3c59b1312bead41a45a53478a96260df0567f006ab93c3ccfaf4be64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044336"
 ---
 # <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor behavior
 
-Azure AD Connect (versioon 1.1.524.0 ja pärast seda) hõlbustab nüüd msDS-ConsistencyGuidi kasutamist atribuudi sourceAnchorna. Selle funktsiooni kasutamisel konfigureerib Azure AD Connect sünkroonimisreeglid automaatselt:
+Azure AD Ühendus (versioon 1.1.524.0 ja pärast) hõlbustab nüüd msDS-ConsistencyGuidi kasutamist atribuudi sourceAnchorna. Selle funktsiooni kasutamisel konfigureerib Azure AD Ühendus sünkroonimisreeglid automaatselt:
   
 - Kasutage atribuuti msDS-ConsistencyGuid user-objektide atribuudina sourceAnchor. ObjectGUID-d kasutatakse muude objektitüüpide jaoks.
     
-- Mis tahes asutusesisese AD-kasutaja objekti puhul, mille atribuut msDS-ConsistencyGuid pole asustatud, kirjutab Azure AD Connect oma objektiGUID-väärtuse tagasi asutusesisese Active Directory atribuudile msDS-ConsistencyGuid. Kui atribuut msDS-ConsistencyGuid on asustatud, ekspordib Azure AD Connect objekti Azure AD-sse.
+- Azure AD Ühendus kirjutab iga asutusesisese AD kasutaja objekti, mille atribuut msDS-ConsistencyGuid pole asustatud, tagasi asutusesisese Active Directory atribuudile msDS-ConsistencyGuid. Kui atribuut msDS-ConsistencyGuid on asustatud, ekspordib Azure AD Ühendus objekti Azure AD-sse.
     
- **Märkus.** Kui kohapealne AD-objekt on azure AD Connecti imporditud (st imporditud AD Connectori ruumi ja prognoositud metaversumisse), ei saa te selle sourceAnchori väärtust enam muuta. Antud asutusesisese AD-objekti atribuudi sourceAnchor määramiseks konfigureerige selle atribuut msDS-ConsistencyGuid enne selle importimist Azure AD Connecti. 
+ **Märkus.** Kui kohapealne AD-objekt on imporditud Azure AD Ühendus (st imporditud AD Connectori ruumi ja prognoositud metaversumisse), ei saa te selle sourceAnchori väärtust enam muuta. Antud asutusesisese AD-objekti atribuudi sourceAnchor määramiseks konfigureerige selle atribuut msDS-ConsistencyGuid enne selle importimist Azure AD Ühendus. 
   
-Lisateavet SourceAnchori ja ConsistencyGuid kohta leiate järgmistest artiklitest: [Azure AD Connect: Design concepts](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Lisateavet SourceAnchori ja ConsistencyGuid kohta leiate järgmistest artiklitest: [Azure AD Ühendus: Design concepts](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

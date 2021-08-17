@@ -1,5 +1,5 @@
 ---
-title: Tõrkekood 550 5.7.705 juurdepääs on keelatud, Rentnik on ületanud künnise
+title: Tõrkekood 550 5.7.705 Juurdepääs keelatud, rentnik on ületanud läve
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044192"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 juurdepääs on keelatud, Rentnik on ületanud künnise
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Juurdepääs keelatud, rentnik on ületanud läve
 
-See teade ilmneb siis, kui teie asutus on saatnud liiga palju rämpsposti või lahtise meili ja paneme ploki väljaminevatele meilisõnumitele.
-Levinud põhjused on ohustatud kohapealsed serverid või ohustatud administraatori kontod, mida on kasutatud konnektorite loomiseks. Mõlema tingimuse abil saab rämpsposti teie ettevõtte kaudu edasi anda.
+See teade kuvatakse siis, kui teie asutus on saatnud liiga palju rämpsposti või hulgimeili ja paigutame väljaminevatele meilisõnumitele ploki.
+Levinumad põhjused on ohustatud asutusesisesed serverid või ohustatud administraatorikontod, mida on kasutatud konnektorite loomiseks. Mõlemad tingimused võimaldavad rämpspostil teie asutuses läbida.
 
-Selle ploki eemaldamiseks peate mõistma ja selgitama põhjust tugiteenuse agendile ning parandama põhiprobleemi.
-Kui olete valmis, klõpsake nuppu **Võta meiega ühendust** .
+Selle ploki eemaldamiseks peate mõistma ja selgitama tugiagendile põhjusi ning lahendama selle aluseks oleva probleemi.
+Kui **olete valmis,** klõpsake allpool linki Võtke meiega ühendust.
