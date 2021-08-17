@@ -1,5 +1,5 @@
 ---
-title: Juurdepääsu blokeerimine meilisõnumitele
+title: Meilisõnumitele juurdepääsu blokeerimine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003890"
 - "6944"
-ms.openlocfilehash: 06079800fee6ce3fb47a1e56c9f4429805d061e2
-ms.sourcegitcommit: 72536a4cf4b84235d3a16ffdd428a92f38dd5e87
+ms.openlocfilehash: 851fc0dea7adf9d5befcf29c3d0e34943e322fcdd35d32c22fd7d2c49a7eed0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49677715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060024"
 ---
-# <a name="block-access-to-email"></a>Juurdepääsu blokeerimine meilisõnumitele
+# <a name="block-access-to-email"></a>Meilisõnumitele juurdepääsu blokeerimine
 
-Kui soovite blokeerida endiste töötajate juurdepääsu meilikontodele Microsoft 365, tehke järgmist.
+Kui soovite takistada endistel töötajatel oma meilikontodele juurdepääsu Microsoft 365, tehke järgmist.
 
-1. Avage [Exchange ' i halduskeskus](https://go.microsoft.com/fwlink/?linkid=2138629).
-1. Klõpsake jaotises **adressaadid** nuppu **postkastid**.
-1. Topeltklõpsake kasutaja kuvatavat nime ja seejärel klõpsake käsku **postkasti funktsioonid**.
-1. Valige jaotises **mobiilsideseadmed** käsk **Keela Exchange ActiveSync** ja vastake **Jah** ning seejärel valige **Keela OWA for Devices** ja vasta **jaatavalt**.
-1. Klõpsake jaotises **e-posti Ühenduvus** nuppu **Keela** ja vasta **jaatavalt**.
+1. Avage [Exchange halduskeskus](https://go.microsoft.com/fwlink/?linkid=2138629).
+1. Klõpsake **jaotises Adressaadid** **nuppu Postkastid.**
+1. Topeltklõpsake kasutaja kuvatavat nime ja seejärel klõpsake nuppu **Postkastifunktsioonid.**
+1. Valige **jaotises Mobiilsideseadmed** **käsk Keela Exchange ActiveSync ja** vasta jah ja seejärel valige Keela **OWA seadmete jaoks ja** vasta **jah**. 
+1. Valige **jaotises Meiliühendus** käsk **Keela ja** vasta **jah**.
 1. Klõpsake nuppu **Salvesta**.

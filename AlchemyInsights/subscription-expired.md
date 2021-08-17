@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009172"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891895"
 ---
 # <a name="subscription-expired"></a>Tellimus on aegunud
 
@@ -35,7 +35,7 @@ Kui teie tellimus on aegunud või Microsoft on selle keelanud või kui te tühis
 3. Valige **paanil Aktiveeri** see tellimus uuesti ripploendist soovitud makseviis või valige **Lisa makseviis**.
 4. Valige **Salvesta**.
 
-Lisateavet leiate artiklist [Tellimuse uuesti aktiveerimine](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Lisateavet leiate artiklist [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Tellimuse uuendamise haldamine**
 
@@ -47,4 +47,4 @@ Kuu- või aastapõhise arveldamise haldamiseks saate suvandi Korduv arveldamine 
 4. Valige **paanil Korduvate** arveldussätete redigeerimine suvand **Sees**, **Sees, kuid pikendage üks kord** või **Lülita välja**.
 5. Valige **Salvesta**.
 
-Lisateavet vt teemast [Korduva arveldamise sisse- või väljalülitamine](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Lisateavet vt teemast [Korduva arveldamise sisse- või väljalülitamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

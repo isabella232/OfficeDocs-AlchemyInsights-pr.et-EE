@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 73fb170bec3692c0631a6c2df3e9a77b4b1e2f820ddcde3ed46cfe283ef3ba74
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918427"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891751"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Imporditeenus
 
@@ -31,11 +31,11 @@ Imporditeenusele juurdepääsemiseks ja impordiprotsessi alustamiseks:
 
 1. Klõpsake **lehel Import** nuppu **Uus imporditöö.** Sisestage töö nimi ja valige **Edasi**.
 
-1. Valige **Upload oma andmed,** et kasutada valiku Impordi töö tüüp jaoks võrgu **üleslaadimissuvandeid.** Üksikasjalikud juhised leiate teemast Võrgu üleslaadimise kasutamine ettevõtte [PST-failide importimiseks Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
+1. Valige **Upload oma andmed,** et kasutada valiku Impordi töö tüüp jaoks võrgu **üleslaadimissuvandeid.** Üksikasjalikud juhised leiate teemast Võrgu üleslaadimise kasutamine ettevõtte [PST-failide importimiseks Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
 
-**Impordilehele juurdepääsuks** veenduge, et teile oleks määratud vastavad õigused. Lisateavet leiate teemast [Pst-failide importimiseks võrgu üleslaadimise kasutamine.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
+**Impordilehele juurdepääsuks** veenduge, et teile oleks määratud vastavad õigused. Lisateavet leiate teemast [Pst-failide importimiseks võrgu üleslaadimise kasutamine.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Kui soovite PST-faili oma postkasti importida, lugege teemat Meilisõnumite, kontaktide ja kalendri [importimine pst Outlook-failist.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+Kui soovite PST-faili oma postkasti importida, lugege teemat Meilisõnumite, kontaktide ja kalendri [importimine Outlook PST-failist.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
 
-Kui teil on impordiga probleeme, lugege teemat [PST-imporditöid mõjutavad probleemid.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Kui teil on impordiga probleeme, lugege teemat [PST-imporditöid mõjutavad probleemid.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 

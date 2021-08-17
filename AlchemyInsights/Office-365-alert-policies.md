@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918355"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891675"
 ---
 # <a name="alert-policies"></a>Teatisepoliitikad
 
-Vastavuskeskuse Microsoft 365 turbekeskus & vaikehoiatuspoliitikaid, mis käivitavad teatised organisatsioonidele, kellel Office 365 Enterprise või Office 365 USA valitsus E1/G1, E3/G3 või E5/G5 tellimus. [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Seetõttu võivad administraatorid saada teatise meiliteatise, mille Office365Alerts@microsoft.com saata teemareaga (nt "Väikese raskusega teatis: *teatisepoliitika nimi)."* Teatiseteatised saadetakse siis, kui levinumate tegevuste kohta käivitatakse teatised( nt kui kasutajad:
+Microsoft 365 sisaldab [vaiketeatisepoliitikaid,](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) mis käivitavad teatised Microsoft 365 Enterprise või Microsoft 365 usa valitsuse E1/G1, E3/G3 või E5/G5 tellimusega. Seetõttu võivad administraatorid saada teatise meiliteatise, mille Office365Alerts@microsoft.com saata teemareaga (nt "Väikese raskusega teatis: *teatisepoliitika nimi)."* Teatiseteatised saadetakse siis, kui levinumate tegevuste kohta käivitatakse teatised( nt kui kasutajad:
 
 - Looge sisendkaustareeglid, mis edastab meilisõnumeid.
 - Määrake nende postkastile õigused.
@@ -31,11 +31,12 @@ Vastavuskeskuse Microsoft 365 turbekeskus & vaikehoiatuspoliitikaid, mis käivit
 
 Teatise läbivaatamiseks ja selle kohta tegutsemine
 
-1. Avage [turbekontrolli & ja](https://protection.office.com) logige sisse.
-2. Klõpsake **nuppu**  >  **Teatisevaate teatised.**
-3. Teatise teabega hüpiklehe kuvamiseks klõpsake teatist.
+1. Tehke ühte järgmistest toimingutest.
+   - Avage Microsoft 365 vastavuskeskus <https://compliance.microsoft.com> **teatised**. Või otse lehele Teatised **minemiseks** kasutage funktsiooni <https://compliance.microsoft.com/compliancealerts> .
+   - Avage Microsoft 365 Defender portaal <https://security.microsoft.com> Intsidentide ja **&** \> **teatised**. Või otse lehele Teatised **minemiseks** kasutage funktsiooni <https://security.microsoft.com/alerts> .
+2. Teatise teabega hüpiklehe kuvamiseks klõpsake teatist.
 
-Saate teatisega midagi ette võtta (nt [eemaldada kahtlase sisendkausta reegli).](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Samuti võite teatise lihtsalt sulgeda, klõpsates **teatise** hüpiklehel nuppu Lahenda.
+Saate teatisega midagi ette võtta (nt [eemaldada kahtlase sisendkausta reegli).](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Samuti saate teatise lihtsalt sulgeda, klõpsates **teatise** hüpiklehel nuppu Lahenda.
 
 Lisateavet teatisepoliitikate konfigureerimise ja haldamise kohta leiate [sellest artiklist.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
@@ -45,4 +46,4 @@ Lisateavet teatisepoliitikate konfigureerimise ja haldamise kohta leiate [selles
 - Konto turbe üksikasjade kontrollimine
 - Autentige ennast uuesti
 
-Kui teile kuvatakse selline meilisõnum, ei saatnud Seda Microsoft ja seda tuleks käsitleda andmepüügipettusena. Sellisel juhul teatage [sellest Microsoftile.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)
+Kui saate seda tüüpi päringutega meilisõnumi, ei saatnud Microsoft seda ja seda tuleks käsitleda andmepüügipettusena. Kui saate seda tüüpi päringutega sõnumi, [teatage sellest Microsoftile.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)

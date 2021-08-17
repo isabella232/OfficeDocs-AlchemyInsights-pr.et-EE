@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51404599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082938"
 ---
 # <a name="authentication-app"></a>Autentimisrakendus
 
@@ -30,11 +30,11 @@ Kui olete üldadministraator, saate sisselogimisdiagnostika abil kiiresti teada 
 
 **Kontrollige, mis on rakendatav.**
 
-1. Kui kasutaja ei saa rakenduses Microsoft Authenticator tõuketeatist, veenduge, et neid ei kuvata MFA blokeeritud kasutajate all, nagu on kirjeldatud jaotises Kasutajate [blokeerimine ja blokeeringu blokeerimine.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
-1. Kui kasutaja ei blokeeri MFA-d, kuid ei saa tõuketeatist, saab ta avada Rakenduse Microsoft Authenticator, mis võtab ootel kinnitamise taotlused.
+1. Kui kasutaja ei saa rakenduses Microsoft Authenticator tõuketeatist, veenduge, et neid ei kuvata MFA blokeeritud kasutajate all, nagu on kirjeldatud jaotises Kasutajate [blokeerimine ja blokeeringu tühistamise keelamine.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Kui kasutaja ei blokeeri MFA-d, kuid ei saa tõuketeatist, saab ta avada Microsoft Authenticator, mis võtab ootel kinnitamise taotlused.
 1. Alternatiivse sisselogimisviisina saab kasutaja klõpsata ka nuppu Logi sisse muul viisil ja valida mobiilirakenduse kinnituskoodi.
-1. Microsoft Authenticatori rakendus on ainus saadaval meetod paljude kasutajate jaoks. [Lugege lisateavet turbe vaikesätete kohta,](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)vaadake [korduma kippuvate](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) küsimuste ja nende lahendamise kohta authenticatori rakenduse KKK-d.
+1. Rakendus Microsoft Authenticator on paljude kasutajate jaoks ainus saadav meetod. [Lugege lisateavet turbe vaikesätete kohta,](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) [Authenticator korduma kippuvate](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) küsimuste ja nende lahendamise kohta leiate teavet rakenduse KKK-st.
  
 **Soovitatavad videod**
 
-[Authenticatori rakenduse häälestamine uues telefonis (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)
+Rakenduse Authenticator telefonis [(2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)

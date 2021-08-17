@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defenderi for Office 365 levinumate probleemide lahendamine
+title: Microsoft Defenderi levinumate probleemide lahendamine Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746830"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898240"
 ---
-# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Microsoft Defenderi for Office 365 levinumate probleemide lahendamine
+# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Microsoft Defenderi levinumate probleemide lahendamine Office 365
 
-Siin on mõned lahendused levinud probleemidele Microsoft Defenderi Office 365 jaoks.
+Siin on mõned lahendused levinud probleemidele Microsoft Defenderi Office 365.
 
-- **Sõnumi viivitus:** Kui teil on probleeme sõnumi kohaletoimetamisega, soovite kasutada turvaliste manuste poliitikas **dünaamilisi kohaletoimetamise** suvandeid. Lisateavet leiate teemast [dünaamilised tarned turvaliste manuste poliitikas](https://go.microsoft.com/fwlink/?linkid=2094106).
-- **Valede positiivsete või negatiivsete tulemite teatamine.** Teavitage sõnumit Microsoftile selle lingi kaudu: [Microsoft Defenderi tagasiside portaal](https://go.microsoft.com/fwlink/?linkid=2092835).
-- **Turvaliste linkide kaitse lubamine.**
-    1. Logige sisse [Office 365 turbe & nõuetele vastavuse keskuses](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-    2. Valige **ohustatud halduse**  >  **poliitika**  >  **Turvalised lingid.**
-    3. Avage poliitika, **mis rakendub kindlatele adressaatidele**, ja avage konfigureeritud poliitika.
-    4. Valige jaotises **sätted** **organisatsioonis saadetud sõnumitele nupp Rakenda turvalised lingid**.
+- **Sõnumi viivitus:**
+
+  Meilisõnumite kohaletoimetamise viivitused võivad olla seif manuste skannimine. Lisateavet leiate teemast [seif Manuste poliitikasätted](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings).
+
+- **Väärpositiivsetest või negatiivsetest tulemustest teatamine**
+
+  Lisateavet leiate teemast [Sõnumitest ja failidest teatamine Microsoftile.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
+
+- **Luba seif linkide kaitse:**
+
+  1. Avage Microsoft 365 Defender portaal jaotises Poliitikad <https://security.microsoft.com/> **& Meilipoliitikad** & Reeglid \>  \>  \> **ohupoliitikad seif** **Lingid.**
+
+     Otse lehele Lingid **seif kasutage** . <https://security.microsoft.com/safelinksv2>
+
+  2. Valige **seif** linkide lehel poliitika, klõpsates poliitika nime.
+  3. Tehke kuvatavas üksikasja hüpikmenüüs ühte järgmistest toimingutest.
+     - Uue poliitika lisamiseks valige **+ Loo**. Poliitikasätete määratlemiseks käivitatakse viisard.
+     - Olemasoleva poliitika redigeerimiseks valige poliitika, klõpsates poliitika nime. Klõpsake kuvatavas üksikasja hüpikmenüüs **jaotises Kaitsesätted** **nuppu** Redigeeri.
+  4. Konfigureerige **lehel** Kaitsesätted järgmised sätted.
+     - Lülitage **sisse suvand Valige sõnumites tundmatute potentsiaalselt pahatahtlike URL-ide jaoks toiming.**
+     - Valige **Rakenda ettevõttes saadetud sõnumitele turvalised lingid.**
+
+  Lisateavet leiate teemast Microsoft [Defenderi seif linkide poliitikate](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)Office 365 .

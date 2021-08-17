@@ -13,23 +13,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 4f8007bd8ccb4666260c75fdca15dd0b14eb4e96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7991f83a0b4791eaa7eb3246f7e61f781e4c7430931fbf920d7fd9e44c018d13
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083226"
 ---
 # <a name="winsock-error-10061"></a>Winsocki tõrge 10061
 
-See tõrkekood tähendab seda, et Microsoft ei suutnud luua Target hostiga TCP-liidest (ühendust). Selle tõrke kõige tõenäolisem põhjus on probleem tulemüüri konfiguratsiooniga. Probleemi lahendamiseks vaadake järgmisi sätteid.
+See tõrkekood tähendab, et Microsoft ei saanud sihthostiga TCP-soklit (ühendust) luua. Selle tõrke kõige tõenäolisem põhjus on probleem tulemüüri konfiguratsioonis. Probleemi lahendamiseks kontrollige järgmisi sätteid.
 
-- Tulemüüri konfiguratsiooni kinnitamine [Microsoft 365 URL-ide ja IP-aadresside vahemikega](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) seotud teabega
+- Kontrollige tulemüüri konfiguratsiooni Microsoft 365 [URL-ide ja IP-aadresside vahemike teabega](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Kui tõrkeks on Exchange Online ' i kaitse (EOP), oleks pidanud eelnevalt olema teatatud [Exchange Online ' i kaitse IP-aadresside](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)muutmisest.
+- Kui tõrge on seotud Exchange Online'i kaitseteenus (EOP), oleks teid eelnevalt pidanud Exchange Online'i kaitseteenus [muudatusest.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
 - Veenduge, et teie Interneti-teenuse pakkuja (ISP) ei blokeeriks porti.
 
-- Kontrollige, kas konnektorid on nutikad Host ja Target serveri sätted.
+- Veenduge, et teie konnektorites on nutika hosti ja sihtserveri sätted.
 
-Pange tähele, et Microsoft 365 ei blokeeri sel viisil *sissetulevaid* ühendusi.
+Arvestage, Microsoft 365 ei blokeeri *sissetulevaid* ühendusi sel viisil.

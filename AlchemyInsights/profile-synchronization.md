@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a841db70c238bdae58edfca634fe49a04ddce78a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53923640"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320705"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Millal sünkroonitakse minu profiilimuudatused SharePoint kasutajaprofiili rakendusega?
 
@@ -24,9 +24,8 @@ SharePoint Online kasutab Active Directory impordi ajastitööd (AD Import) kasu
     
 2. Ajastitöö käivitub seni, kuni muudatused sünkroonitakse.
     
-> [!NOTE]
-> Töö käivitamiseks kulub aega sõltuvalt töödeldav muudatuste arvust. Suur hulk muudatusi võtab kauem aega. Teenusetaseme lepingus (SLA) on sätestatud, et SharePoint Online'i kataloogi kasutaja muudatus kajastub kasutajaprofiili rakenduses 24 tunni pärast. 
+**Märkus.** Töö käivitamiseks kulub aega sõltuvalt protsessis tehtud muudatuste arvust. Suur hulk muudatusi võtab kauem aega. Teenusetaseme lepingus (SLA) on sätestatud, et SharePoint Online Directory kasutaja muudatus kajastub kasutajaprofiili rakenduses 24 tunni pärast. 
   
-[Lisateave kasutajaprofiili sünkroonimise kohta SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Lisateave kasutajaprofiili sünkroonimise kohta SharePoint Online'is](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

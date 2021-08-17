@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026218"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892043"
 ---
-# <a name="missing-emails-in-quarantine"></a>Karantiinis puuduvad meilisõnumid"
+# <a name="missing-emails-in-quarantine"></a>Karantiinis puuduvad meilisõnumid
 
-Administraatorid saavad [neid sõnumeid vaadata, vabastada või kustutada.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+Administraatorid saavad [neid sõnumeid vaadata, vabastada või kustutada](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-Turbe- & avamiseks avage [https://protection.office.com](https://protection.office.com/) . Karantiinilehe otse avamiseks avage [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+Avage Microsoft 365 Defender portaalis <https://security.microsoft.com> Läbivaatus karantiini  \> . Või otse karantiini lehele **minemiseks** kasutage funktsiooni <https://security.microsoft.com/quarantine> .  
 
-Saate otsida järgmiste väärtuste järgi.  
-
-- **Sõnumi ID:** sõnumi globaalne ainuidentifikaator. Kui valite loendist sõnumi, kuvatakse kuvataval hüpikpaanil **Üksikasjad** väärtus Sõnumi **ID.** Administraatorid saavad [sõnumijälitus abil](/microsoft-365/security/office-365-security/message-trace-scc) otsida sõnumeid ja neile vastavaid sõnumi ID väärtusi.
-- **Saatja meiliaadress:** ühe saatja meiliaadress.
-- **Adressaadi meiliaadress:** ühe adressaadi meiliaadress.
-- **Teema:** kasutage kogu sõnumi teemat. Otsing pole stiotsingutundlik.
-
-Kui olete otsingukriteeriumid sisestanud, klõpsake ![ tulemite ](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **filtreerimiseks** nuppu Värskenda.
+Lisateavet nende otsingu-/filtriväärtuste kohta, mida saate kasutada, leiate teemast Karantiinis sõnumite [ja failide haldamine EOP administraatorina.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
 Cmdlet-käsud, mida kasutate sõnumite ja failide karantiinis kuvamiseks ja haldamiseks, on järgmised.
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Ekspordi-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage](/powershell/module/exchange/preview-quarantinemessage): Pange tähele, et see cmdlet-käsk on ainult sõnumite, mitte Microsoft Defenderi ründevarafailide Office 365 jaoks SharePoint Online'i, OneDrive for Business või Teams.
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Ekspordi-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Pange tähele, et see cmdlet-käsk on ainult sõnumite jaoks, mitte seif-i SharePoint, OneDrive või Microsoft Teams.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
