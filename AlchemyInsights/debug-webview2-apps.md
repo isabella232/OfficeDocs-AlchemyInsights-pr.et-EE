@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "11941"
 - "9007100"
-ms.openlocfilehash: f16a13eca800044fa0e6a40e3f085a21196e625d00f7898cdc0f5a20a218b170
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d33c4cf06e6812bca2d02122fad429c82f54dc47f9147e13cc57c7b1bff689f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57813921"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892735"
 ---
 # <a name="debug-webview2-apps"></a>Veebirakenduste WebView2 silumine
 
-Veebirakenduse WebView2 arendamisel siluge kindlasti oma rakendus. Lisateavet veebirakenduses WebView2 nii veebi- kui ka kohaliku koodi silumise tööriistade kohta leiate teemast [WebView2 rakenduste silumise alustamine.](/microsoft-edge/webview2/how-to/debug)
+Veebirakenduse WebView2 arendamisel siluge kindlasti oma rakendus. Lisateavet veebirakenduses WebView2 nii veebi- kui ka kohaliku koodi silumise tööriistade kohta leiate teemast [WebView2 rakenduste silumise alustamine.](https://docs.microsoft.com/microsoft-edge/webview2/how-to/debug)

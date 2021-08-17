@@ -1,5 +1,5 @@
 ---
-title: SAML kinnitused (märked)
+title: SAML-i kinnitused (märgid)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7753"
-ms.openlocfilehash: 557e23da09df3ab066c2ad7c0352f5fd904b5490
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: 9c8ff0d4ff6da98ed6a5c42570d4a5fac80b00e93d1356b298528bd8d2c51a5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109236"
 ---
-# <a name="saml-assertions-tokens"></a>SAML kinnitused (märked)
+# <a name="saml-assertions-tokens"></a>SAML-i kinnitused (märgid)
 
-1. Turbe kinnitused märgistuskeel (SAML) märgid on nõuete XML-esitus. Vaikimisi väljastatakse SAML märgid Windowsi teatise Sihtasutus (WCF) välise turvalisuse stsenaariumid. Lisateavet leiate teemast [SAML märgid ja nõuded](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims).
-2. Microsoft Identity Platform eraldab iga autentimise voo töötlemiseks mitu tüüpi turbelubade. [SAML sümboolne nõuete viide](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) kirjeldab vormingut, turbe omadusi ja SAML 2,0 märkide sisu.
-3. Kui soovite teada, kuidas konfigureerida turbelubade eluiga, järgige juhiseid [Microsoft Identity Platformi konfigureeritav turbelubade eluajal](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) .
-4. Järgige [selles artiklis](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) kirjeldatud juhiseid, et saada teada, kuidas KONFIGUREERIDA AZURE ad SAML turbelubade krüptimist.
-5. Rakenduses Azure AD saate häälestada serdi allkirjastamise suvandeid ja serdi allkirjastamise algoritmi. Lisateavet leiate teemast [Täpsemad serdi allkirjastamise suvandid rakenduses Azure Active Directory rakenduse Galerii rakenduste SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
+1. Turbe kinnituste märgistuskeel (SAML- id) on nõuete XML-i esitused. Vaikimisi väljastatakse SAML-i Windows (WCF) kasutab välise turbestsenaariumi puhul tõendeid. Lisateavet leiate teemast [SAML-i tõend ja nõuded.](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims)
+2. See Microsofti identimisplatvorm iga autentimisvoo töötlemisel mitut tüüpi turbetõendeid. [SAML-i loataotluste viide](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) kirjeldab SAML 2.0 märkide vormingut, turbeomadusi ja sisu.
+3. Märkide kasutusaja [konfigureerimiseks](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) järgige Microsofti identimisplatvorm juhiseid.
+4. Azure AD SAML-i loa krüptimise konfigureerimiseks järgige selles artiklis kirjeldatud juhiseid. [](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption)
+5. Azure AD-s saate häälestada serdi allkirjastamise suvandid ja serdi allkirjastamise algoritmi. Lisateavet leiate teemast [Täpsemad serdi allkirjastamise suvandid jaotises SAML-i](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)luba galeriirakenduste jaoks Azure Active Directory .

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918463"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312755"
 ---
 # <a name="frequent-excel-crashes"></a>Sagedased Excel krahhid?
 
@@ -28,8 +28,7 @@ Sagedased Excel võib põhjustada vigane lisandmoodul. Saate keelata Excel lisan
 
 3. Tühjendage Add-Ins ruut selle lisandmooduli kõrval, mille soovite keelata, ja seejärel klõpsake nuppu **OK**.
 
-> [!NOTE]
-> Kui Excel käivitumisel jookseb kokku, käivitage see seif vajutades ja hoides programmi käivitamisel all juhtklahvi (Ctrl).
+**Märkus.** Kui Excel käivitumisel jookseb kokku, käivitage see seif ja hoidke programmi käivitamisel all juhtklahvi (Ctrl).
   
 Kui teil on endiselt probleeme, lugege järgmisi artikleid.
   

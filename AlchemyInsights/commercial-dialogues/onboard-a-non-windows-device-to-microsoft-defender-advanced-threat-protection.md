@@ -1,5 +1,5 @@
 ---
-title: Mitte-Windowsi seadmes Microsoft Defenderi täiustatud ohu kaitse (MDATP)
+title: Seadmes, mis pole Windows microsoft Defenderi täiustatud ohutõrje (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de230abdc56d32780e70e5ae1bf95ac45e9252cc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 228fe6a4514df4508dda7f7fbdfa650a439b38ef51abafa7936afa4ecfd54e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081858"
 ---
-# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Mitte-Windowsi seadmes Microsoft Defenderi täiustatud ohu kaitse (MDATP)
+# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Seadmes, mis pole Windows microsoft Defenderi täiustatud ohutõrje (MDATP)
 
-Tehke kindlaks, kas seadme Linuxi distributsiooni või macOS-i versioon ühildub MDATP.
+Tehke kindlaks, kas seadme Linuxi distributsioon või macOS-i versioon ühildub MDATP-ga.
 
-- [Linuxi seadmetele esitatavad nõuded](https://go.microsoft.com/fwlink/?linkid=2143462)
+- [Nõuded Linuxi seadmetele](https://go.microsoft.com/fwlink/?linkid=2143462)
 - [Nõuded macOS-i seadmetele](https://go.microsoft.com/fwlink/?linkid=2143461)
-- [Mitte-Windowsi seadmete pardal](https://go.microsoft.com/fwlink/?linkid=2143628)
+- [Mitte-Windows seadmed](https://go.microsoft.com/fwlink/?linkid=2143628)

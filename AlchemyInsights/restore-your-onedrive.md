@@ -1,5 +1,5 @@
 ---
-title: OneDrive ' i taastamine
+title: Taastage OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801288"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109344"
 ---
-# <a name="restore-your-onedrive"></a>OneDrive ' i taastamine
+# <a name="restore-your-onedrive"></a>Taastage OneDrive
 
-Kui palju teie OneDrive ' i faile saab kustutada, overwritted, rikutud või ründevaraga nakatatud, saate kogu OneDrive ' i taastada viimase 30 päeva jooksul eelmiseks ajaks.
+Kui paljud teie OneDrive kustutatakse, kirjutatakse üle, rikutakse või nakatatakse ründevaraga, saate taastada kogu OneDrive viimase 30 päeva jooksul eelmisele ajale.
   
-1. Avage oma OneDrive oma veebibrauseris.
+1. Avage oma OneDrive veebibrauseris.
     
-2. Klõpsake paremas ülanurgas ikooni sätted ja seejärel valige **Taasta OneDrive**.
+2. Klõpsake Sätted paremas ülanurgas ikooni ja seejärel valige **Taasta OneDrive**.
     
-3. Valige loendist soovitud kuupäev või valige **kohandatud kuupäev ja kellaaeg**.
+3. Valige loendist soovitud kuupäev või valige **Kohandatud kuupäev ja kellaaeg**.
     
-4. Kõigi tegevuste tagasivõtmiseks pärast valitud kuupäeva klõpsake nuppu **Taasta** . 
+4. Kõigi **tegevuste** tagasivõtmine pärast valitud kuupäeva klõpsake nuppu Taasta. 
     
-[Veel abi failide taastamisel](https://go.microsoft.com/fwlink/?linkid=872874)
+[Lisateave failide taastamise kasutamise kohta](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

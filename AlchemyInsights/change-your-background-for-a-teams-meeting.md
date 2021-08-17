@@ -1,5 +1,5 @@
 ---
-title: Töörühma koosoleku tausta muutmine
+title: Koosoleku tausta Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001720"
 - "7948"
-ms.openlocfilehash: 6c9d7f37210b83e9315648bb9f4de21269afd867
-ms.sourcegitcommit: 0810dec217a876b7c307ab8b22ad0a4d2712fbdf
+ms.openlocfilehash: ab9c11342b0499a08abbe8b66acf5d9b6ac7ce1302b0481b9ece4f440d4c9886
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082362"
 ---
-# <a name="change-your-background-for-a-teams-meeting"></a>Töörühma koosoleku tausta muutmine
+# <a name="change-your-background-for-a-teams-meeting"></a>Koosoleku tausta Teams
 
-Kui soovite muuta videol kuvatavat pilti, saate oma tausta hägustada või asendada selle täielikult kõigi soovitud piltidega.
+Kui soovite muuta video taga olevat teksti, saate tausta hägusta või asendada selle täielikult soovitud pildiga.
 
-Lisateavet selle kohta, kuidas tausta muuta kas enne koosolekut või koosoleku ajal, leiate teemast [töörühma koosoleku tausta muutmine](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
+Lisateavet selle kohta, kuidas muuta koosoleku tausta kas enne koosolekut või selle ajal, leiate teemast Koosoleku [tausta Teams .](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
 > [!NOTE]
-> Praegu ei saa Linuxi kasutajad seda funktsiooni kasutada. Tausta efektid pole saadaval ka siis, kui kasutate Teamsi optimeeritud virtuaalse töölaua infrastruktuuri (VDI) kaudu.
+> Praegu ei saa Linuxi kasutajad seda funktsiooni kasutada. Taustefektid pole saadaval ka siis, kui kasutate Teams virtuaalse töölaua taristu (VDI) kaudu.

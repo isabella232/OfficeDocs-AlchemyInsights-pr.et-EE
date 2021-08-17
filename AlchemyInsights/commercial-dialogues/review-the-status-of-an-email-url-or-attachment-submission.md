@@ -1,5 +1,5 @@
 ---
-title: Meilisõnumi, URL-i või manuse edastuse oleku läbivaatus
+title: Meilisõnumi, URL-i või manuse esitamise oleku läbivaatamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3514600ba19efe508adc552fa26bdd64ec107f00
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081822"
 ---
-# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Meilisõnumi, URL-i või manuse edastuse oleku läbivaatus
+# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Meilisõnumi, URL-i või manuse esitamise oleku läbivaatamine
 
-Pärast meilisõnumi, URL-i või manuse esitamist saate kontrollida, kas olek ja tulemid on samal lehel.
+Pärast meilisõnumi, URL-i või manuse saatmist saate vaadata sama edastuse lehel olekut ja tulemusi.
 
-Kuvatakse lehel esitamise edenemine ja te saate ka süvitsi eelnevaid esildisi, et näha andmete esitamise ja tulemuste üksikasju.
+Lehel kuvatakse edastuse edenemine ja samuti saate eelmisi edastusi süvitsi minna, et näha edastamise üksikasju ja tulemusi.
 
 > [!NOTE]
-> Kui esitate üksuse esildised Exploreri abil, võib tulemite kuvamiseks kuluda mõni minut.
+> Kui esitate üksuse edastuste Exploreris, võib tulemite esitamiseks kuluda paar minutit.

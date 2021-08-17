@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502388"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893051"
 ---
 # <a name="billing-and-payment"></a>Arveldamine ja maksmine
 
@@ -28,7 +28,7 @@ Arved leiate vahekaardilt &  >  [arved.](https://go.microsoft.com/fwlink/p/?link
 
 **Arvete saamine meilisõnumiga**
 
-Lehel **Arveldamise** arveldamise teatised saate selle funktsiooni sisse lülitada ja hallata  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) kasutajaid, kes saavad arve meilimanusena.  Arve saadetakse loendi Teatise adressaadid kasutajate meiliaadressidele. Loend sisaldab kõiki arveldus- ja üldadministraatoreid.  Saate hallata, kes saab arveteatisi, muutes rolli.  Üld- või arveldusadministraatori rolli eemaldamisel eemaldatakse see kasutaja adressaadiloendist ja üld- või arveldusadministraatori rolli lisamine lisab kasutaja adressaadiloendisse.
+Lehel   >  [Arveldamise arveldamise teatised](https://go.microsoft.com/fwlink/p/?linkid=853212) saate  selle funktsiooni sisse lülitada ja hallata kasutajaid, kes saavad arve meilimanusena. Arve saadetakse loendi Teatise adressaadid kasutajate meiliaadressidele. Loend sisaldab kõiki arveldus- ja üldadministraatoreid.  Saate hallata, kes saab arveteatisi, muutes rolli.  Üld- või arveldusadministraatori rolli eemaldamisel eemaldatakse see kasutaja adressaadiloendist ja üld- või arveldusadministraatori rolli lisamine lisab kasutaja adressaadiloendisse.
 
 **Märkus.** Teile saadetakse kaks eraldi meilisõnumit: üks, mis annab teile teada, et teie arve on valmis, juhised selle vaatamiseks halduskeskusesse sisselogimiseks ja teine meilisõnum, mis sisaldab arveldusarvet manusena.
 
@@ -36,7 +36,7 @@ Lehel **Arveldamise** arveldamise teatised saate selle funktsiooni sisse lülita
 
 Krediitkaardi või pangakontoga maksmisel võetakse teie tellimuse(te)ga seotud makseviisi tasu mõne päeva jooksul pärast arve loomist. Kui makse nurjub, värskendage või muutke makseviisi.
 
-Kui olete lisanud uue kaardi ja teile on endiselt vana krediitkaardiga seotud keeldumisteatis, peate võib-olla selle uue kaardi tellimusega seostama.
+Kui olete lisanud uue kaardi ja saate vana krediitkaardi kohta endiselt keeldumisteate, peate võib-olla selle uue kaardi tellimusega seostama.
 
 1. Avage halduskeskuses leht **Arveldusarved**  >  **ja &**  >  [makseviisid.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
@@ -55,10 +55,10 @@ Kui olete lisanud uue kaardi ja teile on endiselt vana krediitkaardiga seotud ke
 
 7. Uus makseviis on ripploendis juba valitud. Valige **Asenda**.
 
-Lisateavet leiate teemast [Makseviiside haldamine](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Lisateavet leiate teemast [Makseviiside haldamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Arveldussagedus**
 
 Arved luuakse kord kuus või kord aastas sõltuvalt väljaregistreerimise ajal valitud arveldussagedusest.  
 
-**Märkus.** Aastaarvega tellimused võivad saada arve vahekokku, kui tehti muudatusi (nt litsentside lisamine või eemaldamine). [Muutke arveldussagedust.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Märkus.** Aastaarvega tellimused võivad saada arve vahekokku, kui tehti muudatusi (nt litsentside lisamine või eemaldamine). [Muutke arveldussagedust.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
