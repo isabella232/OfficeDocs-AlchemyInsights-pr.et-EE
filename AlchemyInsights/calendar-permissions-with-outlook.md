@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046100"
 ---
 # <a name="calendar-permissions"></a>Kalendriõigused
 
-Kasutajad saavad outlooki veebirakenduses või muudes klientklientides muuta oma kalendriõigusi, kuid administraatorina peate võib-olla ka uurima.  
-Exchange PowerShelli cmdlet-käsuga kuvatakse teile kasutaja kalendris olevad õigused.
+Kasutajad saavad oma kalendriõigusi muuta Outlook või muude klientidega, kuid administraatorina peate võib-olla ka uurima.  
+PowerShelli Exchange korral kuvatakse teile kasutaja kalendris õigused.
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
@@ -34,9 +34,9 @@ Lisateabe saamiseks vaadake järgmist.
 
 - [Add-MailboxFolderPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-Kalendriõigusi kasutatakse kalendrite ühiskasutuses, et saada lisateavet Outlooki kalendri ühiskasutuse kohta, leiate järgmisest artiklist.
+Kalendriõigusi kasutatakse kalendrite ühiskasutuses, et saada lisateavet kalendri ühiskasutusse Outlook kohta leiate järgmisest artiklist.
 
 - [Outlooki kalendri ühiskasutus](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Kalendri ühiskasutus Outlooki veebirakenduse ettevõtterakenduses](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Kalendri ühiskasutusse Outlooki veebirakendus ettevõtterakenduses](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Kalendriõiguse tõrkeotsinguks saate kasutada [tugi- ja taasteteenuste abilise](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) tööriista.
+Kalendriõiguse tõrkeotsinguks saate kasutada [tugi- ja taasteteenuste abiline](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) tööriista.

@@ -1,5 +1,5 @@
 ---
-title: Parooli sünkroonimise tõrkeotsing
+title: Paroolisünkroonimise tõrkeotsing
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664922"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105744"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Parooli sünkroonimise tõrkeotsing
+# <a name="troubleshoot-password-synchronization"></a>Paroolisünkroonimise tõrkeotsing
 
-Parooli sünkroonimise probleemide tõrkeotsinguks käivitage see AAD Connecti tõrkeotsing, et kindlaks teha, miks paroolid ei sünkroonita. Alustuseks valige [Halda otsest sünkroonimist](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Paroolisünkroonimisprobleemide tõrkeotsinguks käivitage see AAD-Ühendus, et teha kindlaks, miks paroole ei sünkroonita. Alustamiseks avage [Otsesünkroonimise haldamine](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-1. Avage uus Windows PowerShelli seanss Azure AD Connecti serveris ja valige suvand **Käivita administraatorina** .
+1. Avage azure Windows PowerShell AD Ühendus uus seanss ja valige suvand **Käivita administraatorina.**
 
-2. Run Set-ExecutionPolicy RemoteSigned või Set-ExecutionPolicy on piiramatud.
+2. Käivitage Set-ExecutionPolicy RemoteSigned või Set-ExecutionPolicy Piiranguteta.
 
-3. Käivitage Azure AD Connecti viisard.
+3. Käivitage Azure AD Ühendus viisard.
 
-4. Avage leht täiendavad tööülesanded > **tõrkeotsing**  >  **järgmiseks**.
+4. Avage leht Lisaülesanded ja > **Tõrkeotsing**  >  **järgmine**.
 
-5. Valige käsk **Käivita** , et avada menüü PowerShell tõrkeotsing.
+5. **PowerShelli** tõrkeotsingumenüü avamiseks valige Käivita.
 
-6. Valige **parooli sünkroonimise tõrkeotsing**.
+6. Valige **Tõrkeotsing paroolisünkroonimiseks**.
 
-    Probleem on tavaliselt selles, et parooli ei sünkroonita kindla kasutajakonto jaoks.
+    Tavaliselt on probleem selles, et teatud kasutajakonto parooli ei sünkroonita.
 
-    **Märkmed** Parooli sünkroonimine nurjub, kui viimase eduka parooli sünkroonimine oli mõni aeg tagasi.
+    **Märkmed** Parooli sünkroonimine nurjub, kui viimane parooli sünkroonimine õnnestus mõni aeg tagasi.
 
-Lisateavet parooli sünkroonimise tõrkeotsingu kohta leiate teemast [AZURE ad Connecti sünkroonimine parooliga Hash Synci tõrkeotsing](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+Lisateavet paroolisünkroonimise tõrkeotsingu kohta leiate teemast [Paroolisiga sünkroonimise tõrkeotsing Azure AD Ühendus sünkroonimisega.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)

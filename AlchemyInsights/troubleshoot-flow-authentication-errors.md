@@ -1,5 +1,5 @@
 ---
-title: Voo autentimise tõrgete tõrkeotsing
+title: Autentimistõrgete Flow tõrkeotsing
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 3c4ad806ed446803d8c1e0ba17b3a06d591985d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e56325a2ff49e46779f0389592f8b429f38e66a9a8b74c1e84742768ce25437
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690563"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105816"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Voo autentimise tõrgete tõrkeotsing
+# <a name="troubleshoot-flow-authentication-errors"></a>Autentimistõrgete Flow tõrkeotsing
 
-Paljudel juhtudel ei õnnestu autentimine tõrke tõttu voolata. Kui teil on selline tõrge, kuvatakse tõrketeade "loata" või kuvatakse tõrkekood 401 või 403. Autentimise tõrke saate tavaliselt parandada, kui värskendate ühendust.
+Paljudel juhtudel nurjub vood autentimisvea tõttu. Kui teil on selline tõrge, kuvatakse tõrketeade "Volitamata" või kuvatakse tõrkekood 401 või 403. Autentimistõrget saate tavaliselt parandada, kui värskendate ühendust.
   
-1. Klõpsake veebiportaali ülaosas või puudutage menüü sätted avamiseks püügivahendi ikooni ja seejärel klõpsake või puudutage valikut **ühendused**.
+1. Klõpsake või puudutage veebiportaali ülaservas hammasrattaikooni, et avada menüü Sätted ja seejärel klõpsake või puudutage **nuppu Ühendused**.
     
-2. Liikuge sirvides ühendust, mille jaoks te ei näinud lubamatut tõrketeadet.
+2. Liikuge kerides ühenduseni, mille kohta nägite tõrketeadet Volitamata.
     
-3. Ühenduse kõrval klõpsake või puudutage sõnumis linki **Kinnita parool** , mis puudutab ühendust, mida ei autentita. 
+3. Klõpsake või puudutage ühenduse kõrval linki **Kinnita** parool teates, et ühendust ei autendita. 
     
-4. Kontrollige oma mandaati, järgides kuvatavaid juhiseid, naaske oma voo-käivituse nurjumisele ja seejärel klõpsake või puudutage käsku **Edasta uuesti**.
+4. Kinnitage oma identimisteavet, järgides kuvatavaid juhiseid, naastke oma vookäivutustõrkesse ja seejärel klõpsake või **puudutage nuppu Esita uuesti.**
     
-Lisateavet leiate teemast [voo tõrkeotsing](https://go.microsoft.com/fwlink/?linkid=872110).
+Lisateavet leiate teemast [Voo tõrkeotsing.](https://go.microsoft.com/fwlink/?linkid=872110)
   
 
