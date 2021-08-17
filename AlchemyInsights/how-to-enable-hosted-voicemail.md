@@ -1,5 +1,5 @@
 ---
-title: Hostitud kõneposti lubamise lubamine
+title: Majutatud kõneposti lubamine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055550"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Hostitud kõneposti lubamise lubamine
+# <a name="how-to-enable-hosted-voicemail"></a>Majutatud kõneposti lubamine
 
-Kõneposti lubamiseks peab **HostedVoicemail** olema seatud $TRUE.
+Kõneposti lubamiseks peab **HostedVoicemail** olema seatud $true.
 
-Kasutaja **HostedVoicemail** atribuut Remote POWERSHELL (RPS) abil.
+Remote PowerShelli (RPS) abil kasutaja atribuut **HostedVoicemail (HostitudVoicemail).**
 
-Lisateavet RPS-ga ühenduse loomise kohta leiate teemast [Microsoft teamsi PowerShelli ülevaade](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) RPS-ga ühenduse loomise kohta.
+Lisateavet RPS-iga ühenduse loomise kohta [leiate teemast Microsoft Teams PowerShelli](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) ülevaade.
 
-1. Teamsi administraator peaks olema teamsi jaoks sisse logitud Remote PowerShell.
-1. PowerShelli viibal saab Teamsi administraator käitada **Set-csuser User@contoso.com-HostedVoiceMail $True** , kus on valitud kasutaja SIP-i URI.
+1. Administraator Teams logitakse PowerShelli kaugarvutisse Teams.
+1. PowerShelli viiba kaudu Teams administraator käivitada **set-csuseri user@contoso.com -HostedVoiceMail $true** kus sip uri on kõnealuse kasutaja jaoks.
 
 > [!NOTE]
-> Poliitikate muudatused võivad paljunemiseks kuluda kuni 24 tundi.
+> Poliitikate muudatuste paljunemiseks võib aega võtta kuni 24 tundi.

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931193"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890754"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Kas tühistate Microsoft 365 tellimuse?
 
@@ -31,6 +31,6 @@ Meil on kahju, et teid külastati, kuid tellimuse tühistamiseks tehke järgmist
 3. Valige **paanil** Tellimuse tühistamine põhjus, miks te tellimuse tühistate. Soovi korral saate anda mis tahes tagasisidet.
 4. Valige **Salvesta**.
 
-Lisateavet tellimuse tühistamise või suvandite kohta leiate teemast [Tellimuse tühistamine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Lisateavet tellimuse tühistamise või suvandite kohta leiate teemast [Tellimuse tühistamine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Kui soovite tellimuse kasutamist jätkata prooviperioodi jooksul, saate tellimuse korduva arveldamise välja lülitada. Lisateavet leiate teemast Ettevõtte [Microsoft 365 uuendamine.](/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Kui soovite tellimuse kasutamist jätkata prooviperioodi jooksul, saate tellimuse korduva arveldamise välja lülitada. Lisateavet leiate teemast Ettevõtte [Microsoft 365 uuendamine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)

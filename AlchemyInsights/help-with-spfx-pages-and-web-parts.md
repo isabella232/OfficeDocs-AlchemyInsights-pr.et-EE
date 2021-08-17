@@ -1,5 +1,5 @@
 ---
-title: SPFx-lehtede ja veebiosade spikker
+title: Spikker SPFx lehtede ja veebiosade kohta
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 59e0160dc3c206aa675841d391b4f45e953cda100b991992fe4668d697c9e069
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055694"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>SPFx-lehtede ja veebiosade spikker
+# <a name="help-with-spfx-pages-and-web-parts"></a>Spikker SPFx lehtede ja veebiosade kohta
 
-SPFx on toetatud ainult Microsofti arendaja toe kaudu. SharePointi tootemeeskond vastab arendajate kogukonnale mitmes kanalis.
+SPFx toetab ainult Microsofti arendajatugi. Toote SharePoint vastab arendajate kogukonnale mitmes kanalis.
 
-- [Programmeerimisküsimused](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) saab esitada **GitHubi sp-dev-docs-le** või **Stack Overflow'ile.**
-- [Dokumentatsiooni vead](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) saab esitada **GitHubile.**
-- [Näidisrakenduste vigu](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) saab esitada **GitHubile.**
+- [Programmeerimisküsimused](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) saab esitada GitHub **sp-dev-docs** või **Stack Overflow**.
+- [Dokumentatsiooni](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) veateateid saab **GitHub.**
+- [Näidisrakenduse vead](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) saab esitada **GitHub.**
 - [Funktsioonitaotlusi](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  saab userVoice'ile esitada.
 
 Lisateavet arendusressursside kohta leiate teemast  [& tagasiside](https://docs.microsoft.com/sharepoint/dev/support-feedback)

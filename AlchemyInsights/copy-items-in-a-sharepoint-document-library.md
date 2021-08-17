@@ -1,5 +1,5 @@
 ---
-title: Failide kopeerimine SharePointi ja OneDrive ' is
+title: Failide kopeerimine SharePoint ja OneDrive
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,18 +14,18 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: b2d4b162bda70906bf50df51df85e6ee032832f5
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 7b7d0972c5ffa8d5b58abcd2aaf0e9fe994a668f5a61289024c98f0cc0242547
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081066"
 ---
-# <a name="copy-files-in-sharepoint-and-onedrive"></a>Failide kopeerimine SharePointi ja OneDrive ' is
+# <a name="copy-files-in-sharepoint-and-onedrive"></a>Failide kopeerimine SharePoint ja OneDrive
 
-Saate kopeerida failid veebibrauserist SharePointi ja OneDrive ' i erinevatesse asukohtadesse.
+Saate kopeerida faile veebibrauserist erinevates asukohtades, mis asuvad SharePoint ja OneDrive.
 
-Lisateavet leiate teemast [Move and Copy](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
+Lisateavet leiate teemast [Teisaldamine või kopeerimine](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 
 > [!NOTE]
-> **Kopeerimine** pole saadaval, kui kasutate SharePoint Online ' i klassikalist kogemust.
+> **Kopeerimine pole** saadaval, kui kasutate SharePoint Online'i klassikalist kasutuskogemust.

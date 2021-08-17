@@ -1,5 +1,5 @@
 ---
-title: SharePointi saidi loomine
+title: Saidi SharePoint loomine
 ms.author: pebaum
 author: pebaum
 ms.audience: Admin
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080886"
 ---
-# <a name="create-a-sharepoint-site"></a>SharePointi saidi loomine
+# <a name="create-a-sharepoint-site"></a>Saidi SharePoint loomine
 
-SharePointi administreerimiskeskuse saitide loomine või haldamine [aktiivsete saitide](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) kaudu. Lisateavet leiate teemast [saitide haldamine uues SharePointi administreerimiskeskuses](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Saitide loomine või haldamine [aktiivsete saitide kaudu](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) SharePoint halduskeskuses. Lisateavet leiate teemast [Saitide haldamine uues halduskeskuses SharePoint halduskeskuses.](https://docs.microsoft.com/sharepoint/manage-site-creation) 
 
-## <a name="tips"></a>Näpunäited
+## <a name="tips"></a>Näpunäited:
 
-- Te **ei saa** luua saiti olemasoleva saidi sama URL-iga. Kui kustutasite saidi ja soovite URL-i uuesti kasutada, on võimalik, et kustutatud sait on kustutatud [saitide](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)korral endiselt olemas. URL-i uuesti kasutamiseks peab sait olema jäädavalt kustutatud. Saidi täielikuks eemaldamiseks PowerShelli abil lugege teemat cmdlet [-käsu eemaldamine-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Võimalik, et mõni kasutaja ei saa saiti luua. [Lugege teemat saidi loomise haldamine SharePoint Online ' is](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Võimalik, et sait näib olevat ummikus, kui **loodab** oodatust kauem aega. Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenuse pilet. Paljudel juhtudel oleme juba lahendusega töötanud. Lahenduse lõpetamiseks andke meile vähemalt 24 tundi.
+- Olemasoleva **saidi** sama URL-iga saiti ei saa luua. Kui olete saidi kustutanud ja soovite URL-i uuesti kasutada, on võimalik, et kustutatud sait on endiselt jaotises [Kustutatud saidid.](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) URL-i uuesti kasutamiseks tuleb sait jäädavalt kustutada. PowerShelli abil saidi täielikuks eemaldamiseks lugege [cmdlet-käsu Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) näidet.
+- Võimalik, et mõni kasutaja ei saa saiti luua. [Lugege teemat Saidi loomise haldamine SharePoint Online'is.](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- Võimalik, et sait on oodatust **kauemaks jäänud.** Kui sellest probleemist on möödunud rohkem kui 24 tundi, logige sisse tugiteenusepilet. Paljudel juhtudel töötame juba lahenduse kallal. Lahenduse lõpuleviimiseks andke meile vähemalt 24 tundi.
