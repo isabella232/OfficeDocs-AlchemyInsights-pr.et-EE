@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: 38bfd961675dfb25170ba05c4aac52711eabb20e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d2846a1102e4d6441f6fe288a338190a98ad568e0204835f0c1e1f4ea634cf56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803612"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043022"
 ---
-# <a name="how-to-move-a-onenote-notebook"></a>OneNote'i märkmiku teisaldamine
+# <a name="how-to-move-a-onenote-notebook"></a>Märkmiku teisaldamine OneNote teisaldamine
 
-* OneNote'i märkmiku OneDrive'i teisaldamiseks avage  >    >  OneNote 2016 **jaotis** Failide ühiskasutus Teisalda märkmikud. Lisateavet [leiate teemast OneNote'i märkmiku teisaldamine OneDrive'i.](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082)
+* Märkmiku teisaldamiseks OneNote menüüsse OneDrive kausta Failide ühiskasutus teisalda  >    >  **märkmikud** OneNote 2016. Lisateavet [leiate teemast OneNote teisaldamine OneDrive](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) märkmikusse.
 
-* Lisateavet märkmike teisaldamiseks valmistumise parimate tavade kohta leiate teemast [OneNote'i sünkroonimistavad.](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)
+* Lisateavet märkmike teisaldamiseks valmistumise parimate tavade kohta leiate teemast [OneNote sünkroonimise kohta.](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)
 
-* [Teistega ühiskasutusse antud OneNote'i](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) Windowsi märkmiku teisaldamine annab lisateavet ühismärkmike teisaldamise kohta.
+* [Ühismärkmike teisaldamise OneNote, Windows](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) teistega ühiskasutusse antud märkmiku jaoks, leiate lisateavet ühismärkmike teisaldamise kohta.

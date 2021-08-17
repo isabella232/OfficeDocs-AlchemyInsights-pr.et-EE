@@ -1,5 +1,5 @@
 ---
-title: 2609 – säilitamine või-e-juurdluse ootelepanek
+title: 2609-retention-or-ediscovery-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074820"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>SharePoint Online ' is või OneDrive for Businessis ei saa üksusi kustutada
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Üksusi ei saa SharePoint Online'is OneDrive for Business
 
-Võimalik, et teie või teie kasutajad ei saa SharePoint Online ' is või OneDrive for Businessis üksusi kustutada, kuna SharePointi või mõnele kindlale üksusele rakendub säilituspoliitika, säilitus-või e-juurdluse ootelepanek. See ei hõlma dokumendi, dokumendi versiooni, kausta, dokumenditeegi, loendi, rakenduse, saidi ega saidikogumi kustutamist. 
+Võimalik, et teie või teie kasutajad ei saa SharePoint Online OneDrive for Business is üksusi kustutada, kuna säilituspoliitika, säilitussilt või e-juurdluse ootel hoidmine rakendatakse SharePoint OneDrive või kindlale üksusele. See hõlmab dokumendi, dokumendi versiooni, kausta, dokumenditeegi, loendi, rakenduse, saidi või saidikogumi kustutamist. 
 
-Kui soovite üksusi mõnest sellisest stsenaariumist kustutada, peab säilituspoliitika, säilitus-või e-juurdluse ootelepanek olema eemaldatud (või sait tuleb säilituspoliitika välistada). Peate kas keelama või välistama vastava ootelepaneku, mis seda probleemi põhjustab. Pärast säilituspoliitika või ootelepaneku eemaldamist võib muudatuse jõustumiseks kuluda kuni 24 tundi. 
+Selliste stsenaariumide üksuste kustutamiseks tuleb säilituspoliitika, säilitussilt või e-juurdluse ootel hoida (või sait tuleb säilituspoliitikast välja jätta). Peate keelama või välistama vastava ootel hoiak, mis seda probleemi põhjustab. Pärast säilituspoliitika või -ooteloleku eemaldamist võib muudatuse jõustumist aega võtta kuni 24 tundi. 
 
-Lisateavet erinevate säilitus-ja funktsioonide kohta, mida saab rakendada SharePointi saitidele ja OneDrive ' i kontodele, leiate teemast üks järgmistest teemadest.
+Lisateavet erinevate säilitus- ja ooteltusfunktsiooni kohta, mida saab SharePoint saitidele ja OneDrive kontodele, leiate järgmistest teemadest.
 
-- [Säilituspoliitika ülevaade](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-- [Säilituse siltide ülevaade](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Haldamine omab täiustatud e-juurdlust](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [e-juurdluse ootelepanek](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [Saidi sulgemise ja kustutamise poliitikate pärand](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [Säilituspoliitikate ülevaade](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [Säilitussiltide ülevaade](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [Ootel ide haldamine Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [e-juurdluse ootel](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Pärandsaidi sulgemis- ja kustutuspoliitikad](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)

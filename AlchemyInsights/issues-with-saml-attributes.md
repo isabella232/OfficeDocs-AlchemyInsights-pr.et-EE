@@ -1,5 +1,5 @@
 ---
-title: SAML atribuutidega seotud probleemid
+title: SAML-i atribuutidega seotud probleemid
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7838"
-ms.openlocfilehash: a0bff21ccac29c7e0ae8369a5a8dc0ba9685cb63
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: d02dd5d019cc68b49b019dee2928924deca181a87e3d5c5f5e7689a8eb5664e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042878"
 ---
-# <a name="issues-with-saml-attributes"></a>SAML atribuutidega seotud probleemid
+# <a name="issues-with-saml-attributes"></a>SAML-i atribuutidega seotud probleemid
 
-1. Järgige [selles artiklis](https://docs.microsoft.com/answers/questions/99054/how-to-use-custom-attributes-in-saml-response.html) toodud juhiseid, et teada saada, kuidas kasutada kohandatud atribuute SAML vastuses.
-2. [Märkige kinnitatud atribuudi väärtused, mida saab kasutada nõuetele](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping#table-3-valid-id-values-per-source) VASTAVAte ID-väärtuste saamiseks allika kohta.
+1. Järgige selles artiklis toodud [juhiseid, et](https://docs.microsoft.com/answers/questions/99054/how-to-use-custom-attributes-in-saml-response.html) mõista, kuidas kasutada SAML-vastuses kohandatud atribuute.
+2. [Kontrollige kinnitatud atribuudiväärtusi, mida saab allika kohta](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping#table-3-valid-id-values-per-source) kehtivate ID-väärtuste nõuete puhul sisse tõmmata.
