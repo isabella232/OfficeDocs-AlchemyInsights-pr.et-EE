@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teamsi eemaldamine või väljalülitamine
+title: Eemaldage või lülitage Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001714"
 - "3796"
-ms.openlocfilehash: 8f50c22952a26b62b1af01a5a94ae334d7aff529
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 74271dc6203cb290add22cfd3a243e500b983cfae7b06bf7f47e892b868ff4e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053246"
 ---
-# <a name="remove-or-turn-off-microsoft-teams"></a>Microsoft Teamsi eemaldamine või väljalülitamine
+# <a name="remove-or-turn-off-microsoft-teams"></a>Eemaldage või lülitage Microsoft Teams
 
-Kas teie ettevõte pole veel valmis Microsoft Teamsiga koostööd tegema [või kaugtööd tegema?](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)
+Kas teie ettevõte pole veel valmis [koostööks või kaugtööks](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)Microsoft Teams?
 
-- Microsoft [Teamsi desinstallimine](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).
+- Kuidas [desinstallida Microsoft Teams](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).
 
-- [Teamsi sisse- või väljalülitamine kogu ettevõttes.](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up)
+- Kuidas kogu Teams sisse või välja [lülitada?](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up)
 
-- [Teamsi automaatse käivitumise takistamiseks aknast 10 eemaldage see käivitusmenüüst.](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps)
+- [Kui Teams 10-st automaatselt käivituda, eemaldage see käivitusmenüüst.](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps)
 
-- [Kasutage Microsoft Teamsi installi vaatamiseks rühmapoliitikat.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)
+- [Rühmapoliitika abil saate juhtida Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)
 
-- [Kasutage rühmapoliitikat, et microsoft Teams ei käivituks pärast installimist automaatselt.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
+- [Rühmapoliitika abil saate takistada Microsoft Teams käivitumist automaatselt pärast installimist.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
 
-- [Ühisarvuti ja VDI keskkonnad Microsoft Teamsiga.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
+- [Ühisarvuti ja VDI keskkondades on Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
