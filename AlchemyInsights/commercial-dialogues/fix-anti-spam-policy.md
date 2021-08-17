@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988243"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898852"
 ---
 # <a name="fix-anti-spam-policy"></a>Rämpspostitõrjepoliitika parandus
 
-Seda sõnumit mõjutas teie rentniku kohandatud rämpspostitõrjepoliitika. Poliitika läbivaatamiseks tehke järgmist.
+Üks teie rämpspostitõrje poliitikatest mõjutas seda sõnumit. Poliitika läbivaatamiseks tehke järgmist.
 
-1. Avage [Office 365 turbe- & ja](https://go.microsoft.com/fwlink/p/?linkid=2077143)seejärel valige Ohuhalduspoliitika   >    >  [rämpspostitõrje.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Valige **vahekaardil Kohandatud** rämpspostifiltri **vaikepoliitika** või mõni muu kohandatud poliitika, mille olete loonud, ja seejärel valige **Redigeeri poliitikat.**
-3. Laiendage **suvandit Rämpsposti atribuudid** ja vaadake üle sätted Märgi **rämpspostiks.**
+1. Avage Microsoft 365 Defender portaal jaotises Poliitikad & Meilipoliitikad & Reeglid <https://security.microsoft.com/>  \>  \>  \>  ohupoliitikad Rämpspostitõrje. 
 
-Lisateavet rämpspostifiltri poliitikate konfigureerimise kohta leiate teemast [Kohandatud rämpspostifiltri poliitikasätete konfigureerimine.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Otse rämpspostitõrje **poliitikate lehele minemiseks** kasutage funktsiooni <https://security.microsoft.com/antispam> .
+
+2. Valige **lehel Rämpspostitõrje poliitika** poliitika, klõpsates poliitika nime **(Tüüp** on  Kohandatud rämpspostivastane poliitika või **Nimi** on rämpspostitõrje sissetulev **poliitika (vaikesäte).**
+
+3. Klõpsake kuvatavas üksikasja hüpikmenüüs jaotises Hulgimeili lävi **&** Redigeeri rämpsposti piirmäära ja atribuute, valige **Redigeeri** toiminguid ja vaadake üle sätted **Märgi rämpspostiks.** 
+
+Lisateavet leiate teemast [Rämpspostitõrjepoliitikate konfigureerimine EOP-s.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

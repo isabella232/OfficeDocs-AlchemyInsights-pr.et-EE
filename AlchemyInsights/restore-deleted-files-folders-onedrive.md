@@ -1,5 +1,5 @@
 ---
-title: Kustutatud failide või kaustade taastamine OneDrive ' is
+title: Kustutatud failide või kaustade taastamine OneDrive
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 619c796dc1675cea33186d12af9df60adf2aaf31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b02cc8ce9bfe9c87b23d17aba0809a28cc558390812473914d378d60ea30a660
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808487"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109812"
 ---
-# <a name="restore-deleted-files-or-folders-in-onedrive"></a>Kustutatud failide või kaustade taastamine OneDrive ' is
+# <a name="restore-deleted-files-or-folders-in-onedrive"></a>Kustutatud failide või kaustade taastamine OneDrive
 
-Kui kustutate OneDrive ' is faili või kausta kogemata, võite selle hiljem OneDrive ' i prügikastist taastada.
+Kui kustutate faili või kausta kogemata OneDrive, saate selle hiljem prügikastist OneDrive taastada.
 
-* [Kustutatud failide või kaustade taastamine OneDrive ' is](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
+* [Kustutatud failide või kaustade taastamine OneDrive](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-Kui palju OneDrive ' i faile saab kustutada, üle kirjutatud, rikutud või ründevaraga nakatatud, saate kogu OneDrive ' i taastada varasemal ajal.
+Kui paljud teie OneDrive kustutatakse, kirjutatakse üle, rikutakse või nakatatakse ründevaraga, saate taastada kogu OneDrive eelmisele korrale.
 
-* [OneDrive ' i taastamine](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Taastage OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

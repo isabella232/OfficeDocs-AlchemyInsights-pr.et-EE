@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116724"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>Enterprise'i rakenduste loendi toomine
 
@@ -52,9 +52,9 @@ ms.locfileid: "51404530"
 
 7. **Kasutamata Azure'i rakenduste loendi eksportimine** – auditiaruanne
 
-    Azure AD saab kuvada rakenduselogisid ainult kuni 30 päeva, kui teil on Azure AD Premiumi litsents.
+    Azure AD saab kuvada rakenduselogisid ainult kuni 30 päeva, kui teil on Azure AD Premium litsents.
     Teil on kaks võimalust andmete säilitamiseks kauemaks kui 30 päevaks. Azure AD aruandluse [API-sid](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) saate kasutada andmete toomiseks programmiliselt ja talletada need andmebaasis. Teise võimalusena saate integreerida auditilogid kolmanda osapoole SIEM-süsteemi.
 
     Rakenduseloendi saate alla laadida ka kõigi rakenduste ja omatud rakenduste jaoks jaotises Azure Active directory>App Registrations>Download>All applications/Owned applications (Kõik rakendused/omanikule määratud rakendused).
 
-    Ms Graphi kaudu rakenduste loendi leiate teemast Rakenduste [loend – Microsoft Graph v1.0 ja](https://docs.microsoft.com/graph/api/application-list) rakenduse [ressursitüüp – Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).
+    Ms Graph kaudu rakenduste loendi leiate teemast [Rakenduste loend – Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) ja [rakenduse ressursitüüp – Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).
