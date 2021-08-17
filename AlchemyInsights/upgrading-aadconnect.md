@@ -1,5 +1,5 @@
 ---
-title: 932 versioonitäienduse Aadconnecti
+title: 932 AADConnecti täiendamine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104808"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Azure AD Connecti värskendamine
+# <a name="upgrade-azure-ad-connect"></a>Azure AD Ühendus
 
-Vaikimisi on Azure AD Connecti jaoks lubatud automaatne täiendamine, mis aitab tagada, et kasutate uusimat versiooni. Automaatse ülemineku sätete kinnitamiseks kasutage Azure AD PowerShelli cmdlet **-käsku Get-ADSyncAutoUpgrade** . Cmdlet-käsk tagastab ühe järgmistest väärtustest.
+Vaikimisi on Azure AD Ühendus automaatne versioonitäiendus lubatud, mis aitab tagada uusima versiooni. Automaatsete versioonitäiendussätete kontrollimiseks kasutage Azure **AD PowerShellis cmdlet-käsku Get-ADSyncAutoUpgrade.** Cmdlet-käsk tagastab ühe järgmistest väärtustest.
 
-- **Lubatud**: automaatne uuendamine on lubatud.
+- **Lubatud:** automaatne versioonitäiendus on lubatud.
 
-- **Keelatud**: automaatne uuendamine on keelatud.
+- **Keelatud:** automaatne versioonitäiendus on keelatud.
 
-- **Peatatud**: süsteem ei vasta enam automaatsete versioonitäienduste saamise tingimustele. Seda väärtust ei saa konfigureerida; See on määratud süsteemis.
+- **Peatatud.** Süsteem ei vasta enam automaatsete versioonitäienduste saamise tingimustele. Seda väärtust ei saa konfigureerida. selle on määranud süsteem.
 
-Lisateavet leiate teemast [Automaatne täiendus](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Lisateavet leiate teemast Automaatne [versioonitäiendus.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)
 
-Azure AD Connecti uusima versiooni allalaadimiseks avage [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Azure AD Ühendus allalaadimiseks avage [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .

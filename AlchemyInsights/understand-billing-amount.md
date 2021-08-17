@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919635"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304329"
 ---
 # <a name="understand-billing-amount"></a>Arve summa mõistmine
 
@@ -28,7 +28,7 @@ ms.locfileid: "53919635"
 - Azure'i kasutustasude terminite mõistmine. [Kasutustingimused on selgitatud](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Arve PDF-faili ja üksikasjaliku igapäevase kasutusfaili koopia (.CSV): [Arve- ja kasutusandmete hankimine](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Märkus.** Kui tühistate tellimuse/ressursi arveldustsükli keskel, võidakse teile siiski kuvada tasu, mis oleks eelmise kuu mis tahes kasutuse eest. Näide: kui teie arveldustsükkel & iga kuu 26. kuust kuni järgmise kuu 25. kuuni & olete tellimuse peatanud 23. päeval ehk 28 päeva juuni arveldustsüklisse, võidakse teile kuvada tasu 28 kasutuspäeva eest. Kui näete tellimuse tühistamisele vaatamata tasu, siis veenduge, et teil poleks muid tugiteenuselepinguid, mis tasu põhjustavad. Kui see on nii, siis jätkake ja tühistage leping.
+**Märkus.** Kui tühistate tellimuse/ressursi arveldustsükli keskel, võidakse teile siiski kuvada tasu, mis on eelmise kuu mis tahes kasutuse eest. Näide: kui teie arveldustsükkel oli alates iga kuu 26. kuust kuni järgmise kuu 25. kuuni & olete tellimuse peatanud 23.-ndal( 28 päeva) juuni arveldustsüklisse, võidakse teile kuvada tasu 28 kasutuspäeva eest. Kui näete tellimuse tühistamisele vaatamata tasu, siis veenduge, et teil pole muid tugiteenuselepinguid, mis tasu põhjustavad. Kui see on nii, siis jätkake ja tühistage leping.
 
 **Microsofti kliendileping (MCA):**
 
@@ -46,15 +46,15 @@ ms.locfileid: "53919635"
 
 **Enterprise Agreement (EA)**
 
-- Arve läbivaatamise ja sellest ülevaate saamiseks lugege: Azure'i arve [Enterprise Agreement.](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Kui olete Azure'i klient, kellel on Enterprise Agreement (EA klient), ei saa te oma ettevõtte arveid alla laadida. Arved saadetakse neile, kes on häälestatud registreerimiseks arveid vastu saama, ning azure'i portaalis saate selle alla [laadida.](https://portal.azure.com/)
+- Arve läbivaatamise ja sellest ülevaate saamiseks lugege teavet: [Azure'i](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support) Enterprise Agreement ülevaade
+- Kui olete Azure'i klient, kellel on Enterprise Agreement (EA klient), ei saa te oma ettevõtte arveid alla laadida. Arved saadetakse neile, kes on häälestatud registreerimiseks arveid vastu saama, ning azure'i portaalis saate need [alla laadida.](https://portal.azure.com/)
 
 Vaadake üle teenuse üleliigane arve.
 
 - Logige sisse **ettevõtteportaali**. Valige **Aruanded**
 - Vahetage vahekaardi paremas ülanurgas vaadeT **M-st** **C-ni** ja sobitage arvel oleva perioodiga.
 - Kogu **kasutussumma** peaks ühtima teie **teenuse** ülekuluarve laiendatud kogusummaga.
-- Tasude **kohta lisateabe saamiseks >** laadi alla kasutus- ja täpsema aruande allalaadimine. See aruanne ei sisalda makse, broneeringutasusid ega turuplatsi tasusid. 
+- Tasude **kohta lisateabe saamiseks >** laadi alla kasutus- ja täpsema aruande allalaadimine. See aruanne ei sisalda makse, broneeringutasusid ega turuplatsitasusid. 
 
 **Azure'i turuplats**
 
@@ -67,7 +67,9 @@ Võrrelge oma Azure'i turuplatsi > ettevõtteportaali kasutuskokkuvõtet oma tur
 - Logige sisse **ettevõtteportaali**. Valige **Aruanded**
 - Vahetage vahekaardi paremas ülanurgas vaadeT **M-st** **C-ni** ja sobitage arvel oleva perioodiga.
 - **Azure'i turuplatsi** kogusumma peaks **vastama** teie turuplatsi arve müügi kogusummale.
-- Lisateavet **kasutuspõhiste** tasude kohta leiate teemast Kasutuskasutuse allalaadimine. Valige **jaotises Turuplatsi** tasud **nupp Laadi** **alla** märkus. See aruanne ei sisalda makse ega kuva ühe ajaga oste
+- Lisateavet **kasutuspõhiste** tasude kohta leiate teemast Kasutuskasutuse allalaadimine. Valige **jaotises Turuplatsi tasud** nupp **Laadi alla** 
+
+**Märkus.** See aruanne ei sisalda makse ega kuva üheaja oste
 
 **Pilvlahenduste pakkuja (CSP)**
 

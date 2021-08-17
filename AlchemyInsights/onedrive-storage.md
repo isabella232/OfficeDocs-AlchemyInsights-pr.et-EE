@@ -1,5 +1,5 @@
 ---
-title: OneDrive ' i salvestusruum
+title: OneDrive salvestusruum
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,17 +15,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: a47d53ea985ca3809396bcd741d20cb8ed639b26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ef5fe2dfa6f223b3b87ba5018ece36e9f673566b840bb8b7a0ed700f7bc94a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075721"
 ---
-# <a name="manage-your-onedrive-storage"></a>OneDrive ' i salvestusruumi haldamine
+# <a name="manage-your-onedrive-storage"></a>Salvestusruumi OneDrive haldamine
 
-Saate hallata oma OneDrive for Businessi, et näha, kui palju ruumi te kasutate, ja vabastada ruumi.  Lisateavet leiate allpool olevatest linkidest.
+Saate hallata oma OneDrive for Business, et näha, kui palju ruumi te kasutate ja vabastage ruum.  Lisateavet leiate allolevatest linkidest.
 
-- [OneDrive for Businessi salvestusruumi haldamine](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
-- [Konkreetse kasutaja OneDrive ' i salvestusruumi muutmine](https://docs.microsoft.com/onedrive/change-user-storage)
-- [OneDrive ' i kasutajate jaoks vaikimisi kasutatava salvestusruumi seadmine](https://docs.microsoft.com/onedrive/set-default-storage-space)
+- [Salvestusruumi OneDrive for Business haldamine](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Kindla kasutaja salvestusruumi OneDrive muutmine](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Vaikesalvestusruumi määrake OneDrive kasutajatele](https://docs.microsoft.com/onedrive/set-default-storage-space)

@@ -1,5 +1,5 @@
 ---
-title: Exchange'i halduskeskuse säilituspoliitikad ei tööta
+title: Säilituspoliitikad Exchange halduskeskuses ei tööta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074928"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Säilituspoliitikad Exchange'i halduskeskuses
+# <a name="retention-policies-in-exchange-admin-center"></a>Säilituspoliitikad Exchange halduskeskuses
 
 Kui soovite, et käivitame allpool nimetatud sätete automaatsed kontrollid, valige selle lehe ülaservas nupp < ja sisestage säilituspoliitikatega seotud probleemidega kasutaja meiliaadress.
 
-Kui teil on Exchange'i halduskeskuse säilituspoliitikatega probleeme, mis ei kehti postkastidele või üksustele, mis ei teisalda arhiivipostkasti, kontrollige järgmist.
+Kui teil on probleeme Exchange halduskeskuse säilituspoliitikatega, mis ei rakenda postkastidele või üksustele, mis ei teisalda arhiivipostkasti, kontrollige järgmist.
 
 **Juurpõhjused:**
 
@@ -38,7 +38,7 @@ Kui teil on Exchange'i halduskeskuse säilituspoliitikatega probleeme, mis ei ke
  
 **Märkus.** Kui postkast on väiksem kui 10 MB, ei töötle hallatava kausta abiline postkasti automaatselt.
  
-Lisateavet Säilituspoliitikate kohta Exchange'i halduskeskuses leiate järgmisest teemast.
+Lisateavet halduskeskuse säilituspoliitikate Exchange leiate järgmisest teemast.
 
 - [Säilitussildid ja säilituspoliitikad](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 
