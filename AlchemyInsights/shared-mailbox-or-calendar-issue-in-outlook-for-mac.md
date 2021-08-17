@@ -1,5 +1,5 @@
 ---
-title: Ühiskasutuses postkasti või kalendri probleem rakenduses Outlook for Mac?
+title: Ühispostkasti või kalendriga seotud probleem Outlook mac-arvutis?
 ms.author: supravee
 author: supravee
 manager: jackiesm
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
-ms.openlocfilehash: a53a79a2da13c9c3f9c2a8509d157e4b244a068d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 520137fe1e7de1c7da3be1684006c4211baebf76786dc2e1dea7acc91f82cc7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108192"
 ---
-# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Ühiskasutuses postkasti või kalendri probleem rakenduses Outlook for Mac?
+# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Ühispostkasti või kalendriga seotud probleem Outlook mac-arvutis?
 
-Kui võtad meiega ühendust otse rakendusest, saame sind kiiremini aidata. **Palun Ava mõjutatud kasutaja Mac, Ava Outlook ja klõpsa nuppu Spikker \> . Võtke ühendust toega**. 
+Aitame teid kiiremini, kui pöördute meiega otse rakenduse kaudu. **Avage mõjutatud kasutaja Mac-arvuti, avage Outlook ja klõpsake nuppu Spikker \> Võtke ühendust tugiteenustega.** 
   
-Lisateavet rakenduse Outlook for Mac for-App tugiteenuste kasutamise kohta leiate artiklist: [uute kontaktide toe funktsioon rakenduses outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Lisateavet Outlook for Maci rakendusetoe kasutamise kohta leiate järgmisest artiklist: [Outlook 2016 for Maci uus tugiteenuste funktsioon](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 

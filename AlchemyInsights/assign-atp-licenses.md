@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defenderi määramine Office 365 litsentside jaoks
+title: Microsoft Defenderi määramine Office 365 litsentsidele
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 517edd98ff30977b50a9634fbc274c77fe36c52eff4dc5c27b24e1d57dc7cc8e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501740"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888886"
 ---
-# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defenderi määramine Office 365 litsentside jaoks
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defenderi määramine Office 365 litsentsidele
 
 Microsoft Defenderi Office 365 saab määrata kasutajatele Microsoft 365 haldus Centeris.
 
@@ -33,4 +33,4 @@ Microsoft Defenderi Office 365 saab määrata kasutajatele Microsoft 365 haldus 
 5. Määramiseks **või eemaldamiseks klõpsake nuppu**  Lülita rakendused ja teenused sisse või välja.
 6. Klõpsake **nuppu Määra** ja  **sule**.
 
-Litsentside ostmiseks või eemaldamiseks lugege artiklit [Litsentside ostmine või eemaldamine](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Litsentside ostmiseks või eemaldamiseks lugege artiklit [Litsentside ostmine või eemaldamine](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

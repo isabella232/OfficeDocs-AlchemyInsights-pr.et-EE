@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 159d993f9a54fabc4ed16791e9892bd6f2a268784e06b2c3bccdcab39544349d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054002"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Sünkroonitud kasutajakontode haldamine
 
-Tavaliselt kasutatakse kasutajakontode lisamiseks ja muutmiseks Microsoft 365 halduskeskust. Kuid te ei saa seda kasutada, kui kataloogi sychronization või SSO on lubatud. Selle asemel saate hallata oma kasutajaid Windows PowerShelli abil, nagu on kirjeldatud artiklis Kasutajakonto atribuutide [konfigureerimine Office 365 PowerShelli abil.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
+Tavaliselt saate kasutada Microsoft 365 halduskeskus kasutajakontode lisamiseks ja muutmiseks. Kuid te ei saa seda kasutada, kui kataloogi sychronization või SSO on lubatud. Selle asemel saate hallata oma kasutajaid Windows PowerShell, nagu on kirjeldatud artiklis Kasutajakonto [atribuutide konfigureerimine PowerShelli Office 365 abil.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 

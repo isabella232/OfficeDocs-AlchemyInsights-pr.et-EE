@@ -14,12 +14,12 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937097"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889214"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directoryt ei sünkroonita
 
@@ -29,8 +29,8 @@ AADConnecti uuesti installimine kiirsätete abil võib probleemi kiiresti lahend
 
 1. [Laadige alla AADConnecti uusim versioon.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Järgige kiirinstalli juhiseid.](/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [Järgige kiirinstalli juhiseid.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Azure AD Connect peab olema opsüsteemis Windows Server 2012 või uuemas versioonis installitud. See server peab olema domeeniga ühendatud ja võib olla domeenikontroller või liikmest server. Azure AD Ühendus eeltingimuste täieliku loendi vaatamiseks vaadake [läbi Azure AD](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)Ühendus.
+Azure AD Connect peab olema opsüsteemis Windows Server 2012 või uuemas versioonis installitud. See server peab olema domeeniga ühendatud ja võib olla domeenikontroller või liikmest server. Azure AD Ühendus eeltingimuste täieliku loendi vaatamiseks vaadake [läbi Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)Ühendus.
 
-Lisateavet AADConnecti teenusekontode kohta leiate teemast [Azure AD Ühendus: Kontod ja õigused](/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Lisateavet AADConnecti teenusekontode kohta leiate teemast [Azure AD Ühendus: Kontod ja õigused](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
