@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041582"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883127"
 ---
 # <a name="outbound-relay-pool"></a>Väljaminevate kattekaustade
 
-Microsoft muudab konfiguratsiooni meilisõnumite edastamiseks või edasisaatmiseks Microsoft 365. Teatud stsenaariumides sõnumeid edastatakse või edastatakse Microsoft 365 kaudu, kasutades spetsiaalset releekausta. Releekausta abil saadetud sõnumid võivad olla adressaadi rämpspostikaustas. Lisateavet leiate teemast [Väljaminevate tarnete kaustu](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft muudab konfiguratsiooni meilisõnumite edastamiseks või edasisaatmiseks Microsoft 365. Teatud stsenaariumides sõnumeid edastatakse või edastatakse Microsoft 365 kaudu, kasutades spetsiaalset releekausta. Releekausta abil saadetud sõnumid võivad olla adressaadi rämpspostikaustas. Lisateavet leiate teemast [Väljaminevate tarnete kaustu](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Releekausta kasutamise vältimiseks veenduge, et edasi saadetud/edastatud sõnumid vastaksid ühele järgmistest kriteeriumidest.
 
@@ -36,5 +36,5 @@ Kui teie domeeni MX-kirje on suunatud kolmandale osapoolele või asutusesisesele
 
 **Kuidas saame teada, kas me oleme releekausta mõjul?**
 
-Kui teie edastatud või edastatud meilisõnumid kasutavad ühte ülaltoodud kriteeriumidest, ei edastata sõnumeid läbi releekausta. Kui aga sõnum saadetakse releekausta kaudu, on väljamineva meili serveri IP vahemikus 40.95.0.0/16 ja väljamineva meili serveri nimi **sisaldab nime rly.**
+Kui teie edasi saadetud või edastatud meilisõnumid kasutavad ühte ülaltoodud kriteeriumidest, ei edastata sõnumeid läbi releekausta. Kui aga sõnum saadetakse releekausta kaudu, on väljamineva meili serveri IP vahemikus 40.95.0.0/16 ja väljamineva meili serveri nimi **sisaldab nime rly.**
 

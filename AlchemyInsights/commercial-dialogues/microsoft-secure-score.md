@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403235"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883351"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
-Microsoft Secure Scorei abil saate muuta oma keskkonna turvalisemaks. Mõelge sellest kui turvalisuse krediidiskoorist. See ütleb teile, mida saate teha, mis võib aidata teie organisatsiooni turvalisust parandada.
+Microsoft Secure Scorei abil saate muuta oma keskkonna turvalisemaks. Mõelge sellest kui turvalisuse krediidiskoorist. See ütleb teile, mida saate teha, mis võib aidata teie asutuse turvalisust parandada.
 
-1. Avage [Office 365 turbe- & vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Valige Microsoft Secure Scorei kaart või avage [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2099589).
-    > [!TIP]
-    >  Lehel Microsoft Secure Score Overview (Microsoft Secure Score Overview) valige organisatsiooni turvamiseks soovituste vaatamiseks suvand Täiustustoimingud. Tabelis saate valida filtreerimis- või rühmitamisjärjestuse, et kiiresti tuvastada toimingud, mis võivad olla paremad, kui olete need järjekorras lõpule viinud.
-1. Valige loendist parandustegevus. Kuvatakse hüpik, mis annab toimingu lühikirjelduse.
-1. Klõpsake **nuppu Kuva** sätted ja järgige juhiseid, mis on toodud jaotises Järgmised **juhised.**
+1. Avage Microsoft 365 Defender <https://security.microsoft.com> portaal Secure **score**.
+
+   Otse lehele Secure **Score (Turvaline** tulemus) minemiseks kasutage <https://security.microsoft.com/securescore>
+
+2. Märkige **jaotise Läbivaatustoimingud** ja  **Ülemine** täiustustegevus vahekaardil Ülevaade üles kõik soovitused organisatsiooni turvalisuse tagamiseks.
+
+3. Märkige **vahekaardil Täiustustoimingud** üles toimingu **Rank** of **Improvement** kirjed, mille olekuväärtused on **To address (Aadress) või** **Regressed (Regressioon).**  Tabelis saate **kasutada filtrit** **või** rühmitamisjärjestust, et kiiresti tuvastada toimingud, mis võivad olla paremad, kui olete need järjekorras lõpule viinud.
+
+4. Valige vahekaardil **Täiustustoimingud** loendist väärtus To address (Aadress) või **Regressioon (Regressed).**  Avaneb uus leht, mis annab  probleemi lahendamiseks täieliku kirjelduse ja nupu Halda.
+
     > [!NOTE]
-    > Teile antakse soovitatavate turbe funktsioonide konfigureerimiseks punkte, kuid pidage meeles, et mõned toimingud on sildistatud **kui [Pole punktisummat]**. See tähendab, et isegi kui rakendate seda parandusmeedet, ei saa te punktisumma eest punkte. Muul *juhul võib skoori värskendamiseks* aega võtta kuni 24 tundi.
+    > Teile antakse soovitatavate turbefunktsiooni konfigureerimise punktid, kuid pidage meeles, et mõned toimingud on sildistatud **kui [Pole punktisummat]**. See tähendab, et isegi kui rakendate seda parandusmeedet, ei saa te punktisumma eest punkte. Muul *juhul võib skoori värskendamiseks* aega võtta kuni 24 tundi.
 
-Lisateavet Microsoft Secure Scorei kohta leiate teemast [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2103077).
+Lisateavet Microsoft Secure Scorei kohta leiate teemast [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score).

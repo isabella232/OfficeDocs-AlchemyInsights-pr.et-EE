@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11139"
-ms.openlocfilehash: c578db2ccba7c6831d39b02d10afc50f00904755204866e45aa4eb2ec313a8e3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 74eb78786c45614679b97b0808f8f16171c6554ea94ab22c34f2c45766123662
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53980137"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57885975"
 ---
 # <a name="view-the-april-2020-baseline-for-microsoft-edge-versions-80-and-later"></a>2020. aasta aprilli alusjoone Microsoft Edge versioonides 80 ja uuemates versioonides
 
@@ -26,4 +26,4 @@ Microsoft Intune toetab Microsoft Edge. Lähtejoone vaikeväärtused tähistavad
 
 2020. aasta aprilli alusjoones muutunud andmetega tutvumiseks kasutage võrdlusaluste funktsiooni, mis on saadaval paanil Versioonid.
 
-Lisateavet leiate teemast [Microsoft Edge 2020. aasta aprillis (Edge'i versioonid 80 ja uuemad versioonid).](/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020)
+Lisateavet leiate teemast [Microsoft Edge 2020. aasta aprillis (Edge'i versioonid 80 ja uuemad versioonid).](https://docs.microsoft.com/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020)

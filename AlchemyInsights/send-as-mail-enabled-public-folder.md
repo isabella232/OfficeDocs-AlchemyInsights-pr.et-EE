@@ -1,5 +1,5 @@
 ---
-title: Saada e-posti lubatud Ühiskaustana EKSOs
+title: Saada meiliga lubatud avaliku kaustana EXO-s
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48461841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052562"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>SendAs meilisõnumite ühiskausta lubamine
+# <a name="sendas-mail-enabled-public-folder"></a>SendAs Mail Enabled Public Folder
 
-Järgmises näites määratakse "saada nimega" juurdepääsuõigused Meililoaga ühiskausta NewPF1 kasutajale Jason.
+Järgmises näites määratakse kasutajale Jasonile meili toega avaliku kausta NewPF1 õigused "Saada nimega".
 
-Add-RecipientPermission-identiteedi "NewPF1"-usaldusisik "Jason"-AccessRights "SendAs"
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Üksikasjaliku süntaksi ja parameetri teabe leiate teemast [meililoaga avalike kaustade jaoks määrata "saada nimega" või "Saada nimel"](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Üksikasjaliku süntaksi- ja parameetriteabe leiate teemast Meili toega avalike kaustade jaoks õiguste ["Saada kui" või "Saada nimel" määramine.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
 
