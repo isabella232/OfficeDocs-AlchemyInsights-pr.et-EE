@@ -1,5 +1,5 @@
 ---
-title: 8000038 ÜLDMÄÄRUSE lapse konto kinnitamine
+title: 8000038 GDPR-i tütarkonto kontrollimine
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 6ad5de2c3595c775d7b5080c2ac116dd002e6777
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 844679cba6b109a2c552c38e1884040cd545cd260930eb7aabed6ed0911c8a50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056990"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Teie Microsofti kontol kuvatav sünnikuupäev on vale
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Teie Microsofti kontol kuvatud sünnikuupäev on vale
 
-Microsoft võtab konto turvalisust väga tõsiselt. Võimalik, et teil on hiljuti palutud anda lapse Microsofti konto jaoks vanemlik nõusolek. Kui vajate abi vanema nõusoleku andmisel või sünnikuupäeva värskendamisel Microsofti kontol, lugege teemat [vanema nõusoleku vanuseline kontrollimine](https://go.microsoft.com/fwlink/p/?linkid=874364).
+Microsoft võtab turvalisusega väga tõsiselt arvesse. Võimalik, et teilt on hiljuti palutud anda lapse Microsofti konto vanema nõusolek. Kui vajate vanema nõusoleku andmiseks või Microsofti kontol sünnikuupäeva värskendamiseks abi, lugege teemat Vanema [nõusoleku vanusekontroll.](https://go.microsoft.com/fwlink/p/?linkid=874364)
   
-Lugege lisateavet [vanemliku nõusoleku ja Microsoft Childi kontode](https://go.microsoft.com/fwlink/p/?linkid=874365)kohta.
+Lugege lisateavet [vanemliku nõusoleku ja Microsofti tütarkontode kohta.](https://go.microsoft.com/fwlink/p/?linkid=874365)
   

@@ -15,12 +15,12 @@ ms.custom:
 - "5200006"
 - "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: a298f8e285b5fa84bcd5c3d21a00ca3a53aa4275a87d91452e6c41587fd20e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 44a6ca5d8ab4a27b844dadb6da8e0d8c6cf9657f1543883389eee6e7d743a930
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102819"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891491"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Rühma SharePoint Microsoft 365 saidi kustutamine
 
@@ -29,6 +29,6 @@ Rühmaga ühendatud saidi kustutamisel kustutatakse rühm ja kõik selle ressurs
 Tähtis.
 
 - Kustutatud saite saate taastada 93 päeva jooksul. Kustutatud rühmad tuleb taastada 30 päeva jooksul. [Saate kustutatud saite vaadata ja taastada](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) otse SharePoint halduskeskusest. Kustutatud [rühmade vaatamiseks **ja taastamiseks**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)valige **Halda rühmi** ja seejärel valige **Kustutatud**.
-- Kui sait on säilituspoliitika osa, ei pruugi te seda kustutada enne, kui sait on [turbe- & halduskeskusest eemaldatud.](https://protection.office.com/?rfr=AdminCenter#/retention) Lisateavet leiate [säilituspoliitikate ülevaatest.](/microsoft-365/compliance/retention-policies)
+- Kui sait on säilituspoliitika osa, ei pruugi te seda kustutada enne, kui sait on turbe- [& halduskeskusest eemaldatud.](https://protection.office.com/?rfr=AdminCenter#/retention) Lisateavet leiate [säilituspoliitikate ülevaatest.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   
-Lisateavet leiate teemast [Saitide haldamine uues halduskeskuses SharePoint halduskeskuses.](/sharepoint/manage-sites-in-new-admin-center)
+Lisateavet leiate teemast [Saitide haldamine uues halduskeskuses SharePoint halduskeskuses.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)

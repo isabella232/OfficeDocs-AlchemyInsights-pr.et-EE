@@ -1,5 +1,5 @@
 ---
-title: Meilisõnumite otsimine arhiivi postkastis
+title: Meilisõnumite otsimine arhiivipostkastis
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109128"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Meilisõnumite otsimine arhiivi postkastist
+# <a name="search-for-email-in-the-archive-mailbox"></a>Meilisõnumite otsimine arhiivipostkastis
 
-Kui arhiivi postkast on Microsoft 365 jaoks lubatud, saate kasutada e- **juurdluse otsingut ja eksporti** , et avastada nii esmase kui ka arhiivi postkasti sisu. Lisateavet selle kohta, kuidas kasutada e- **juurdluse otsingut** selle sisu leidmiseks, järgige [siin](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)kirjeldatud juhiseid.
+Kui arhiivipostkast on lubatud Microsoft 365, saate **e-juurdluse** otsingu ja ekspordi abil avastada sisu nii esmases kui ka arhiivipostkastis. Lisateavet selle sisu **otsimiseks e-juurdluse** otsingu ekspordi kasutamise kohta leiate [siit.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-Samuti saate selle sisu säilitada, lisades postkasti säilituspoliitika. See paneb sisu ootele nii alg-kui ka arhiivi postkastis. Lisateavet säilituspoliitika loomise kohta meilisõnumite säilitamiseks leiate [siit](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)toodud juhistest.
+Samuti saate selle sisu säilitada, lisades postkasti säilituspoliitikasse. See paigutab sisu nii esmasesse kui ka arhiivimispostkasti ootele. Lisateavet säilituspoliitikate loomise kohta meilisõnumite säilitamiseks leiate siit toodud [juhistest.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   
