@@ -1,5 +1,5 @@
 ---
-title: Näpunäited sõnumite tagasihelistamiseks
+title: Näpunäited sõnumite tagasivõtmise kohta
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081462"
 ---
-# <a name="tips-about-recalling-messages"></a>Näpunäited sõnumite tagasihelistamiseks
+# <a name="tips-about-recalling-messages"></a>Näpunäited sõnumite tagasivõtmise kohta
 
-Kui te ei saa sõnumeid tagasi kutsuda, tehke järgmist.
+Saate ja ei saa sõnumeid tagasi võtta.
 
-* Administraatorina saate kasutajate nimel sõnumeid tagasi kutsuda PowerShelli abil. Administreerimiskeskuse sõnumeid ei saa tagasi kutsuda.
-* Saate tagasi kutsuda ainult teie asutuse inimestele saadetud sõnumeid. Kui sõnum saadeti näiteks Gmaili aadressile, ei saa seda enam meelde tuletada.
-* **Saate tagasi kutsuda ainult Outlook 2016 arvutist saadetud sõnumeid**. Kui kasutaja saadab Outlook for Maci või Outlooki veebirakenduse kaudu sõnumi, ei saa seda enam meelde tuletada.
+* Administraatorina saate PowerShelli abil kasutajate nimel sõnumeid tagasi võtta. Halduskeskuses ei saa sõnumeid tagasi võtta.
+* Saate tagasi võtta ainult sõnumeid, mis saadetakse teie ettevõtte inimestele. Kui sõnum saadeti näiteks Gmaili aadressile, ei saa te seda tagasi kutsuda.
+* **Saate tagasi võtta ainult sõnumeid, mis Outlook 2016 saadetud sõnumid arvutisse.** Kui kasutaja saadab sõnumi, kasutades Outlook for Mac Outlooki veebirakendus, ei saa te seda tagasi kutsuda.

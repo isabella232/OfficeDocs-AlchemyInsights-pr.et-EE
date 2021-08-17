@@ -9,35 +9,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057242"
 ---
 # <a name="enable-external-sharing"></a>Välise ühiskasutuse lubamine
 
- SharePoint Online ' i ühiskasutuse lubamise tagamiseks tehke järgmist.
+ Ühiskasutuse lubamise tagamiseks veebis SharePoint:
   
 - **Globaalne ühiskasutus**
     
-  - Portaal – \> väline ühiskasutusse andmine \> ühiskasutusse andmiseks – saidid, Las välised inimesed pääsevad teie saitidele juurde: sees
+  - Portaal – \> väline ühiskasutus – \> ühiskasutusülevaade – saidid, välistele inimestele saitidele juurdepääsu pääs: SEES
     
-  - Portaal – \> väline ühiskasutus – \> saidid – "Las välised inimesed pääsevad teie saitidele" märkeruut
+  - Portaal \> – väline ühiskasutus \> – saidid – märkeruut "Luba väliskasutajal teie saitidele juurde pääseda"
     
-- **Halduse ühiskasutus – SharePointi halduskeskus**
+- **Haldus ühiskasutus – SharePoint halduskeskus**
     
-    Väline ühiskasutus – valitud on üks kahest suvandist.
+    Väline ühiskasutus – veenduge, et valitud on üks kahest suvandist.
     
-  - "Luba väliskasutajad, kes aktsepteerivad ühiskasutuse kutseid ja logivad sisse autenditud kasutajatena"
+  - "Luba väliskasutajatel, kes aktsepteerivad ühiskasutuskutseid ja logivad sisse autenditud kasutajatena"
     
-  - "Lubage nii välised kasutajad, kes aktsepteerivad ühiskasutuse kutseid ja anonüümseid linke"
+  - "Luba ühiskasutuskutseid aktsepteerivad väliskasutajad ja anonüümsed külaliselingid"
     
-- **Üksikud saidikogumite**
+- **Üksikud saidikogumid**
     
-  - Saidikogumid – valige sobiv saidikogum ja klõpsake siis käsku ühiskasutus – lindil – \> veenduge, et valitud oleks ühiskasutuse suvandid.
+  - Saidikogumid – valige küsimus saidikogumist ja seejärel klõpsake lindil nuppu Ühiskasutus ja veenduge, et \> kas ühiskasutussuvandid on valitud.
     
-Lisateavet välise ühiskasutuse sisselülitamise kohta leiate teemast [SharePoint Online ' i välise ühiskasutuse sisselülitamine.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Lisateavet välise ühiskasutuse sisselülitamise kohta leiate teemast Välise ühiskasutuse sisse- või [väljalülitamine SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 
