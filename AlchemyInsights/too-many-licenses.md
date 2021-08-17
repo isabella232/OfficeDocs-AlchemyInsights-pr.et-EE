@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499544"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886287"
 ---
 # <a name="too-many-licenses"></a>Kas litsentse on liiga palju?
 
@@ -36,4 +36,4 @@ Kui arvate, et teilt võetakse arve liiga paljude litsentside eest, on see taval
 4. Sisestage **paani Litsentside** eemaldamine väljale  Litsentside koguarv jaotises Uus kogus selle tellimuse jaoks soovitud litsentside koguarv.  Näiteks kui teil on 100 litsentsi ja soovite neist 25 eemaldada, sisestage 75.
 5. Valige **Salvesta**.
 
-Lisateavet leiate teemast [Litsentside ostmine või eemaldamine.](/microsoft-365/commerce/licenses/buy-licenses)
+Lisateavet leiate teemast [Litsentside ostmine või eemaldamine.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

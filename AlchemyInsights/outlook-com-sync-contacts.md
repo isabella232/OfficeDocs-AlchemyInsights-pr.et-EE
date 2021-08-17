@@ -1,5 +1,5 @@
 ---
-title: Kontaktide sünkroonimine Outlook.com
+title: Kontaktide sünkroonimine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 411ed1facbcc60b74340ac06d49bd401a9885add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed1913f255657c7efac7e5dd292f60f23a72870a8e4ae6338952e790416dd993
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053642"
 ---
 # <a name="sync-contacts"></a>Kontaktide sünkroonimine
 
-Outlook sünkroonib teie loodud kontakte teistes seadmetes ja rakendustes (nt Outlook for Android ja Outlook for [iOS).](https://outlook.live.com/people/) Saate teada, kuidas [kontakte luua](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+Outlook sünkroonib kontaktid, mille loote rakenduses [Inimesed](https://outlook.live.com/people/) kõigis teistes seadmetes ja rakendustes (nt Outlook androidi ja Outlook iOS-i jaoks). Saate teada, kuidas [kontakte luua.](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01)
 
-Imporditud kontaktid (nt kontaktid muust meilikontost, mille olete oma Outlook.com kontoga ühendanud) pole sünkroonitud. Saate teada, kuidas [kontakte importida](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).
+Imporditud kontakte (nt kontakte muult meilikontolt, mille olete oma Outlook.com-i kontoga ühendanud), ei sünkroonita. Saate teada, kuidas [kontakte importida.](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1)

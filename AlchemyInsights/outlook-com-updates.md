@@ -1,5 +1,5 @@
 ---
-title: Outlook.com värskendused
+title: Outlook.com-i värskendused
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 811a694f6361a67d3f5e74299b144a922fdbeae74b84f8a065e3fe85db059087
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722487"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053498"
 ---
-# <a name="outlookcom-updates"></a>Outlook.com värskendused
+# <a name="outlookcom-updates"></a>Outlook.com-i värskendused
 
 **Uusimad värskendused**
 
-- Saada rohkem meilisõnumeid uue Outlook.com abil. Oleme lihtsustanud otsinguid, et oleks lihtsam kui kunagi varem, et leida, mida otsite. Uued funktsioonid (nt fotod ja manuste eelvaated) võimaldavad piltide ja failide nägemist sisendkaustast lahkumata. Nüüd saate oma sõnumitele lisada emodžid ja GIF-sõnumeid.  [Lugege lisateavet uue Outlook.com kohta.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Saate oma meilisõnumitest rohkem teada uue Outlook.com-i kaudu. Oleme otsingut hõlbustanud, et otsimist oleks lihtsam leida kui kunagi varem. Uued funktsioonid (nt fotod ja manuste eelvaated) näevad teie pilte ja faile ilma sisendkaustast lahkumata. Nüüd saate sõnumitele lisada emodžid ja GIF-id. [Lisateave uue Outlook.com-i kohta.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**Meili uuendused**
+**Meilivärskendused**
 
-- Kui teie Outlook.com postkast pole värskendatav, lugege teemat [Outlook.com lahendamine](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Kui teie Outlook.com-i postkasti ei värskendata, lugege [teemat Outlook.com-i meilisünkroonimise probleemide lahendamine.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)

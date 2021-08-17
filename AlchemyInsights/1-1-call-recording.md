@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
-ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52702086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886135"
 ---
 # <a name="11-call-recording"></a>1:1 kõne salvestamine
 
-Kui **nupp Alusta salvestamist** on 1:1 kõnes tuhm, peate muutma mõjutatud kasutaja poliitikasätteid. Poliitikasätte määramiseks käivitage mõjutatud kasutaja jaoks diagnostika, tippides **diag: Teams 1:1 Kõne salvestamine.**     
+Kui **nupp Käivita salvestamine** on 1:1 kõnes tuhm, peate muutma mõjutatud kasutaja poliitikasätteid. Poliitikasätte määramiseks käivitage mõjutab kasutaja diagnostika, tippides **Diag: Teams 1:1 Kõne salvestamine** eespool.     
 
-Alates 31. maist 2021 alustame uue kõnepoliitika Teams *AllowCloudRecordingForCalls*. Enne seda muudatust reguleerib 1:1 kõne salvestamist *AllowCloudRecording* Teams koosolekupoliitika. See muudatus on dokumenteeritud sõnumikeskuse postituses: [(Värskendatud) 1:1 Kõnesalvestuspoliitika tutvustus.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
+Alates 31. maist 2021 alustame uue kõnepoliitika Teams *AllowCloudRecordingForCalls*. Enne seda muudatust kontrollib 1:1 kõne salvestamist *AllowCloudRecording* Teams koosolekupoliitika. See muudatus on dokumenteeritud sõnumikeskuse postituses: [(Värskendatud) 1:1 Kõnesalvestuspoliitika tutvustus.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
 
 *AllowCloudRecordingForCalls*   helistamispoliitika suvand on **$False** vaikimisi määratud. Kui eelistate blokeerida kõigi kasutajate 1:1 kõnede salvestamise, ei pea te midagi tegema.  
 
-Kõne salvestamise lubamiseks kõigile kasutajatele 1:1 kõnes [kasutage powerShelli Teams käivitamiseks](/microsoftteams/teams-powershell-install) järgmist cmdlet-käsku. 
+Kõnesalvestuse lubamiseks kõigile kasutajatele 1:1 kõnes [kasutage powerShelli Teams käivitamiseks](https://docs.microsoft.com/microsoftteams/teams-powershell-install) järgmist cmdlet-käsku. 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
