@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge'i automaatne sisselogimine
+title: Logi sisse Microsoft Edge automaatselt
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,21 +15,21 @@ ms.custom:
 - "6898"
 - "8333"
 - "9004625"
-ms.openlocfilehash: 6021991c125f5cb2a33ce8db8fe7717b528bf49b
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 4e069a1c75caabf3bef7387140edd5650cf966856b888b5c6b5618a603986d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050690"
 ---
-# <a name="sign-in-to-microsoft-edge-automatically"></a>Microsoft Edge'i automaatne sisselogimine
+# <a name="sign-in-to-microsoft-edge-automatically"></a>Logi sisse Microsoft Edge automaatselt
 
-Microsoft Edge kasutab operatsioonisüsteemi vaikekontot kasutaja automaatseks sisselogimiseks vastavalt kasutaja seadme konfigureerimise viisidele. 
+Microsoft Edge kasutab opsüsteemi vaikekontot kasutaja automaatseks sisselogimiseks vastavalt sellele, kuidas kasutaja seade on konfigureeritud. 
 
 Allpool kirjeldatakse igat tüüpi seadme konfiguratsiooni ja sellest sõltuva kasutaja sisselogimisprotsessi stsenaariume.
 
-- **Seade on hübriid/AAD-J.** See suvand on saadaval opsüsteemis Windows 10, windowsi allatasemel ja vastavates serveriversioonides. Kasutajad logitakse automaatselt sisse oma Azure Active Directory (AD) kontodega.
-- **Seade on domeeniga liidetud.** See suvand on saadaval Opsüsteemis Windows 10, windowsi allatasemel ja vastavates serveriversioonides. Vaikimisi ei logita domeenikontodega kasutajad automaatselt sisse; nende jaoks automaatse sisselogimise lubamiseks kasutage **poliitikat ConfigureOnPremisesAccountAutoSignIn.** Azure AD-kontodega kasutajate jaoks automaatse sisselogimise lubamiseks kaaluge nende seadmete hübriidjuurutust.
-- **Os-i vaikekonto** on Microsofti konto. See suvand on saadaval opsüsteemis Windows 10 RS3 (versioon 1709, järk 10.0.16299) ja uuemates versioonides. See stsenaarium ei ole ettevõtte seadmetes tõenäoline. Kui aga os-i vaikekonto on Microsofti konto, logib Microsoft Edge kasutaja automaatselt sisse Microsofti kontoga.
+- **Seade on hübriid/AAD-J.** See suvand on saadaval Windows 10, Windows ja vastavates serveriversioonides. Kasutajad logitakse automaatselt sisse oma Azure Active Directory (AD)kontodega.
+- **Seade on domeeniga ühendatud.** See suvand on saadaval Windows 10, Windows ja vastavates serveriversioonides. Vaikimisi ei logita domeenikontodega kasutajad automaatselt sisse; nende jaoks automaatse sisselogimise lubamiseks kasutage **poliitikat ConfigureOnPremisesAccountAutoSignIn.** Azure AD-kontodega kasutajate jaoks automaatse sisselogimise lubamiseks kaaluge nende seadmete hübriidjuurutust.
+- **OS-i vaikekonto** on Microsofti konto. See suvand on saadaval Windows 10 RS3 (versioon 1709, järk 10.0.16299) ja uuemates versioonides. See stsenaarium ei ole ettevõtte seadmetes tõenäoline. Kui os-i vaikekonto on Microsofti konto, siis Microsoft Edge logib kasutaja automaatselt sisse Microsofti kontoga.
  
  

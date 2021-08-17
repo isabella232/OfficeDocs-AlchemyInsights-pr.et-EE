@@ -1,5 +1,5 @@
 ---
-title: Ära sunni mind värskendama. Kuidas minna tagasi eelmisele Office ' i versioonile?
+title: Ärge sundige mind versiooni täiendama. Kuidas minna tagasi eelmisele Office versioonile?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079590"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ära sunni mind värskendama. Kuidas minna tagasi eelmisele Office ' i versioonile?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ärge sundige mind versiooni täiendama. Kuidas minna tagasi eelmisele Office versioonile?
 
-Office ' i faili avamisel võib Office ' i rakenduse prooviversiooni avada mõne muu versiooni asemel. See toimub siis, kui teil on Microsoft 365 prooviversioon.
+Kui avate Office faili, võib faili prooviversioon Office'i telefonirakendus avada mõne muu versiooni asemel. See juhtub siis, kui teil on Microsoft 365 prooviversioon.
   
-Kui installite Microsoft 365 prooviversiooni, installitakse rakenduste 2016 prooviversiooni versioon. Need prooviversioonid muutuvad Wordi, Exceli ja PowerPointi failide avamiseks vaikeprogrammiks. Kui teil on näiteks installitud Excel 2013 ja olete installinud ka Microsoft 365 prooviversiooni, avatakse teie töövihikud Excel 2016 prooviversioonis.
+Kui installite Microsoft 365 prooviversiooni, installitakse rakenduste 2016 prooviversioon. Need prooviversioonid on wordi, Excel ja PowerPoint vaikeversiooniks. Näiteks kui teil on installitud Excel 2013 ja installisite ka Microsoft 365 prooviversiooni, avatakse teie töövihikud Excel 2016.
   
-Kui teil on see probleem olemas, saate [desinstallida](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016 rakendused ja kasutada juba installitud rakenduste varasemaid versioone. Samuti saate [desinstallida](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) rakenduste varasemad versioonid ja minna üle Microsoft 365 lisatud uuematele versioonidele.
+Kui teil on see probleem, [saate](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016 rakendused desinstallida ja kasutada juba installitud rakenduste vanemaid versioone. Samuti saate [desinstallida rakenduste](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) vanemad versioonid ja minna üle uuemale versioonile, mis on kaasas Microsoft 365.

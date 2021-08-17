@@ -1,5 +1,5 @@
 ---
-title: DLP poliitikaspikkid ei tööta
+title: DLP-Näpunäited ei tööta
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079662"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP poliitika näpunäide probleemid
 
@@ -30,6 +30,6 @@ Poliitikaspikkide konfigureerimiseks DLP-poliitikas turbe- & vastavuskeskuses t�
 
 - Veenduge, et sisu vastaks sellele, mida on vaja jaotises Tundliku teabe tüübi olemimääratlused [kirjeldatud reegli käivitamiseks.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Poliitika näpunäited kuvatakse nii OWA-s kui ka Outlookis. Outlook 2013 või uuema versiooni kasutamisel kuvatakse poliitikaspikkid ainult teatud tingimustel. Eritingimuste loendi leiate teemast Poliitikaspikride kuvamiseks lugege teemat [Outlook 2013 või uuema versiooni toetatud tingimused.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- Poliitikaspikkid kuvatakse nii OWA-s kui ka Outlook. Kui aga kasutate Outlook 2013 või uuemat versiooni, kuvatakse poliitikaspikkid ainult teatud tingimustel. Eritingimuste loendi leiate teemast Outlook [2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)või uuema versiooni toetatud Näpunäited.
 
-Lisateavet DLP poliitika näpunäidete kohta leiate [teemast DLP poliitika](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) näpunäidete viide ja tugimaatriks [DLP-poliitika näpunäidete jaoks.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
+Lisateavet DLP poliitika näpunäidete kohta leiate [teemast DLP-poliitika Näpunäited DLP-poliitika](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) näpunäidete kohta leiate teavet teemast DLP-poliitika Näpunäited ja [tugimaatriks.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
