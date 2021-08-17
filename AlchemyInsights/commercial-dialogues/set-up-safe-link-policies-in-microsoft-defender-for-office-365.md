@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070356"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882563"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Microsoft Defenderi seif linkimispoliitikate Office 365
 
-Microsoft Defenderi seif vaikepoliitika Office 365 on teie jaoks juba loodud. Konfiguratsioonide muutmiseks:
+1. Avage Microsoft 365 Defender portaal jaotises Poliitikad <https://security.microsoft.com/> **& Meilipoliitikad** & Reeglid \>  \>  \> **ohupoliitikad seif** **Lingid.**
 
-1. Avage Office 365 [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Valige **Ohuhalduspoliitika**  >  . Klõpsake lehel **Poliitika** nuppu [Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2101058)Office 365 seif lingid .
-3. Valige **jaotises Poliitikad, mis kehtivad kogu organisatsioonile** väärtus **Vaikesäte** ja seejärel valige **ikoon Redigeeri.**
-4. Määrake **jaotises Blokeeri järgmised URL-id** üks või mitu URL-i, mida soovite, et teie asutuse inimesed ei külastaks. Lisateavet leiate teemast [Linkide](https://go.microsoft.com/fwlink/?linkid=2092123)loendi blokeerimine seif.
-5. Valige **(või Sätted,** mis kehtivad sisule peale meilijaost) soovitud suvandid. (Soovitatav on valida kõik suvandid.)
-6. Valige **Salvesta**.
+   Otse lehele Lingid **seif kasutage** . <https://security.microsoft.com/safelinksv2>
+
+2. Tehke **seif linkide** lehel järgmist.
+   - Uue poliitika lisamiseks valige **+ Loo**. Poliitikasätete määratlemiseks käivitatakse viisard.
+   - Olemasoleva poliitika redigeerimiseks valige poliitika, klõpsates poliitika nime. Klõpsake kuvatavas üksikasja hüpikmenüüs **jaotises,** kus on sätted, mida soovite konfigureerida, nuppu Redigeeri.
+   - Url-ide blokeerimiseks seif linkide kaitsest või seif toetatud Office 365 linkide sätted, klõpsake nuppu **Üldsätted,** konfigureerige soovitud sätted ja seejärel klõpsake nuppu **Salvesta**.
+
+3. Pärast sätete läbivaatamist valige Edasta **(uus)** või **Salvesta** (redigeeri).
+
+Lisateavet leiate järgmistest artiklitest.
+
+- [Microsoft Defenderi seif linkide poliitikate Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Microsoft Defenderi seif jaoks Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

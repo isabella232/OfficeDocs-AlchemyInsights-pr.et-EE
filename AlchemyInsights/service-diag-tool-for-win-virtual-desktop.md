@@ -1,5 +1,5 @@
 ---
-title: Teenuse diagnostika tööriist Windows Virtual Desktopi jaoks
+title: Teenuse diagnostikatööriist virtuaalse Windows jaoks
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003893"
 - "6947"
-ms.openlocfilehash: c2e6f7fbcddc6721425840e87202a165cdb22664
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 58688e3216ba6777b1a4f76095bd39c81a2d2a8294e06b6bc61c7134f6d589f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677651"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052382"
 ---
-# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Teenuse diagnostika tööriist Windows Virtual Desktopi jaoks
+# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Teenuse diagnostikatööriist virtuaalse Windows jaoks
 
-Windowsi Virtual Desktop (WVD) pakub diagnostilist tööriista, mis võimaldab administraatoritel tuvastada tõrkeid ühe liidese kaudu. See tööriist logib diagnostikaga seotud teavet alati, kui WVD kasutab keegi, kellele on määratud WVD roll. Iga logi sisaldab teavet tegevusega seotud WVD rolli, seansi ajal kuvatavate tõrketeadete ning rentniku ja kasutaja kohta käiva teabe kohta. Azure ' i Logi analüüsi saab konfigureerida, et jäädvustada diagnostiline tööriist loodud tegevuste Logi. Tehke järgmist.
+Windows Virtuaaltöölaud (WVD) pakub diagnostikatööriista, mis võimaldab administraatoritel tuvastada tõrkeid ühe liidese kaudu. See tööriist logib diagnostikaga seotud teavet iga kord, kui WVD-d kasutab keegi, kellele on määratud WVD roll. Iga logi sisaldab teavet tegevusega seotud WVD rolli, seansi ajal kuvatavate tõrketeadete ning rentniku ja kasutaja kohta. Azure'i logianalüüsi saab konfigureerida jäädvustama diagnostikatööriista loodud tegevuste logi. Tehke järgmist.
 
-1. Azure ' i [portaali](https://go.microsoft.com/fwlink/?linkid=2129500) või [Azure PowerShelli](https://go.microsoft.com/fwlink/?linkid=2129501)abil saate luua Logi Analyticsi tööruumi.
-1. [Ühendage Windowsi arvutid Azure ' i kuvariga](https://go.microsoft.com/fwlink/?linkid=2129913). Hankige tööruumi ID ja oma tööruumi primaarvõti. Installiviisard vajab seda teavet agendi õigeks konfigureerimiseks ning selle tagamiseks, et see saaks suhelda Azure ' i kuvariga.
-1. [Push diagnostika andmed oma tööruumi](https://go.microsoft.com/fwlink/?linkid=2128284). Saate WVD rentniku andmeid oma tööruumi Logi analüüsile üle anda.
-1. WVD seotud sisemiste või väliste [probleemide tuvastamine ja diagnoosimine](https://go.microsoft.com/fwlink/?linkid=2128338) .
+1. Logianalüüsi tööruumi loomine [Azure'i portaali või](https://go.microsoft.com/fwlink/?linkid=2129500) [Azure PowerShelli abil.](https://go.microsoft.com/fwlink/?linkid=2129501)
+1. [Ühendus Windows azure'i kuvarisse.](https://go.microsoft.com/fwlink/?linkid=2129913) Hankige tööruumi ID ja tööruumi primaarvõti. Häälestusviisard vajab seda teavet agendi õigeks konfigureerimiseks ja Azure Monitoriga suhtlemiseks.
+1. [Lükake diagnostikaandmed oma tööruumi.](https://go.microsoft.com/fwlink/?linkid=2128284) Saate oma WVD rentniku diagnostikaandmed oma tööruumi logianalüüsisse lükata.
+1. [Tuvastage ja diagnoosige probleeme, mis](https://go.microsoft.com/fwlink/?linkid=2128338) on WVD-ga seoses sisemised või välisprobleemid.
 
-Lisateavet WVD teenuse diagnostika tööriista konfigureerimise kohta leiate teemast [diagnostika funktsiooni jaoks Logi analüüsi kasutamine](https://go.microsoft.com/fwlink/?linkid=2128084).
+Lisateavet WVD teenusediagnostikatööriista konfigureerimise kohta leiate teemast [Logianalüüsi kasutamine diagnostikafunktsiooni jaoks.](https://go.microsoft.com/fwlink/?linkid=2128084)

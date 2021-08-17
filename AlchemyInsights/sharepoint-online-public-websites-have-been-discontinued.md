@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ' i avalikud veebisaidid lõpetatakse
+title: SharePoint Avalike veebiveebisaitide kasutamine lõpetatakse
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051230"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online ' i avalikud veebisaidid on katkestatud
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Avalikud veebi veebisaidid on peatatud
 
-SharePoint Online ' i avalikud veebisaidid on katkestatud.
+SharePoint Veebipõhised avalikud veebisaidid on peatatud.
 
-Kui lõite SharePoint Online ' i avaliku veebisaidi, saate jätkata selle kasutamist kuni 31. märtsi 2018. Kui soovite avaliku veebisaidi kasutamist jätkata, peate uue pakkujaga looma uue pakkuja. SharePoint Online ' i avaliku veebisaidi sisu on kustutatud.
+Kui lõite SharePoint veebipõhise avaliku veebisaidi, oli teil võimalik seda edasi kasutada 31. märtsil 2018. Kui soovite jätkata avaliku veebisaidi kasutamist, peate looma uue pakkuja. Teie veebipõhise SharePoint sisu on kustutatud.
 
-Lisateavet avaliku veebisaidi lõpetamise kohta leiate teemast [funktsioonide lõpetamise üksikasjad](https://go.microsoft.com/fwlink/?linkid=866980).
+Lisateavet avaliku veebisaidi katkestamise kohta leiate teemast [Funktsiooni katkestamise protsessi üksikasjad.](https://go.microsoft.com/fwlink/?linkid=866980)

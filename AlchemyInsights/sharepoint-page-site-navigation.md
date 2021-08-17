@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ' i kasutamise alustamine
+title: Veebipõhise SharePoint alustamine
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: d3af1cd3d4b22bf62c5748b16b605eaff225a5b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ba34694f0551ade14efd902cfbefc4a7f7d5a62b8d2ea4dbc70424efd772798
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107679"
 ---
-# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Saidi ja lehe navigeerimine SharePointi saitidel
+# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Saidi- ja lehenavigatsioon SharePoint saitidel
 
-Saidi ja lehe navigeerimise aluspõhimõtted ja head tavad on võrdselt kohaldatavad nii klassikaliste kui ka moodsate SharePointi arhitektuuri jaoks. Navigeerimise rakendamise võimalused erinevad teie saitide ja sisevõrgu raamistiku põhjal. Näiteks klassikalises SharePointi saidi hierarhiates (alamsaitidel olevad saidid) olevad pärilikud navigeerimise kogemused pole moodsas versioonis saadaval, kuid [jaoturi saidid](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) pakuvad suurepärast võimalust varem hallatavate navigeerimise ja saidi hierarhiate jaoks klassikalises SharePointis saadaolevate saitidevahelise navigeerimise võimaluste saavutamiseks.
+Saidi ja lehe navigeerimise põhimõtted ja head tavad on võrdselt kohaldatavad nii klassikaliste kui ka kaasaegsete SharePoint kohta. Navigeerimise rakendamise võimalused erinevad olenevalt teie saitide ja sisevõrgu raamistikust. Näiteks klassikalises SharePoint-saidihierarhiates (alamsaitidega saidid) saadaolevad päritud navigeerimisfunktsioonid pole nüüdisaegses kasutuskogemuses saadaval, kuid jaoturisaidid pakuvad suurepäraseid võimalusi varem klassikalistes klassikalistes navigeerimis- ja saidihierarhiates varem SharePoint. [](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f)
 
- Lisateavet navigeerimise suvandite kohta leiate allpool olevatest linkidest.
+ Lisateavet navigeerimissuvandite kohta leiate allolevatest linkidest.
 
- - [Navigeerimise kavandamine modernse SharePointi kasutuskogemuse jaoks](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
+ - [Navigeerimise kavandamine kaasaegse SharePoint jaoks](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
-- [SharePointi saidil navigeerimise kohandamine](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
+- [Navigeerimise kohandamine SharePoint saidil](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
-- [SharePoint Online ' i navigeerimis-suvandid](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
+- [Navigeerimissuvandid SharePoint Online](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
  
-- [SharePointi saitide korraldamine MegaMenu navigeerimise abil](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
+- [Saate oma SharePoint korraldada megamenüü navigeerimise abil](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
 
-- [Hallatavad metaandmed ja navigeerimine SharePointis](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
+- [Hallatavad metaandmed ja navigeerimine SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
 
 
