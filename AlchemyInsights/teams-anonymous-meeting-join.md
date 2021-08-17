@@ -1,5 +1,5 @@
 ---
-title: Anonüümsete kasutajate Teamsi koosolekutega liitumise lubamine või keelamine
+title: Anonüümsete kasutajate koosolekutega liitumise Teams takistamine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106941"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Anonüümsete kasutajate Teamsi koosolekutega liitumise lubamine või keelamine
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Anonüümsete kasutajate koosolekutega liitumise Teams takistamine
 
-Anonüümse koosolekuga liitumise sätteid saate kontrollida Teamsi halduskeskuses.
+Anonüümse koosolekuga liitumise sätteid saate kontrollida Teams halduskeskuses.
 
 **Muudatuse jõustumist võib võtta kuni 24 tundi.**
 
-1.  Teamsi [halduskeskusesse minemine](https://admin.teams.microsoft.com)
+1.  Avage [Teams halduskeskus](https://admin.teams.microsoft.com)
 2.  Avage vasakpoolsel navigeerimispaanil Sätted    >   **Koosolekud**.
 3.  Lülitage  **jaotises Osalejad** sisse valik  **Anonüümsed kasutajad saavad koosolekuga liituda**.
