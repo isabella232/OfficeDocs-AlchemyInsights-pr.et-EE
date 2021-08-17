@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929193"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893399"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Kas teie kasutajad on saanud ründesisuga meilisõnumeid?
 
-- Ründemeilidest saate nüüd Microsoftile teada anda [turbe- ja vastavuskeskuse edastuste lehel](https://sip.protection.office.com/reportsubmission).
+Nüüd saate microsoftile pahatahtliku meili edastamiseks kasutada [Microsoft 365 Defender.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
-[Administraatori edastuste](https://sip.protection.office.com/reportsubmission) lehe kaudu edastatud sõnumeid kontrollitakse ja **üksikasjade** hüpikus kuvatakse järgmine teave:
+Administraatorite [edastustes esitatud sõnumid](https://security.microsoft.com/reportsubmission?viewid=admin) skannitakse ja üksikasjalikus hüpikus kuvatakse järgmised tulemid.
 
 - kas saatja meiliaadressi autentimisel ilmnes kohaletoimetamise ajal probleeme;
 - kas leidub poliitikatabamusi, mis oleksid võinud sõnumiga seotud otsust mingil viisil mõjutada või selle alistada;
@@ -39,9 +39,9 @@ Kui te pole sõnumi, URL-i või faili osas tehtud lõpliku otsusega (blokeerida 
 Seni saate ründesisuga meilisõnumid kasutajate postkastidest eemaldada [selle artikli](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization) juhiste järgi.
 
 - Kliendid, kellel on Microsoft Defender for Office 365, saavad:
-    - kasutada [ohu-uurijat kahtlaste meilisõnumite leidmiseks ja kustutamiseks](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered);
-    - kasutada [ohutute linkide funktsiooni juurdepääsu blokeerimiseks](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) ründesisule viivale URL-ile;
-    - jälgida kasutajaid, kes on ründesisule viivaid URL-e klõpsanud ja neile liikunud: [Andmepüügi-URL-ide ja klõpsude otsuseandmete vaatamine](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace);
-    - käsitsi [käivitada automaatuurimise](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office).
+  - Ohu [exploreri kasutamine kahtlase meili otsimiseks ja kustutamiseks](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [Seif linkide kasutamine pahatahtliku URL-i](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) juurdepääsu blokeerimiseks
+  - Jälitage kasutajaid, kes klõpsasid ja pääsesid juurde pahatahtlike URL-ide klõpsamisel: vaadake andmepüügi [URL-i](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)ja klõpsake käsku Võta andmed  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Automaatse [uurimise käsitsi käivitamine](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Samuti saate end ründesisuga failide ja URL-ide eest kaitsta artikli [Kaitse ründesisuga URL-ide ja failide eest](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) juhiste järgi.

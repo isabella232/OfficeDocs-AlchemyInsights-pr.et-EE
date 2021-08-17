@@ -1,5 +1,5 @@
 ---
-title: Auditi logide toomine
+title: Auditilogide toomine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481488"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893587"
 ---
-# <a name="retrieve-the-audit-logs"></a>Auditi logide toomine
+# <a name="retrieve-the-audit-logs"></a>Auditilogide toomine
 
-Auditilogi esmakordsel avamisel on see tühi. Sa pead tegema otsingu, et näha, mis seal on. Kõigi tegevuste üldise otsingu tegemiseks tehke järgmist.
+Auditilogi esmakordsel avamisel on see tühi. Selleks, et näha, mis seal on, peate tegema otsingu. Kõigi tegevuste üldiseks otsimiseks tehke nii.
 
-1. Avage [auditilogi otsing](https://protection.office.com/#/unifiedauditlog) (või Navigeerige **administraatori keskuste**  >  **turbe & nõuetele vastavuse keskus**  >  **Search & uurimise**  >  **auditilogi otsing**).
-1. Aktsepteerige väljal **Tegevused** vaikesätted, **kuvage kõigi tegevuste tulemid**.
-1. Määrake kuupäevavahemik ja väljale **Kasutajad** aktsepteerige vaikeväärtused, et tagastada tulemid kõigi kasutajate jaoks, või valige selle kasutaja kasutajanimi, keda soovite uurida.
-1. Klõpsake nuppu **Otsi**. Tegevused kuvatakse jaotises **tulemid**.
-1. Üksikasjade kuvamiseks klõpsake mõnda toimingut ja valige siis **Lisateavet**. Lisateavet (nt klient, kasutaja, kes on sooritanud toiminguid jne) kuvatakse rohkem.
+1. Tehke ühte järgmistest toimingutest.
+   - Avage Microsoft 365 vastavuskeskus lahenduste audit <https://compliance.microsoft.com>  \> . Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://compliance.microsoft.com/auditlogsearch> .
+   - Avage Microsoft 365 Defender portaalis <https://security.microsoft.com> **Audit**. Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://security.microsoft.com/auditlogsearch> .
+
+2. Konfigureerige  lehe **Audit vahekaardil Otsing** järgmised sätted.
+   - **Kuupäeva- ja kellaajavahemik:** valige väljadele Algus ja Lõpp **kuupäeva-/kellaajavahemik.** 
+   - **Tegevused.** **Kontrollige, kas valitud on kõigi tegevuste** tulemite kuvamine.
+   - **Kasutajad:** aktsepteerige kõigi kasutajate tulemite tagastamiseks tühi vaikeväärtus või sisestage üks või mitu kasutajat.
+
+3. Kui olete lõpetanud, klõpsake nuppu **Otsi**. Tegevused kuvatakse uuel lehel **Auditiotsing.**
+
+4. Üksikasjade hüpiku avamiseks valige tulemitest soovitud tegevus. Näete rohkem teavet (nt Klient, Toimingu teinud kasutaja jne).
+
+Lisateavet leiate teemast [Auditilogist otsimine, et uurida levinumaid tugiteenuseprobleeme.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

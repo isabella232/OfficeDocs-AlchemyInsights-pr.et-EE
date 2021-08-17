@@ -1,5 +1,5 @@
 ---
-title: Turbe- ja vastavuskeskuse teatisepoliitikad
+title: Teatisepoliitikad Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006571"
 - "11243"
-ms.openlocfilehash: 1aa9f898555b440b55707889bc85358986a6568ee6a159985d2e60041cff7750
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4bbdc8f9817655fec260e6f85de831a85f89e13f56d559534df68f79c5bed9a2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53933497"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893623"
 ---
-# <a name="alert-policies-in-the-security-and-compliance-center"></a>Turbe- ja vastavuskeskuse teatisepoliitikad
+# <a name="alert-policies-in-microsoft-365"></a>Teatisepoliitikad Microsoft 365
 
-Microsoft 365 turbe- ja vastavuskeskuste teatisepoliitika ja teatise armatuurlaua tööriistad aitavad kasutajatel luua teatisepoliitikaid ja seejärel vaadata teatisi, mis on loodud siis, kui kasutajad teevad teatisepoliitika tingimustele vastavad tegevused. Mitmed vaikehoiatuspoliitikad aitavad jälgida selliseid tegevusi nagu administraatoriõiguste määramine Exchange Online, ründevararünnakud, andmepüügikampaaniad ja ebatavalised faili kustutamise ja välise ühiskasutuse tasemed.
+Teatisepoliitika ja teatise armatuurlaua tööriistad Microsoft 365 vastavuskeskus ja Microsoft 365 Defender portaalis aitavad administraatoritel luua teatisepoliitikaid ja seejärel vaadata teatisi, mis luuakse siis, kui kasutajad teevad teatisepoliitika tingimustele vastavad tegevused. Mitmed vaikehoiatuspoliitikad aitavad jälgida selliseid tegevusi nagu administraatoriõiguste määramine Exchange Online, ründevararünnakud, andmepüügikampaaniad ja ebatavalised faili kustutamise ja välise ühiskasutuse tasemed.
 
-Teatisepoliitikate abil saate poliitikaga käivitatud teatised kategoriseerida, rakendada poliitika kõigile oma ettevõtte kasutajatele, määrata teatise käivitamise läve ja otsustada, kas teatiste käivitamisel saadetakse meiliteatised. Turbe- ja vastavuskeskuse leht Kuva teatised võimaldab kasutajatel vaadata ja filtreerida teatisi, määrata teatiste haldamiseks teatise oleku ja seejärel teatised pärast juhtumi lahendamist või lahendamist.
+Teatisepoliitikate abil saate poliitikaga käivitatud teatised kategoriseerida, rakendada poliitika kõigile oma ettevõtte kasutajatele, määrata teatise käivitamise läve ja otsustada, kas teatiste käivitamisel saadetakse meiliteatised. **Teatiste** leht võimaldab kasutajatel vaadata ja filtreerida teatisi, määrata teatiste haldamiseks teatise oleku ja seejärel teatised pärast juhtumi lahendamist või lahendamist.
 
-Lisateavet leiate teemast [Turbe- ja vastavuskeskuse teatisepoliitikad.](/microsoft-365/compliance/alert-policies)
+Lisateavet leiate teemast [Teatisepoliitikad Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
