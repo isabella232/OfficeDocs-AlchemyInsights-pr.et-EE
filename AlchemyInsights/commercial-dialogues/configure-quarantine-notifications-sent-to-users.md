@@ -1,5 +1,5 @@
 ---
-title: Kasutajatele saadetavate karantiini teatiste konfigureerimine
+title: Kasutajatele saadetavate karantiiniteatiste konfigureerimine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035182"
 ---
-# <a name="configure-quarantine-notifications-sent-to-users"></a>Kasutajatele saadetavate karantiini teatiste konfigureerimine
+# <a name="configure-quarantine-notifications-sent-to-users"></a>Kasutajatele saadetavate karantiiniteatiste konfigureerimine
 
-Kasutajate teatiste saatmiseks karantiinis olevate üksuste kohta tehke järgmist.
+Kasutajatele teatiste saatmiseks karantiinis oleku kohta:
 
-1. Navigeerige **administreerimiskeskuses**  >  **Exchange ' i**  >  **kaitse**  >  **rämpsposti filtrisse**.
-2. Valige rämpsmeili filtri poliitika, mille kohta soovite teatisi lülitada.
-3. Valige parempoolsel paanil link **Konfigureeri lõppkasutaja rämpsposti teatised** .
-4. Valige dialoogiboksis järgmine dialoogiboks **Luba lõppkasutaja rämpsmeili teatised**. Valige Luba rämpsposti teatised selle poliitika jaoks.
-5. Jaotises " **saada lõppkasutaja rämpsposti teatised" (päevades)** saate määrata, kui sageli saadetakse kasutaja rämpsposti teatised. Vaikeväärtus on 3 päeva. Saate määrata vahemikus 1 – 15 päeva. Kui määrate näiteks 7 päeva, kaasatakse teatisse kõigi selle kasutaja jaoks mõeldud sõnumite loend viimase 7 päeva jooksul, mis saadeti rämpsposti karantiini.
-6. Valige **olekualal** keel, milles soovite selle poliitika jaoks kirjutada kasutaja rämpsposti teatised.
+1. Avage halduskeskuses halduskeskused, **kus**  >  **Exchange**  >    >  **rämpspostifilter.**
+2. Valige rämpspostifiltri poliitika, mille teatised soovite sisse lülitada.
+3. Valige parempoolsel paanil link **Lõppkasutaja rämpspostiteatiste konfigureerimine.**
+4. Järgmises dialoogiboksis valige Luba lõppkasutaja **rämpspostiteatiste lubamine.** Valige selle poliitika jaoks rämpspostiteatiste lubamine.
+5. Määrake **väljal Lõppkasutaja rämpspostiteatiste saatmine iga (päeva)** kasutaja rämpspostiteatiste saatmise kord. Vaikimisi on see 3 päeva. Saate määrata vahemikus 1–15 päeva. Kui määrate näiteks 7 päeva, sisaldab teatis kõigi viimase 7 päeva jooksul selle kasutaja jaoks mõeldud sõnumite loendit, mis saadeti rämpsposti karantiini.
+6. Valige **jaotises Teatisekeel** keel, milles kasutaja rämpspostiteatisi selle poliitika jaoks kirjutada.
 7. Valige **Salvesta**.

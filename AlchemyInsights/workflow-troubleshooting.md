@@ -13,24 +13,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: 7bd210d6493569c28b9fd5abc05982f59e1ea34e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9deea782837098512bcec571415352927f431cfad294f0a15e89d777abea592a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072480"
 ---
 # <a name="workflow-troubleshooting"></a>Töövoo tõrkeotsing
 
-Lisateavet SharePointi töövoogude silumise kohta leiate järgmistest teemadest.
-- Silumise töövood sarnanevad eelmiste versioonidega.  Lisateavet leiate teemast [SharePointi töövoogude silumiseks](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Tõrkeotsingu kohta leiate lisateavet teemast [SharePoint Serveri töövoo valideerimise tõrgete tõrkeotsing](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Lisateavet töövoo SharePoint kohta leiate järgmistest.
+- Silumine sarnaneb varasemate versioonidega.  Lisateavet leiate teemast [SharePoint silumine.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- Tõrkeotsingu kohta leiate lisateavet teemast SharePoint [Serveri töövoo valideerimistõrgete tõrkeotsing.](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
  
 
 ## <a name="related-topics"></a>Seotud teemad
-Kas soovite proovida Microsoft Flow SharePoint Online ' is?
-- [Voo loomine](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint ja voog](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Kas soovite proovida Microsoft Flow SharePoint Online'is?
+- [Loo Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint ja Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 
