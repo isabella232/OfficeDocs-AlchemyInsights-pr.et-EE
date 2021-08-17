@@ -13,27 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 0572765d56d3cd1a38a1a41fec2277ccc4b1da54
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 057a0c587c2bee69f94e1e35192145b013e901b9fa1831fccf566e7e64de5261
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313694"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894495"
 ---
 # <a name="create-an-alert-policy"></a>Teatisepoliitika loomine
 
-1. Avage Microsoft 365 vastavuskeskus <https://security.microsoft.com> poliitikate  \> **teatisepoliitikad** jaotises Teatis. 
+1. Avage Microsoft 365 vastavuskeskus <https://security.microsoft.com> poliitikate  \> **teatisepoliitikad** jaotises **Teatis.**
 
-1. Avage Office 365 [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Valige   >  [Teatiseteatise poliitikad](https://go.microsoft.com/fwlink/?linkid=2103208).
-1. Valige **+ Uus teatisepoliitika**. Kuvatakse hüpik.
-1. Määrake **väljad Nimi**, **Kirjeldus**, **Raskusaste** **ja** Kategooria vastavalt oma vajadustele. Valige **Edasi**.
-1. Valige tegevus rippmenüüst Tegevus on. 
-
-    **Märkus.** Saate valida ainult ühe tegevuse, kuid saate lisada tingimusi, et täpsustada, mida poliitika tuvastab.
-1. Valige oma vajadustele vastavad teatise käivitussagedused ja seejärel valige **Edasi**.
-1. Otsustage, kas soovite teavitada inimesi selle teatise käivitamisest, valides saada **meiliteatisi ja valides** sobivad **meiliad adressaadid.** Valige **Edasi**.
-1. Kui olete lõpetanud, vaadake sätted üle. Poliitika saate kohe sisse lülitada, kui valite **Jah, lülitate selle kohe sisse ja** seejärel valite **Valmis.**
    Otse teatisepoliitika lehele **minemiseks** kasutage nuppu <https://compliance.microsoft.com/alertpolicies> .
 
 2. Klõpsake **nuppu + Uus teatisepoliitika**.
@@ -41,7 +31,8 @@ ms.locfileid: "58313694"
    - **Sisestage teatiselehele** nimi: **sisestage oma** vajadustele  vastavad väärtused **Nimi,** Kirjeldus (valikuline), Raskusaste ja Kategooria.  Kui olete lõpetanud, klõpsake nuppu **Edasi**.
    - **Teatisesätete** loomine. Valige tegevus rippmenüüst **Tegevus** ja kõik kuvatavad lisasätted ning valige oma vajadustele vastavad teatise käivitussagedused. Kui olete lõpetanud, klõpsake nuppu **Edasi**.
 
-     **Märkus.** Saate valida ainult ühe tegevuse, kuid saate lisada tingimusi, et täpsustada, mida poliitika tuvastab.
+     > [!NOTE]
+     > Saate valida ainult ühe tegevuse, kuid saate lisada tingimusi, et täpsustada, mida poliitika tuvastab.
 
    - **Adressaatide lehe saatmine.** Otsustage, kas soovite teavitada inimesi selle teatise käivitamisest,  valides Saada meiliteatisi ja valides sobivad meiliad adressaadid ja iga päev **teavituslimiidi.**  Kui olete lõpetanud, klõpsake nuppu **Edasi**.
    - **Vaadake üle sätete leht:** Vaadake sätted üle. Sätete muutmiseks klõpsake kohaldatavas **jaotises** nuppu Redigeeri. Poliitika saate kohe sisse lülitada, kui valite **Jah, lülitage see kohe sisse.**

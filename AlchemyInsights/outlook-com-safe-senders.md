@@ -1,5 +1,5 @@
 ---
-title: 8000089 Outlook.com turvaliste saatjate jaoks
+title: 8000089 Outlook.com seif Saatjad
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 473259594605dfb88885e2176086cd6df1c5ea03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2235a7ae246122b62e77adf34a0d022e3137cb8d4d2edb7d5b5db4d78bc42e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111396"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Meilisõnumite kausta Rämpspost sisseminemise peatamine
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Sõnumite rämpspostikausta saatmise takistamine
 
-On aegu, kui te ei soovi, et teatud isiku või domeeni sõnumid Outlook.com kausta Rämpspost lõpetaks. Turvaliste saatjate loendis olevate aadresside või domeenide sõnumeid ei teisaldata teie rämpsposti kausta.
+On aegu, mil te ei soovi, et konkreetse isiku või domeeni sõnumid satuks Outlook.com-i kausta Rämpspost. Turvaliste saatjate loendis asuvatelt aadressidelt või domeenidelt saadetud sõnumeid ei teisaldata teie rämpspostikausta.
 
-1. Avage [turvaliste saatjate sätted](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. Sisestage jaotises **Turvalised saatjad ja domeenid**soovitud meiliaadress või domeen ja klõpsake nuppu **Lisa**.
-3. Turvaliste saatjate jaoks meililisti lisamiseks sisestage loend loendisse **Turvalised postitused** ja valige **Lisa**.
+1. Avage [oma seif saatjate sätted.](https://go.microsoft.com/fwlink/?linkid=2035804)
+2. Sisestage **seif saatjate ja** domeenide loendisse lisatav meiliaadress või domeen ja valige **Lisa**.
+3. Postitusloendi lisamiseks turvaliste saatjate loendisse sisestage postitusloend jaotises **seif ja** valige **Lisa**.
 4. Valige **Salvesta**.
 
-Lisateavet leiate teemast [saatjate blokeerimine või blokeeringu tühistamine rakenduses Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate Outlook.com-ist saatjate [blokeerimise või blokeeringu tühistamise kohta.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)

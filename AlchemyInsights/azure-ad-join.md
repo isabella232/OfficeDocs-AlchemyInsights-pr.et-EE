@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: a3815d6fcabcfe81b079657c68adb89d7be244ca128af3473c6b22c1a4f7c833
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9e08d6c2a4553e395b5206816f29471118bb3b286e669c0b2d07a740e2a3c749
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104062"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894547"
 ---
 # <a name="azure-active-directory-join"></a>Azure Active Directory liitumine
 
-1. Kui häälestate seadme registreerimisi esimest korda, veenduge, et olete läbi vaadanud seadmehalduse tutvustuse [Azure Active Directory](/azure/active-directory/devices/overview) mis juhendab teid, kuidas azure AD-le seadmed juhtimise alla saada. 
-1. Kui registreerite seadmeid otse Azure AD-sse ja registreerite need Intune'i, peate tagama, et [](/mem/intune/fundamentals/licenses-assign) olete [Intune'i](/mem/intune/enrollment/device-enrollment) konfigureerinud ja litsentsimise esmalt paika sidnud.
+1. Kui häälestate seadme registreerimisi esimest korda, veenduge, et olete läbi vaadanud seadmehalduse tutvustuse [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview) mis juhendab teid, kuidas seadmed Azure AD-le juhtimise alla saada. 
+1. Kui registreerite seadmeid otse Azure AD-sse ja registreerite need Intune'i, peate tagama, et [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign) olete [Intune'i](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment) konfigureerinud ja litsentsid on olemas.
 1. Veenduge, et teil oleks azure AD-s õigus teha toiminguid. Seadmeregistreerimiste sätteid saab hallata ainult Azure AD üldadministraator.
-1. Azure AD liitumise rakendamiseks lugege teemat [Azure AD-ühenduse kavandamine.](/azure/active-directory/devices/azureadjoin-plan)
+1. Azure AD liitumise rakendamiseks lugege teemat [Azure AD-ühenduse kavandamine.](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan)
 
-Azure AD-ga liitumise levinumate probleemide lahendamise kohta leiate lisateavet teemast [Azure Ad Joini](/azure/active-directory/devices/faq) KKK ja Windows 10 pro-seadme kohta leiate lisateavet teemast Windows 10 Pro-seadmega [azure AD-ga liitumine –](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)on vaja üle minna – Microsofti kogukonnale.
+Azure AD-ga liitumise levinumate probleemide lahendamise kohta leiate lisateavet teemast [Azure Ad Joini](https://docs.microsoft.com/azure/active-directory/devices/faq) KKK ja Windows 10 pro-seadme kohta leiate lisateavet teemast Windows 10 Pro-seadmega [azure AD-ga liitumine –](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)vajadus üle minna – Microsofti kogukonnale.

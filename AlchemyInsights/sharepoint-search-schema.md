@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ' i otsingu skeemi haldamine
+title: Otsinguskeemi haldamine SharePoint Online'is
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,30 +8,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8eb0e93ea5bbf2154213274041b28a3c908090dae724b8f8e55fa2fb05f16d86
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085080"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>SharePoint Online ' i otsingu skeemi haldamine
+# <a name="manage-search-schema-in-sharepoint-online"></a>Otsinguskeemi haldamine SharePoint Online'is
 
-Otsingu skeem reguleerib seda, mida kasutajad saavad otsida, kuidas kasutajad saavad seda otsida ja kuidas saate oma otsingu veebisaitidel tulemusi esitada. 
+Otsinguskeem määrab, mida kasutajad saavad otsida, kuidas kasutajad seda otsida saavad ja kuidas saate otsinguveebisaitide tulemusi esitada. 
 
-Lisateavet leiate teemast [SharePoint Online ' i otsingu skeemi haldamine](https://docs.microsoft.com/sharepoint/manage-search-schema) . 
-- Muutke otsingu skeemi.
+Lisateavet [leiate teemast SharePoint Online'is](https://docs.microsoft.com/sharepoint/manage-search-schema) otsinguskeemi haldamine. 
+- Muutke otsinguskeemi.
 - Hallatavate atribuutide loomine.
-- Vastendus analüüsitud vastenduse vastendatud atribuutidega hallatavatele atribuutidele.
+- Analüüsitud kaardi analüüsitud atribuutide vastendamine hallatavate atribuutidega.
 
-Uurige oma otsingu skeemi haldamise osas järgmist.
+Pidage otsinguskeemi haldamisel silmas järgmist.
 
-- Kui teile kuvatakse hoiatus, mis kinnitab, **et rakendus on** skeemi muutmisel peatatud, on see ainult ajutiselt, sest teenuse hooldust esineb. 
+- Kui teile kuvatakse hoiatus selle kohta, et rakendus **on** skeemi muutmisel peatatud, on see ainult ajutine, kuna toimub teenuse hooldus. 
 
-    Kui möödunud on rohkem kui 24 tundi ja teil esineb endiselt hoiatusi, logige sisse tugiteenuste juhtumi korral.
-- Kui muudate hallatavaid atribuute või lisate uusi, jõustuvad muudatused alles pärast seda, kui sisu on uuesti analüüsitud. SharePoint Online ' is toimub analüüsimine automaatselt määratletud analüüsi ajakava põhjal.
-- Kui soovite veenduda, et muudatused on analüüsitud, saate [taotleda loendi või teegi uuesti indekseerimist.](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Kui möödunud on rohkem kui 24 tundi ja hoiatus kuvatakse endiselt, logige sisse tugiteenusejuhtum.
+- Hallatavate atribuutide muutmisel või uute lisamisel jõustuvad muudatused alles pärast sisu uuesti analüüsimist. Kui SharePoint Online'is, toimub analüüsimine määratud analüüsigraafiku põhjal automaatselt.
+- Veendumaks, et teie muudatused on analüüsitud, saate konkreetselt taotleda loendi [või teegi](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) uuesti indekseerimist 
 
-Otsingu skeemi põhjaliku ülevaate leiate teemast [Otsingu skeemi tutvustus](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+Otsinguskeemi täieliku ülevaate leiate teemast [Otsinguskeemi tutvustus](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 
