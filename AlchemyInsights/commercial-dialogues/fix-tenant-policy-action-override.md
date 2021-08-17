@@ -1,5 +1,5 @@
 ---
-title: Rentniku poliitika lahendamine (toimingu alistamine)
+title: Rentnikupoliitika parandus (toimingu alistamine)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745879"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896071"
 ---
-# <a name="fix-tenant-policy-action-override"></a>Rentniku poliitika lahendamine (toimingu alistamine)
+# <a name="fix-tenant-policy-action-override"></a>Rentnikupoliitika parandus (toimingu alistamine)
 
-See sõnum mõjutas teie rentniku rämpsposti poliitikat. Poliitika läbivaatamiseks tehke järgmist.
+Üks teie rämpspostitõrje poliitikatest mõjutas seda sõnumit. Poliitikate läbivaatamiseks tehke järgmist.
 
-1. Minge [Office 365 turbe & nõuetele vastavuse keskusse](https://go.microsoft.com/fwlink/p/?linkid=2077143)ja seejärel valige **ohustatud halduse**  >  **poliitika**  >  [anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Kontrollige, kas **poliitika allikas** viitab järgmistele teemale:  **Add-Xheader/ModifySubject/ümbersuunamine/DELETE/ei toimingu/Salakoopia sõnum**
+1. Avage Microsoft 365 Defender portaal jaotises Poliitikad & Meilipoliitikad & Reeglid <https://security.microsoft.com/>  \>  \>  \>  ohupoliitikad Rämpspostitõrje. 
 
-    Kui see on nii, siis kontrollige, kas vahekaardil **kohandatud** kuvatakse sõnumiga mõjutatud poliitika sätted. On võimalik, et kõik Exchange Online ' i kaitstud kliendid rakendasid sõnumile **normi** .
+   Otse rämpspostitõrje **poliitikate lehele minemiseks** kasutage funktsiooni <https://security.microsoft.com/antispam> .
 
-Lisateavet rämpsmeili filtri poliitikate konfigureerimise kohta leiate teemast [rämpsmeili filtri poliitikate konfigureerimine](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. Valige **lehel Rämpspostitõrje poliitika** poliitika, klõpsates poliitika nime **(Tüüp** on  Kohandatud rämpspostivastane poliitika või **Nimi** on rämpspostitõrje sissetulev **poliitika (vaikesäte).**
+3. Klõpsake kuvatavas üksikasja hüpikmenüüs **jaotises Toimingud** nuppu **Redigeeri toiminguid.**
+4.  Vaadake jaotises **Sõnumitoimingud** üle rämpsposti, suure usaldusväärsusega **rämpsposti,** **andmepüügi** ja suure usaldusväärsusega andmepüügi otsused, et näha, kas on valitud mõni järgmistest väärtustest.
+   - **X-päise lisamine**
+   - **Valmis teemarida tekstiga**
+   - **Sõnumi ümbersuunamine meiliaadressile**
+   - **Kustuta sõnum**
+   - **Toiming puudub**
+
+   Võimalik, et kõigile klientidele **rakendatud standardsätted** Exchange Online'i kaitseteenus mõjutasid sõnumit.
+
+Lisateavet leiate teemast [Rämpspostitõrjepoliitikate konfigureerimine EOP-s.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

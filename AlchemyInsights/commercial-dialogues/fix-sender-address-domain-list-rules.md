@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930021"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896107"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Saatja aadressi-/domeeniloendireeglite parandus
 
-Seda sõnumit mõjutas teie rentniku rämpspostitõrjepoliitika. Sõnumi saatja leiti loendist Luba või Blokeeri. Poliitika läbivaatamiseks tehke järgmist.
+Üks teie rämpspostitõrje poliitikatest mõjutas seda sõnumit. Sõnumi saatja leiti loendist Luba või Blokeeri. Poliitikate läbivaatamiseks tehke järgmist.
 
-1. Avage [Office 365 turbe- & ja](https://go.microsoft.com/fwlink/p/?linkid=2077143)seejärel valige Ohuhalduspoliitika   >    >  [rämpspostitõrje.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Kui **standardsätted** on lubatud, **märkige vahekaardil Standardne** ruut Luba loendid **ja** **Blokeeri loendid.**
-3. Kui kohandatud **sätted** on lubatud, vaadake vahekaardil **Kohandatud** poliitikad üle, valides **Redigeerimispoliitika** ja märkides **ruudud Luba loendid ja** **Blokeeri loendid.**
+1. Avage Microsoft 365 Defender portaal jaotises Poliitikad & Meilipoliitikad & Reeglid ohupoliitikad <https://security.microsoft.com/>  \>  \>  \>  Rämpspostitõrje. 
 
-Lisateavet rämpspostifiltri poliitikate konfigureerimise kohta leiate teemast [Rämpspostifiltri poliitikate konfigureerimine.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Otse rämpspostitõrje **poliitikate lehele minemiseks** kasutage funktsiooni <https://security.microsoft.com/antispam> .
+
+2. Lehel **Rämpspostitõrje poliitikad** poliitika valimiseks klõpsake poliitika nime (**Tüüp** on  Kohandatud rämpspostivastane poliitika või **Nimi** on rämpspostivastane sissetulev **poliitika (vaikesäte).**
+3. Klõpsake kuvatavas üksikasjade hüpikmenüü jaotises Lubatud ja **blokeeritud saatjad** ja domeenid nuppu Redigeeri lubatud ja **blokeeritud** saatjaid ja domeene.
+4. Vaadake jaotises **Lubatud** üle saatjad ja domeenid, klõpsates nuppu **Halda \<nn\> saatjaid või** Luba **domeene.**
+
+Lisateavet leiate teemast [Rämpspostitõrjepoliitikate konfigureerimine EOP-s.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

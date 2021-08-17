@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045128"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311395"
 ---
 # <a name="view-all-quarantined-messages"></a>Kuva kõik karantiinis sõnumid
 
-1. Avage halduskeskuses turbekontrolli [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Avage **ohuhalduse**  >  **läbivaatuse**  >  **karantiin.**
+1. Avage Microsoft 365 Defender portaalis <https://security.microsoft.com> Meil ja **& koostöö läbivaatus** \>  \> **karantiini**.
+
+   Otse karantiinilehele **minemiseks** kasutage funktsiooni <https://security.microsoft.com/quarantine> .
+
+2. Veenduge,  et lehel Karantiini oleks **valitud vahekaart** Meil.
 3. Vaikimisi sorditakse sõnumid uusimast vanimani vastavalt sõnumi vastuvõtmise kuupäevale. Välja sortimiseks klõpsake päist.
 4. Hulgitoiminguid saate teha ainult kuni 100 üksusega, seega võib filtreerimine aidata vähendada ka tulemikomplekti, kui teil on üle 100 üksuse.
+
+Lisateavet leiate järgmistest artiklitest.
+
+- [Karantiinis sõnumite saatmine ja vabastamine kasutajana](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Karantiini pandud sõnumite ja failide haldamine administraatorina](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
