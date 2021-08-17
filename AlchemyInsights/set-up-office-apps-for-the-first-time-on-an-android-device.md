@@ -1,5 +1,5 @@
 ---
-title: Office ' i rakenduste häälestamine Androidi seadmes esimest korda
+title: Androidi Office esmaste rakenduste häälestamine Androidi seadmes
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003965"
 - "7021"
-ms.openlocfilehash: 13adc48acc4dca8735115a7d4cbe57a76ea89df2
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 0bf2156e5aedce40262c2b10ccaed0fbcd7c877c8709c6f2d68d20bdad7dd517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073848"
 ---
-# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Office ' i rakenduste häälestamine Androidi seadmes esimest korda
+# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Androidi Office esmaste rakenduste häälestamine Androidi seadmes
 
-Androidi seadmes saate installida Office ' i Office ' i mobiilirakenduse, mis ühendab Wordi, Excelit ja PowerPointi ühte rakendusse või saate Office ' i rakendused eraldi installida. Selleks tehke järgmist.
+Androidi seadmes saate Office installida Office mobiilirakendusena, mis ühendab Wordi, Excel ja PowerPoint ühte rakendusse, või installida Office rakendused eraldi. Selleks tehke seda.
 
-1. Avage Office ' i rakendus (nt Excel), logige sisse oma Microsofti kontoga ja seejärel puudutage nuppu **edasi**.
-2. Office Mobile ' i kasutuskogemuse täiustamiseks puudutage valikut **Jah** või **ei** ja seejärel puudutage teatiste lubamiseks nuppu **Lülita teatised** ette või **mitte praegu** .
+1. Avage Office'i telefonirakendus (nt Excel), logige sisse oma Microsofti kontoga ja seejärel puudutage nuppu **Edasi**.
+2. Puudutage **valikut** Jah **või Ei,** et aidata meil Office  mobiilsideseadme kasutuskogemust, ja seejärel puudutage teatiste lubamiseks nuppu Lülita teatised sisse või Mitte praegu, **et** sellest loobuda.
     > [!NOTE]
-    > Pärast sisselogimist lisatakse teie konto automaatselt muudele teie Androidi seadmesse installitud Office ' i rakendustele.
-3. Valikuline Kui soovite lisada mõne muu konto või pilveteenuse (nt OneDrive for Businessi või Dropboxi), puudutage nuppu **Ava**  >  **Lisa asukoht**. Kui kasutate OneNote ' i, puudutage valikut **sätted**  >  **Accounts**(sätted) ja seejärel valige lisatav pilveteenuse teenus.
-4. Sisestage meiliaadress ja parool, mida kasutate teenusesse sisselogimiseks. Sa oled valmis!
+    > Pärast sisselogimist lisatakse teie konto automaatselt muudesse androidi Office installitud rakendustesse.
+3. (Valikuline) Mõne muu konto või pilveteenuse (nt OneDrive või Dropbox) lisamiseks **puudutage** käsku  >  **Ava koht**. Kui kasutate OneNote, **puudutage nuppu Sätted** Kontod ja valige seejärel pilvteenus,  >  mille soovite lisada.
+4. Sisestage meiliaadress ja parool, mida kasutate teenusesse sisselogimiseks. Võite minna!
 
-Office for Mobile ' i või Office ' i rakenduste allalaadimise juhised leiate teemast [Office ' i installimine ja häälestamine Androidi seadmes](https://go.microsoft.com/fwlink/?linkid=2135287).
+Juhised mobiili- või Office või üksikute rakenduste Office kohta leiate teemast Office installimine ja [häälestamine Androidi seadmes.](https://go.microsoft.com/fwlink/?linkid=2135287)

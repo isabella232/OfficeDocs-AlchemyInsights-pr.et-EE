@@ -1,5 +1,5 @@
 ---
-title: Andmesalvestuskoha muutmine Microsoft Defenderi ATP
+title: Microsoft Defenderi ATP andmesalvestuskoha muutmine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001222"
 - "6032"
-ms.openlocfilehash: b01e113bd8c8387009f6f7b857c3a8bf977ec4fd
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 098253c12e0d0bf03f1c50af66a7a84635f699218ca734e53965bcfd55edb930
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103584"
 ---
-# <a name="change-data-storage-location-for-microsoft-defender-atp"></a>Andmesalvestuskoha muutmine Microsoft Defenderi ATP
+# <a name="change-data-storage-location-for-microsoft-defender-atp"></a>Microsoft Defenderi ATP andmesalvestuskoha muutmine
 
-Kui soovite muuta andmesalvestuskohta, mida Microsoft Defenderi ATP, avage Microsofti tugiteenuste juhtum.
+Microsoft Defenderi ATP kasutatava andmesalvestuskoha muutmiseks avage Microsofti tugiteenuste juhtum.

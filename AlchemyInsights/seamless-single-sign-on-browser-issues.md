@@ -1,5 +1,5 @@
 ---
-title: Tõrgeteta ühekordse sisselogimise (SSO) brauseri probleemide tõrkeotsing
+title: Sujuva ühekordse sisselogimise (SSO) brauseriprobleemide tõrkeotsing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693150"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074280"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Tõrgeteta ühekordse sisselogimise (SSO) brauseri probleemide tõrkeotsing
+# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Sujuva ühekordse sisselogimise (SSO) brauseriprobleemide tõrkeotsing
 
-Enamik kasutajaid suudab lahendada oma sujuva SSO brauseri probleemi, kasutades allolevaid juhiseid.
+Enamik kasutajaid on võimelised oma sujuva SSO brauseriprobleemi lahendama, järgides alltoodud juhiseid.
 
-1. Veenduge, et teie brauser oleks ajakohane.
-2. Kustutage brauserist küpsised, et eemaldada kehtetu SSO seanss ja proovige uuesti sisse logida.
-3. Proovige mõne muu brauseriga sisse logida.
+1. Veenduge, et teie brauser oleks ajasõbralik.
+2. Sobimatu SSO seansi eemaldamiseks kustutage brauserist küpsised ja proovige uuesti sisse logida.
+3. Proovige sisse logida teise brauseriga.
 
-**Teadaolevad brauseri probleemid**
+**Teadaolevad brauseriprobleemid**
 
-- Sujuv SSO ei tööta Firefoxi privaatsel sirvimise režiimis.
+- Sujuv SSO ei tööta Firefoxi privaatse sirvimise režiimis.
 - Sujuv SSO ei tööta Internet Exploreris, kui täiustatud kaitstud režiim on sisse lülitatud.
-- Sujuv SSO ei tööta Microsoft Edge ' is (pärand) privaatse sirvimisseansi režiimis.
-- Sujuv SSO ei tööta iOS-i ja Androidi mobiilsetes brauserites.
+- Sujuv SSO ei tööta privaatse sirvimise režiimis Microsoft Edge (pärand).
+- Sujuv SSO ei tööta iOS-i ja Androidi mobiilibrauseris.
 
-Sujuv SSO toetab järgmise Microsoft Edge ' i versiooni kroomi ja see töötab InPrivate ja Guest mode disain.
+Sujuv SSO toetab järgmise versiooni Microsoft Edge põhineb Chromium ja see töötab InPrivate-režiimis ja Külalisrežiimis.
 
-**Nõuandev teade**
+**Nõuandev**
 
-Lisateabe saamiseks või tehniliste küsimuste esitamiseks õmblusteta SSO kohta lugege teemat [Microsoft Q&](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Funktsioonipäringute vaatamiseks või sujuva SSO kohta tehniliste küsimuste küsimiseks lugege [teemat Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
