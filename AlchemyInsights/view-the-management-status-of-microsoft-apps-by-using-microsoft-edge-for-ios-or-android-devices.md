@@ -15,17 +15,17 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 2cd50e5b737796ed778571e5fddfb48b3b20a4e745938fc09836525a47ba2b72
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7f4725323a30da42521c95c2f6ee8c72a1671150f251da193199d140f17beb66
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037172"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892379"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Microsofti rakenduste haldusoleku vaatamine iOS-i või Androidi seadmete Microsoft Edge abil
 
-Hallatavate iOS-i või Androidi rakenduste tõrkeotsinguks rakenduselogidele juurdepääsemiseks avage Microsoft Edge ja tippige aadressiväljale **tekst about:intunehelp.** Microsoft Edge käivitab tõrkeotsingurežiimis.
+Hallatavate iOS-i või Androidi rakenduste tõrkeotsinguks mõeldud rakenduselogidele juurdepääsemiseks avage Microsoft Edge ja tippige aadressiväljale **tekst about:intunehelp.** Microsoft Edge käivitab tõrkeotsingurežiimis.
 
-Rakenduselogides talletatud sätete loendi leiate teemast Kliendirakenduse [kaitselogide ülevaatamine.](/mem/intune/apps/app-protection-policy-settings-log)
+Rakenduselogides talletatud sätete loendi leiate teemast Kliendirakenduse [kaitselogide ülevaatamine.](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log)
 
-Androidi seadmetes rakenduselogide vaatamise kohta leiate teavet teemast [Upload ja meililogid.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Androidi seadmetes rakenduselogide vaatamise kohta leiate teavet teemast [Upload ja meililogid.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

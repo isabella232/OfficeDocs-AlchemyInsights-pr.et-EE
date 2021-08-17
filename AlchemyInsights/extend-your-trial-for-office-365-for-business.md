@@ -16,12 +16,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ce64ca1f9afa04ab9eaa6129dd5bbafb2b8e799ae32ca24162fd5c8bac7d84fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b3898c5446a8193f818fd810bb3645f78865aa80
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868638"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313377"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Ärirakenduse prooviversiooni Microsoft 365 laiendamine
 
@@ -32,4 +32,4 @@ Tasuta prooviperioodi saate pikendada veel ühe 30-päevase perioodi võrra. Pä
 3. Valige tellimuse üksikasjade lehel jaotises **Tellimuse ja makse sätted** käsk Pikenda **lõppkuupäeva.**
 4. Vaadake **paanil Lõppkuupäeva** pikendamine üle laiendusteave ja valige vajaduse korral soovitud makseviis. Kui olete lõpetanud, valige Laienda **prooviversioon.**
 
-Lisateavet prooviversiooni laiendamise või samm-sammult juhiste kohta leiate teemast Prooviversiooni [laiendamine Office 365 ettevõtetele.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
+Lisateavet prooviversiooni laiendamise või samm-sammult juhiste kohta leiate teemast Office 365 [prooviversiooni laiendamine.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)

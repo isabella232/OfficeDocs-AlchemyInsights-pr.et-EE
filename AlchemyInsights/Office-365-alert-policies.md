@@ -13,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891675"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312683"
 ---
 # <a name="alert-policies"></a>Teatisepoliitikad
 
@@ -33,7 +33,7 @@ Teatise läbivaatamiseks ja selle kohta tegutsemine
 
 1. Tehke ühte järgmistest toimingutest.
    - Avage Microsoft 365 vastavuskeskus <https://compliance.microsoft.com> **teatised**. Või otse lehele Teatised **minemiseks** kasutage funktsiooni <https://compliance.microsoft.com/compliancealerts> .
-   - Avage Microsoft 365 Defender portaal <https://security.microsoft.com> Intsidentide ja **&** \> **teatised**. Või otse lehele Teatised **minemiseks** kasutage funktsiooni <https://security.microsoft.com/alerts> .
+   - Avage Microsoft 365 Defender <https://security.microsoft.com> **portaalis** Juhtumid ja & \> **teatised**. Või otse lehele Teatised **minemiseks** kasutage funktsiooni <https://security.microsoft.com/alerts> .
 2. Teatise teabega hüpiklehe kuvamiseks klõpsake teatist.
 
 Saate teatisega midagi ette võtta (nt [eemaldada kahtlase sisendkausta reegli).](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Samuti saate teatise lihtsalt sulgeda, klõpsates **teatise** hüpiklehel nuppu Lahenda.

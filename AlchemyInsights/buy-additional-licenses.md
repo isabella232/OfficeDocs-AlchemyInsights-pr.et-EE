@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499076"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313730"
 ---
 # <a name="buy-additional-licenses"></a>Täiendavate litsentside ostmine
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499076"
 3. Sisestage **väljale** **Litsentside** koguarv väljale Uus kogus selle tellimuse jaoks soovitud litsentside koguarv. Näiteks kui teil on 100 litsentsi ja soovite lisada veel 25 litsentsi, sisestage 125.
 4. Valige **Salvesta**.
 
-Lisateavet leiate teemast [Litsentside ostmine või eemaldamine.](/microsoft-365/commerce/licenses/buy-licenses)
+Lisateavet leiate teemast [Litsentside ostmine või eemaldamine.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Täiendavad ressursid**
 
-[Litsentside määramine Microsoft 365 ettevõtetele](/microsoft-365/admin/manage/assign-licenses-to-users)
+[Litsentside määramine Microsoft 365 ettevõtetele](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

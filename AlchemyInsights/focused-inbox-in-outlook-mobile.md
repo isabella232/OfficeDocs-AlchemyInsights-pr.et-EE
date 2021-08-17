@@ -1,5 +1,5 @@
 ---
-title: 1800019 fookuses sisendkaust Outlook Mobile ' is
+title: 1800019 fookeeritud sisendkaust Outlook mobiilsideseadmes
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744401"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117048"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Fookuses sisendkaust Outlook Mobile ' i jaoks
+# <a name="focused-inbox-for-outlook-mobile"></a>Fookeeritud sisendkaust Outlook jaoks
 
-[Mis on fookuses sisendkaust?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[Mis on fookeeritud sisendkaust?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[Kuidas redigeerida reegleid, mis toimetavad meili sisse ja välja fookuses sisendkaust?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[Kuidas redigeerida reegleid, mis teisaldavad meilisõnumid fookeeritud sisendkausta ja sealt välja?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[Kuidas lülitada fookuses olev sisendkaust välja või muuta seda, kas minu märkide arv ja teatised sünkroonitakse fookuses oleva Sisendkaustaga?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[Kuidas fookeeritud sisendkaust välja lülitada või muuta, kas minu märgiloend ja teatised sünkroonitakse fookeeritud sisendkaustaga?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[Kuidas lülitada fookuses olev sisendkaust välja või muuta seda, kas teatised sünkroonitakse fookuses oleva Sisendkaustaga?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[Kuidas fookeeritud sisendkaust välja lülitada või muuta, kas teatised sünkroonitakse fookeeritud sisendkaustaga?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[Kuidas lülitada fookuse ja muu vahel?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Kuidas valida fookeeritud ja muu?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Lisateave: [rakenduse Outlook iOS-i ja Androidi rakenduse spikker](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Lisateave: [iOS-i ja Androidi jaoks mõeldud Outlook rakenduse spikker](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

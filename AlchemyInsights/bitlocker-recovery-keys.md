@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060060"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Juurdepääs BitLockeri taastevõtmetele
 
-Bitlockeri sätete konfigureerimisel Intune'i lõpp-punkti kaitse poliitikas on võimalik määratleda, kas Bitlockeri taasteteavet tuleks talletada Azure Active Directorys.
+Bitlockeri sätete konfigureerimisel Intune'i lõpp-punkti kaitsepoliitikas on võimalik määratleda, kas Bitlockeri taasteteavet tuleks talletada Azure Active Directory.
 
 Kui see säte on konfigureeritud, peaksid salvestatud taasteandmed olema Intune'i administraatorile intune'i seadmete tera seadmekirje andmete osana nähtavad kahel viisil.
 
@@ -47,5 +47,5 @@ Kui seade oli enne Intune'is registreerumist krüptitud, võib taastevõti olla 
  
 Kui seade on domeenipõhise rühmapoliitika kaudu konfigureerimise tulemusena krüptitud, võidakse taasteteave talletada siseses Active Directorys.
 
-Kui olete konfigureerinud lõpp-punkti kaitsepoliitika Azure Active Directory taastevõtme talletamiseks, kuid konkreetse seadme võtit pole üles laaditud, saate üleslaadimise käivitada, pöörates selle seadme taastevõtit MEM-konsooli kaudu. Lisateavet leiate teemast [BitLockeri taastevõtmete pööramine.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Kui olete konfigureerinud lõpp-punkti kaitsepoliitika, et talletada taastevõti Azure Active Directory'is, kuid konkreetse seadme võtit pole üles laaditud, saate üleslaadimise käivitada, pöörates selle seadme taastevõtit MEM-i konsooli kaudu. Lisateavet leiate teemast [BitLockeri taastevõtmete pööramine.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

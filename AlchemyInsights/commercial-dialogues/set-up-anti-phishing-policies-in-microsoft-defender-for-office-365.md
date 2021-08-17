@@ -1,5 +1,5 @@
 ---
-title: Andmepüügitõrjepoliitikate häälestamine Microsoft Defenderi Office 365
+title: Andmepüügitõrjepoliitikate häälestamine rakenduses Microsoft Defender for Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966789"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313423"
 ---
-# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Andmepüügitõrjepoliitikate häälestamine Microsoft Defenderi Office 365
+# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Andmepüügitõrjepoliitikate häälestamine rakenduses Microsoft Defender for Office 365
 
-1. Avage Office 365 [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Valige **Ohuhalduspoliitika**  >  . Valige **lehel Poliitika** suvand [Microsoft Defender Office 365 andmepüügitõrje jaoks.](https://go.microsoft.com/fwlink/?linkid=2101369)
-3. Lehel **Andmepüügivastane** tehke ühte järgmistest.
-    1. Uue poliitika lisamiseks valige **+ Loo**.
-    1. Olemasoleva poliitika redigeerimiseks valige poliitika nimi lehel Andmepüügivastane **kuvatav loend.** Valige kuvataval lehel **selle** sätte kõrval, mida soovite muuta, käsk Redigeeri. Andmepüügitõrjepoliitika määratlemiseks käivitatakse viisard.
-4. Kui loote uut poliitikat, määrake oma poliitika nimi, kirjeldus ja sätted.
-5. Kui olete sätted läbi vaadanud, valige **vastavalt vajadusele** Käsk Loo see poliitika **või** Salvesta.
+1. Avage Microsoft 365 Defender portaal jaotises Poliitikad & Meilipoliitikad & Reeglid <https://security.microsoft.com/>  \>  \>  \>  ohupoliitikad Andmepüügitõrje. 
+
+   Otse lehele **Andmepüügivastane minek** kasutage funktsiooni <https://security.microsoft.com/antiphishing> .
+
+2. Tehke **lehel Andmepüügivastane** üks järgmistest toimingutest.
+   - Uue poliitika lisamiseks valige **+ Loo**. Poliitikasätete määratlemiseks käivitatakse viisard.
+   - Olemasoleva poliitika redigeerimiseks valige poliitika, klõpsates poliitika nime. Klõpsake kuvatavas üksikasja hüpikmenüüs **jaotises,** kus on sätted, mida soovite konfigureerida, nuppu Redigeeri.
+
+3. Pärast sätete läbivaatamist valige Edasta **(uus)** või **Salvesta** (redigeeri).
+
+Lisateavet leiate teemast [Andmepüügitõrje poliitikate konfigureerimine Rakenduses Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies).
