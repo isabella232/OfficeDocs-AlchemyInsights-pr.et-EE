@@ -1,5 +1,5 @@
 ---
-title: Kasutaja loodud meilisõnumite signatuuride blokeerimine
+title: Kasutaja tehtud meilisignatuuride blokeerimine
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103548"
 ---
-# <a name="block-user-made-email-signatures"></a>Kasutaja loodud meilisõnumite signatuuride blokeerimine
+# <a name="block-user-made-email-signatures"></a>Kasutaja tehtud meilisignatuuride blokeerimine
 
-Järgmine lahendus kehtib ainult Outlooki veebirakenduses loodud meilisõnumite signatuuride korral. Kui teil on asutusesisene Exchange ' i server, saate Outlooki rakenduses signatuure blokeerida.
+Järgmine lahendus kehtib ainult meilisignatuuride kohta, mis on Outlooki veebirakendus. Kui teil on kohapealne Outlook, saate signatuurid blokeerida ainult Exchange Server.
 
-1. **Valige halduskeskus**  >  **Exchange ' i** halduskeskus.
-2. Valige   >  **Outlook Web Appi poliitikate** permissions.
-3. Valige poliitika ja seejärel klõpsake selle redigeerimiseks ikooni pliiats.
-4. Klõpsake nuppu **funktsioonide**  >  **rohkem suvandeid**.
-5. Tühjendage jaotises **kasutaja töökogemus** ruut **Meilisõnumi signatuur** ja seejärel klõpsake nuppu **Salvesta**.
+1. Valige halduskeskuses **Halduskeskused**  >  **ja Exchange**.
+2. Klõpsake   >  **poliitikate Outlook Web App õigusi.**
+3. Valige poliitika ja seejärel klõpsake selle redigeerimiseks pliiatsiikooni.
+4. Klõpsake **nuppu Funktsioonid** Rohkem  >  **suvandeid.**
+5. Tühjendage **jaotises Kasutuskogemus** ruut **Meilisignatuur** ja seejärel klõpsake nuppu **Salvesta.**
 
-**Oluline.** Kui enne selle märkeruudu tühjendamist lisati allkiri, saab kasutaja seda endiselt kasutada. Paluge neil see eemaldada.
+**Tähtis.** Kui enne selle märkeruudu tühjendamist lisati signatuur, saab kasutaja seda siiski kasutada. Paluge neil see eemaldada.

@@ -1,5 +1,5 @@
 ---
-title: Tõrgeteta ühekordse sisselogimise (SSO) tõrkekoodid ja-sõnumite tõrkeotsing
+title: Tõrgeteta ühekordse sisselogimise (SSO) tõrkekoodide ja sõnumite tõrkeotsing
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9367"
 - "9004357"
-ms.openlocfilehash: 805a85ffd47e14295c375fc415301570de22bfd8
-ms.sourcegitcommit: 3fb39a080cc8680d960b8468ac9355389a3e2df4
-ms.translationtype: MT
+ms.openlocfilehash: 74c783a5fb9e1388b12801fa0de92faed9e57bf14c0f99d21539e17bf1b1c284
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038990"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-error-codes-and-messages"></a>Tõrgeteta ühekordse sisselogimise (SSO) tõrkekoodid ja-sõnumite tõrkeotsing
+# <a name="troubleshoot-seamless-single-sign-on-sso-error-codes-and-messages"></a>Tõrgeteta ühekordse sisselogimise (SSO) tõrkekoodide ja sõnumite tõrkeotsing
 
-Tõrgeteta ühekordse sisselogimise (SSO) tõrkekoodid ja-sõnumite lahendamiseks tehke järgmist.
+Tõrgeteta ühekordse sisselogimise (SSO) tõrkekoodide ja -sõnumite lahendamiseks tehke järgmist.
 
-1. SSO tõrgete läbivaatus ja tõrkeotsing, minnes [Azure Active Directory portaalis sisselogimise tegevuste aruannetele](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins).
-2. Lugege artiklit [Azure Active Directory sujuv Ühekordne sisselogimine](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso#sign-in-failure-reasons-in-the-azure-active-directory-admin-center-needs-a-premium-license) – see artikkel aitab teil leida tõrkeotsingu teavet seoses Azure Active Directory (Azure AD) õmblusteta ühekordse Sign-On (sujuv SSO) levinumate probleemidega.
-3. Lugege teemat [AZURE ad autentimine ja autoriseerimise tõrkekoodid](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#lookup-current-error-code-information) – see artikkel aitab teil leida teavet AADSTS, mis tagastatakse Azure Active Directory (Azure AD) turbelubade teenusest (STS). Sellest artiklist leiate ka AADSTS, veaparandused ja Soovitatavad lahendused.
+1. SSO tõrgete ülevaatamiseks ja tõrkeotsinguks valige portaalis [logimistegevuse Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins).
+2. Lugege [artiklit Azure Active Directory Sujuv](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso#sign-in-failure-reasons-in-the-azure-active-directory-admin-center-needs-a-premium-license) ühekordne sisselogimine – sellest artiklist leiate tõrkeotsinguteavet levinumate probleemide kohta, mis Azure Active Directory (Azure AD) sujuv ühekordne Sign-On (sujuv SSO).
+3. Vt [Azure AD autentimis-](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#lookup-current-error-code-information) ja autoriseerimistõrgete koodid . Sellest artiklist leiate teavet AADSTS-i tõrkekoodide kohta, mis tagastatakse Azure Active Directory (Azure AD) turbelubade teenusest (STS). Sellest artiklist leiate ka AADSTS-i tõrkekirjeldused, parandused ja mõned soovitatud lahendused.
 
-[Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) – siit leiate teavet selle kohta, kuidas teha funktsioonide taotlusi või esitada tehnilisi küsimusi õmblusteta SSO kohta.
+[Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) – lugege seda artiklit, mis sisaldab teavet funktsioonitaotluste tegemise või sujuva SSO kohta tehniliste küsimuste kohta.
 

@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017128"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303573"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>IP-aadressi otsige auditilogist
 
-1. Ip-aadress, mis vastab kasutaja või administraatori tegevusele, kuvatakse auditilogides. Klienditeave logitakse ka. IP-aadressi tuvastamiseks tehke nii.
+Ip-aadress, mis vastab kasutaja või administraatori tegevusele, kuvatakse auditilogides. Klienditeave logitakse ka. IP-aadressi tuvastamiseks tehke nii.
 
-1. Avage Office 365 [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Valige **Otsi**  >  **[auditilogi otsingut](https://go.microsoft.com/fwlink/?linkid=2103759)**.
-    > [!NOTE]
-    > Kui näete teadet, et peate auditeerimise sisse lülitama, lülitage see kohe sisse. Kui see funktsioon pole lubatud, ei saa otsingutulemid eelmistest kuupäevadest andmeid tõmmata.
-1. Kui olete huvitatud konkreetsest tegevusest, valige see loendist **Tegevused.** vastasel korral tagastatakse valitud kasutaja jaoks vaikimisi kõik tegevused. Arvestage, et teatud tegevused ei pruugi menüüs Tegevused valiku **avamiseks saadaval** olla; Kui valitud on suvand Kuva kõigi tegevuste **tulemid** (vaikesäte), tagastatakse need auditiüksused.
-1. Määrake kuupäevavahemik ja valige **väljal Kasutajad** selle kasutaja kasutajanimi, mida soovite uurida.
-1. Valige **Otsi**. Tegevused kuvatakse jaotises **Tulemid.** Saate vaadata iga tegevuse IP-aadressi.
-1. Üksikasjade kuvamiseks valige tegevus ja seejärel **valige Lisateave**.
+1. Tehke ühte järgmistest toimingutest.
+   - Avage Microsoft 365 vastavuskeskus lahenduste audit <https://compliance.microsoft.com>  \> . Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://compliance.microsoft.com/auditlogsearch> .
+   - Avage Microsoft 365 Defender , valige <https://security.microsoft.com> **Auditeeri**. Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://security.microsoft.com/auditlogsearch> .
 
-Lisateavet leiate teemast [Auditilogist Office 365 levinud stsenaariumide tõrkeotsinguks.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Märkus.** Kui näete teadet, et peate auditeerimise sisse lülitama, lülitage see kohe sisse. Kui see funktsioon pole lubatud, ei saa otsingutulemid eelmistest kuupäevadest andmeid tõmmata.
+
+2. Kontrollige **lehel** Audit, kas vahekaart **Otsing** on valitud, ja seejärel konfigureerige järgmised sätted.
+   - **Kuupäeva- ja kellaajavahemik:** valige väljadele Algus ja Lõpp **kuupäeva-/kellaajavahemik.** 
+   - **Tegevused.** Kui olete huvitatud konkreetsest tegevusest, valige see loendist; vastasel korral tagastatakse vaikeväärtus **Kuva kõigi tegevuste** tulemid kõik tegevused. Arvestage, et teatud tegevused ei pruugi valiku jaoks saadaval olla; Kui valitud on kõigi tegevuste tulemite **kuvamine, tagastatakse need** auditiüksused.
+   - **Kasutajad:** aktsepteerige kõigi kasutajate tulemite tagastamiseks tühi vaikeväärtus või sisestage üks või mitu kasutajat.
+
+3. Kui olete lõpetanud, klõpsake nuppu **Otsi**. Tegevused kuvatakse uuel lehel **Auditiotsing.**
+
+4. Klõpsake tulemite väljal **Filtreeri tulemeid** ja tippige **väljale Tegevuse** filter käsk Sea postkast.
+
+5. Valige tulemitest auditikirje, et avada hüpik **Üksikasjad.**
+
+Lisateavet leiate teemast [Auditilogist otsimine, et uurida levinumaid tugiteenuseprobleeme.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

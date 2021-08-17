@@ -1,5 +1,5 @@
 ---
-title: Windows 10 Home'i täiendamine versiooniks Windows 10 Pro
+title: Versiooni Windows 10 Home versiooniks Windows 10 Pro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5d760314d17888ac4fdc3d85b0a2511437953d9b9126845169acd3fe486e55b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073524"
 ---
 # <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Versioonitäiendus tootevõtme või digitaallitsentsi abil
 
-**Üleminek versioonile Windows 10 Pro tootevõtme abil**
+**Tootevõtme Windows 10 Pro versioonile üleminek**
 
-1. Valige **Start**  >  **Settings**  >  **Update (& turbeaktiveerimine).**  >  
-2. Valige **Muuda tootevõtit** ja seejärel sisestage 25-märgiline Windows 10 Pro tootevõti.
-3. Windows **10** Pro versioonitäienduse alustamiseks valige Edasi.
+1. Valige **Start**  >  **Sätted Update**& Security Activation  >  **(Turbeaktiveerimine).**  >  
+2. Valige **Muuda tootevõtit** ja sisestage 25-märgiline Windows 10 Pro tootevõti.
+3. **Versioonitäienduse** alustamiseks Windows 10 Pro.
 
-**Üleminek versioonile Windows 10 Pro digitaallitsentsi abil**
+**Üleminek Windows 10 Pro digitaalse litsentsi abil**
 
-Kui olete windows 10 Pro oma seadmesse juba installinud ja aktiveerinud, on teil digitaallitsents, mis võimaldab teil minna üle versioonilt Windows 10 Home versioonile Windows 10 Pro ilma tootevõtmeta.
+Kui olete seadmesse Windows 10 Pro juba installinud ja aktiveerinud, on teil digitaallitsents, mis võimaldab teil Windows 10 Home Windows 10 Pro ilma tootevõtmeta.
 
-Valige **Start**  >  **Settings**  >  **Update (& turbeaktiveerimine).**  >  
+Valige **Start**  >  **Sätted Update**& Security Activation  >  **(Turbeaktiveerimine).**  >  
 
-- Kui teil on Windows 10 Pro digitaallitsents ja teie seadmes on praegu aktiveeritud Windows 10 Home, valige **Ava Microsoft Store** ja teil palutakse tasuta kasutusele võtta Windows 10 Pro.
-- Kui teil on Windows 10 Pro digitaallitsents ja teie seadmes pole Windows 10 Home aktiveeritud, valige **Tõrkeotsing** ja seejärel järgige windows 10 Pro versioonile üle minna.
+- Kui teil on Windows 10 Pro digitaallitsents ja Windows 10 Home on teie seadmes aktiveeritud, valige **Ava Microsoft Store** ja teil palutakse tasuta üle minna Windows 10 Pro versioonile.
+- Kui teil on Windows 10 Pro digitaallitsents ja Windows 10 Home pole teie seadmes aktiveeritud, valige **Tõrkeotsing** ja seejärel järgige juhiseid, et minna üle Windows 10 Pro.
 
-[Lisateave Windows 10 aktiveerimise kohta](https://support.microsoft.com/help/12440)
+[Lisateave aktiveerimise kohta Windows 10](https://support.microsoft.com/help/12440)

@@ -1,5 +1,5 @@
 ---
-title: SSPR tõrkeotsing
+title: SSPR-i tõrkeotsing
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "6128"
-ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 9d8184efdc60befd359059c62ea3eb1a14ad7d2a20dade921d4a71e424f52033
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50429722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038954"
 ---
-# <a name="troubleshoot-sspr"></a>SSPR tõrkeotsing
+# <a name="troubleshoot-sspr"></a>SSPR-i tõrkeotsing
 
 **Mul on probleeme parooli lähtestamise konfigureerimisega**
 
-- Kui olete administraator ja otsite, kuidas lubada iseteeninduskeskuse parooli lähtestamist, lugege artiklit [õpetuse lubamine SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), et konfigureerida oma asutuse parooli lähtestamine. Võib-olla soovite ka [litsentsimise nõuded](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)üle vaadata. Teil peab olema vähemalt ühe ettevõttes määratud litsents.
-    - **Ainult pilveteenuse kasutajad** – kõik Office 365 (O365) makstud SKU või Azure AD ' i põhifunktsioonid
-    - **Pilv ja/või kohapealsed kasutajad** – Azure AD Premium P1 või P2, Enterprise Mobility + Security (EMS) või Secure produktiivne Enterprise (SPE)
-- Lisateavet iseteeninduse parooli lähtestamise kohta leiate [meie KKK](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)-s.
+- Kui olete administraator ja otsite iseteeninduse parooli lähtestamise lubamist, lugege teemat [SSPR-i](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)lubamine , et konfigureerida oma asutuse jaoks parooli lähtestamine. Samuti võite soovida [litsentsimisnõuded läbi vaadata.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support) Teie ettevõttes peab olema määratud vähemalt üks litsents.
+    - **Ainult pilveteenuse kasutajad** – Office 365 (O365) tasuline SKU või Azure AD Basic
+    - **Pilveteenuse ja/või kohapealne** kasutaja – Azure AD Premium P1 või P2, Enterprise Mobility + Security (EMS) või Secure Productive Enterprise (SPE)
+- Lisateavet iseteeninduse parooli lähtestamise kohta vaadake [meie KKK-st.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Kuvatakse tõrketeade**
 
-Vaadake seda artiklit, et leida levinud tõrked ja nende lahendused: [iseteeninduskeskuse parooli lähtestamise tõrkeotsing](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
+Levinumate tõrgete ja nende lahenduste leidmiseks vaadake seda artiklit. [Iseteeninduse parooli lähtestamise tõrkeotsing](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Mul on parooli lähtestamise poliitikaga probleeme**
+**Mul on probleem parooli lähtestamise poliitikaga**
 
-- Kui teie parooli lähtestamise poliitika ei käitu ootuspäraselt või kui teil on küsimusi parooli lähtestamise poliitika kohta, vaadake seda artiklit: [Azure Active Directory parooliga seotud reeglid ja piirangud](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).
-- Parooli lähtestamise poliitika ei rakendu administraatoritele. Microsoft jõustab iga Azure ' i administraatori rolli jaoks tugeva vaike-kahe värava parooli lähtestamise poliitika. Veenduge, et katsetate kasutajaga, kes pole administraator. Lisateavet administraatori lähtestamise poliitika kohta leiate sellest artiklist: [administraatori lähtestamise poliitika erinevused](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).
+- Kui teie paroolilähtestuspoliitika ei käitu ootuspäraselt või kui teil on küsimusi parooli lähtestamise poliitikate kohta, vaadake järgmist artiklit: Paroolipoliitikad [ja Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Parooli lähtestamise poliitikad ei kehti administraatoritele. Microsoft jõustab mis tahes Azure'i administraatorirolli jaoks tugeva kahe väravaga parooli lähtestamise poliitika. Veenduge, et testite kasutajat, kes pole administraator. Administraatori lähtestamispoliitika kohta leiate lisateavet artiklist Administraatori [lähtestamispoliitika erinevused.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)
 
-**Ma ei soovi, et kasutajad registreeriks parooli lähtestamiseks täiendava turbeteabe**
+**Ma ei soovi, et kasutajad registreeriks parooli lähtestamiseks täiendavat turbeteavet**
 
-Saate oma kasutajatele API, PowerShelli või Azure AD Connecti kaudu andmeid (meili ja telefoni atribuudid) eelnevalt asustada. Lugege, kuidas lugeda:
+Saate kasutajate andmeid (meili- ja telefoniatribuute) api, PowerShelli või Azure AD-Ühendus. Lugege, kuidas lugeda.
 
-- [Parooli lähtestamise juurutamine, mis ei nõua kasutajatelt registreerumist](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [Parooli lähtestamise juurutamine ilma kasutajaid registreerimata](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
 - [Milliseid andmeid parooli lähtestamine kasutab?](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Soovin, et kasutajad registreeriks parooli lähtestamiseks täiendava turbeteabe**
+**Soovin, et kasutajad registreeriks parooli lähtestamiseks oma täiendava turbeteabe**
 
-1. Kas teie kasutajad registreerivad ise oma turbeteabe parooli lähtestamiseks, suunates need [aka.MS/ssprsetup](https://mysignins.microsoft.com/security-info).
-1. Kui kasutaja (kasutaja või administraator) on andmed asustanud, suunatakse kasutaja [aka.MS/SSPR](https://passwordreset.microsoftonline.com/) , et kasutajad saaksid oma paroole lähtestada.
-1. Kui kasutajatel esineb endiselt probleeme, on need tõenäoliselt **ühendatud** või **parool Hash sünkroonitud** kasutajad. See tähendab, et tõenäoliselt esineb probleeme parooliga tagasikirjutusega teenusega.
+1. Kui soovite, et teie kasutajad registreerivad oma turbeteabe iseteeninduse parooli lähtestamiseks, suunates nad [aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).
+1. Kui kasutaja (kasutaja või administraator) andmed on asustatud, [](https://passwordreset.microsoftonline.com/) suunake kasutaja aka.ms/sspr, et kasutajad saaksid oma paroolid lähtestada.
+1. Kui kasutajatel esineb endiselt probleeme, on nad tõenäoliselt ühendatud **või** **parooliga sünkroonitud** kasutajad. See tähendab, et paroolkirjutusteenusega on tõenäoliselt probleeme.
