@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: 18a95f5d98961b9450718ee97b81d97ca14967d1b703b2b7f034d15e46f1a1bd
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: aedfec0491365ff23ec518768b160e7285702aeec418277a89e8079fb2ac6896
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500948"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895659"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Microsoft 365 ettevõtteversiooni tellimuste maksevõimalused
   
@@ -27,16 +27,16 @@ Krediitkaardimakse, deebetkaardimakse, pangaülekanne (otsekorraldus) ja arve al
   
 **Krediit- või deebetkaardi abil või pangakonto kaudu maksmine**
   
-Tellimuse eest saate maksta krediit- või deebetkaardiga või pangakonto kaudu. Kui maksate ühega neist makseviisidest, jätkame sellelt makseviisilt tasu võtmist kuni tellimuse aegumise või tühistamiseni. Vajaduse korral saate igal ajal [makseviise hallata](/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Soovi korral saate lasta endale [meili teel saata maksekorralduse koopia](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
+Tellimuse eest saate maksta krediit- või deebetkaardiga või pangakonto kaudu. Kui maksate ühega neist makseviisidest, jätkame sellelt makseviisilt tasu võtmist kuni tellimuse aegumise või tühistamiseni. Vajaduse korral saate igal ajal [makseviise hallata](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Soovi korral saate lasta endale [meili teel saata maksekorralduse koopia](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
 
-Kui teie krediitkaart on tagasi lükatud või sel on maksetähtaja ületanud saldo ning olete maksetähtaja ületanud saldoga makseviisi lisanud ise, saate tasumiseks kasutada käsku **Maksa tasumata osa**. Tähtaja ületanud summa tasumiseks kasutatud makseviis määratakse kõigi tagasilükatud makseviisi kasutanud tellimuste uueks makseviisiks. Lisateavet lugege teemast [Mida teha jooksva võlgnevuse korral?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+Kui teie krediitkaart on tagasi lükatud või sel on maksetähtaja ületanud saldo ning olete maksetähtaja ületanud saldoga makseviisi lisanud ise, saate tasumiseks kasutada käsku **Maksa tasumata osa**. Tähtaja ületanud summa tasumiseks kasutatud makseviis määratakse kõigi tagasilükatud makseviisi kasutanud tellimuste uueks makseviisiks. Lisateavet lugege teemast [Mida teha jooksva võlgnevuse korral?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
 **Arve alusel tasumine (tšekk või elektrooniline rahaülekanne)**
   
 Kui teie tellimuse maksumus on teatud summast suurem (see oleneb teenuse kasutamise asukohast), on teil võimalus tasuda arvega, kasutades tšekki või elektroonilist ülekannet. Suuremate arvete puhul võib olla nõutav krediidikontroll. Kui nõutav on krediidikontroll, antakse teile sellest teada tellimuse ostmisel. Kui olete nõus sellega, et teiega võidakse ühendust võtta, saadetakse teile krediidi heakskiitmise taotlemise kohta meili teel lisateavet. Krediidikontrolli tegemiseks kulub tavaliselt kaks tööpäeva.
 
-Kui maksate tellimuse eest arve alusel, saate meilisõnumi, kui teie maksekorraldus on saadaval. See meilisõnum ei sisalda maksekorralduse koopiat. Kuid soovi korral saate lasta endale [meili teel saata maksekorralduse koopia](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Maksekorraldus sisaldab üksiksjalikku teavet saadaolevate makseviiside ja makse edastamise kohta. Kui sisestate tellimuse ostmisel ostutellimuse numbri, kuvatakse number teie maksekorraldusel. Teavet maksekorraldustele juurdepääsu kohta leiate teemast [Tellimuse arve vaatamine](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+Kui maksate tellimuse eest arve alusel, saate meilisõnumi, kui teie maksekorraldus on saadaval. See meilisõnum ei sisalda maksekorralduse koopiat. Kuid soovi korral saate lasta endale [meili teel saata maksekorralduse koopia](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Maksekorraldus sisaldab üksiksjalikku teavet saadaolevate makseviiside ja makse edastamise kohta. Kui sisestate tellimuse ostmisel ostutellimuse numbri, kuvatakse number teie maksekorraldusel. Teavet maksekorraldustele juurdepääsu kohta leiate teemast [Tellimuse arve vaatamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **Täiendav teave**
   
-[Microsoft 365 ettevõtteversiooni tellimuse eest tasumine](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[Microsoft 365 ettevõtteversiooni tellimuse eest tasumine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

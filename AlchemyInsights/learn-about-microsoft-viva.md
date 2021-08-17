@@ -1,5 +1,5 @@
 ---
-title: Teave Microsoft Viva kohta
+title: Lisateave Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8338"
-ms.openlocfilehash: b87a08b698de39f0b447c15845037abbc3c311c3
-ms.sourcegitcommit: 0f1e81498c68a5d1aba76a21fdae91a141b69f89
+ms.openlocfilehash: 3e540cc31841e8b47b34b56546e87a43eb7afd22c28a9244bc3016e9937b087c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087492"
 ---
-# <a name="learn-about-microsoft-viva"></a>Teave Microsoft Viva kohta
+# <a name="learn-about-microsoft-viva"></a>Lisateave Microsoft Viva
 
-Microsoft Viva annab igale töötajale uue digitaalse ajastu. Lisateavet leiate järgmistest teemadest.
+Microsoft Viva annab igale töötajale uue digitaalajastu jaoks õiguse. Lisateavet leiate järgmistest teemadest.
 
-- [Microsoft Viva tutvustus](https://www.microsoft.com/microsoft-viva/overview)
-- [Teave Viva ühenduste kohta](https://aka.ms/VivaConnectionsBlog/)
-- [Lisateave Viva Insightsi kohta](https://aka.ms/VivaInsightsBlog)
-- [Lisateavet Viva õppimise kohta](https://aka.ms/VivaLearningBlog)
+- [Sissejuhatus Microsoft Viva](https://www.microsoft.com/microsoft-viva/overview)
+- [Teave Viva Connectionsi kohta](https://aka.ms/VivaConnectionsBlog/)
+- [Teave Viva Ülevaated](https://aka.ms/VivaInsightsBlog)
+- [Teave Viva Learning](https://aka.ms/VivaLearningBlog)
 - [Teave Viva teemade kohta](https://aka.ms/viva/topics/blog)
 
-Lisateavet leiate teemast [Microsoft Viva: iga töötaja uuele digitaalsele ajastule andmine](https://www.microsoft.com/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/).
+Lisateavet leiate teemast [Microsoft Viva: Igale töötajale uue digitaalajastu võimaluste andmine.](https://www.microsoft.com/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/)

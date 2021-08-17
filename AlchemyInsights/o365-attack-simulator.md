@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065280"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895787"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator Microsoft 365
 
 - Kas teil puudub ründesimulaator? Ründesimulaatori **kasutamiseks on vaja Microsoft Defenderit Office 365 2** või Office 365 Enterprise **E5 jaoks.** **Ründesimulaatorit ei** kaasata Microsoft Defenderi Office 365 1, Office 365 Enterprise E3 ega Microsoft 365 ettevõtterakendused tellimuste jaoks.
 
-- Simuleeritud rünnakute käivitamiseks kasutav konto nõuab üldadministraatori või turbeadministraatori õigusi ja mitme teguriga autentimist (MFA). Lisateavet ründesimulaatori nõuete kohta leiate [sellest teemast.](/microsoft-365/security/office-365-security/attack-simulator)
+- Simuleeritud rünnakute käivitamiseks kasutav konto nõuab üldadministraatori või turbeadministraatori õigusi ja mitme teguriga autentimist (MFA). Lisateavet ründesimulaatori nõuete kohta leiate [sellest teemast.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
 - Oluline teave **Brute Force Passwordi rünnaku simulatsioonide** kohta.
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065280"
 
   - Vaikimisi ei saa andmepüügilogimisserveri URL-i jaoks **kohandatud väärtust sisestada.**
 
-  - Kui adressaat kasutab [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) sõnumi andmepüügiks teatamiseks lisandmoodulit Luba aruandesõnumi lisandmoodul, ei pruugi te sõnumi kohta teatisi saada (kuna see on simuleeritud rünnak).
+  - Kui adressaat kasutab [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) sõnumi andmepüügiks teatamiseks lisandmoodulit Luba aruandesõnumi lisandmoodul, ei pruugi te sõnumi kohta teatisi saada (kuna see on simuleeritud rünnak).
 
 - Aruanded. Pärast simuleeritud rünnaku lõpule viimist saate aruande **koostamiseks** klõpsata nuppu Rünnaku üksikasjad.
 
-- Üksikasjalikud juhised ja uued funktsioonid ründesimulaatoris leiate teemast [Attack Simulator in Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
+- Üksikasjalikud juhised ja uued funktsioonid ründesimulaatoris leiate teemast [Attack Simulator in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

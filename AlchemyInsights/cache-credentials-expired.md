@@ -1,5 +1,5 @@
 ---
-title: 'Tõrge: muudatusi ei saa üles laadida ega alla laadida, kuna teie vahemällu talletatud mandaat on aegunud'
+title: Tõrge. Me ei saa teie muudatusi üles laadida ega alla laadida, kuna teie vahemälus talletatud identimisteavet on aegunud
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,22 +12,22 @@ ms.collection: ''
 ms.custom:
 - "3534"
 - "9001489"
-ms.openlocfilehash: 8105fa7b311bc932f95c8bff4d6b58ed9aabe74a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 623c2f1175ed2ab9638e742521395fe62ba9cad9d21b517f17426fb5c96a2d73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059438"
 ---
-# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Tõrge: muudatusi ei saa üles laadida ega alla laadida, kuna teie vahemällu talletatud mandaat on aegunud
+# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Tõrge. Me ei saa teie muudatusi üles laadida ega alla laadida, kuna teie vahemälus talletatud identimisteavet on aegunud
 
-OneDrive ' i rakendusse failide salvestamisel kuvatakse tõrketeade, mis sisaldab fraasi **"teie vahemällu talletatud mandaat on aegunud"**, tehke järgmist.
+Kui salvestate faile OneDrive rakendusse, kui kuvatakse tõrketeade, mis sisaldab fraasi "teie vahemälu identimisteavet on **aegunud",** tehke järgmist.
 
-1. Sulgege kõik Office ' i rakendused.
-1. Avage mandaatide haldur ja tippige tegumiriba otsinguväljale **mandaatide haldur** ja seejärel valige **mandaatide halduri**Juhtpaneel.
-1. Valige **Windowsi mandaat**.
-1. Leidke kirje, mis algab Word **OneDrive '** iga.
-1. Valige kirje ja vajutage siis nuppu **Eemalda**.
-1. Sulgege mandaatide haldur, seejärel Paremklõpsake olekuala sinisel pilvel ja valige käsk **Sule OneDrive**.
-1. Tippige tegumiriba otsinguväljale **OneDrive** ja valige OneDrive ' i käivitamiseks OneDrive ' i **rakendus** .
-1. Logige OneDrive ' i sisse ja proovige siis faili OneDrive ' i salvestada.
+1. Sulgege kõik Office rakendused.
+1. Avage identimisteabe **haldur** ja tippige tegumiriba otsinguväljale identimisteabe haldur ja seejärel valige **Identimisteabe halduri juhtpaneel**.
+1. Valige **Windows Identimisteavet**.
+1. Otsige üles kõik kirjed, mis algavad **sõnaga OneDrive**.
+1. Valige kirje ja vajutage seejärel nuppu **Eemalda**.
+1. Sulgege identimisteabe haldur, paremklõpsake oma salves sinist pilve ja valige **Sule OneDrive**.
+1. Tippige **OneDrive** tegumiriba otsinguväljale tekst ja valige **OneDrive käivitamiseks** OneDrive.
+1. Logige OneDrive ja proovige fail salvestada OneDrive.

@@ -1,5 +1,5 @@
 ---
-title: Lisateave Microsoft 365 tellimuse kohta – Office ' i rakenduste funktsioonide kättesaadavus mobiilsideseadmetes
+title: Lisateave Microsoft 365 mobiilirakenduste Office kättesaadavuse kohta
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49677699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087420"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Lisateave Microsoft 365 tellimuse kohta – Office ' i rakenduste funktsioonide kättesaadavus mobiilsideseadmetes
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Lisateave Microsoft 365 mobiilirakenduste Office kättesaadavuse kohta
 
-Kõik Microsoft 365 lepingud võimaldavad teil vaadata dokumente Wordis, Excelis, PowerPointis ja OneNote ' is iOS-i, Androidi ja Windows Mobile ' i seadmetes. Nende rakenduste funktsioonide ja failide kättesaadavus sõltub teie tellimusest (Microsoft 365 kvalifitseeruv leping või nõuetele vastav leping või ühekordne Office ' i ost) ning mobiilsideseadme ekraani suurus.
+Kõik Microsoft 365 abil saate dokumente vaadata Wordis, Excel, PowerPoint ja OneNote iOS-i, Androidi ja Windows mobiilsideseadmetes. Siiski sõltub nende rakenduste funktsioonide ja failide kättesaadavus teie tellimusest – Microsoft 365 või nõuetele mitte vastamise leping või Office- ja mobiilsideseadme ekraanisuurus.
 
-Lisateavet leiate teemast [mida saate teha Office ' i rakendustes mobiilsideseadmetes Microsoft 365 tellimusega](https://go.microsoft.com/fwlink/?linkid=2135575). 
+Lisateavet leiate teemast Mida saate teha Office mobiilsideseadmetes, kus [on Microsoft 365 tellimus.](https://go.microsoft.com/fwlink/?linkid=2135575) 

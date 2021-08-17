@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296047"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895975"
 ---
 # <a name="release-quarantined-messages"></a>Karantiinis sõnumite vabastamine
 
-Saate karantiini pandud sõnumi (või sõnumikomplekti) kõigile adressaatidele välja saata või välja saata ainult kindlatele inimestele, kelle valite kõigi adressaatide loendist. Tehke järgmist.
+Saate karantiini pandud sõnumi (või sõnumikomplekti) kõigile adressaatidele välja saata või saata sõnumi ainult kindlatele inimestele, kelle valite kõigi adressaatide loendist. Tehke järgmist.
 
-1. Avage Microsoft 365 Defender portaalis <https://security.microsoft.com> Meil ja **& koostöö läbivaatus** \>  \> **karantiini**.
+1. Avage Microsoft 365 Defender <https://security.microsoft.com> meiliportaalis & **Koostöö läbivaatus** \>  \> **karantiini**.
 
    Otse karantiinilehele **minemiseks** kasutage funktsiooni <https://security.microsoft.com/quarantine> .
 

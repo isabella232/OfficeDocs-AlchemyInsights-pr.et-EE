@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029728"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895883"
 ---
 # <a name="expired-subscription"></a>Aegunud tellimus
 
@@ -35,7 +35,7 @@ Näib, et teil on üks või mitu aegunud tellimust. Kui soovite teenust jätkata
 3. Valige **paanil Aktiveeri** see tellimus uuesti ripploendist soovitud makseviis või valige **Lisa makseviis**.
 4. Valige **Salvesta**.
 
-Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Uue ostu sooritamine**
   
@@ -44,4 +44,4 @@ Lisateabe saamiseks vaadake artiklit [Tellimuse uuesti aktiveerimine](/microsoft
 3. Sisestage vajalik litsentside arv ja valige, kas tasuda iga kuu või kogu aasta eest. Valige, kas soovite litsentsid automaatselt määrata kõigile, kellel praegu litsentsi pole. Seejärel valige **Check out now (Kontrolli kohe).**
 4. Väljaregistreerimiseks järgige ülejäänud juhiseid.
 
-Lisateavet leiate teemast Teise [tellimuse ostmine.](/microsoft-365/commerce/buy-another-subscription)
+Lisateavet leiate teemast Teise [tellimuse ostmine.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

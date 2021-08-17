@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 49fedc0d829d4972f15e9266e7a5519acfbd3eda78bd7f022477060523b9afd3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5b524fa0731d499bdea831b7f5363996b2f165f58e40717c3ca8a22dc264397
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979489"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890702"
 ---
 # <a name="cant-find-the-teams-meeting-recording"></a>Ei leia Teams salvestist
 
@@ -25,6 +25,6 @@ Kui te ei leia või ei leia koosoleku Teams, käivitage esmalt puuduv koosoleku 
 
 Salvestised leiate voost, OneDrive või SharePoint olenevalt sellest, kuidas teie rentnik on konfigureeritud ja kas salvestis oli kanalikoosoleku jaoks. Juhised selle kohta, kuidas koosoleku salvestist käsitsi üles leida, leiate järgmisest teemast. 
 
-[2. probleem. Koosoleku salvestamise link pole vestluseaknas nähtav](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
+[2. probleem. Koosoleku salvestamise link pole vestluseaknas nähtav](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Lisateavet leiate teemast [Koosolekusalvestistega seotud probleemid.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Lisateavet leiate teemast [Koosolekusalvestistega seotud probleemid.](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)

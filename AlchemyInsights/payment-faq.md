@@ -14,19 +14,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310927"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895703"
 ---
 # <a name="payment-faq"></a>Maksmise KKK
 
-Maksete haldamine **Microsoft 365 halduskeskus**.
+Maksete haldamine Microsoft 365 halduskeskus **.**
 
 - Tellimuse **makseviiside määramiseks [](https://go.microsoft.com/fwlink/p/?linkid=842054) >** muutmiseks avage arveldamine.
-- Makseviiside **lisamiseks> [](https://go.microsoft.com/fwlink/p/?linkid=2018806)** värskendamiseks, asendamiseks või kustutamiseks avage arveldus- ja > makseviisid.
+- Makseviiside **lisamiseks> [värskendamiseks,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** asendamiseks või kustutamiseks avage arveldus- ja > makseviisid.
 
 - **Makseviisid** – kui maksate krediitkaardi või pangaülekandega, võetakse makse teie tellimusega seotud makseviisilt mõne päeva jooksul pärast arve loomist. Kui makse nurjub, värskendage makseviisi. Lisateavet leiate teemast [Makseviiside haldamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 

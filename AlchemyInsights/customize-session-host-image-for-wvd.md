@@ -1,5 +1,5 @@
 ---
-title: Seansi hosti pildi kohandamine Windows Virtual Desktopi jaoks
+title: Seansi hostipildi kohandamine virtuaalse Windows jaoks
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118632"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Seansi hosti pildi kohandamine Windows Virtual Desktopi jaoks
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Seansi hostipildi kohandamine virtuaalse Windows jaoks
 
-Virtuaalarvuti (VM) valmistamiseks on kaks võimalust: Windows Virtual Desktopi jaoks loodud Master Virtual Hard diski pilt.
+Virtuaalarvuti (VM) ettevalmistamine virtuaalse kõvaketta põhipildi abil virtuaalsel Windows on kaks võimalust.
 
-1. [Looge Azure ' i hallatavast pildist VM](https://go.microsoft.com/fwlink/?linkid=2127906)ja seejärel jätkake [tarkvara ettevalmistamist ja installimist](https://go.microsoft.com/fwlink/?linkid=2128064).
-1. [Looge pilt lokaalselt](https://go.microsoft.com/fwlink/?linkid=2128065) , laadides pildi alla, valmistades ette [HYPER-V VM](https://go.microsoft.com/fwlink/?linkid=2127907), ja seejärel kohandades seda vastavalt oma vajadustele.
+1. [Looge Azure'is hallatavast pildist VM](https://go.microsoft.com/fwlink/?linkid=2127906)ja seejärel jätkake tarkvara [ettevalmistamist ja installimist.](https://go.microsoft.com/fwlink/?linkid=2128064)
+1. [Pildi kohalikuks loomiseks](https://go.microsoft.com/fwlink/?linkid=2128065) laadige pilt alla, koostage [Hyper-V VM](https://go.microsoft.com/fwlink/?linkid=2127907)ja kohandage see vastavalt oma vajadustele.
 
-Lisateavet leiate teemast [JUHTSLAIDI VHD pildi ettevalmistamine ja kohandamine](https://go.microsoft.com/fwlink/?linkid=2127838).
+Lisateavet leiate teemast [Juht-VHD-pildi ettevalmistamine ja kohandamine.](https://go.microsoft.com/fwlink/?linkid=2127838)

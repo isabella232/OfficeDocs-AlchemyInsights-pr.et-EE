@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967329"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896011"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Kustutatud sündmuste auditilogide lugemine
 
 Selleks tehke nii.
 
-1. Avage Office 365 [& vastavuskeskus.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Valige **Otsi**  >  [**auditilogi otsingut**](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Tehke ühte järgmistest toimingutest.
+   - Avage Microsoft 365 vastavuskeskus lahenduste audit <https://compliance.microsoft.com>  \> . Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://compliance.microsoft.com/auditlogsearch> .
+   - Avage Microsoft 365 Defender portaalis <https://security.microsoft.com> **Audit**. Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Kui märkate, et peate funktsiooni sisse lülitama, lülitage see kohe sisse. Kui funktsioon pole sisse lülitatud, ei saa otsingutulemid eelmistest kuupäevadest andmeid tõmmata.
-1. Valige **Tegevused** ja seejärel otsige **üles Exchange toimingud.** Valige **kaustast Kustutatud sõnumid kustutatud sõnumid ja** **Teisaldatud sõnumid kausta Kustutatud** üksused. Kui olete lõpetanud, klõpsake paani Tegevused minimeerimiseks väljaspool **paani.**
-1. Määrake kuupäevavahemik ja seejärel valige **väljal Kasutajad** selle kasutaja kasutajanimi, mida soovite uurida. Korraga saate valida mitu kasutajat.
-1. Valige **Otsi**. Tegevused kuvatakse jaotises **Tulemid.**
-1. Üksikasjade kuvamiseks valige soovitud tegevus ja seejärel valige **Lisateave**. Lisateavet kustutatud üksuse kohta (nt teemarida ja üksuse asukoht kustutamisel) kuvatakse väljal **AffectedItems.**
-    > [!NOTE]
-    > Kustutatud üksusi ei saa auditilogi funktsiooni abil taastada. Kustutatud üksuste taastamiseks lugege teemat [Kustutatud üksuste või meilisõnumite taastamine Outlook Web App](https://go.microsoft.com/fwlink/?linkid=2103759).
 
-Lisateavet leiate teemast Office 365 [auditilogist levinumate stsenaariumide tõrkeotsinguks.](https://go.microsoft.com/fwlink/?linkid=2103944)
+2. Konfigureerige  lehe **Audit vahekaardil Otsing** järgmised sätted.
+   - **Kuupäeva- ja kellaajavahemik:** valige väljadele Algus ja Lõpp **kuupäeva-/kellaajavahemik.** 
+   - **Tegevused:** **sisestage Exchange ja** seejärel valige järgmised väärtused.
+     - **Kustutatud sõnumid kaustast Kustutatud üksused**
+     - **Teisaldatud sõnumid kausta Kustutatud üksused**
+
+       Kui olete lõpetanud, klõpsake paani Tegevused minimeerimiseks väljaspool **paani.**
+
+   - **Kasutajad:** aktsepteerige kõigi kasutajate tulemite tagastamiseks tühi vaikeväärtus või sisestage üks või mitu kasutajat.
+
+3. Kui olete lõpetanud, klõpsake nuppu **Otsi**. Tegevused kuvatakse uuel lehel **Auditiotsing.**
+
+4. Üksikasjade hüpiku avamiseks valige tulemitest soovitud tegevus. Lisateavet kustutatud üksuse kohta (nt teemarida ja üksuse asukoht kustutamisel) kuvatakse väljal **AffectedItems.**
+
+   > [!NOTE]
+   > Kustutatud üksusi ei saa auditilogi funktsiooni abil taastada. Kustutatud üksuste taastamiseks lugege teemat [Kustutatud meilisõnumite taastamine Outlooki veebirakendus](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11).
+
+Lisateavet leiate teemast [Auditilogist otsimine, et uurida levinumaid tugiteenuseprobleeme.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
