@@ -1,5 +1,5 @@
 ---
-title: Microsoft Office ' i rakenduste installimine Androidi seadmesse
+title: Androidi Microsoft Office rakenduste installimine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: d88916ec9b81d078de837827eab1af95022c4ce3
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 169f9ad8da8e196d28d47595e23fce9d54ad82388b1b8e173971663b3d83d3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078042"
 ---
-# <a name="install-microsoft-office-apps-on-an-android-device"></a>Microsoft Office ' i rakenduste installimine Androidi seadmesse
+# <a name="install-microsoft-office-apps-on-an-android-device"></a>Androidi Microsoft Office rakenduste installimine
 
-Chromebooki või Androidi telefonis või tahvelarvutis saate installida Microsoft Office ' i rakendused eraldi rakendustena või kimbuna.
+Chromebookis või Androidi telefonis või tahvelarvutis saate Microsoft Office rakendused eraldi rakendustena või komplektina.
 
-- [Office ' i rakenduse (kimbu) installimine Google Play poest](https://go.microsoft.com/fwlink/?linkid=2137009)
-- [Office ' i rakenduse (kimbu) installimine Chrome ' i veebipoest](https://go.microsoft.com/fwlink/?linkid=2137212)
-- [Microsoft Wordi installimine Google Play poest](https://go.microsoft.com/fwlink/?linkid=2136994)
-- [Microsoft Exceli installimine Google Play poest](https://go.microsoft.com/fwlink/?linkid=2137120)
-- [Microsoft PowerPointi installimine Google Play poest](https://go.microsoft.com/fwlink/?linkid=2137121)
-- [Microsoft OneNote ' i installimine Google Play poest](https://go.microsoft.com/fwlink/?linkid=2137211)
+- [Installige Office'i telefonirakendus (komplekt) Google Play poest](https://go.microsoft.com/fwlink/?linkid=2137009)
+- [Installige Office'i telefonirakendus (komplekt) Chrome'i veebipood](https://go.microsoft.com/fwlink/?linkid=2137212)
+- [Microsoft Word installimine Google Play poest](https://go.microsoft.com/fwlink/?linkid=2136994)
+- [Microsoft Excel installimine Google Play poest](https://go.microsoft.com/fwlink/?linkid=2137120)
+- [Microsoft PowerPoint installimine Google Play poest](https://go.microsoft.com/fwlink/?linkid=2137121)
+- [Microsoft OneNote installimine Google Play poest](https://go.microsoft.com/fwlink/?linkid=2137211)
 
-Lisateavet leiate teemast [Office ' i installimine ja häälestamine Androidis](https://go.microsoft.com/fwlink/?linkid=2135287).
+Lisateavet leiate teemast [Androidi Office installimine ja häälestamine.](https://go.microsoft.com/fwlink/?linkid=2135287)

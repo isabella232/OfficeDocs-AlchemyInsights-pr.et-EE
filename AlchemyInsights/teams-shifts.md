@@ -1,5 +1,5 @@
 ---
-title: Töörühmade vahetused
+title: Teams Tõstuklahv (Shift)
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106474"
 ---
-# <a name="using-teams-shifts"></a>Teamsi vahetuste kasutamine
+# <a name="using-teams-shifts"></a>Tõstuklahvide Teams kasutamine
 
-Lisateavet vahetuste rakenduse haldamise kohta, sh selle kohta, kuidas häälestada vahetustega, lubada kasutajate vahetusi ja hallata rakendust Shifts, leiate järgmistest teemadest.
+Lisateavet tõstuklahvi Shifts haldamise kohta (sh vahetuse häälestamise, kasutajate nihkete lubamise ja rakenduse Shifts haldamise kohta) leiate järgmisest teemast.
  
-- [Microsoft teamsi jaoks saate hallata oma asutuse vahetuste rakendust](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Organisatsiooni teatud kasutajate jaoks vahetustega lubamine või keelamine](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Saate hallata oma asutuse tõstuklahvi (Shifts) Microsoft Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [Tõstuklahvide lubamine või keelamine ettevõtte teatud kasutajate jaoks.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Lisateavet meeskondade vahetuste kohta (sh vahetustega ajakava haldamine) leiate teemast [töörühmade vahetused](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Lisateavet tõstuklahvide tõstuklahvi (Shift) Teams (sh tõstuklahvide graafiku haldamine) leiate teemast [Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
 
-**Tõhus juuni 30, 2020**, Microsoft staffhubi on aegunud. Lisateavet leiate teemast [Microsofti staffhubi on aegunud](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**Alates 30. juunist 2020** on Microsoft Staffhub aegunud. Lisateavet leiate teemast [Microsoft StaffHub on aegunud.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

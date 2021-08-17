@@ -1,5 +1,5 @@
 ---
-title: Teamsi installimine eraldi või uute/olemasolevate Office'i installide puhul
+title: Installige Teams eraldi või uute/olemasolevate installide Office.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: f3fb8c1430a54024c5cb00f2e002e4702d15e33c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6409ce42a79e7c329f21594e7afa409e8776df8ba6159c6592a4be2bfa648261
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078006"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Teamsi installimine eraldi või uute või olemasolevate Office'i installide korral
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Installige Teams eraldi või uute või olemasolevate installide Office.
 
-Microsoft Teams on kaasatud  microsoft 365 ettevõtterakenduste, Microsoft 365 ettevõtterakenduste ja Office for Maci uute installide hulka. Lisateavet leiate teemast Millal [hakkab Microsoft Teams office'i uute installide hulka lisama?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams on kaasatud *mac-arvutisse* Microsoft 365 suurettevõtterakendused, Microsoft 365 ettevõtterakendused ja Office installide hulka. Lisateavet leiate teemast Millal [Microsoft Teams uutele Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Lisaks lisatakse Teams alates praeguses kanalis versioonist 1906 microsoft 365 ettevõtterakenduste (ja Microsoft 365 ettevõtterakenduste) olemasolevatele installidele seadmetes, kus töötab Windows, kui värskendate olemasoleva installi uusimale versioonile.  Lisateavet leiate teemast Mis [saab Office'i olemasolevatest installidest?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Lisaks lisatakse Teams alates praeguse kanali versioonist 1906  Microsoft 365 suurettevõtterakendused (ja Microsoft 365 ettevõtterakendused) seadmetes, kus töötab Windows, kui värskendate olemasoleva installi uusimale versioonile. Lisateavet leiate teemast Mis [saab olemasolevatest Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-Saate Teamsi kasutajate jaoks eraldi juurutada, järgides [neid juhiseid](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)või saate lubada kasutajatel Teamsi ise installida. https://teams.microsoft.com/downloads
+Saate juurutada Teams oma kasutajate jaoks autonoomsena, järgides neid juhiseid või lubada kasutajatel oma Teams ise [](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) https://teams.microsoft.com/downloads installida.
 
-Pärast Teamsi installimist värskendatakse seda [uute funktsioonide](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) ja kvaliteedivärskendustega automaatselt umbes iga kahe nädala järel. 
+Pärast Teams installimist värskendatakse [seda](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) automaatselt umbes iga kahe nädala järel uute funktsioonide ja kvaliteedivärskendustega. 
 
