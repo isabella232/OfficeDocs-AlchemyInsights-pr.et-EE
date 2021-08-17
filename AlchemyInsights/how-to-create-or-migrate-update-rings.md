@@ -1,5 +1,5 @@
 ---
-title: Kuidas luua või migreerida Update heliseb
+title: Värskendusringide loomine või migreerimine
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078798"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Kuidas luua või migreerida Update heliseb
+# <a name="how-to-create-or-migrate-update-rings"></a>Värskendusringide loomine või migreerimine
 
-Järgige alltoodud juhiseid, kui olete konfigureerinud Windows 10 värskenduse sätted Intune ' i klassikalises portaalis ja soovite migreerida need Azure ' i portaalis Intune ' i.
+Kui olete intune'i klassikalises portaalis Windows 10 konfigureerinud ja soovite need Azure'i portaalis Intune'i migreerida, järgige alltoodud juhiseid.
 
-1. Avage Azure ' i portaal ja klõpsake nuppu **kõik teenused**.
-2. Tippige väljale **filter** tekst **Intune**. Klõpsake tulemites käsku **Microsoft Intune (Microsoft Intune**).
-3. Klõpsake nuppu **tarkvara värskendused**  >  **Windows 10 Update ' i rõngad**  >  **luua**.
+1. Avage Azure'i portaal ja klõpsake **nuppu Kõik teenused.**
+2. Tippige **väljale Filter** **väärtus Intune**. Klõpsake tulemite loendis **nuppu Microsoft Intune**.
+3. Klõpsake **nuppu**  >  **Tarkvaravärskendused Windows 10 Värskendusrõngad**  >  **Loo**.
 4. Sisestage nimi, kirjeldus ja klõpsake nuppu **Konfigureeri**.
-5. Konfigureerige oma organisatsioonide tarkvara värskendamise sätteid.
+5. Konfigureerige oma ettevõtte tarkvaravärskenduse sätted.
 6. Valige **OK**.
-7. Valige jaotises **Create Update ring** **(Loo)**.
+7. Valige **jaotises Värskendusringi loomine** nupp **Loo**.
