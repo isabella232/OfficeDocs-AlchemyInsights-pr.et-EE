@@ -1,5 +1,5 @@
 ---
-title: Kasutajatele juurdepääsu võimaldamine SharePointi ja OneDrive ' ile
+title: Kasutajatele juurdepääsu andmine SharePoint ja OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a7e9c0b7ffa5c11a2e24ee5fda6491f049f985f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677203"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088896"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Kasutajatele juurdepääsu võimaldamine SharePointi ja OneDrive ' ile
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Kasutajatele juurdepääsu andmine SharePoint ja OneDrive
 
 > [!NOTE]
-> Kui OneDrive ' i või SharePointi sait pole saadaval mitmele kasutajale, kellel oli varem juurdepääs, võib olla ajutine teenuse probleem. [Teenuse tervise armatuurlaua kontrollimine](https://portal.office.com/adminportal/home#/servicehealth)
+> Kui OneDrive või SharePoint pole saadaval mitmele kasutajale, kellel oli varem juurdepääs, võib esineda ajutine teenuseprobleem. [Teenuse seisundi armatuurlaua kontrollimine](https://portal.office.com/adminportal/home#/servicehealth)
   
-Kui soovite, et teie asutuse töötajad saaksid sisse logida ning kasutada SharePointi ja OneDrive ' i, peate lisama neile kontod ja veenduma, et neil on litsents, mis annab neile juurdepääsu SharePointi ja OneDrive ' ile. Lihtsaim viis kasutajate lisamiseks on Microsoft 365 halduskeskus.
+Kui soovite, et teie asutuse inimesed saaksid SharePoint ja OneDrive sisse logida ning neid kasutada, peate nende jaoks lisama kontod ja veenduma, et neil on litsents, mis annab neile juurdepääsu SharePoint ja OneDrive. Lihtsaim viis kasutajate lisamiseks on Microsoft 365 halduskeskus.
   
-1. Avage [Microsoft 365 halduskeskus lehel aktiivsed kasutajad](https://portal.office.com/adminportal/home#/users)ja seejärel klõpsake nuppu **Lisa kasutaja**.
+1. Avage lehel [Aktiivsed kasutajad Microsoft 365 halduskeskus](https://portal.office.com/adminportal/home#/users)klõpsake nuppu Lisa **kasutaja**.
     
-2. Täitke kasutaja teave ja veenduge, et jaotises **toote litsentsid**oleks määratud litsents, ja valitud on **SharePoint Online** . 
+2. Sisestage kasutaja teave ja veenduge, et jaotises Tootelitsentsid oleks määratud litsents **ja** valitud **SharePoint Online.** 
     
-Pange tähele, et kui lubate oma ettevõttes välise ühiskasutuse, saavad kasutajad SharePointi ja OneDrive ' i sisu ühiskasutusse anda ka väljaspool organisatsiooni asuvate inimestega. Te ei pea neile väliste kasutajate litsentse esitama. Samuti ei pea te neile kontosid lisama, välja arvatud juhul, kui ühiskasutus on seatud "ainult olemasolevatele välistele kasutajatele". Sellisel juhul, kui inimesed pole teie ettevõtte kataloogis, peate need Azure AD halduskeskus kasutajatena lisama.
+Arvestage, et kui lubate ettevõttes välise ühiskasutuse, saavad kasutajad SharePoint ja OneDrive sisu ühiskasutusse anda ka ettevõttevälistele inimestele. Te ei pea neile väliskasutajatele litsentse andma. Samuti ei pea te nende jaoks kontosid lisama, v.a juhul, kui ühiskasutuseks on seatud "Ainult olemasolevad väliskasutajad". Sel juhul peate need lisama Azure AD halduskeskuse külaliskasutajana, kui inimesed pole teie ettevõtte kataloogis.
   
 

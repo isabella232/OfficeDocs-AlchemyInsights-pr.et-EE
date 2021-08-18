@@ -1,5 +1,5 @@
 ---
-title: Tingimusliku juurdepääsu jälgimine
+title: Intune'i tingimusjuurdepääsu jälgimine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7855d8dac488fe62d8e0ad8ee2ad46e615ea031fc535eb54dfde9512c8921ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113376"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Microsoft Intune ' i probleemide tõrkeotsing
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Tõrkeotsingu Microsoft Intune
 
-Probleemi lahendamiseks vaadake allpool loetletud ressursid üle.
+Vaadake allpool loetletud ressursid üle, et probleem kohe lahendada.
   
-1. Mõne levinud tõrke diagnoosimiseks ja lahendamiseks saate kasutada [Intune tõrkeotsingu portaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Lisateabe saamiseks vaadake [seda dokumenti ](https://docs.microsoft.com/intune/help-desk-operators)üle.
+1. [Intune'i tõrkeotsinguportaali](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) abil saate diagnoosida ja lahendada levinumaid tõrkeid. Lisateavet [leiate sellest ](https://docs.microsoft.com/intune/help-desk-operators)dokumendist.
     
-2. Vaadake üle [Intune TechNeti ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod), et leida levinud probleemidele vastuseid ja lahendusi.
+2. Levinumatele probleemidele vastuste ja lahenduste leidmiseks vaadake [läbi Intune TechNeti. ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)
     
-3. Teenuse oleku vaatamiseks vaadake [teenuse tervist](https://portal.office.com/AdminPortal/Home#/servicehealth) . 
+3. Teenuse [oleku saamiseks](https://portal.office.com/AdminPortal/Home#/servicehealth) vaadake teemat Teenuse seisund. 
     
-4. Vaadake läbi Intune ' i [dokumentatsiooni](https://docs.microsoft.com/intune/) kavandamise, kasutamise, tõrkeotsingu artiklite ja muu kohta. 
+4. Vaadake [läbi Intune'i](https://docs.microsoft.com/intune/) dokumentatsioon kavandamise, juhiste, tõrkeotsinguartiklite ja muu kohta. 
     
 
