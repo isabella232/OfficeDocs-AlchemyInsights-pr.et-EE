@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895883"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325291"
 ---
 # <a name="expired-subscription"></a>Aegunud tellimus
 
@@ -30,8 +30,7 @@ Näib, et teil on üks või mitu aegunud tellimust. Kui soovite teenust jätkata
   
 1. Avage halduskeskuses leht  Toodete \> [arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Otsige **vahekaardil Tooted** üles tellimus, mille soovite uuesti aktiveerida. Valige kolm punkti (veel toiminguid) ja seejärel **valige Aktiveeri see tellimus uuesti.**
-    > [!NOTE]
-    > Kui te ei näe seda **tellimust uuesti, helistage** tugiteenustele.
+    **Märkus.** Kui te ei näe selle tellimuse **uuesti aktiveerimist, helistage** tugiteenustele.
 3. Valige **paanil Aktiveeri** see tellimus uuesti ripploendist soovitud makseviis või valige **Lisa makseviis**.
 4. Valige **Salvesta**.
 

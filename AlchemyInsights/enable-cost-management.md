@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003565"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325459"
 ---
 # <a name="enable-cost-management"></a>Luba kuluhaldus
 
 **Mida tähendab "kulud on teie asutuse jaoks keelatud"?**
 
-Ettevõtted, Enterprise Agreement (EA) või Microsofti kliendilepingu (MCA) kontosid kasutavad asutused saavad keelata juurdepääsu kuluteabele ja hinnateabele.
+Ettevõtted, Enterprise Agreement (EA) või Microsofti kliendilepingu (MCA) kontosid kasutavad ettevõtted saavad keelata juurdepääsu kuluteabele ja hinnateabele.
 
 Pärast Azure'i portaali sisselogimist saavad nad kasutada arvelduse API-sid, et saada programmiliselt arveid (kui see on valitud) ja kasutusteavet.
 
@@ -34,8 +34,7 @@ Pärast Azure'i portaali sisselogimist saavad nad kasutada arvelduse API-sid, et
 2. Valige **Arved** ja seejärel **Juurdepääs arvetele.**
 3. Lülitage sisse juurdepääs, millele järgneb muudatuste salvestamine, et tellimuse ulatusega rollide kasutajad saavad arveid alla laadida.
 
-> [!NOTE]
-> Kontoadministraator saab konfigureerida ka nii, et arved saadetakse meiliga. Lisateavet leiate teemast [Arve toomine meilisõnumiga.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Märkus.** Kontoadministraator saab konfigureerida ka nii, et arved saadetakse meiliga. Lisateavet leiate teemast [Arve toomine meilisõnumiga.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **Kasutajate lisamine arvelduslugeja rolli**
 

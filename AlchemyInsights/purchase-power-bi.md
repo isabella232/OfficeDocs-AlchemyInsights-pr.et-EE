@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900952"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323634"
 ---
 # <a name="purchase-power-bi"></a>Power BI ostmine
 
@@ -35,4 +35,4 @@ Power BI-d saab osta **Microsoft 365 halduskeskus.**
 
 Kasutajatele litsentside määramise kohta leiate [teavet teemast Kasutajatele litsentside määramine.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Litsentside ostmiseks või eemaldamiseks lugege [teemat Litsentside ostmine või](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)eemaldamine ettevõtte tellimuse jaoks.
+Litsentside ostmise või eemaldamise kohta leiate lisateavet teemast Litsentside ostmine või eemaldamine [ettevõtte tellimuse jaoks.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

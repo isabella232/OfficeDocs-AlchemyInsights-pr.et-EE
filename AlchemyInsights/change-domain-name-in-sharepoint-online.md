@@ -1,5 +1,5 @@
 ---
-title: Domeeninime muutmine SharePoint Online ' is
+title: Domeeninime muutmine SharePoint Online'is
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: c45ee866ea5972199ed2539d61013a4f55c493eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f33ee5530d15fb32f74e6c41149ae1abedfb60396287113c59c6b4dc3af24017
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119820"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Domeeninime muutmine SharePoint Online ' is
+# <a name="change-domain-name-in-sharepoint-online"></a>Domeeninime muutmine SharePoint Online'is
 
-Kahjuks ei saa muuta teie asutuse SharePoint Online ' i domeeninime. Kui teie ettevõtte nimi muutub näiteks "contoso" asemel "Neljandaks kohviks", ei saa te contoso.sharepoint.com fourthcoffee.sharepoint.com muuta.
+Kahjuks ei saa teie asutuse SharePoint veebidomeeni nime muuta. Näiteks kui teie asutuse nimi muutub tekstiks "Contoso" tekstiks "Fourth Coffee", ei saa te contoso.sharepoint.com fourthcoffee.sharepoint.com.
   
-Domeeninime fourthcoffee.sharepoint.com kasutamiseks peate ostma uue tellimuse ning koguma kõik meilisõnumid, failid ja muud andmed, mida soovite uuele tellimusele alles jätta.
+Domeeninime kasutamiseks peate fourthcoffee.sharepoint.com tellimuse ostma ja teisaldama kõik meilisõnumid, failid ja muud andmed, mida soovite uuele tellimusele alles jätta.
   
- **Märkus**: kui soovite näiteks muuta saidi nime https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 , järgige [selle artikli](https://docs.microsoft.com/sharepoint/change-site-address)juhiseid. 
+ **Märkus.** Kui soovite näiteks muuta saidi nimeks , järgige https://contoso.sharepoint.com/sites/sample1 selles artiklis toodud https://contoso.sharepoint.com/sites/sample2 [juhiseid.](https://docs.microsoft.com/sharepoint/change-site-address) 
   
-Lisateavet dokumenditeegi üksuste teisaldamise kohta leiate teemast [üksuste teisaldamine või kopeerimine SharePointi dokumenditeegis](https://go.microsoft.com/fwlink/?linkid=2025831).
+Lisateavet dokumenditeekides üksuste teisaldamise kohta leiate teemast Üksuste teisaldamine või kopeerimine [SharePoint dokumenditeegist.](https://go.microsoft.com/fwlink/?linkid=2025831)
   
