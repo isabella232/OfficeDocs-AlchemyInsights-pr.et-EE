@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76bf82780ad74c4ecc7077b26d3bd9c88f3957842685bcd683d7b2bbaf3a26fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813432"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117732"
 ---
 # <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Töörühma ja selle aluseks oleva rühma aegumiskuupäev ei ühti
 
-Enne meeskonna uuendamist uuendatakse esmalt rühm, kes meeskonna tagasi liikmed tagasi saab. Pikendamise käigus määratakse rühmale uus aegumiskuupäev tulevaseks kuupäevaks. See uus kuupäev ei pruugi olla Teamsis kohe nähtav. Sünkroonimiseks võib võtta kuni 24 tundi. Kui meeskonna ja selle aluseks oleva rühma aegumiskuupäeva vahel on lahknevus, oodake 24 tundi enne täiendava toe otsimist.  
+Enne meeskonna uuendamist uuendatakse esmalt rühm, kes meeskonna tagasi liikmed tagasi saab. Pikendamise käigus määratakse rühmale uus aegumiskuupäev tulevaseks kuupäevaks. See uus kuupäev ei pruugi olla kohe Teams. Sünkroonimiseks võib võtta kuni 24 tundi. Kui meeskonna ja selle aluseks oleva rühma aegumiskuupäeva vahel on lahknevus, oodake 24 tundi enne täiendava toe otsimist.  
 
-Lisateavet [leiate teemast Töörühma aegumine ja pikendamine Microsoft Teamsis.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)
+Lisateavet [leiate teemast Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal) aegumine ja pikendamine.
