@@ -1,5 +1,5 @@
 ---
-title: Microsoft Thread Experts – nõudluse eksperdid
+title: Microsofti ohuasjatundjad – nõudmisel eksperdid
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841503"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113916"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Thread Experts – nõudluse eksperdid
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsofti ohuasjatundjad – nõudmisel eksperdid
 
-Nõudlusega eksperdid on teine Microsoft Thread Experts võimekus. Siit saate teada, kui vajate konsultatsioone seoses avastuste ja vastaste asjakohaste küsimustega.
+Nõudmisel eksperdid on teine Microsofti ohuasjatundjad võimalus. Siin saate meiega ühendust võtta, kui vajate nõupidamist asjakohastes küsimustes, mis on seotud tuvastamiste ja kuritegudega.
 
-Kui olete juba lõpp-punkti klienti kaitsja, saate pöörduda Microsofti esindaja poole, et tellida Microsoft Thread Experts-Experts for Demand.
+Kui olete juba Lõpp-punkti defenderi klient, saate microsofti esindajaga ühendust võtta, et tellida Microsofti ohuasjatundjad – nõudmisel eksperdid.
 
-**Oht eksperdiga konsulteerimise** võimalus on saadaval järgmistes portaali menüüdes, kus saate oma juurdluse käigus kaasata eksperte.
+Võimalus **konsulteerida ohueksperdiga** on saadaval portaali järgmistes menüüdes, kus saate uurimise raames asjatundjatega suhelda.
 
 - Menüü Spikker ja tugi
-- Menüü Device Page toimingud
-- Menüü teatiste leht toimingud
-- Menüü "pilt" toimingud
+- Seadmelehe toimingute menüü
+- Teatiste lehetoimingute menüü
+- Menüü Faililehe toimingud
 
-Lisateavet leiate teemast [Microsofti ohtude asjatundjate funktsioonide konfigureerimine ja haldamine](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Lisateavet leiate teemast [Microsofti ohuasjatundjad haldamine.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107013"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317340"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Tellimuse peatamine või peatamine
 
@@ -27,6 +27,6 @@ Tellimuse ajutiseks peatamiseks või peatamiseks saate tellimuse tühistada Micr
 
 1. Avage halduskeskuses leht Toodete  >  **[arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Otsige **vahekaardil Tooted** üles tellimus, mille soovite tühistada. Valige kolm punkti (veel toiminguid) ja seejärel valige **Tühista tellimus.**
-3. Tellimuse olek kuvatakse olekuna **Keelatud** ja kuvatakse tellimuse tühistamise kuupäev. Tellimus jääb 90 päevaks keelatud olekusse ja sellel on vähendatud funktsionaalsust, kuni see on kustutatud [või uuesti aktiveeritud.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+3. Tellimuse olek kuvatakse olekuna **Keelatud** ja kuvatakse tellimuse tühistamise kuupäev. Tellimus jääb 90 päevaks keelatud olekusse ja sellel on vähendatud funktsionaalsust, kuni see on kustutatud [või uuesti aktiveeritud.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Lisateavet leiate teemast Mis juhtub tellimuse [tühistamisel ja](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Andmete salvestamine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
+Lisateavet leiate teemast Mis juhtub tellimuse [tühistamisel ja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Andmete salvestamine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 678f61d88879e5ecf7ccb23414d79cba66dc3c218ab0caed3d2957d863e0596b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086808"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317472"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sisuotsingute ja e-juurdluse otsingute sooritamine
 
@@ -31,13 +31,12 @@ ms.locfileid: "54086808"
 4. Sisestage nõutavad otsingutingimused(sh märksõnad ja sisuasukohad).
 5. Otsingule **&,** käivitage see ja seejärel vaadake tulemite eelvaadet.
 
-> [!NOTE]
-> Laiendage **Microsoft 365 vastavuskeskuse**  >  **lahendustes** **e-juurdlust** ja valige soovitud e-juurdluse tööriist.
+**Märkus.** **Microsoft 365 vastavuskeskuse**  >  **lahendustes** laiendage **e-juurdlust** ja valige soovitud e-juurdluse tööriist.
 
-Üksikasjalikud juhised sisuotsingute, tulemite eksportimise ja e-juurdluse juhtumite loomise kohta andmete tegemiseks leiate teemast [Sisuotsing](/microsoft-365/compliance/content-search) ja [e-juurdluse juhtumid.](/microsoft-365/compliance/ediscovery-cases)
+Üksikasjalikud juhised sisuotsingute, tulemite eksportimise ja e-juurdluse juhtumite loomise kohta andmete tegemiseks leiate teemast [Sisuotsing](https://docs.microsoft.com/microsoft-365/compliance/content-search) ja [e-juurdluse juhtumid.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
 **Lisateave:**
 
-- Lisateavet e-juurdluse tööriistade kohta Microsoft 365 teemast [e-juurdlus](/microsoft-365/compliance/ediscovery).
-- Siit leiate teavet e-juurdluse otsingute sooritamiseks vajalike õiguste, nõuete ja piirangute kohta, mis on vajalikud [e-juurdluse](/microsoft-365/compliance/assign-ediscovery-permissions) otsingute ning nõuete ja [piirangute jaoks.](/microsoft-365/compliance/limits-for-content-search)
-- Kui teil on e-juurdluse probleemide tõrkeotsingut, lugege teemat [e-juurdlus](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) levinud probleemide tõrkeotsing [ja osaliselt indekseeritud üksuste uurimine.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
+- Lisateavet e-juurdluse tööriistade kohta Microsoft 365 teemast [e-juurdlus.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+- Siit leiate teavet e-juurdluse otsingute sooritamiseks vajalike õiguste, nõuete ja piirangute kohta, mis on vajalikud [e-juurdluse](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) otsingute ning nõuete [ja piirangute jaoks.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
+- Kui teil on e-juurdluse probleemide tõrkeotsingut, lugege teemat [e-juurdlus](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) levinud probleemide tõrkeotsing [ja osaliselt indekseeritud üksuste uurimine.](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

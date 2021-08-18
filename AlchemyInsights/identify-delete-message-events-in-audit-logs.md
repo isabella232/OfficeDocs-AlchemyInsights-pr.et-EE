@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868414"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317590"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Kustutatud meilisõnumite logide auditeerimine
 
@@ -32,7 +32,7 @@ Alates jaanuarist 2019 lülitab Microsoft postkasti auditilogi vaikimisi sisse. 
 
 4. Klõpsake **nuppu Otsi**.
 
-Valige tulemitest auditikirje. Klõpsake üksikasjade hüpiku jaotises nuppu **Lisateave.** Lisateavet kustutatud üksuse kohta (nt teemarida ja üksuse asukoht kustutamisel) kuvatakse väljal **AffectedItems.** Atribuut **ClientInfoString (ClientInfoString)** kuvatakse juhul, kui Outlook, Outlooki veebirakendus (varem tuntud kui Outlook Web App) või mis tahes muu seadmes.
+Valige tulemitest auditikirje. Klõpsake üksikasjade hüpiku jaotises nuppu **Lisateave.** Lisateavet kustutatud üksuse kohta (nt teemarida ja üksuse asukoht kustutamisel) kuvatakse väljal **AffectedItems.** Atribuut **ClientInfoString (ClientInfoString)** kuvatakse juhul, kui Outlook, Outlooki veebirakendus (varem Outlook Web App) või mis tahes muu seadmes.
 
 Lisateavet leiate teemast [Postkasti jaoks meilisõnumite edasisaatmise häälestaja määratlemine.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 

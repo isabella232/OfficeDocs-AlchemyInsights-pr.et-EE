@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 026e9722ac533e69178c40dd26792a362cf8fdda
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890298"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317182"
 ---
 # <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Microsoft Defenderi Office 365
 
-- **Kas märkate viivitusi meilisõnumite kohaletoimetamisega?** Proovige microsoft Defenderi manuste poliitikate jaoks kasutada Office 365 seif kohaletoimetamise suvandit. See aitab vältida meilisõnumite kohaletoimetamise viivitusi, kaitstes adressaate pahatahtlike failide eest.
+- **Kas märkate viivitusi meilisõnumite kohaletoimetamisega?** Proovige microsoft Defenderi manuste poliitikate jaoks kasutada Office 365 seif kohaletoimetamissuvandit. See aitab vältida meilisõnumite kohaletoimetamise viivitusi, kaitstes adressaate pahatahtlike failide eest.
 - **Kas soovite teatada valepositiivsetest või valenegatiivsetest?** Kasutage [edastuste explorerit.](https://protection.office.com/reportsubmission)
 - **Kas teadsite, et microsoft Defenderi microsoft Defenderi** jaoks saate Office 365 seif linkide kaitse teie asutuse töötajate vahel saadetavate meilisõnumite jaoks? Tehke järgmist.
     1. Avage https://protection.office.com ja logige sisse.

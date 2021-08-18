@@ -12,16 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004195"
 - "7377"
-ms.openlocfilehash: 2501046d49d8b290668bef8ea04881e8379b43ee
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: f1de44682dbdc4bdfc799e0a3ac618e4c5b76bf0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677518"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317554"
 ---
 # <a name="deploy-microsoft-defender-for-endpoint"></a>Microsoft Defenderi juurutamine lõpp-punkti jaoks
 
-[Microsoft Defenderi lõpp-punkti nõunik](https://go.microsoft.com/fwlink/?linkid=2146241) pakub juhiseid, mis aitavad teie ettevõtte võrgul täiustatud ohte ennetada, avastada, uurida ja neile vastata. Saate oma ettevõtte haavatavust teadlikult hinnata ja otsustada, millised juurutuse pakett ja konfiguratsiooni meetodid on kõige paremad.
+[Microsoft Defender for Endpointi nõustaja](https://go.microsoft.com/fwlink/?linkid=2146241) pakub juhiseid, mis aitavad teie ettevõttevõrgul täiustatud ohte ennetada, avastada, uurida ja neile reageerida. Hinnake oma asutuse haavatavust ja otsustage, millised juurutuspaketid ja konfiguratsioonimeetodid on kõige paremini kasutatavad.
 
-> [!NOTE]
-> Lõpp-punkti jaoks on nõutav Microsoft Volume litsents.
+**Märkus.** Lõpp-punkti defenderi jaoks on nõutav Microsofti hulgilitsents.

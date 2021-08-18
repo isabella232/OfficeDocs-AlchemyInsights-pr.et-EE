@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge ' i privaatsussätete konfigureerimine
+title: Microsoft Edge privaatsussätete konfigureerimine
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114168"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge ' i privaatsussätete konfigureerimine
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge privaatsussätete konfigureerimine
 
-Kui Microsoft Edge on juurutatud mitte-Windowsi platvormidel, ei saadeta Microsoftile diagnostilisi andmeid ega saidi andmeid. Kui Microsoft Edge on juurutatud opsüsteemis Windows 10, saadetakse diagnostilised andmed ja saidi teave vastavalt kasutajate [Windowsi diagnostiliste andmete sätetele](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization).
+Vaikimisi, kui Microsoft Edge juurutatakse mitte-Windows, ei saadeta Microsoftile diagnostikaandmeid ega saiditeavet. Kui aga Microsoft Edge juurutatakse Windows 10, saadetakse diagnostikaandmed ja saiditeave vastavalt kasutajate [Windows diagnostikaandmete sätetele.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-Kui soovite konfigureerida, kuidas Microsoft Edge teie asutuse andmete kogumist töötleb, kasutage järgmisi rühmapoliitika reegleid.
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): see poliitika võimaldab teavitada kasutus-ja krahhiga seotud andmetest.
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): see poliitika saadab Microsofti teenuste täiustamiseks kasutatava saidi teabe.
+Ettevõtte Microsoft Edge andmete kogumise konfigureerimiseks kasutage järgmisi rühmapoliitikaid.
+- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): See poliitika võimaldab kasutusest ja krahhiga seotud andmetest teatamist.
+- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): See poliitika saadab saiditeabe, mida kasutatakse Microsofti teenused.
 
-Lisateavet leiate teemast [poliitika sätete konfigureerimine](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+Lisateavet leiate teemast [Poliitikasätete konfigureerimine.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)
