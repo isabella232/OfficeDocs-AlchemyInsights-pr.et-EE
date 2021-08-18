@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090732"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329914"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Suhtluse vastavus Microsoft 365
 
@@ -33,7 +33,7 @@ Suhtluse nõuetele vastavuse häälestamiseks lugege teemat [Suhtluse nõuetele 
 
 Suhtluse nõuetele vastavuse uurimise, läbivaatamise ja heastusmeetmete kohta leiate [artiklitest Suhtluse nõuetele vastavuse teatiste ülevaatus ja heastus.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-Suhtluse nõuetele vastavuse funktsiooni ülevaate leiate teemast [Suhtluse vastavus Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Suhtluse nõuetele vastavuse funktsiooni ülevaate leiate teemast Suhtluse [vastavus Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
 Litsentsinõuded. Suhtluspoliitikate järgi jälgitud kasutajatel peab olema üks järgmistest.
 
@@ -41,7 +41,6 @@ Litsentsinõuded. Suhtluspoliitikate järgi jälgitud kasutajatel peab olema ük
 - Office 365 Enterprise E3 litsents täiustatud nõuetele vastavuse lisandmooduliga
 - Office 365 Enterprise E5 tellimus
 
-Kui teil pole ühtegi ülalkirjeldatust ja soovite proovida suhtluse nõuetele vastavust, registreeruge Office 365 Enterprise **[E5 prooviversiooniks.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+Kui teil pole ühtegi ülalkirjeldatust ja soovite proovida suhtluse nõuetele vastavust, registreeruge Office 365 Enterprise **[E5 prooviversiooni.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> Meilisõnumite täielik töötlemine poliitikas võib võtta kuni 24 tundi. Suhtlus Microsoft Teams, Yammer ja muude tootjate platvormidel võib poliitika täielikuks töötlemiseks aega võtta kuni 48 tundi.
+**Märkus.** Meilisõnumite täielik töötlemine poliitikas võib võtta kuni 24 tundi. Suhtlus Microsoft Teams, Yammer ja muude tootjate platvormidel võib poliitika täielikuks töötlemiseks aega võtta kuni 48 tundi.

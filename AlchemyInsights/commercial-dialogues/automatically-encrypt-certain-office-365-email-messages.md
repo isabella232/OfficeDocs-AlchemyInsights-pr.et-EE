@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b15a72ced4921b3df1b7105837592781188a2a25
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949563"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327970"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>Teatud meilisõnumite automaatne Office 365 krüptimine
 
 Saate automaatselt krüptida sõnumeid, mille kasutajad saadavad teatud välistele inimestele või organisatsioonidele. Selleks tehke järgmist.
 
-1. Valige [Exchange meilivoog](https://outlook.office365.com/ecp/)ja **>**. 
+1. Valige [Exchange halduskeskuses](https://outlook.office365.com/ecp/) **meilivoog ja > reeglid**. 
 2. Klõpsake ikooni **Uus (+)** ja seejärel käsku Rakenda **Office 365 sõnumikrüptimine ja õiguste kaitse sõnumitele.**
 3. Sisestage **väljale** Nimi reegli nimi (nt Krüpti sõnumeid, *mis on saadetud DrToniRamos@gmail.com*).
 4. Valige **jaotises Rakenda see reegel,** kui > on see **isik**. 
@@ -35,8 +35,7 @@ Saate automaatselt krüptida sõnumeid, mille kasutajad saadavad teatud väliste
 9. Valige mis tahes valikuline valik (valikuliste valikute loendist, mida saate praegu teha, millest paljud võivad olla jäänud lihtsuse vaikesätteks).
 10. Klõpsake nuppu **Salvesta**.
 
-> [!IMPORTANT]
-> Saate alati hiljem tagasi tulla ja seda reeglit redigeerida.
+**Tähtis.** Saate alati tagasi tulla ja seda reeglit hiljem redigeerida.
 
-Lisateavet krüptimisreeglite loomise kohta leiate teemast [Meilivooreeglite määratlemine](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)meilisõnumite krüptimiseks Office 365 .
+Lisateavet krüptimisreeglite loomise kohta leiate teemast [Meilivooreeglite määratlemine meilisõnumite](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)krüptimiseks Office 365 .
 

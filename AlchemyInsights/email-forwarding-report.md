@@ -12,14 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fdae2acc4d1b78edfdf9fa49cc6711e6f87ea0a3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891447"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327878"
 ---
 # <a name="auto-forwarded-messages-report"></a>Automaatse edasisaadmise sõnumite aruanne
 
-Kui soovite vaadata aruannet selle kohta, kui palju automaatselt edasi [](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) saadetud sõnumeid teie ettevõttes on, vaadake Exchange halduskeskuse (EAC) aruande meilivoo <https://admin.exchange.microsoft.com/> \>  \> **aruandest.** Kui soovite minna otse lehele Automaatselt edasi **saadetud sõnumid,** kasutage funktsiooni <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> .
+Kui soovite vaadata aruannet selle kohta, kui palju automaatselt edasi [](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) saadetud sõnumeid teie asutuses on, vaadake Exchange halduskeskuse (EAC) aruande aruandest <https://admin.exchange.microsoft.com/> \>  \> **Meilivoog**. Kui soovite minna otse lehele Automaatselt edasi **saadetud sõnumid,** kasutage funktsiooni <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> .
   

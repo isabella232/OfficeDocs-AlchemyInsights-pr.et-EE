@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998939"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328286"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Tellimuse haldamine – turbe- ja vastavustaotlused – azure'i valdkonna nõuetele vastavuse atesteerimine
 
@@ -32,25 +32,23 @@ Teie probleemi kirjelduse põhjal oleme teie jaoks lahenduse leidnud. Enamik kli
 
 - **Azure'i PCI DSS-i** vastavus. Maksekaardi valdkonna nõuetele vastavuse saavutamiseks on nõutavad Azure'iga seotud dokumendid "Vastavustunnistus" ja "Vastutusmaatriks", mis mõlemad on saadaval Azure'i usalduskeskuses. Kontrollige, kas teil on neid dokumente. Kui teil on neid dokumente, kuid teil on vaja täiendavaid tõendeid Microsoft Azure'i PCI andmeturbestandardi nõuetele vastavuse kohta, lugege teemat [Microsoft ja PCI DSS.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- **Azure'i toimingud/turve/vastavus.** Kui teil on Azure'is üldised turbega seotud küsimused, lugege teemat Standardne vastus teabetaotlusele Microsoft Azure'i turve, privaatsus ja nõuetele vastavus. Kui teil on nõuetele vastavusega seotud küsimusi, lugege teemat Microsoft STP – vastavus- ja teenusekindluse portaali KKK.
+- **Azure'i toimingud/turve/vastavus.** Kui teil on Azure'is üldiseid turbega seotud küsimusi, lugege teemat Standardne vastus teabetaotlusele Microsoft Azure'i turve, privaatsus ja nõuetele vastavus. Kui teil on nõuetele vastavusega seotud küsimusi, lugege teemat Microsoft STP – vastavus- ja teenusekindluse portaali KKK.
 
 Kui teil on nõuetele vastavusega seotud küsimusi, lugege [teemat Microsoft STP – vastavus-](https://www.microsoft.com/trust-center/compliance/compliance-overview) ja teenuse usalduse portaali KKK.
 
 - **GDPR-i** vastavus. Kui teil on küsimusi andmetöötluslepingu kohta, lugege võrguteenuste tingimuste leheküljelt 7 algavad andmekaitsetingimused. OST sisaldab esmaseid andmetöötlustingimusi, kuid on kaasatud standardsesse ärilepingusse. Muu hulgas sisaldab see lepingulist kohustust seoses meie isikuandmete kaitse üldmääruse kohustustega. Lisaks vaadake gdpr-spetsiifilisi tingimusi lepingu lõpus jaotises "Attachment 4" (4. manus), alustades leheküljelt 42. Need jaotised hõlmavad Microsofti GDPR-i kohustusi andmetöötlejana ja alamtöötlejana teisele andmetöötlejale.
 
-> [!NOTE]
-> Pdf-dokumentide avamiseks on tungivalt soovitatav kasutada Adobe Acrobat Readerit, kuna on täheldatud probleeme teiste PDF-i vaatajatega. Samuti on soovitatav fail brauseriaknas avamise asemel kohalikult alla laadida, kuna see võib põhjustada tõrkeid.
+**Märkus.** Pdf-dokumentide avamiseks on tungivalt soovitatav kasutada Adobe Acrobat Readerit, kuna on täheldatud probleeme teiste PDF-i vaatajatega. Samuti on soovitatav fail brauseriaknas avamise asemel kohalikult alla laadida, kuna see võib põhjustada tõrkeid.
 
-- **HDS-i** vastavus: Azure on nüüd "Health Data Hosting", mis on sertifitseeritud vastavalt Prantsuse nõuetele. Lisateavet leiate teemast "Microsoft Azure on nüüd sertifitseeritud tundlike seisundiandmete majutamiseks Prantsusmaal".
+- **HDS Compliance**: Azure on nüüd "Health Data Hosting", mis on sertifitseeritud vastavalt Prantsuse nõuetele. Lisateavet leiate teemast "Microsoft Azure on nüüd sertifitseeritud tundlike seisundiandmete majutamiseks Prantsusmaal".
 
 - **Levimise** testimine: kogu "Läbiviigukatse taotluse esitamine" protsess on klient,kes on iseteenindusega protsess "pentest".
 
 Lisateavet levimise testimise kohta leiate teemast [Läbiviigukatsed.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
 
-- **Klienditeatiste alamtöötleja** muudatused: Saate lubada saada teatisi Microsofti isikuandmete alamtöötlejate loendis tehtud muudatuste kohta.
+- **Klienditeatiste alamtöötleja** muudatused: saate sisse võtta teatised Microsofti isikuandmete alamtöötlejate loendis tehtud muudatuste kohta.
 
-> [!NOTE]
-> Võrguteenuste kliendiandmete ja isikuandmete loendi teatis on täielikult automatiseeritud. Lisateavet leiate teemast Microsoftsi andmekaitseressursid.
+**Märkus.** Võrguteenuste kliendiandmete ja isikuandmete loendi teatis on täielikult automatiseeritud. Lisateavet leiate teemast Microsoftsi andmekaitseressursid.
 
 **Soovitatud dokumendid**
 

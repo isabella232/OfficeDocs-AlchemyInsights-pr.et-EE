@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9b4fbba05af371356497b68399277da4539a50db
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034678"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327914"
 ---
 # <a name="get-started-with-communication-compliance"></a>Suhtluse nõuetele vastavusega alustamine
 
@@ -30,10 +30,9 @@ Enne alustamist peab teie ettevõttel olema üks järgmistest tellimustest või 
 * Microsoft 365 A3 tellimus + Microsoft 365 A5 vastavuse lisandmoodul
 * Microsoft 365 A3 tellimus + Microsoft 365 A5 Insideri riskijuhtimise lisandmoodul
 * Microsoft 365 G5 tellimus (tasuline või prooviversioon)
-* Microsoft 365 G5 tellimus + Microsoft 365 G5 vastavus lisandmoodul
+* Microsoft 365 G5 tellimus + Microsoft 365 G5 vastavusliide
 * Microsoft 365 G5 tellimus + Microsoft 365 G5 Insideri riskijuhtimise lisandmoodul
 * Office 365 Enterprise E5 tellimus (tasuline või prooviversioon)
-* Office 365 Enterprise E3 tellimus + Office 365 täiustatud nõuetelevastavus (pole enam saadaval uutele tellimustele, vt märkust)
+* Office 365 Enterprise E3 tellimus + Office 365 täiustatud nõuetelevastavus lisandmoodul (pole enam saadaval uute tellimuste jaoks, vt märkust)
 
-    > [!NOTE]
-    > Kui teil pole olemasolevat E5 Office 365 Enterprise ja soovite proovida insideri riskijuhtimist, saate [lisada Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) olemasolevale tellimusele või registreeruda Office 365 Enterprise E5 prooviversiooni.
+    **Märkus.** Kui teil pole olemasolevat E5 Office 365 Enterprise ja soovite proovida insideri riskijuhtimist, saate [lisada Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) olemasolevale tellimusele või registreeruda Office 365 Enterprise E5 prooviversiooni.

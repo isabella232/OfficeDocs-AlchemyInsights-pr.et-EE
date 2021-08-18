@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891895"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328332"
 ---
 # <a name="subscription-expired"></a>Tellimus on aegunud
 
@@ -29,9 +29,8 @@ Kui teie tellimus on aegunud või Microsoft on selle keelanud või kui te tühis
 **Tellimuse uuesti aktiveerimine**
 
 1. Avage halduskeskuses leht Toodete  >  [arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Otsige **vahekaardil Tooted** üles tellimus, mille soovite uuesti aktiveerida, valige kolm punkti (veel toiminguid) ja seejärel valige **Aktiveeri see tellimus uuesti.**
-    > [!NOTE]
-    > Kui te ei näe selle tellimuse **uuesti aktiveerimist, pöörduge** klienditoe poole.
+2. Otsige **vahekaardil Tooted** üles tellimus, mille soovite uuesti aktiveerida, valige kolm punkti (veel toiminguid) ja seejärel valige **Aktiveeri see tellimus uuesti**.\
+    **Märkus.** Kui te ei näe selle tellimuse **uuesti aktiveerimist, pöörduge** klienditoe poole.
 3. Valige **paanil Aktiveeri** see tellimus uuesti ripploendist soovitud makseviis või valige **Lisa makseviis**.
 4. Valige **Salvesta**.
 

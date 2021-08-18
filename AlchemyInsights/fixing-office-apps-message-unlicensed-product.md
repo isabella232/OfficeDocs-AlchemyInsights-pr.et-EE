@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: eb62dfce9f9507dd8806d91343cd39fe76e65594473683c1393d524f6c2d8a27
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893907"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327842"
 ---
 # <a name="unable-to-activate-office"></a>Office‘t ei saa aktiveerida
 
-**Märkus.** Kui kasutate vanemat versiooni Windows (nt Windows 7), veenduge, et TLS 1.2 oleks vaikimisi lubatud. Lisateavet leiate teemast [Värskendus TLS 1.1 ja TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)lubamiseks winHTTP-s Windows.
+**Märkus.** Kui kasutate vanemat versiooni Windows (nt Windows 7), veenduge, et TLS 1.2 oleks vaikimisi lubatud. Lisateavet leiate teemast [Värskendus TLS 1.1 ja TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)lubamiseks turvaliste vaikeprotokollidena WinHTTP in Windows .
 
 - Kontrollige, kas teie tellimuse olek on aegunud.
 - Veenduge, et teil on tellimus, mis võimaldab kliendilitsentse (nt Office 365 Business või Business Premium) ning et [kasutajal on määratud litsents](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

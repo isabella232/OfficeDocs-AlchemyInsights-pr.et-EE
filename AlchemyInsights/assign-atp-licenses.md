@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defenderi määramine Office 365 litsentsidele
+title: Microsoft Defenderi määramine Office 365 litsentside jaoks
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd2771143980b7a9652bf2323b08e5c8019fc1b1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888886"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328098"
 ---
-# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defenderi määramine Office 365 litsentsidele
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defenderi määramine Office 365 litsentside jaoks
 
 Microsoft Defenderi Office 365 saab määrata kasutajatele Microsoft 365 haldus Centeris.
 

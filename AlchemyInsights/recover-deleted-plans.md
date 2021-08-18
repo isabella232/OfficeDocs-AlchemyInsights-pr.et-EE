@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001718"
 - "3811"
-ms.openlocfilehash: 2823e1d4fe5d4fde04060a6f031e982924a720af6f9226bf7a4c483b72ece5f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 34467061757da327ec36f0b7559bbec6c1e0b574
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062148"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328562"
 ---
 # <a name="recover-deleted-plans"></a>Kustutatud plaanide taastamine
 
-- Plaani saab kustutada ainult plaani omanik. Kui soovite [plaani või ülesande](https://support.microsoft.com/office/39e10e78-13f0-446d-94cd-9e562648497a.) kustutada, järgige juhiseid teemas ülesande või plaani kustutamine.  **Märkus**: kui plaan kustutati jäädavalt, ei saa seda enam taastada. Samuti ei ole võimalik taastada kustutatud ülesannet. Kui kustutasite ülesande kogemata, peate selle taaslooma päris algusest.
+- Plaani saab kustutada ainult plaani omanik. Kui soovite [plaani või ülesande](https://support.microsoft.com/office/39e10e78-13f0-446d-94cd-9e562648497a.) kustutada, järgige juhiseid teemas ülesande või plaani kustutamine.  
+    **Märkus**: kui plaan kustutati jäädavalt, ei saa seda enam taastada. Samuti ei ole võimalik taastada kustutatud ülesannet. Kui kustutasite ülesande kogemata, peate selle taaslooma päris algusest.
 
 - Kui plaan kustutati rühma kustutamise tulemusena, võite taastada rühma ja selle sisu. Järgige juhiseid teemas [kustutatud Microsoft 365 rühma](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group?view=o365-worldwide) taastamine, et taastada rühm ja sellega seotud sisu.
 

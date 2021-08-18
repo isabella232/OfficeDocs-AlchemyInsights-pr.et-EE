@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892423"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330664"
 ---
 # <a name="update-credit-card-information"></a>Krediitkaarditeabe uuendamine
 
 1. Minge Microsoft 365 halduskeskuses lehele **Arveldamine** \> [Makseviisid](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-    > [!NOTE]
-    > Kui ilmneb probleem, mille korral teid saadetakse enne värskenduste lõpulejõudmist tagasi halduskeskuse avalehele, proovige inkognito-või InPrivate-sirvimist.
+    **Märkus.** Kui teil on silmus, mis saadab teid enne värskenduste lõpule viimist tagasi administraatori avalehele, proovige Inprivate- või Inkognito-režiimi.
   
 2. Valige krediitkaart, mille teavet soovite värskendada.
 
-    > [!NOTE]
-    > Kui makseviisi lisas keegi teine administraator, ei saa te krediitkaardi või pangakonto andmeid värskendada. Kui krediitkaart on aegumas ja teine administraator ei saa teavet värskendada, võite teenusekatkestuste vältimiseks tellimusse lisada mõne muu krediitkaardi või uue pangakonto andmed. Selleks valige **Lisa makseviis**.
+    **Märkus.** Kui teine administraator on makseviisi lisanud, ei saa te selle krediitkaardi või pangakonto teavet värskendada. Kui krediitkaart on aegumas ja teine administraator ei saa teavet värskendada, võite teenusekatkestuste vältimiseks tellimusse lisada mõne muu krediitkaardi või uue pangakonto andmed. Selleks valige **Lisa makseviis**.
   
 3. Valige paanil **Makseviisi üksikasjad** nupp **Redigeeri**.
 
