@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054794"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321903"
 ---
 # <a name="issues-with-links-and-urls"></a>Linkide ja URL-idega seotud probleemid
 
@@ -42,15 +42,13 @@ Vastuse URL-i lisamiseks minge oma lehel **rakenduse registreerimine** Azure'i p
     - platvormist (iOS/Android/UWP)
     - rakenduse loomiseks kasutatud teavest (nt komplekti ID iOS-is ning paketi nimi ja allkirja räsiväärtus Androidis). Azure'i portaali rakenduse registreerimine aitab teid. Lisateavet leiate teemast [Platvormi konfigureerimise ja ümbersuunamise URI-d](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Veebi-API-d ja mõned hääletud loa hankimise viisid (IWA ja kasutajanimi/parool) ei nõua ümbersuunamise URI-d.
+**Märkus.** Veebi API-d ja mõned märkide (IWA ja kasutajanime/parooli) hankimise vaiksed viisid ei nõua ümbersuunamise URI-d.
 
 **Juurutasin oma veebirakenduse ja juurutatud rakenduse testimisel saan vastuseks URL-i lahknevuse teate**
 
 Lisage ümbersuunamise URI-d kõigi nende asukohtade jaoks, kus te oma veebirakendust juurutate. Lisateavet leiate teemast [Registreerige veebirakendused kasutades Azure‘i portaali](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Lisage asukohale ümbersuunamise URI kohe pärast seda, kui olete rakenduse selles asukohas juurutanud.
+**Märkus.** Lisage asukoha ümbersuunamise URI kohe pärast seda, kui olete rakenduse selles asukohas juurutanud.
 
 **Ma ei saa registreerida piisavalt vastuse URL-e**
 

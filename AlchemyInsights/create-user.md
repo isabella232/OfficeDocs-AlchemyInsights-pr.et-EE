@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896711"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323282"
 ---
 # <a name="create-user"></a>Kasutaja loomine
 
@@ -36,6 +36,6 @@ ms.locfileid: "57896711"
 1. Azure [AD rollide ja administraatorite kohta leiate](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) lisateavet teemast Azure AD rollid ja administraatorid.
 1. Vaadake [oma](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD domeeninimesid.
 1. Vaadake [läbi auditilogid,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) et näha üksikasjalikumat teavet hiljuti loodud või kustutatud kasutaja kohta(nt toimingu sooritanud ja millal).
-1. Lisateavet uute kasutajate lisamise kohta leiate teemast [Azure'i portaali kasutamine azure AD-s uue kasutaja loomiseks.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+1. Lisateavet uute kasutajate lisamise kohta leiate teemast [Azure'i portaali abil azure AD-s uue kasutaja loomine.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 1. [Azure AD haldusrollid:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)administraatori rolliõigused Azure Active Directory
 1. Uue kasutaja [loomiseks saate kasutada ka Azure AD PowerShelli.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

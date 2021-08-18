@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e050074f26025906561237c9ef487ed4743f93b1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988831"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322245"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Teatud meilisõnumite automaatne krüptimine teenusekomplektist Office 365
 
-1. Valige [Exchange meilivoog](https://outlook.office365.com/ecp/)ja **>**. 
+1. Valige [Exchange halduskeskuses](https://outlook.office365.com/ecp/) **meilivoog ja > reeglid**. 
 2. Klõpsake ikooni **Uus (+)** ja seejärel käsku Rakenda **Office 365 sõnumikrüptimine ja õiguste kaitse sõnumitele.**
 3. Sisestage **väljale** Nimi reegli nimi (nt Krüpti *kõik sõnumid).*
 4. Valige **jaotises Rakenda see reegel, kui** valik **[Rakenda kõigile sõnumitele]**. 
@@ -33,8 +33,7 @@ ms.locfileid: "53988831"
 9. Valige mis tahes valikuline valik (valikuliste valikute loendist, mida saate praegu teha, millest paljud võivad olla jäänud lihtsuse vaikesätteks).
 10. Klõpsake nuppu **Salvesta**.
 
-> [!IMPORTANT]
-> Saate alati hiljem tagasi tulla ja seda reeglit redigeerida.
+**Tähtis.** Saate alati tagasi tulla ja seda reeglit hiljem redigeerida.
 
 Lisateavet krüptimisreeglite loomise kohta leiate teemast [Meilivooreeglite määratlemine meilisõnumite](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) krüptimiseks Office 365
 
