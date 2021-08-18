@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ' i Termini poe kasutamine
+title: Veebitermini SharePoint kasutamine
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c05cd822844c22a7fb5b384d224bcc6b863327c2a20b39512c16e0585e8951b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115972"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>SharePoint Online ' i Termini poe kasutamine
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Veebitermini SharePoint kasutamine
 
-Terminite pood on saadaval üldisele administraatorile, SharePointi administraatorile ja Term Store ' i administraatoritele ning seda võib leida uues SharePoint Online ' i halduskeskus.
+Terminisalv on saadaval üldadministraatoritele, SharePoint administraatoritele ja terminisalve administraatoritele ning selle leiate uuest SharePoint halduskeskusest.
   
-Lisateavet SharePoint Online ' i Termini poe ja taksonoomia kasutamise kohta SharePoint Online ' is leiate teemast [hallatavate metaandmete tutvustus](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Lisateavet selle kohta, kuidas SharePoint veebiterminisalve ja taksonoomiat SharePoint Online'is, leiate teemast [Hallatavate metaandmete tutvustus.](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)
   
-Kui teil on probleeme terminitega, mida ei esine või kuvatakse vahelduvalt, soovitame oodata 24 tundi ja seejärel logida tugiteenuse taotlusele, kui probleem ei lahene. Kui 24 tundi võib olla pikk aeg, võib olla vahemällu salvestamise probleem või me juba töötame selle probleemi lahendamiseks.
+Kui teil on probleeme terminitega, mida ei kuvata või kuvatakse aeg-ajalt, soovitame teil oodata 24 tundi ja seejärel probleemi püsimisel tugiteenusetaotluse sisse logida. Kuigi 24 tundi võib olla pikk aeg, võib esineda vahemällu salvestamise probleem või me töötame juba selle probleemi lahendamise kallal.
   

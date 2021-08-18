@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge + Bingi kasutamise alustamine
+title: Alustage Microsoft Edge + Bing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8227"
-ms.openlocfilehash: 9130a20f36ae7631f6f72b55cdc5b341aaf51225
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5c885492bc48017846195e13ee0b3626f5fbf1faa6602580b487141a6d21df9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035395"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116400"
 ---
-# <a name="get-started-with-microsoft-edge--bing"></a>Microsoft Edge + Bingi kasutamise alustamine
+# <a name="get-started-with-microsoft-edge--bing"></a>Alustage Microsoft Edge + Bing
 
-Microsoft Edge + Bingi kasutamise alustamiseks pole vaja täiendavat häälestamist. Tööalase teabe otsimiseks Sisesta lihtsalt päring Microsoft Edge ' i aadressiribale.
+Lisahäälestust pole vaja, et alustada Microsoft Edge + Bing. Tööga seotud teabe otsimiseks sisestage oma päring lihtsalt Microsoft Edge.
 
-Lisateavet leiate teemast [Microsoft Edge + Bingi](https://go.microsoft.com/fwlink/?linkid=2152963)lisateabe saamine.
+Lisateavet leiate teemast Lisateavet Microsoft Edge [+ Bing](https://go.microsoft.com/fwlink/?linkid=2152963).

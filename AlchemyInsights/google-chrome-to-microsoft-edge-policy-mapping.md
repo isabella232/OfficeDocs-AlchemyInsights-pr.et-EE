@@ -1,5 +1,5 @@
 ---
-title: Lisateave Google Chrome ' i poliitikate ja Microsoft Edge ' i poliitikate vastendamise kohta
+title: Teave Google Chrome'i poliitikate ja Microsoft Edge kohta
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "7097"
-ms.openlocfilehash: adde475b409455b30e6a955c850a70eda8e7b625
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 04277f888ba08f6f2ae77ad76be50281e6e588f62574864446d0d62de6e0401b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116292"
 ---
-# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Lisateave Google Chrome ' i poliitikate ja Microsoft Edge ' i poliitikate vastendamise kohta
+# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Teave Google Chrome'i poliitikate ja Microsoft Edge kohta
 
-Google Chrome ' i poliitikad on vastendatud vastava Microsoft Edge ' i poliitikaga, mida toetatakse brauseri versioonis 80. Lisateavet leiate teemast [Google Chrome to Microsoft Edge ' i poliitika vastendamine](https://go.microsoft.com/fwlink/?linkid=2141933).
+Google Chrome'i poliitikad vastendatakse vastavate Microsoft Edge brauseri versioonis 80 toetatud poliitikatega. Lisateavet leiate teemast [Google Chrome, et Microsoft Edge kaardistada.](https://go.microsoft.com/fwlink/?linkid=2141933)

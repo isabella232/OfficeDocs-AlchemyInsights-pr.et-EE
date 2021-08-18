@@ -1,5 +1,5 @@
 ---
-title: Apple DEP spikker
+title: Apple DEP-ga seotud abi
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116328"
 ---
-# <a name="help-with-apple-dep"></a>Apple DEP spikker
+# <a name="help-with-apple-dep"></a>Apple DEP-ga seotud abi
 
-Kui DEP-seade ei saa registreeruda ja MFA (mitme teguri autentimine) on lubatud, siis keelake MFA. MFA registreerimine pole praegu toetatud.
+Kui DEP-seade ei saa registreeruda ja MFA (mitmikautentimine) on lubatud, keelake MFA. DEP-ga liitumine ei toeta praegu MFA-d.
 
-[Intune ' i ja Apple ' i seadme liitumise programmi (DEP) kasutamise alustamine](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Intune'i ja Apple'i seadme registreerimise programmiga (DEP) alustamine](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Levinud iOS-i liitumise tõrked ja lahendused](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Levinumad iOS-i registreerimise tõrked ja lahendused](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Varundus ja taaste stsenaariumid registreeritud iOS-i/iPadOS seadmete jaoks](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[IOS-i / iPadOS-i seadmete varundus- ja taastestsenaariumid](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
-[Üldise liitumise tõrkeotsing](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Üldine registreerimise tõrkeotsing](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Saate kasutada Intune tõrkeotsingu portaali levinud liitumise tõrgete diagnoosimiseks ja lahendamiseks](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Intune'i tõrkeotsinguportaali kasutamine levinumate registreerimistõrgete diagnoosimiseks ja lahendamiseks](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

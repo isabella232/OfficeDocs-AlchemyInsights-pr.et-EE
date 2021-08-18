@@ -1,5 +1,5 @@
 ---
-title: 911 fookuses oleva postkasti väljalülitamine klientrakenduses
+title: 911 Fookeeritud sisendkausta väljalülitamine kliendis
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df283ec7aab493dcca684426606b54fdb08a2fa94d2e17845cefc028ed4407c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795204"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092478"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Fookuses oleva sisendkausta väljalülitamine e-posti klientides
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Fookeeritud sisendkausta väljalülitamine meiliklientides
 
-Fookuses oleva sisendkausta väljalülitamiseks rakenduses Outlook 2016, Outlooki veebirakenduses, Outlook.com/Hotmail.com, Outlook 2016 for Mac või Windows 10 Mail for Windows 10 leiate teavet teemast [fookuses sisendkausta](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)väljalülitamine.
+Fookeeritud sisendkausta väljalülitamiseks Outlook 2016, Outlooki veebirakendus, Outlook.com/Hotmail.com, Outlook 2016 for Mac või Mail for Windows 10, lugege teemat Fookeeritud sisendkausta [väljalülitamine.](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)
 
-Organisatsiooni kõigi jaoks keskendatud sisendkausta väljalülitamiseks vaadake teemat [fookuses olevate Sisendkaustade konfigureerimine organisatsiooni kõigi jaoks](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Fookeeritud sisendkausta väljalülitamiseks ettevõtte kõigi jaoks lugege teemat [Fookeeritud sisendkausta konfigureerimine ettevõtte kõigi jaoks.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)

@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001498"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320026"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>McA-ga seotud müügi- ja arveaadressi värskendamine – soovitatavad juhised
 
 Saate värskendada microsofti kliendilepinguga (MCA) seotud ostja- ja maksja-aadressi. 
 
-> [!NOTE]
-> Ainult kasutajaadministraator saab kasutajaprofiili Azure Active Directory muuta. Kui teile pole määratud kasutajaadministraatori rolli, pöörduge oma kasutajaadministraatori poole. Lisateavet kasutaja profiili muutmise kohta leiate teemast Kasutaja [profiiliteabe](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)lisamine või värskendamine kasutaja Azure Active Directory .
+**Märkus.** Kasutajaprofiili teavet saab muuta ainult Azure Active Directory administraator. Kui teile pole määratud kasutajaadministraatori rolli, pöörduge oma kasutajaadministraatori poole. Lisateavet kasutaja profiili muutmise kohta leiate teemast Kasutaja profiiliteabe lisamine või värskendamine kasutaja Azure Active Directory [.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Müüdud aadress** – müüdud aadress on selle organisatsiooni või isiku aadress ja kontaktandmed, kes vastutab arvelduskonto eest. See kuvatakse kõigil arvelduskonto jaoks loodud arvetel.
 

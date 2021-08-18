@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 6f2067a2dcae5841aecf9acd061e4e03cf91fbac3637467e82aee2fbc9340f9a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fcf35457ed886581e37aa8e58df46898775d6651
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895211"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319776"
 ---
 # <a name="enable-the-audit-log"></a>Auditilogi lubamine
 
@@ -25,7 +25,7 @@ Suhtluse nõuetele vastavuse tagamiseks peavad auditilogid kuvama teatised ja j�
 
 1. Tehke ühte järgmistest toimingutest.
    - Avage Microsoft 365 vastavuskeskus lahenduste audit <https://compliance.microsoft.com>  \> . Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://compliance.microsoft.com/auditlogsearch> .
-   - Avage Microsoft 365 Defender portaalis <https://security.microsoft.com> **Audit**. Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://security.microsoft.com/auditlogsearch> .
+   - Avage Microsoft 365 Defender , valige <https://security.microsoft.com> **Auditeeri**. Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://security.microsoft.com/auditlogsearch> .
 2. Kontrollige **lehel** Audit, kas vahekaart **Otsing** on valitud, ja seejärel klõpsake nuppu **Alusta salvestamist kasutaja- ja administraatoritegevuse ribalt.**
 
 Pärast auditeerimise sisselülitamist kuvatakse teade, mis ütleb, et auditilogi on ette valmistatud ja saate otsingu käivitada paari tunni jooksul pärast ettevalmistuse lõpule viimist. Seda toimingut tuleb teha ainult üks kord.

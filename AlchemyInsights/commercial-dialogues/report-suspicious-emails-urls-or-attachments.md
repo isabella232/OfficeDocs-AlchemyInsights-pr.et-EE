@@ -12,25 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091123"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Kahtlastest meilisõnumitest, URL-idest või manustest teatamine
 
-Mõistan, et vajate abi kahtlase meilisõnumi või valesti filtreeritud meilisõnumi uurimisel. Saan aidata teil esitada probleemi analüüsimiseks **portaalis Edastused,** mis annab teile kohe tagasisidet. Siin on kokkuvõte juhistest.
+Mõistan, et vajate abi kahtlase meilisõnumi või valesti filtreeritud meilisõnumi uurimisel. Saan aidata teil esitada probleemi analüüsimiseks, kasutades edastuste Explorerit, mis annab teile kohe tagasisidet. Siin on kokkuvõte juhistest.
 
-1. Avage Microsoft 365 Defender <https://security.microsoft.com> e-posti &  \> **edastused**.
-
-   Otse lehele **Edastused minemiseks** kasutage nuppu <https://security.microsoft.com/reportsubmission> .
-
-2. Veenduge **lehel Edastused,** et **valitud** on vahekaart Esitatud analüüsiks, ja seejärel klõpsake analüüsimiseks nuppu **+ Edasta Microsoftile.**
-
-3. Hüpik kuvatakse koos meili, URL-i või faili esitamise võimalusega.
-
-Lisateavet leiate teemast Administraatorite [edastuse kasutamine arvatavate rämpsposti, andmepüügi, URL-ide ja failide edastamiseks Microsoftile.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
-
-**Märkus.** Teavitage kasutajaid, et nad peaksid oma sisendkaustas kahtlastest sõnumitest teatama, kasutades lisandmoodulit Teata sõnumist või [Andmepüügist](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).
+1. Avage Office 365 [turbe & ja](https://go.microsoft.com/fwlink/p/?linkid=2077143)seejärel valige Ohuhalduse   >  [edastused](https://go.microsoft.com/fwlink/?linkid=2101521).
+2. Valige **+ Uus esitamine**. Hüpik kuvatakse koos võimalusega saata meilisõnum, URL või fail.
+    > [!NOTE]
+    > Teavitage oma kasutajaid sellest, et nad peaksid oma sisendkaustas salvestatud kahtlastest sõnumitest Microsoftile teatama, [kasutades lisandmoodulit Teata sõnumist.](https://go.microsoft.com/fwlink/?linkid=2092385)
