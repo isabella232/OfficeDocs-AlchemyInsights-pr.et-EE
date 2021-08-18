@@ -15,14 +15,14 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 30bfec6c66b4ac9ae82704785c4739322b412726
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900916"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327481"
 ---
-# <a name="reactivate-a-microsoft-365-subscription"></a>Tellimuse uuesti Microsoft 365 uuesti
+# <a name="reactivate-a-microsoft-365-subscription"></a>Tellimuse Microsoft 365 uuesti
 
 Kui teie tellimus aegub, Microsoft on selle keelanud või tühistanud tellimuse keset tellimust, saate selle halduskeskuses uuesti aktiveerida.
   

@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893191"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327517"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Lunavararünnak SharePoint või OneDrive
 
-1.  Kui otsite abi selle kohta, mida teha, kui teie arvutist leitakse pahatahtlik fail OneDrive või SharePoint või Teams, lugege teemat Mida teha, kui [leitakse pahatahtlik fail.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
+1.  Kui otsite abi selle kohta, mida teha, kui teie arvutist või OneDrive või SharePoint või Teams, lugege teemat Mida teha, [kui leitakse pahatahtlik fail.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
 2. Kui otsite, kuidas kaitsta oma andmeid lunavara eest, lugege teemat
     - [Andmete kaitse SharePoint OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Lunavara ohutõrje](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Kas kõik teie arvutis olevad failid OneDrive või SharePoint mõjutab lunavara või ründevara või krüptoviirus? 
+3.  Kas kõik teie arvutis olevad failid OneDrive või SharePoint mõjutatud lunavarast või ründevarast või krüptoviirustest? 
 
-Peatage või peatage kohe OneDrive sünkroonimine (kui see on olemas) või katkestage teegiga vastendatud Exploreri vaade (kui see on olemas) ja seejärel saate taastada kogu OneDrive või SharePoint teegi eelmisele korrale, kasutades failide taastefunktsiooni. 
+Peatage või peatage kohe OneDrive sünkroonimine (kui see on olemas) või katkestage teegiga vastendatud Exploreri vaade (kui see on olemas) ja seejärel saate taastada kogu OneDrive või SharePoint teegi eelmisele korrale, kasutades failide taastamise funktsiooni. 
 
 Lisateavet taastamise kohta leiate teemast
 

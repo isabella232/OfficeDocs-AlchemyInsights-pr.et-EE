@@ -16,24 +16,23 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500984"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327247"
 ---
 # <a name="trying-to-find-a-trial"></a>Kas proovite leida prooviversiooni?
 
-Kui soovite proovida uut teenust, leiate loendist prooviversiooni jaoks saadaolevad tellimused Microsoft 365 halduskeskus.
+Kui soovite proovida uut teenust, leiate prooviversiooni jaoks saadaolevate tellimuste loendi Microsoft 365 halduskeskus.
   
 1. Avage halduskeskuses leht **Arveldamine** \> [Teenuste ostmine.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
 2. Valige tellimus, mis vastab teie vajadustele, ja seejärel valige Hangi  **tasuta prooviversioon**.
 
-    > [!NOTE]
-    > Kõik tellimused pole prooviversioonina saadaval. Kui tellimusele hiirekursoriga **liikumisel** ei näe nuppu Hangi tasuta prooviversioon, tähendab see, et prooviversioon pole saadaval.
+    **Märkus.** Kõik tellimused pole prooviversioonina saadaval. Kui tellimusele hiirekursoriga **liikumisel** ei näe nuppu Hangi tasuta prooviversioon, tähendab see, et prooviversioon pole saadaval.
   
-3. Teil võidakse paluda sisestada krediitkaart või muu makseviis, et esitada turbemeetmena täiendav kinnitus. Selle tasuta prooviversiooni eest teilt tasu ei võeta. Hoiame teie makseteabe failis alles ja ei kasuta seda ilma teie nõusolekuta ühegi ostu jaoks.
+3. Teil võidakse paluda sisestada krediitkaart või muu makseviis, et esitada turbemeetmena täiendav kinnitus. Selle tasuta prooviversiooni eest teilt tasu ei võeta. Hoiame teie makseteabe failis alles ja ei kasuta seda ostude jaoks ilma teie nõusolekuta.
 
 4. Valige **Proovi kohe.**
