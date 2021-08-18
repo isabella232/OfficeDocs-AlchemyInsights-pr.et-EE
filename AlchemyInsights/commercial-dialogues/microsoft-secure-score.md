@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883351"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316972"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
 Microsoft Secure Scorei abil saate muuta oma keskkonna turvalisemaks. Mõelge sellest kui turvalisuse krediidiskoorist. See ütleb teile, mida saate teha, mis võib aidata teie asutuse turvalisust parandada.
 
-1. Avage Microsoft 365 Defender <https://security.microsoft.com> portaal Secure **score**.
+1. Avage Microsoft 365 Defender portaal secure <https://security.microsoft.com> **score**.
 
    Otse lehele Secure **Score (Turvaline** tulemus) minemiseks kasutage <https://security.microsoft.com/securescore>
 
@@ -34,7 +34,6 @@ Microsoft Secure Scorei abil saate muuta oma keskkonna turvalisemaks. Mõelge se
 
 4. Valige vahekaardil **Täiustustoimingud** loendist väärtus To address (Aadress) või **Regressioon (Regressed).**  Avaneb uus leht, mis annab  probleemi lahendamiseks täieliku kirjelduse ja nupu Halda.
 
-    > [!NOTE]
-    > Teile antakse soovitatavate turbefunktsiooni konfigureerimise punktid, kuid pidage meeles, et mõned toimingud on sildistatud **kui [Pole punktisummat]**. See tähendab, et isegi kui rakendate seda parandusmeedet, ei saa te punktisumma eest punkte. Muul *juhul võib skoori värskendamiseks* aega võtta kuni 24 tundi.
+    **Märkus.** Teile antakse soovitatavate turbe funktsioonide konfigureerimiseks punkte, kuid pidage meeles, et mõned toimingud on sildistatud **kui [Pole hinnatud]**. See tähendab, et isegi kui rakendate seda parandusmeedet, ei saa te punktisumma eest punkte. Muul *juhul võib skoori värskendamiseks* aega võtta kuni 24 tundi.
 
 Lisateavet Microsoft Secure Scorei kohta leiate teemast [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score).

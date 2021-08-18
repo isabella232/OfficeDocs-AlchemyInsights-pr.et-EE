@@ -16,21 +16,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: d50f4c7a3ac7a8de8ab280c87f4b815479788bc04aef792dcc3e503bed5b2f03
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: a04d6c23caecc8766d91bd8aa17ca9df870de03c221b8bc162dfe4a98d961f48
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501668"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899572"
 ---
 # <a name="billing-or-invoice-faq"></a>Arvelduse või arvete KKK
 
-- Arve makset saab mitmel põhjusel **tagasi lükata**, sh juhul, kui krediitkaart on aegunud. Probleemi lahendamiseks lugege teemat [Makseviisi üksikasjade värskendamine](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
-- Kui teie arve on **maksetähtaja ületanud**, kasutage uuesti maksmiseks funktsiooni **Maksa tasumata osa**. Probleemi lahendamiseks lugege teemat [Mida teha jooksva võlgnevuse korral?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
-- Kasutajatele määramata litsentside eest võetakse siiski tasu. Soovimatute tasude vältimiseks saate litsentside arvu vähendamiseks eemaldada kasutamata litsentsid. Lugege, kuidas tellimuses [litsentse osta või eemaldada](/microsoft-365/commerce/licenses/buy-licenses).
-- Kui soovite **arveldussageduseks** muuta iga kuu või iga aasta, vaadake teemat [Arveldussageduse muutmine](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
-- Kui vajate arvetega abi, vaadake teemat [Arvest arusaamine](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
-- Kui vajate abi oma arve **vaatamisega**, vaadake teemat [Arve vaatamine](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Kui soovite arveldusteavet muuta, lugege teemat [Arveldusprofiilide ülevaade](/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) või [Arveaadressi muutmine](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Arve makset saab mitmel põhjusel **tagasi lükata**, sh juhul, kui krediitkaart on aegunud. Probleemi lahendamiseks lugege teemat [Makseviisi üksikasjade värskendamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
+- Kui teie arve on **maksetähtaja ületanud**, kasutage uuesti maksmiseks funktsiooni **Maksa tasumata osa**. Probleemi lahendamiseks lugege teemat [Mida teha jooksva võlgnevuse korral?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- Kasutajatele määramata litsentside eest võetakse siiski tasu. Soovimatute tasude vältimiseks saate litsentside arvu vähendamiseks eemaldada kasutamata litsentsid. Lugege, kuidas tellimuses [litsentse osta või eemaldada](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Kui soovite **arveldussageduseks** muuta iga kuu või iga aasta, vaadake teemat [Arveldussageduse muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+- Kui vajate arvetega abi, vaadake teemat [Arvest arusaamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+- Kui vajate abi oma arve **vaatamisega**, vaadake teemat [Arve vaatamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+- Kui soovite arveldusteavet muuta, lugege teemat [Arveldusprofiilide ülevaade](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) või [Arveaadressi muutmine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Lisateavet leiate teemast [Arvest arusaamine](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Lisateavet leiate teemast [Arvest arusaamine](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

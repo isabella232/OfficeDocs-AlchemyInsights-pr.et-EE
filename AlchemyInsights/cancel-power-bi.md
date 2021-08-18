@@ -15,18 +15,18 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045858"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899536"
 ---
 # <a name="cancel-power-bi"></a>Power BI tühistamine
 
 Power BI-d saab Microsoft 365 halduskeskus.
 
-1. Avage halduskeskuses leht **Arveldamine > [Tooted.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Avage halduskeskuses leht **Arveldamine > [tooted.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Otsige **vahekaardil Tooted** üles tellimus, mille soovite tühistada. Valige kolm punkti (veel toiminguid) ja seejärel valige **Tühista tellimus.**
 3. Valige **paanil** Tellimuse tühistamine põhjus, miks te tellimuse tühistate. Soovi korral saate anda mis tahes tagasisidet.
 4. Valige **Salvesta**.
@@ -36,4 +36,4 @@ Power BI-d saab Microsoft 365 halduskeskus.
 > [!NOTE]
 > Kui tühistamissuvand pole näha, valige üksikasjade lehe kuvamiseks tellimus. Klõpsake jaotises **Tellimuse ja makse sätted** nuppu Tühista **tellimus.**
 
-Lisateavet leiate teemast [Tellimuse tühistamine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Lisateavet leiate teemast [Tellimuse tühistamine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

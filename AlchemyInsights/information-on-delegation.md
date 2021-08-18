@@ -1,5 +1,5 @@
 ---
-title: 606 teave delegeerimise kohta
+title: 606 Teave delegeerimise kohta
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2c6b17807fe8ecab0b9685f981beda20c122143d1036a9c03075552c5ca897
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088212"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Outlooki ja Outlooki veebirakenduse delegeerimise tõrkeotsing
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Tõrkeotsingu delegeerimine Outlook ja Outlooki veebirakendus
 
-**Tõrkeotsing SaRA tööriistaga:**
+**Tõrkeotsing tööriista tugi- ja taasteteenuste abiline abil.**
 
-1. Laadi alla ja installi SaRA tööriist [siia](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. Valige **Outlook**ja **mul on kalendriga probleeme**.
-1. Puudutage probleemse masina puhul **jaatavalt** .
+1. Laadige alla ja installige tugi- ja taasteteenuste abiline [siia.](https://aka.ms/SaRA-SkypeForBusinessSignIn)
+1. Valige **Outlook**, **siis on mul probleeme oma kalendriga.**
+1. Öelge **mõjutatud seadme** kohta jah.
 1. Lisage mõjutatud kasutaja meiliaadress.
-1. Valige **, mul on probleeme delegaadi õigustega**.
-1. Kui olete isikul, kellele on antud õigus, sisestage järgmine viip oma volitatud esindaja meiliaadress. Kui saite endale õiguse ja olete volitatud esindaja, sisestage selle isiku meiliaadress, kes teile õiguse andis.
-1. Valige järgmises menüüs oma stsenaariumiga sobiv suvand.
-1. Valige järgmisest menüüst õigusetaseme tase.
-1. Selles staadiumis teostab SaRA tööriist automatiseeritud kontrolle ning annab teile võimaluse eraldusvõime või alternatiivselt anda diagnostilise Logi, mida saab kasutada edasiseks tõrkeotsinguks.
-1. Logid leiate SaRA tulemite kaustast, mis asub aadressil C:\Users\Username\AppData\Local\SaraResults.
+1. Valige **Mul on delegaadiõigustega probleeme.**
+1. Kui olete õiguste andja, sisestage järgmisele viibale oma volitatud esindaja meiliaadress. Kui saite õigused ja olete volitatud esindaja, sisestage teile õigusi andva isiku meiliaadress.
+1. Valige järgmises menüüs suvand, mis sobib teie stsenaariumiga.
+1. Valige järgmises menüüs õigusetase.
+1. Selles etapis tugi- ja taasteteenuste abiline tööriist automaatseid kontrolle ja annab teile võimaliku lahenduse või teise võimalusena diagnostikalogi, mida saab edaspidiseks tõrkeotsinguks kasutada.
+1. Logid leiate kaustast tugi- ja taasteteenuste abiline C:\Users\Username\AppData\Local\SaraResults.

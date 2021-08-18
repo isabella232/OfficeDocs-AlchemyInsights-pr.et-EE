@@ -1,5 +1,5 @@
 ---
-title: Pakettide, litsentside ja kontodega seotud probleemid
+title: Tellimuste, litsentside ja kontodega seotud probleemid
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49884880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087960"
 ---
-# <a name="issues-with-subscriptions-licenses-and-accounts"></a>Pakettide, litsentside ja kontodega seotud probleemid
+# <a name="issues-with-subscriptions-licenses-and-accounts"></a>Tellimuste, litsentside ja kontodega seotud probleemid
 
-1. Kõik Azure AD tasuta rentniku kasutajad saavad kasutada Azure ' i mitme teguri autentimist [turbe vaikesätete](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)abil.
-1. Saate teada [, millised on AZURE ad mitme teguri autentimise funktsioonid ja litsentsid](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing).
-1. Siit saate teada, kuidas Azure ' i [tellimust Azure Active Directory rentniku jaoks siduda või lisada](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-1. Järgmiste toimingute abil saate [Azure ' i tellimuse üle anda mõnele muule AZURE ad ' i kataloogile](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription).
-1. Lisateavet leiate teemast [litsentside määramine või eemaldamine Azure Active Directory portaalis](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) , et saada juhiseid kasutajatelt litsentside määramiseks või nende eemaldamiseks.
+1. Kõik Azure AD Tasuta rentniku kasutajad saavad turbesätete abil kasutada Azure'i mitme [teguriga autentimist.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+1. Azure [AD mitmikautentimise funktsioonide ja litsentside mõistmine.](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)
+1. Saate teada, [kuidas seostada või lisada Azure'i tellimus oma Azure Active Directory rentnikule.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+1. Azure'i tellimuse [üleviimine teise Azure AD kataloogi tehke järgmist.](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)
+1. Lisateavet [kasutajatelt litsentside määramise või eemaldamise Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) leiate teemast Litsentside määramine või eemaldamine Azure Active Directory portaalis.
