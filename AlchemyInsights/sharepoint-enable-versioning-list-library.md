@@ -13,19 +13,19 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085836"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328368"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versioonimine SharePoint ja OneDrive 
 
 
-Kui versioonimine on teie SharePoint või teegis lubatud, saate loendis ja failides kaustu talletada, jälitada ja taastada iga kord, kui need muutuvad. Versioonimine koos muude sätetega (nt väljaregistreerimine) annab teile palju kontrolli saidil postitatud sisu üle ja annab teile tõelise väärtuse, kui teil on vaja üksuse või faili vana versiooni vaadata või taastada.
+Kui versioonimine on teie SharePoint või teegis lubatud, saate loendi ja failide üksusi talletada, jälitada ja taastada iga kord, kui need muutuvad. Versioonimine koos muude sätetega (nt väljaregistreerimine) annab teile palju kontrolli saidil postitatud sisu üle ja annab teile tõelise väärtuse, kui teil on vaja üksuse või faili vana versiooni vaadata või taastada.
 
-Lisateavet versioonimise kohta leiate allpool toodud artiklitest.
+Versioonimise kohta leiate lisateavet allpool toodud artiklitest.
 
 - [Versioonimine toimib SharePoint loendis või teegis](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
@@ -39,7 +39,6 @@ Lisateavet versioonimise kohta leiate allpool toodud artiklitest.
 
 - [Versioonimispiirangud](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Kui olete Microsoft 365 klient, on versioonimine uute teekide loomisel vaikimisi sisse lülitatud OneDrive for Business salvestatakse automaatselt dokumendi viimased 500 versiooni. See aitab teil vältida oluliste dokumentide või andmete kaadmist. Kui teil on oma OneDrive for Business või meeskonnatöö saidil olemasolevaid teeke, mille versioonimine pole lubatud, saate nende jaoks igal ajal versioonimise sisse lülitada.
+**Märkus.** Kui olete Microsoft 365 klient, on versioonimine nüüd vaikimisi sisse lülitatud, kui loote uusi OneDrive for Business teeke ja salvestab automaatselt dokumendi viimased 500 versiooni. See aitab teil vältida oluliste dokumentide või andmete kaadmist. Kui teil on oma OneDrive for Business või meeskonnatöö saidil olemasolevaid teeke, mille versioonimine pole lubatud, saate nende versioonimise igal ajal sisse lülitada.
 
 
