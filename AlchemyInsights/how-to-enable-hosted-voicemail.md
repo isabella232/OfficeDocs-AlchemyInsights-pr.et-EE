@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055550"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318644"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Majutatud kõneposti lubamine
 
@@ -28,8 +28,7 @@ Remote PowerShelli (RPS) abil kasutaja atribuut **HostedVoicemail (HostitudVoice
 
 Lisateavet RPS-iga ühenduse loomise kohta [leiate teemast Microsoft Teams PowerShelli](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) ülevaade.
 
-1. Administraator Teams logitakse PowerShelli kaugarvutisse Teams.
-1. PowerShelli viiba kaudu Teams administraator käivitada **set-csuseri user@contoso.com -HostedVoiceMail $true** kus sip uri on kõnealuse kasutaja jaoks.
+1. Teams administraator peaks olema sisse logitud PowerShelli kaugarvutisse Teams.
+1. PowerShelli viiba kaudu Teams administraator käivitada **set-csuseri user@contoso.com -HostedVoiceMail $true** kus sip uri on selle kasutaja jaoks.
 
-> [!NOTE]
-> Poliitikate muudatuste paljunemiseks võib aega võtta kuni 24 tundi.
+**Märkus.** Poliitikate muudatuste paljunemiseks võib aega võtta kuni 24 tundi.

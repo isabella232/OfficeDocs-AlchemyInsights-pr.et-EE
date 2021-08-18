@@ -1,5 +1,5 @@
 ---
-title: Kasutajate ettevalmistamine kataloogi sünkroonimiseks Office 365
+title: Kasutajate ettevalmistamine kataloogisünkroonimise kaudu Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090922"
 ---
-# <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Kasutajate ettevalmistamine kataloogi sünkroonimiseks Office 365
+# <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Kasutajate ettevalmistamine kataloogisünkroonimise kaudu Office 365
 
-Kataloogi sünkroonimisega kasutajate ettevalmistamine nõuab kavandamist ja ettevalmistusi, järgige alltoodud juhiseid.
+Kataloogisünkroonimise abil kasutajate ettevalmistamine nõuab kavandamist ja ettevalmistusi, järgige alltoodud juhiseid.
 
-Kasutajate ettevalmistamisel peavad olema järgmised toimingud.
-1. **Kataloogi puhastamine**.
-1. **Kataloogi objekt ja atribuutide ettevalmistamine**.
-1. **UPN-atribuutide ettevalmistamine**.
-1. **Alternatiivne UPN-sufiksite valikuline lisamine AD DS-ile**.
-1. **Kohapealne UPN vastendatakse Office 365 UPN**.
-1. **Kataloogi integreerimise tööriistad**.
+Mõned kasutajate ettevalmistamisega seotud toimingud on järgmised.
+1. **Kataloogipuhastus**.
+1. **Kataloogiobjekti ja atribuudi ettevalmistamine.**
+1. **UPN-i atribuutide ettevalmistamine.**
+1. **Alternatiivne UPN-järelliited on valikuliselt lisatud AD DS-i.**
+1. **Vastendage kohapealsed UPN-id Office 365 UPN-id.**
+1. **Kataloogiintegratsiooni tööriistad**.
 
-Üksikasjalik kirjeldus iga ettevalmistustöö kohta leiate teemast [kasutajate ettevalmistamine kataloogi sünkroonimise kaudu Office 365 artikliga](https://aka.ms/office365assistantprovisionuserstooffice365).
+Üksikasjalikud kirjeldused iga ettevalmistusastme kohta leiate artiklist Kasutajate kataloogisünkroonimise kaudu ettevalmistumine [Office 365.](https://aka.ms/office365assistantprovisionuserstooffice365)

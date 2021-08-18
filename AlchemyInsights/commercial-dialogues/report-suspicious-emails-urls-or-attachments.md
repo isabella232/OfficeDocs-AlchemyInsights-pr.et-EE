@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895115"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318788"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Kahtlastest meilisõnumitest, URL-idest või manustest teatamine
 
@@ -33,5 +33,4 @@ Mõistan, et vajate abi kahtlase meilisõnumi või valesti filtreeritud meilisõ
 
 Lisateavet leiate teemast Administraatorite [edastuse kasutamine arvatavate rämpsposti, andmepüügi, URL-ide ja failide edastamiseks Microsoftile.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
 
-> [!NOTE]
-> Teavitage kasutajaid, et nad peaksid oma sisendkaustas kahtlastest sõnumitest teatama, kasutades lisandmoodulit Teata sõnumist või Teata [andmepüügi lisandmoodulist.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
+**Märkus.** Teavitage kasutajaid, et nad peaksid oma sisendkaustas kahtlastest sõnumitest teatama, kasutades lisandmoodulit Teata sõnumist või [Andmepüügist](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).

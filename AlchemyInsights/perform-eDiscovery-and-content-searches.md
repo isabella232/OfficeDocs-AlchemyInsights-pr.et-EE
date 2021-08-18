@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317472"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902040"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sisuotsingute ja e-juurdluse otsingute sooritamine
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317472"
 4. Sisestage nõutavad otsingutingimused(sh märksõnad ja sisuasukohad).
 5. Otsingule **&,** käivitage see ja seejärel vaadake tulemite eelvaadet.
 
-**Märkus.** **Microsoft 365 vastavuskeskuse**  >  **lahendustes** laiendage **e-juurdlust** ja valige soovitud e-juurdluse tööriist.
+> [!NOTE]
+> Laiendage **Microsoft 365 vastavuskeskuse**  >  **lahendustes** **e-juurdlust** ja valige soovitud e-juurdluse tööriist.
 
 Üksikasjalikud juhised sisuotsingute, tulemite eksportimise ja e-juurdluse juhtumite loomise kohta andmete tegemiseks leiate teemast [Sisuotsing](https://docs.microsoft.com/microsoft-365/compliance/content-search) ja [e-juurdluse juhtumid.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 

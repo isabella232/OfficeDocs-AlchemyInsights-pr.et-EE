@@ -1,5 +1,5 @@
 ---
-title: MDATP tõrkeotsing Mac-arvutis
+title: MDATP installiprobleemide tõrkeotsing Mac-arvutis
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090997"
 ---
-# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>MDATP tõrkeotsing Mac-arvutis
+# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>MDATP installiprobleemide tõrkeotsing Mac-arvutis
 
-Kui käsitsi installimine nurjub, kuvatakse installiviisardi lehel **Kokkuvõte** järgmine tõrketeade:
+Kui käsitsi installimine **nurjub,** kuvatakse installiviisardi lehel Kokkuvõte järgmine tõrketeade.
 
-"Installimisel ilmnes tõrge. Installeril ilmnes tõrge, mis põhjustas installi nurjumise. Abi saamiseks pöörduge tarkvara tootja poole. "
+"Installimisel ilmnes tõrge. Installeril ilmnes tõrge, mis põhjustas installi nurjumise. Abi saamiseks pöörduge tarkvara tootja poole."
 
-MDM-i juurutuste korral kuvatakse lehel üldine installi tõrge.
+MDM-i juurutuste korral kuvatakse lehel ka üldine installitõrge.
 
-Kuigi me ei kuva lõppkasutajatele täpseid vigu, hoiame logifaili installimisega **/Library/Logs/Microsoft/mdatp/install.log**. Iga installimise seanss lisatakse sellele logifaili. Ainult viimase installimise seansi väljundiks kasutage `sed` .
+Kuigi me ei kuva lõppkasutajatele täpseid tõrkeid, säilitame installi edenemisega logifaili , mis on saadaval rakenduses **/Library/Logs/Microsoft/mdatp/install.log.** Iga installiseanss lisatakse sellele logifailile. Ainult viimase installiseansi väljundiks kasutage funktsiooni `sed` .
 
-Lisateavet leiate teemast [Microsoft DEFENDERI ATP for Maci installimisega seotud probleemide tõrkeotsing](https://go.microsoft.com/fwlink/?linkid=2144615).
+Lisateavet leiate teemast [Microsoft Defenderi ATP for Maci installiprobleemide tõrkeotsing.](https://go.microsoft.com/fwlink/?linkid=2144615)

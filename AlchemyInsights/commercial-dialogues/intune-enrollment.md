@@ -1,5 +1,5 @@
 ---
-title: Intune registreerimine
+title: Intune'i registreerimine
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 79f15b285a9726e65a8d3fc39909d114d2b646ae
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2140dc77dab16cfd42f831314df960d09b6b02a53d513fa52d208ab7e8d66d98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744399"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090876"
 ---
-# <a name="intune-enrollment"></a>Intune registreerimine
+# <a name="intune-enrollment"></a>Intune'i registreerimine
 
-Seadme liitumise probleemide tõrkeotsingu kohta leiate teavet järgmistest teemadest.
+Seadme registreerimisega seotud probleemide tõrkeotsingut leiate teemast
 
-- [Seadme liitumise tõrkeotsing rakenduses Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
-- [IOS-i/iPadOS seadme liitumise tõrkeotsing](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
-- [Windows 10 automaatse registreerimise tõrkeotsing](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
-- [Android Enterprise ' i seadme probleemide tõrkeotsing](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
-- [Windowsi seadme liitumise probleemide tõrkeotsing](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
+- [Seadme registreerimise tõrkeotsing Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+- [iOS-i/iPadOS-i seadme registreerimise tõrkeotsing](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Automaatregistreerimine Windows 10 tõrkeotsing](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Android Enterprise'i seadme probleemide tõrkeotsing](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
+- [Seadme Windows probleemide tõrkeotsing](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
 
-[Lugege lisateavet Intune registreerimine...](https://docs.microsoft.com/mem/intune/enrollment/)
+[Lugege lisateavet Intune'i registreerimise kohta...](https://docs.microsoft.com/mem/intune/enrollment/)

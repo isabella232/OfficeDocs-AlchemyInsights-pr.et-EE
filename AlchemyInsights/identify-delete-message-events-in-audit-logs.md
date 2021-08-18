@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e13c9e5fbfa6ade065c2810150687085c1a9daae1a11c134688ec9a83ad37d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115644"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Kustutatud meilisõnumite logide auditeerimine
 
@@ -32,8 +32,8 @@ Alates jaanuarist 2019 lülitab Microsoft postkasti auditilogi vaikimisi sisse. 
 
 4. Klõpsake **nuppu Otsi**.
 
-Valige tulemitest auditikirje. Klõpsake üksikasjade hüpiku jaotises nuppu **Lisateave.** Lisateavet kustutatud üksuse kohta (nt teemarida ja üksuse asukoht kustutamisel) kuvatakse väljal **AffectedItems.** Atribuut **ClientInfoString (ClientInfoString)** kuvatakse juhul, kui Outlook, Outlooki veebirakendus (varem Outlook Web App) või mis tahes muu seadmes.
+Valige tulemitest auditikirje. Klõpsake üksikasjade hüpiku jaotises nuppu **Lisateave.** Lisateavet kustutatud üksuse kohta (nt teemarida ja üksuse asukoht kustutamisel) kuvatakse väljal **AffectedItems.** Atribuut **ClientInfoString** kuvatakse, kui kustutamine toimus Outlook, Outlooki veebirakendus (varem Outlook Web App) või mis tahes muu seadmega.
 
-Lisateavet leiate teemast [Postkasti jaoks meilisõnumite edasisaatmise häälestaja määratlemine.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Lisateavet leiate teemast [Postkasti jaoks meilisõnumite edasisaatmise häälestaja määratlemine.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
 **Märkus.** Auditilogi funktsiooni abil ei saa kustutatud üksusi tuua. Kustutatud sõnumite toomiseks Outlooki veebirakendus lugege [teemat Kustutatud üksuste taastamine Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

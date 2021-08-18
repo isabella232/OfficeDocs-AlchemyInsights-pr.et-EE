@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314524"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901960"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Ettemakstud Microsoft 365 pikendamine
 
@@ -29,7 +29,8 @@ ms.locfileid: "58314524"
 3. Valige tellimuse üksikasjade lehel jaotises **Tellimuse ja makse sätted** käsk Pikenda **lõppkuupäeva.**
 4. Valige lehel **Pikenda või lisa kasutajalitsentsid** suvand **Kasuta uut ja kasutamata tootevõtit** ja seejärel valige **Edasi**.
 5. Sisestage tootevõti ja seejärel valige **Edasi**.
-    **Märkus.** Kui teil on mitu tootevõtit, saate nende sisestamiseks **valida lisa** uue tootevõtme.
+    > [!NOTE]
+    > Kui teil on mitu tootevõtit, saate nende **sisestamiseks valida** lisa uue tootevõtme.
 6. Vaadake üle tellimuse üksikasjad ja seejärel valige **Lunasta**.
 
 Lisateavet leiate teemast [Litsentside lisamine tootevõtme kasutamise eest tasulisele tellimusele või](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)selle pikendamine.
