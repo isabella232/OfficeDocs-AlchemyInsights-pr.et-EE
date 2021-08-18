@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900648"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330812"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defenderi tõrkeotsing Office 365
 
@@ -24,11 +24,11 @@ ms.locfileid: "57900648"
 
 - **Kas soovite Microsoftile teatada valepositiivsetest või valenegatiivsetest?** Kasutage [edastuste explorerit.](https://protection.office.com/reportsubmission)
 
--** Kas teadsite, et saate seif ettevõtte adressaatide vahel saadetavate sisemiste meilisõnumite jaoks linkide kaitse?** Tehke järgmist.
+-** Kas teadsite, et saate seif ettevõtte adressaatide vahel saadetavate sisemiste meilisõnumite lingid?** Tehke järgmist.
 
   1. Avage [https://protection.office.com](https://protection.office.com) üldadministraatori või turbeadministraatori konto ja logige sisse.
 
-  2. Klõpsake vasakpoolsel navigeerimispaanil jaotises **Ohuhaldus** nuppu **Poliitika** \> **ja seif lingid**.
+  2. Klõpsake vasakpoolsel navigeerimispaanil jaotises **Ohuhaldus** nuppu **Poliitika** \> **ja seif Lingid**.
 
   3. Valige **jaotises Poliitikad, mis kehtivad kogu ettevõttele** poliitika ja klõpsake nuppu **Redigeeri.**
 

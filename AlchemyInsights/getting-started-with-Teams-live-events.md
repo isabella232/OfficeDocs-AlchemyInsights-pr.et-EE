@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088860"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333155"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Teamsi otseedastussündmuste kasutamise alustamine
 
@@ -27,7 +27,9 @@ Otseedastussündmuse loomiseks on teil vaja järgnevat.
 
 - Esmalt veenduge, et Teams otseedastussündmused on [saadaval teie riigis ja regioonis](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Mõnes riigis pole otseedastussündmused veel toetatud.  Kui olete määranud litsentsid ja poliitikad, kuid ei saa siiski Teams otseedastussündmust luua, olete tõenäoliselt riigis või regioonis, kus otseedastussündmused pole veel saadaval.
 
-- [Office 365 Enterprise E1, E3 või E5 litsents või Office 365 A3 või A5 litsents](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Märkus**: Teamsi kasutamise hiljutise suurenemise tõttu võib kasutajale Teamsi litsentsi määramiseks kuluda umbes 24 tundi, enne kui see on täielikult seadistatud. Seni ei saa te neile Teamsi poliitikaid määrata ja neil ei pruugi olla juurdepääsu mõnele Teamsi funktsioonile (nt helistamine ja helikonverents).
+- [Office 365 Enterprise E1, E3 või E5 litsents või Office 365 A3 või A5 litsents](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Märkus**: Teamsi kasutamise hiljutise suurenemise tõttu võib kasutajale Teamsi litsentsi määramiseks kuluda umbes 24 tundi, enne kui see on täielikult seadistatud. Seni ei saa te neile Teamsi poliitikaid määrata ja neil ei pruugi olla juurdepääsu mõnele Teamsi funktsioonile (nt helistamine ja helikonverents).
 
 - Luba [luua Microsoft Teamsi halduskeskuses otseedastussündmuseid](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

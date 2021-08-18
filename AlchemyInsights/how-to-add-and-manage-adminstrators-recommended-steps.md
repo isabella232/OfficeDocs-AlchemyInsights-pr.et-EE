@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963783"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339028"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Administraatorite lisamine ja haldamine – soovitatavad juhised
 
@@ -43,7 +43,7 @@ Teenuseadministraator või kaasadministraator saab seda toimingut ise teha, jär
 
 1. Logige Azure'i [portaali sisse](https://ms.portal.azure.com/#home) teenuseadministraatorina.
 2. Avage [tellimused](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ja valige tellimus. (Kaasadministraatoreid saab määrata ainult tellimuse ulatuses.)
-3. Liikuge **Accessi juhtelemendi (IAM)** klassikaliste administraatorite juurde Lisa kaasadministraator, et avada paan Lisa kaasadministraator (Kui suvand Lisa kaasadministraator on keelatud, tähistab see, et teil  >    >    >   pole õigusi). 
+3. Liikuge **Accessi juhtelemendi (IAM)** klassikaliste administraatorite juurde Lisa kaasadministraator, et avada paan Lisa kaasadministraator (kui suvand Lisa kaasadministraator on keelatud, tähistab see, et teil  >    >    >   pole õigusi). 
 4. Valige kasutaja, kelle soovite lisada, ja klõpsake **nuppu Lisa.**
 
 **Lisateave:**
@@ -75,7 +75,7 @@ Saate lisada uusi kasutajaid või kustutada olemasolevaid kasutajaid oma Azure A
 - [Õppetükk: RBAC-i ja Azure'i portaali abil kasutajale juurdepääsu andmine](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Azure'i RBAC-i tõrkeotsing](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Ressursside rühmi saab korraldada Azure'i haldusrühmade abil.](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Azure'i arve koopia taotlemine meili teel](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Azure'i arve koopia taotlemine meili teel](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Krediit- või deebetkaardi lisamine, värskendamine või eemaldamine Azure'ist](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Tellimuse haldamine (uuesti aktiveerimine/tühistamine/vahetamine)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

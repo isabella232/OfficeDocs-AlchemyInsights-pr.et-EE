@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11108"
-ms.openlocfilehash: 55b98c3d34b1b4bce5cef746e18bc2933902624547d2020118579593ca5c6f77
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c7067ddf57eb7229a4e114eb74ff8306a4a9318a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889886"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331231"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>Rühmapoliitikad Microsoft Edge
 
-Kasutage ettevõttes brauseri käitamise Microsoft Edge (versioon 77 või uuem) saadaolevaid rühmapoliitikaid. Lisateavet leiate teemast [Microsoft Edge – poliitikad](https://docs.microsoft.com/deployedge/microsoft-edge-policies#available-policies).
+Brauseri tööpõhimõtteid saate Microsoft Edge (versioon 77 või uuem) kasutada. Lisateavet leiate teemast [Microsoft Edge – poliitikad](https://docs.microsoft.com/deployedge/microsoft-edge-policies#available-policies).

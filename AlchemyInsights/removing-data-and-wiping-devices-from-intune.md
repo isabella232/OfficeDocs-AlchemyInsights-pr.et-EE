@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922207"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331037"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Andmete eemaldamine ja seadmete tühjendamine Intune‘i kaudu
 
@@ -32,8 +32,7 @@ Seadme kasutuselt kõrvaldamise ja seadme tühjendamise kaugtoimingutega saab ee
 4. Kinnitamiseks valige **Jah**. Kuni tühjenduse lõpulejõudmiseni kuvatakse seadme toimingu olekuna *Kasutuselt kõrvaldamise ootel*.
     Pärast toimingu lõpulejõudmist ei kuvata seda nutiseadet enam hallatavate seadmete loendis.
 
-> [!NOTE]
-> Ettevõtte andmeid ei saa eemaldada seadmetest, mis on liidetud Azure AD-ga. 
+**Märkus.** Ettevõtte andmeid ei saa azure AD-ga liidetud seadmetest eemaldada. 
 
 Kasutuselt kõrvaldamise ja tühjendamise toimingute täielikud üksikasjad (sh teabe selle kohta, mis hoitakse alles ja mis kustutatakse) leiate järgmisest dokumentatsioonist:
 

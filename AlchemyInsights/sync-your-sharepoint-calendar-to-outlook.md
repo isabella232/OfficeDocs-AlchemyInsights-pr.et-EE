@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca2ec22177b3fbe2ba4d82ae7482e3a1dcc00a37
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54008875"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331655"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Probleemid kalendri sünkroonimisel seadmetega
 
@@ -31,7 +31,6 @@ Kalendri sünkroonimiseks SharePoint kalendri Outlook tehke järgmist.
 3. Klõpsake klassikalises lindimenüüs nuppu **Kalender** ja seejärel **nuppu Ühendus Outlook**.
 4. Klõpsake hüpikaknas, kus palutakse teil sünkroonimine kinnitada, **nuppu Luba**.
 
->[!Note]
-> Kui teete sünkroonitud kalendris Outlook muudatusi, kuvatakse see SharePoint kalendris ja vastupidi.
+**Märkus.** Kui teete sünkroonitud kalendris Outlook muudatusi, kuvatakse see SharePoint kalendris ja vastupidi.
 
 Lisateavet rühmade Microsoft 365 leiate sellest [artiklist.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)

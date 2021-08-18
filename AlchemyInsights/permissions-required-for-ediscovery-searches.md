@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973837"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338956"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>E-juurdluse otsingute jaoks nõutavad õigused
 
-Sisuotsingute avamiseks turbekontrolli & vastavuskeskuses peab kasutaja olema vähemalt e-juurdluse halduri rollirühma liige, mis võimaldab tal teha otsinguid ja kohti postkastides, SharePoint saitidel ja OneDrive asukohtades. Samuti saavad liikmed luua ja hallata e-juurdluse juhtumeid, lisada ja eemaldada juhtumisse liikmeid, luua ja redigeerida sisuotsinguid ning pääseda juurde juhtumiandmetele Advanced eDiscovery.
+Turbe- ja vastavuskeskuses sisu xearchide & peab kasutaja olema vähemalt e-juurdluse halduri rollirühma liige.
 
-EIn-Place-juurdluse otsingute Exchange halduskeskuses peab kasutaja olema Exchange Online.
+Sisuotsingute avamiseks Microsoft 365 vastavuskeskus kasutaja olema vähemalt e-juurdluse halduri rollirühma liige.  
 
-Lisateavet e-juurdluse õiguste kohta leiate teemast 
+Õiguste määramiseks:
 
-- [E-juurdluse õiguste määramine turbekontrolli & vastavuskeskuses](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [E-juurdluse õiguste määramine Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Avage [Microsoft 365 vastavuskeskus](https://compliance.microsoft.com/)  >  **Õigused**.
+1. Valige **jaotises Vastavuskeskus** **nupp Rollid** ja seejärel **valige e-juurdluse haldur**.
+1. Lisage hüpiku puhul kasutaja soovitud rolli,  valides e-juurdluse halduri või e-juurdluse administraatori rolli kõrval käsu Redigeeri.
 
 **Märkus.** Pärast e-juurdluse õiguste määramiseks peate võib-olla mõne minuti ootama, kuni õigused levivad.
+
+Lisateavet e-juurdluse õiguste kohta leiate teemast [E-juurdluse õiguste määramine Microsoft 365 vastavuskeskus](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
