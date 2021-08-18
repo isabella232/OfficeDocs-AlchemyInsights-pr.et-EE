@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016444"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897039"
 ---
 # <a name="review-or-act-on-an-alert"></a>Teatise läbivaatamine või selle alusel tegutsemine
 
 Tehke järgmist.
 
-1. Avage [turbe- & vastavuskeskus](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Klõpsake **nuppu**  >  **[Teatisevaate teatised.](https://go.microsoft.com/fwlink/?linkid=2103301)**
-1. Klõpsake teatist. Vaadake üksikasjapaanil, mis teatise käivitas.
-1. Kui soovite teatisega midagi ette võtta, klõpsake üksikasju lähedal oleval lingil.
-1. Kui **soovite** teatise sulgeda, klõpsake nuppu Lahenda.
+1. Tehke ühte järgmistest toimingutest.
+   - Avage Microsoft 365 vastavuskeskus <https://compliance.microsoft.com> **teatised**. Või avage leht otse lehel <https://compliance.microsoft.com/compliancealerts> .
+   - Avage Microsoft 365 Defender portaalis <https://security.microsoft.com> **Teatised**. Või avage leht otse lehel <https://security.microsoft.com/alerts> .
+2. Valige teatis. Vaadake kuvatavas üksikasja hüpikmenüüs, mis teatise käivitas.
+3. Klõpsake esitatud linki, kui soovite teatisega midagi ette võtta.
+4. Kui **soovite** teatise sulgeda, klõpsake nuppu Lahenda.
 
-Lisateavet teatiste haldamise kohta leiate teemast [Turbe- ja vastavuskeskuse teatisepoliitikad.](https://go.microsoft.com/fwlink/?linkid=2103211)
-
+Lisateavet teatiste haldamise kohta leiate teemast [Teatisepoliitikad Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
