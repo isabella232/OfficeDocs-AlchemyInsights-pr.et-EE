@@ -1,5 +1,5 @@
 ---
-title: Outlook.com meili tellimused
+title: Outlook.com-i meilitellimused
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672412"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111900"
 ---
-# <a name="email-subscriptions"></a>Meili tellimused
+# <a name="email-subscriptions"></a>Meilitellimused
 
-Miks kuvatakse minu tellimustes olevad meilisõnumid?
+Miks kuvatakse tellimuseloendites meilisõnumeid?
 
-Outlook.com on tuvastanud, et meilisõnum sisaldab tellimuse andmeid, sh sõnumis "tellimuse tühistamine". Outlook.com ei ole teile automaatselt tellinud ühtegi infolehte.
+Outlook.com on tuvastanud, et meilisõnum sisaldab tellimuse teavet, sh sõnumis teksti "Tühista tellimus". Outlook.com pole teid automaatselt uudiskirjade tellinud.
 
-Kui soovite uudiskirjade või kampaaniate vastuvõtmise lõpetada, saate Outlook.com abil tühistada kaks võimalust.
-1. Valige sisendkaustas infoleht või reklaami meilisõnum. Valige lugemispaanil ülaosas käsk **Tühista tellimus**.
-2. Avage oma [Outlook.com tellimuste](https://go.microsoft.com/fwlink/?linkid=2110887) sätted ja valige käsk **Tühista tellimus**.
+Kui soovite teabelehtede või kampaaniate saamise lõpetada, saate tellimuse tellimuse tühistada Outlook.com kaudu.
+1. Valige sisendkaustas infoleht või reklaammeil. Valige lugemispaani ülaosas Käsk **Tühista tellimus**.
+2. Avage [oma Outlook.com Tellimused](https://go.microsoft.com/fwlink/?linkid=2110887) sätted ja valige **Tühista tellimus**.
 
-Märkused: See funktsioon kuvatakse ainult siis, kui olete saanud saadetud meilisõnumite saatmisel meilisõnumi.
-Kui teie päring on seotud Microsoft 365 tasuliste tellimustega, [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   [Lugege lisateavet Microsoft 365 kohta või lugege lisateavet Microsoft kohta](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Märkmed. Seda funktsiooni näete ainult siis, kui olete saanud tellitud meilisõnumeid saatvalt ettevõttelt meilisõnumi.
+Kui teie päring sisaldab Microsoft 365 tellimusi, avage [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) või lugege lisateavet selle [Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

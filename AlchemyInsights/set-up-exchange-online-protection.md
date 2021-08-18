@@ -1,5 +1,5 @@
 ---
-title: Exchange Online ' i kaitse häälestamine
+title: Häälesta Exchange Online'i kaitseteenus
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085872"
 ---
-# <a name="set-up-exchange-online-protection"></a>Exchange Online ' i kaitse häälestamine
+# <a name="set-up-exchange-online-protection"></a>Häälesta Exchange Online'i kaitseteenus
 
-Microsoft Exchange Online Protection (EOP) on pilvepõhise e-posti filtreerimise teenus rämpsposti ja ründevara eest kaitsmiseks, mis sisaldab funktsioone, mis kaitsevad teie asutust sõnumite poliitika rikkumiste eest.
+Microsoft Exchange Online Kaitse (EOP) on pilvepõhine meilifiltreerimisteenus, mis pakub kaitset rämpsposti ja ründevara eest ning pakub funktsioone, mis kaitsevad teie ettevõtet sõnumsidepoliitika rikkumiste eest.
 
-Kasutage EOP häälestamiseks [Exchange Online ' i kaitse häälestamise juhendit](https://go.microsoft.com/fwlink/?linkid=2071067) , valides kolme juurutamise stsenaariumid – kohapealsed postkastid, hübriid (asutusesisese ja pilve kooslus) või kõik pilveteenuse postkastid, mis sobivad teie asutuse jaoks. Juhend annab teavet ja ressursse, et häälestada EOP ja vaadata läbi teie kasutaja litsentsimine, määrata Microsoft 365 halduskeskus ning konfigureerida oma asutuse ründevaratõrje-ja rämpsposti poliitikad turbe & täitmise keskuses.
+Kasutage [Exchange Online'i kaitseteenus](https://go.microsoft.com/fwlink/?linkid=2071067) häälestamiseks EOP-d, valides kolme juurutamisstsenaariumi seast (kohapealsed postkastid, hübriidpostkastid ja pilvepostkastid või kõik pilvepostkastid), mis sobivad teie ettevõttega. Juhendis antakse teavet ja ressursse EOP häälestamiseks ja kasutaja litsentside läbivaatamiseks, õiguste määramiseks Microsoft 365 halduskeskus-s ning ettevõtte ründevara- ja rämpspostitõrjepoliitikate konfigureerimiseks turbe- & vastavuskeskuses.

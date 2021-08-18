@@ -1,5 +1,5 @@
 ---
-title: Kausta loomine rakenduses Outlook.com
+title: Kausta loomine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 8b1d182f350165ae025d198f74ed69b0cd734877
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2df6749cac63e1f2dfbc0caacd5872abf31eadedb7819efaa2d4a05be56f8e4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111972"
 ---
-# <a name="create-a-folder-in-outlookcom"></a>Kausta loomine rakenduses Outlook.com
+# <a name="create-a-folder-in-outlookcom"></a>Kausta loomine Outlook.com-is
 
-1. Valige paani kausta allservas nupp **Uus kaust**. Nupu **Uus kaust** kuvamiseks peate võib-olla paanil Kaustaloend allapoole kerima.
-2. Sisestage tekstiväljale kausta nimi ja vajutage sisestusklahvi (ENTER).
+1. Valige kaustapaani allservas **Uus kaust**. Võimalik, et nupu Uus kaust kuvamiseks peate kaustapaanil **kerima allapoole.**
+2. Sisestage tekstiväljale kausta nimi ja vajutage sisestusklahvi (Enter).
 
-Lisateavet leiate teemast [kausta loomine rakenduses Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate teemast [Kausta loomine Outlook.com-is.](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)

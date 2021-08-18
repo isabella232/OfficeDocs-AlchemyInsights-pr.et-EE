@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004258"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315580"
 ---
 # <a name="download-usage-data"></a>Kasutusandmete allalaadimine
 
@@ -26,8 +26,7 @@ Olete valinud Azure'i ettevõttelepinguga seotud tellimuse.
 
 Kasutusandmete kuvamiseks ja allalaadimiseks Enterprise Azure'i (EA) kliendina tehke järgmist.
 
-> [!NOTE]
-> Peate olema ettevõtte administraator, konto omanik või osakonna administraator, kus vaatetasude poliitika on lubatud. 
+**Märkus.** Peate olema ettevõtte administraator, konto omanik või osakonna administraator, kus vaatetasude poliitika on lubatud. 
 
 1. Logige Sisse Azure'i portaali ja otsige kulusid **haldus + arveldamine**.
 2. Valige arveldusprofiil ja klõpsake nuppu **Kasutus + tasud.**

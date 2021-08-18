@@ -1,5 +1,5 @@
 ---
-title: Parooli muutmine Outlook.com
+title: Parooli muutmine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452296"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112188"
 ---
 # <a name="change-your-password"></a>Parooli muutmine
 
-Teie Outlook.com parool on sama, mis teie Microsofti konto parool.
+Teie Outlook.com-i parool on sama mis teie Microsofti konto parool.
   
-Parooli muutmiseks avage [Microsofti konto Turve](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) ja valige **parooli turvalisus**.
+Parooli muutmiseks avage Microsofti konto [turve ja valige](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) **Paroolturve**.
   
-Kui olete oma parooli unustanud, avage leht [konto taastamine](https://go.microsoft.com/fwlink/p/?linkid=841909) .
+Kui olete parooli unustanud, avage leht [Konto taastamine.](https://go.microsoft.com/fwlink/p/?linkid=841909)
   
-Lisateavet leiate teemast [parooli muutmine rakenduses Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisateavet leiate teemast [Parooli muutmine Outlook.com-is.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy)

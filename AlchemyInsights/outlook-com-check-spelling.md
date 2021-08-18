@@ -1,5 +1,5 @@
 ---
-title: Outlook.com õigekirja kontrollimine
+title: Õigekirja kontrollimine Outlook.com-is
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,13 +14,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 375e6836a6d13fd0489babba1778020dcdfc66e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2296ed37442e9c438dd5fcaad3d0aeccf2a56333c6576e20f97889be0478858
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112152"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Brauseri abil õigekirja kontrollimine
+# <a name="use-your-browser-to-check-spelling"></a>Brauseri kasutamine õigekirja kontrollimiseks
 
-Kuigi Outlook.com pole õigekirjakontrolli funktsiooni, kontrollivad paljud veebibrauserid automaatselt õigekirja (sh Microsoft Edge ' i, Internet Explorer 10 ja uuemad versioonid ning Firefoxi, Chrome ' i ja Safari praegused versioonid). Lisateavet õigekirja kontrollimise kohta leiate veebibrauseri suvanditest.
+Kuigi Outlook.com-il pole õigekirjakontrolli funktsiooni, kontrollib paljud veebibrauserid teie õigekirja automaatselt (Microsoft Edge, Internet Explorer 10 ja uuemad versioonid ning Firefoxi, Chrome'i ja Safari praegused versioonid). Kontrollige oma veebibrauseri suvandeid, et saada lisateavet õigekirjakontrolli kohta.

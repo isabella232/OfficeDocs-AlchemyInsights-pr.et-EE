@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499030"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896927"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Ostu sooritamine Microsoft 365
 
@@ -30,7 +30,7 @@ Saate osta Microsoft 365 tellimuse halduskeskuses.
 - Täiendavate litsentside ostmiseks avage leht **Toodete** \> **[arveldamine.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Valige tellimus, mida soovite muuta, ja seejärel valige **Osta litsentse**.\
 **VAADAKE videot,** mis näitab, kuidas seda teha. [Uute litsentside ostmine](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Lisateavet leiate teemast [Litsentside ostmine või eemaldamine.](/microsoft-365/commerce/licenses/buy-licenses)
+Lisateavet leiate teemast [Litsentside ostmine või eemaldamine.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Tõrkeotsing**
 
@@ -38,5 +38,5 @@ Kui lehe laadimisega on probleeme, proovige avada veebileht mõne teise brauseri
 
 **Lisaressursid**
   
-- [Litsentside määramine Microsoft 365 ettevõtetele](/microsoft-365/admin/add-users/add-users)
-- [Ärirakenduse Microsoft 365 tühistamine](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Litsentside määramine Microsoft 365 ettevõtetele](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Ärirakenduse Microsoft 365 tühistamine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
