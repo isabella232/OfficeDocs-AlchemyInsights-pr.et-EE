@@ -1,5 +1,5 @@
 ---
-title: 723 e-posti pseudonüümi loomine kasutaja jaoks
+title: 723 Meilipseudonüümi muutmine kasutaja esmaseks meilisõnumiks
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 497eae2b73aef78d6e6782f4302e5c30b173139b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d63112808ceaf2cfa66006ca7d734a78831a8593242af0a9e5ad86787e67cf1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114888"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>E-posti pseudonüümi muutmine kasutaja peamiseks aadressiks
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Meilipseudonüümi muutmine kasutaja esmaseks aadressiks
 
-Juhised leiate teemast [kasutajale teise meiliaadressi lisamine](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user).
+Juhised leiate teemast [Kasutaja jaoks uue meilipseudonüümi lisamine.](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
 
-**Märkus**: kui teie ettevõte on hübriid-Re žiimis, peate muutma oma kohapealses Exchange ' i ettevõttes peamist meiliaadressi. Lisateavet leiate teemast postkasti meiliaadresside [lisamine või eemaldamine](https://technet.microsoft.com/library/bb123794.aspx).
+**Märkus.** Kui teie ettevõte on hübriidrežiimis, peate muutma oma asutuse asutuse põhimeiliaadressi Exchange. Lisateavet leiate teemast [Postkasti meiliaadresside lisamine või eemaldamine.](https://technet.microsoft.com/library/bb123794.aspx)

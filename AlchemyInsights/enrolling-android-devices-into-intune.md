@@ -1,5 +1,5 @@
 ---
-title: Androidi seadmete registreerimine Intune
+title: Androidi seadmete registreerimine Intune'i
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090128"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Androidi seadmete registreerimine Intune
+# <a name="enrolling-android-devices-into-intune"></a>Androidi seadmete registreerimine Intune'i
 
-Kui otsite kasutajate migreerimist Androidi seadme administraatorilt Android Enterprise ' i, vaadake üle: [Androidi seadmete eemaldamine seadme administraatorilt, et töötada profiili haldus](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+Kui soovite migreerida kasutajaid Androidi seadme administraatori registreerumiselt Android Enterprise'i, lugege läbi: Androidi seadmete teisaldamine seadme [administraatorilt profiilihaldusele.](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)
 
 Intune toetab järgmiste Androidi seadmete registreerimist.  
 
-- [Samsung Knox, sebra, seadme administraator](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [Android Enterprise Work Profile](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Android Enterprise pühendatud](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [Android Enterprise on täielikult hallatud](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Samsung Knox, Zebra, Seadme administraator](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Android Enterprise'i tööprofiil](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise'i sihtotstarbeline](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise'i täielikult hallatav](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Enne Androidi seadmete jaoks liitumise häälestamist [vaadake eeltingimused üle](https://docs.microsoft.com/intune/enrollment/android-enroll).  
+Enne Registreerumist Androidi seadmetes vaadake üle [eeltingimused.](https://docs.microsoft.com/intune/enrollment/android-enroll)  
 
-Lisateavet seadmete registreerimise kohta üldiselt ja mõne Androidi registreerimise tõrgete kohta leiate teemast [seadme liitumise tõrkeotsing Microsoft Intune ' is](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
+Lisateavet seadme registreerimise tõrkeotsingu kohta üldiselt ja androidi registreerumise tõrgete kohta leiate teemast Seadme registreerimise tõrkeotsing Microsoft Intune [.](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
-Saate kasutada ka Intune tõrkeotsingujuhiseid kirjeldavat sisu, mis aitab tuvastada kasutajate probleeme.
+Samuti saate kasutada sisu, mis kirjeldab intune'i tõrkeotsingu saelehte, et aidata tuvastada kasutajate registreerumisprobleeme.

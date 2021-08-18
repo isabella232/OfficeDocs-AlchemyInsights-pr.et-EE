@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7746e44a0ee5a4442051900985aab339b09652f08e412b02a02429c93cc7c107
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d6be4331967ed9ae362f5da85856b03cfa40b319
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895175"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317804"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Uurige, kes on postkastis edasisaatmise häälestanud ja kuidas
 
@@ -26,10 +26,9 @@ Kui väline edasisuunamine on postkastis määratud, auditeeritakse tegevust **c
 
 1. Tehke ühte järgmistest toimingutest.
    - Avage Microsoft 365 vastavuskeskus lahenduste audit <https://compliance.microsoft.com>  \> . Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://compliance.microsoft.com/auditlogsearch> .
-   - Avage Microsoft 365 Defender portaalis <https://security.microsoft.com> **Audit**. Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://security.microsoft.com/auditlogsearch> .
+   - Avage Microsoft 365 Defender , valige <https://security.microsoft.com> **Auditeeri**. Või otse lehele Auditeeri **minemiseks** kasutage funktsiooni <https://security.microsoft.com/auditlogsearch> .
 
-   > [!NOTE]
-   > Kui näete teadet, et peate auditeerimise sisse lülitama, lülitage see kohe sisse. Kui see funktsioon pole sisse lülitatud, ei saa otsingutulemid eelmistest kuupäevadest andmeid tõmmata.
+   **Märkus.** Kui näete teadet, et peate auditeerimise sisse lülitama, lülitage see kohe sisse. Kui see funktsioon pole sisse lülitatud, ei saa otsingutulemid eelmistest kuupäevadest andmeid tõmmata.
 
 2. Kontrollige **lehel** Audit, kas vahekaart **Otsing** on valitud, ja seejärel konfigureerige järgmised sätted.
    - Valige väljadele Algus ja Lõpp **kuupäeva-/kellaajavahemik.** 
