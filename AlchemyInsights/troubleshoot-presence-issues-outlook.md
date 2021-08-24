@@ -1,13 +1,29 @@
 ---
-pealkiri: "Tõrkeotsing võrgusolekuprobleemidele Outlook' ms.author: pebaum author: pebaum manager: scotv ms.date: 2021/04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (
-- 9257
-- 9003349
+title: Võrgusolekuteabe probleemide tõrkeotsing Outlookis
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 04/8/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9257"
+- "9003349"
+ms.openlocfilehash: 171dfee2afd510d97eccd1e5c8bd8c0f29c65f22
+ms.sourcegitcommit: ae21df57f58ef3fe8036304f3db3261430b95741
+ms.translationtype: HT
+ms.contentlocale: et-EE
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58399437"
 ---
+# <a name="troubleshoot-presence-issues-in-outlook"></a>Võrgusolekuteabe probleemide tõrkeotsing Outlookis
 
-# <a name="troubleshoot-presence-issues-in-outlook"></a>Võrgusolekuprobleemide tõrkeotsing Outlook
+Outlooki kasutajate võrgusolekurežiimi probleemide diagnoosimiseks ja parandamiseks laadige alla ja käivitage Microsofti tugi- ja taasteteenuste abiline > [Teamsi võrgusolekuteabe stsenaarium](https://aka.ms/SaRA-TeamsPresenceScenario).
 
-Kasutaja võrgusolekuolekuga seotud probleemide diagnoosimiseks ja lahendamiseks Outlook alla laadida ja käivitada Microsoft tugi- ja taasteteenuste abiline > [Teams olekustsenaarium.](https://aka.ms/SaRA-TeamsPresenceScenario)
+Outlooki võrgusolekuteabega seotud probleemi käsitsi tõrkeotsinguks järgige teemas [Outlooki kasutaja võrgusolekuteabe probleemid](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook) välja toodud juhiseid.
 
-Võrgusolekuteabega seotud probleemi käsitsi tõrkeotsinguks Outlook järgige teemas Kasutaja olekuga seotud [probleemid](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)Outlook.
-
-Kui võrgusolekuteavet ei värskendata Teams, lugege teemat Teie tegelik [võrgusolekuolek ei kajastu Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).
+Kui Teamsis võrgusolekurežiimi ei värskendata, vaadake teemat [Teamsis ei kajastu teie tegelik võrgusolekurežiim](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).

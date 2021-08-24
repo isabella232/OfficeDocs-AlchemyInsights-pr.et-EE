@@ -1,6 +1,6 @@
 ---
-title: Azure'i teabekaitse (AIP) sildid
-ms.author: pebuam
+title: Azure’i teabekaitse (AIP) sildid
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
-ms.translationtype: MT
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "52124857"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451738"
 ---
-# <a name="azure-information-protection-aip-labels"></a>Azure'i teabekaitse (AIP) sildid
+# <a name="azure-information-protection-aip-labels"></a>Azure’i teabekaitse (AIP) sildid
 
-Azure'i portaalis ja AIP-klientrakenduses on Azure'i teabekaitse (AIP) sildihaldus aegunud alates 31. märtsist 2021. Lisateavet leiate teemast [Azure'i teabekaitse (AIP) sildistamine, liigitus ja kaitse.](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Azure'i portaalis ja AIP-klientrakenduses on Azure'i teabekaitse (AIP) sildihaldus alates 31. märtsist 2021 aegunud. Lisateavet leiate teemast [Azure'i teabekaitse (AIP) siltide rakendamine, liigitus ja kaitse](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection) (inglise keeles).
 
-Sildi loomiseks ja haldamiseks kasutage selle asemel ühtseid sildistusvõimalusi Microsoft 365. 
+Kasutage sildi loomiseks ja haldamiseks selle asemel Microsoft 365 ühtseid siltide rakendamise funktsioone. 
 
-Lisateavet leiate teemast
+Vaadake üksikasjalikku teavet järgmistest teemadest.
 
-[Tundlikkussiltide haldamine Office rakendustes](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+[Delikaatse teabe siltide haldamine Office rakendustes](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 
-[Teave tundlikkussiltide kohta](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+[Teave delikaatse teabe siltide kohta](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Teadaolevate AIP-funktsioonidega seotud probleemide loendi leiate teemast [Teadaolevad probleemid – Azure'i teabekaitse](https://docs.microsoft.com/azure/information-protection/known-issues).
+Teadaolevate AIP-funktsioonidega seotud probleemide loendi leiate teemast [Azure'i teabekaitse teadaolevad probleemid](https://docs.microsoft.com/azure/information-protection/known-issues) (inglise keeles).
