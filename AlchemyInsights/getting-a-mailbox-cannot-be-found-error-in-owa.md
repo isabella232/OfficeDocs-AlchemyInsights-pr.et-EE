@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056486"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522350"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Kas teie postkastis ei leitud Outlooki veebirakendus?
 
-Kui kasutate Outlooki veebirakendus postkasti ei leitud tõrke  tõttu, pole kontol, millega Outlooki veebirakendus-ga ühenduse loote, Exchange Online litsentsi ja seetõttu pole kontoga seotud ühtegi postkasti. Teie administraator saab teie kontole litsentsi määrata, järgides järgmisi juhiseid.
+Kui kuvatakse tõrketeade Outlook Web App (OWA): "Kasutaja postkasti ei *leitud.",* tähendab see, et sisselogitud kasutajal pole Exchange Onlince'i litsentsi ja sp-i, selle kasutajakontoga ei seostata Exchange Online-postkasti. 
 
-1. Avage [Microsoft 365 halduskeskus](https://portal.office.com/adminportal/home#/homepage) ja minge jaotises  Kasutajad jaotisse Aktiivsed kasutajad ja valige kasutaja, kes seda tõrget näeb. 
+Ettevõtte administraator saab kasutajale Exchange litsentsi määrata Microsoft 365 halduskeskus järgmiselt.
 
-2. Avage avalehel jaotis Litsentsid  ja rakendused, valige sobiv  väärtus Asukoht ja määrake litsents, mis sisaldab Exchange Online (litsentsi üksikasjade määramiseks laiendage litsentsi). Kui olete lõpetanud, klõpsake nuppu **Salvesta muudatused.**
-
-Mõnel juhul, kui litsents on juba kasutajakontole määratud, aitab litsentsi eemaldamine ja ümbermääramine probleemi lahendada ja seda süsteemis õigesti ette ettevalmistamise abil ette näha. 
-
-- Kontrollige, kas teie M365 Exchange Online (ja muud, kui teil on) tellimused on praegused ja pole hiljuti aegunud.
-
-Kui olete veendunud, et teie tellimus pole aegunud ja kasutajakontole on määratud kehtiv litsents, võib tellimuse ettevalmistamine võtta kuni 24 tundi, nii et peate võib-olla ootama, kuni probleem laheneks. Lisateavet leiate teemast [Litsentside määramine ja haldamine.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Avage [Aktiivsed kasutajad](https://portal.office.com/adminportal/home#/users), valige kasutaja ja valige **Tootelitsentside**  >  **redigeerimine**. 
+1. Määrake nõutav asukoht.
+1. Määrake litsents, mis Exchange Online hooldusplaaniga.
