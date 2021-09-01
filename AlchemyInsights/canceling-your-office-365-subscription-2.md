@@ -1,5 +1,5 @@
 ---
-title: Kas tühistate Oma Microsoft 365 tellimuse?
+title: Kas tühistate Microsoft 365 tellimuse?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,15 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 6ede93972410f77addda2a3ce40ff564284a5b53
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 697cd622573ae5536363a9bfefa63dfc14b4f2d0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324088"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842618"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Kas tühistate Oma Microsoft 365 tellimuse?
+# <a name="canceling-your-microsoft-365-subscription"></a>Kas tühistate Microsoft 365 tellimuse?
 
 Meil on kahju, et läks!
   
