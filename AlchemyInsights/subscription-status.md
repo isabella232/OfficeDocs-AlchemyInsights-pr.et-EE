@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: dc7669ddd868f49e510e99ad5e37252c5d2305208b938dacf65fd92a1d9fb137
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 6a9cfec820a25167262f9d2c4cf0db948a6a695b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009100"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842690"
 ---
 # <a name="subscription-status"></a>Tellimuse olek
 
@@ -31,7 +32,7 @@ Tellimuse olek, aegumiskuupäev ja litsentside arv leiate lehe **Teie** tooted M
 4. Lehel **Teie** tooted kuvatakse ka järgmine teave.
     - Kasutajatele määratud litsentside arv kuvatakse veerus **Määratud litsentsid.**
     - Tellimuses sisaldunud litsentside koguarv kuvatakse veerus **Ostetud kogus.**
-    - Aegumis- või pikendamiskuupäev **veerus Tellimuse** olek.
+    - Aegumis- või pikendamiskuupäev **veerus Tellimuse olek.**
     - Iga tellimuse eest maksmiseks kasutatav makseviis kuvatakse veerus **Tasustatud.**
     - Iga tellimusega seotud arvelduskonto kuvatakse veerus **Arvelduskonto.**
 5. Veergude lisamiseks või eemaldamiseks valige **Vali veerud**.
