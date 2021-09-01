@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "86"
 - "1400001"
-ms.openlocfilehash: 5745ca1bde0722b4a758c239e06a838b2c5e942ac0e8a1f4e953fcccb978b41e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 08/10/2021
+ms.openlocfilehash: e7c61ff9bbaee6d0da56ddd155686f4fffe69d7a
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119896"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843914"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Kas tühistate Microsoft 365 tellimuse?
 
@@ -30,4 +30,4 @@ Teie ettevõtte andmete põhjal usume, et kõigil teie praegustel tellimustel on
   
 **Tagasimakse:** Iga prorated credit tagastatakse teile järgmise arveldustsükli jooksul.
 
-Lisateavet leiate teemast [Tellimuse tühistamine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Lisateavet leiate teemast [Tellimuse tühistamine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

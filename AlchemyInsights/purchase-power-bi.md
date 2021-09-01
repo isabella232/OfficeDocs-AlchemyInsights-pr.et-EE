@@ -3,7 +3,6 @@ title: Power BI ostmine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,18 +14,19 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 19603dfe2f8a141dd2aa0e7dffebfb4d5e3e4149
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323634"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844922"
 ---
 # <a name="purchase-power-bi"></a>Power BI ostmine
 
 Power BI-d saab osta **Microsoft 365 halduskeskus.**
 
-1. Avage leht **> Teenuste [ostmine.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+1. Avage leht **> [Teenuste](https://go.microsoft.com/fwlink/p/?linkid=868433)** ostmine.
 2. Otsinguvälja abil saate otsida sõna "Power BI".
 3. Valige Power BI leping, mida soovite osta, valige **Üksikasjad** ja seejärel valige **Osta**.
 4. Sisestage vajalik litsentside arv ja valige, kas tasuda iga kuu või kogu aasta eest. Valige, kas soovite litsentsid automaatselt määrata kõigile, kellel praegu litsentsi pole. Seejärel valige **Check out now (Kontrolli kohe).**
