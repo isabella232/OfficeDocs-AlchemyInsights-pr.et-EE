@@ -1,26 +1,29 @@
 ---
-title: Halduskeskusest puuduv või kaob litsents
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Litsents puudub või kaob halduskeskusest
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707713"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844526"
 ---
-# <a name="license-missing-or-disappears-from-the-admin-center"></a>Halduskeskusest puuduv või kaob litsents
+# <a name="license-missing-or-disappears-from-the-admin-center"></a>Litsents puudub või kaob halduskeskusest
 
+Kui teie litsentsid kaovad, veenduge, et teie tellimus poleks aegunud. Aegumiskuupäeva vaatamiseks avage **Arveldus** > [Teie tooted](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-Kui teie litsentsid on kadunud, veenduge, et teie tellimus pole aegunud. Aegumiskuupäeva kontrollimiseks **jaotisesse**Toodete arveldamine   >   **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
-
-Sõltuvalt vaatest kuvatakse aegumiskuupäev paremas servas asuvas veerus **Kuupäev** või tellimuse üksikasjade **jaotises Arveldamine** valiku **Aegumine**kõrval.
+Aegumiskuupäev kuvatakse veerus **Tellimuse olek**.
