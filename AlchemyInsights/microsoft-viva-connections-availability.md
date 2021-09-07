@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva töösuhtluskeskkond Kättesaadavus
+title: Viva Connectionsi töölauarakenduse häälestamine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000460"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923694"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva töösuhtluskeskkond Kättesaadavus
+# <a name="set-up-the-viva-connections-desktop-app"></a>Viva Connectionsi töölauarakenduse häälestamine
 
-Microsoft Viva töösuhtluskeskkond on saadaval töölaua jaoks 2021. aasta esimesel poolel ja mobiilirakenduse jaoks 2021. aasta suvel. Lisafunktsioonid kuvatakse 2022. aasta jooksul.
+Rakenduse Viva Connections for Teams Desktop jaoks on kaks peamist nõudeid. 
 
-Lisateabe saamiseks vaadake, kuidas [Microsoft Viva töösuhtluskeskkond aitab kõigil kursis püsida.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
+- Rakenduseriba SharePoint peab olema välja lülitatud ja rentniku jaoks lubatud, et saada Viva Connectionsi täit kasu. On tungivalt soovitatav kasutada kodusaidi maandumise kogemusena Teams. 
+- Viva Connectionsi esimese versiooni saab ette ettevalmistamiseks kasutada Microsofti allalaadimiskeskust PowerShelli abil (kasutage [PowerShelli uusimat SharePoint versiooni).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) Seejärel laaditakse Viva Connections üles rakendusena Teams halduskeskuses. PowerShelli skript on saadaval alates 31. märtsist 2021. Laadige Viva Connectionsi töölaud alla ametlikust [Microsofti allalaadimiskeskusest.](https://www.microsoft.com/download/confirmation.aspx?id=102888) 
+
+Lisateavet leiate teemast Viva [ühenduste lisamine](https://docs.microsoft.com/SharePoint/viva-connections) Microsoft Teams ja [PowerShelli Microsoft Teams ülevaade](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
