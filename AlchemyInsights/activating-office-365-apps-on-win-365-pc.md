@@ -1,5 +1,5 @@
 ---
-title: 365 Office 365 rakenduste Windows aktiveerimine
+title: Office 365 rakenduste aktiveerimine Windows 365 arvutites
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792716"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923514"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>365 Office 365 rakenduste Windows aktiveerimine
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Office 365 rakenduste aktiveerimine Windows 365 arvutites
 
-Windows 365 arvutipilti sisaldavad installitud koopiaid Office 365 rakendustest, mis aktiveeritakse mis tahes Office esmakordsel avamisel.
+**Märkus.** See probleem EI kehti kasutajatele, kellel on Windows 365 Enterprise’i litsentsid.
 
-Aktiveerimisprotsessi ajal võib Windows 365 Businessi litsentsitud kasutajal järgmine tõrketeade.
+Windows 365 arvuti kujutised sisaldavad installitud koopiaid Office 365 rakendustest, mis aktiveeritakse mis tahes Office’i esmakordsel avamisel.
 
-"Kontoga seotud probleem
+Aktiveerimisprotsessi ajal võidakse Windows 365 Businessi litsentsitud kasutajale kuvada järgmine tõrketeade.
 
-Teie kontolt leitud tooteid ei saa kasutada office'i aktiveerimiseks arvuti ühisstsenaariumide korral Tõrkekood 0x80004005"
+„Kontoga seotud probleem
 
-Probleemi lahendamiseks paluge mõjutatud kasutajal teha järgmised toimingud. 
+Teie kontolt leitud tooteid ei saa kasutada Office’i aktiveerimiseks ühiskasutatavates arvutites. Tõrkekood 0x80004005“
 
-1. Desinstallige olemasolevad Office pilvearvutist.
-1. Avage Office.com ja valige suvand Installi Office.
+Selle probleemi lahendamiseks paluge mõjutatud kasutajal teha järgmised toimingud. 
 
-    Office aktiveerimine peaks siis lõpule viidud olema.
+1. Desinstallida Office’i rakendused pilvteenuse arvutist.
+1. Avada Office.com ja valida suvand Installi Office.
+
+    Office’i aktiveerimine peaks siis õnnestuma.
