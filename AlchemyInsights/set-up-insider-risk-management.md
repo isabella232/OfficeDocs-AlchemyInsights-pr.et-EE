@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060852"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446651"
 ---
 # <a name="set-up-insider-risk-management"></a>Siseriskide halduse häälestamine
 
-Siseriskide haldusele juurdepääsuks ja selle kasutamiseks **peab** teie organisatsioonil olema üks järgmistest tellimustest.
+Siseriskide haldusele juurdepääsuks ja selle kasutamiseks peab teie organisatsioonil olema üks järgmistest tellimustest.
 
-- **Microsoft 365 E5** tellimus.
+- Microsoft 365 G5 tellimus (tasuline või prooviversioon)
+- Microsoft 365 G3 tellimus + Microsoft 365 G5 nõuetele vastavuse lisandmoodul
+- Microsoft 365 G3 tellimus + Microsoft 365 G5 Insideri riskijuhtimise lisandmoodul
+- Office 365 E3 + Enterprise Mobility and Security E3 + Microsoft 365 E5 Compliance lisandmoodul
 
-- **Microsoft 365 E3** tellimus koos Microsoft E5 ühilduvuse lisandmooduliga.
+Kui teil pole olemasolevat Microsoft 365 E5 plaani ja soovite proovida insideri riskijuhtimist, saate lisada Microsoft 365 olemasolevale tellimusele või registreeruda Microsoft 365 Enterprise E5 prooviversiooni.
 
-Kui teil pole olemasolevat **Microsoft 365 E5** tellimust ja soovite kasutada siseriskide haldus, saate lisada Microsoft 365 olemasolevale tellimusele või registreeruda Microsoft 365 Enterprise E5 prooviversiooni kasutajaks.
+**Näpunäited:**
 
-> [!NÄPUNÄITED]
-- > Malli Andmelekked kasutamisel: veenduge, et teil oleks konfigureeritud vähemalt üks DLP-poliitika.
-- > Administraator ei näe teateid: veenduge, et kummalegi järgmistest rühmadest oleks määratud kasutaja:
-    - >**Siseriskide halduse analüüsijad**
-    - >**Siseriskide halduse uurijad**
+- Veenduge, et malli Andmelekib abil oleks konfigureeritud vähemalt üks andmekao vältimise (DLP) poliitika. Siiski on olemas uus käivitussuvand, mis ei nõua DLP-poliitika konfigureerimist.
 
-Lisateavet selle kohta, kuidas siseriskide poliitikad saavad teil aidata oma organisatsioone riske hallata, vt teemast [Microsoft 365 siseriskide haldamine](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Üldadministraatoritel pole vaikimisi juurdepääsu Insideri riskijuhtimise portaalile. Neile tuleb määrata üks Insideri riskijuhtimise rollidest.
+
+- Kui administraator ei näe teatisi, veenduge, et kasutaja oleks määratud ühte järgmistest rühmadest.
+
+    Siseriskide halduse analüüsijad
+
+    Siseriskide halduse uurijad
+
+Lisateavet selle kohta, kuidas siseringiriskiga seotud politseid aitavad teil riske oma asutuses hallata, leiate teemast [Insideri riskijuhtimise](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management)Microsoft 365 .
