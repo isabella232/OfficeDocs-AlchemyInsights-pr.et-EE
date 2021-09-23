@@ -1,5 +1,5 @@
 ---
-title: Microsoft Streami (klassikaline) migreerimine uude Microsoft Streami
+title: Migreerimine klassikaline Microsoft Stream uude Microsoft Streami
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097374"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482664"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream on ettevõtte videoteenus, kus teie asutuse inimesed saavad videoid turvaliselt üles laadida, vaadata ja ühiskasutusse anda. Saate jagada tundide, koosolekute, esitluste, koolitusseansside või muude videote salvestisi, mis on abiks teie meeskonna koostööl.  
+Microsoft Streami uus visioon annab kasutajatele õiguse luua, jagada, avastada ja hallata videot sa nagu mis tahes muud faili. Lisateavet leiate järgmistest teemadest.
 
-- [Uus Microsoft Stream](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (klassikaline)](https://docs.microsoft.com/stream/overview)
-- [Microsoft Streami (klassikaline) migreerimine uude Microsoft Streami](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (SharePoint), Microsoft Streami uus versioon](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [Ülevaade migreerimisest klassikaline Microsoft Stream Streami (sisseehitatud SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
