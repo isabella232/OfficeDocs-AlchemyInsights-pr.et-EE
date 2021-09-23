@@ -11,24 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 1e9d9217541179fbf829f0cc9ec9298ea99eeb15
-ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
+ms.openlocfilehash: 83f617c64c8870fab4abf2d6367a4e74766af8b4
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: et-EE
 ms.lasthandoff: 09/22/2021
-ms.locfileid: "59475393"
+ms.locfileid: "59481766"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Puuduvate või kustutatud saidikogumite taastamine
 
-Lisateavet puuduvate või kustutatud saidikogumite taastamise kohta leiate järgmistest artiklitest SharePoint.
+Lisateavet puuduvate või kustutatud saidikogumite taastamise kohta SharePoint kustutatud [saitide taastamine.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection) 
 
-[Kustutatud saitide taastamine.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection) Kui te saiti ei leia, lugege [teemat Auditilogist otsimine vastavuskeskuses.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
-
-
-[Taastamine SPO PowerShelli mooduli abil.](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
-
-Kui te ei leia saiti, mida soovite võib-olla otsida [auditilogist Microsoft 365 &amp; Turbenõuete keskus](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
-
-**Märkus.** "Modern" meeskonnatöö saidid pole klassikalises **administraatori** kasutajaliideses SharePoint nähtavad. Nüüdisaegsete saitide loendile pääsete juurde Uue [SharePointi halduskeskuse kaudu.](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)
+Kui te saiti ei leia, lugege [teemat Auditilogist otsimine vastavuskeskuses.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 
 

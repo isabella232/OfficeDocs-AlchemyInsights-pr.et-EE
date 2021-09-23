@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105564"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481786"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Sisuotsingu tõrgete tõrkeotsing
 
 Kas teil on probleeme sisuotsinguga või saate otsingutulemite eksportimisel tõrkeid?
+Kas teile kuvatakse näiteks otsingute käivitamisel järgmine tekst?
 
-Näiteks kas otsingute käivitamisel kuvatakse järgmine tekst?
-
-- CS008 või CS012 tõrked
+- CS007, CS008 või CS012 tõrked
 
 - Serveri hõivatud/ajalõpu tõrked
 
 - Ilmnes rakenduse tõrge
 
-Või kui otsite või ekspordite tulemeid suurest arvust postkastidest (üle 100 000 postkasti), kas saate eksporditõrkeid?
+Või saate eksporditõrkeid, kui otsite või ekspordite tulemeid suurest arvust (üle 100 000) postkastidest?
 
-Seda tüüpi tõrgete korral saate uuesti otsida nurjunud sisuasukohti. Lisateavet  [leiate sellest](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) artiklist.
+Nende tõrgete korral saate uuesti otsida nurjunud sisuasukohti või värskendada otsingut, vähendades otsingupäringu keerukust. Näiteks võib metakaardiotsing tagastada süsteemi töötlemiseks liiga palju tulemeid, mis põhjustab TÕRKE CS007.   
 
-Kui ekspordite rohkem kui 100 K postkasti, peate tulemite eksportimiseks kasutama järgmist PowerShelli: tulemite eksportimine rohkem kui [100K postkastidest.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)
+Lisateavet leiate teemast [Sisuotsingu uuesti](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) määramine sisuasukoha tõrke lahendamiseks või [Levinumate e-juurdluse probleemide uurimiseks, tõrkeotsinguks ja lahendamiseks.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+
+Kui ekspordite rohkem kui 100 K postkasti, peate eksporditulemid alla laadima. Lisateavet leiate teemast [Sisu otsingutulemite eksportimine.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
